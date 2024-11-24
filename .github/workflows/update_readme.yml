@@ -9,7 +9,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Fetch and process JSON
         run: |
           curl -s https://petition.parliament.uk/petitions/700143.json | jq '.data.attributes.signatures_by_constituency | sort_by(.name)' > constituencies.json
