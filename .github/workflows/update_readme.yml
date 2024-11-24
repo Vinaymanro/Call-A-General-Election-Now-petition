@@ -30,10 +30,14 @@ jobs:
           # Calculate total signatures by summing the signature_count from each constituency
           TOTAL_SIGNATURES=$(jq '[.signatures_by_constituency[].signature_count] | add' petition_data.json)
 
+          # Get current UTC time for last updated
+          LAST_UPDATED=$(date -u '+%Y-%m-%d %H:%M:%S UTC')
+
           # Write to README.md
           echo "# $PETITION_NAME" > README.md
           echo "URL: [$PETITION_URL]($PETITION_URL)" >> README.md
           echo "Total Signatures: $TOTAL_SIGNATURES" >> README.md
+          echo "Last Updated: $LAST_UPDATED" >> README.md
           echo "" >> README.md
           echo "| Constituency | MP | Signatures |" >> README.md
           echo "|--------------|----|-----------:|" >> README.md
