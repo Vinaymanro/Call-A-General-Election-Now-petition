@@ -35,12 +35,18 @@ jobs:
 
           # Write to README.md
           echo "# $PETITION_NAME" > README.md
-          echo "URL: [$PETITION_URL]($PETITION_URL)" >> README.md
-          echo "Total Signatures: $TOTAL_SIGNATURES" >> README.md
-          echo "Last Updated: $LAST_UPDATED" >> README.md
-          echo "" >> README.md
-          echo "| Constituency | MP | Signatures |" >> README.md
-          echo "|--------------|----|-----------:|" >> README.md
+          echo "" >> README.md  # Blank line for separation
+
+          # Create a table for URL, total signatures, and last updated
+          echo "| Detail            | Information                                      |" >> README.md
+          echo "|-------------------|--------------------------------------------------|" >> README.md
+          echo "| URL               | [$PETITION_URL]($PETITION_URL)                  |" >> README.md
+          echo "| Total Signatures   | $TOTAL_SIGNATURES                                |" >> README.md
+          echo "| Last Updated      | $LAST_UPDATED                                    |" >> README.md
+          echo "" >> README.md  # Blank line for separation
+
+          echo "| Constituency      | MP             | Signatures |" >> README.md
+          echo "|-------------------|----------------|-----------:|" >> README.md
 
           # Append constituency data to README.md
           jq -r '.signatures_by_constituency[] | "| \(.name) | \(.mp) | \(.signature_count) |"' petition_data.json >> README.md
