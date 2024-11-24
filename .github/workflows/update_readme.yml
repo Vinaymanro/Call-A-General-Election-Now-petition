@@ -18,11 +18,13 @@ jobs:
           echo "# Constituencies by Name" > README.md
           echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> README.md
           echo "" >> README.md
-          echo "\`\`\`json" >> README.md
-          cat constituencies.json >> README.md
-          echo "\`\`\`" >> README.md
+          echo "| Constituency | MP | Signatures |" >> README.md
+          echo "|--------------|----|-----------:|" >> README.md
+          jq -r '.[] | "| \(.name) | \(.mp) | \(.signature_count) |"' constituencies.json >> README.md
       - name: Commit changes
         run: |
+          git config --local user.email "${{ github.actor }}@users.noreply.github.com"
+          git config --local user.name "${{ github.actor }}"
           git add README.md
-          git commit -m "Update README with constituencies sorted by name" || exit 0
+          git commit -m "Update README with latest constituency data" || exit 0
           git push
