@@ -1,0 +1,28 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Run hourly
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch and process JSON
+        run: |
+          curl -s https://petition.parliament.uk/petitions/700143.json | jq '.data.attributes.signatures_by_constituency | sort_by(.signature_count) | reverse | .[0:10]' > top_constituencies.json
+      - name: Update README
+        run: |
+          echo "## Top 10 Constituencies by Signatures" > README.md
+          echo "\`\`\`json" >> README.md
+          cat top_constituencies.json >> README.md
+          echo "\`\`\`" >> README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update README with latest constituency data" || exit 0
+          git push
