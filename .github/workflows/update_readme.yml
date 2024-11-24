@@ -17,15 +17,18 @@ jobs:
 
       - name: Fetch and process JSON
         run: |
+          # Fetch petition data and extract attributes
           curl -s https://petition.parliament.uk/petitions/700143.json | \
           jq '.data.attributes' > petition_data.json
 
-      - name: Update README
+      - name: Calculate total signatures and update README
         run: |
           # Extract petition details
           PETITION_NAME=$(jq -r '.title' petition_data.json)
           PETITION_URL="https://petition.parliament.uk/petitions/700143"
-          TOTAL_SIGNATURES=$(jq -r '.signatures_count' petition_data.json)
+
+          # Calculate total signatures by summing the signature_count from each constituency
+          TOTAL_SIGNATURES=$(jq '[.signatures_by_constituency[].signature_count] | add' petition_data.json)
 
           # Write to README.md
           echo "# $PETITION_NAME" > README.md
