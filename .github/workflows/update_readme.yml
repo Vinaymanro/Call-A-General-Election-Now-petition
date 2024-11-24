@@ -18,21 +18,30 @@ jobs:
       - name: Fetch and process JSON
         run: |
           curl -s https://petition.parliament.uk/petitions/700143.json | \
-          jq '.data.attributes.signatures_by_constituency | sort_by(.name)' > constituencies.json
+          jq '.data.attributes' > petition_data.json
 
       - name: Update README
         run: |
-          echo "# Constituencies by Name" > README.md
-          echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> README.md
+          # Extract petition details
+          PETITION_NAME=$(jq -r '.title' petition_data.json)
+          PETITION_URL="https://petition.parliament.uk/petitions/700143"
+          TOTAL_SIGNATURES=$(jq -r '.signatures_count' petition_data.json)
+
+          # Write to README.md
+          echo "# $PETITION_NAME" > README.md
+          echo "URL: [$PETITION_URL]($PETITION_URL)" >> README.md
+          echo "Total Signatures: $TOTAL_SIGNATURES" >> README.md
           echo "" >> README.md
           echo "| Constituency | MP | Signatures |" >> README.md
           echo "|--------------|----|-----------:|" >> README.md
-          jq -r '.[] | "| \(.name) | \(.mp) | \(.signature_count) |"' constituencies.json >> README.md
+
+          # Append constituency data to README.md
+          jq -r '.signatures_by_constituency[] | "| \(.name) | \(.mp) | \(.signature_count) |"' petition_data.json >> README.md
 
       - name: Commit changes
         run: |
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           git config --local user.name "${{ github.actor }}"
           git add README.md
-          git commit -m "Update README with latest constituency data" || echo "No changes to commit"
+          git commit -m "Update README with latest petition data" || echo "No changes to commit"
           git push
