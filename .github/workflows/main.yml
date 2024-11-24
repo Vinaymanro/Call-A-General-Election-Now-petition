@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Run hourly
+    - cron: '*/5 * * * *'  # Run every 5 minutes
   workflow_dispatch:
 
 jobs:
@@ -15,14 +15,8 @@ jobs:
           curl -s https://petition.parliament.uk/petitions/700143.json | jq '.data.attributes.signatures_by_constituency | sort_by(.signature_count) | reverse' > constituencies.json
       - name: Update README
         run: |
-          echo "## Constituencies by Signatures" > README.md
+          echo "# Constituencies by Signatures" > README.md
+          echo "Last updated: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" >> README.md
+          echo "" >> README.md
           echo "\`\`\`json" >> README.md
-          cat constituencies.json >> README.md
-          echo "\`\`\`" >> README.md
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update README with latest constituency data" || exit 0
-          git push
+          cat constituencies.json
