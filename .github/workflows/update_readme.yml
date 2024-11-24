@@ -23,8 +23,6 @@ jobs:
           echo "\`\`\`" >> README.md
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Update README with constituencies sorted by name" || exit 0
           git push
