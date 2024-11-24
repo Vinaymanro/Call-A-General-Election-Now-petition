@@ -5,14 +5,21 @@ on:
     - cron: '*/5 * * * *'  # Run every 5 minutes
   workflow_dispatch:
 
+permissions:
+  contents: write  # Allow the workflow to write to the repository
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Fetch and process JSON
         run: |
-          curl -s https://petition.parliament.uk/petitions/700143.json | jq '.data.attributes.signatures_by_constituency | sort_by(.name)' > constituencies.json
+          curl -s https://petition.parliament.uk/petitions/700143.json | \
+          jq '.data.attributes.signatures_by_constituency | sort_by(.name)' > constituencies.json
+
       - name: Update README
         run: |
           echo "# Constituencies by Name" > README.md
@@ -21,10 +28,11 @@ jobs:
           echo "| Constituency | MP | Signatures |" >> README.md
           echo "|--------------|----|-----------:|" >> README.md
           jq -r '.[] | "| \(.name) | \(.mp) | \(.signature_count) |"' constituencies.json >> README.md
+
       - name: Commit changes
         run: |
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           git config --local user.name "${{ github.actor }}"
           git add README.md
-          git commit -m "Update README with latest constituency data" || exit 0
+          git commit -m "Update README with latest constituency data" || echo "No changes to commit"
           git push
