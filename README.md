@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2919144                                |
-| Last Updated      | 2024-12-11 04:42:22 UTC                                    |
+| Total Signatures   | 2919153                                |
+| Last Updated      | 2024-12-11 05:38:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5330 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5674 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5407 |
-| Amber Valley | Linsey Farnsworth MP | 5942 |
+| Amber Valley | Linsey Farnsworth MP | 5943 |
 | Arundel and South Downs | Andrew Griffith MP | 6803 |
 | Ashfield | Lee Anderson MP | 6028 |
 | Ashford | Sojan Joseph MP | 5763 |
@@ -32,7 +32,7 @@
 | Bedford | Mohammad Yasin MP | 3150 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2641 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1682 |
-| Beverley and Holderness | Rt Hon Graham Stuart MP | 6004 |
+| Beverley and Holderness | Rt Hon Graham Stuart MP | 6005 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 5975 |
 | Bexleyheath and Crayford | Daniel Francis MP | 4937 |
 | Bicester and Woodstock | Calum Miller MP | 4548 |
@@ -61,7 +61,7 @@
 | Bootle | Peter Dowd MP | 3058 |
 | Boston and Skegness | Richard Tice MP | 6899 |
 | Bournemouth East | Tom Hayes MP | 4525 |
-| Bournemouth West | Jessica Toale MP | 4773 |
+| Bournemouth West | Jessica Toale MP | 4774 |
 | Bracknell | Peter Swallow MP | 4862 |
 | Bradford East | Imran Hussain MP | 2796 |
 | Bradford South | Judith Cummins MP | 4025 |
@@ -69,7 +69,7 @@
 | Braintree | Rt Hon James Cleverly MP | 7282 |
 | Brent East | Dawn Butler MP | 1809 |
 | Brent West | Barry Gardiner MP | 2025 |
-| Brentford and Isleworth | Ruth Cadbury MP | 2925 |
+| Brentford and Isleworth | Ruth Cadbury MP | 2926 |
 | Brentwood and Ongar | Alex Burghart MP | 7990 |
 | Bridgwater | Sir Ashley Fox MP | 5615 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6460 |
@@ -137,7 +137,7 @@
 | Dagenham and Rainham | Margaret Mullane MP | 4136 |
 | Darlington | Lola McEvoy MP | 5320 |
 | Dartford | Jim Dickson MP | 5621 |
-| Daventry | Rt Hon Stuart Andrew MP | 7130 |
+| Daventry | Rt Hon Stuart Andrew MP | 7131 |
 | Derby North | Catherine Atkinson MP | 4233 |
 | Derby South | Baggy Shanker MP | 3489 |
 | Derbyshire Dales | John Whitby MP | 6634 |
@@ -338,12 +338,12 @@
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 5913 |
 | North East Derbyshire | Louise Jones MP | 5648 |
 | North East Hampshire | Alex Brewer MP | 5825 |
-| North East Hertfordshire | Chris Hinchliff MP | 5722 |
+| North East Hertfordshire | Chris Hinchliff MP | 5723 |
 | North East Somerset and Hanham | Dan Norris MP | 4923 |
 | North Herefordshire | Ellie Chowns MP | 6332 |
 | North Norfolk | Steff Aquarone MP | 5287 |
 | North Northumberland | David Smith MP | 6300 |
-| North Shropshire | Helen Morgan MP | 6724 |
+| North Shropshire | Helen Morgan MP | 6725 |
 | North Somerset | Sadik Al-Hassan MP | 4477 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6110 |
 | North West Cambridgeshire | Sam Carling MP | 5884 |
@@ -471,7 +471,7 @@
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6391 |
 | Stourbridge | Cat Eccles MP | 5024 |
 | Stratford and Bow | Uma Kumaran MP | 1710 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6569 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6571 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1821 |
 | Stretford and Urmston | Andrew Western MP | 3718 |
 | Stroud | Dr Simon Opher MP | 4418 |
