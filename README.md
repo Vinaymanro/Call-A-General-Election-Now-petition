@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2920490                                |
-| Last Updated      | 2024-12-12 04:43:27 UTC                                    |
+| Total Signatures   | 2920498                                |
+| Last Updated      | 2024-12-12 05:38:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -72,7 +72,7 @@
 | Brentford and Isleworth | Ruth Cadbury MP | 2926 |
 | Brentwood and Ongar | Alex Burghart MP | 7991 |
 | Bridgwater | Sir Ashley Fox MP | 5618 |
-| Bridlington and The Wolds | Charlie Dewhirst MP | 6466 |
+| Bridlington and The Wolds | Charlie Dewhirst MP | 6467 |
 | Brigg and Immingham | Martin Vickers MP | 6307 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3814 |
 | Brighton Pavilion | Siân Berry MP | 2672 |
@@ -173,7 +173,7 @@
 | Enfield North | Feryal Clark MP | 2809 |
 | Epping Forest | Dr Neil Hudson MP | 6448 |
 | Epsom and Ewell | Helen Maguire MP | 4830 |
-| Erewash | Adam Thompson MP | 5677 |
+| Erewash | Adam Thompson MP | 5678 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3140 |
 | Esher and Walton | Monica Harding MP | 4720 |
 | Exeter | Steve Race MP | 3083 |
@@ -190,7 +190,7 @@
 | Fylde | Mr Andrew Snowden MP | 6590 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6490 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4435 |
-| Gedling | Michael Payne MP | 4894 |
+| Gedling | Michael Payne MP | 4895 |
 | Gillingham and Rainham | Naushabah Khan MP | 4927 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5463 |
 | Gloucester | Alex McIntyre MP | 4426 |
@@ -204,7 +204,7 @@
 | Great Yarmouth | Rupert Lowe MP | 6400 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2549 |
 | Guildford | Zöe Franklin MP | 3902 |
-| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2038 |
+| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2039 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1480 |
 | Halesowen | Alex Ballinger MP | 4888 |
 | Halifax | Kate Dearden MP | 4618 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6055 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5320 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6055 |
-| Peterborough | Andrew Pakes MP | 4046 |
+| Peterborough | Andrew Pakes MP | 4047 |
 | Plymouth Moor View | Fred Thomas MP | 5514 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4606 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5299 |
@@ -423,7 +423,7 @@
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6517 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6148 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2511 |
-| Smethwick | Gurinder Singh Josan MP | 2986 |
+| Smethwick | Gurinder Singh Josan MP | 2987 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5329 |
 | South Basildon and East Thurrock | James McMurdock MP | 6459 |
 | South Cambridgeshire | Pippa Heylings MP | 4358 |
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5419 |
 | Tewkesbury | Cameron Thomas MP | 4899 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6248 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7280 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7281 |
 | Thornbury and Yate | Claire Young MP | 5557 |
 | Thurrock | Jen Craft MP | 5001 |
 | Tipton and Wednesbury | Antonia Bance MP | 4794 |
@@ -646,7 +646,7 @@
 | Llanelli | Dame Nia Griffith MP | 5112 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3569 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5379 |
-| Monmouthshire | Catherine Fookes MP | 4644 |
+| Monmouthshire | Catherine Fookes MP | 4645 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 5903 |
 | Neath and Swansea East | Carolyn Harris MP | 4317 |
 | Newport East | Jessica Morden MP | 3889 |
