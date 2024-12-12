@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2920482                                |
-| Last Updated      | 2024-12-12 03:11:04 UTC                                    |
+| Total Signatures   | 2920490                                |
+| Last Updated      | 2024-12-12 04:43:27 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3657 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 5967 |
 | Blackpool South | Chris Webb MP | 5631 |
-| Blaydon and Consett | Liz Twist MP | 5133 |
+| Blaydon and Consett | Liz Twist MP | 5134 |
 | Blyth and Ashington | Ian Lavery MP | 5726 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 5978 |
 | Bolsover | Natalie Fleet MP | 6376 |
@@ -83,7 +83,7 @@
 | Bristol South | Karin Smyth MP | 3839 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5716 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5167 |
-| Bromsgrove | Bradley Thomas MP | 6301 |
+| Bromsgrove | Bradley Thomas MP | 6302 |
 | Broxbourne | Lewis Cocking MP | 5946 |
 | Broxtowe | Juliet Campbell MP | 4608 |
 | Buckingham and Bletchley | Callum Anderson MP | 5169 |
@@ -102,7 +102,7 @@
 | Castle Point | Rebecca Harris MP | 7351 |
 | Central Devon | Rt Hon Mel Stride MP | 5664 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5168 |
-| Chatham and Aylesford | Tristan Osborne MP | 5468 |
+| Chatham and Aylesford | Tristan Osborne MP | 5469 |
 | Cheadle | Tom Morrison MP | 4559 |
 | Chelmsford | Marie Goldman MP | 5142 |
 | Chelsea and Fulham | Ben Coleman MP | 5406 |
@@ -130,12 +130,12 @@
 | Coventry South | Zarah Sultana MP | 3428 |
 | Cramlington and Killingworth | Emma Foody MP | 5658 |
 | Crawley | Peter Lamb MP | 4577 |
-| Crewe and Nantwich | Connor Naismith MP | 5554 |
+| Crewe and Nantwich | Connor Naismith MP | 5555 |
 | Croydon East | Natasha Irons MP | 3242 |
 | Croydon South | Rt Hon Chris Philp MP | 3852 |
 | Croydon West | Sarah Jones MP | 1694 |
 | Dagenham and Rainham | Margaret Mullane MP | 4136 |
-| Darlington | Lola McEvoy MP | 5323 |
+| Darlington | Lola McEvoy MP | 5324 |
 | Dartford | Jim Dickson MP | 5625 |
 | Daventry | Rt Hon Stuart Andrew MP | 7135 |
 | Derby North | Catherine Atkinson MP | 4235 |
@@ -187,7 +187,7 @@
 | Folkestone and Hythe | Tony Vaughan MP | 5252 |
 | Forest of Dean | Matt Bishop MP | 5157 |
 | Frome and East Somerset | Anna Sabine MP | 4227 |
-| Fylde | Mr Andrew Snowden MP | 6589 |
+| Fylde | Mr Andrew Snowden MP | 6590 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6490 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4435 |
 | Gedling | Michael Payne MP | 4894 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5698 |
 | North Dorset | Simon Hoare MP | 6179 |
 | North Durham | Luke Akehurst MP | 5238 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 5916 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 5917 |
 | North East Derbyshire | Louise Jones MP | 5652 |
 | North East Hampshire | Alex Brewer MP | 5830 |
 | North East Hertfordshire | Chris Hinchliff MP | 5725 |
@@ -592,7 +592,7 @@
 | Dundee Central | Chris Law MP | 2460 |
 | Dunfermline and Dollar | Graeme Downie MP | 2853 |
 | East Kilbride and Strathaven | Joani Reid MP | 3074 |
-| Edinburgh East and Musselburgh | Chris Murray MP | 2015 |
+| Edinburgh East and Musselburgh | Chris Murray MP | 2016 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2349 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2017 |
 | Edinburgh South West | Dr Scott Arthur MP | 2206 |
