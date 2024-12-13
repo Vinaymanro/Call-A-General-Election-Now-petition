@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2921727                                |
-| Last Updated      | 2024-12-13 04:41:32 UTC                                    |
+| Total Signatures   | 2921734                                |
+| Last Updated      | 2024-12-13 05:38:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -70,7 +70,7 @@
 | Brent East | Dawn Butler MP | 1811 |
 | Brent West | Barry Gardiner MP | 2029 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2927 |
-| Brentwood and Ongar | Alex Burghart MP | 7994 |
+| Brentwood and Ongar | Alex Burghart MP | 7995 |
 | Bridgwater | Sir Ashley Fox MP | 5619 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6468 |
 | Brigg and Immingham | Martin Vickers MP | 6314 |
@@ -104,7 +104,7 @@
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5172 |
 | Chatham and Aylesford | Tristan Osborne MP | 5471 |
 | Cheadle | Tom Morrison MP | 4560 |
-| Chelmsford | Marie Goldman MP | 5145 |
+| Chelmsford | Marie Goldman MP | 5146 |
 | Chelsea and Fulham | Ben Coleman MP | 5410 |
 | Cheltenham | Max Wilkinson MP | 3927 |
 | Chesham and Amersham | Sarah Green MP | 4846 |
@@ -198,7 +198,7 @@
 | Goole and Pocklington | Rt Hon David Davis MP | 6831 |
 | Gorton and Denton | Andrew Gwynne MP | 3180 |
 | Gosport | Dame Caroline Dinenage MP | 5331 |
-| Grantham and Bourne | Gareth Davies MP | 6171 |
+| Grantham and Bourne | Gareth Davies MP | 6172 |
 | Gravesham | Dr Lauren Sullivan MP | 5017 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5628 |
 | Great Yarmouth | Rupert Lowe MP | 6403 |
@@ -274,7 +274,7 @@
 | Leicester East | Shivani Raja MP | 1835 |
 | Leicester South | Shockat Adam MP | 1788 |
 | Leicester West | Rt Hon Liz Kendall MP | 3368 |
-| Leigh and Atherton | Jo Platt MP | 5923 |
+| Leigh and Atherton | Jo Platt MP | 5924 |
 | Lewes | James MacCleary MP | 4792 |
 | Lewisham East | Janet Daby MP | 2096 |
 | Lewisham North | Vicky Foxcroft MP | 1613 |
@@ -527,7 +527,7 @@
 | West Worcestershire | Dame Harriett Baldwin MP | 6119 |
 | Westmorland and Lonsdale | Tim Farron MP | 5082 |
 | Weston-super-Mare | Dan Aldridge MP | 4940 |
-| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6472 |
+| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6473 |
 | Whitehaven and Workington | Josh MacAlister MP | 5709 |
 | Widnes and Halewood | Derek Twigg MP | 4124 |
 | Wigan | Rt Hon Lisa Nandy MP | 5817 |
@@ -544,7 +544,7 @@
 | Wolverhampton West | Warinder Juss | 3724 |
 | Worcester | Tom Collins MP | 4218 |
 | Worsley and Eccles | Michael Wheeler MP | 5317 |
-| Worthing West | Dr Beccy Cooper MP | 5088 |
+| Worthing West | Dr Beccy Cooper MP | 5090 |
 | Wycombe | Emma Reynolds MP | 3538 |
 | Wyre Forest | Mark Garnier MP | 6331 |
 | Wythenshawe and Sale East | Mike Kane MP | 4494 |
