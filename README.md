@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2922782                                |
-| Last Updated      | 2024-12-14 04:39:21 UTC                                    |
+| Total Signatures   | 2922792                                |
+| Last Updated      | 2024-12-14 05:34:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -31,7 +31,7 @@
 | Beckenham and Penge | Liam Conlon MP | 3772 |
 | Bedford | Mohammad Yasin MP | 3154 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2643 |
-| Bethnal Green and Stepney | Rushanara Ali MP | 1683 |
+| Bethnal Green and Stepney | Rushanara Ali MP | 1684 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6014 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 5986 |
 | Bexleyheath and Crayford | Daniel Francis MP | 4948 |
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3050 |
 | Blackley and Middleton South | Graham Stringer MP | 3659 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 5977 |
-| Blackpool South | Chris Webb MP | 5635 |
+| Blackpool South | Chris Webb MP | 5636 |
 | Blaydon and Consett | Liz Twist MP | 5136 |
 | Blyth and Ashington | Ian Lavery MP | 5731 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 5985 |
@@ -60,9 +60,9 @@
 | Bolton West | Phil Brickell MP | 5467 |
 | Bootle | Peter Dowd MP | 3062 |
 | Boston and Skegness | Richard Tice MP | 6904 |
-| Bournemouth East | Tom Hayes MP | 4532 |
+| Bournemouth East | Tom Hayes MP | 4533 |
 | Bournemouth West | Jessica Toale MP | 4778 |
-| Bracknell | Peter Swallow MP | 4865 |
+| Bracknell | Peter Swallow MP | 4866 |
 | Bradford East | Imran Hussain MP | 2799 |
 | Bradford South | Judith Cummins MP | 4031 |
 | Bradford West | Naz Shah MP | 1757 |
@@ -265,7 +265,7 @@
 | Knowsley | Anneliese Midgley MP | 3186 |
 | Lancaster and Wyre | Cat Smith MP | 4952 |
 | Leeds Central and Headingley | Alex Sobel MP | 1889 |
-| Leeds East | Richard Burgon MP | 4196 |
+| Leeds East | Richard Burgon MP | 4197 |
 | Leeds North East | Fabian Hamilton MP | 2565 |
 | Leeds North West | Katie White MP | 4295 |
 | Leeds South | Rt Hon Hilary Benn MP | 3780 |
@@ -296,7 +296,7 @@
 | Maidenhead | Mr Joshua Reynolds MP | 5167 |
 | Maidstone and Malling | Helen Grant MP | 5708 |
 | Makerfield | Josh Simons MP | 5716 |
-| Maldon | Rt Hon Sir John Whittingdale MP | 7968 |
+| Maldon | Rt Hon Sir John Whittingdale MP | 7969 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3916 |
 | Manchester Rusholme | Afzal Khan MP | 1187 |
 | Manchester Withington | Jeff Smith MP | 1633 |
@@ -330,7 +330,7 @@
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5393 |
 | Normanton and Hemsworth | Jon Trickett MP | 5363 |
 | North Bedfordshire | Richard Fuller MP | 5976 |
-| North Cornwall | Ben Maguire MP | 6279 |
+| North Cornwall | Ben Maguire MP | 6280 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 5929 |
 | North Devon | Ian Roome MP | 5711 |
 | North Dorset | Simon Hoare MP | 6185 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 5860 |
 | Scunthorpe | Sir Nicholas Dakin MP | 4981 |
 | Sefton Central | Bill Esterson MP | 3917 |
-| Selby | Keir Mather MP | 6209 |
+| Selby | Keir Mather MP | 6210 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6569 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3339 |
 | Sheffield Central | Abtisam Mohamed MP | 1400 |
@@ -576,7 +576,7 @@
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1409 |
 | Aberdeen North | Kirsty Blackman MP | 3436 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3754 |
-| Aberdeenshire North and Moray East | Seamus Logan MP | 4546 |
+| Aberdeenshire North and Moray East | Seamus Logan MP | 4547 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2740 |
 | Alloa and Grangemouth | Brian Leishman MP | 2941 |
 | Angus and Perthshire Glens | Dave Doogan MP | 3954 |
@@ -591,7 +591,7 @@
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3777 |
 | Dundee Central | Chris Law MP | 2463 |
 | Dunfermline and Dollar | Graeme Downie MP | 2853 |
-| East Kilbride and Strathaven | Joani Reid MP | 3076 |
+| East Kilbride and Strathaven | Joani Reid MP | 3077 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2017 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2351 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2018 |
