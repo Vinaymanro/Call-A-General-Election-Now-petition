@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2922775                                |
-| Last Updated      | 2024-12-14 03:05:27 UTC                                    |
+| Total Signatures   | 2922782                                |
+| Last Updated      | 2024-12-14 04:39:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -41,7 +41,7 @@
 | Birmingham Erdington | Paulette Hamilton MP | 4118 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1544 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3391 |
-| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1847 |
+| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1848 |
 | Birmingham Northfield | Laurence Turner MP | 4757 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1669 |
 | Birmingham Selly Oak | Al Carns MP | 3198 |
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3050 |
 | Blackley and Middleton South | Graham Stringer MP | 3659 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 5977 |
-| Blackpool South | Chris Webb MP | 5634 |
+| Blackpool South | Chris Webb MP | 5635 |
 | Blaydon and Consett | Liz Twist MP | 5136 |
 | Blyth and Ashington | Ian Lavery MP | 5731 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 5985 |
@@ -187,7 +187,7 @@
 | Folkestone and Hythe | Tony Vaughan MP | 5260 |
 | Forest of Dean | Matt Bishop MP | 5158 |
 | Frome and East Somerset | Anna Sabine MP | 4234 |
-| Fylde | Mr Andrew Snowden MP | 6593 |
+| Fylde | Mr Andrew Snowden MP | 6594 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6492 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4436 |
 | Gedling | Michael Payne MP | 4898 |
@@ -276,7 +276,7 @@
 | Leicester West | Rt Hon Liz Kendall MP | 3369 |
 | Leigh and Atherton | Jo Platt MP | 5925 |
 | Lewes | James MacCleary MP | 4793 |
-| Lewisham East | Janet Daby MP | 2096 |
+| Lewisham East | Janet Daby MP | 2097 |
 | Lewisham North | Vicky Foxcroft MP | 1613 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1547 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1835 |
@@ -456,7 +456,7 @@
 | St Austell and Newquay | Noah Law MP | 5463 |
 | St Helens North | David Baines MP | 4571 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4036 |
-| St Ives | Andrew George MP | 4982 |
+| St Ives | Andrew George MP | 4983 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4685 |
 | Stafford | Leigh Ingham MP | 5473 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6274 |
@@ -471,7 +471,7 @@
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6400 |
 | Stourbridge | Cat Eccles MP | 5030 |
 | Stratford and Bow | Uma Kumaran MP | 1710 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6574 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6575 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1823 |
 | Stretford and Urmston | Andrew Western MP | 3723 |
 | Stroud | Dr Simon Opher MP | 4423 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2033 |
 | North Antrim | Jim Allister KC MP | 3034 |
 | North Down | Alex Easton MP | 3277 |
-| South Antrim | Robin Swann MP | 3031 |
+| South Antrim | Robin Swann MP | 3032 |
 | South Down | Chris Hazzard MP | 1814 |
 | Strangford | Jim Shannon MP | 3396 |
 | Upper Bann | Carla Lockhart MP | 3005 |
