@@ -3,16 +3,16 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2923693                                |
-| Last Updated      | 2024-12-15 06:45:19 UTC                                    |
+| Total Signatures   | 2923701                                |
+| Last Updated      | 2024-12-15 07:27:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5339 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5685 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5413 |
-| Amber Valley | Linsey Farnsworth MP | 5949 |
-| Arundel and South Downs | Andrew Griffith MP | 6812 |
+| Amber Valley | Linsey Farnsworth MP | 5950 |
+| Arundel and South Downs | Andrew Griffith MP | 6813 |
 | Ashfield | Lee Anderson MP | 6037 |
 | Ashford | Sojan Joseph MP | 5770 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4464 |
@@ -211,7 +211,7 @@
 | Hamble Valley | Paul Holmes MP | 6006 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3149 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2925 |
-| Harborough, Oadby and Wigston | Neil O'Brien MP | 4605 |
+| Harborough, Oadby and Wigston | Neil O'Brien MP | 4606 |
 | Harlow | Chris Vince MP | 5943 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4448 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5013 |
@@ -383,7 +383,7 @@
 | Queen's Park and Maida Vale | Georgia Gould MP | 2106 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 4952 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7222 |
-| Reading Central | Matt Rodda MP | 2966 |
+| Reading Central | Matt Rodda MP | 2967 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4334 |
 | Redcar | Anna Turley MP | 5341 |
 | Redditch | Chris Bloore MP | 5939 |
@@ -434,7 +434,7 @@
 | South East Cornwall | Anna Gelderd MP | 6083 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 6965 |
 | South Leicestershire | Alberto Costa MP | 6849 |
-| South Norfolk | Ben Goldsborough MP | 5331 |
+| South Norfolk | Ben Goldsborough MP | 5332 |
 | South Northamptonshire | Sarah Bool MP | 6516 |
 | South Ribble | Mr Paul Foster MP | 5762 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4622 |
@@ -470,7 +470,7 @@
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5605 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6400 |
 | Stourbridge | Cat Eccles MP | 5032 |
-| Stratford and Bow | Uma Kumaran MP | 1712 |
+| Stratford and Bow | Uma Kumaran MP | 1713 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6575 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1823 |
 | Stretford and Urmston | Andrew Western MP | 3724 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5085 |
 | Weston-super-Mare | Dan Aldridge MP | 4943 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6475 |
-| Whitehaven and Workington | Josh MacAlister MP | 5710 |
+| Whitehaven and Workington | Josh MacAlister MP | 5711 |
 | Widnes and Halewood | Derek Twigg MP | 4125 |
 | Wigan | Rt Hon Lisa Nandy MP | 5821 |
 | Wimbledon | Mr Paul Kohler MP | 3352 |
@@ -538,7 +538,7 @@
 | Witham | Rt Hon Priti Patel MP | 6881 |
 | Witney | Charlie Maynard MP | 5015 |
 | Woking | Mr Will Forster MP | 4305 |
-| Wokingham | Clive Jones MP | 4766 |
+| Wokingham | Clive Jones MP | 4767 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4280 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4202 |
 | Wolverhampton West | Warinder Juss | 3727 |
