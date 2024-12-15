@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2923674                                |
-| Last Updated      | 2024-12-15 04:39:17 UTC                                    |
+| Total Signatures   | 2923678                                |
+| Last Updated      | 2024-12-15 05:35:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -207,7 +207,7 @@
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2042 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1483 |
 | Halesowen | Alex Ballinger MP | 4891 |
-| Halifax | Kate Dearden MP | 4623 |
+| Halifax | Kate Dearden MP | 4624 |
 | Hamble Valley | Paul Holmes MP | 6006 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3149 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2925 |
@@ -493,7 +493,7 @@
 | Thornbury and Yate | Claire Young MP | 5564 |
 | Thurrock | Jen Craft MP | 5010 |
 | Tipton and Wednesbury | Antonia Bance MP | 4798 |
-| Tiverton and Minehead | Rachel Gilmour MP | 5818 |
+| Tiverton and Minehead | Rachel Gilmour MP | 5819 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5818 |
 | Tooting | Dr Rosena Allin-Khan MP | 2639 |
 | Torbay | Steve Darling MP | 5669 |
@@ -573,7 +573,7 @@
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 865 |
 | Midlothian | Kirsty McNeill MP | 2727 |
 | North Ayrshire and Arran | Irene Campbell MP | 3183 |
-| Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1409 |
+| Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1410 |
 | Aberdeen North | Kirsty Blackman MP | 3437 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3755 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4547 |
@@ -592,7 +592,7 @@
 | Dundee Central | Chris Law MP | 2463 |
 | Dunfermline and Dollar | Graeme Downie MP | 2853 |
 | East Kilbride and Strathaven | Joani Reid MP | 3077 |
-| Edinburgh East and Musselburgh | Chris Murray MP | 2019 |
+| Edinburgh East and Musselburgh | Chris Murray MP | 2020 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2351 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2018 |
 | Edinburgh South West | Dr Scott Arthur MP | 2207 |
