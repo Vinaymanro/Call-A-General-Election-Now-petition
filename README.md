@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2923668                                |
-| Last Updated      | 2024-12-15 03:15:10 UTC                                    |
+| Total Signatures   | 2923674                                |
+| Last Updated      | 2024-12-15 04:39:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -18,7 +18,7 @@
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4464 |
 | Aylesbury | Laura Kyrke-Smith MP | 4771 |
 | Banbury | Sean Woodcock MP | 5338 |
-| Barking | Nesil Caliskan MP | 2566 |
+| Barking | Nesil Caliskan MP | 2567 |
 | Barnsley North | Dan Jarvis MP | 5523 |
 | Barnsley South | Stephanie Peacock MP | 5601 |
 | Barrow and Furness | Michelle Scrogham MP | 5161 |
@@ -30,7 +30,7 @@
 | Beaconsfield | Joy Morrissey MP | 5111 |
 | Beckenham and Penge | Liam Conlon MP | 3772 |
 | Bedford | Mohammad Yasin MP | 3155 |
-| Bermondsey and Old Southwark | Neil Coyle MP | 2645 |
+| Bermondsey and Old Southwark | Neil Coyle MP | 2646 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1685 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6015 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 5988 |
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5426 |
 | Dorking and Horley | Chris Coghlan MP | 5442 |
 | Dover and Deal | Mike Tapp MP | 5784 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6416 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6417 |
 | Dudley | Sonia Kumar MP | 5282 |
 | Dulwich and West Norwood | Helen Hayes MP | 1520 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5400 |
@@ -396,7 +396,7 @@
 | Romford | Andrew Rosindell MP | 5707 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 4965 |
 | Rossendale and Darwen | Andy MacNae MP | 6348 |
-| Rother Valley | Jake Richards MP | 5720 |
+| Rother Valley | Jake Richards MP | 5721 |
 | Rotherham | Sarah Champion MP | 4800 |
 | Rugby | John Slinger MP | 5281 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4028 |
@@ -612,7 +612,7 @@
 | Livingston | Gregor Poynton MP | 3308 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2785 |
 | Mid Dunbartonshire | Susan Murray MP | 2459 |
-| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3837 |
+| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3838 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2654 |
 | North East Fife | Wendy Chamberlain MP | 2834 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2769 |
@@ -643,7 +643,7 @@
 | Clwyd North | Gill German MP | 5321 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4137 |
 | Gower | Tonia Antoniazzi MP | 4639 |
-| Llanelli | Dame Nia Griffith MP | 5118 |
+| Llanelli | Dame Nia Griffith MP | 5119 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3575 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5383 |
 | Monmouthshire | Catherine Fookes MP | 4652 |
