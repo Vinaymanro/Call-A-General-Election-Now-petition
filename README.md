@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2924589                                |
-| Last Updated      | 2024-12-16 04:42:36 UTC                                    |
+| Total Signatures   | 2924597                                |
+| Last Updated      | 2024-12-16 05:38:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -55,7 +55,7 @@
 | Blyth and Ashington | Ian Lavery MP | 5733 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 5992 |
 | Bolsover | Natalie Fleet MP | 6388 |
-| Bolton North East | Kirith Entwistle MP | 5456 |
+| Bolton North East | Kirith Entwistle MP | 5457 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4304 |
 | Bolton West | Phil Brickell MP | 5470 |
 | Bootle | Peter Dowd MP | 3063 |
@@ -122,7 +122,7 @@
 | Clacton | Nigel Farage MP | 7912 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1704 |
 | Colchester | Pam Cox MP | 4890 |
-| Colne Valley | Paul Davies MP | 4900 |
+| Colne Valley | Paul Davies MP | 4901 |
 | Congleton | Mrs Sarah Russell MP | 5835 |
 | Corby and East Northamptonshire | Lee Barron MP | 5869 |
 | Coventry East | Mary Creagh MP | 3484 |
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5428 |
 | Dorking and Horley | Chris Coghlan MP | 5446 |
 | Dover and Deal | Mike Tapp MP | 5785 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6419 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6420 |
 | Dudley | Sonia Kumar MP | 5284 |
 | Dulwich and West Norwood | Helen Hayes MP | 1520 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5400 |
@@ -183,7 +183,7 @@
 | Faversham and Mid Kent | Helen Whately MP | 6096 |
 | Feltham and Heston | Seema Malhotra MP | 2823 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4419 |
-| Finchley and Golders Green | Sarah Sackman MP | 4209 |
+| Finchley and Golders Green | Sarah Sackman MP | 4210 |
 | Folkestone and Hythe | Tony Vaughan MP | 5268 |
 | Forest of Dean | Matt Bishop MP | 5159 |
 | Frome and East Somerset | Anna Sabine MP | 4237 |
@@ -345,7 +345,7 @@
 | North Northumberland | David Smith MP | 6311 |
 | North Shropshire | Helen Morgan MP | 6732 |
 | North Somerset | Sadik Al-Hassan MP | 4482 |
-| North Warwickshire and Bedworth | Rachel Taylor MP | 6121 |
+| North Warwickshire and Bedworth | Rachel Taylor MP | 6122 |
 | North West Cambridgeshire | Sam Carling MP | 5896 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7010 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5590 |
@@ -407,7 +407,7 @@
 | Salford | Rebecca Long Bailey MP | 4556 |
 | Salisbury | Rt Hon John Glen MP | 4650 |
 | Scarborough and Whitby | Alison Hume MP | 5866 |
-| Scunthorpe | Sir Nicholas Dakin MP | 4987 |
+| Scunthorpe | Sir Nicholas Dakin MP | 4988 |
 | Sefton Central | Bill Esterson MP | 3919 |
 | Selby | Keir Mather MP | 6217 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6575 |
@@ -443,7 +443,7 @@
 | South West Devon | Rebecca Smith MP | 5817 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5102 |
 | South West Norfolk | Terry Jermy MP | 6383 |
-| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5073 |
+| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5074 |
 | Southampton Itchen | Darren Paffey MP | 4410 |
 | Southampton Test | Satvir Kaur MP | 3307 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5444 |
@@ -532,7 +532,7 @@
 | Widnes and Halewood | Derek Twigg MP | 4125 |
 | Wigan | Rt Hon Lisa Nandy MP | 5821 |
 | Wimbledon | Mr Paul Kohler MP | 3352 |
-| Winchester | Dr Danny Chambers MP | 4828 |
+| Winchester | Dr Danny Chambers MP | 4829 |
 | Windsor | Jack Rankin MP | 4996 |
 | Wirral West | Matthew Patrick MP | 4125 |
 | Witham | Rt Hon Priti Patel MP | 6883 |
