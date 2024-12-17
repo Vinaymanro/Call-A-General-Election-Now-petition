@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2925716                                |
-| Last Updated      | 2024-12-17 04:40:56 UTC                                    |
+| Total Signatures   | 2925722                                |
+| Last Updated      | 2024-12-17 05:37:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -54,7 +54,7 @@
 | Blaydon and Consett | Liz Twist MP | 5138 |
 | Blyth and Ashington | Ian Lavery MP | 5736 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 5992 |
-| Bolsover | Natalie Fleet MP | 6390 |
+| Bolsover | Natalie Fleet MP | 6391 |
 | Bolton North East | Kirith Entwistle MP | 5457 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4304 |
 | Bolton West | Phil Brickell MP | 5474 |
@@ -99,7 +99,7 @@
 | Canterbury | Rosie Duffield MP | 4378 |
 | Carlisle | Ms Julie Minns MP | 6408 |
 | Carshalton and Wallington | Bobby Dean MP | 4162 |
-| Castle Point | Rebecca Harris MP | 7360 |
+| Castle Point | Rebecca Harris MP | 7361 |
 | Central Devon | Rt Hon Mel Stride MP | 5681 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5177 |
 | Chatham and Aylesford | Tristan Osborne MP | 5484 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5329 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6064 |
 | Peterborough | Andrew Pakes MP | 4056 |
-| Plymouth Moor View | Fred Thomas MP | 5529 |
+| Plymouth Moor View | Fred Thomas MP | 5530 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4622 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5312 |
 | Poole | Neil Duncan-Jordan MP | 5535 |
@@ -407,7 +407,7 @@
 | Salford | Rebecca Long Bailey MP | 4561 |
 | Salisbury | Rt Hon John Glen MP | 4651 |
 | Scarborough and Whitby | Alison Hume MP | 5868 |
-| Scunthorpe | Sir Nicholas Dakin MP | 4988 |
+| Scunthorpe | Sir Nicholas Dakin MP | 4990 |
 | Sefton Central | Bill Esterson MP | 3920 |
 | Selby | Keir Mather MP | 6218 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6575 |
@@ -470,7 +470,7 @@
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5608 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6405 |
 | Stourbridge | Cat Eccles MP | 5032 |
-| Stratford and Bow | Uma Kumaran MP | 1716 |
+| Stratford and Bow | Uma Kumaran MP | 1717 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6579 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1825 |
 | Stretford and Urmston | Andrew Western MP | 3727 |
