@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2925703                                |
-| Last Updated      | 2024-12-17 03:09:14 UTC                                    |
+| Total Signatures   | 2925716                                |
+| Last Updated      | 2024-12-17 04:40:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -49,7 +49,7 @@
 | Bishop Auckland | Sam Rushworth MP | 6033 |
 | Blackburn | Mr Adnan Hussain MP | 3053 |
 | Blackley and Middleton South | Graham Stringer MP | 3662 |
-| Blackpool North and Fleetwood | Lorraine Beavers MP | 5981 |
+| Blackpool North and Fleetwood | Lorraine Beavers MP | 5982 |
 | Blackpool South | Chris Webb MP | 5648 |
 | Blaydon and Consett | Liz Twist MP | 5138 |
 | Blyth and Ashington | Ian Lavery MP | 5736 |
@@ -57,7 +57,7 @@
 | Bolsover | Natalie Fleet MP | 6390 |
 | Bolton North East | Kirith Entwistle MP | 5457 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4304 |
-| Bolton West | Phil Brickell MP | 5473 |
+| Bolton West | Phil Brickell MP | 5474 |
 | Bootle | Peter Dowd MP | 3066 |
 | Boston and Skegness | Richard Tice MP | 6916 |
 | Bournemouth East | Tom Hayes MP | 4535 |
@@ -223,7 +223,7 @@
 | Havant | Alan Mak MP | 5527 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2527 |
 | Hazel Grove | Lisa Smart MP | 4994 |
-| Hemel Hempstead | David Taylor MP | 4955 |
+| Hemel Hempstead | David Taylor MP | 4956 |
 | Hendon | David Pinto-Duschinsky MP | 3731 |
 | Henley and Thame | Freddie van Mierlo MP | 5296 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5166 |
@@ -284,7 +284,7 @@
 | Lincoln | Mr Hamish Falconer MP | 4541 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3050 |
 | Liverpool Riverside | Kim Johnson MP | 2566 |
-| Liverpool Walton | Dan Carden MP | 3270 |
+| Liverpool Walton | Dan Carden MP | 3271 |
 | Liverpool Wavertree | Paula Barker MP | 2165 |
 | Liverpool West Derby | Ian Byrne MP | 2942 |
 | Loughborough | Dr Jeevun Sandher MP | 4379 |
@@ -302,7 +302,7 @@
 | Manchester Withington | Jeff Smith MP | 1634 |
 | Mansfield | Steve Yemm MP | 6035 |
 | Melksham and Devizes | Brian Mathew MP | 4912 |
-| Melton and Syston | Rt Hon Edward Argar MP | 5980 |
+| Melton and Syston | Rt Hon Edward Argar MP | 5982 |
 | Meriden and Solihull East | Saqib Bhatti MP | 5915 |
 | Mid Bedfordshire | Blake Stephenson MP | 5724 |
 | Mid Buckinghamshire | Greg Smith MP | 5499 |
@@ -367,12 +367,12 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2102 |
 | Oxford West and Abingdon | Layla Moran MP | 2864 |
 | Peckham | Miatta Fahnbulleh MP | 1333 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6065 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6066 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5329 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6064 |
 | Peterborough | Andrew Pakes MP | 4056 |
 | Plymouth Moor View | Fred Thomas MP | 5529 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4621 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4622 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5312 |
 | Poole | Neil Duncan-Jordan MP | 5535 |
 | Poplar and Limehouse | Apsana Begum MP | 2867 |
@@ -397,7 +397,7 @@
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 4968 |
 | Rossendale and Darwen | Andy MacNae MP | 6349 |
 | Rother Valley | Jake Richards MP | 5725 |
-| Rotherham | Sarah Champion MP | 4802 |
+| Rotherham | Sarah Champion MP | 4803 |
 | Rugby | John Slinger MP | 5285 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4033 |
 | Runcorn and Helsby | Mike Amesbury MP | 4906 |
@@ -637,12 +637,12 @@
 | Cardiff East | Rt Hon Jo Stevens MP | 2808 |
 | Cardiff North | Anna McMorrin MP | 3212 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2736 |
-| Cardiff West | Mr Alex Barros-Curtis MP | 3063 |
+| Cardiff West | Mr Alex Barros-Curtis MP | 3064 |
 | Ceredigion Preseli | Ben Lake MP | 4636 |
-| Clwyd East | Becky Gittins MP | 5900 |
-| Clwyd North | Gill German MP | 5327 |
+| Clwyd East | Becky Gittins MP | 5901 |
+| Clwyd North | Gill German MP | 5328 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4143 |
-| Gower | Tonia Antoniazzi MP | 4642 |
+| Gower | Tonia Antoniazzi MP | 4643 |
 | Llanelli | Dame Nia Griffith MP | 5124 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3577 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5389 |
