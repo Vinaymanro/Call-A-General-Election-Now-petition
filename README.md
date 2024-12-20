@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2932030                                |
-| Last Updated      | 2024-12-20 02:54:34 UTC                                    |
+| Total Signatures   | 2932040                                |
+| Last Updated      | 2024-12-20 03:38:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5352 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5699 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5700 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5423 |
 | Amber Valley | Linsey Farnsworth MP | 5970 |
 | Arundel and South Downs | Andrew Griffith MP | 6831 |
@@ -91,7 +91,7 @@
 | Burton and Uttoxeter | Jacob Collier MP | 5666 |
 | Bury North | Mr James Frith MP | 4863 |
 | Bury South | Christian Wakeford MP | 5332 |
-| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5340 |
+| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5341 |
 | Calder Valley | Josh Fenton-Glynn MP | 5549 |
 | Camborne and Redruth | Perran Moon MP | 4866 |
 | Cambridge | Daniel Zeichner MP | 2180 |
@@ -167,7 +167,7 @@
 | Eastbourne | Josh Babarinde MP | 4918 |
 | Eastleigh | Liz Jarvis MP | 4247 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2168 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4334 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4335 |
 | Eltham and Chislehurst | Clive Efford MP | 4620 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5070 |
 | Enfield North | Feryal Clark MP | 2825 |
@@ -196,7 +196,7 @@
 | Gloucester | Alex McIntyre MP | 4438 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5129 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6843 |
-| Gorton and Denton | Andrew Gwynne MP | 3190 |
+| Gorton and Denton | Andrew Gwynne MP | 3191 |
 | Gosport | Dame Caroline Dinenage MP | 5351 |
 | Grantham and Bourne | Gareth Davies MP | 6199 |
 | Gravesham | Dr Lauren Sullivan MP | 5037 |
@@ -320,7 +320,7 @@
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5650 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5300 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5153 |
-| Newark | Rt Hon Robert Jenrick MP | 7034 |
+| Newark | Rt Hon Robert Jenrick MP | 7035 |
 | Newbury | Mr Lee Dillon MP | 4825 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4398 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4678 |
@@ -390,7 +390,7 @@
 | Reigate | Rebecca Paul MP | 5454 |
 | Ribble Valley | Maya Ellis MP | 6599 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 6975 |
-| Richmond Park | Sarah Olney MP | 4005 |
+| Richmond Park | Sarah Olney MP | 4006 |
 | Rochdale | Paul Waugh MP | 3842 |
 | Rochester and Strood | Lauren Edwards MP | 5905 |
 | Romford | Andrew Rosindell MP | 5713 |
@@ -399,7 +399,7 @@
 | Rother Valley | Jake Richards MP | 5736 |
 | Rotherham | Sarah Champion MP | 4816 |
 | Rugby | John Slinger MP | 5294 |
-| Ruislip, Northwood and Pinner | David Simmonds MP | 4036 |
+| Ruislip, Northwood and Pinner | David Simmonds MP | 4037 |
 | Runcorn and Helsby | Mike Amesbury MP | 4918 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5741 |
 | Rushcliffe | James Naish MP | 4974 |
@@ -453,12 +453,12 @@
 | Spelthorne | Lincoln Jopp MP | 5358 |
 | Spen Valley | Kim Leadbeater MP | 5264 |
 | St Albans | Daisy Cooper MP | 3814 |
-| St Austell and Newquay | Noah Law MP | 5486 |
+| St Austell and Newquay | Noah Law MP | 5487 |
 | St Helens North | David Baines MP | 4580 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4048 |
 | St Ives | Andrew George MP | 4994 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4699 |
-| Stafford | Leigh Ingham MP | 5489 |
+| Stafford | Leigh Ingham MP | 5490 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6293 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5240 |
 | Stevenage | Kevin Bonavia MP | 4641 |
@@ -645,7 +645,7 @@
 | Gower | Tonia Antoniazzi MP | 4659 |
 | Llanelli | Dame Nia Griffith MP | 5140 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3584 |
-| Mid and South Pembrokeshire | Henry Tufnell MP | 5394 |
+| Mid and South Pembrokeshire | Henry Tufnell MP | 5395 |
 | Monmouthshire | Catherine Fookes MP | 4657 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 5922 |
 | Neath and Swansea East | Carolyn Harris MP | 4333 |
