@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2933837                                |
-| Last Updated      | 2024-12-21 04:34:48 UTC                                    |
+| Total Signatures   | 2933846                                |
+| Last Updated      | 2024-12-21 05:31:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -39,7 +39,7 @@
 | Birkenhead | Alison McGovern MP | 4234 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2885 |
 | Birmingham Erdington | Paulette Hamilton MP | 4131 |
-| Birmingham Hall Green and Moseley | Tahir Ali MP | 1547 |
+| Birmingham Hall Green and Moseley | Tahir Ali MP | 1548 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3403 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1854 |
 | Birmingham Northfield | Laurence Turner MP | 4777 |
@@ -102,14 +102,14 @@
 | Castle Point | Rebecca Harris MP | 7378 |
 | Central Devon | Rt Hon Mel Stride MP | 5696 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5197 |
-| Chatham and Aylesford | Tristan Osborne MP | 5504 |
+| Chatham and Aylesford | Tristan Osborne MP | 5505 |
 | Cheadle | Tom Morrison MP | 4586 |
 | Chelmsford | Marie Goldman MP | 5165 |
 | Chelsea and Fulham | Ben Coleman MP | 5420 |
 | Cheltenham | Max Wilkinson MP | 3946 |
 | Chesham and Amersham | Sarah Green MP | 4858 |
 | Chester North and Neston | Samantha Dixon MP | 3950 |
-| Chester South and Eddisbury | Aphra Brandreth MP | 6298 |
+| Chester South and Eddisbury | Aphra Brandreth MP | 6299 |
 | Chesterfield | Mr Toby Perkins MP | 4765 |
 | Chichester | Jess Brown-Fuller MP | 5807 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4107 |
@@ -139,7 +139,7 @@
 | Dartford | Jim Dickson MP | 5650 |
 | Daventry | Rt Hon Stuart Andrew MP | 7166 |
 | Derby North | Catherine Atkinson MP | 4244 |
-| Derby South | Baggy Shanker MP | 3502 |
+| Derby South | Baggy Shanker MP | 3503 |
 | Derbyshire Dales | John Whitby MP | 6681 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3099 |
 | Didcot and Wantage | Olly Glover MP | 4767 |
@@ -168,7 +168,7 @@
 | Eastleigh | Liz Jarvis MP | 4253 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2168 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4336 |
-| Eltham and Chislehurst | Clive Efford MP | 4621 |
+| Eltham and Chislehurst | Clive Efford MP | 4622 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5072 |
 | Enfield North | Feryal Clark MP | 2825 |
 | Epping Forest | Dr Neil Hudson MP | 6470 |
@@ -319,7 +319,7 @@
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2627 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5655 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5305 |
-| New Forest West | Rt Hon Sir Desmond Swayne MP | 5158 |
+| New Forest West | Rt Hon Sir Desmond Swayne MP | 5159 |
 | Newark | Rt Hon Robert Jenrick MP | 7038 |
 | Newbury | Mr Lee Dillon MP | 4828 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4398 |
@@ -377,7 +377,7 @@
 | Poole | Neil Duncan-Jordan MP | 5549 |
 | Poplar and Limehouse | Apsana Begum MP | 2870 |
 | Portsmouth North | Amanda Martin MP | 5507 |
-| Portsmouth South | Stephen Morgan MP | 3794 |
+| Portsmouth South | Stephen Morgan MP | 3796 |
 | Preston | Sir Mark Hendrick MP | 3716 |
 | Putney | Fleur Anderson MP | 3455 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2114 |
@@ -575,7 +575,7 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3195 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1419 |
 | Aberdeen North | Kirsty Blackman MP | 3463 |
-| Aberdeen South | Rt Hon Stephen Flynn MP | 3771 |
+| Aberdeen South | Rt Hon Stephen Flynn MP | 3772 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4569 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2751 |
 | Alloa and Grangemouth | Brian Leishman MP | 2956 |
