@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2933830                                |
-| Last Updated      | 2024-12-21 03:34:10 UTC                                    |
+| Total Signatures   | 2933837                                |
+| Last Updated      | 2024-12-21 04:34:48 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -228,7 +228,7 @@
 | Henley and Thame | Freddie van Mierlo MP | 5306 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5179 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6163 |
-| Hertford and Stortford | Josh Dean MP | 5886 |
+| Hertford and Stortford | Josh Dean MP | 5887 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5644 |
 | Hexham | Joe Morris MP | 6317 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5152 |
@@ -262,7 +262,7 @@
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4546 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5377 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6281 |
-| Knowsley | Anneliese Midgley MP | 3200 |
+| Knowsley | Anneliese Midgley MP | 3201 |
 | Lancaster and Wyre | Cat Smith MP | 4971 |
 | Leeds Central and Headingley | Alex Sobel MP | 1894 |
 | Leeds East | Richard Burgon MP | 4209 |
@@ -315,7 +315,7 @@
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4130 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5606 |
 | Milton Keynes Central | Emily Darlington MP | 4851 |
-| Milton Keynes North | Chris Curtis MP | 4480 |
+| Milton Keynes North | Chris Curtis MP | 4481 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2627 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5655 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5305 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5352 |
 | Redditch | Chris Bloore MP | 5947 |
 | Reigate | Rebecca Paul MP | 5457 |
-| Ribble Valley | Maya Ellis MP | 6603 |
+| Ribble Valley | Maya Ellis MP | 6604 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 6976 |
 | Richmond Park | Sarah Olney MP | 4006 |
 | Rochdale | Paul Waugh MP | 3845 |
@@ -468,7 +468,7 @@
 | Stoke-on-Trent Central | Gareth Snell MP | 4603 |
 | Stoke-on-Trent North | David Williams MP | 5333 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5631 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6418 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6420 |
 | Stourbridge | Cat Eccles MP | 5039 |
 | Stratford and Bow | Uma Kumaran MP | 1721 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6597 |
@@ -617,7 +617,7 @@
 | North East Fife | Wendy Chamberlain MP | 2842 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2783 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2590 |
-| Perth and Kinross-shire | Pete Wishart MP | 3433 |
+| Perth and Kinross-shire | Pete Wishart MP | 3434 |
 | Rutherglen | Michael Shanks MP | 2492 |
 | Stirling and Strathallan | Chris Kane MP | 3174 |
 | West Dunbartonshire | Douglas McAllister MP | 2669 |
