@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2933823                                |
-| Last Updated      | 2024-12-21 02:39:45 UTC                                    |
+| Total Signatures   | 2933830                                |
+| Last Updated      | 2024-12-21 03:34:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -86,14 +86,14 @@
 | Bromsgrove | Bradley Thomas MP | 6331 |
 | Broxbourne | Lewis Cocking MP | 5964 |
 | Broxtowe | Juliet Campbell MP | 4621 |
-| Buckingham and Bletchley | Callum Anderson MP | 5185 |
+| Buckingham and Bletchley | Callum Anderson MP | 5186 |
 | Burnley | Oliver Ryan MP | 5608 |
 | Burton and Uttoxeter | Jacob Collier MP | 5667 |
 | Bury North | Mr James Frith MP | 4867 |
 | Bury South | Christian Wakeford MP | 5339 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5342 |
 | Calder Valley | Josh Fenton-Glynn MP | 5555 |
-| Camborne and Redruth | Perran Moon MP | 4868 |
+| Camborne and Redruth | Perran Moon MP | 4869 |
 | Cambridge | Daniel Zeichner MP | 2180 |
 | Cannock Chase | Josh Newbury MP | 6744 |
 | Canterbury | Rosie Duffield MP | 4394 |
@@ -190,7 +190,7 @@
 | Fylde | Mr Andrew Snowden MP | 6619 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6524 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4449 |
-| Gedling | Michael Payne MP | 4922 |
+| Gedling | Michael Payne MP | 4923 |
 | Gillingham and Rainham | Naushabah Khan MP | 4955 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5492 |
 | Gloucester | Alex McIntyre MP | 4439 |
@@ -337,7 +337,7 @@
 | North Durham | Luke Akehurst MP | 5268 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 5942 |
 | North East Derbyshire | Louise Jones MP | 5683 |
-| North East Hampshire | Alex Brewer MP | 5852 |
+| North East Hampshire | Alex Brewer MP | 5853 |
 | North East Hertfordshire | Chris Hinchliff MP | 5749 |
 | North East Somerset and Hanham | Dan Norris MP | 4950 |
 | North Herefordshire | Ellie Chowns MP | 6368 |
@@ -415,7 +415,7 @@
 | Sheffield Central | Abtisam Mohamed MP | 1406 |
 | Sheffield Hallam | Olivia Blake MP | 3335 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3453 |
-| Sheffield South East | Mr Clive Betts MP | 4628 |
+| Sheffield South East | Mr Clive Betts MP | 4629 |
 | Sherwood Forest | Michelle Welsh MP | 6538 |
 | Shipley | Anna Dixon MP | 4780 |
 | Shrewsbury | Julia Buckley MP | 5219 |
@@ -449,7 +449,7 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5466 |
 | Southend West and Leigh | David Burton-Sampson MP | 5767 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2536 |
-| Southport | Patrick Hurley MP | 5840 |
+| Southport | Patrick Hurley MP | 5841 |
 | Spelthorne | Lincoln Jopp MP | 5359 |
 | Spen Valley | Kim Leadbeater MP | 5266 |
 | St Albans | Daisy Cooper MP | 3817 |
@@ -654,7 +654,7 @@
 | Pontypridd | Alex Davies-Jones MP | 3804 |
 | Rhondda and Ogmore | Chris Bryant MP | 3952 |
 | Swansea West | Torsten Bell MP | 3557 |
-| Torfaen | Rt Hon Nick Thomas-Symonds MP | 3964 |
+| Torfaen | Rt Hon Nick Thomas-Symonds MP | 3965 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4529 |
 | Wrexham | Andrew Ranger MP | 4695 |
 | Ynys Môn | Llinos Medi MP | 3665 |
