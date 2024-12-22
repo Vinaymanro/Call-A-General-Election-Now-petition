@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2935000                                |
-| Last Updated      | 2024-12-22 02:59:19 UTC                                    |
+| Total Signatures   | 2935006                                |
+| Last Updated      | 2024-12-22 03:41:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -118,7 +118,7 @@
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5389 |
 | Christchurch | Sir Christopher Chope MP | 5705 |
 | Cities of London and Westminster | Rachel Blake MP | 5095 |
-| City of Durham | Mary Kelly Foy MP | 4156 |
+| City of Durham | Mary Kelly Foy MP | 4157 |
 | Clacton | Nigel Farage MP | 7943 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1712 |
 | Colchester | Pam Cox MP | 4906 |
@@ -144,10 +144,10 @@
 | Dewsbury and Batley | Iqbal Mohamed MP | 3101 |
 | Didcot and Wantage | Olly Glover MP | 4769 |
 | Doncaster Central | Sally Jameson MP | 4818 |
-| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 5968 |
+| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 5969 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5447 |
 | Dorking and Horley | Chris Coghlan MP | 5468 |
-| Dover and Deal | Mike Tapp MP | 5806 |
+| Dover and Deal | Mike Tapp MP | 5807 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6439 |
 | Dudley | Sonia Kumar MP | 5294 |
 | Dulwich and West Norwood | Helen Hayes MP | 1523 |
@@ -209,7 +209,7 @@
 | Halesowen | Alex Ballinger MP | 4904 |
 | Halifax | Kate Dearden MP | 4649 |
 | Hamble Valley | Paul Holmes MP | 6027 |
-| Hammersmith and Chiswick | Andy Slaughter MP | 3156 |
+| Hammersmith and Chiswick | Andy Slaughter MP | 3157 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2929 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4618 |
 | Harlow | Chris Vince MP | 5970 |
@@ -524,7 +524,7 @@
 | West Ham and Beckton | James Asser MP | 2103 |
 | West Lancashire | Ashley Dalton MP | 4941 |
 | West Suffolk | Nick Timothy MP | 5911 |
-| West Worcestershire | Dame Harriett Baldwin MP | 6143 |
+| West Worcestershire | Dame Harriett Baldwin MP | 6144 |
 | Westmorland and Lonsdale | Tim Farron MP | 5109 |
 | Weston-super-Mare | Dan Aldridge MP | 4966 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6495 |
@@ -603,7 +603,7 @@
 | Glasgow North East | Maureen Burke MP | 2411 |
 | Glasgow South | Gordon McKee MP | 1815 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2218 |
-| Glasgow West | Patricia Ferguson MP | 2160 |
+| Glasgow West | Patricia Ferguson MP | 2161 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2898 |
 | Gordon and Buchan | Harriet Cross MP | 4310 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3074 |
