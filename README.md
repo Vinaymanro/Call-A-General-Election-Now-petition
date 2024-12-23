@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2939909                                |
-| Last Updated      | 2024-12-23 02:56:05 UTC                                    |
+| Total Signatures   | 2939918                                |
+| Last Updated      | 2024-12-23 03:40:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -125,7 +125,7 @@
 | Colne Valley | Paul Davies MP | 4924 |
 | Congleton | Mrs Sarah Russell MP | 5867 |
 | Corby and East Northamptonshire | Lee Barron MP | 5894 |
-| Coventry East | Mary Creagh MP | 3501 |
+| Coventry East | Mary Creagh MP | 3502 |
 | Coventry North West | Taiwo Owatemi MP | 4158 |
 | Coventry South | Zarah Sultana MP | 3459 |
 | Cramlington and Killingworth | Emma Foody MP | 5700 |
@@ -164,7 +164,7 @@
 | East Thanet | Ms Polly Billington MP | 5373 |
 | East Wiltshire | Danny Kruger MP | 5971 |
 | East Worthing and Shoreham | Tom Rutland MP | 4516 |
-| Eastbourne | Josh Babarinde MP | 4945 |
+| Eastbourne | Josh Babarinde MP | 4946 |
 | Eastleigh | Liz Jarvis MP | 4263 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2179 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4347 |
@@ -231,7 +231,7 @@
 | Hertford and Stortford | Josh Dean MP | 5894 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5657 |
 | Hexham | Joe Morris MP | 6327 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5165 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5166 |
 | High Peak | Jon Pearce MP | 5363 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6355 |
 | Hitchin | Alistair Strathern MP | 4840 |
@@ -292,7 +292,7 @@
 | Lowestoft | Jess Asato MP | 5224 |
 | Luton North | Sarah Owen MP | 2424 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2882 |
-| Macclesfield | Tim Roca MP | 5336 |
+| Macclesfield | Tim Roca MP | 5337 |
 | Maidenhead | Mr Joshua Reynolds MP | 5207 |
 | Maidstone and Malling | Helen Grant MP | 5748 |
 | Makerfield | Josh Simons MP | 5753 |
@@ -315,7 +315,7 @@
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4137 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5610 |
 | Milton Keynes Central | Emily Darlington MP | 4855 |
-| Milton Keynes North | Chris Curtis MP | 4487 |
+| Milton Keynes North | Chris Curtis MP | 4488 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2630 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5664 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5316 |
@@ -361,7 +361,7 @@
 | Nuneaton | Jodie Gosling MP | 5433 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6140 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5118 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4015 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4016 |
 | Orpington | Gareth Bacon MP | 5241 |
 | Ossett and Denby Dale | Jade Botterill MP | 5717 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2113 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4510 |
 | Yeovil | Adam Dance MP | 5485 |
 | York Central | Rachael Maskell MP | 3204 |
-| York Outer | Mr Luke Charters MP | 4278 |
+| York Outer | Mr Luke Charters MP | 4279 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2919 |
 | Belfast North | John Finucane MP | 2438 |
 | Belfast South and Mid Down | Claire Hanna MP | 1912 |
@@ -584,7 +584,7 @@
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3331 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 2959 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4005 |
-| Coatbridge and Bellshill | Frank McNally MP | 2548 |
+| Coatbridge and Bellshill | Frank McNally MP | 2549 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2804 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2623 |
 | Dumfries and Galloway | John Cooper MP | 3982 |
@@ -599,7 +599,7 @@
 | Edinburgh West | Christine Jardine MP | 2670 |
 | Falkirk | Euan Stainbank MP | 3362 |
 | Glasgow East | John Grady MP | 2270 |
-| Glasgow North | Martin Rhodes MP | 2007 |
+| Glasgow North | Martin Rhodes MP | 2008 |
 | Glasgow North East | Maureen Burke MP | 2411 |
 | Glasgow South | Gordon McKee MP | 1820 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2221 |
