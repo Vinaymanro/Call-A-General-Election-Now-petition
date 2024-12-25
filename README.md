@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2946975                                |
-| Last Updated      | 2024-12-25 03:20:15 UTC                                    |
+| Total Signatures   | 2946984                                |
+| Last Updated      | 2024-12-25 04:20:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -48,7 +48,7 @@
 | Birmingham Yardley | Jess Phillips MP | 3015 |
 | Bishop Auckland | Sam Rushworth MP | 6081 |
 | Blackburn | Mr Adnan Hussain MP | 3078 |
-| Blackley and Middleton South | Graham Stringer MP | 3684 |
+| Blackley and Middleton South | Graham Stringer MP | 3685 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6041 |
 | Blackpool South | Chris Webb MP | 5696 |
 | Blaydon and Consett | Liz Twist MP | 5171 |
@@ -75,7 +75,7 @@
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6523 |
 | Brigg and Immingham | Martin Vickers MP | 6362 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3850 |
-| Brighton Pavilion | Siân Berry MP | 2700 |
+| Brighton Pavilion | Siân Berry MP | 2701 |
 | Bristol Central | Carla Denyer MP | 1598 |
 | Bristol East | Kerry McCarthy MP | 2927 |
 | Bristol North East | Damien Egan MP | 3017 |
@@ -117,7 +117,7 @@
 | Chipping Barnet | Dan Tomlinson MP | 4293 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5421 |
 | Christchurch | Sir Christopher Chope MP | 5754 |
-| Cities of London and Westminster | Rachel Blake MP | 5115 |
+| Cities of London and Westminster | Rachel Blake MP | 5116 |
 | City of Durham | Mary Kelly Foy MP | 4180 |
 | Clacton | Nigel Farage MP | 7971 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1718 |
@@ -197,7 +197,7 @@
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5163 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6873 |
 | Gorton and Denton | Andrew Gwynne MP | 3203 |
-| Gosport | Dame Caroline Dinenage MP | 5392 |
+| Gosport | Dame Caroline Dinenage MP | 5393 |
 | Grantham and Bourne | Gareth Davies MP | 6232 |
 | Gravesham | Dr Lauren Sullivan MP | 5056 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5673 |
@@ -209,7 +209,7 @@
 | Halesowen | Alex Ballinger MP | 4917 |
 | Halifax | Kate Dearden MP | 4669 |
 | Hamble Valley | Paul Holmes MP | 6062 |
-| Hammersmith and Chiswick | Andy Slaughter MP | 3164 |
+| Hammersmith and Chiswick | Andy Slaughter MP | 3166 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2935 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4635 |
 | Harlow | Chris Vince MP | 5986 |
@@ -253,7 +253,7 @@
 | Islington North | Rt Hon Jeremy Corbyn MP | 1760 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2711 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5035 |
-| Keighley and Ilkley | Robbie Moore MP | 4615 |
+| Keighley and Ilkley | Robbie Moore MP | 4616 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6029 |
 | Kensington and Bayswater | Joe Powell MP | 4345 |
 | Kettering | Rosie Wrighting MP | 5811 |
@@ -334,7 +334,7 @@
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 5969 |
 | North Devon | Ian Roome MP | 5759 |
 | North Dorset | Simon Hoare MP | 6239 |
-| North Durham | Luke Akehurst MP | 5291 |
+| North Durham | Luke Akehurst MP | 5292 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 5967 |
 | North East Derbyshire | Louise Jones MP | 5711 |
 | North East Hampshire | Alex Brewer MP | 5888 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 4983 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6515 |
 | Whitehaven and Workington | Josh MacAlister MP | 5744 |
-| Widnes and Halewood | Derek Twigg MP | 4163 |
+| Widnes and Halewood | Derek Twigg MP | 4164 |
 | Wigan | Rt Hon Lisa Nandy MP | 5851 |
 | Wimbledon | Mr Paul Kohler MP | 3372 |
 | Winchester | Dr Danny Chambers MP | 4856 |
