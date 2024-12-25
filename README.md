@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2946968                                |
-| Last Updated      | 2024-12-25 02:46:11 UTC                                    |
+| Total Signatures   | 2946975                                |
+| Last Updated      | 2024-12-25 03:20:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -35,7 +35,7 @@
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6063 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6052 |
 | Bexleyheath and Crayford | Daniel Francis MP | 4987 |
-| Bicester and Woodstock | Calum Miller MP | 4600 |
+| Bicester and Woodstock | Calum Miller MP | 4601 |
 | Birkenhead | Alison McGovern MP | 4252 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2891 |
 | Birmingham Erdington | Paulette Hamilton MP | 4150 |
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5378 |
 | Dartford | Jim Dickson MP | 5664 |
 | Daventry | Rt Hon Stuart Andrew MP | 7194 |
-| Derby North | Catherine Atkinson MP | 4260 |
+| Derby North | Catherine Atkinson MP | 4261 |
 | Derby South | Baggy Shanker MP | 3521 |
 | Derbyshire Dales | John Whitby MP | 6706 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3113 |
@@ -206,7 +206,7 @@
 | Guildford | Zöe Franklin MP | 3940 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2049 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1493 |
-| Halesowen | Alex Ballinger MP | 4916 |
+| Halesowen | Alex Ballinger MP | 4917 |
 | Halifax | Kate Dearden MP | 4669 |
 | Hamble Valley | Paul Holmes MP | 6062 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3164 |
@@ -406,10 +406,10 @@
 | Rutland and Stamford | Alicia Kearns MP | 6187 |
 | Salford | Rebecca Long Bailey MP | 4588 |
 | Salisbury | Rt Hon John Glen MP | 4691 |
-| Scarborough and Whitby | Alison Hume MP | 5915 |
+| Scarborough and Whitby | Alison Hume MP | 5916 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5013 |
 | Sefton Central | Bill Esterson MP | 3953 |
-| Selby | Keir Mather MP | 6277 |
+| Selby | Keir Mather MP | 6278 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6597 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3362 |
 | Sheffield Central | Abtisam Mohamed MP | 1411 |
@@ -520,7 +520,7 @@
 | Wells and Mendip Hills | Tessa Munt MP | 5178 |
 | Welwyn Hatfield | Andrew Lewin MP | 4978 |
 | West Bromwich | Sarah Coombes MP | 3718 |
-| West Dorset | Edward Morello MP | 5387 |
+| West Dorset | Edward Morello MP | 5388 |
 | West Ham and Beckton | James Asser MP | 2109 |
 | West Lancashire | Ashley Dalton MP | 4964 |
 | West Suffolk | Nick Timothy MP | 5931 |
@@ -634,7 +634,7 @@
 | Bridgend | Chris Elmore MP | 4165 |
 | Caerfyrddin | Ann Davies MP | 5139 |
 | Caerphilly | Chris Evans MP | 3912 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2831 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2832 |
 | Cardiff North | Anna McMorrin MP | 3241 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2758 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3091 |
