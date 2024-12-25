@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2946984                                |
-| Last Updated      | 2024-12-25 04:20:28 UTC                                    |
+| Total Signatures   | 2946992                                |
+| Last Updated      | 2024-12-25 05:16:16 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -90,7 +90,7 @@
 | Burnley | Oliver Ryan MP | 5635 |
 | Burton and Uttoxeter | Jacob Collier MP | 5701 |
 | Bury North | Mr James Frith MP | 4886 |
-| Bury South | Christian Wakeford MP | 5361 |
+| Bury South | Christian Wakeford MP | 5362 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5367 |
 | Calder Valley | Josh Fenton-Glynn MP | 5580 |
 | Camborne and Redruth | Perran Moon MP | 4888 |
@@ -117,7 +117,7 @@
 | Chipping Barnet | Dan Tomlinson MP | 4293 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5421 |
 | Christchurch | Sir Christopher Chope MP | 5754 |
-| Cities of London and Westminster | Rachel Blake MP | 5116 |
+| Cities of London and Westminster | Rachel Blake MP | 5117 |
 | City of Durham | Mary Kelly Foy MP | 4180 |
 | Clacton | Nigel Farage MP | 7971 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1718 |
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1081 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5274 |
 | East Surrey | Rt Hon Claire Coutinho MP | 5952 |
-| East Thanet | Ms Polly Billington MP | 5391 |
+| East Thanet | Ms Polly Billington MP | 5392 |
 | East Wiltshire | Danny Kruger MP | 5990 |
 | East Worthing and Shoreham | Tom Rutland MP | 4533 |
 | Eastbourne | Josh Babarinde MP | 4962 |
@@ -234,7 +234,7 @@
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5174 |
 | High Peak | Jon Pearce MP | 5370 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6371 |
-| Hitchin | Alistair Strathern MP | 4857 |
+| Hitchin | Alistair Strathern MP | 4858 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2254 |
 | Honiton and Sidmouth | Richard Foord MP | 5162 |
 | Hornchurch and Upminster | Julia Lopez MP | 6552 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6064 |
 | South Devon | Caroline Voaden MP | 5241 |
 | South Dorset | Lloyd Hatton MP | 5572 |
-| South East Cornwall | Anna Gelderd MP | 6133 |
+| South East Cornwall | Anna Gelderd MP | 6134 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7020 |
 | South Leicestershire | Alberto Costa MP | 6894 |
 | South Norfolk | Ben Goldsborough MP | 5364 |
@@ -521,7 +521,7 @@
 | Welwyn Hatfield | Andrew Lewin MP | 4978 |
 | West Bromwich | Sarah Coombes MP | 3718 |
 | West Dorset | Edward Morello MP | 5388 |
-| West Ham and Beckton | James Asser MP | 2109 |
+| West Ham and Beckton | James Asser MP | 2110 |
 | West Lancashire | Ashley Dalton MP | 4964 |
 | West Suffolk | Nick Timothy MP | 5931 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6178 |
@@ -543,8 +543,8 @@
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4226 |
 | Wolverhampton West | Warinder Juss | 3755 |
 | Worcester | Tom Collins MP | 4259 |
-| Worsley and Eccles | Michael Wheeler MP | 5361 |
-| Worthing West | Dr Beccy Cooper MP | 5158 |
+| Worsley and Eccles | Michael Wheeler MP | 5362 |
+| Worthing West | Dr Beccy Cooper MP | 5159 |
 | Wycombe | Emma Reynolds MP | 3567 |
 | Wyre Forest | Mark Garnier MP | 6388 |
 | Wythenshawe and Sale East | Mike Kane MP | 4513 |
