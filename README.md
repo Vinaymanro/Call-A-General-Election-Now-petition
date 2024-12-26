@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2947830                                |
-| Last Updated      | 2024-12-26 04:20:26 UTC                                    |
+| Total Signatures   | 2947831                                |
+| Last Updated      | 2024-12-26 05:16:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2661 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1698 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6065 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6054 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6055 |
 | Bexleyheath and Crayford | Daniel Francis MP | 4987 |
 | Bicester and Woodstock | Calum Miller MP | 4601 |
 | Birkenhead | Alison McGovern MP | 4254 |
