@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2947831                                |
-| Last Updated      | 2024-12-26 05:16:24 UTC                                    |
+| Total Signatures   | 2947838                                |
+| Last Updated      | 2024-12-26 06:24:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -70,7 +70,7 @@
 | Brent East | Dawn Butler MP | 1829 |
 | Brent West | Barry Gardiner MP | 2045 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2944 |
-| Brentwood and Ongar | Alex Burghart MP | 8040 |
+| Brentwood and Ongar | Alex Burghart MP | 8041 |
 | Bridgwater | Sir Ashley Fox MP | 5667 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6525 |
 | Brigg and Immingham | Martin Vickers MP | 6367 |
@@ -104,7 +104,7 @@
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5232 |
 | Chatham and Aylesford | Tristan Osborne MP | 5527 |
 | Cheadle | Tom Morrison MP | 4616 |
-| Chelmsford | Marie Goldman MP | 5191 |
+| Chelmsford | Marie Goldman MP | 5192 |
 | Chelsea and Fulham | Ben Coleman MP | 5433 |
 | Cheltenham | Max Wilkinson MP | 3966 |
 | Chesham and Amersham | Sarah Green MP | 4881 |
@@ -216,7 +216,7 @@
 | Harpenden and Berkhamsted | Victoria Collins MP | 4481 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5052 |
 | Harrow East | Bob Blackman MP | 3092 |
-| Harrow West | Gareth Thomas MP | 2368 |
+| Harrow West | Gareth Thomas MP | 2369 |
 | Hartlepool | Mr Jonathan Brash MP | 5576 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6205 |
 | Hastings and Rye | Helena Dollimore MP | 4986 |
@@ -374,7 +374,7 @@
 | Plymouth Moor View | Fred Thomas MP | 5567 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4671 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5345 |
-| Poole | Neil Duncan-Jordan MP | 5583 |
+| Poole | Neil Duncan-Jordan MP | 5584 |
 | Poplar and Limehouse | Apsana Begum MP | 2886 |
 | Portsmouth North | Amanda Martin MP | 5527 |
 | Portsmouth South | Stephen Morgan MP | 3811 |
@@ -539,7 +539,7 @@
 | Witney | Charlie Maynard MP | 5080 |
 | Woking | Mr Will Forster MP | 4328 |
 | Wokingham | Clive Jones MP | 4815 |
-| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4312 |
+| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4313 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4227 |
 | Wolverhampton West | Warinder Juss | 3757 |
 | Worcester | Tom Collins MP | 4260 |
@@ -561,7 +561,7 @@
 | Foyle | Colum Eastwood MP | 1046 |
 | Lagan Valley | Sorcha Eastwood MP | 3484 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1873 |
-| Newry and Armagh | Dáire Hughes MP | 2044 |
+| Newry and Armagh | Dáire Hughes MP | 2045 |
 | North Antrim | Jim Allister KC MP | 3062 |
 | North Down | Alex Easton MP | 3297 |
 | South Antrim | Robin Swann MP | 3047 |
@@ -651,7 +651,7 @@
 | Neath and Swansea East | Carolyn Harris MP | 4356 |
 | Newport East | Jessica Morden MP | 3918 |
 | Newport West and Islwyn | Ruth Jones MP | 3974 |
-| Pontypridd | Alex Davies-Jones MP | 3826 |
+| Pontypridd | Alex Davies-Jones MP | 3827 |
 | Rhondda and Ogmore | Chris Bryant MP | 3969 |
 | Swansea West | Torsten Bell MP | 3577 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 3988 |
