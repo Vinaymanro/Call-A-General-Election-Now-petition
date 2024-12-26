@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2947826                                |
-| Last Updated      | 2024-12-26 03:21:17 UTC                                    |
+| Total Signatures   | 2947830                                |
+| Last Updated      | 2024-12-26 04:20:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 4887 |
 | Bury South | Christian Wakeford MP | 5365 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5368 |
-| Calder Valley | Josh Fenton-Glynn MP | 5583 |
+| Calder Valley | Josh Fenton-Glynn MP | 5584 |
 | Camborne and Redruth | Perran Moon MP | 4891 |
 | Cambridge | Daniel Zeichner MP | 2187 |
 | Cannock Chase | Josh Newbury MP | 6769 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3727 |
 | Putney | Fleur Anderson MP | 3469 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2121 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5000 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5002 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7275 |
 | Reading Central | Matt Rodda MP | 2992 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4372 |
@@ -484,7 +484,7 @@
 | Swindon North | Will Stone MP | 4824 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4124 |
 | Tamworth | Sarah Edwards MP | 6841 |
-| Tatton | Rt Hon Esther McVey MP | 6437 |
+| Tatton | Rt Hon Esther McVey MP | 6438 |
 | Taunton and Wellington | Gideon Amos MP | 5101 |
 | Telford | Shaun Davies MP | 5476 |
 | Tewkesbury | Cameron Thomas MP | 4945 |
