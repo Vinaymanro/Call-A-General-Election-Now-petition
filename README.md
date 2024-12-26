@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2947824                                |
-| Last Updated      | 2024-12-26 02:46:42 UTC                                    |
+| Total Signatures   | 2947826                                |
+| Last Updated      | 2024-12-26 03:21:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -67,7 +67,7 @@
 | Bradford South | Judith Cummins MP | 4077 |
 | Bradford West | Naz Shah MP | 1771 |
 | Braintree | Rt Hon James Cleverly MP | 7340 |
-| Brent East | Dawn Butler MP | 1828 |
+| Brent East | Dawn Butler MP | 1829 |
 | Brent West | Barry Gardiner MP | 2045 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2944 |
 | Brentwood and Ongar | Alex Burghart MP | 8040 |
@@ -206,7 +206,7 @@
 | Guildford | Zöe Franklin MP | 3940 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2049 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1494 |
-| Halesowen | Alex Ballinger MP | 4917 |
+| Halesowen | Alex Ballinger MP | 4918 |
 | Halifax | Kate Dearden MP | 4669 |
 | Hamble Valley | Paul Holmes MP | 6063 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3167 |
