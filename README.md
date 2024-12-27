@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2949115                                |
-| Last Updated      | 2024-12-27 04:20:02 UTC                                    |
+| Total Signatures   | 2949121                                |
+| Last Updated      | 2024-12-27 05:16:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -109,7 +109,7 @@
 | Cheltenham | Max Wilkinson MP | 3967 |
 | Chesham and Amersham | Sarah Green MP | 4884 |
 | Chester North and Neston | Samantha Dixon MP | 3980 |
-| Chester South and Eddisbury | Aphra Brandreth MP | 6331 |
+| Chester South and Eddisbury | Aphra Brandreth MP | 6332 |
 | Chesterfield | Mr Toby Perkins MP | 4804 |
 | Chichester | Jess Brown-Fuller MP | 5837 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4123 |
@@ -361,7 +361,7 @@
 | Nuneaton | Jodie Gosling MP | 5455 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6158 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5144 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4028 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4029 |
 | Orpington | Gareth Bacon MP | 5260 |
 | Ossett and Denby Dale | Jade Botterill MP | 5734 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2118 |
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 3953 |
 | Selby | Keir Mather MP | 6280 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6602 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3364 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3365 |
 | Sheffield Central | Abtisam Mohamed MP | 1411 |
 | Sheffield Hallam | Olivia Blake MP | 3357 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3475 |
@@ -510,7 +510,7 @@
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3941 |
 | Walthamstow | Ms Stella Creasy MP | 1294 |
 | Warrington North | Charlotte Nichols MP | 5091 |
-| Warrington South | Sarah Hall MP | 5496 |
+| Warrington South | Sarah Hall MP | 5497 |
 | Warwick and Leamington | Matt Western MP | 4413 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5233 |
 | Watford | Matt Turmaine MP | 3699 |
@@ -526,7 +526,7 @@
 | West Suffolk | Nick Timothy MP | 5935 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6181 |
 | Westmorland and Lonsdale | Tim Farron MP | 5139 |
-| Weston-super-Mare | Dan Aldridge MP | 4989 |
+| Weston-super-Mare | Dan Aldridge MP | 4990 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6518 |
 | Whitehaven and Workington | Josh MacAlister MP | 5751 |
 | Widnes and Halewood | Derek Twigg MP | 4166 |
@@ -551,7 +551,7 @@
 | Yeovil | Adam Dance MP | 5514 |
 | York Central | Rachael Maskell MP | 3217 |
 | York Outer | Mr Luke Charters MP | 4291 |
-| Belfast East | Rt Hon Gavin Robinson MP | 2923 |
+| Belfast East | Rt Hon Gavin Robinson MP | 2924 |
 | Belfast North | John Finucane MP | 2442 |
 | Belfast South and Mid Down | Claire Hanna MP | 1920 |
 | Belfast West | Paul Maskey MP | 1384 |
