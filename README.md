@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2949109                                |
-| Last Updated      | 2024-12-27 02:48:05 UTC                                    |
+| Total Signatures   | 2949112                                |
+| Last Updated      | 2024-12-27 03:21:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -100,7 +100,7 @@
 | Carlisle | Ms Julie Minns MP | 6446 |
 | Carshalton and Wallington | Bobby Dean MP | 4197 |
 | Castle Point | Rebecca Harris MP | 7428 |
-| Central Devon | Rt Hon Mel Stride MP | 5727 |
+| Central Devon | Rt Hon Mel Stride MP | 5728 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5235 |
 | Chatham and Aylesford | Tristan Osborne MP | 5529 |
 | Cheadle | Tom Morrison MP | 4617 |
@@ -223,7 +223,7 @@
 | Havant | Alan Mak MP | 5572 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2545 |
 | Hazel Grove | Lisa Smart MP | 5029 |
-| Hemel Hempstead | David Taylor MP | 5007 |
+| Hemel Hempstead | David Taylor MP | 5008 |
 | Hendon | David Pinto-Duschinsky MP | 3749 |
 | Henley and Thame | Freddie van Mierlo MP | 5334 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5207 |
@@ -256,7 +256,7 @@
 | Keighley and Ilkley | Robbie Moore MP | 4620 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6031 |
 | Kensington and Bayswater | Joe Powell MP | 4346 |
-| Kettering | Rosie Wrighting MP | 5817 |
+| Kettering | Rosie Wrighting MP | 5818 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3695 |
 | Kingston upon Hull East | Karl Turner MP | 4920 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4571 |
