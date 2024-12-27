@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2949112                                |
-| Last Updated      | 2024-12-27 03:21:02 UTC                                    |
+| Total Signatures   | 2949115                                |
+| Last Updated      | 2024-12-27 04:20:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -68,7 +68,7 @@
 | Bradford West | Naz Shah MP | 1771 |
 | Braintree | Rt Hon James Cleverly MP | 7341 |
 | Brent East | Dawn Butler MP | 1831 |
-| Brent West | Barry Gardiner MP | 2045 |
+| Brent West | Barry Gardiner MP | 2046 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2945 |
 | Brentwood and Ongar | Alex Burghart MP | 8041 |
 | Bridgwater | Sir Ashley Fox MP | 5667 |
@@ -438,7 +438,7 @@
 | South Northamptonshire | Sarah Bool MP | 6579 |
 | South Ribble | Mr Paul Foster MP | 5812 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4667 |
-| South Shropshire | Stuart Anderson MP | 7246 |
+| South Shropshire | Stuart Anderson MP | 7247 |
 | South Suffolk | James Cartlidge MP | 6067 |
 | South West Devon | Rebecca Smith MP | 5897 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5145 |
@@ -592,7 +592,7 @@
 | Dundee Central | Chris Law MP | 2498 |
 | Dunfermline and Dollar | Graeme Downie MP | 2883 |
 | East Kilbride and Strathaven | Joani Reid MP | 3107 |
-| Edinburgh East and Musselburgh | Chris Murray MP | 2045 |
+| Edinburgh East and Musselburgh | Chris Murray MP | 2046 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2379 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2038 |
 | Edinburgh South West | Dr Scott Arthur MP | 2222 |
