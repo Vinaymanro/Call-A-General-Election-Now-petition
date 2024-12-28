@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2950090                                |
-| Last Updated      | 2024-12-28 02:43:20 UTC                                    |
+| Total Signatures   | 2950095                                |
+| Last Updated      | 2024-12-28 03:19:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1719 |
 | Colchester | Pam Cox MP | 4927 |
 | Colne Valley | Paul Davies MP | 4948 |
-| Congleton | Mrs Sarah Russell MP | 5878 |
+| Congleton | Mrs Sarah Russell MP | 5879 |
 | Corby and East Northamptonshire | Lee Barron MP | 5916 |
 | Coventry East | Mary Creagh MP | 3510 |
 | Coventry North West | Taiwo Owatemi MP | 4172 |
@@ -256,7 +256,7 @@
 | Keighley and Ilkley | Robbie Moore MP | 4620 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6032 |
 | Kensington and Bayswater | Joe Powell MP | 4346 |
-| Kettering | Rosie Wrighting MP | 5821 |
+| Kettering | Rosie Wrighting MP | 5822 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3696 |
 | Kingston upon Hull East | Karl Turner MP | 4921 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4573 |
@@ -432,7 +432,7 @@
 | South Devon | Caroline Voaden MP | 5248 |
 | South Dorset | Lloyd Hatton MP | 5577 |
 | South East Cornwall | Anna Gelderd MP | 6139 |
-| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7023 |
+| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7024 |
 | South Leicestershire | Alberto Costa MP | 6903 |
 | South Norfolk | Ben Goldsborough MP | 5371 |
 | South Northamptonshire | Sarah Bool MP | 6586 |
@@ -587,7 +587,7 @@
 | Coatbridge and Bellshill | Frank McNally MP | 2556 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2812 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2637 |
-| Dumfries and Galloway | John Cooper MP | 3990 |
+| Dumfries and Galloway | John Cooper MP | 3991 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3807 |
 | Dundee Central | Chris Law MP | 2499 |
 | Dunfermline and Dollar | Graeme Downie MP | 2885 |
@@ -627,7 +627,7 @@
 | Kilmarnock and Loudoun | Lillian Jones MP | 3209 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4493 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3614 |
-| Alyn and Deeside | Rt Hon Mark Tami MP | 5676 |
+| Alyn and Deeside | Rt Hon Mark Tami MP | 5677 |
 | Bangor Aberconwy | Claire Hughes MP | 4449 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3550 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5216 |
