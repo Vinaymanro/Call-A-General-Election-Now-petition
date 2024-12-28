@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2950106                                |
-| Last Updated      | 2024-12-28 05:15:25 UTC                                    |
+| Total Signatures   | 2950114                                |
+| Last Updated      | 2024-12-28 06:22:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -13,7 +13,7 @@
 | Altrincham and Sale West | Mr Connor Rand MP | 5452 |
 | Amber Valley | Linsey Farnsworth MP | 6000 |
 | Arundel and South Downs | Andrew Griffith MP | 6876 |
-| Ashfield | Lee Anderson MP | 6077 |
+| Ashfield | Lee Anderson MP | 6078 |
 | Ashford | Sojan Joseph MP | 5819 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4501 |
 | Aylesbury | Laura Kyrke-Smith MP | 4808 |
@@ -169,7 +169,7 @@
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2185 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4364 |
 | Eltham and Chislehurst | Clive Efford MP | 4646 |
-| Ely and East Cambridgeshire | Charlotte Cane MP | 5099 |
+| Ely and East Cambridgeshire | Charlotte Cane MP | 5100 |
 | Enfield North | Feryal Clark MP | 2845 |
 | Epping Forest | Dr Neil Hudson MP | 6504 |
 | Epsom and Ewell | Helen Maguire MP | 4874 |
@@ -287,7 +287,7 @@
 | Liverpool Walton | Dan Carden MP | 3295 |
 | Liverpool Wavertree | Paula Barker MP | 2176 |
 | Liverpool West Derby | Ian Byrne MP | 2968 |
-| Loughborough | Dr Jeevun Sandher MP | 4418 |
+| Loughborough | Dr Jeevun Sandher MP | 4419 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7691 |
 | Lowestoft | Jess Asato MP | 5244 |
 | Luton North | Sarah Owen MP | 2430 |
@@ -433,7 +433,7 @@
 | South Dorset | Lloyd Hatton MP | 5577 |
 | South East Cornwall | Anna Gelderd MP | 6139 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7025 |
-| South Leicestershire | Alberto Costa MP | 6903 |
+| South Leicestershire | Alberto Costa MP | 6904 |
 | South Norfolk | Ben Goldsborough MP | 5371 |
 | South Northamptonshire | Sarah Bool MP | 6586 |
 | South Ribble | Mr Paul Foster MP | 5813 |
@@ -537,17 +537,17 @@
 | Wirral West | Matthew Patrick MP | 4169 |
 | Witham | Rt Hon Priti Patel MP | 6935 |
 | Witney | Charlie Maynard MP | 5083 |
-| Woking | Mr Will Forster MP | 4331 |
+| Woking | Mr Will Forster MP | 4332 |
 | Wokingham | Clive Jones MP | 4816 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4315 |
-| Wolverhampton South East | Rt Hon Pat McFadden MP | 4232 |
+| Wolverhampton South East | Rt Hon Pat McFadden MP | 4233 |
 | Wolverhampton West | Warinder Juss | 3759 |
 | Worcester | Tom Collins MP | 4263 |
 | Worsley and Eccles | Michael Wheeler MP | 5366 |
 | Worthing West | Dr Beccy Cooper MP | 5167 |
 | Wycombe | Emma Reynolds MP | 3570 |
 | Wyre Forest | Mark Garnier MP | 6397 |
-| Wythenshawe and Sale East | Mike Kane MP | 4516 |
+| Wythenshawe and Sale East | Mike Kane MP | 4517 |
 | Yeovil | Adam Dance MP | 5516 |
 | York Central | Rachael Maskell MP | 3217 |
 | York Outer | Mr Luke Charters MP | 4293 |
@@ -625,7 +625,7 @@
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3975 |
 | Central Ayrshire | Alan Gemmell MP | 3080 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3209 |
-| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4493 |
+| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4494 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3614 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5677 |
 | Bangor Aberconwy | Claire Hughes MP | 4449 |
