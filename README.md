@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2950099                                |
-| Last Updated      | 2024-12-28 04:19:45 UTC                                    |
+| Total Signatures   | 2950106                                |
+| Last Updated      | 2024-12-28 05:15:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -24,7 +24,7 @@
 | Barrow and Furness | Michelle Scrogham MP | 5232 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6794 |
 | Basingstoke | Luke Murphy MP | 4751 |
-| Bassetlaw | Jo White MP | 6650 |
+| Bassetlaw | Jo White MP | 6651 |
 | Bath | Wera Hobhouse MP | 2940 |
 | Battersea | Marsha De Cordova MP | 3584 |
 | Beaconsfield | Joy Morrissey MP | 5154 |
@@ -121,7 +121,7 @@
 | City of Durham | Mary Kelly Foy MP | 4187 |
 | Clacton | Nigel Farage MP | 7983 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1719 |
-| Colchester | Pam Cox MP | 4927 |
+| Colchester | Pam Cox MP | 4928 |
 | Colne Valley | Paul Davies MP | 4948 |
 | Congleton | Mrs Sarah Russell MP | 5879 |
 | Corby and East Northamptonshire | Lee Barron MP | 5916 |
@@ -242,7 +242,7 @@
 | Horsham | John Milne MP | 5747 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6217 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3270 |
-| Huddersfield | Harpreet Uppal MP | 3629 |
+| Huddersfield | Harpreet Uppal MP | 3630 |
 | Huntingdon | Ben Obese-Jecty MP | 5476 |
 | Hyndburn | Sarah Smith MP | 4925 |
 | Ilford North | Rt Hon Wes Streeting MP | 2588 |
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5347 |
 | Maidenhead | Mr Joshua Reynolds MP | 5225 |
 | Maidstone and Malling | Helen Grant MP | 5771 |
-| Makerfield | Josh Simons MP | 5769 |
+| Makerfield | Josh Simons MP | 5770 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8033 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3940 |
 | Manchester Rusholme | Afzal Khan MP | 1199 |
@@ -310,7 +310,7 @@
 | Mid Derbyshire | Jonathan Davies MP | 5170 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5817 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5507 |
-| Mid Norfolk | George Freeman MP | 6194 |
+| Mid Norfolk | George Freeman MP | 6195 |
 | Mid Sussex | Alison Bennett MP | 4646 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4155 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5633 |
@@ -432,7 +432,7 @@
 | South Devon | Caroline Voaden MP | 5248 |
 | South Dorset | Lloyd Hatton MP | 5577 |
 | South East Cornwall | Anna Gelderd MP | 6139 |
-| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7024 |
+| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7025 |
 | South Leicestershire | Alberto Costa MP | 6903 |
 | South Norfolk | Ben Goldsborough MP | 5371 |
 | South Northamptonshire | Sarah Bool MP | 6586 |
@@ -618,7 +618,7 @@
 | Paisley and Renfrewshire North | Alison Taylor MP | 2798 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2600 |
 | Perth and Kinross-shire | Pete Wishart MP | 3458 |
-| Rutherglen | Michael Shanks MP | 2513 |
+| Rutherglen | Michael Shanks MP | 2514 |
 | Stirling and Strathallan | Chris Kane MP | 3187 |
 | West Dunbartonshire | Douglas McAllister MP | 2680 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3502 |
