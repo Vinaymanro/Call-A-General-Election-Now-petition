@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2950095                                |
-| Last Updated      | 2024-12-28 03:19:08 UTC                                    |
+| Total Signatures   | 2950099                                |
+| Last Updated      | 2024-12-28 04:19:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5654 |
 | Barrow and Furness | Michelle Scrogham MP | 5232 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6794 |
-| Basingstoke | Luke Murphy MP | 4750 |
+| Basingstoke | Luke Murphy MP | 4751 |
 | Bassetlaw | Jo White MP | 6650 |
 | Bath | Wera Hobhouse MP | 2940 |
 | Battersea | Marsha De Cordova MP | 3584 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6238 |
 | Gravesham | Dr Lauren Sullivan MP | 5061 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5678 |
-| Great Yarmouth | Rupert Lowe MP | 6482 |
+| Great Yarmouth | Rupert Lowe MP | 6483 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2571 |
 | Guildford | Zöe Franklin MP | 3944 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2049 |
@@ -277,7 +277,7 @@
 | Leigh and Atherton | Jo Platt MP | 5985 |
 | Lewes | James MacCleary MP | 4837 |
 | Lewisham East | Janet Daby MP | 2118 |
-| Lewisham North | Vicky Foxcroft MP | 1630 |
+| Lewisham North | Vicky Foxcroft MP | 1632 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1561 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1848 |
 | Lichfield | Dave Robertson MP | 6408 |
