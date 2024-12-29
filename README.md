@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2951197                                |
-| Last Updated      | 2024-12-29 06:22:38 UTC                                    |
+| Total Signatures   | 2951205                                |
+| Last Updated      | 2024-12-29 07:14:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -53,7 +53,7 @@
 | Blackpool South | Chris Webb MP | 5699 |
 | Blaydon and Consett | Liz Twist MP | 5179 |
 | Blyth and Ashington | Ian Lavery MP | 5776 |
-| Bognor Regis and Littlehampton | Alison Griffiths MP | 6058 |
+| Bognor Regis and Littlehampton | Alison Griffiths MP | 6059 |
 | Bolsover | Natalie Fleet MP | 6436 |
 | Bolton North East | Kirith Entwistle MP | 5513 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4340 |
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 4890 |
 | Bury South | Christian Wakeford MP | 5366 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5381 |
-| Calder Valley | Josh Fenton-Glynn MP | 5586 |
+| Calder Valley | Josh Fenton-Glynn MP | 5587 |
 | Camborne and Redruth | Perran Moon MP | 4898 |
 | Cambridge | Daniel Zeichner MP | 2188 |
 | Cannock Chase | Josh Newbury MP | 6776 |
@@ -104,7 +104,7 @@
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5238 |
 | Chatham and Aylesford | Tristan Osborne MP | 5531 |
 | Cheadle | Tom Morrison MP | 4618 |
-| Chelmsford | Marie Goldman MP | 5193 |
+| Chelmsford | Marie Goldman MP | 5194 |
 | Chelsea and Fulham | Ben Coleman MP | 5435 |
 | Cheltenham | Max Wilkinson MP | 3971 |
 | Chesham and Amersham | Sarah Green MP | 4888 |
@@ -154,7 +154,7 @@
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5449 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3048 |
 | Ealing North | James Murray MP | 2554 |
-| Ealing Southall | Deirdre Costigan MP | 1927 |
+| Ealing Southall | Deirdre Costigan MP | 1928 |
 | Earley and Woodley | Yuan Yang MP | 3908 |
 | Easington | Grahame Morris MP | 5646 |
 | East Grinstead and Uckfield | Mims Davies MP | 5962 |
@@ -220,7 +220,7 @@
 | Hartlepool | Mr Jonathan Brash MP | 5582 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6207 |
 | Hastings and Rye | Helena Dollimore MP | 4993 |
-| Havant | Alan Mak MP | 5577 |
+| Havant | Alan Mak MP | 5578 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2545 |
 | Hazel Grove | Lisa Smart MP | 5034 |
 | Hemel Hempstead | David Taylor MP | 5012 |
@@ -243,7 +243,7 @@
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6224 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3272 |
 | Huddersfield | Harpreet Uppal MP | 3632 |
-| Huntingdon | Ben Obese-Jecty MP | 5477 |
+| Huntingdon | Ben Obese-Jecty MP | 5478 |
 | Hyndburn | Sarah Smith MP | 4927 |
 | Ilford North | Rt Hon Wes Streeting MP | 2588 |
 | Ilford South | Jas Athwal MP | 1561 |
@@ -383,7 +383,7 @@
 | Queen's Park and Maida Vale | Georgia Gould MP | 2123 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5016 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7282 |
-| Reading Central | Matt Rodda MP | 2994 |
+| Reading Central | Matt Rodda MP | 2995 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4373 |
 | Redcar | Anna Turley MP | 5377 |
 | Redditch | Chris Bloore MP | 5989 |
@@ -392,7 +392,7 @@
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7021 |
 | Richmond Park | Sarah Olney MP | 4025 |
 | Rochdale | Paul Waugh MP | 3872 |
-| Rochester and Strood | Lauren Edwards MP | 5939 |
+| Rochester and Strood | Lauren Edwards MP | 5940 |
 | Romford | Andrew Rosindell MP | 5737 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5018 |
 | Rossendale and Darwen | Andy MacNae MP | 6403 |
