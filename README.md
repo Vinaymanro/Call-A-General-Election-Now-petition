@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2951184                                |
-| Last Updated      | 2024-12-29 04:19:53 UTC                                    |
+| Total Signatures   | 2951186                                |
+| Last Updated      | 2024-12-29 05:15:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -52,7 +52,7 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6057 |
 | Blackpool South | Chris Webb MP | 5699 |
 | Blaydon and Consett | Liz Twist MP | 5179 |
-| Blyth and Ashington | Ian Lavery MP | 5775 |
+| Blyth and Ashington | Ian Lavery MP | 5776 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6058 |
 | Bolsover | Natalie Fleet MP | 6436 |
 | Bolton North East | Kirith Entwistle MP | 5513 |
@@ -331,7 +331,7 @@
 | Normanton and Hemsworth | Jon Trickett MP | 5407 |
 | North Bedfordshire | Richard Fuller MP | 6034 |
 | North Cornwall | Ben Maguire MP | 6330 |
-| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 5975 |
+| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 5976 |
 | North Devon | Ian Roome MP | 5774 |
 | North Dorset | Simon Hoare MP | 6244 |
 | North Durham | Luke Akehurst MP | 5305 |
