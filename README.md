@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2951183                                |
-| Last Updated      | 2024-12-29 03:25:59 UTC                                    |
+| Total Signatures   | 2951184                                |
+| Last Updated      | 2024-12-29 04:19:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -481,7 +481,7 @@
 | Sussex Weald | Ms Nusrat Ghani MP | 6037 |
 | Sutton and Cheam | Luke Taylor MP | 4353 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5595 |
-| Swindon North | Will Stone MP | 4828 |
+| Swindon North | Will Stone MP | 4829 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4128 |
 | Tamworth | Sarah Edwards MP | 6845 |
 | Tatton | Rt Hon Esther McVey MP | 6443 |
