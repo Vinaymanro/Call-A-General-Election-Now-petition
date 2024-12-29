@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2951178                                |
-| Last Updated      | 2024-12-29 02:54:31 UTC                                    |
+| Total Signatures   | 2951183                                |
+| Last Updated      | 2024-12-29 03:25:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 5962 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1086 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5280 |
-| East Surrey | Rt Hon Claire Coutinho MP | 5962 |
+| East Surrey | Rt Hon Claire Coutinho MP | 5963 |
 | East Thanet | Ms Polly Billington MP | 5401 |
 | East Wiltshire | Danny Kruger MP | 6000 |
 | East Worthing and Shoreham | Tom Rutland MP | 4539 |
@@ -177,7 +177,7 @@
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3174 |
 | Esher and Walton | Monica Harding MP | 4771 |
 | Exeter | Steve Race MP | 3130 |
-| Exmouth and Exeter East | David Reed MP | 5119 |
+| Exmouth and Exeter East | David Reed MP | 5120 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6035 |
 | Farnham and Bordon | Gregory Stafford MP | 5114 |
 | Faversham and Mid Kent | Helen Whately MP | 6144 |
@@ -283,7 +283,7 @@
 | Lichfield | Dave Robertson MP | 6408 |
 | Lincoln | Mr Hamish Falconer MP | 4590 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3080 |
-| Liverpool Riverside | Kim Johnson MP | 2583 |
+| Liverpool Riverside | Kim Johnson MP | 2584 |
 | Liverpool Walton | Dan Carden MP | 3297 |
 | Liverpool Wavertree | Paula Barker MP | 2177 |
 | Liverpool West Derby | Ian Byrne MP | 2968 |
@@ -403,7 +403,7 @@
 | Runcorn and Helsby | Mike Amesbury MP | 4942 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5777 |
 | Rushcliffe | James Naish MP | 5012 |
-| Rutland and Stamford | Alicia Kearns MP | 6196 |
+| Rutland and Stamford | Alicia Kearns MP | 6197 |
 | Salford | Rebecca Long Bailey MP | 4596 |
 | Salisbury | Rt Hon John Glen MP | 4696 |
 | Scarborough and Whitby | Alison Hume MP | 5921 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4769 |
 | Stockton West | Matt Vickers MP | 5901 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4625 |
-| Stoke-on-Trent North | David Williams MP | 5362 |
+| Stoke-on-Trent North | David Williams MP | 5363 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5652 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6443 |
 | Stourbridge | Cat Eccles MP | 5070 |
