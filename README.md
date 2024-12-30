@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2952345                                |
-| Last Updated      | 2024-12-30 05:16:53 UTC                                    |
+| Total Signatures   | 2952352                                |
+| Last Updated      | 2024-12-30 06:25:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -73,7 +73,7 @@
 | Brentwood and Ongar | Alex Burghart MP | 8048 |
 | Bridgwater | Sir Ashley Fox MP | 5675 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6536 |
-| Brigg and Immingham | Martin Vickers MP | 6379 |
+| Brigg and Immingham | Martin Vickers MP | 6380 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3856 |
 | Brighton Pavilion | Siân Berry MP | 2703 |
 | Bristol Central | Carla Denyer MP | 1600 |
@@ -401,7 +401,7 @@
 | Rugby | John Slinger MP | 5323 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4060 |
 | Runcorn and Helsby | Mike Amesbury MP | 4944 |
-| Runnymede and Weybridge | Dr Ben Spencer MP | 5779 |
+| Runnymede and Weybridge | Dr Ben Spencer MP | 5780 |
 | Rushcliffe | James Naish MP | 5014 |
 | Rutland and Stamford | Alicia Kearns MP | 6198 |
 | Salford | Rebecca Long Bailey MP | 4597 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5148 |
 | South West Norfolk | Terry Jermy MP | 6452 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5126 |
-| Southampton Itchen | Darren Paffey MP | 4451 |
+| Southampton Itchen | Darren Paffey MP | 4452 |
 | Southampton Test | Satvir Kaur MP | 3340 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5500 |
 | Southend West and Leigh | David Burton-Sampson MP | 5795 |
@@ -539,7 +539,7 @@
 | Witney | Charlie Maynard MP | 5088 |
 | Woking | Mr Will Forster MP | 4333 |
 | Wokingham | Clive Jones MP | 4820 |
-| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4319 |
+| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4320 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4233 |
 | Wolverhampton West | Warinder Juss | 3761 |
 | Worcester | Tom Collins MP | 4266 |
@@ -611,11 +611,11 @@
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3567 |
 | Livingston | Gregor Poynton MP | 3343 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2816 |
-| Mid Dunbartonshire | Susan Murray MP | 2486 |
+| Mid Dunbartonshire | Susan Murray MP | 2487 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3874 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2679 |
 | North East Fife | Wendy Chamberlain MP | 2865 |
-| Paisley and Renfrewshire North | Alison Taylor MP | 2799 |
+| Paisley and Renfrewshire North | Alison Taylor MP | 2800 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2601 |
 | Perth and Kinross-shire | Pete Wishart MP | 3458 |
 | Rutherglen | Michael Shanks MP | 2520 |
@@ -654,7 +654,7 @@
 | Pontypridd | Alex Davies-Jones MP | 3834 |
 | Rhondda and Ogmore | Chris Bryant MP | 3971 |
 | Swansea West | Torsten Bell MP | 3590 |
-| Torfaen | Rt Hon Nick Thomas-Symonds MP | 3993 |
+| Torfaen | Rt Hon Nick Thomas-Symonds MP | 3994 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4556 |
 | Wrexham | Andrew Ranger MP | 4734 |
 | Ynys Môn | Llinos Medi MP | 3688 |
