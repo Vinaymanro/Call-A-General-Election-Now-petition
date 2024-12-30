@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2952338                                |
-| Last Updated      | 2024-12-30 04:20:17 UTC                                    |
+| Total Signatures   | 2952345                                |
+| Last Updated      | 2024-12-30 05:16:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3085 |
 | Blackley and Middleton South | Graham Stringer MP | 3695 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6062 |
-| Blackpool South | Chris Webb MP | 5706 |
+| Blackpool South | Chris Webb MP | 5707 |
 | Blaydon and Consett | Liz Twist MP | 5180 |
 | Blyth and Ashington | Ian Lavery MP | 5778 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6061 |
@@ -58,7 +58,7 @@
 | Bolton North East | Kirith Entwistle MP | 5513 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4341 |
 | Bolton West | Phil Brickell MP | 5516 |
-| Bootle | Peter Dowd MP | 3100 |
+| Bootle | Peter Dowd MP | 3101 |
 | Boston and Skegness | Richard Tice MP | 6990 |
 | Bournemouth East | Tom Hayes MP | 4598 |
 | Bournemouth West | Jessica Toale MP | 4832 |
@@ -142,7 +142,7 @@
 | Derby South | Baggy Shanker MP | 3531 |
 | Derbyshire Dales | John Whitby MP | 6718 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3122 |
-| Didcot and Wantage | Olly Glover MP | 4805 |
+| Didcot and Wantage | Olly Glover MP | 4806 |
 | Doncaster Central | Sally Jameson MP | 4858 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6014 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5476 |
@@ -329,7 +329,7 @@
 | Newton Abbot | Martin Wrigley MP | 5042 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5450 |
 | Normanton and Hemsworth | Jon Trickett MP | 5410 |
-| North Bedfordshire | Richard Fuller MP | 6035 |
+| North Bedfordshire | Richard Fuller MP | 6036 |
 | North Cornwall | Ben Maguire MP | 6334 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 5978 |
 | North Devon | Ian Roome MP | 5776 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4522 |
 | Yeovil | Adam Dance MP | 5518 |
 | York Central | Rachael Maskell MP | 3220 |
-| York Outer | Mr Luke Charters MP | 4295 |
+| York Outer | Mr Luke Charters MP | 4296 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2928 |
 | Belfast North | John Finucane MP | 2448 |
 | Belfast South and Mid Down | Claire Hanna MP | 1924 |
@@ -559,7 +559,7 @@
 | East Londonderry | Mr Gregory Campbell MP | 2502 |
 | Fermanagh and South Tyrone | Pat Cullen MP | 2254 |
 | Foyle | Colum Eastwood MP | 1047 |
-| Lagan Valley | Sorcha Eastwood MP | 3490 |
+| Lagan Valley | Sorcha Eastwood MP | 3491 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1879 |
 | Newry and Armagh | Dáire Hughes MP | 2047 |
 | North Antrim | Jim Allister KC MP | 3064 |
@@ -618,7 +618,7 @@
 | Paisley and Renfrewshire North | Alison Taylor MP | 2799 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2601 |
 | Perth and Kinross-shire | Pete Wishart MP | 3458 |
-| Rutherglen | Michael Shanks MP | 2519 |
+| Rutherglen | Michael Shanks MP | 2520 |
 | Stirling and Strathallan | Chris Kane MP | 3189 |
 | West Dunbartonshire | Douglas McAllister MP | 2680 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3512 |
