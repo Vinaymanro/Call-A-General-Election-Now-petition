@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2952320                                |
-| Last Updated      | 2024-12-30 02:50:48 UTC                                    |
+| Total Signatures   | 2952325                                |
+| Last Updated      | 2024-12-30 03:23:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 5964 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1087 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5281 |
-| East Surrey | Rt Hon Claire Coutinho MP | 5963 |
+| East Surrey | Rt Hon Claire Coutinho MP | 5964 |
 | East Thanet | Ms Polly Billington MP | 5403 |
 | East Wiltshire | Danny Kruger MP | 6000 |
 | East Worthing and Shoreham | Tom Rutland MP | 4539 |
@@ -273,7 +273,7 @@
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3732 |
 | Leicester East | Shivani Raja MP | 1851 |
 | Leicester South | Shockat Adam MP | 1809 |
-| Leicester West | Rt Hon Liz Kendall MP | 3403 |
+| Leicester West | Rt Hon Liz Kendall MP | 3404 |
 | Leigh and Atherton | Jo Platt MP | 5991 |
 | Lewes | James MacCleary MP | 4839 |
 | Lewisham East | Janet Daby MP | 2118 |
@@ -463,12 +463,12 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5266 |
 | Stevenage | Kevin Bonavia MP | 4663 |
 | Stockport | Navendu Mishra MP | 3856 |
-| Stockton North | Chris McDonald MP | 4777 |
+| Stockton North | Chris McDonald MP | 4778 |
 | Stockton West | Matt Vickers MP | 5903 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4628 |
 | Stoke-on-Trent North | David Williams MP | 5364 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5654 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6446 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6447 |
 | Stourbridge | Cat Eccles MP | 5070 |
 | Stratford and Bow | Uma Kumaran MP | 1735 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6643 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2047 |
 | North Antrim | Jim Allister KC MP | 3064 |
 | North Down | Alex Easton MP | 3305 |
-| South Antrim | Robin Swann MP | 3052 |
+| South Antrim | Robin Swann MP | 3053 |
 | South Down | Chris Hazzard MP | 1828 |
 | Strangford | Jim Shannon MP | 3435 |
 | Upper Bann | Carla Lockhart MP | 3030 |
