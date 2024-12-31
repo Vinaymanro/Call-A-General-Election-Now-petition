@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2953281                                |
-| Last Updated      | 2024-12-31 02:46:36 UTC                                    |
+| Total Signatures   | 2953285                                |
+| Last Updated      | 2024-12-31 03:20:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -240,7 +240,7 @@
 | Hornchurch and Upminster | Julia Lopez MP | 6561 |
 | Hornsey and Friern Barnet | Catherine West MP | 1909 |
 | Horsham | John Milne MP | 5757 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6229 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6230 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3272 |
 | Huddersfield | Harpreet Uppal MP | 3634 |
 | Huntingdon | Ben Obese-Jecty MP | 5479 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5877 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5865 |
 | Tooting | Dr Rosena Allin-Khan MP | 2661 |
-| Torbay | Steve Darling MP | 5734 |
+| Torbay | Steve Darling MP | 5735 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6508 |
 | Tottenham | Rt Hon David Lammy MP | 1659 |
 | Truro and Falmouth | Jayne Kirkham MP | 4544 |
@@ -586,7 +586,7 @@
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4026 |
 | Coatbridge and Bellshill | Frank McNally MP | 2557 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2813 |
-| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2640 |
+| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2641 |
 | Dumfries and Galloway | John Cooper MP | 3996 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3811 |
 | Dundee Central | Chris Law MP | 2503 |
@@ -636,7 +636,7 @@
 | Caerphilly | Chris Evans MP | 3928 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2837 |
 | Cardiff North | Anna McMorrin MP | 3249 |
-| Cardiff South and Penarth | Stephen Doughty MP | 2763 |
+| Cardiff South and Penarth | Stephen Doughty MP | 2764 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3100 |
 | Ceredigion Preseli | Ben Lake MP | 4685 |
 | Clwyd East | Becky Gittins MP | 5959 |
