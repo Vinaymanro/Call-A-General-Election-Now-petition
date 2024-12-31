@@ -3,14 +3,14 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2953288                                |
-| Last Updated      | 2024-12-31 04:20:20 UTC                                    |
+| Total Signatures   | 2953295                                |
+| Last Updated      | 2024-12-31 05:16:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5391 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5724 |
-| Altrincham and Sale West | Mr Connor Rand MP | 5456 |
+| Altrincham and Sale West | Mr Connor Rand MP | 5457 |
 | Amber Valley | Linsey Farnsworth MP | 6006 |
 | Arundel and South Downs | Andrew Griffith MP | 6880 |
 | Ashfield | Lee Anderson MP | 6086 |
@@ -135,7 +135,7 @@
 | Croydon South | Rt Hon Chris Philp MP | 3896 |
 | Croydon West | Sarah Jones MP | 1716 |
 | Dagenham and Rainham | Margaret Mullane MP | 4169 |
-| Darlington | Lola McEvoy MP | 5384 |
+| Darlington | Lola McEvoy MP | 5385 |
 | Dartford | Jim Dickson MP | 5674 |
 | Daventry | Rt Hon Stuart Andrew MP | 7205 |
 | Derby North | Catherine Atkinson MP | 4268 |
@@ -205,7 +205,7 @@
 | Greenwich and Woolwich | Matthew Pennycook MP | 2571 |
 | Guildford | Zöe Franklin MP | 3951 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2050 |
-| Hackney South and Shoreditch | Dame Meg Hillier MP | 1498 |
+| Hackney South and Shoreditch | Dame Meg Hillier MP | 1499 |
 | Halesowen | Alex Ballinger MP | 4924 |
 | Halifax | Kate Dearden MP | 4676 |
 | Hamble Valley | Paul Holmes MP | 6075 |
@@ -254,7 +254,7 @@
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2718 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5042 |
 | Keighley and Ilkley | Robbie Moore MP | 4625 |
-| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6036 |
+| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6037 |
 | Kensington and Bayswater | Joe Powell MP | 4352 |
 | Kettering | Rosie Wrighting MP | 5834 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3696 |
@@ -287,7 +287,7 @@
 | Liverpool Walton | Dan Carden MP | 3300 |
 | Liverpool Wavertree | Paula Barker MP | 2180 |
 | Liverpool West Derby | Ian Byrne MP | 2971 |
-| Loughborough | Dr Jeevun Sandher MP | 4420 |
+| Loughborough | Dr Jeevun Sandher MP | 4421 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7702 |
 | Lowestoft | Jess Asato MP | 5251 |
 | Luton North | Sarah Owen MP | 2432 |
@@ -390,7 +390,7 @@
 | Reigate | Rebecca Paul MP | 5480 |
 | Ribble Valley | Maya Ellis MP | 6639 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7025 |
-| Richmond Park | Sarah Olney MP | 4029 |
+| Richmond Park | Sarah Olney MP | 4030 |
 | Rochdale | Paul Waugh MP | 3878 |
 | Rochester and Strood | Lauren Edwards MP | 5946 |
 | Romford | Andrew Rosindell MP | 5740 |
@@ -535,7 +535,7 @@
 | Winchester | Dr Danny Chambers MP | 4867 |
 | Windsor | Jack Rankin MP | 5047 |
 | Wirral West | Matthew Patrick MP | 4172 |
-| Witham | Rt Hon Priti Patel MP | 6943 |
+| Witham | Rt Hon Priti Patel MP | 6944 |
 | Witney | Charlie Maynard MP | 5089 |
 | Woking | Mr Will Forster MP | 4334 |
 | Wokingham | Clive Jones MP | 4821 |
