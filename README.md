@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2953285                                |
-| Last Updated      | 2024-12-31 03:20:15 UTC                                    |
+| Total Signatures   | 2953288                                |
+| Last Updated      | 2024-12-31 04:20:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -67,7 +67,7 @@
 | Bradford South | Judith Cummins MP | 4082 |
 | Bradford West | Naz Shah MP | 1775 |
 | Braintree | Rt Hon James Cleverly MP | 7355 |
-| Brent East | Dawn Butler MP | 1835 |
+| Brent East | Dawn Butler MP | 1836 |
 | Brent West | Barry Gardiner MP | 2053 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2948 |
 | Brentwood and Ongar | Alex Burghart MP | 8049 |
@@ -576,7 +576,7 @@
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1427 |
 | Aberdeen North | Kirsty Blackman MP | 3496 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3795 |
-| Aberdeenshire North and Moray East | Seamus Logan MP | 4596 |
+| Aberdeenshire North and Moray East | Seamus Logan MP | 4597 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2771 |
 | Alloa and Grangemouth | Brian Leishman MP | 2975 |
 | Angus and Perthshire Glens | Dave Doogan MP | 3993 |
@@ -593,7 +593,7 @@
 | Dunfermline and Dollar | Graeme Downie MP | 2888 |
 | East Kilbride and Strathaven | Joani Reid MP | 3110 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2051 |
-| Edinburgh North and Leith | Tracy Gilbert MP | 2379 |
+| Edinburgh North and Leith | Tracy Gilbert MP | 2380 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2040 |
 | Edinburgh South West | Dr Scott Arthur MP | 2228 |
 | Edinburgh West | Christine Jardine MP | 2689 |
