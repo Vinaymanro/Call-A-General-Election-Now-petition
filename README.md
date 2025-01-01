@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2953990                                |
-| Last Updated      | 2025-01-01 04:20:24 UTC                                    |
+| Total Signatures   | 2953997                                |
+| Last Updated      | 2025-01-01 05:16:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -44,7 +44,7 @@
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1862 |
 | Birmingham Northfield | Laurence Turner MP | 4816 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1684 |
-| Birmingham Selly Oak | Al Carns MP | 3243 |
+| Birmingham Selly Oak | Al Carns MP | 3244 |
 | Birmingham Yardley | Jess Phillips MP | 3029 |
 | Bishop Auckland | Sam Rushworth MP | 6100 |
 | Blackburn | Mr Adnan Hussain MP | 3086 |
@@ -73,7 +73,7 @@
 | Brentwood and Ongar | Alex Burghart MP | 8051 |
 | Bridgwater | Sir Ashley Fox MP | 5676 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6545 |
-| Brigg and Immingham | Martin Vickers MP | 6382 |
+| Brigg and Immingham | Martin Vickers MP | 6383 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3859 |
 | Brighton Pavilion | Siân Berry MP | 2706 |
 | Bristol Central | Carla Denyer MP | 1600 |
@@ -122,7 +122,7 @@
 | Clacton | Nigel Farage MP | 7996 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1719 |
 | Colchester | Pam Cox MP | 4932 |
-| Colne Valley | Paul Davies MP | 4949 |
+| Colne Valley | Paul Davies MP | 4950 |
 | Congleton | Mrs Sarah Russell MP | 5890 |
 | Corby and East Northamptonshire | Lee Barron MP | 5921 |
 | Coventry East | Mary Creagh MP | 3515 |
@@ -173,7 +173,7 @@
 | Enfield North | Feryal Clark MP | 2848 |
 | Epping Forest | Dr Neil Hudson MP | 6508 |
 | Epsom and Ewell | Helen Maguire MP | 4877 |
-| Erewash | Adam Thompson MP | 5743 |
+| Erewash | Adam Thompson MP | 5744 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3175 |
 | Esher and Walton | Monica Harding MP | 4777 |
 | Exeter | Steve Race MP | 3134 |
@@ -292,7 +292,7 @@
 | Lowestoft | Jess Asato MP | 5254 |
 | Luton North | Sarah Owen MP | 2432 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2902 |
-| Macclesfield | Tim Roca MP | 5352 |
+| Macclesfield | Tim Roca MP | 5353 |
 | Maidenhead | Mr Joshua Reynolds MP | 5232 |
 | Maidstone and Malling | Helen Grant MP | 5780 |
 | Makerfield | Josh Simons MP | 5777 |
@@ -537,7 +537,7 @@
 | Wirral West | Matthew Patrick MP | 4173 |
 | Witham | Rt Hon Priti Patel MP | 6946 |
 | Witney | Charlie Maynard MP | 5090 |
-| Woking | Mr Will Forster MP | 4337 |
+| Woking | Mr Will Forster MP | 4338 |
 | Wokingham | Clive Jones MP | 4821 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4323 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4233 |
@@ -611,7 +611,7 @@
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3568 |
 | Livingston | Gregor Poynton MP | 3345 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2816 |
-| Mid Dunbartonshire | Susan Murray MP | 2491 |
+| Mid Dunbartonshire | Susan Murray MP | 2492 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3874 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2682 |
 | North East Fife | Wendy Chamberlain MP | 2865 |
