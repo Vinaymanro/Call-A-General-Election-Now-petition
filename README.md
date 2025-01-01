@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2954000                                |
-| Last Updated      | 2025-01-01 06:25:08 UTC                                    |
+| Total Signatures   | 2954004                                |
+| Last Updated      | 2025-01-01 07:16:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -70,7 +70,7 @@
 | Brent East | Dawn Butler MP | 1837 |
 | Brent West | Barry Gardiner MP | 2054 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2950 |
-| Brentwood and Ongar | Alex Burghart MP | 8051 |
+| Brentwood and Ongar | Alex Burghart MP | 8052 |
 | Bridgwater | Sir Ashley Fox MP | 5676 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6545 |
 | Brigg and Immingham | Martin Vickers MP | 6383 |
@@ -178,7 +178,7 @@
 | Esher and Walton | Monica Harding MP | 4777 |
 | Exeter | Steve Race MP | 3134 |
 | Exmouth and Exeter East | David Reed MP | 5122 |
-| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6041 |
+| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6042 |
 | Farnham and Bordon | Gregory Stafford MP | 5125 |
 | Faversham and Mid Kent | Helen Whately MP | 6156 |
 | Feltham and Heston | Seema Malhotra MP | 2858 |
@@ -257,7 +257,7 @@
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6039 |
 | Kensington and Bayswater | Joe Powell MP | 4353 |
 | Kettering | Rosie Wrighting MP | 5837 |
-| Kingston and Surbiton | Rt Hon Ed Davey MP | 3698 |
+| Kingston and Surbiton | Rt Hon Ed Davey MP | 3699 |
 | Kingston upon Hull East | Karl Turner MP | 4926 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4577 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5414 |
@@ -532,7 +532,7 @@
 | Widnes and Halewood | Derek Twigg MP | 4178 |
 | Wigan | Rt Hon Lisa Nandy MP | 5867 |
 | Wimbledon | Mr Paul Kohler MP | 3384 |
-| Winchester | Dr Danny Chambers MP | 4868 |
+| Winchester | Dr Danny Chambers MP | 4869 |
 | Windsor | Jack Rankin MP | 5049 |
 | Wirral West | Matthew Patrick MP | 4173 |
 | Witham | Rt Hon Priti Patel MP | 6946 |
