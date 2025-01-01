@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2953997                                |
-| Last Updated      | 2025-01-01 05:16:44 UTC                                    |
+| Total Signatures   | 2954000                                |
+| Last Updated      | 2025-01-01 06:25:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -211,7 +211,7 @@
 | Hamble Valley | Paul Holmes MP | 6075 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3169 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2941 |
-| Harborough, Oadby and Wigston | Neil O'Brien MP | 4648 |
+| Harborough, Oadby and Wigston | Neil O'Brien MP | 4649 |
 | Harlow | Chris Vince MP | 6002 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4491 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5055 |
@@ -328,7 +328,7 @@
 | Newcastle-under-Lyme | Adam Jogee MP | 4987 |
 | Newton Abbot | Martin Wrigley MP | 5045 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5455 |
-| Normanton and Hemsworth | Jon Trickett MP | 5413 |
+| Normanton and Hemsworth | Jon Trickett MP | 5414 |
 | North Bedfordshire | Richard Fuller MP | 6040 |
 | North Cornwall | Ben Maguire MP | 6339 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 5982 |
@@ -458,7 +458,7 @@
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4084 |
 | St Ives | Andrew George MP | 5033 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4735 |
-| Stafford | Leigh Ingham MP | 5534 |
+| Stafford | Leigh Ingham MP | 5535 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6342 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5267 |
 | Stevenage | Kevin Bonavia MP | 4664 |
