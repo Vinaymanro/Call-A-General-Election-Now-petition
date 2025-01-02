@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2954714                                |
-| Last Updated      | 2025-01-02 02:46:43 UTC                                    |
+| Total Signatures   | 2954717                                |
+| Last Updated      | 2025-01-02 03:20:16 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -399,7 +399,7 @@
 | Rother Valley | Jake Richards MP | 5788 |
 | Rotherham | Sarah Champion MP | 4857 |
 | Rugby | John Slinger MP | 5327 |
-| Ruislip, Northwood and Pinner | David Simmonds MP | 4062 |
+| Ruislip, Northwood and Pinner | David Simmonds MP | 4063 |
 | Runcorn and Helsby | Mike Amesbury MP | 4951 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5781 |
 | Rushcliffe | James Naish MP | 5019 |
@@ -605,7 +605,7 @@
 | Glasgow South West | Dr Zubir Ahmed MP | 2231 |
 | Glasgow West | Patricia Ferguson MP | 2179 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2926 |
-| Gordon and Buchan | Harriet Cross MP | 4338 |
+| Gordon and Buchan | Harriet Cross MP | 4339 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3095 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2709 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3569 |
@@ -643,7 +643,7 @@
 | Clwyd North | Gill German MP | 5383 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4186 |
 | Gower | Tonia Antoniazzi MP | 4689 |
-| Llanelli | Dame Nia Griffith MP | 5180 |
+| Llanelli | Dame Nia Griffith MP | 5181 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3632 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5433 |
 | Monmouthshire | Catherine Fookes MP | 4688 |
