@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2954740                                |
-| Last Updated      | 2025-01-02 06:24:16 UTC                                    |
+| Total Signatures   | 2954748                                |
+| Last Updated      | 2025-01-02 07:15:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -103,12 +103,12 @@
 | Central Devon | Rt Hon Mel Stride MP | 5739 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5243 |
 | Chatham and Aylesford | Tristan Osborne MP | 5539 |
-| Cheadle | Tom Morrison MP | 4619 |
+| Cheadle | Tom Morrison MP | 4620 |
 | Chelmsford | Marie Goldman MP | 5197 |
 | Chelsea and Fulham | Ben Coleman MP | 5441 |
 | Cheltenham | Max Wilkinson MP | 3973 |
 | Chesham and Amersham | Sarah Green MP | 4892 |
-| Chester North and Neston | Samantha Dixon MP | 3990 |
+| Chester North and Neston | Samantha Dixon MP | 3991 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6341 |
 | Chesterfield | Mr Toby Perkins MP | 4813 |
 | Chichester | Jess Brown-Fuller MP | 5844 |
@@ -151,7 +151,7 @@
 | Droitwich and Evesham | Nigel Huddleston MP | 6489 |
 | Dudley | Sonia Kumar MP | 5311 |
 | Dulwich and West Norwood | Helen Hayes MP | 1533 |
-| Dunstable and Leighton Buzzard | Alex Mayer MP | 5456 |
+| Dunstable and Leighton Buzzard | Alex Mayer MP | 5457 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3051 |
 | Ealing North | James Murray MP | 2556 |
 | Ealing Southall | Deirdre Costigan MP | 1933 |
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1500 |
 | Halesowen | Alex Ballinger MP | 4926 |
 | Halifax | Kate Dearden MP | 4678 |
-| Hamble Valley | Paul Holmes MP | 6075 |
+| Hamble Valley | Paul Holmes MP | 6076 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3169 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2942 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4650 |
@@ -469,7 +469,7 @@
 | Stoke-on-Trent North | David Williams MP | 5370 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5659 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6451 |
-| Stourbridge | Cat Eccles MP | 5074 |
+| Stourbridge | Cat Eccles MP | 5075 |
 | Stratford and Bow | Uma Kumaran MP | 1737 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6647 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1844 |
@@ -517,7 +517,7 @@
 | Waveney Valley | Adrian Ramsay MP | 5796 |
 | Weald of Kent | Katie Lam MP | 7151 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5007 |
-| Wells and Mendip Hills | Tessa Munt MP | 5193 |
+| Wells and Mendip Hills | Tessa Munt MP | 5194 |
 | Welwyn Hatfield | Andrew Lewin MP | 4991 |
 | West Bromwich | Sarah Coombes MP | 3728 |
 | West Dorset | Edward Morello MP | 5400 |
@@ -533,7 +533,7 @@
 | Wigan | Rt Hon Lisa Nandy MP | 5867 |
 | Wimbledon | Mr Paul Kohler MP | 3385 |
 | Winchester | Dr Danny Chambers MP | 4873 |
-| Windsor | Jack Rankin MP | 5052 |
+| Windsor | Jack Rankin MP | 5053 |
 | Wirral West | Matthew Patrick MP | 4174 |
 | Witham | Rt Hon Priti Patel MP | 6946 |
 | Witney | Charlie Maynard MP | 5091 |
@@ -597,7 +597,7 @@
 | Edinburgh South | Rt Hon Ian Murray MP | 2041 |
 | Edinburgh South West | Dr Scott Arthur MP | 2228 |
 | Edinburgh West | Christine Jardine MP | 2689 |
-| Falkirk | Euan Stainbank MP | 3380 |
+| Falkirk | Euan Stainbank MP | 3381 |
 | Glasgow East | John Grady MP | 2278 |
 | Glasgow North | Martin Rhodes MP | 2019 |
 | Glasgow North East | Maureen Burke MP | 2426 |
