@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2954727                                |
-| Last Updated      | 2025-01-02 04:20:09 UTC                                    |
+| Total Signatures   | 2954730                                |
+| Last Updated      | 2025-01-02 05:16:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -237,7 +237,7 @@
 | Hitchin | Alistair Strathern MP | 4866 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2256 |
 | Honiton and Sidmouth | Richard Foord MP | 5188 |
-| Hornchurch and Upminster | Julia Lopez MP | 6563 |
+| Hornchurch and Upminster | Julia Lopez MP | 6564 |
 | Hornsey and Friern Barnet | Catherine West MP | 1911 |
 | Horsham | John Milne MP | 5759 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6233 |
@@ -304,7 +304,7 @@
 | Melksham and Devizes | Brian Mathew MP | 4959 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6047 |
 | Meriden and Solihull East | Saqib Bhatti MP | 5969 |
-| Mid Bedfordshire | Blake Stephenson MP | 5776 |
+| Mid Bedfordshire | Blake Stephenson MP | 5777 |
 | Mid Buckinghamshire | Greg Smith MP | 5553 |
 | Mid Cheshire | Andrew Cooper MP | 5100 |
 | Mid Derbyshire | Jonathan Davies MP | 5177 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6077 |
 | South Devon | Caroline Voaden MP | 5257 |
 | South Dorset | Lloyd Hatton MP | 5589 |
-| South East Cornwall | Anna Gelderd MP | 6147 |
+| South East Cornwall | Anna Gelderd MP | 6148 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7043 |
 | South Leicestershire | Alberto Costa MP | 6910 |
 | South Norfolk | Ben Goldsborough MP | 5381 |
