@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2955670                                |
-| Last Updated      | 2025-01-03 04:20:11 UTC                                    |
+| Total Signatures   | 2955676                                |
+| Last Updated      | 2025-01-03 05:16:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5782 |
 | Cities of London and Westminster | Rachel Blake MP | 5125 |
 | City of Durham | Mary Kelly Foy MP | 4194 |
-| Clacton | Nigel Farage MP | 7999 |
+| Clacton | Nigel Farage MP | 8000 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1720 |
 | Colchester | Pam Cox MP | 4935 |
 | Colne Valley | Paul Davies MP | 4958 |
@@ -195,7 +195,7 @@
 | Glastonbury and Somerton | Sarah Dyke MP | 5531 |
 | Gloucester | Alex McIntyre MP | 4469 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5183 |
-| Goole and Pocklington | Rt Hon David Davis MP | 6893 |
+| Goole and Pocklington | Rt Hon David Davis MP | 6894 |
 | Gorton and Denton | Andrew Gwynne MP | 3219 |
 | Gosport | Dame Caroline Dinenage MP | 5404 |
 | Grantham and Bourne | Gareth Davies MP | 6260 |
@@ -258,9 +258,9 @@
 | Kensington and Bayswater | Joe Powell MP | 4356 |
 | Kettering | Rosie Wrighting MP | 5837 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3702 |
-| Kingston upon Hull East | Karl Turner MP | 4933 |
+| Kingston upon Hull East | Karl Turner MP | 4934 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4579 |
-| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5418 |
+| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5419 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6323 |
 | Knowsley | Anneliese Midgley MP | 3224 |
 | Lancaster and Wyre | Cat Smith MP | 5010 |
@@ -304,7 +304,7 @@
 | Melksham and Devizes | Brian Mathew MP | 4960 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6049 |
 | Meriden and Solihull East | Saqib Bhatti MP | 5971 |
-| Mid Bedfordshire | Blake Stephenson MP | 5779 |
+| Mid Bedfordshire | Blake Stephenson MP | 5780 |
 | Mid Buckinghamshire | Greg Smith MP | 5554 |
 | Mid Cheshire | Andrew Cooper MP | 5100 |
 | Mid Derbyshire | Jonathan Davies MP | 5180 |
@@ -445,7 +445,7 @@
 | South West Norfolk | Terry Jermy MP | 6460 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5138 |
 | Southampton Itchen | Darren Paffey MP | 4458 |
-| Southampton Test | Satvir Kaur MP | 3344 |
+| Southampton Test | Satvir Kaur MP | 3345 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5505 |
 | Southend West and Leigh | David Burton-Sampson MP | 5801 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2551 |
