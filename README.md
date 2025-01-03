@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2955661                                |
-| Last Updated      | 2025-01-03 03:20:56 UTC                                    |
+| Total Signatures   | 2955670                                |
+| Last Updated      | 2025-01-03 04:20:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -22,7 +22,7 @@
 | Barnsley North | Dan Jarvis MP | 5591 |
 | Barnsley South | Stephanie Peacock MP | 5668 |
 | Barrow and Furness | Michelle Scrogham MP | 5243 |
-| Basildon and Billericay | Rt Hon Richard Holden MP | 6806 |
+| Basildon and Billericay | Rt Hon Richard Holden MP | 6807 |
 | Basingstoke | Luke Murphy MP | 4759 |
 | Bassetlaw | Jo White MP | 6665 |
 | Bath | Wera Hobhouse MP | 2948 |
@@ -83,7 +83,7 @@
 | Bristol South | Karin Smyth MP | 3890 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5781 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5208 |
-| Bromsgrove | Bradley Thomas MP | 6388 |
+| Bromsgrove | Bradley Thomas MP | 6389 |
 | Broxbourne | Lewis Cocking MP | 5996 |
 | Broxtowe | Juliet Campbell MP | 4654 |
 | Buckingham and Bletchley | Callum Anderson MP | 5214 |
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5389 |
 | Dartford | Jim Dickson MP | 5677 |
 | Daventry | Rt Hon Stuart Andrew MP | 7213 |
-| Derby North | Catherine Atkinson MP | 4270 |
+| Derby North | Catherine Atkinson MP | 4271 |
 | Derby South | Baggy Shanker MP | 3541 |
 | Derbyshire Dales | John Whitby MP | 6727 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3125 |
@@ -238,7 +238,7 @@
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2256 |
 | Honiton and Sidmouth | Richard Foord MP | 5190 |
 | Hornchurch and Upminster | Julia Lopez MP | 6564 |
-| Hornsey and Friern Barnet | Catherine West MP | 1911 |
+| Hornsey and Friern Barnet | Catherine West MP | 1912 |
 | Horsham | John Milne MP | 5763 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6236 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3275 |
@@ -324,7 +324,7 @@
 | Newbury | Mr Lee Dillon MP | 4848 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4425 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4694 |
-| Newcastle upon Tyne North | Catherine McKinnell MP | 3903 |
+| Newcastle upon Tyne North | Catherine McKinnell MP | 3904 |
 | Newcastle-under-Lyme | Adam Jogee MP | 4992 |
 | Newton Abbot | Martin Wrigley MP | 5047 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5460 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5783 |
 | North Dorset | Simon Hoare MP | 6251 |
 | North Durham | Luke Akehurst MP | 5320 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 5984 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 5985 |
 | North East Derbyshire | Louise Jones MP | 5729 |
 | North East Hampshire | Alex Brewer MP | 5906 |
 | North East Hertfordshire | Chris Hinchliff MP | 5783 |
@@ -348,7 +348,7 @@
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6178 |
 | North West Cambridgeshire | Sam Carling MP | 5940 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7071 |
-| North West Hampshire | Rt Hon Kit Malthouse MP | 5664 |
+| North West Hampshire | Rt Hon Kit Malthouse MP | 5666 |
 | North West Leicestershire | Amanda Hack MP | 6618 |
 | North West Norfolk | James Wild MP | 5668 |
 | Northampton North | Lucy Rigby MP | 4213 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5152 |
 | South West Norfolk | Terry Jermy MP | 6460 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5138 |
-| Southampton Itchen | Darren Paffey MP | 4457 |
+| Southampton Itchen | Darren Paffey MP | 4458 |
 | Southampton Test | Satvir Kaur MP | 3344 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5505 |
 | Southend West and Leigh | David Burton-Sampson MP | 5801 |
