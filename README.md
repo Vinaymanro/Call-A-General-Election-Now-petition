@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2955656                                |
-| Last Updated      | 2025-01-03 02:48:22 UTC                                    |
+| Total Signatures   | 2955661                                |
+| Last Updated      | 2025-01-03 03:20:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -56,7 +56,7 @@
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6067 |
 | Bolsover | Natalie Fleet MP | 6446 |
 | Bolton North East | Kirith Entwistle MP | 5521 |
-| Bolton South and Walkden | Yasmin Qureshi MP | 4342 |
+| Bolton South and Walkden | Yasmin Qureshi MP | 4343 |
 | Bolton West | Phil Brickell MP | 5520 |
 | Bootle | Peter Dowd MP | 3104 |
 | Boston and Skegness | Richard Tice MP | 7004 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2589 |
 | Liverpool Walton | Dan Carden MP | 3302 |
 | Liverpool Wavertree | Paula Barker MP | 2180 |
-| Liverpool West Derby | Ian Byrne MP | 2977 |
+| Liverpool West Derby | Ian Byrne MP | 2978 |
 | Loughborough | Dr Jeevun Sandher MP | 4427 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7705 |
 | Lowestoft | Jess Asato MP | 5257 |
@@ -331,7 +331,7 @@
 | Normanton and Hemsworth | Jon Trickett MP | 5417 |
 | North Bedfordshire | Richard Fuller MP | 6041 |
 | North Cornwall | Ben Maguire MP | 6343 |
-| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 5986 |
+| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 5987 |
 | North Devon | Ian Roome MP | 5783 |
 | North Dorset | Simon Hoare MP | 6251 |
 | North Durham | Luke Akehurst MP | 5320 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4100 |
 | Plymouth Moor View | Fred Thomas MP | 5583 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4679 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5365 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5366 |
 | Poole | Neil Duncan-Jordan MP | 5600 |
 | Poplar and Limehouse | Apsana Begum MP | 2891 |
 | Portsmouth North | Amanda Martin MP | 5543 |
@@ -510,7 +510,7 @@
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3950 |
 | Walthamstow | Ms Stella Creasy MP | 1300 |
 | Warrington North | Charlotte Nichols MP | 5102 |
-| Warrington South | Sarah Hall MP | 5509 |
+| Warrington South | Sarah Hall MP | 5510 |
 | Warwick and Leamington | Matt Western MP | 4425 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5250 |
 | Watford | Matt Turmaine MP | 3705 |
