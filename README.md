@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2955676                                |
-| Last Updated      | 2025-01-03 05:16:06 UTC                                    |
+| Total Signatures   | 2955680                                |
+| Last Updated      | 2025-01-03 06:24:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -107,10 +107,10 @@
 | Chelmsford | Marie Goldman MP | 5200 |
 | Chelsea and Fulham | Ben Coleman MP | 5441 |
 | Cheltenham | Max Wilkinson MP | 3976 |
-| Chesham and Amersham | Sarah Green MP | 4893 |
+| Chesham and Amersham | Sarah Green MP | 4894 |
 | Chester North and Neston | Samantha Dixon MP | 3994 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6341 |
-| Chesterfield | Mr Toby Perkins MP | 4814 |
+| Chesterfield | Mr Toby Perkins MP | 4815 |
 | Chichester | Jess Brown-Fuller MP | 5845 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4128 |
 | Chippenham | Sarah Gibson MP | 4672 |
@@ -304,7 +304,7 @@
 | Melksham and Devizes | Brian Mathew MP | 4960 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6049 |
 | Meriden and Solihull East | Saqib Bhatti MP | 5971 |
-| Mid Bedfordshire | Blake Stephenson MP | 5780 |
+| Mid Bedfordshire | Blake Stephenson MP | 5781 |
 | Mid Buckinghamshire | Greg Smith MP | 5554 |
 | Mid Cheshire | Andrew Cooper MP | 5100 |
 | Mid Derbyshire | Jonathan Davies MP | 5180 |
@@ -367,7 +367,7 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2121 |
 | Oxford West and Abingdon | Layla Moran MP | 2894 |
 | Peckham | Miatta Fahnbulleh MP | 1344 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6120 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6121 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5387 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6135 |
 | Peterborough | Andrew Pakes MP | 4100 |
