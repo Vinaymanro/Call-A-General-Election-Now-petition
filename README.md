@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2956662                                |
-| Last Updated      | 2025-01-04 06:22:20 UTC                                    |
+| Total Signatures   | 2956666                                |
+| Last Updated      | 2025-01-04 07:14:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -53,7 +53,7 @@
 | Blackpool South | Chris Webb MP | 5711 |
 | Blaydon and Consett | Liz Twist MP | 5188 |
 | Blyth and Ashington | Ian Lavery MP | 5780 |
-| Bognor Regis and Littlehampton | Alison Griffiths MP | 6068 |
+| Bognor Regis and Littlehampton | Alison Griffiths MP | 6069 |
 | Bolsover | Natalie Fleet MP | 6451 |
 | Bolton North East | Kirith Entwistle MP | 5522 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4345 |
@@ -72,7 +72,7 @@
 | Brentford and Isleworth | Ruth Cadbury MP | 2952 |
 | Brentwood and Ongar | Alex Burghart MP | 8060 |
 | Bridgwater | Sir Ashley Fox MP | 5679 |
-| Bridlington and The Wolds | Charlie Dewhirst MP | 6547 |
+| Bridlington and The Wolds | Charlie Dewhirst MP | 6548 |
 | Brigg and Immingham | Martin Vickers MP | 6390 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3867 |
 | Brighton Pavilion | Siân Berry MP | 2706 |
@@ -285,7 +285,7 @@
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3081 |
 | Liverpool Riverside | Kim Johnson MP | 2590 |
 | Liverpool Walton | Dan Carden MP | 3303 |
-| Liverpool Wavertree | Paula Barker MP | 2180 |
+| Liverpool Wavertree | Paula Barker MP | 2181 |
 | Liverpool West Derby | Ian Byrne MP | 2980 |
 | Loughborough | Dr Jeevun Sandher MP | 4428 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7705 |
@@ -501,7 +501,7 @@
 | Tottenham | Rt Hon David Lammy MP | 1662 |
 | Truro and Falmouth | Jayne Kirkham MP | 4550 |
 | Tunbridge Wells | Mike Martin MP | 5405 |
-| Twickenham | Munira Wilson MP | 3613 |
+| Twickenham | Munira Wilson MP | 3614 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4433 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4427 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1653 |
