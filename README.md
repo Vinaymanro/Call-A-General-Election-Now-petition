@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2956651                                |
-| Last Updated      | 2025-01-04 04:19:33 UTC                                    |
+| Total Signatures   | 2956657                                |
+| Last Updated      | 2025-01-04 05:15:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -22,7 +22,7 @@
 | Barnsley North | Dan Jarvis MP | 5593 |
 | Barnsley South | Stephanie Peacock MP | 5671 |
 | Barrow and Furness | Michelle Scrogham MP | 5244 |
-| Basildon and Billericay | Rt Hon Richard Holden MP | 6807 |
+| Basildon and Billericay | Rt Hon Richard Holden MP | 6808 |
 | Basingstoke | Luke Murphy MP | 4761 |
 | Bassetlaw | Jo White MP | 6666 |
 | Bath | Wera Hobhouse MP | 2949 |
@@ -93,7 +93,7 @@
 | Bury South | Christian Wakeford MP | 5371 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5394 |
 | Calder Valley | Josh Fenton-Glynn MP | 5592 |
-| Camborne and Redruth | Perran Moon MP | 4903 |
+| Camborne and Redruth | Perran Moon MP | 4904 |
 | Cambridge | Daniel Zeichner MP | 2191 |
 | Cannock Chase | Josh Newbury MP | 6796 |
 | Canterbury | Rosie Duffield MP | 4429 |
@@ -146,7 +146,7 @@
 | Doncaster Central | Sally Jameson MP | 4867 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6018 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5482 |
-| Dorking and Horley | Chris Coghlan MP | 5503 |
+| Dorking and Horley | Chris Coghlan MP | 5504 |
 | Dover and Deal | Mike Tapp MP | 5854 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6493 |
 | Dudley | Sonia Kumar MP | 5312 |
@@ -436,7 +436,7 @@
 | South Leicestershire | Alberto Costa MP | 6915 |
 | South Norfolk | Ben Goldsborough MP | 5382 |
 | South Northamptonshire | Sarah Bool MP | 6598 |
-| South Ribble | Mr Paul Foster MP | 5826 |
+| South Ribble | Mr Paul Foster MP | 5827 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4678 |
 | South Shropshire | Stuart Anderson MP | 7262 |
 | South Suffolk | James Cartlidge MP | 6085 |
@@ -462,7 +462,7 @@
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6351 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5271 |
 | Stevenage | Kevin Bonavia MP | 4670 |
-| Stockport | Navendu Mishra MP | 3861 |
+| Stockport | Navendu Mishra MP | 3862 |
 | Stockton North | Chris McDonald MP | 4781 |
 | Stockton West | Matt Vickers MP | 5911 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4631 |
@@ -562,7 +562,7 @@
 | Lagan Valley | Sorcha Eastwood MP | 3494 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1881 |
 | Newry and Armagh | Dáire Hughes MP | 2048 |
-| North Antrim | Jim Allister KC MP | 3066 |
+| North Antrim | Jim Allister KC MP | 3067 |
 | North Down | Alex Easton MP | 3311 |
 | South Antrim | Robin Swann MP | 3055 |
 | South Down | Chris Hazzard MP | 1829 |
