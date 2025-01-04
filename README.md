@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2956635                                |
-| Last Updated      | 2025-01-04 02:44:12 UTC                                    |
+| Total Signatures   | 2956641                                |
+| Last Updated      | 2025-01-04 03:19:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -73,7 +73,7 @@
 | Brentwood and Ongar | Alex Burghart MP | 8060 |
 | Bridgwater | Sir Ashley Fox MP | 5679 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6547 |
-| Brigg and Immingham | Martin Vickers MP | 6389 |
+| Brigg and Immingham | Martin Vickers MP | 6390 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3867 |
 | Brighton Pavilion | Siân Berry MP | 2706 |
 | Bristol Central | Carla Denyer MP | 1602 |
@@ -276,7 +276,7 @@
 | Leicester West | Rt Hon Liz Kendall MP | 3407 |
 | Leigh and Atherton | Jo Platt MP | 5999 |
 | Lewes | James MacCleary MP | 4849 |
-| Lewisham East | Janet Daby MP | 2123 |
+| Lewisham East | Janet Daby MP | 2124 |
 | Lewisham North | Vicky Foxcroft MP | 1635 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1563 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1857 |
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7291 |
 | Reading Central | Matt Rodda MP | 3001 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4383 |
-| Redcar | Anna Turley MP | 5385 |
+| Redcar | Anna Turley MP | 5386 |
 | Redditch | Chris Bloore MP | 5998 |
 | Reigate | Rebecca Paul MP | 5488 |
 | Ribble Valley | Maya Ellis MP | 6645 |
@@ -398,7 +398,7 @@
 | Rossendale and Darwen | Andy MacNae MP | 6415 |
 | Rother Valley | Jake Richards MP | 5789 |
 | Rotherham | Sarah Champion MP | 4860 |
-| Rugby | John Slinger MP | 5330 |
+| Rugby | John Slinger MP | 5331 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4066 |
 | Runcorn and Helsby | Mike Amesbury MP | 4955 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5781 |
@@ -533,7 +533,7 @@
 | Wigan | Rt Hon Lisa Nandy MP | 5870 |
 | Wimbledon | Mr Paul Kohler MP | 3386 |
 | Winchester | Dr Danny Chambers MP | 4873 |
-| Windsor | Jack Rankin MP | 5055 |
+| Windsor | Jack Rankin MP | 5056 |
 | Wirral West | Matthew Patrick MP | 4176 |
 | Witham | Rt Hon Priti Patel MP | 6951 |
 | Witney | Charlie Maynard MP | 5095 |
@@ -563,7 +563,7 @@
 | Mid Ulster | Mr Cathal Mallaghan MP | 1881 |
 | Newry and Armagh | Dáire Hughes MP | 2048 |
 | North Antrim | Jim Allister KC MP | 3066 |
-| North Down | Alex Easton MP | 3310 |
+| North Down | Alex Easton MP | 3311 |
 | South Antrim | Robin Swann MP | 3055 |
 | South Down | Chris Hazzard MP | 1829 |
 | Strangford | Jim Shannon MP | 3439 |
