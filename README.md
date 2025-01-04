@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2956666                                |
-| Last Updated      | 2025-01-04 07:14:37 UTC                                    |
+| Total Signatures   | 2956676                                |
+| Last Updated      | 2025-01-04 08:20:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -73,7 +73,7 @@
 | Brentwood and Ongar | Alex Burghart MP | 8060 |
 | Bridgwater | Sir Ashley Fox MP | 5679 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6548 |
-| Brigg and Immingham | Martin Vickers MP | 6390 |
+| Brigg and Immingham | Martin Vickers MP | 6391 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3867 |
 | Brighton Pavilion | Siân Berry MP | 2706 |
 | Bristol Central | Carla Denyer MP | 1602 |
@@ -104,7 +104,7 @@
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5245 |
 | Chatham and Aylesford | Tristan Osborne MP | 5542 |
 | Cheadle | Tom Morrison MP | 4622 |
-| Chelmsford | Marie Goldman MP | 5201 |
+| Chelmsford | Marie Goldman MP | 5202 |
 | Chelsea and Fulham | Ben Coleman MP | 5443 |
 | Cheltenham | Max Wilkinson MP | 3977 |
 | Chesham and Amersham | Sarah Green MP | 4894 |
@@ -143,11 +143,11 @@
 | Derbyshire Dales | John Whitby MP | 6727 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3127 |
 | Didcot and Wantage | Olly Glover MP | 4815 |
-| Doncaster Central | Sally Jameson MP | 4867 |
+| Doncaster Central | Sally Jameson MP | 4868 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6018 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5482 |
 | Dorking and Horley | Chris Coghlan MP | 5504 |
-| Dover and Deal | Mike Tapp MP | 5854 |
+| Dover and Deal | Mike Tapp MP | 5855 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6493 |
 | Dudley | Sonia Kumar MP | 5312 |
 | Dulwich and West Norwood | Helen Hayes MP | 1535 |
@@ -184,7 +184,7 @@
 | Feltham and Heston | Seema Malhotra MP | 2861 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4450 |
 | Finchley and Golders Green | Sarah Sackman MP | 4242 |
-| Folkestone and Hythe | Tony Vaughan MP | 5340 |
+| Folkestone and Hythe | Tony Vaughan MP | 5341 |
 | Forest of Dean | Matt Bishop MP | 5205 |
 | Frome and East Somerset | Anna Sabine MP | 4281 |
 | Fylde | Mr Andrew Snowden MP | 6690 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5386 |
 | Redditch | Chris Bloore MP | 5998 |
 | Reigate | Rebecca Paul MP | 5488 |
-| Ribble Valley | Maya Ellis MP | 6645 |
+| Ribble Valley | Maya Ellis MP | 6646 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7032 |
 | Richmond Park | Sarah Olney MP | 4035 |
 | Rochdale | Paul Waugh MP | 3889 |
@@ -416,7 +416,7 @@
 | Sheffield Hallam | Olivia Blake MP | 3367 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3487 |
 | Sheffield South East | Mr Clive Betts MP | 4662 |
-| Sherwood Forest | Michelle Welsh MP | 6590 |
+| Sherwood Forest | Michelle Welsh MP | 6591 |
 | Shipley | Anna Dixon MP | 4828 |
 | Shrewsbury | Julia Buckley MP | 5257 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6782 |
@@ -501,7 +501,7 @@
 | Tottenham | Rt Hon David Lammy MP | 1662 |
 | Truro and Falmouth | Jayne Kirkham MP | 4550 |
 | Tunbridge Wells | Mike Martin MP | 5405 |
-| Twickenham | Munira Wilson MP | 3614 |
+| Twickenham | Munira Wilson MP | 3615 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4433 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4427 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1653 |
@@ -608,7 +608,7 @@
 | Gordon and Buchan | Harriet Cross MP | 4340 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3096 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2714 |
-| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3575 |
+| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3576 |
 | Livingston | Gregor Poynton MP | 3351 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2818 |
 | Mid Dunbartonshire | Susan Murray MP | 2495 |
@@ -617,7 +617,7 @@
 | North East Fife | Wendy Chamberlain MP | 2867 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2805 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2609 |
-| Perth and Kinross-shire | Pete Wishart MP | 3460 |
+| Perth and Kinross-shire | Pete Wishart MP | 3461 |
 | Rutherglen | Michael Shanks MP | 2526 |
 | Stirling and Strathallan | Chris Kane MP | 3192 |
 | West Dunbartonshire | Douglas McAllister MP | 2684 |
