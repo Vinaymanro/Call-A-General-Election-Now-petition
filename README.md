@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2956657                                |
-| Last Updated      | 2025-01-04 05:15:18 UTC                                    |
+| Total Signatures   | 2956662                                |
+| Last Updated      | 2025-01-04 06:22:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -212,7 +212,7 @@
 | Hammersmith and Chiswick | Andy Slaughter MP | 3169 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2943 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4651 |
-| Harlow | Chris Vince MP | 6006 |
+| Harlow | Chris Vince MP | 6007 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4495 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5058 |
 | Harrow East | Bob Blackman MP | 3108 |
@@ -242,7 +242,7 @@
 | Horsham | John Milne MP | 5764 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6236 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3279 |
-| Huddersfield | Harpreet Uppal MP | 3638 |
+| Huddersfield | Harpreet Uppal MP | 3639 |
 | Huntingdon | Ben Obese-Jecty MP | 5484 |
 | Hyndburn | Sarah Smith MP | 4941 |
 | Ilford North | Rt Hon Wes Streeting MP | 2591 |
@@ -374,7 +374,7 @@
 | Plymouth Moor View | Fred Thomas MP | 5584 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4681 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5367 |
-| Poole | Neil Duncan-Jordan MP | 5603 |
+| Poole | Neil Duncan-Jordan MP | 5604 |
 | Poplar and Limehouse | Apsana Begum MP | 2893 |
 | Portsmouth North | Amanda Martin MP | 5547 |
 | Portsmouth South | Stephen Morgan MP | 3825 |
@@ -440,7 +440,7 @@
 | South Shields | Mrs Emma Lewell-Buck MP | 4678 |
 | South Shropshire | Stuart Anderson MP | 7262 |
 | South Suffolk | James Cartlidge MP | 6085 |
-| South West Devon | Rebecca Smith MP | 5906 |
+| South West Devon | Rebecca Smith MP | 5907 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5156 |
 | South West Norfolk | Terry Jermy MP | 6461 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5141 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3862 |
 | Stockton North | Chris McDonald MP | 4781 |
 | Stockton West | Matt Vickers MP | 5911 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4631 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4632 |
 | Stoke-on-Trent North | David Williams MP | 5376 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5660 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6455 |
