@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2957556                                |
-| Last Updated      | 2025-01-05 06:22:47 UTC                                    |
+| Total Signatures   | 2957564                                |
+| Last Updated      | 2025-01-05 07:14:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -45,7 +45,7 @@
 | Birmingham Northfield | Laurence Turner MP | 4822 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1685 |
 | Birmingham Selly Oak | Al Carns MP | 3253 |
-| Birmingham Yardley | Jess Phillips MP | 3029 |
+| Birmingham Yardley | Jess Phillips MP | 3030 |
 | Bishop Auckland | Sam Rushworth MP | 6111 |
 | Blackburn | Mr Adnan Hussain MP | 3092 |
 | Blackley and Middleton South | Graham Stringer MP | 3699 |
@@ -227,7 +227,7 @@
 | Hendon | David Pinto-Duschinsky MP | 3757 |
 | Henley and Thame | Freddie van Mierlo MP | 5354 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5224 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6231 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6232 |
 | Hertford and Stortford | Josh Dean MP | 5923 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5691 |
 | Hexham | Joe Morris MP | 6358 |
@@ -334,13 +334,13 @@
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 5990 |
 | North Devon | Ian Roome MP | 5784 |
 | North Dorset | Simon Hoare MP | 6255 |
-| North Durham | Luke Akehurst MP | 5325 |
+| North Durham | Luke Akehurst MP | 5326 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 5997 |
 | North East Derbyshire | Louise Jones MP | 5732 |
 | North East Hampshire | Alex Brewer MP | 5906 |
 | North East Hertfordshire | Chris Hinchliff MP | 5788 |
 | North East Somerset and Hanham | Dan Norris MP | 4983 |
-| North Herefordshire | Ellie Chowns MP | 6408 |
+| North Herefordshire | Ellie Chowns MP | 6409 |
 | North Norfolk | Steff Aquarone MP | 5368 |
 | North Northumberland | David Smith MP | 6380 |
 | North Shropshire | Helen Morgan MP | 6794 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3865 |
 | Stockton North | Chris McDonald MP | 4783 |
 | Stockton West | Matt Vickers MP | 5913 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4634 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4636 |
 | Stoke-on-Trent North | David Williams MP | 5376 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5662 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6457 |
@@ -618,7 +618,7 @@
 | Paisley and Renfrewshire North | Alison Taylor MP | 2806 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2611 |
 | Perth and Kinross-shire | Pete Wishart MP | 3464 |
-| Rutherglen | Michael Shanks MP | 2526 |
+| Rutherglen | Michael Shanks MP | 2527 |
 | Stirling and Strathallan | Chris Kane MP | 3194 |
 | West Dunbartonshire | Douglas McAllister MP | 2686 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3520 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4691 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 5974 |
 | Neath and Swansea East | Carolyn Harris MP | 4372 |
-| Newport East | Jessica Morden MP | 3933 |
+| Newport East | Jessica Morden MP | 3934 |
 | Newport West and Islwyn | Ruth Jones MP | 3983 |
 | Pontypridd | Alex Davies-Jones MP | 3839 |
 | Rhondda and Ogmore | Chris Bryant MP | 3981 |
