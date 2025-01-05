@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2957523                                |
-| Last Updated      | 2025-01-05 02:53:08 UTC                                    |
+| Total Signatures   | 2957529                                |
+| Last Updated      | 2025-01-05 03:24:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -131,7 +131,7 @@
 | Cramlington and Killingworth | Emma Foody MP | 5727 |
 | Crawley | Peter Lamb MP | 4633 |
 | Crewe and Nantwich | Connor Naismith MP | 5609 |
-| Croydon East | Natasha Irons MP | 3292 |
+| Croydon East | Natasha Irons MP | 3293 |
 | Croydon South | Rt Hon Chris Philp MP | 3906 |
 | Croydon West | Sarah Jones MP | 1720 |
 | Dagenham and Rainham | Margaret Mullane MP | 4172 |
@@ -153,7 +153,7 @@
 | Dulwich and West Norwood | Helen Hayes MP | 1535 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5460 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3052 |
-| Ealing North | James Murray MP | 2562 |
+| Ealing North | James Murray MP | 2563 |
 | Ealing Southall | Deirdre Costigan MP | 1937 |
 | Earley and Woodley | Yuan Yang MP | 3915 |
 | Easington | Grahame Morris MP | 5661 |
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5059 |
 | Harrow East | Bob Blackman MP | 3108 |
 | Harrow West | Gareth Thomas MP | 2375 |
-| Hartlepool | Mr Jonathan Brash MP | 5589 |
+| Hartlepool | Mr Jonathan Brash MP | 5590 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6219 |
 | Hastings and Rye | Helena Dollimore MP | 5009 |
 | Havant | Alan Mak MP | 5590 |
@@ -226,7 +226,7 @@
 | Hemel Hempstead | David Taylor MP | 5024 |
 | Hendon | David Pinto-Duschinsky MP | 3757 |
 | Henley and Thame | Freddie van Mierlo MP | 5354 |
-| Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5223 |
+| Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5224 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6231 |
 | Hertford and Stortford | Josh Dean MP | 5923 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5691 |
@@ -333,7 +333,7 @@
 | North Cornwall | Ben Maguire MP | 6347 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 5990 |
 | North Devon | Ian Roome MP | 5784 |
-| North Dorset | Simon Hoare MP | 6254 |
+| North Dorset | Simon Hoare MP | 6255 |
 | North Durham | Luke Akehurst MP | 5325 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 5996 |
 | North East Derbyshire | Louise Jones MP | 5732 |
@@ -476,7 +476,7 @@
 | Stretford and Urmston | Andrew Western MP | 3769 |
 | Stroud | Dr Simon Opher MP | 4490 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5327 |
-| Sunderland Central | Lewis Atkinson MP | 5163 |
+| Sunderland Central | Lewis Atkinson MP | 5164 |
 | Surrey Heath | Dr Al Pinkerton MP | 5376 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6048 |
 | Sutton and Cheam | Luke Taylor MP | 4364 |
