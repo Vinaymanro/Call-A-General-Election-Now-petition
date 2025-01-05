@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2957529                                |
-| Last Updated      | 2025-01-05 03:24:33 UTC                                    |
+| Total Signatures   | 2957536                                |
+| Last Updated      | 2025-01-05 04:19:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -144,7 +144,7 @@
 | Dewsbury and Batley | Iqbal Mohamed MP | 3128 |
 | Didcot and Wantage | Olly Glover MP | 4821 |
 | Doncaster Central | Sally Jameson MP | 4869 |
-| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6018 |
+| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6019 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5484 |
 | Dorking and Horley | Chris Coghlan MP | 5505 |
 | Dover and Deal | Mike Tapp MP | 5856 |
@@ -284,7 +284,7 @@
 | Lincoln | Mr Hamish Falconer MP | 4601 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3084 |
 | Liverpool Riverside | Kim Johnson MP | 2590 |
-| Liverpool Walton | Dan Carden MP | 3303 |
+| Liverpool Walton | Dan Carden MP | 3304 |
 | Liverpool Wavertree | Paula Barker MP | 2181 |
 | Liverpool West Derby | Ian Byrne MP | 2981 |
 | Loughborough | Dr Jeevun Sandher MP | 4429 |
@@ -330,7 +330,7 @@
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5465 |
 | Normanton and Hemsworth | Jon Trickett MP | 5421 |
 | North Bedfordshire | Richard Fuller MP | 6043 |
-| North Cornwall | Ben Maguire MP | 6347 |
+| North Cornwall | Ben Maguire MP | 6348 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 5990 |
 | North Devon | Ian Roome MP | 5784 |
 | North Dorset | Simon Hoare MP | 6255 |
@@ -340,7 +340,7 @@
 | North East Hampshire | Alex Brewer MP | 5906 |
 | North East Hertfordshire | Chris Hinchliff MP | 5788 |
 | North East Somerset and Hanham | Dan Norris MP | 4983 |
-| North Herefordshire | Ellie Chowns MP | 6407 |
+| North Herefordshire | Ellie Chowns MP | 6408 |
 | North Norfolk | Steff Aquarone MP | 5368 |
 | North Northumberland | David Smith MP | 6380 |
 | North Shropshire | Helen Morgan MP | 6794 |
@@ -540,7 +540,7 @@
 | Woking | Mr Will Forster MP | 4343 |
 | Wokingham | Clive Jones MP | 4826 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4330 |
-| Wolverhampton South East | Rt Hon Pat McFadden MP | 4237 |
+| Wolverhampton South East | Rt Hon Pat McFadden MP | 4238 |
 | Wolverhampton West | Warinder Juss | 3771 |
 | Worcester | Tom Collins MP | 4274 |
 | Worsley and Eccles | Michael Wheeler MP | 5379 |
@@ -608,7 +608,7 @@
 | Gordon and Buchan | Harriet Cross MP | 4341 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3097 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2715 |
-| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3577 |
+| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3578 |
 | Livingston | Gregor Poynton MP | 3354 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2819 |
 | Mid Dunbartonshire | Susan Murray MP | 2495 |
@@ -632,7 +632,7 @@
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3566 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5226 |
 | Bridgend | Chris Elmore MP | 4180 |
-| Caerfyrddin | Ann Davies MP | 5156 |
+| Caerfyrddin | Ann Davies MP | 5157 |
 | Caerphilly | Chris Evans MP | 3933 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2840 |
 | Cardiff North | Anna McMorrin MP | 3255 |
