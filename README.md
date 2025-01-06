@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2958604                                |
-| Last Updated      | 2025-01-06 02:52:52 UTC                                    |
+| Total Signatures   | 2958607                                |
+| Last Updated      | 2025-01-06 03:25:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -26,7 +26,7 @@
 | Basingstoke | Luke Murphy MP | 4765 |
 | Bassetlaw | Jo White MP | 6671 |
 | Bath | Wera Hobhouse MP | 2952 |
-| Battersea | Marsha De Cordova MP | 3590 |
+| Battersea | Marsha De Cordova MP | 3591 |
 | Beaconsfield | Joy Morrissey MP | 5163 |
 | Beckenham and Penge | Liam Conlon MP | 3805 |
 | Bedford | Mohammad Yasin MP | 3192 |
@@ -264,7 +264,7 @@
 | Kingswinford and South Staffordshire | Mike Wood MP | 6329 |
 | Knowsley | Anneliese Midgley MP | 3231 |
 | Lancaster and Wyre | Cat Smith MP | 5015 |
-| Leeds Central and Headingley | Alex Sobel MP | 1905 |
+| Leeds Central and Headingley | Alex Sobel MP | 1906 |
 | Leeds East | Richard Burgon MP | 4239 |
 | Leeds North East | Fabian Hamilton MP | 2596 |
 | Leeds North West | Katie White MP | 4334 |
@@ -405,7 +405,7 @@
 | Rushcliffe | James Naish MP | 5024 |
 | Rutland and Stamford | Alicia Kearns MP | 6212 |
 | Salford | Rebecca Long Bailey MP | 4606 |
-| Salisbury | Rt Hon John Glen MP | 4709 |
+| Salisbury | Rt Hon John Glen MP | 4710 |
 | Scarborough and Whitby | Alison Hume MP | 5930 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5030 |
 | Sefton Central | Bill Esterson MP | 3963 |
