@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2958620                                |
-| Last Updated      | 2025-01-06 05:17:01 UTC                                    |
+| Total Signatures   | 2958630                                |
+| Last Updated      | 2025-01-06 06:25:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -115,8 +115,8 @@
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4131 |
 | Chippenham | Sarah Gibson MP | 4681 |
 | Chipping Barnet | Dan Tomlinson MP | 4302 |
-| Chorley | Rt Hon Sir Lindsay Hoyle MP | 5444 |
-| Christchurch | Sir Christopher Chope MP | 5786 |
+| Chorley | Rt Hon Sir Lindsay Hoyle MP | 5445 |
+| Christchurch | Sir Christopher Chope MP | 5787 |
 | Cities of London and Westminster | Rachel Blake MP | 5134 |
 | City of Durham | Mary Kelly Foy MP | 4197 |
 | Clacton | Nigel Farage MP | 8005 |
@@ -127,7 +127,7 @@
 | Corby and East Northamptonshire | Lee Barron MP | 5928 |
 | Coventry East | Mary Creagh MP | 3523 |
 | Coventry North West | Taiwo Owatemi MP | 4185 |
-| Coventry South | Zarah Sultana MP | 3479 |
+| Coventry South | Zarah Sultana MP | 3481 |
 | Cramlington and Killingworth | Emma Foody MP | 5728 |
 | Crawley | Peter Lamb MP | 4638 |
 | Crewe and Nantwich | Connor Naismith MP | 5612 |
@@ -281,7 +281,7 @@
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1566 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1858 |
 | Lichfield | Dave Robertson MP | 6416 |
-| Lincoln | Mr Hamish Falconer MP | 4603 |
+| Lincoln | Mr Hamish Falconer MP | 4604 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3085 |
 | Liverpool Riverside | Kim Johnson MP | 2591 |
 | Liverpool Walton | Dan Carden MP | 3305 |
@@ -310,7 +310,7 @@
 | Mid Derbyshire | Jonathan Davies MP | 5185 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5833 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5529 |
-| Mid Norfolk | George Freeman MP | 6212 |
+| Mid Norfolk | George Freeman MP | 6213 |
 | Mid Sussex | Alison Bennett MP | 4660 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4165 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5648 |
@@ -355,7 +355,7 @@
 | Northampton South | Mike Reader MP | 4888 |
 | Norwich North | Alice Macdonald MP | 4347 |
 | Norwich South | Clive Lewis MP | 3345 |
-| Nottingham East | Nadia Whittome MP | 2435 |
+| Nottingham East | Nadia Whittome MP | 2436 |
 | Nottingham North and Kimberley | Alex Norris MP | 3670 |
 | Nottingham South | Lilian Greenwood MP | 3025 |
 | Nuneaton | Jodie Gosling MP | 5479 |
@@ -546,7 +546,7 @@
 | Worsley and Eccles | Michael Wheeler MP | 5382 |
 | Worthing West | Dr Beccy Cooper MP | 5180 |
 | Wycombe | Emma Reynolds MP | 3580 |
-| Wyre Forest | Mark Garnier MP | 6417 |
+| Wyre Forest | Mark Garnier MP | 6418 |
 | Wythenshawe and Sale East | Mike Kane MP | 4528 |
 | Yeovil | Adam Dance MP | 5535 |
 | York Central | Rachael Maskell MP | 3230 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3386 |
 | Glasgow East | John Grady MP | 2280 |
 | Glasgow North | Martin Rhodes MP | 2022 |
-| Glasgow North East | Maureen Burke MP | 2432 |
+| Glasgow North East | Maureen Burke MP | 2433 |
 | Glasgow South | Gordon McKee MP | 1823 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2236 |
 | Glasgow West | Patricia Ferguson MP | 2180 |
@@ -612,7 +612,7 @@
 | Livingston | Gregor Poynton MP | 3357 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2819 |
 | Mid Dunbartonshire | Susan Murray MP | 2495 |
-| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3881 |
+| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3882 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2691 |
 | North East Fife | Wendy Chamberlain MP | 2868 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2808 |
