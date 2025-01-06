@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2958607                                |
-| Last Updated      | 2025-01-06 03:25:09 UTC                                    |
+| Total Signatures   | 2958611                                |
+| Last Updated      | 2025-01-06 04:20:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -132,7 +132,7 @@
 | Crawley | Peter Lamb MP | 4638 |
 | Crewe and Nantwich | Connor Naismith MP | 5612 |
 | Croydon East | Natasha Irons MP | 3296 |
-| Croydon South | Rt Hon Chris Philp MP | 3906 |
+| Croydon South | Rt Hon Chris Philp MP | 3907 |
 | Croydon West | Sarah Jones MP | 1722 |
 | Dagenham and Rainham | Margaret Mullane MP | 4175 |
 | Darlington | Lola McEvoy MP | 5390 |
@@ -209,7 +209,7 @@
 | Halesowen | Alex Ballinger MP | 4928 |
 | Halifax | Kate Dearden MP | 4684 |
 | Hamble Valley | Paul Holmes MP | 6081 |
-| Hammersmith and Chiswick | Andy Slaughter MP | 3173 |
+| Hammersmith and Chiswick | Andy Slaughter MP | 3174 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2944 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4655 |
 | Harlow | Chris Vince MP | 6010 |
@@ -526,7 +526,7 @@
 | West Suffolk | Nick Timothy MP | 5956 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6195 |
 | Westmorland and Lonsdale | Tim Farron MP | 5152 |
-| Weston-super-Mare | Dan Aldridge MP | 5011 |
+| Weston-super-Mare | Dan Aldridge MP | 5012 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6538 |
 | Whitehaven and Workington | Josh MacAlister MP | 5773 |
 | Widnes and Halewood | Derek Twigg MP | 4184 |
@@ -620,7 +620,7 @@
 | Perth and Kinross-shire | Pete Wishart MP | 3465 |
 | Rutherglen | Michael Shanks MP | 2528 |
 | Stirling and Strathallan | Chris Kane MP | 3196 |
-| West Dunbartonshire | Douglas McAllister MP | 2686 |
+| West Dunbartonshire | Douglas McAllister MP | 2687 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3520 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3986 |
 | Central Ayrshire | Alan Gemmell MP | 3087 |
