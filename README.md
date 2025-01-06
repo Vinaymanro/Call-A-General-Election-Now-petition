@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2958611                                |
-| Last Updated      | 2025-01-06 04:20:58 UTC                                    |
+| Total Signatures   | 2958620                                |
+| Last Updated      | 2025-01-06 05:17:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5399 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5735 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5736 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5462 |
 | Amber Valley | Linsey Farnsworth MP | 6017 |
 | Arundel and South Downs | Andrew Griffith MP | 6890 |
@@ -77,7 +77,7 @@
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3873 |
 | Brighton Pavilion | Siân Berry MP | 2707 |
 | Bristol Central | Carla Denyer MP | 1602 |
-| Bristol East | Kerry McCarthy MP | 2939 |
+| Bristol East | Kerry McCarthy MP | 2940 |
 | Bristol North East | Damien Egan MP | 3038 |
 | Bristol North West | Rt Hon Darren Jones MP | 3157 |
 | Bristol South | Karin Smyth MP | 3892 |
@@ -164,7 +164,7 @@
 | East Thanet | Ms Polly Billington MP | 5413 |
 | East Wiltshire | Danny Kruger MP | 6006 |
 | East Worthing and Shoreham | Tom Rutland MP | 4552 |
-| Eastbourne | Josh Babarinde MP | 4988 |
+| Eastbourne | Josh Babarinde MP | 4989 |
 | Eastleigh | Liz Jarvis MP | 4279 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2196 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4373 |
@@ -231,13 +231,13 @@
 | Hertford and Stortford | Josh Dean MP | 5924 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5692 |
 | Hexham | Joe Morris MP | 6358 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5190 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5191 |
 | High Peak | Jon Pearce MP | 5387 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6392 |
 | Hitchin | Alistair Strathern MP | 4873 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2259 |
 | Honiton and Sidmouth | Richard Foord MP | 5191 |
-| Hornchurch and Upminster | Julia Lopez MP | 6564 |
+| Hornchurch and Upminster | Julia Lopez MP | 6565 |
 | Hornsey and Friern Barnet | Catherine West MP | 1916 |
 | Horsham | John Milne MP | 5769 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6241 |
@@ -336,12 +336,12 @@
 | North Dorset | Simon Hoare MP | 6259 |
 | North Durham | Luke Akehurst MP | 5328 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 5997 |
-| North East Derbyshire | Louise Jones MP | 5733 |
+| North East Derbyshire | Louise Jones MP | 5734 |
 | North East Hampshire | Alex Brewer MP | 5906 |
 | North East Hertfordshire | Chris Hinchliff MP | 5789 |
 | North East Somerset and Hanham | Dan Norris MP | 4987 |
 | North Herefordshire | Ellie Chowns MP | 6410 |
-| North Norfolk | Steff Aquarone MP | 5372 |
+| North Norfolk | Steff Aquarone MP | 5373 |
 | North Northumberland | David Smith MP | 6387 |
 | North Shropshire | Helen Morgan MP | 6796 |
 | North Somerset | Sadik Al-Hassan MP | 4545 |
@@ -365,13 +365,13 @@
 | Orpington | Gareth Bacon MP | 5266 |
 | Ossett and Denby Dale | Jade Botterill MP | 5752 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2121 |
-| Oxford West and Abingdon | Layla Moran MP | 2895 |
+| Oxford West and Abingdon | Layla Moran MP | 2896 |
 | Peckham | Miatta Fahnbulleh MP | 1346 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6124 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5388 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6138 |
 | Peterborough | Andrew Pakes MP | 4101 |
-| Plymouth Moor View | Fred Thomas MP | 5596 |
+| Plymouth Moor View | Fred Thomas MP | 5597 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4683 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5369 |
 | Poole | Neil Duncan-Jordan MP | 5606 |
