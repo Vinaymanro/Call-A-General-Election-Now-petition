@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2963928                                |
-| Last Updated      | 2025-01-07 02:50:06 UTC                                    |
+| Total Signatures   | 2963936                                |
+| Last Updated      | 2025-01-07 03:23:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -34,7 +34,7 @@
 | Bethnal Green and Stepney | Rushanara Ali MP | 1706 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6103 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6082 |
-| Bexleyheath and Crayford | Daniel Francis MP | 5016 |
+| Bexleyheath and Crayford | Daniel Francis MP | 5017 |
 | Bicester and Woodstock | Calum Miller MP | 4633 |
 | Birkenhead | Alison McGovern MP | 4274 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2923 |
@@ -229,7 +229,7 @@
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5232 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6248 |
 | Hertford and Stortford | Josh Dean MP | 5935 |
-| Hertsmere | Rt Hon Sir Oliver Dowden MP | 5705 |
+| Hertsmere | Rt Hon Sir Oliver Dowden MP | 5706 |
 | Hexham | Joe Morris MP | 6364 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5198 |
 | High Peak | Jon Pearce MP | 5396 |
@@ -365,7 +365,7 @@
 | Orpington | Gareth Bacon MP | 5275 |
 | Ossett and Denby Dale | Jade Botterill MP | 5762 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2129 |
-| Oxford West and Abingdon | Layla Moran MP | 2905 |
+| Oxford West and Abingdon | Layla Moran MP | 2906 |
 | Peckham | Miatta Fahnbulleh MP | 1346 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6133 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5395 |
@@ -387,7 +387,7 @@
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4406 |
 | Redcar | Anna Turley MP | 5398 |
 | Redditch | Chris Bloore MP | 6019 |
-| Reigate | Rebecca Paul MP | 5505 |
+| Reigate | Rebecca Paul MP | 5506 |
 | Ribble Valley | Maya Ellis MP | 6658 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7049 |
 | Richmond Park | Sarah Olney MP | 4045 |
@@ -419,7 +419,7 @@
 | Sherwood Forest | Michelle Welsh MP | 6605 |
 | Shipley | Anna Dixon MP | 4844 |
 | Shrewsbury | Julia Buckley MP | 5272 |
-| Sittingbourne and Sheppey | Kevin McKenna MP | 6794 |
+| Sittingbourne and Sheppey | Kevin McKenna MP | 6795 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6619 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6243 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2550 |
@@ -507,7 +507,7 @@
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1660 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4848 |
 | Wallasey | Dame Angela Eagle MP | 4017 |
-| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3959 |
+| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3960 |
 | Walthamstow | Ms Stella Creasy MP | 1305 |
 | Warrington North | Charlotte Nichols MP | 5117 |
 | Warrington South | Sarah Hall MP | 5524 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3730 |
 | West Dorset | Edward Morello MP | 5415 |
 | West Ham and Beckton | James Asser MP | 2127 |
-| West Lancashire | Ashley Dalton MP | 5008 |
+| West Lancashire | Ashley Dalton MP | 5009 |
 | West Suffolk | Nick Timothy MP | 5963 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6208 |
 | Westmorland and Lonsdale | Tim Farron MP | 5163 |
@@ -575,7 +575,7 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3251 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1430 |
 | Aberdeen North | Kirsty Blackman MP | 3510 |
-| Aberdeen South | Rt Hon Stephen Flynn MP | 3808 |
+| Aberdeen South | Rt Hon Stephen Flynn MP | 3809 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4622 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2787 |
 | Alloa and Grangemouth | Brian Leishman MP | 2989 |
