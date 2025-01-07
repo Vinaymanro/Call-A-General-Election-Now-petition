@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2963936                                |
-| Last Updated      | 2025-01-07 03:23:32 UTC                                    |
+| Total Signatures   | 2963943                                |
+| Last Updated      | 2025-01-07 04:19:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -16,7 +16,7 @@
 | Ashfield | Lee Anderson MP | 6105 |
 | Ashford | Sojan Joseph MP | 5853 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4528 |
-| Aylesbury | Laura Kyrke-Smith MP | 4829 |
+| Aylesbury | Laura Kyrke-Smith MP | 4830 |
 | Banbury | Sean Woodcock MP | 5396 |
 | Barking | Nesil Caliskan MP | 2604 |
 | Barnsley North | Dan Jarvis MP | 5607 |
@@ -122,7 +122,7 @@
 | Clacton | Nigel Farage MP | 8019 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1724 |
 | Colchester | Pam Cox MP | 4945 |
-| Colne Valley | Paul Davies MP | 4975 |
+| Colne Valley | Paul Davies MP | 4976 |
 | Congleton | Mrs Sarah Russell MP | 5919 |
 | Corby and East Northamptonshire | Lee Barron MP | 5938 |
 | Coventry East | Mary Creagh MP | 3532 |
@@ -237,7 +237,7 @@
 | Hitchin | Alistair Strathern MP | 4884 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2261 |
 | Honiton and Sidmouth | Richard Foord MP | 5202 |
-| Hornchurch and Upminster | Julia Lopez MP | 6572 |
+| Hornchurch and Upminster | Julia Lopez MP | 6573 |
 | Hornsey and Friern Barnet | Catherine West MP | 1919 |
 | Horsham | John Milne MP | 5778 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6249 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3915 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5004 |
 | Newton Abbot | Martin Wrigley MP | 5070 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5483 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5484 |
 | Normanton and Hemsworth | Jon Trickett MP | 5428 |
 | North Bedfordshire | Richard Fuller MP | 6056 |
 | North Cornwall | Ben Maguire MP | 6359 |
@@ -350,7 +350,7 @@
 | North West Essex | Rt Hon Kemi Badenoch MP | 7088 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5676 |
 | North West Leicestershire | Amanda Hack MP | 6646 |
-| North West Norfolk | James Wild MP | 5694 |
+| North West Norfolk | James Wild MP | 5695 |
 | Northampton North | Lucy Rigby MP | 4228 |
 | Northampton South | Mike Reader MP | 4909 |
 | Norwich North | Alice Macdonald MP | 4357 |
@@ -377,7 +377,7 @@
 | Poole | Neil Duncan-Jordan MP | 5619 |
 | Poplar and Limehouse | Apsana Begum MP | 2898 |
 | Portsmouth North | Amanda Martin MP | 5556 |
-| Portsmouth South | Stephen Morgan MP | 3832 |
+| Portsmouth South | Stephen Morgan MP | 3833 |
 | Preston | Sir Mark Hendrick MP | 3748 |
 | Putney | Fleur Anderson MP | 3483 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2128 |
@@ -506,7 +506,7 @@
 | Uxbridge and South Ruislip | Danny Beales MP | 4439 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1660 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4848 |
-| Wallasey | Dame Angela Eagle MP | 4017 |
+| Wallasey | Dame Angela Eagle MP | 4018 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3960 |
 | Walthamstow | Ms Stella Creasy MP | 1305 |
 | Warrington North | Charlotte Nichols MP | 5117 |
