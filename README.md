@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2965641                                |
-| Last Updated      | 2025-01-08 03:21:00 UTC                                    |
+| Total Signatures   | 2965650                                |
+| Last Updated      | 2025-01-08 04:20:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -21,7 +21,7 @@
 | Barking | Nesil Caliskan MP | 2606 |
 | Barnsley North | Dan Jarvis MP | 5608 |
 | Barnsley South | Stephanie Peacock MP | 5689 |
-| Barrow and Furness | Michelle Scrogham MP | 5258 |
+| Barrow and Furness | Michelle Scrogham MP | 5259 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6829 |
 | Basingstoke | Luke Murphy MP | 4771 |
 | Bassetlaw | Jo White MP | 6686 |
@@ -64,7 +64,7 @@
 | Bournemouth West | Jessica Toale MP | 4861 |
 | Bracknell | Peter Swallow MP | 4930 |
 | Bradford East | Imran Hussain MP | 2841 |
-| Bradford South | Judith Cummins MP | 4100 |
+| Bradford South | Judith Cummins MP | 4101 |
 | Bradford West | Naz Shah MP | 1786 |
 | Braintree | Rt Hon James Cleverly MP | 7377 |
 | Brent East | Dawn Butler MP | 1845 |
@@ -85,13 +85,13 @@
 | Bromley and Biggin Hill | Peter Fortune MP | 5218 |
 | Bromsgrove | Bradley Thomas MP | 6408 |
 | Broxbourne | Lewis Cocking MP | 6017 |
-| Broxtowe | Juliet Campbell MP | 4672 |
+| Broxtowe | Juliet Campbell MP | 4673 |
 | Buckingham and Bletchley | Callum Anderson MP | 5229 |
 | Burnley | Oliver Ryan MP | 5672 |
 | Burton and Uttoxeter | Jacob Collier MP | 5740 |
 | Bury North | Mr James Frith MP | 4913 |
 | Bury South | Christian Wakeford MP | 5383 |
-| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5408 |
+| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5409 |
 | Calder Valley | Josh Fenton-Glynn MP | 5606 |
 | Camborne and Redruth | Perran Moon MP | 4918 |
 | Cambridge | Daniel Zeichner MP | 2198 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2603 |
 | Liverpool Walton | Dan Carden MP | 3312 |
 | Liverpool Wavertree | Paula Barker MP | 2191 |
-| Liverpool West Derby | Ian Byrne MP | 2994 |
+| Liverpool West Derby | Ian Byrne MP | 2995 |
 | Loughborough | Dr Jeevun Sandher MP | 4445 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7731 |
 | Lowestoft | Jess Asato MP | 5280 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5543 |
 | Mid Norfolk | George Freeman MP | 6224 |
 | Mid Sussex | Alison Bennett MP | 4667 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4173 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4174 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5656 |
 | Milton Keynes Central | Emily Darlington MP | 4892 |
 | Milton Keynes North | Chris Curtis MP | 4527 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3752 |
 | Putney | Fleur Anderson MP | 3489 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2131 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5053 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5054 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7304 |
 | Reading Central | Matt Rodda MP | 3008 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4406 |
@@ -448,7 +448,7 @@
 | Southampton Test | Satvir Kaur MP | 3356 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5529 |
 | Southend West and Leigh | David Burton-Sampson MP | 5815 |
-| Southgate and Wood Green | Bambos Charalambous MP | 2564 |
+| Southgate and Wood Green | Bambos Charalambous MP | 2565 |
 | Southport | Patrick Hurley MP | 5901 |
 | Spelthorne | Lincoln Jopp MP | 5423 |
 | Spen Valley | Kim Leadbeater MP | 5323 |
@@ -631,7 +631,7 @@
 | Bangor Aberconwy | Claire Hughes MP | 4473 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3579 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5234 |
-| Bridgend | Chris Elmore MP | 4194 |
+| Bridgend | Chris Elmore MP | 4195 |
 | Caerfyrddin | Ann Davies MP | 5172 |
 | Caerphilly | Chris Evans MP | 3937 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2855 |
