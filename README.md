@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2965637                                |
-| Last Updated      | 2025-01-08 02:47:52 UTC                                    |
+| Total Signatures   | 2965641                                |
+| Last Updated      | 2025-01-08 03:21:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -85,7 +85,7 @@
 | Bromley and Biggin Hill | Peter Fortune MP | 5218 |
 | Bromsgrove | Bradley Thomas MP | 6408 |
 | Broxbourne | Lewis Cocking MP | 6017 |
-| Broxtowe | Juliet Campbell MP | 4671 |
+| Broxtowe | Juliet Campbell MP | 4672 |
 | Buckingham and Bletchley | Callum Anderson MP | 5229 |
 | Burnley | Oliver Ryan MP | 5672 |
 | Burton and Uttoxeter | Jacob Collier MP | 5740 |
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5408 |
 | Dartford | Jim Dickson MP | 5692 |
 | Daventry | Rt Hon Stuart Andrew MP | 7235 |
-| Derby North | Catherine Atkinson MP | 4283 |
+| Derby North | Catherine Atkinson MP | 4284 |
 | Derby South | Baggy Shanker MP | 3555 |
 | Derbyshire Dales | John Whitby MP | 6743 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3138 |
@@ -179,7 +179,7 @@
 | Exeter | Steve Race MP | 3148 |
 | Exmouth and Exeter East | David Reed MP | 5152 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6067 |
-| Farnham and Bordon | Gregory Stafford MP | 5147 |
+| Farnham and Bordon | Gregory Stafford MP | 5148 |
 | Faversham and Mid Kent | Helen Whately MP | 6180 |
 | Feltham and Heston | Seema Malhotra MP | 2877 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4470 |
@@ -315,7 +315,7 @@
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4173 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5656 |
 | Milton Keynes Central | Emily Darlington MP | 4892 |
-| Milton Keynes North | Chris Curtis MP | 4526 |
+| Milton Keynes North | Chris Curtis MP | 4527 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2651 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5714 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5356 |
