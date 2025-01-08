@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2965628                                |
-| Last Updated      | 2025-01-08 01:18:51 UTC                                    |
+| Total Signatures   | 2965637                                |
+| Last Updated      | 2025-01-08 02:47:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -40,7 +40,7 @@
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2927 |
 | Birmingham Erdington | Paulette Hamilton MP | 4186 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1562 |
-| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3437 |
+| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3438 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1872 |
 | Birmingham Northfield | Laurence Turner MP | 4838 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1690 |
@@ -102,7 +102,7 @@
 | Castle Point | Rebecca Harris MP | 7476 |
 | Central Devon | Rt Hon Mel Stride MP | 5752 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5259 |
-| Chatham and Aylesford | Tristan Osborne MP | 5566 |
+| Chatham and Aylesford | Tristan Osborne MP | 5567 |
 | Cheadle | Tom Morrison MP | 4633 |
 | Chelmsford | Marie Goldman MP | 5222 |
 | Chelsea and Fulham | Ben Coleman MP | 5455 |
@@ -113,7 +113,7 @@
 | Chesterfield | Mr Toby Perkins MP | 4822 |
 | Chichester | Jess Brown-Fuller MP | 5866 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4139 |
-| Chippenham | Sarah Gibson MP | 4692 |
+| Chippenham | Sarah Gibson MP | 4693 |
 | Chipping Barnet | Dan Tomlinson MP | 4310 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5452 |
 | Christchurch | Sir Christopher Chope MP | 5802 |
@@ -204,7 +204,7 @@
 | Great Yarmouth | Rupert Lowe MP | 6514 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2583 |
 | Guildford | Zöe Franklin MP | 3967 |
-| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2053 |
+| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2054 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1504 |
 | Halesowen | Alex Ballinger MP | 4938 |
 | Halifax | Kate Dearden MP | 4699 |
@@ -438,7 +438,7 @@
 | South Northamptonshire | Sarah Bool MP | 6615 |
 | South Ribble | Mr Paul Foster MP | 5842 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4686 |
-| South Shropshire | Stuart Anderson MP | 7284 |
+| South Shropshire | Stuart Anderson MP | 7286 |
 | South Suffolk | James Cartlidge MP | 6105 |
 | South West Devon | Rebecca Smith MP | 5924 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5165 |
@@ -513,7 +513,7 @@
 | Warrington South | Sarah Hall MP | 5525 |
 | Warwick and Leamington | Matt Western MP | 4435 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5261 |
-| Watford | Matt Turmaine MP | 3716 |
+| Watford | Matt Turmaine MP | 3717 |
 | Waveney Valley | Adrian Ramsay MP | 5807 |
 | Weald of Kent | Katie Lam MP | 7181 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5032 |
@@ -620,12 +620,12 @@
 | Perth and Kinross-shire | Pete Wishart MP | 3477 |
 | Rutherglen | Michael Shanks MP | 2535 |
 | Stirling and Strathallan | Chris Kane MP | 3203 |
-| West Dunbartonshire | Douglas McAllister MP | 2693 |
+| West Dunbartonshire | Douglas McAllister MP | 2694 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3527 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3992 |
 | Central Ayrshire | Alan Gemmell MP | 3093 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3225 |
-| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4520 |
+| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4521 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3631 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5696 |
 | Bangor Aberconwy | Claire Hughes MP | 4473 |
