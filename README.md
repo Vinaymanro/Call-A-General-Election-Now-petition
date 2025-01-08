@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2965650                                |
-| Last Updated      | 2025-01-08 04:20:17 UTC                                    |
+| Total Signatures   | 2965654                                |
+| Last Updated      | 2025-01-08 05:16:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1724 |
 | Colchester | Pam Cox MP | 4948 |
 | Colne Valley | Paul Davies MP | 4981 |
-| Congleton | Mrs Sarah Russell MP | 5922 |
+| Congleton | Mrs Sarah Russell MP | 5923 |
 | Corby and East Northamptonshire | Lee Barron MP | 5941 |
 | Coventry East | Mary Creagh MP | 3535 |
 | Coventry North West | Taiwo Owatemi MP | 4199 |
@@ -239,7 +239,7 @@
 | Honiton and Sidmouth | Richard Foord MP | 5206 |
 | Hornchurch and Upminster | Julia Lopez MP | 6580 |
 | Hornsey and Friern Barnet | Catherine West MP | 1922 |
-| Horsham | John Milne MP | 5780 |
+| Horsham | John Milne MP | 5781 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6251 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3294 |
 | Huddersfield | Harpreet Uppal MP | 3645 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2051 |
 | North Antrim | Jim Allister KC MP | 3070 |
 | North Down | Alex Easton MP | 3321 |
-| South Antrim | Robin Swann MP | 3062 |
+| South Antrim | Robin Swann MP | 3063 |
 | South Down | Chris Hazzard MP | 1835 |
 | Strangford | Jim Shannon MP | 3441 |
 | Upper Bann | Carla Lockhart MP | 3040 |
@@ -586,7 +586,7 @@
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4038 |
 | Coatbridge and Bellshill | Frank McNally MP | 2561 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2823 |
-| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2645 |
+| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2646 |
 | Dumfries and Galloway | John Cooper MP | 4009 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3829 |
 | Dundee Central | Chris Law MP | 2518 |
