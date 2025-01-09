@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2966453                                |
-| Last Updated      | 2025-01-09 04:20:17 UTC                                    |
+| Total Signatures   | 2966459                                |
+| Last Updated      | 2025-01-09 05:16:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -97,7 +97,7 @@
 | Cambridge | Daniel Zeichner MP | 2198 |
 | Cannock Chase | Josh Newbury MP | 6813 |
 | Canterbury | Rosie Duffield MP | 4444 |
-| Carlisle | Ms Julie Minns MP | 6481 |
+| Carlisle | Ms Julie Minns MP | 6482 |
 | Carshalton and Wallington | Bobby Dean MP | 4224 |
 | Castle Point | Rebecca Harris MP | 7478 |
 | Central Devon | Rt Hon Mel Stride MP | 5754 |
@@ -263,7 +263,7 @@
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5440 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6347 |
 | Knowsley | Anneliese Midgley MP | 3242 |
-| Lancaster and Wyre | Cat Smith MP | 5030 |
+| Lancaster and Wyre | Cat Smith MP | 5031 |
 | Leeds Central and Headingley | Alex Sobel MP | 1911 |
 | Leeds East | Richard Burgon MP | 4251 |
 | Leeds North East | Fabian Hamilton MP | 2602 |
@@ -353,7 +353,7 @@
 | North West Norfolk | James Wild MP | 5698 |
 | Northampton North | Lucy Rigby MP | 4230 |
 | Northampton South | Mike Reader MP | 4914 |
-| Norwich North | Alice Macdonald MP | 4360 |
+| Norwich North | Alice Macdonald MP | 4361 |
 | Norwich South | Clive Lewis MP | 3357 |
 | Nottingham East | Nadia Whittome MP | 2445 |
 | Nottingham North and Kimberley | Alex Norris MP | 3683 |
@@ -380,12 +380,12 @@
 | Portsmouth South | Stephen Morgan MP | 3835 |
 | Preston | Sir Mark Hendrick MP | 3754 |
 | Putney | Fleur Anderson MP | 3491 |
-| Queen's Park and Maida Vale | Georgia Gould MP | 2132 |
+| Queen's Park and Maida Vale | Georgia Gould MP | 2133 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5055 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7306 |
 | Reading Central | Matt Rodda MP | 3010 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4408 |
-| Redcar | Anna Turley MP | 5401 |
+| Redcar | Anna Turley MP | 5402 |
 | Redditch | Chris Bloore MP | 6024 |
 | Reigate | Rebecca Paul MP | 5508 |
 | Ribble Valley | Maya Ellis MP | 6663 |
@@ -400,7 +400,7 @@
 | Rotherham | Sarah Champion MP | 4887 |
 | Rugby | John Slinger MP | 5351 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4084 |
-| Runcorn and Helsby | Mike Amesbury MP | 4980 |
+| Runcorn and Helsby | Mike Amesbury MP | 4981 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5804 |
 | Rushcliffe | James Naish MP | 5040 |
 | Rutland and Stamford | Alicia Kearns MP | 6223 |
