@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2966473                                |
-| Last Updated      | 2025-01-09 06:23:47 UTC                                    |
+| Total Signatures   | 2966482                                |
+| Last Updated      | 2025-01-09 07:16:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -84,7 +84,7 @@
 | Broadland and Fakenham | Jerome Mayhew MP | 5795 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5218 |
 | Bromsgrove | Bradley Thomas MP | 6409 |
-| Broxbourne | Lewis Cocking MP | 6019 |
+| Broxbourne | Lewis Cocking MP | 6020 |
 | Broxtowe | Juliet Campbell MP | 4678 |
 | Buckingham and Bletchley | Callum Anderson MP | 5231 |
 | Burnley | Oliver Ryan MP | 5674 |
@@ -133,7 +133,7 @@
 | Crewe and Nantwich | Connor Naismith MP | 5632 |
 | Croydon East | Natasha Irons MP | 3309 |
 | Croydon South | Rt Hon Chris Philp MP | 3925 |
-| Croydon West | Sarah Jones MP | 1728 |
+| Croydon West | Sarah Jones MP | 1729 |
 | Dagenham and Rainham | Margaret Mullane MP | 4182 |
 | Darlington | Lola McEvoy MP | 5412 |
 | Dartford | Jim Dickson MP | 5694 |
@@ -209,8 +209,8 @@
 | Halesowen | Alex Ballinger MP | 4938 |
 | Halifax | Kate Dearden MP | 4702 |
 | Hamble Valley | Paul Holmes MP | 6094 |
-| Hammersmith and Chiswick | Andy Slaughter MP | 3177 |
-| Hampstead and Highgate | Tulip Siddiq MP | 2949 |
+| Hammersmith and Chiswick | Andy Slaughter MP | 3178 |
+| Hampstead and Highgate | Tulip Siddiq MP | 2950 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4675 |
 | Harlow | Chris Vince MP | 6020 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4509 |
@@ -253,7 +253,7 @@
 | Islington North | Rt Hon Jeremy Corbyn MP | 1770 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2739 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5056 |
-| Keighley and Ilkley | Robbie Moore MP | 4646 |
+| Keighley and Ilkley | Robbie Moore MP | 4647 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6066 |
 | Kensington and Bayswater | Joe Powell MP | 4372 |
 | Kettering | Rosie Wrighting MP | 5859 |
@@ -345,7 +345,7 @@
 | North Northumberland | David Smith MP | 6392 |
 | North Shropshire | Helen Morgan MP | 6827 |
 | North Somerset | Sadik Al-Hassan MP | 4552 |
-| North Warwickshire and Bedworth | Rachel Taylor MP | 6207 |
+| North Warwickshire and Bedworth | Rachel Taylor MP | 6208 |
 | North West Cambridgeshire | Sam Carling MP | 5965 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7094 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5681 |
@@ -356,7 +356,7 @@
 | Norwich North | Alice Macdonald MP | 4361 |
 | Norwich South | Clive Lewis MP | 3357 |
 | Nottingham East | Nadia Whittome MP | 2445 |
-| Nottingham North and Kimberley | Alex Norris MP | 3683 |
+| Nottingham North and Kimberley | Alex Norris MP | 3684 |
 | Nottingham South | Lilian Greenwood MP | 3030 |
 | Nuneaton | Jodie Gosling MP | 5492 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6182 |
@@ -421,7 +421,7 @@
 | Shrewsbury | Julia Buckley MP | 5286 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6800 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6624 |
-| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6248 |
+| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6249 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2552 |
 | Smethwick | Gurinder Singh Josan MP | 3024 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5396 |
@@ -654,7 +654,7 @@
 | Pontypridd | Alex Davies-Jones MP | 3849 |
 | Rhondda and Ogmore | Chris Bryant MP | 3987 |
 | Swansea West | Torsten Bell MP | 3613 |
-| Torfaen | Rt Hon Nick Thomas-Symonds MP | 4029 |
+| Torfaen | Rt Hon Nick Thomas-Symonds MP | 4030 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4573 |
 | Wrexham | Andrew Ranger MP | 4751 |
 | Ynys Môn | Llinos Medi MP | 3701 |
