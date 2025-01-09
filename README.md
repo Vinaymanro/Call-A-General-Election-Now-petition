@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2966445                                |
-| Last Updated      | 2025-01-09 03:11:36 UTC                                    |
+| Total Signatures   | 2966453                                |
+| Last Updated      | 2025-01-09 04:20:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -60,9 +60,9 @@
 | Bolton West | Phil Brickell MP | 5535 |
 | Bootle | Peter Dowd MP | 3114 |
 | Boston and Skegness | Richard Tice MP | 7029 |
-| Bournemouth East | Tom Hayes MP | 4618 |
+| Bournemouth East | Tom Hayes MP | 4619 |
 | Bournemouth West | Jessica Toale MP | 4861 |
-| Bracknell | Peter Swallow MP | 4932 |
+| Bracknell | Peter Swallow MP | 4933 |
 | Bradford East | Imran Hussain MP | 2843 |
 | Bradford South | Judith Cummins MP | 4102 |
 | Bradford West | Naz Shah MP | 1787 |
@@ -89,7 +89,7 @@
 | Buckingham and Bletchley | Callum Anderson MP | 5231 |
 | Burnley | Oliver Ryan MP | 5674 |
 | Burton and Uttoxeter | Jacob Collier MP | 5745 |
-| Bury North | Mr James Frith MP | 4914 |
+| Bury North | Mr James Frith MP | 4915 |
 | Bury South | Christian Wakeford MP | 5383 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5412 |
 | Calder Valley | Josh Fenton-Glynn MP | 5607 |
@@ -117,7 +117,7 @@
 | Chipping Barnet | Dan Tomlinson MP | 4310 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5455 |
 | Christchurch | Sir Christopher Chope MP | 5802 |
-| Cities of London and Westminster | Rachel Blake MP | 5147 |
+| Cities of London and Westminster | Rachel Blake MP | 5148 |
 | City of Durham | Mary Kelly Foy MP | 4209 |
 | Clacton | Nigel Farage MP | 8026 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1724 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5544 |
 | Mid Norfolk | George Freeman MP | 6227 |
 | Mid Sussex | Alison Bennett MP | 4667 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4177 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4178 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5659 |
 | Milton Keynes Central | Emily Darlington MP | 4894 |
 | Milton Keynes North | Chris Curtis MP | 4530 |
@@ -352,7 +352,7 @@
 | North West Leicestershire | Amanda Hack MP | 6652 |
 | North West Norfolk | James Wild MP | 5698 |
 | Northampton North | Lucy Rigby MP | 4230 |
-| Northampton South | Mike Reader MP | 4913 |
+| Northampton South | Mike Reader MP | 4914 |
 | Norwich North | Alice Macdonald MP | 4360 |
 | Norwich South | Clive Lewis MP | 3357 |
 | Nottingham East | Nadia Whittome MP | 2445 |
@@ -455,7 +455,7 @@
 | St Albans | Daisy Cooper MP | 3859 |
 | St Austell and Newquay | Noah Law MP | 5552 |
 | St Helens North | David Baines MP | 4630 |
-| St Helens South and Whiston | Ms Marie Rimmer MP | 4108 |
+| St Helens South and Whiston | Ms Marie Rimmer MP | 4109 |
 | St Ives | Andrew George MP | 5047 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4757 |
 | Stafford | Leigh Ingham MP | 5557 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4791 |
 | Stockton West | Matt Vickers MP | 5936 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4658 |
-| Stoke-on-Trent North | David Williams MP | 5388 |
+| Stoke-on-Trent North | David Williams MP | 5389 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5678 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6477 |
 | Stourbridge | Cat Eccles MP | 5110 |
