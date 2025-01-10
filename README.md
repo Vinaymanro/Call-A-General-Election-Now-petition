@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967075                                |
-| Last Updated      | 2025-01-10 05:16:32 UTC                                    |
+| Total Signatures   | 2967082                                |
+| Last Updated      | 2025-01-10 06:24:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -29,7 +29,7 @@
 | Battersea | Marsha De Cordova MP | 3600 |
 | Beaconsfield | Joy Morrissey MP | 5183 |
 | Beckenham and Penge | Liam Conlon MP | 3816 |
-| Bedford | Mohammad Yasin MP | 3199 |
+| Bedford | Mohammad Yasin MP | 3200 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2680 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1707 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6110 |
@@ -89,7 +89,7 @@
 | Buckingham and Bletchley | Callum Anderson MP | 5231 |
 | Burnley | Oliver Ryan MP | 5675 |
 | Burton and Uttoxeter | Jacob Collier MP | 5745 |
-| Bury North | Mr James Frith MP | 4920 |
+| Bury North | Mr James Frith MP | 4921 |
 | Bury South | Christian Wakeford MP | 5383 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5413 |
 | Calder Valley | Josh Fenton-Glynn MP | 5607 |
@@ -197,7 +197,7 @@
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5207 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6915 |
 | Gorton and Denton | Andrew Gwynne MP | 3235 |
-| Gosport | Dame Caroline Dinenage MP | 5428 |
+| Gosport | Dame Caroline Dinenage MP | 5429 |
 | Grantham and Bourne | Gareth Davies MP | 6277 |
 | Gravesham | Dr Lauren Sullivan MP | 5089 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5717 |
@@ -403,7 +403,7 @@
 | Runcorn and Helsby | Mike Amesbury MP | 4981 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5805 |
 | Rushcliffe | James Naish MP | 5040 |
-| Rutland and Stamford | Alicia Kearns MP | 6223 |
+| Rutland and Stamford | Alicia Kearns MP | 6224 |
 | Salford | Rebecca Long Bailey MP | 4616 |
 | Salisbury | Rt Hon John Glen MP | 4717 |
 | Scarborough and Whitby | Alison Hume MP | 5944 |
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5527 |
 | Tewkesbury | Cameron Thomas MP | 4985 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6343 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7382 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7383 |
 | Thornbury and Yate | Claire Young MP | 5650 |
 | Thurrock | Jen Craft MP | 5068 |
 | Tipton and Wednesbury | Antonia Bance MP | 4864 |
@@ -569,7 +569,7 @@
 | Strangford | Jim Shannon MP | 3441 |
 | Upper Bann | Carla Lockhart MP | 3043 |
 | West Tyrone | Órfhlaith Begley MP | 1657 |
-| East Renfrewshire | Blair McDougall MP | 2577 |
+| East Renfrewshire | Blair McDougall MP | 2578 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 875 |
 | Midlothian | Kirsty McNeill MP | 2761 |
 | North Ayrshire and Arran | Irene Campbell MP | 3251 |
@@ -604,7 +604,7 @@
 | Glasgow South | Gordon McKee MP | 1823 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2241 |
 | Glasgow West | Patricia Ferguson MP | 2185 |
-| Glenrothes and Mid Fife | Richard Baker MP | 2938 |
+| Glenrothes and Mid Fife | Richard Baker MP | 2939 |
 | Gordon and Buchan | Harriet Cross MP | 4352 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3109 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2723 |
