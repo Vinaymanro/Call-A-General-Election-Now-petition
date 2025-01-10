@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967446                                |
-| Last Updated      | 2025-01-10 21:15:41 UTC                                    |
+| Total Signatures   | 2967459                                |
+| Last Updated      | 2025-01-10 22:15:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1562 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3439 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1874 |
-| Birmingham Northfield | Laurence Turner MP | 4842 |
+| Birmingham Northfield | Laurence Turner MP | 4843 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1691 |
 | Birmingham Selly Oak | Al Carns MP | 3262 |
 | Birmingham Yardley | Jess Phillips MP | 3040 |
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3099 |
 | Blackley and Middleton South | Graham Stringer MP | 3713 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6088 |
-| Blackpool South | Chris Webb MP | 5729 |
+| Blackpool South | Chris Webb MP | 5730 |
 | Blaydon and Consett | Liz Twist MP | 5206 |
 | Blyth and Ashington | Ian Lavery MP | 5807 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6093 |
@@ -74,7 +74,7 @@
 | Bridgwater | Sir Ashley Fox MP | 5704 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6575 |
 | Brigg and Immingham | Martin Vickers MP | 6414 |
-| Brighton Kemptown and Peacehaven | Chris Ward MP | 3890 |
+| Brighton Kemptown and Peacehaven | Chris Ward MP | 3891 |
 | Brighton Pavilion | Siân Berry MP | 2714 |
 | Bristol Central | Carla Denyer MP | 1608 |
 | Bristol East | Kerry McCarthy MP | 2949 |
@@ -135,7 +135,7 @@
 | Croydon South | Rt Hon Chris Philp MP | 3928 |
 | Croydon West | Sarah Jones MP | 1732 |
 | Dagenham and Rainham | Margaret Mullane MP | 4183 |
-| Darlington | Lola McEvoy MP | 5412 |
+| Darlington | Lola McEvoy MP | 5413 |
 | Dartford | Jim Dickson MP | 5694 |
 | Daventry | Rt Hon Stuart Andrew MP | 7238 |
 | Derby North | Catherine Atkinson MP | 4287 |
@@ -281,7 +281,7 @@
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1573 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1864 |
 | Lichfield | Dave Robertson MP | 6437 |
-| Lincoln | Mr Hamish Falconer MP | 4608 |
+| Lincoln | Mr Hamish Falconer MP | 4609 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3100 |
 | Liverpool Riverside | Kim Johnson MP | 2611 |
 | Liverpool Walton | Dan Carden MP | 3314 |
@@ -294,7 +294,7 @@
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2912 |
 | Macclesfield | Tim Roca MP | 5375 |
 | Maidenhead | Mr Joshua Reynolds MP | 5252 |
-| Maidstone and Malling | Helen Grant MP | 5798 |
+| Maidstone and Malling | Helen Grant MP | 5799 |
 | Makerfield | Josh Simons MP | 5804 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8066 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3959 |
@@ -306,7 +306,7 @@
 | Meriden and Solihull East | Saqib Bhatti MP | 6004 |
 | Mid Bedfordshire | Blake Stephenson MP | 5801 |
 | Mid Buckinghamshire | Greg Smith MP | 5576 |
-| Mid Cheshire | Andrew Cooper MP | 5120 |
+| Mid Cheshire | Andrew Cooper MP | 5121 |
 | Mid Derbyshire | Jonathan Davies MP | 5198 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5857 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5544 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6182 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5178 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4042 |
-| Orpington | Gareth Bacon MP | 5279 |
+| Orpington | Gareth Bacon MP | 5280 |
 | Ossett and Denby Dale | Jade Botterill MP | 5770 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2132 |
 | Oxford West and Abingdon | Layla Moran MP | 2913 |
@@ -393,7 +393,7 @@
 | Richmond Park | Sarah Olney MP | 4046 |
 | Rochdale | Paul Waugh MP | 3911 |
 | Rochester and Strood | Lauren Edwards MP | 5965 |
-| Romford | Andrew Rosindell MP | 5756 |
+| Romford | Andrew Rosindell MP | 5757 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5041 |
 | Rossendale and Darwen | Andy MacNae MP | 6428 |
 | Rother Valley | Jake Richards MP | 5806 |
@@ -437,7 +437,7 @@
 | South Norfolk | Ben Goldsborough MP | 5402 |
 | South Northamptonshire | Sarah Bool MP | 6618 |
 | South Ribble | Mr Paul Foster MP | 5845 |
-| South Shields | Mrs Emma Lewell-Buck MP | 4688 |
+| South Shields | Mrs Emma Lewell-Buck MP | 4689 |
 | South Shropshire | Stuart Anderson MP | 7287 |
 | South Suffolk | James Cartlidge MP | 6106 |
 | South West Devon | Rebecca Smith MP | 5931 |
@@ -486,7 +486,7 @@
 | Tamworth | Sarah Edwards MP | 6882 |
 | Tatton | Rt Hon Esther McVey MP | 6468 |
 | Taunton and Wellington | Gideon Amos MP | 5137 |
-| Telford | Shaun Davies MP | 5531 |
+| Telford | Shaun Davies MP | 5532 |
 | Tewkesbury | Cameron Thomas MP | 4985 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6343 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7384 |
@@ -525,7 +525,7 @@
 | West Lancashire | Ashley Dalton MP | 5016 |
 | West Suffolk | Nick Timothy MP | 5972 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6220 |
-| Westmorland and Lonsdale | Tim Farron MP | 5170 |
+| Westmorland and Lonsdale | Tim Farron MP | 5171 |
 | Weston-super-Mare | Dan Aldridge MP | 5022 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6551 |
 | Whitehaven and Workington | Josh MacAlister MP | 5788 |
@@ -552,7 +552,7 @@
 | York Central | Rachael Maskell MP | 3239 |
 | York Outer | Mr Luke Charters MP | 4315 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2939 |
-| Belfast North | John Finucane MP | 2459 |
+| Belfast North | John Finucane MP | 2460 |
 | Belfast South and Mid Down | Claire Hanna MP | 1931 |
 | Belfast West | Paul Maskey MP | 1393 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3568 |
