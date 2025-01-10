@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967066                                |
-| Last Updated      | 2025-01-10 03:23:59 UTC                                    |
+| Total Signatures   | 2967071                                |
+| Last Updated      | 2025-01-10 04:20:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -78,7 +78,7 @@
 | Brighton Pavilion | Siân Berry MP | 2714 |
 | Bristol Central | Carla Denyer MP | 1608 |
 | Bristol East | Kerry McCarthy MP | 2949 |
-| Bristol North East | Damien Egan MP | 3048 |
+| Bristol North East | Damien Egan MP | 3049 |
 | Bristol North West | Rt Hon Darren Jones MP | 3171 |
 | Bristol South | Karin Smyth MP | 3907 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5795 |
@@ -328,7 +328,7 @@
 | Newcastle-under-Lyme | Adam Jogee MP | 5011 |
 | Newton Abbot | Martin Wrigley MP | 5072 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5487 |
-| Normanton and Hemsworth | Jon Trickett MP | 5431 |
+| Normanton and Hemsworth | Jon Trickett MP | 5432 |
 | North Bedfordshire | Richard Fuller MP | 6057 |
 | North Cornwall | Ben Maguire MP | 6365 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6018 |
@@ -391,7 +391,7 @@
 | Ribble Valley | Maya Ellis MP | 6663 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7059 |
 | Richmond Park | Sarah Olney MP | 4046 |
-| Rochdale | Paul Waugh MP | 3905 |
+| Rochdale | Paul Waugh MP | 3907 |
 | Rochester and Strood | Lauren Edwards MP | 5962 |
 | Romford | Andrew Rosindell MP | 5756 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5041 |
@@ -449,7 +449,7 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5531 |
 | Southend West and Leigh | David Burton-Sampson MP | 5817 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2569 |
-| Southport | Patrick Hurley MP | 5906 |
+| Southport | Patrick Hurley MP | 5907 |
 | Spelthorne | Lincoln Jopp MP | 5427 |
 | Spen Valley | Kim Leadbeater MP | 5326 |
 | St Albans | Daisy Cooper MP | 3859 |
