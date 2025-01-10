@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967064                                |
-| Last Updated      | 2025-01-10 02:52:18 UTC                                    |
+| Total Signatures   | 2967066                                |
+| Last Updated      | 2025-01-10 03:23:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4641 |
 | Birkenhead | Alison McGovern MP | 4278 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2928 |
-| Birmingham Erdington | Paulette Hamilton MP | 4188 |
+| Birmingham Erdington | Paulette Hamilton MP | 4189 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1562 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3439 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1874 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5022 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6551 |
 | Whitehaven and Workington | Josh MacAlister MP | 5787 |
-| Widnes and Halewood | Derek Twigg MP | 4192 |
+| Widnes and Halewood | Derek Twigg MP | 4193 |
 | Wigan | Rt Hon Lisa Nandy MP | 5889 |
 | Wimbledon | Mr Paul Kohler MP | 3397 |
 | Winchester | Dr Danny Chambers MP | 4888 |
