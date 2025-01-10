@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967082                                |
-| Last Updated      | 2025-01-10 06:24:49 UTC                                    |
+| Total Signatures   | 2967092                                |
+| Last Updated      | 2025-01-10 07:16:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -64,7 +64,7 @@
 | Bournemouth West | Jessica Toale MP | 4862 |
 | Bracknell | Peter Swallow MP | 4936 |
 | Bradford East | Imran Hussain MP | 2845 |
-| Bradford South | Judith Cummins MP | 4103 |
+| Bradford South | Judith Cummins MP | 4105 |
 | Bradford West | Naz Shah MP | 1792 |
 | Braintree | Rt Hon James Cleverly MP | 7380 |
 | Brent East | Dawn Butler MP | 1846 |
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5501 |
 | Dorking and Horley | Chris Coghlan MP | 5522 |
 | Dover and Deal | Mike Tapp MP | 5877 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6517 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6518 |
 | Dudley | Sonia Kumar MP | 5340 |
 | Dulwich and West Norwood | Helen Hayes MP | 1539 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5474 |
@@ -197,7 +197,7 @@
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5207 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6915 |
 | Gorton and Denton | Andrew Gwynne MP | 3235 |
-| Gosport | Dame Caroline Dinenage MP | 5429 |
+| Gosport | Dame Caroline Dinenage MP | 5430 |
 | Grantham and Bourne | Gareth Davies MP | 6277 |
 | Gravesham | Dr Lauren Sullivan MP | 5089 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5717 |
@@ -417,9 +417,9 @@
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3499 |
 | Sheffield South East | Mr Clive Betts MP | 4693 |
 | Sherwood Forest | Michelle Welsh MP | 6611 |
-| Shipley | Anna Dixon MP | 4849 |
+| Shipley | Anna Dixon MP | 4850 |
 | Shrewsbury | Julia Buckley MP | 5287 |
-| Sittingbourne and Sheppey | Kevin McKenna MP | 6802 |
+| Sittingbourne and Sheppey | Kevin McKenna MP | 6803 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6628 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6250 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2554 |
@@ -511,7 +511,7 @@
 | Walthamstow | Ms Stella Creasy MP | 1307 |
 | Warrington North | Charlotte Nichols MP | 5122 |
 | Warrington South | Sarah Hall MP | 5527 |
-| Warwick and Leamington | Matt Western MP | 4437 |
+| Warwick and Leamington | Matt Western MP | 4438 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5265 |
 | Watford | Matt Turmaine MP | 3719 |
 | Waveney Valley | Adrian Ramsay MP | 5810 |
@@ -541,10 +541,10 @@
 | Wokingham | Clive Jones MP | 4839 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4342 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4256 |
-| Wolverhampton West | Warinder Juss | 3777 |
+| Wolverhampton West | Warinder Juss | 3778 |
 | Worcester | Tom Collins MP | 4288 |
 | Worsley and Eccles | Michael Wheeler MP | 5391 |
-| Worthing West | Dr Beccy Cooper MP | 5207 |
+| Worthing West | Dr Beccy Cooper MP | 5208 |
 | Wycombe | Emma Reynolds MP | 3586 |
 | Wyre Forest | Mark Garnier MP | 6440 |
 | Wythenshawe and Sale East | Mike Kane MP | 4544 |
@@ -627,7 +627,7 @@
 | Kilmarnock and Loudoun | Lillian Jones MP | 3227 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4521 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3634 |
-| Alyn and Deeside | Rt Hon Mark Tami MP | 5702 |
+| Alyn and Deeside | Rt Hon Mark Tami MP | 5703 |
 | Bangor Aberconwy | Claire Hughes MP | 4473 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3580 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5235 |
