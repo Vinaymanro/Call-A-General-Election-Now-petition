@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967071                                |
-| Last Updated      | 2025-01-10 04:20:30 UTC                                    |
+| Total Signatures   | 2967075                                |
+| Last Updated      | 2025-01-10 05:16:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -14,7 +14,7 @@
 | Amber Valley | Linsey Farnsworth MP | 6039 |
 | Arundel and South Downs | Andrew Griffith MP | 6916 |
 | Ashfield | Lee Anderson MP | 6113 |
-| Ashford | Sojan Joseph MP | 5855 |
+| Ashford | Sojan Joseph MP | 5856 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4531 |
 | Aylesbury | Laura Kyrke-Smith MP | 4832 |
 | Banbury | Sean Woodcock MP | 5398 |
@@ -118,7 +118,7 @@
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5457 |
 | Christchurch | Sir Christopher Chope MP | 5803 |
 | Cities of London and Westminster | Rachel Blake MP | 5148 |
-| City of Durham | Mary Kelly Foy MP | 4210 |
+| City of Durham | Mary Kelly Foy MP | 4211 |
 | Clacton | Nigel Farage MP | 8026 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1724 |
 | Colchester | Pam Cox MP | 4950 |
@@ -308,7 +308,7 @@
 | Mid Buckinghamshire | Greg Smith MP | 5576 |
 | Mid Cheshire | Andrew Cooper MP | 5120 |
 | Mid Derbyshire | Jonathan Davies MP | 5196 |
-| Mid Dorset and North Poole | Vikki Slade MP | 5853 |
+| Mid Dorset and North Poole | Vikki Slade MP | 5854 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5544 |
 | Mid Norfolk | George Freeman MP | 6227 |
 | Mid Sussex | Alison Bennett MP | 4667 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5169 |
 | Weston-super-Mare | Dan Aldridge MP | 5022 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6551 |
-| Whitehaven and Workington | Josh MacAlister MP | 5787 |
+| Whitehaven and Workington | Josh MacAlister MP | 5788 |
 | Widnes and Halewood | Derek Twigg MP | 4193 |
 | Wigan | Rt Hon Lisa Nandy MP | 5889 |
 | Wimbledon | Mr Paul Kohler MP | 3397 |
