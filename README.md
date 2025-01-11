@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967511                                |
-| Last Updated      | 2025-01-11 06:22:15 UTC                                    |
+| Total Signatures   | 2967518                                |
+| Last Updated      | 2025-01-11 07:14:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -191,7 +191,7 @@
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6613 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4485 |
 | Gedling | Michael Payne MP | 5004 |
-| Gillingham and Rainham | Naushabah Khan MP | 5009 |
+| Gillingham and Rainham | Naushabah Khan MP | 5010 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5552 |
 | Gloucester | Alex McIntyre MP | 4490 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5207 |
@@ -340,8 +340,8 @@
 | North East Hampshire | Alex Brewer MP | 5931 |
 | North East Hertfordshire | Chris Hinchliff MP | 5806 |
 | North East Somerset and Hanham | Dan Norris MP | 5003 |
-| North Herefordshire | Ellie Chowns MP | 6425 |
-| North Norfolk | Steff Aquarone MP | 5385 |
+| North Herefordshire | Ellie Chowns MP | 6426 |
+| North Norfolk | Steff Aquarone MP | 5386 |
 | North Northumberland | David Smith MP | 6392 |
 | North Shropshire | Helen Morgan MP | 6828 |
 | North Somerset | Sadik Al-Hassan MP | 4552 |
@@ -376,7 +376,7 @@
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5380 |
 | Poole | Neil Duncan-Jordan MP | 5624 |
 | Poplar and Limehouse | Apsana Begum MP | 2903 |
-| Portsmouth North | Amanda Martin MP | 5566 |
+| Portsmouth North | Amanda Martin MP | 5567 |
 | Portsmouth South | Stephen Morgan MP | 3836 |
 | Preston | Sir Mark Hendrick MP | 3754 |
 | Putney | Fleur Anderson MP | 3491 |
@@ -416,7 +416,7 @@
 | Sheffield Hallam | Olivia Blake MP | 3371 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3499 |
 | Sheffield South East | Mr Clive Betts MP | 4694 |
-| Sherwood Forest | Michelle Welsh MP | 6612 |
+| Sherwood Forest | Michelle Welsh MP | 6613 |
 | Shipley | Anna Dixon MP | 4852 |
 | Shrewsbury | Julia Buckley MP | 5287 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6803 |
@@ -474,7 +474,7 @@
 | Stratford-on-Avon | Manuela Perteghella MP | 6673 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1851 |
 | Stretford and Urmston | Andrew Western MP | 3785 |
-| Stroud | Dr Simon Opher MP | 4503 |
+| Stroud | Dr Simon Opher MP | 4504 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5350 |
 | Sunderland Central | Lewis Atkinson MP | 5182 |
 | Surrey Heath | Dr Al Pinkerton MP | 5390 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3736 |
 | West Dorset | Edward Morello MP | 5421 |
 | West Ham and Beckton | James Asser MP | 2129 |
-| West Lancashire | Ashley Dalton MP | 5016 |
+| West Lancashire | Ashley Dalton MP | 5017 |
 | West Suffolk | Nick Timothy MP | 5972 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6220 |
 | Westmorland and Lonsdale | Tim Farron MP | 5171 |
