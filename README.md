@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967496                                |
-| Last Updated      | 2025-01-11 01:19:04 UTC                                    |
+| Total Signatures   | 2967499                                |
+| Last Updated      | 2025-01-11 02:48:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -309,7 +309,7 @@
 | Mid Cheshire | Andrew Cooper MP | 5121 |
 | Mid Derbyshire | Jonathan Davies MP | 5198 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5858 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5544 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5545 |
 | Mid Norfolk | George Freeman MP | 6228 |
 | Mid Sussex | Alison Bennett MP | 4668 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4179 |
@@ -393,7 +393,7 @@
 | Richmond Park | Sarah Olney MP | 4046 |
 | Rochdale | Paul Waugh MP | 3911 |
 | Rochester and Strood | Lauren Edwards MP | 5965 |
-| Romford | Andrew Rosindell MP | 5757 |
+| Romford | Andrew Rosindell MP | 5758 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5041 |
 | Rossendale and Darwen | Andy MacNae MP | 6428 |
 | Rother Valley | Jake Richards MP | 5806 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5913 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5901 |
 | Tooting | Dr Rosena Allin-Khan MP | 2671 |
-| Torbay | Steve Darling MP | 5763 |
+| Torbay | Steve Darling MP | 5764 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6525 |
 | Tottenham | Rt Hon David Lammy MP | 1670 |
 | Truro and Falmouth | Jayne Kirkham MP | 4569 |
