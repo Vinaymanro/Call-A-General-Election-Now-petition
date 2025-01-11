@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967504                                |
-| Last Updated      | 2025-01-11 04:19:48 UTC                                    |
+| Total Signatures   | 2967507                                |
+| Last Updated      | 2025-01-11 05:15:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -85,7 +85,7 @@
 | Bromley and Biggin Hill | Peter Fortune MP | 5218 |
 | Bromsgrove | Bradley Thomas MP | 6410 |
 | Broxbourne | Lewis Cocking MP | 6020 |
-| Broxtowe | Juliet Campbell MP | 4683 |
+| Broxtowe | Juliet Campbell MP | 4684 |
 | Buckingham and Bletchley | Callum Anderson MP | 5231 |
 | Burnley | Oliver Ryan MP | 5676 |
 | Burton and Uttoxeter | Jacob Collier MP | 5748 |
@@ -182,7 +182,7 @@
 | Farnham and Bordon | Gregory Stafford MP | 5149 |
 | Faversham and Mid Kent | Helen Whately MP | 6181 |
 | Feltham and Heston | Seema Malhotra MP | 2884 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4471 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4472 |
 | Finchley and Golders Green | Sarah Sackman MP | 4258 |
 | Folkestone and Hythe | Tony Vaughan MP | 5363 |
 | Forest of Dean | Matt Bishop MP | 5221 |
@@ -399,7 +399,7 @@
 | Rother Valley | Jake Richards MP | 5806 |
 | Rotherham | Sarah Champion MP | 4889 |
 | Rugby | John Slinger MP | 5351 |
-| Ruislip, Northwood and Pinner | David Simmonds MP | 4085 |
+| Ruislip, Northwood and Pinner | David Simmonds MP | 4086 |
 | Runcorn and Helsby | Mike Amesbury MP | 4981 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5807 |
 | Rushcliffe | James Naish MP | 5040 |
