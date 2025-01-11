@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967507                                |
-| Last Updated      | 2025-01-11 05:15:10 UTC                                    |
+| Total Signatures   | 2967511                                |
+| Last Updated      | 2025-01-11 06:22:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -21,7 +21,7 @@
 | Barking | Nesil Caliskan MP | 2606 |
 | Barnsley North | Dan Jarvis MP | 5612 |
 | Barnsley South | Stephanie Peacock MP | 5696 |
-| Barrow and Furness | Michelle Scrogham MP | 5263 |
+| Barrow and Furness | Michelle Scrogham MP | 5264 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6832 |
 | Basingstoke | Luke Murphy MP | 4773 |
 | Bassetlaw | Jo White MP | 6689 |
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4642 |
 | Birkenhead | Alison McGovern MP | 4278 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2928 |
-| Birmingham Erdington | Paulette Hamilton MP | 4190 |
+| Birmingham Erdington | Paulette Hamilton MP | 4191 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1562 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3439 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1874 |
@@ -242,7 +242,7 @@
 | Horsham | John Milne MP | 5781 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6251 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3296 |
-| Huddersfield | Harpreet Uppal MP | 3645 |
+| Huddersfield | Harpreet Uppal MP | 3646 |
 | Huntingdon | Ben Obese-Jecty MP | 5505 |
 | Hyndburn | Sarah Smith MP | 4953 |
 | Ilford North | Rt Hon Wes Streeting MP | 2602 |
@@ -422,7 +422,7 @@
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6803 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6628 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6251 |
-| Slough | Mr Tanmanjeet Singh Dhesi MP | 2554 |
+| Slough | Mr Tanmanjeet Singh Dhesi MP | 2555 |
 | Smethwick | Gurinder Singh Josan MP | 3025 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5400 |
 | South Basildon and East Thurrock | James McMurdock MP | 6536 |
