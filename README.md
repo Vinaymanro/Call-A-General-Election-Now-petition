@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967499                                |
-| Last Updated      | 2025-01-11 02:48:14 UTC                                    |
+| Total Signatures   | 2967500                                |
+| Last Updated      | 2025-01-11 03:21:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5805 |
 | Cities of London and Westminster | Rachel Blake MP | 5148 |
 | City of Durham | Mary Kelly Foy MP | 4211 |
-| Clacton | Nigel Farage MP | 8027 |
+| Clacton | Nigel Farage MP | 8028 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1724 |
 | Colchester | Pam Cox MP | 4950 |
 | Colne Valley | Paul Davies MP | 4984 |
