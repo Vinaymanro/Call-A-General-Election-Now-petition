@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967500                                |
-| Last Updated      | 2025-01-11 03:21:18 UTC                                    |
+| Total Signatures   | 2967504                                |
+| Last Updated      | 2025-01-11 04:19:48 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 4921 |
 | Bury South | Christian Wakeford MP | 5383 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5413 |
-| Calder Valley | Josh Fenton-Glynn MP | 5608 |
+| Calder Valley | Josh Fenton-Glynn MP | 5609 |
 | Camborne and Redruth | Perran Moon MP | 4921 |
 | Cambridge | Daniel Zeichner MP | 2199 |
 | Cannock Chase | Josh Newbury MP | 6816 |
@@ -233,7 +233,7 @@
 | Hexham | Joe Morris MP | 6374 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5201 |
 | High Peak | Jon Pearce MP | 5402 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6418 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6419 |
 | Hitchin | Alistair Strathern MP | 4889 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2263 |
 | Honiton and Sidmouth | Richard Foord MP | 5208 |
@@ -395,7 +395,7 @@
 | Rochester and Strood | Lauren Edwards MP | 5965 |
 | Romford | Andrew Rosindell MP | 5758 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5041 |
-| Rossendale and Darwen | Andy MacNae MP | 6428 |
+| Rossendale and Darwen | Andy MacNae MP | 6430 |
 | Rother Valley | Jake Richards MP | 5806 |
 | Rotherham | Sarah Champion MP | 4889 |
 | Rugby | John Slinger MP | 5351 |
