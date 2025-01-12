@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967894                                |
-| Last Updated      | 2025-01-12 06:22:54 UTC                                    |
+| Total Signatures   | 2967903                                |
+| Last Updated      | 2025-01-12 07:14:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5401 |
 | Barking | Nesil Caliskan MP | 2606 |
 | Barnsley North | Dan Jarvis MP | 5613 |
-| Barnsley South | Stephanie Peacock MP | 5697 |
+| Barnsley South | Stephanie Peacock MP | 5698 |
 | Barrow and Furness | Michelle Scrogham MP | 5264 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6833 |
 | Basingstoke | Luke Murphy MP | 4774 |
@@ -41,9 +41,9 @@
 | Birmingham Erdington | Paulette Hamilton MP | 4192 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1564 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3439 |
-| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1876 |
+| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1877 |
 | Birmingham Northfield | Laurence Turner MP | 4845 |
-| Birmingham Perry Barr | Ayoub Khan MP | 1692 |
+| Birmingham Perry Barr | Ayoub Khan MP | 1693 |
 | Birmingham Selly Oak | Al Carns MP | 3262 |
 | Birmingham Yardley | Jess Phillips MP | 3041 |
 | Bishop Auckland | Sam Rushworth MP | 6125 |
@@ -129,7 +129,7 @@
 | Coventry North West | Taiwo Owatemi MP | 4207 |
 | Coventry South | Zarah Sultana MP | 3486 |
 | Cramlington and Killingworth | Emma Foody MP | 5754 |
-| Crawley | Peter Lamb MP | 4651 |
+| Crawley | Peter Lamb MP | 4652 |
 | Crewe and Nantwich | Connor Naismith MP | 5634 |
 | Croydon East | Natasha Irons MP | 3309 |
 | Croydon South | Rt Hon Chris Philp MP | 3928 |
@@ -299,7 +299,7 @@
 | Maldon | Rt Hon Sir John Whittingdale MP | 8068 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3959 |
 | Manchester Rusholme | Afzal Khan MP | 1210 |
-| Manchester Withington | Jeff Smith MP | 1653 |
+| Manchester Withington | Jeff Smith MP | 1654 |
 | Mansfield | Steve Yemm MP | 6140 |
 | Melksham and Devizes | Brian Mathew MP | 4978 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6073 |
@@ -372,7 +372,7 @@
 | Penrith and Solway | Markus Campbell-Savours MP | 6150 |
 | Peterborough | Andrew Pakes MP | 4121 |
 | Plymouth Moor View | Fred Thomas MP | 5618 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4700 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4701 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5382 |
 | Poole | Neil Duncan-Jordan MP | 5625 |
 | Poplar and Limehouse | Apsana Begum MP | 2903 |
@@ -453,10 +453,10 @@
 | Spelthorne | Lincoln Jopp MP | 5428 |
 | Spen Valley | Kim Leadbeater MP | 5326 |
 | St Albans | Daisy Cooper MP | 3859 |
-| St Austell and Newquay | Noah Law MP | 5555 |
+| St Austell and Newquay | Noah Law MP | 5556 |
 | St Helens North | David Baines MP | 4635 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4112 |
-| St Ives | Andrew George MP | 5048 |
+| St Ives | Andrew George MP | 5049 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4760 |
 | Stafford | Leigh Ingham MP | 5559 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6373 |
@@ -622,7 +622,7 @@
 | Stirling and Strathallan | Chris Kane MP | 3205 |
 | West Dunbartonshire | Douglas McAllister MP | 2697 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3528 |
-| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3995 |
+| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3996 |
 | Central Ayrshire | Alan Gemmell MP | 3095 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3227 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4522 |
