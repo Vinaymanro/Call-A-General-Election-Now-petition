@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967890                                |
-| Last Updated      | 2025-01-12 02:55:47 UTC                                    |
+| Total Signatures   | 2967891                                |
+| Last Updated      | 2025-01-12 03:27:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -57,7 +57,7 @@
 | Bolsover | Natalie Fleet MP | 6472 |
 | Bolton North East | Kirith Entwistle MP | 5542 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4365 |
-| Bolton West | Phil Brickell MP | 5540 |
+| Bolton West | Phil Brickell MP | 5541 |
 | Bootle | Peter Dowd MP | 3115 |
 | Boston and Skegness | Richard Tice MP | 7032 |
 | Bournemouth East | Tom Hayes MP | 4623 |
