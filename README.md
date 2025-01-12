@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967893                                |
-| Last Updated      | 2025-01-12 05:15:43 UTC                                    |
+| Total Signatures   | 2967894                                |
+| Last Updated      | 2025-01-12 06:22:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -311,7 +311,7 @@
 | Mid Dorset and North Poole | Vikki Slade MP | 5858 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5546 |
 | Mid Norfolk | George Freeman MP | 6229 |
-| Mid Sussex | Alison Bennett MP | 4668 |
+| Mid Sussex | Alison Bennett MP | 4669 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4180 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5661 |
 | Milton Keynes Central | Emily Darlington MP | 4897 |
