@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967882                                |
-| Last Updated      | 2025-01-12 01:25:45 UTC                                    |
+| Total Signatures   | 2967890                                |
+| Last Updated      | 2025-01-12 02:55:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -69,7 +69,7 @@
 | Braintree | Rt Hon James Cleverly MP | 7380 |
 | Brent East | Dawn Butler MP | 1850 |
 | Brent West | Barry Gardiner MP | 2073 |
-| Brentford and Isleworth | Ruth Cadbury MP | 2966 |
+| Brentford and Isleworth | Ruth Cadbury MP | 2967 |
 | Brentwood and Ongar | Alex Burghart MP | 8089 |
 | Bridgwater | Sir Ashley Fox MP | 5704 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6576 |
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5343 |
 | Dulwich and West Norwood | Helen Hayes MP | 1540 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5474 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3067 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3068 |
 | Ealing North | James Murray MP | 2571 |
 | Ealing Southall | Deirdre Costigan MP | 1939 |
 | Earley and Woodley | Yuan Yang MP | 3931 |
@@ -174,7 +174,7 @@
 | Epping Forest | Dr Neil Hudson MP | 6538 |
 | Epsom and Ewell | Helen Maguire MP | 4895 |
 | Erewash | Adam Thompson MP | 5774 |
-| Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3198 |
+| Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3199 |
 | Esher and Walton | Monica Harding MP | 4797 |
 | Exeter | Steve Race MP | 3149 |
 | Exmouth and Exeter East | David Reed MP | 5158 |
@@ -321,7 +321,7 @@
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5362 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5218 |
 | Newark | Rt Hon Robert Jenrick MP | 7120 |
-| Newbury | Mr Lee Dillon MP | 4863 |
+| Newbury | Mr Lee Dillon MP | 4864 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4448 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4711 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3919 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4793 |
 | Stockton West | Matt Vickers MP | 5937 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4661 |
-| Stoke-on-Trent North | David Williams MP | 5396 |
+| Stoke-on-Trent North | David Williams MP | 5397 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5681 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6482 |
 | Stourbridge | Cat Eccles MP | 5112 |
@@ -479,7 +479,7 @@
 | Sunderland Central | Lewis Atkinson MP | 5182 |
 | Surrey Heath | Dr Al Pinkerton MP | 5390 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6065 |
-| Sutton and Cheam | Luke Taylor MP | 4371 |
+| Sutton and Cheam | Luke Taylor MP | 4372 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5632 |
 | Swindon North | Will Stone MP | 4858 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4155 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3737 |
 | West Dorset | Edward Morello MP | 5421 |
 | West Ham and Beckton | James Asser MP | 2129 |
-| West Lancashire | Ashley Dalton MP | 5018 |
+| West Lancashire | Ashley Dalton MP | 5019 |
 | West Suffolk | Nick Timothy MP | 5975 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6221 |
 | Westmorland and Lonsdale | Tim Farron MP | 5171 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4545 |
 | Yeovil | Adam Dance MP | 5550 |
 | York Central | Rachael Maskell MP | 3239 |
-| York Outer | Mr Luke Charters MP | 4315 |
+| York Outer | Mr Luke Charters MP | 4316 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2940 |
 | Belfast North | John Finucane MP | 2460 |
 | Belfast South and Mid Down | Claire Hanna MP | 1931 |
