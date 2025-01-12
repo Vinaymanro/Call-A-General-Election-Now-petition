@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968087                                |
-| Last Updated      | 2025-01-12 16:18:41 UTC                                    |
+| Total Signatures   | 2968095                                |
+| Last Updated      | 2025-01-12 17:13:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4643 |
 | Birkenhead | Alison McGovern MP | 4278 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2930 |
-| Birmingham Erdington | Paulette Hamilton MP | 4192 |
+| Birmingham Erdington | Paulette Hamilton MP | 4193 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1564 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3439 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1877 |
@@ -128,7 +128,7 @@
 | Coventry East | Mary Creagh MP | 3540 |
 | Coventry North West | Taiwo Owatemi MP | 4207 |
 | Coventry South | Zarah Sultana MP | 3486 |
-| Cramlington and Killingworth | Emma Foody MP | 5754 |
+| Cramlington and Killingworth | Emma Foody MP | 5755 |
 | Crawley | Peter Lamb MP | 4652 |
 | Crewe and Nantwich | Connor Naismith MP | 5635 |
 | Croydon East | Natasha Irons MP | 3309 |
@@ -171,7 +171,7 @@
 | Eltham and Chislehurst | Clive Efford MP | 4670 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5130 |
 | Enfield North | Feryal Clark MP | 2866 |
-| Epping Forest | Dr Neil Hudson MP | 6538 |
+| Epping Forest | Dr Neil Hudson MP | 6539 |
 | Epsom and Ewell | Helen Maguire MP | 4895 |
 | Erewash | Adam Thompson MP | 5774 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3199 |
@@ -303,7 +303,7 @@
 | Mansfield | Steve Yemm MP | 6140 |
 | Melksham and Devizes | Brian Mathew MP | 4979 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6073 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6005 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6006 |
 | Mid Bedfordshire | Blake Stephenson MP | 5802 |
 | Mid Buckinghamshire | Greg Smith MP | 5577 |
 | Mid Cheshire | Andrew Cooper MP | 5121 |
@@ -318,7 +318,7 @@
 | Milton Keynes North | Chris Curtis MP | 4530 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2652 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5718 |
-| New Forest East | Rt Hon Sir Julian Lewis MP | 5362 |
+| New Forest East | Rt Hon Sir Julian Lewis MP | 5363 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5218 |
 | Newark | Rt Hon Robert Jenrick MP | 7122 |
 | Newbury | Mr Lee Dillon MP | 4864 |
@@ -471,7 +471,7 @@
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6483 |
 | Stourbridge | Cat Eccles MP | 5112 |
 | Stratford and Bow | Uma Kumaran MP | 1749 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6676 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6677 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1851 |
 | Stretford and Urmston | Andrew Western MP | 3786 |
 | Stroud | Dr Simon Opher MP | 4505 |
@@ -511,7 +511,7 @@
 | Walthamstow | Ms Stella Creasy MP | 1308 |
 | Warrington North | Charlotte Nichols MP | 5122 |
 | Warrington South | Sarah Hall MP | 5529 |
-| Warwick and Leamington | Matt Western MP | 4438 |
+| Warwick and Leamington | Matt Western MP | 4439 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5267 |
 | Watford | Matt Turmaine MP | 3721 |
 | Waveney Valley | Adrian Ramsay MP | 5811 |
@@ -519,7 +519,7 @@
 | Wellingborough and Rushden | Gen Kitchen MP | 5037 |
 | Wells and Mendip Hills | Tessa Munt MP | 5214 |
 | Welwyn Hatfield | Andrew Lewin MP | 5018 |
-| West Bromwich | Sarah Coombes MP | 3737 |
+| West Bromwich | Sarah Coombes MP | 3738 |
 | West Dorset | Edward Morello MP | 5421 |
 | West Ham and Beckton | James Asser MP | 2129 |
 | West Lancashire | Ashley Dalton MP | 5019 |
