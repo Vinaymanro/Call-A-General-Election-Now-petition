@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2967891                                |
-| Last Updated      | 2025-01-12 03:27:51 UTC                                    |
+| Total Signatures   | 2967893                                |
+| Last Updated      | 2025-01-12 04:19:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -251,7 +251,7 @@
 | Isle of Wight East | Joe Robertson MP | 4350 |
 | Isle of Wight West | Mr Richard Quigley MP | 4037 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1772 |
-| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2739 |
+| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2740 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5056 |
 | Keighley and Ilkley | Robbie Moore MP | 4653 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6068 |
@@ -296,7 +296,7 @@
 | Maidenhead | Mr Joshua Reynolds MP | 5252 |
 | Maidstone and Malling | Helen Grant MP | 5801 |
 | Makerfield | Josh Simons MP | 5805 |
-| Maldon | Rt Hon Sir John Whittingdale MP | 8067 |
+| Maldon | Rt Hon Sir John Whittingdale MP | 8068 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3959 |
 | Manchester Rusholme | Afzal Khan MP | 1210 |
 | Manchester Withington | Jeff Smith MP | 1653 |
