@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968232                                |
-| Last Updated      | 2025-01-13 05:17:18 UTC                                    |
+| Total Signatures   | 2968234                                |
+| Last Updated      | 2025-01-13 06:25:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -117,7 +117,7 @@
 | Chipping Barnet | Dan Tomlinson MP | 4312 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5458 |
 | Christchurch | Sir Christopher Chope MP | 5809 |
-| Cities of London and Westminster | Rachel Blake MP | 5149 |
+| Cities of London and Westminster | Rachel Blake MP | 5150 |
 | City of Durham | Mary Kelly Foy MP | 4212 |
 | Clacton | Nigel Farage MP | 8029 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1724 |
@@ -480,7 +480,7 @@
 | Surrey Heath | Dr Al Pinkerton MP | 5390 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6065 |
 | Sutton and Cheam | Luke Taylor MP | 4373 |
-| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5632 |
+| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5633 |
 | Swindon North | Will Stone MP | 4858 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4157 |
 | Tamworth | Sarah Edwards MP | 6883 |
