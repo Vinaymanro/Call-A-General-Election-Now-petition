@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968234                                |
-| Last Updated      | 2025-01-13 06:25:43 UTC                                    |
+| Total Signatures   | 2968243                                |
+| Last Updated      | 2025-01-13 07:17:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -61,7 +61,7 @@
 | Bootle | Peter Dowd MP | 3115 |
 | Boston and Skegness | Richard Tice MP | 7033 |
 | Bournemouth East | Tom Hayes MP | 4625 |
-| Bournemouth West | Jessica Toale MP | 4863 |
+| Bournemouth West | Jessica Toale MP | 4864 |
 | Bracknell | Peter Swallow MP | 4938 |
 | Bradford East | Imran Hussain MP | 2847 |
 | Bradford South | Judith Cummins MP | 4108 |
@@ -105,7 +105,7 @@
 | Chatham and Aylesford | Tristan Osborne MP | 5567 |
 | Cheadle | Tom Morrison MP | 4637 |
 | Chelmsford | Marie Goldman MP | 5225 |
-| Chelsea and Fulham | Ben Coleman MP | 5461 |
+| Chelsea and Fulham | Ben Coleman MP | 5462 |
 | Cheltenham | Max Wilkinson MP | 4001 |
 | Chesham and Amersham | Sarah Green MP | 4918 |
 | Chester North and Neston | Samantha Dixon MP | 4020 |
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5415 |
 | Dartford | Jim Dickson MP | 5694 |
 | Daventry | Rt Hon Stuart Andrew MP | 7243 |
-| Derby North | Catherine Atkinson MP | 4287 |
+| Derby North | Catherine Atkinson MP | 4288 |
 | Derby South | Baggy Shanker MP | 3559 |
 | Derbyshire Dales | John Whitby MP | 6748 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3145 |
@@ -165,7 +165,7 @@
 | East Wiltshire | Danny Kruger MP | 6025 |
 | East Worthing and Shoreham | Tom Rutland MP | 4560 |
 | Eastbourne | Josh Babarinde MP | 5010 |
-| Eastleigh | Liz Jarvis MP | 4293 |
+| Eastleigh | Liz Jarvis MP | 4295 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2204 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4391 |
 | Eltham and Chislehurst | Clive Efford MP | 4670 |
@@ -306,7 +306,7 @@
 | Meriden and Solihull East | Saqib Bhatti MP | 6006 |
 | Mid Bedfordshire | Blake Stephenson MP | 5802 |
 | Mid Buckinghamshire | Greg Smith MP | 5577 |
-| Mid Cheshire | Andrew Cooper MP | 5121 |
+| Mid Cheshire | Andrew Cooper MP | 5122 |
 | Mid Derbyshire | Jonathan Davies MP | 5198 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5858 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5546 |
@@ -437,7 +437,7 @@
 | South Norfolk | Ben Goldsborough MP | 5407 |
 | South Northamptonshire | Sarah Bool MP | 6619 |
 | South Ribble | Mr Paul Foster MP | 5845 |
-| South Shields | Mrs Emma Lewell-Buck MP | 4691 |
+| South Shields | Mrs Emma Lewell-Buck MP | 4692 |
 | South Shropshire | Stuart Anderson MP | 7288 |
 | South Suffolk | James Cartlidge MP | 6106 |
 | South West Devon | Rebecca Smith MP | 5933 |
@@ -493,7 +493,7 @@
 | Thornbury and Yate | Claire Young MP | 5651 |
 | Thurrock | Jen Craft MP | 5073 |
 | Tipton and Wednesbury | Antonia Bance MP | 4865 |
-| Tiverton and Minehead | Rachel Gilmour MP | 5915 |
+| Tiverton and Minehead | Rachel Gilmour MP | 5916 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5902 |
 | Tooting | Dr Rosena Allin-Khan MP | 2671 |
 | Torbay | Steve Darling MP | 5766 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5123 |
 | Warrington South | Sarah Hall MP | 5530 |
 | Warwick and Leamington | Matt Western MP | 4439 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5267 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5268 |
 | Watford | Matt Turmaine MP | 3721 |
 | Waveney Valley | Adrian Ramsay MP | 5811 |
 | Weald of Kent | Katie Lam MP | 7185 |
