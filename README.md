@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968227                                |
-| Last Updated      | 2025-01-13 03:26:10 UTC                                    |
+| Total Signatures   | 2968230                                |
+| Last Updated      | 2025-01-13 04:21:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -124,7 +124,7 @@
 | Colchester | Pam Cox MP | 4952 |
 | Colne Valley | Paul Davies MP | 4984 |
 | Congleton | Mrs Sarah Russell MP | 5931 |
-| Corby and East Northamptonshire | Lee Barron MP | 5950 |
+| Corby and East Northamptonshire | Lee Barron MP | 5951 |
 | Coventry East | Mary Creagh MP | 3540 |
 | Coventry North West | Taiwo Owatemi MP | 4207 |
 | Coventry South | Zarah Sultana MP | 3486 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6184 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5178 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4042 |
-| Orpington | Gareth Bacon MP | 5280 |
+| Orpington | Gareth Bacon MP | 5281 |
 | Ossett and Denby Dale | Jade Botterill MP | 5771 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2132 |
 | Oxford West and Abingdon | Layla Moran MP | 2913 |
@@ -426,7 +426,7 @@
 | Smethwick | Gurinder Singh Josan MP | 3026 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5402 |
 | South Basildon and East Thurrock | James McMurdock MP | 6539 |
-| South Cambridgeshire | Pippa Heylings MP | 4417 |
+| South Cambridgeshire | Pippa Heylings MP | 4418 |
 | South Cotswolds | Dr Roz Savage MP | 5687 |
 | South Derbyshire | Samantha Niblett MP | 6119 |
 | South Devon | Caroline Voaden MP | 5284 |
