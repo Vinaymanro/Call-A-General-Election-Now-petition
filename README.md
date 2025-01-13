@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968216                                |
-| Last Updated      | 2025-01-13 01:22:34 UTC                                    |
+| Total Signatures   | 2968224                                |
+| Last Updated      | 2025-01-13 02:54:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5401 |
 | Barking | Nesil Caliskan MP | 2606 |
 | Barnsley North | Dan Jarvis MP | 5613 |
-| Barnsley South | Stephanie Peacock MP | 5699 |
+| Barnsley South | Stephanie Peacock MP | 5700 |
 | Barrow and Furness | Michelle Scrogham MP | 5265 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6833 |
 | Basingstoke | Luke Murphy MP | 4774 |
@@ -145,7 +145,7 @@
 | Didcot and Wantage | Olly Glover MP | 4835 |
 | Doncaster Central | Sally Jameson MP | 4887 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6033 |
-| Doncaster North | Rt Hon Ed Miliband MP | 5503 |
+| Doncaster North | Rt Hon Ed Miliband MP | 5504 |
 | Dorking and Horley | Chris Coghlan MP | 5523 |
 | Dover and Deal | Mike Tapp MP | 5878 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6520 |
@@ -301,7 +301,7 @@
 | Manchester Rusholme | Afzal Khan MP | 1210 |
 | Manchester Withington | Jeff Smith MP | 1655 |
 | Mansfield | Steve Yemm MP | 6140 |
-| Melksham and Devizes | Brian Mathew MP | 4979 |
+| Melksham and Devizes | Brian Mathew MP | 4980 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6073 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6006 |
 | Mid Bedfordshire | Blake Stephenson MP | 5802 |
@@ -603,7 +603,7 @@
 | Glasgow North East | Maureen Burke MP | 2439 |
 | Glasgow South | Gordon McKee MP | 1823 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2242 |
-| Glasgow West | Patricia Ferguson MP | 2185 |
+| Glasgow West | Patricia Ferguson MP | 2186 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2940 |
 | Gordon and Buchan | Harriet Cross MP | 4353 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3109 |
@@ -611,7 +611,7 @@
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3588 |
 | Livingston | Gregor Poynton MP | 3369 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2831 |
-| Mid Dunbartonshire | Susan Murray MP | 2503 |
+| Mid Dunbartonshire | Susan Murray MP | 2504 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3903 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2704 |
 | North East Fife | Wendy Chamberlain MP | 2878 |
@@ -626,13 +626,13 @@
 | Central Ayrshire | Alan Gemmell MP | 3096 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3227 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4524 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3635 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3636 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5705 |
 | Bangor Aberconwy | Claire Hughes MP | 4476 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3583 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5236 |
 | Bridgend | Chris Elmore MP | 4198 |
-| Caerfyrddin | Ann Davies MP | 5175 |
+| Caerfyrddin | Ann Davies MP | 5176 |
 | Caerphilly | Chris Evans MP | 3940 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2856 |
 | Cardiff North | Anna McMorrin MP | 3266 |
@@ -647,7 +647,7 @@
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3659 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5448 |
 | Monmouthshire | Catherine Fookes MP | 4702 |
-| Montgomeryshire and Glyndŵr | Steve Witherden MP | 5992 |
+| Montgomeryshire and Glyndŵr | Steve Witherden MP | 5993 |
 | Neath and Swansea East | Carolyn Harris MP | 4389 |
 | Newport East | Jessica Morden MP | 3958 |
 | Newport West and Islwyn | Ruth Jones MP | 4003 |
