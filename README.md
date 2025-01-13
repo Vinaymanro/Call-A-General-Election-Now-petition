@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968224                                |
-| Last Updated      | 2025-01-13 02:54:19 UTC                                    |
+| Total Signatures   | 2968227                                |
+| Last Updated      | 2025-01-13 03:26:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -179,7 +179,7 @@
 | Exeter | Steve Race MP | 3149 |
 | Exmouth and Exeter East | David Reed MP | 5158 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6072 |
-| Farnham and Bordon | Gregory Stafford MP | 5150 |
+| Farnham and Bordon | Gregory Stafford MP | 5151 |
 | Faversham and Mid Kent | Helen Whately MP | 6184 |
 | Feltham and Heston | Seema Malhotra MP | 2884 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4475 |
@@ -509,7 +509,7 @@
 | Wallasey | Dame Angela Eagle MP | 4032 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3965 |
 | Walthamstow | Ms Stella Creasy MP | 1308 |
-| Warrington North | Charlotte Nichols MP | 5122 |
+| Warrington North | Charlotte Nichols MP | 5123 |
 | Warrington South | Sarah Hall MP | 5530 |
 | Warwick and Leamington | Matt Western MP | 4439 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5267 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4702 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 5993 |
 | Neath and Swansea East | Carolyn Harris MP | 4389 |
-| Newport East | Jessica Morden MP | 3958 |
+| Newport East | Jessica Morden MP | 3959 |
 | Newport West and Islwyn | Ruth Jones MP | 4003 |
 | Pontypridd | Alex Davies-Jones MP | 3852 |
 | Rhondda and Ogmore | Chris Bryant MP | 3987 |
