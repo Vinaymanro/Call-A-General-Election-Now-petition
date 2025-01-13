@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968256                                |
-| Last Updated      | 2025-01-13 08:23:19 UTC                                    |
+| Total Signatures   | 2968267                                |
+| Last Updated      | 2025-01-13 09:19:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -89,7 +89,7 @@
 | Buckingham and Bletchley | Callum Anderson MP | 5231 |
 | Burnley | Oliver Ryan MP | 5678 |
 | Burton and Uttoxeter | Jacob Collier MP | 5748 |
-| Bury North | Mr James Frith MP | 4922 |
+| Bury North | Mr James Frith MP | 4923 |
 | Bury South | Christian Wakeford MP | 5384 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5414 |
 | Calder Valley | Josh Fenton-Glynn MP | 5609 |
@@ -240,7 +240,7 @@
 | Hornchurch and Upminster | Julia Lopez MP | 6582 |
 | Hornsey and Friern Barnet | Catherine West MP | 1925 |
 | Horsham | John Milne MP | 5781 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6251 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6252 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3297 |
 | Huddersfield | Harpreet Uppal MP | 3647 |
 | Huntingdon | Ben Obese-Jecty MP | 5508 |
@@ -249,7 +249,7 @@
 | Ilford South | Jas Athwal MP | 1573 |
 | Ipswich | Jack Abbott MP | 4097 |
 | Isle of Wight East | Joe Robertson MP | 4350 |
-| Isle of Wight West | Mr Richard Quigley MP | 4037 |
+| Isle of Wight West | Mr Richard Quigley MP | 4039 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1772 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2742 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5056 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5169 |
 | South West Norfolk | Terry Jermy MP | 6479 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5164 |
-| Southampton Itchen | Darren Paffey MP | 4492 |
+| Southampton Itchen | Darren Paffey MP | 4493 |
 | Southampton Test | Satvir Kaur MP | 3359 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5531 |
 | Southend West and Leigh | David Burton-Sampson MP | 5817 |
@@ -486,7 +486,7 @@
 | Tamworth | Sarah Edwards MP | 6883 |
 | Tatton | Rt Hon Esther McVey MP | 6469 |
 | Taunton and Wellington | Gideon Amos MP | 5141 |
-| Telford | Shaun Davies MP | 5534 |
+| Telford | Shaun Davies MP | 5535 |
 | Tewkesbury | Cameron Thomas MP | 4985 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6344 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7384 |
@@ -494,14 +494,14 @@
 | Thurrock | Jen Craft MP | 5073 |
 | Tipton and Wednesbury | Antonia Bance MP | 4865 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5916 |
-| Tonbridge | Rt Hon Tom Tugendhat MP | 5902 |
+| Tonbridge | Rt Hon Tom Tugendhat MP | 5903 |
 | Tooting | Dr Rosena Allin-Khan MP | 2671 |
 | Torbay | Steve Darling MP | 5766 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6529 |
 | Tottenham | Rt Hon David Lammy MP | 1670 |
 | Truro and Falmouth | Jayne Kirkham MP | 4569 |
-| Tunbridge Wells | Mike Martin MP | 5431 |
-| Twickenham | Munira Wilson MP | 3632 |
+| Tunbridge Wells | Mike Martin MP | 5432 |
+| Twickenham | Munira Wilson MP | 3633 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4448 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4454 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1662 |
@@ -647,8 +647,8 @@
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3659 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5448 |
 | Monmouthshire | Catherine Fookes MP | 4702 |
-| Montgomeryshire and Glyndŵr | Steve Witherden MP | 5993 |
-| Neath and Swansea East | Carolyn Harris MP | 4389 |
+| Montgomeryshire and Glyndŵr | Steve Witherden MP | 5994 |
+| Neath and Swansea East | Carolyn Harris MP | 4390 |
 | Newport East | Jessica Morden MP | 3959 |
 | Newport West and Islwyn | Ruth Jones MP | 4004 |
 | Pontypridd | Alex Davies-Jones MP | 3852 |
