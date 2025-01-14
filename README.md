@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968577                                |
-| Last Updated      | 2025-01-14 01:15:20 UTC                                    |
+| Total Signatures   | 2968580                                |
+| Last Updated      | 2025-01-14 02:40:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -251,7 +251,7 @@
 | Isle of Wight East | Joe Robertson MP | 4350 |
 | Isle of Wight West | Mr Richard Quigley MP | 4043 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1773 |
-| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2745 |
+| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2746 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5056 |
 | Keighley and Ilkley | Robbie Moore MP | 4653 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6072 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3723 |
 | Waveney Valley | Adrian Ramsay MP | 5811 |
 | Weald of Kent | Katie Lam MP | 7185 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5039 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5040 |
 | Wells and Mendip Hills | Tessa Munt MP | 5214 |
 | Welwyn Hatfield | Andrew Lewin MP | 5018 |
 | West Bromwich | Sarah Coombes MP | 3740 |
@@ -647,7 +647,7 @@
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3660 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5448 |
 | Monmouthshire | Catherine Fookes MP | 4703 |
-| Montgomeryshire and Glyndŵr | Steve Witherden MP | 5997 |
+| Montgomeryshire and Glyndŵr | Steve Witherden MP | 5998 |
 | Neath and Swansea East | Carolyn Harris MP | 4391 |
 | Newport East | Jessica Morden MP | 3960 |
 | Newport West and Islwyn | Ruth Jones MP | 4005 |
