@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968592                                |
-| Last Updated      | 2025-01-14 06:22:45 UTC                                    |
+| Total Signatures   | 2968599                                |
+| Last Updated      | 2025-01-14 07:15:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -254,13 +254,13 @@
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2746 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5056 |
 | Keighley and Ilkley | Robbie Moore MP | 4654 |
-| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6072 |
+| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6073 |
 | Kensington and Bayswater | Joe Powell MP | 4376 |
 | Kettering | Rosie Wrighting MP | 5865 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3724 |
 | Kingston upon Hull East | Karl Turner MP | 4951 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4600 |
-| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5446 |
+| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5447 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6355 |
 | Knowsley | Anneliese Midgley MP | 3246 |
 | Lancaster and Wyre | Cat Smith MP | 5033 |
@@ -274,7 +274,7 @@
 | Leicester East | Shivani Raja MP | 1869 |
 | Leicester South | Shockat Adam MP | 1817 |
 | Leicester West | Rt Hon Liz Kendall MP | 3421 |
-| Leigh and Atherton | Jo Platt MP | 6011 |
+| Leigh and Atherton | Jo Platt MP | 6012 |
 | Lewes | James MacCleary MP | 4867 |
 | Lewisham East | Janet Daby MP | 2133 |
 | Lewisham North | Vicky Foxcroft MP | 1640 |
@@ -288,7 +288,7 @@
 | Liverpool Wavertree | Paula Barker MP | 2196 |
 | Liverpool West Derby | Ian Byrne MP | 3004 |
 | Loughborough | Dr Jeevun Sandher MP | 4448 |
-| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7737 |
+| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7738 |
 | Lowestoft | Jess Asato MP | 5287 |
 | Luton North | Sarah Owen MP | 2444 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2913 |
@@ -488,8 +488,8 @@
 | Taunton and Wellington | Gideon Amos MP | 5141 |
 | Telford | Shaun Davies MP | 5535 |
 | Tewkesbury | Cameron Thomas MP | 4985 |
-| The Wrekin | Rt Hon Mark Pritchard MP | 6346 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7384 |
+| The Wrekin | Rt Hon Mark Pritchard MP | 6347 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7385 |
 | Thornbury and Yate | Claire Young MP | 5653 |
 | Thurrock | Jen Craft MP | 5074 |
 | Tipton and Wednesbury | Antonia Bance MP | 4865 |
@@ -643,7 +643,7 @@
 | Clwyd North | Gill German MP | 5400 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4201 |
 | Gower | Tonia Antoniazzi MP | 4715 |
-| Llanelli | Dame Nia Griffith MP | 5205 |
+| Llanelli | Dame Nia Griffith MP | 5206 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3660 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5448 |
 | Monmouthshire | Catherine Fookes MP | 4703 |
