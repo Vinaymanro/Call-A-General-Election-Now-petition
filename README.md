@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968580                                |
-| Last Updated      | 2025-01-14 02:40:20 UTC                                    |
+| Total Signatures   | 2968581                                |
+| Last Updated      | 2025-01-14 03:16:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -253,7 +253,7 @@
 | Islington North | Rt Hon Jeremy Corbyn MP | 1773 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2746 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5056 |
-| Keighley and Ilkley | Robbie Moore MP | 4653 |
+| Keighley and Ilkley | Robbie Moore MP | 4654 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6072 |
 | Kensington and Bayswater | Joe Powell MP | 4376 |
 | Kettering | Rosie Wrighting MP | 5865 |
