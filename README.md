@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968581                                |
-| Last Updated      | 2025-01-14 03:16:55 UTC                                    |
+| Total Signatures   | 2968586                                |
+| Last Updated      | 2025-01-14 04:19:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -130,7 +130,7 @@
 | Coventry South | Zarah Sultana MP | 3486 |
 | Cramlington and Killingworth | Emma Foody MP | 5755 |
 | Crawley | Peter Lamb MP | 4653 |
-| Crewe and Nantwich | Connor Naismith MP | 5635 |
+| Crewe and Nantwich | Connor Naismith MP | 5636 |
 | Croydon East | Natasha Irons MP | 3309 |
 | Croydon South | Rt Hon Chris Philp MP | 3936 |
 | Croydon West | Sarah Jones MP | 1734 |
@@ -203,7 +203,7 @@
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5720 |
 | Great Yarmouth | Rupert Lowe MP | 6521 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2585 |
-| Guildford | Zöe Franklin MP | 3968 |
+| Guildford | Zöe Franklin MP | 3969 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2054 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1504 |
 | Halesowen | Alex Ballinger MP | 4940 |
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5375 |
 | Maidenhead | Mr Joshua Reynolds MP | 5253 |
 | Maidstone and Malling | Helen Grant MP | 5803 |
-| Makerfield | Josh Simons MP | 5805 |
+| Makerfield | Josh Simons MP | 5806 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8071 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3961 |
 | Manchester Rusholme | Afzal Khan MP | 1210 |
@@ -320,7 +320,7 @@
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5718 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5364 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5219 |
-| Newark | Rt Hon Robert Jenrick MP | 7122 |
+| Newark | Rt Hon Robert Jenrick MP | 7123 |
 | Newbury | Mr Lee Dillon MP | 4866 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4448 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4711 |
@@ -452,7 +452,7 @@
 | Southport | Patrick Hurley MP | 5908 |
 | Spelthorne | Lincoln Jopp MP | 5429 |
 | Spen Valley | Kim Leadbeater MP | 5326 |
-| St Albans | Daisy Cooper MP | 3860 |
+| St Albans | Daisy Cooper MP | 3861 |
 | St Austell and Newquay | Noah Law MP | 5556 |
 | St Helens North | David Baines MP | 4638 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4113 |
