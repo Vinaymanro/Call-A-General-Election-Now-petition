@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968586                                |
-| Last Updated      | 2025-01-14 04:19:23 UTC                                    |
+| Total Signatures   | 2968588                                |
+| Last Updated      | 2025-01-14 05:15:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -68,7 +68,7 @@
 | Bradford West | Naz Shah MP | 1792 |
 | Braintree | Rt Hon James Cleverly MP | 7381 |
 | Brent East | Dawn Butler MP | 1850 |
-| Brent West | Barry Gardiner MP | 2074 |
+| Brent West | Barry Gardiner MP | 2075 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2967 |
 | Brentwood and Ongar | Alex Burghart MP | 8090 |
 | Bridgwater | Sir Ashley Fox MP | 5705 |
@@ -103,7 +103,7 @@
 | Central Devon | Rt Hon Mel Stride MP | 5760 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5262 |
 | Chatham and Aylesford | Tristan Osborne MP | 5568 |
-| Cheadle | Tom Morrison MP | 4637 |
+| Cheadle | Tom Morrison MP | 4638 |
 | Chelmsford | Marie Goldman MP | 5226 |
 | Chelsea and Fulham | Ben Coleman MP | 5462 |
 | Cheltenham | Max Wilkinson MP | 4003 |
