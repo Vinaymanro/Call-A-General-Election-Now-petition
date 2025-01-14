@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968588                                |
-| Last Updated      | 2025-01-14 05:15:40 UTC                                    |
+| Total Signatures   | 2968592                                |
+| Last Updated      | 2025-01-14 06:22:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -197,7 +197,7 @@
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5207 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6919 |
 | Gorton and Denton | Andrew Gwynne MP | 3237 |
-| Gosport | Dame Caroline Dinenage MP | 5432 |
+| Gosport | Dame Caroline Dinenage MP | 5433 |
 | Grantham and Bourne | Gareth Davies MP | 6280 |
 | Gravesham | Dr Lauren Sullivan MP | 5090 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5720 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2611 |
 | Liverpool Walton | Dan Carden MP | 3316 |
 | Liverpool Wavertree | Paula Barker MP | 2196 |
-| Liverpool West Derby | Ian Byrne MP | 3003 |
+| Liverpool West Derby | Ian Byrne MP | 3004 |
 | Loughborough | Dr Jeevun Sandher MP | 4448 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7737 |
 | Lowestoft | Jess Asato MP | 5287 |
@@ -456,7 +456,7 @@
 | St Austell and Newquay | Noah Law MP | 5556 |
 | St Helens North | David Baines MP | 4638 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4113 |
-| St Ives | Andrew George MP | 5049 |
+| St Ives | Andrew George MP | 5050 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4761 |
 | Stafford | Leigh Ingham MP | 5563 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6375 |
@@ -625,7 +625,7 @@
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3996 |
 | Central Ayrshire | Alan Gemmell MP | 3097 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3227 |
-| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4524 |
+| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4525 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3636 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5705 |
 | Bangor Aberconwy | Claire Hughes MP | 4479 |
