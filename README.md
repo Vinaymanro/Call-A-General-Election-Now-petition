@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968949                                |
-| Last Updated      | 2025-01-15 05:16:46 UTC                                    |
+| Total Signatures   | 2968954                                |
+| Last Updated      | 2025-01-15 06:23:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -175,7 +175,7 @@
 | Epsom and Ewell | Helen Maguire MP | 4898 |
 | Erewash | Adam Thompson MP | 5776 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3200 |
-| Esher and Walton | Monica Harding MP | 4798 |
+| Esher and Walton | Monica Harding MP | 4799 |
 | Exeter | Steve Race MP | 3151 |
 | Exmouth and Exeter East | David Reed MP | 5160 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6073 |
@@ -185,7 +185,7 @@
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4475 |
 | Finchley and Golders Green | Sarah Sackman MP | 4258 |
 | Folkestone and Hythe | Tony Vaughan MP | 5368 |
-| Forest of Dean | Matt Bishop MP | 5223 |
+| Forest of Dean | Matt Bishop MP | 5224 |
 | Frome and East Somerset | Anna Sabine MP | 4297 |
 | Fylde | Mr Andrew Snowden MP | 6730 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6615 |
@@ -372,7 +372,7 @@
 | Penrith and Solway | Markus Campbell-Savours MP | 6151 |
 | Peterborough | Andrew Pakes MP | 4122 |
 | Plymouth Moor View | Fred Thomas MP | 5620 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4704 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4705 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5387 |
 | Poole | Neil Duncan-Jordan MP | 5625 |
 | Poplar and Limehouse | Apsana Begum MP | 2905 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5405 |
 | Redditch | Chris Bloore MP | 6026 |
 | Reigate | Rebecca Paul MP | 5515 |
-| Ribble Valley | Maya Ellis MP | 6667 |
+| Ribble Valley | Maya Ellis MP | 6668 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7064 |
 | Richmond Park | Sarah Olney MP | 4048 |
 | Rochdale | Paul Waugh MP | 3913 |
@@ -399,7 +399,7 @@
 | Rother Valley | Jake Richards MP | 5807 |
 | Rotherham | Sarah Champion MP | 4890 |
 | Rugby | John Slinger MP | 5356 |
-| Ruislip, Northwood and Pinner | David Simmonds MP | 4086 |
+| Ruislip, Northwood and Pinner | David Simmonds MP | 4087 |
 | Runcorn and Helsby | Mike Amesbury MP | 4984 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5808 |
 | Rushcliffe | James Naish MP | 5042 |
