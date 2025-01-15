@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968954                                |
-| Last Updated      | 2025-01-15 06:23:13 UTC                                    |
+| Total Signatures   | 2968959                                |
+| Last Updated      | 2025-01-15 07:15:16 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -91,7 +91,7 @@
 | Burton and Uttoxeter | Jacob Collier MP | 5752 |
 | Bury North | Mr James Frith MP | 4925 |
 | Bury South | Christian Wakeford MP | 5384 |
-| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5414 |
+| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5415 |
 | Calder Valley | Josh Fenton-Glynn MP | 5609 |
 | Camborne and Redruth | Perran Moon MP | 4924 |
 | Cambridge | Daniel Zeichner MP | 2199 |
@@ -221,7 +221,7 @@
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6235 |
 | Hastings and Rye | Helena Dollimore MP | 5028 |
 | Havant | Alan Mak MP | 5606 |
-| Hayes and Harlington | Rt Hon John McDonnell MP | 2566 |
+| Hayes and Harlington | Rt Hon John McDonnell MP | 2567 |
 | Hazel Grove | Lisa Smart MP | 5060 |
 | Hemel Hempstead | David Taylor MP | 5042 |
 | Hendon | David Pinto-Duschinsky MP | 3772 |
@@ -303,7 +303,7 @@
 | Mansfield | Steve Yemm MP | 6140 |
 | Melksham and Devizes | Brian Mathew MP | 4983 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6073 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6006 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6007 |
 | Mid Bedfordshire | Blake Stephenson MP | 5804 |
 | Mid Buckinghamshire | Greg Smith MP | 5579 |
 | Mid Cheshire | Andrew Cooper MP | 5123 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6143 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5409 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6151 |
-| Peterborough | Andrew Pakes MP | 4122 |
+| Peterborough | Andrew Pakes MP | 4123 |
 | Plymouth Moor View | Fred Thomas MP | 5620 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4705 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5387 |
@@ -646,7 +646,7 @@
 | Llanelli | Dame Nia Griffith MP | 5206 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3660 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5449 |
-| Monmouthshire | Catherine Fookes MP | 4704 |
+| Monmouthshire | Catherine Fookes MP | 4705 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 5999 |
 | Neath and Swansea East | Carolyn Harris MP | 4391 |
 | Newport East | Jessica Morden MP | 3960 |
