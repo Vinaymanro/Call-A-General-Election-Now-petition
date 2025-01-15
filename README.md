@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969081                                |
-| Last Updated      | 2025-01-15 15:17:22 UTC                                    |
+| Total Signatures   | 2969089                                |
+| Last Updated      | 2025-01-15 16:20:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -89,7 +89,7 @@
 | Buckingham and Bletchley | Callum Anderson MP | 5231 |
 | Burnley | Oliver Ryan MP | 5679 |
 | Burton and Uttoxeter | Jacob Collier MP | 5752 |
-| Bury North | Mr James Frith MP | 4926 |
+| Bury North | Mr James Frith MP | 4927 |
 | Bury South | Christian Wakeford MP | 5384 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5415 |
 | Calder Valley | Josh Fenton-Glynn MP | 5609 |
@@ -121,7 +121,7 @@
 | City of Durham | Mary Kelly Foy MP | 4213 |
 | Clacton | Nigel Farage MP | 8031 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1724 |
-| Colchester | Pam Cox MP | 4954 |
+| Colchester | Pam Cox MP | 4955 |
 | Colne Valley | Paul Davies MP | 4986 |
 | Congleton | Mrs Sarah Russell MP | 5933 |
 | Corby and East Northamptonshire | Lee Barron MP | 5951 |
@@ -191,7 +191,7 @@
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6615 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4487 |
 | Gedling | Michael Payne MP | 5007 |
-| Gillingham and Rainham | Naushabah Khan MP | 5011 |
+| Gillingham and Rainham | Naushabah Khan MP | 5012 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5553 |
 | Gloucester | Alex McIntyre MP | 4490 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5210 |
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1504 |
 | Halesowen | Alex Ballinger MP | 4942 |
 | Halifax | Kate Dearden MP | 4705 |
-| Hamble Valley | Paul Holmes MP | 6098 |
+| Hamble Valley | Paul Holmes MP | 6099 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3179 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2952 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4678 |
@@ -308,7 +308,7 @@
 | Mid Buckinghamshire | Greg Smith MP | 5579 |
 | Mid Cheshire | Andrew Cooper MP | 5123 |
 | Mid Derbyshire | Jonathan Davies MP | 5200 |
-| Mid Dorset and North Poole | Vikki Slade MP | 5860 |
+| Mid Dorset and North Poole | Vikki Slade MP | 5861 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5546 |
 | Mid Norfolk | George Freeman MP | 6229 |
 | Mid Sussex | Alison Bennett MP | 4672 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4123 |
 | Plymouth Moor View | Fred Thomas MP | 5620 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4705 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5388 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5389 |
 | Poole | Neil Duncan-Jordan MP | 5626 |
 | Poplar and Limehouse | Apsana Begum MP | 2906 |
 | Portsmouth North | Amanda Martin MP | 5571 |
@@ -539,7 +539,7 @@
 | Witney | Charlie Maynard MP | 5125 |
 | Woking | Mr Will Forster MP | 4367 |
 | Wokingham | Clive Jones MP | 4841 |
-| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4346 |
+| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4347 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4256 |
 | Wolverhampton West | Warinder Juss | 3783 |
 | Worcester | Tom Collins MP | 4290 |
@@ -582,7 +582,7 @@
 | Angus and Perthshire Glens | Dave Doogan MP | 4018 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3441 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3374 |
-| Bathgate and Linlithgow | Kirsteen Sullivan MP | 2986 |
+| Bathgate and Linlithgow | Kirsteen Sullivan MP | 2987 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4042 |
 | Coatbridge and Bellshill | Frank McNally MP | 2565 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2825 |
