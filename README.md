@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968939                                |
-| Last Updated      | 2025-01-15 02:42:24 UTC                                    |
+| Total Signatures   | 2968944                                |
+| Last Updated      | 2025-01-15 03:18:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -54,7 +54,7 @@
 | Blaydon and Consett | Liz Twist MP | 5207 |
 | Blyth and Ashington | Ian Lavery MP | 5809 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6097 |
-| Bolsover | Natalie Fleet MP | 6473 |
+| Bolsover | Natalie Fleet MP | 6474 |
 | Bolton North East | Kirith Entwistle MP | 5543 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4366 |
 | Bolton West | Phil Brickell MP | 5541 |
@@ -174,7 +174,7 @@
 | Epping Forest | Dr Neil Hudson MP | 6542 |
 | Epsom and Ewell | Helen Maguire MP | 4898 |
 | Erewash | Adam Thompson MP | 5776 |
-| Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3199 |
+| Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3200 |
 | Esher and Walton | Monica Harding MP | 4798 |
 | Exeter | Steve Race MP | 3150 |
 | Exmouth and Exeter East | David Reed MP | 5160 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6185 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5180 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4043 |
-| Orpington | Gareth Bacon MP | 5281 |
+| Orpington | Gareth Bacon MP | 5282 |
 | Ossett and Denby Dale | Jade Botterill MP | 5772 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2132 |
 | Oxford West and Abingdon | Layla Moran MP | 2913 |
@@ -403,7 +403,7 @@
 | Runcorn and Helsby | Mike Amesbury MP | 4984 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5808 |
 | Rushcliffe | James Naish MP | 5042 |
-| Rutland and Stamford | Alicia Kearns MP | 6226 |
+| Rutland and Stamford | Alicia Kearns MP | 6227 |
 | Salford | Rebecca Long Bailey MP | 4617 |
 | Salisbury | Rt Hon John Glen MP | 4719 |
 | Scarborough and Whitby | Alison Hume MP | 5946 |
@@ -623,7 +623,7 @@
 | West Dunbartonshire | Douglas McAllister MP | 2697 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3529 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3996 |
-| Central Ayrshire | Alan Gemmell MP | 3097 |
+| Central Ayrshire | Alan Gemmell MP | 3098 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3227 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4525 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3636 |
