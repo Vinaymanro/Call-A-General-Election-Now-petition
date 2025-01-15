@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968935                                |
-| Last Updated      | 2025-01-15 01:17:07 UTC                                    |
+| Total Signatures   | 2968939                                |
+| Last Updated      | 2025-01-15 02:42:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -61,7 +61,7 @@
 | Bootle | Peter Dowd MP | 3118 |
 | Boston and Skegness | Richard Tice MP | 7036 |
 | Bournemouth East | Tom Hayes MP | 4626 |
-| Bournemouth West | Jessica Toale MP | 4865 |
+| Bournemouth West | Jessica Toale MP | 4866 |
 | Bracknell | Peter Swallow MP | 4938 |
 | Bradford East | Imran Hussain MP | 2849 |
 | Bradford South | Judith Cummins MP | 4108 |
@@ -116,7 +116,7 @@
 | Chippenham | Sarah Gibson MP | 4697 |
 | Chipping Barnet | Dan Tomlinson MP | 4312 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5459 |
-| Christchurch | Sir Christopher Chope MP | 5812 |
+| Christchurch | Sir Christopher Chope MP | 5814 |
 | Cities of London and Westminster | Rachel Blake MP | 5150 |
 | City of Durham | Mary Kelly Foy MP | 4213 |
 | Clacton | Nigel Farage MP | 8030 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3397 |
 | Glasgow East | John Grady MP | 2286 |
 | Glasgow North | Martin Rhodes MP | 2029 |
-| Glasgow North East | Maureen Burke MP | 2439 |
+| Glasgow North East | Maureen Burke MP | 2440 |
 | Glasgow South | Gordon McKee MP | 1825 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2243 |
 | Glasgow West | Patricia Ferguson MP | 2186 |
