@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968946                                |
-| Last Updated      | 2025-01-15 04:19:33 UTC                                    |
+| Total Signatures   | 2968949                                |
+| Last Updated      | 2025-01-15 05:16:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -147,7 +147,7 @@
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6034 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5504 |
 | Dorking and Horley | Chris Coghlan MP | 5526 |
-| Dover and Deal | Mike Tapp MP | 5879 |
+| Dover and Deal | Mike Tapp MP | 5880 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6522 |
 | Dudley | Sonia Kumar MP | 5346 |
 | Dulwich and West Norwood | Helen Hayes MP | 1540 |
@@ -164,7 +164,7 @@
 | East Thanet | Ms Polly Billington MP | 5434 |
 | East Wiltshire | Danny Kruger MP | 6028 |
 | East Worthing and Shoreham | Tom Rutland MP | 4562 |
-| Eastbourne | Josh Babarinde MP | 5011 |
+| Eastbourne | Josh Babarinde MP | 5012 |
 | Eastleigh | Liz Jarvis MP | 4295 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2205 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4391 |
@@ -490,7 +490,7 @@
 | Tewkesbury | Cameron Thomas MP | 4985 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6348 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7385 |
-| Thornbury and Yate | Claire Young MP | 5655 |
+| Thornbury and Yate | Claire Young MP | 5656 |
 | Thurrock | Jen Craft MP | 5074 |
 | Tipton and Wednesbury | Antonia Bance MP | 4866 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5918 |
