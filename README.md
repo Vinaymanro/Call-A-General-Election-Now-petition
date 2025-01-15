@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2968944                                |
-| Last Updated      | 2025-01-15 03:18:03 UTC                                    |
+| Total Signatures   | 2968946                                |
+| Last Updated      | 2025-01-15 04:19:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -102,7 +102,7 @@
 | Castle Point | Rebecca Harris MP | 7481 |
 | Central Devon | Rt Hon Mel Stride MP | 5761 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5262 |
-| Chatham and Aylesford | Tristan Osborne MP | 5568 |
+| Chatham and Aylesford | Tristan Osborne MP | 5569 |
 | Cheadle | Tom Morrison MP | 4640 |
 | Chelmsford | Marie Goldman MP | 5226 |
 | Chelsea and Fulham | Ben Coleman MP | 5462 |
@@ -176,7 +176,7 @@
 | Erewash | Adam Thompson MP | 5776 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3200 |
 | Esher and Walton | Monica Harding MP | 4798 |
-| Exeter | Steve Race MP | 3150 |
+| Exeter | Steve Race MP | 3151 |
 | Exmouth and Exeter East | David Reed MP | 5160 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6073 |
 | Farnham and Bordon | Gregory Stafford MP | 5152 |
