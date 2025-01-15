@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969089                                |
-| Last Updated      | 2025-01-15 16:20:40 UTC                                    |
+| Total Signatures   | 2969096                                |
+| Last Updated      | 2025-01-15 17:14:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5418 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5761 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5762 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5473 |
 | Amber Valley | Linsey Farnsworth MP | 6039 |
 | Arundel and South Downs | Andrew Griffith MP | 6919 |
@@ -109,14 +109,14 @@
 | Cheltenham | Max Wilkinson MP | 4003 |
 | Chesham and Amersham | Sarah Green MP | 4920 |
 | Chester North and Neston | Samantha Dixon MP | 4020 |
-| Chester South and Eddisbury | Aphra Brandreth MP | 6359 |
+| Chester South and Eddisbury | Aphra Brandreth MP | 6360 |
 | Chesterfield | Mr Toby Perkins MP | 4828 |
 | Chichester | Jess Brown-Fuller MP | 5874 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4140 |
 | Chippenham | Sarah Gibson MP | 4699 |
-| Chipping Barnet | Dan Tomlinson MP | 4313 |
+| Chipping Barnet | Dan Tomlinson MP | 4312 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5460 |
-| Christchurch | Sir Christopher Chope MP | 5814 |
+| Christchurch | Sir Christopher Chope MP | 5815 |
 | Cities of London and Westminster | Rachel Blake MP | 5150 |
 | City of Durham | Mary Kelly Foy MP | 4213 |
 | Clacton | Nigel Farage MP | 8031 |
@@ -306,7 +306,7 @@
 | Meriden and Solihull East | Saqib Bhatti MP | 6007 |
 | Mid Bedfordshire | Blake Stephenson MP | 5805 |
 | Mid Buckinghamshire | Greg Smith MP | 5579 |
-| Mid Cheshire | Andrew Cooper MP | 5123 |
+| Mid Cheshire | Andrew Cooper MP | 5124 |
 | Mid Derbyshire | Jonathan Davies MP | 5200 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5861 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5546 |
@@ -396,7 +396,7 @@
 | Romford | Andrew Rosindell MP | 5758 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5043 |
 | Rossendale and Darwen | Andy MacNae MP | 6434 |
-| Rother Valley | Jake Richards MP | 5807 |
+| Rother Valley | Jake Richards MP | 5808 |
 | Rotherham | Sarah Champion MP | 4890 |
 | Rugby | John Slinger MP | 5356 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4087 |
@@ -458,9 +458,9 @@
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4113 |
 | St Ives | Andrew George MP | 5050 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4763 |
-| Stafford | Leigh Ingham MP | 5564 |
+| Stafford | Leigh Ingham MP | 5565 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6375 |
-| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5298 |
+| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5299 |
 | Stevenage | Kevin Bonavia MP | 4689 |
 | Stockport | Navendu Mishra MP | 3886 |
 | Stockton North | Chris McDonald MP | 4794 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3723 |
 | Waveney Valley | Adrian Ramsay MP | 5813 |
 | Weald of Kent | Katie Lam MP | 7185 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5041 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5042 |
 | Wells and Mendip Hills | Tessa Munt MP | 5215 |
 | Welwyn Hatfield | Andrew Lewin MP | 5019 |
 | West Bromwich | Sarah Coombes MP | 3742 |
