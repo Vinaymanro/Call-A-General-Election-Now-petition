@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969238                                |
-| Last Updated      | 2025-01-16 06:23:00 UTC                                    |
+| Total Signatures   | 2969242                                |
+| Last Updated      | 2025-01-16 07:15:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -193,7 +193,7 @@
 | Gedling | Michael Payne MP | 5007 |
 | Gillingham and Rainham | Naushabah Khan MP | 5012 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5553 |
-| Gloucester | Alex McIntyre MP | 4490 |
+| Gloucester | Alex McIntyre MP | 4491 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5210 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6919 |
 | Gorton and Denton | Andrew Gwynne MP | 3237 |
@@ -204,7 +204,7 @@
 | Great Yarmouth | Rupert Lowe MP | 6522 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2585 |
 | Guildford | Zöe Franklin MP | 3969 |
-| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2054 |
+| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2055 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1504 |
 | Halesowen | Alex Ballinger MP | 4942 |
 | Halifax | Kate Dearden MP | 4705 |
@@ -317,7 +317,7 @@
 | Milton Keynes Central | Emily Darlington MP | 4901 |
 | Milton Keynes North | Chris Curtis MP | 4530 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2652 |
-| Morecambe and Lunesdale | Lizzi Collinge MP | 5718 |
+| Morecambe and Lunesdale | Lizzi Collinge MP | 5719 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5364 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5219 |
 | Newark | Rt Hon Robert Jenrick MP | 7123 |
@@ -632,7 +632,7 @@
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3585 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5237 |
 | Bridgend | Chris Elmore MP | 4198 |
-| Caerfyrddin | Ann Davies MP | 5176 |
+| Caerfyrddin | Ann Davies MP | 5177 |
 | Caerphilly | Chris Evans MP | 3942 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2859 |
 | Cardiff North | Anna McMorrin MP | 3266 |
