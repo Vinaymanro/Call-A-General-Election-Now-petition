@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969370                                |
-| Last Updated      | 2025-01-16 16:20:15 UTC                                    |
+| Total Signatures   | 2969375                                |
+| Last Updated      | 2025-01-16 17:15:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -144,7 +144,7 @@
 | Dewsbury and Batley | Iqbal Mohamed MP | 3145 |
 | Didcot and Wantage | Olly Glover MP | 4837 |
 | Doncaster Central | Sally Jameson MP | 4892 |
-| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6036 |
+| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6037 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5506 |
 | Dorking and Horley | Chris Coghlan MP | 5526 |
 | Dover and Deal | Mike Tapp MP | 5880 |
@@ -261,7 +261,7 @@
 | Kingston upon Hull East | Karl Turner MP | 4951 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4600 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5450 |
-| Kingswinford and South Staffordshire | Mike Wood MP | 6356 |
+| Kingswinford and South Staffordshire | Mike Wood MP | 6357 |
 | Knowsley | Anneliese Midgley MP | 3246 |
 | Lancaster and Wyre | Cat Smith MP | 5035 |
 | Leeds Central and Headingley | Alex Sobel MP | 1913 |
@@ -422,7 +422,7 @@
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6806 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6636 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6254 |
-| Slough | Mr Tanmanjeet Singh Dhesi MP | 2557 |
+| Slough | Mr Tanmanjeet Singh Dhesi MP | 2558 |
 | Smethwick | Gurinder Singh Josan MP | 3027 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5402 |
 | South Basildon and East Thurrock | James McMurdock MP | 6540 |
@@ -436,7 +436,7 @@
 | South Leicestershire | Alberto Costa MP | 6933 |
 | South Norfolk | Ben Goldsborough MP | 5407 |
 | South Northamptonshire | Sarah Bool MP | 6623 |
-| South Ribble | Mr Paul Foster MP | 5847 |
+| South Ribble | Mr Paul Foster MP | 5848 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4692 |
 | South Shropshire | Stuart Anderson MP | 7289 |
 | South Suffolk | James Cartlidge MP | 6106 |
@@ -478,7 +478,7 @@
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5355 |
 | Sunderland Central | Lewis Atkinson MP | 5185 |
 | Surrey Heath | Dr Al Pinkerton MP | 5393 |
-| Sussex Weald | Ms Nusrat Ghani MP | 6066 |
+| Sussex Weald | Ms Nusrat Ghani MP | 6067 |
 | Sutton and Cheam | Luke Taylor MP | 4373 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5635 |
 | Swindon North | Will Stone MP | 4858 |
