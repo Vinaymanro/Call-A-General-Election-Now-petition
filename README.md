@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969441                                |
-| Last Updated      | 2025-01-16 22:15:12 UTC                                    |
+| Total Signatures   | 2969452                                |
+| Last Updated      | 2025-01-16 23:16:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -144,11 +144,11 @@
 | Dewsbury and Batley | Iqbal Mohamed MP | 3145 |
 | Didcot and Wantage | Olly Glover MP | 4837 |
 | Doncaster Central | Sally Jameson MP | 4892 |
-| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6037 |
+| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6038 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5506 |
 | Dorking and Horley | Chris Coghlan MP | 5526 |
 | Dover and Deal | Mike Tapp MP | 5880 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6522 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6523 |
 | Dudley | Sonia Kumar MP | 5346 |
 | Dulwich and West Norwood | Helen Hayes MP | 1540 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5476 |
@@ -179,7 +179,7 @@
 | Exeter | Steve Race MP | 3152 |
 | Exmouth and Exeter East | David Reed MP | 5160 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6076 |
-| Farnham and Bordon | Gregory Stafford MP | 5153 |
+| Farnham and Bordon | Gregory Stafford MP | 5154 |
 | Faversham and Mid Kent | Helen Whately MP | 6185 |
 | Feltham and Heston | Seema Malhotra MP | 2887 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4476 |
@@ -222,7 +222,7 @@
 | Hastings and Rye | Helena Dollimore MP | 5028 |
 | Havant | Alan Mak MP | 5606 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2568 |
-| Hazel Grove | Lisa Smart MP | 5060 |
+| Hazel Grove | Lisa Smart MP | 5062 |
 | Hemel Hempstead | David Taylor MP | 5042 |
 | Hendon | David Pinto-Duschinsky MP | 3773 |
 | Henley and Thame | Freddie van Mierlo MP | 5370 |
@@ -233,9 +233,9 @@
 | Hexham | Joe Morris MP | 6376 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5210 |
 | High Peak | Jon Pearce MP | 5406 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6422 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6423 |
 | Hitchin | Alistair Strathern MP | 4890 |
-| Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2264 |
+| Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2265 |
 | Honiton and Sidmouth | Richard Foord MP | 5213 |
 | Hornchurch and Upminster | Julia Lopez MP | 6582 |
 | Hornsey and Friern Barnet | Catherine West MP | 1926 |
@@ -329,7 +329,7 @@
 | Newton Abbot | Martin Wrigley MP | 5073 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5488 |
 | Normanton and Hemsworth | Jon Trickett MP | 5434 |
-| North Bedfordshire | Richard Fuller MP | 6062 |
+| North Bedfordshire | Richard Fuller MP | 6063 |
 | North Cornwall | Ben Maguire MP | 6367 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6019 |
 | North Devon | Ian Roome MP | 5808 |
@@ -513,7 +513,7 @@
 | Warrington South | Sarah Hall MP | 5533 |
 | Warwick and Leamington | Matt Western MP | 4441 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5270 |
-| Watford | Matt Turmaine MP | 3723 |
+| Watford | Matt Turmaine MP | 3724 |
 | Waveney Valley | Adrian Ramsay MP | 5814 |
 | Weald of Kent | Katie Lam MP | 7186 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5043 |
@@ -542,8 +542,8 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4347 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4256 |
 | Wolverhampton West | Warinder Juss | 3784 |
-| Worcester | Tom Collins MP | 4290 |
-| Worsley and Eccles | Michael Wheeler MP | 5393 |
+| Worcester | Tom Collins MP | 4291 |
+| Worsley and Eccles | Michael Wheeler MP | 5394 |
 | Worthing West | Dr Beccy Cooper MP | 5211 |
 | Wycombe | Emma Reynolds MP | 3588 |
 | Wyre Forest | Mark Garnier MP | 6443 |
