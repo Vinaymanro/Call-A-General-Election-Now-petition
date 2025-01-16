@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969222                                |
-| Last Updated      | 2025-01-16 01:16:21 UTC                                    |
+| Total Signatures   | 2969230                                |
+| Last Updated      | 2025-01-16 02:41:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -54,7 +54,7 @@
 | Blaydon and Consett | Liz Twist MP | 5208 |
 | Blyth and Ashington | Ian Lavery MP | 5809 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6097 |
-| Bolsover | Natalie Fleet MP | 6475 |
+| Bolsover | Natalie Fleet MP | 6476 |
 | Bolton North East | Kirith Entwistle MP | 5543 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4367 |
 | Bolton West | Phil Brickell MP | 5541 |
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1093 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5310 |
 | East Surrey | Rt Hon Claire Coutinho MP | 5986 |
-| East Thanet | Ms Polly Billington MP | 5435 |
+| East Thanet | Ms Polly Billington MP | 5436 |
 | East Wiltshire | Danny Kruger MP | 6028 |
 | East Worthing and Shoreham | Tom Rutland MP | 4562 |
 | Eastbourne | Josh Babarinde MP | 5012 |
@@ -234,7 +234,7 @@
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5209 |
 | High Peak | Jon Pearce MP | 5406 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6422 |
-| Hitchin | Alistair Strathern MP | 4889 |
+| Hitchin | Alistair Strathern MP | 4890 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2264 |
 | Honiton and Sidmouth | Richard Foord MP | 5213 |
 | Hornchurch and Upminster | Julia Lopez MP | 6582 |
@@ -248,7 +248,7 @@
 | Ilford North | Rt Hon Wes Streeting MP | 2602 |
 | Ilford South | Jas Athwal MP | 1574 |
 | Ipswich | Jack Abbott MP | 4099 |
-| Isle of Wight East | Joe Robertson MP | 4351 |
+| Isle of Wight East | Joe Robertson MP | 4352 |
 | Isle of Wight West | Mr Richard Quigley MP | 4043 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1773 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2747 |
@@ -273,7 +273,7 @@
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3752 |
 | Leicester East | Shivani Raja MP | 1869 |
 | Leicester South | Shockat Adam MP | 1818 |
-| Leicester West | Rt Hon Liz Kendall MP | 3421 |
+| Leicester West | Rt Hon Liz Kendall MP | 3422 |
 | Leigh and Atherton | Jo Platt MP | 6013 |
 | Lewes | James MacCleary MP | 4867 |
 | Lewisham East | Janet Daby MP | 2134 |
@@ -378,7 +378,7 @@
 | Poplar and Limehouse | Apsana Begum MP | 2906 |
 | Portsmouth North | Amanda Martin MP | 5571 |
 | Portsmouth South | Stephen Morgan MP | 3839 |
-| Preston | Sir Mark Hendrick MP | 3758 |
+| Preston | Sir Mark Hendrick MP | 3759 |
 | Putney | Fleur Anderson MP | 3491 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2136 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5063 |
@@ -397,7 +397,7 @@
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5044 |
 | Rossendale and Darwen | Andy MacNae MP | 6434 |
 | Rother Valley | Jake Richards MP | 5808 |
-| Rotherham | Sarah Champion MP | 4891 |
+| Rotherham | Sarah Champion MP | 4892 |
 | Rugby | John Slinger MP | 5356 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4087 |
 | Runcorn and Helsby | Mike Amesbury MP | 4984 |
@@ -492,7 +492,7 @@
 | Thirsk and Malton | Kevin Hollinrake MP | 7386 |
 | Thornbury and Yate | Claire Young MP | 5656 |
 | Thurrock | Jen Craft MP | 5074 |
-| Tipton and Wednesbury | Antonia Bance MP | 4868 |
+| Tipton and Wednesbury | Antonia Bance MP | 4869 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5918 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5906 |
 | Tooting | Dr Rosena Allin-Khan MP | 2673 |
