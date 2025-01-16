@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969232                                |
-| Last Updated      | 2025-01-16 04:19:12 UTC                                    |
+| Total Signatures   | 2969235                                |
+| Last Updated      | 2025-01-16 05:15:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -79,7 +79,7 @@
 | Bristol Central | Carla Denyer MP | 1609 |
 | Bristol East | Kerry McCarthy MP | 2951 |
 | Bristol North East | Damien Egan MP | 3049 |
-| Bristol North West | Rt Hon Darren Jones MP | 3172 |
+| Bristol North West | Rt Hon Darren Jones MP | 3173 |
 | Bristol South | Karin Smyth MP | 3909 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5796 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5219 |
@@ -239,7 +239,7 @@
 | Honiton and Sidmouth | Richard Foord MP | 5213 |
 | Hornchurch and Upminster | Julia Lopez MP | 6582 |
 | Hornsey and Friern Barnet | Catherine West MP | 1926 |
-| Horsham | John Milne MP | 5781 |
+| Horsham | John Milne MP | 5783 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6255 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3299 |
 | Huddersfield | Harpreet Uppal MP | 3649 |
