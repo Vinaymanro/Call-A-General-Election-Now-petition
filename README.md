@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969362                                |
-| Last Updated      | 2025-01-16 15:17:10 UTC                                    |
+| Total Signatures   | 2969370                                |
+| Last Updated      | 2025-01-16 16:20:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5700 |
 | Barrow and Furness | Michelle Scrogham MP | 5266 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6834 |
-| Basingstoke | Luke Murphy MP | 4778 |
+| Basingstoke | Luke Murphy MP | 4779 |
 | Bassetlaw | Jo White MP | 6692 |
 | Bath | Wera Hobhouse MP | 2959 |
 | Battersea | Marsha De Cordova MP | 3601 |
@@ -56,7 +56,7 @@
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6097 |
 | Bolsover | Natalie Fleet MP | 6476 |
 | Bolton North East | Kirith Entwistle MP | 5543 |
-| Bolton South and Walkden | Yasmin Qureshi MP | 4367 |
+| Bolton South and Walkden | Yasmin Qureshi MP | 4368 |
 | Bolton West | Phil Brickell MP | 5541 |
 | Bootle | Peter Dowd MP | 3118 |
 | Boston and Skegness | Richard Tice MP | 7036 |
@@ -145,7 +145,7 @@
 | Didcot and Wantage | Olly Glover MP | 4837 |
 | Doncaster Central | Sally Jameson MP | 4892 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6036 |
-| Doncaster North | Rt Hon Ed Miliband MP | 5505 |
+| Doncaster North | Rt Hon Ed Miliband MP | 5506 |
 | Dorking and Horley | Chris Coghlan MP | 5526 |
 | Dover and Deal | Mike Tapp MP | 5880 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6522 |
@@ -179,7 +179,7 @@
 | Exeter | Steve Race MP | 3152 |
 | Exmouth and Exeter East | David Reed MP | 5160 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6075 |
-| Farnham and Bordon | Gregory Stafford MP | 5152 |
+| Farnham and Bordon | Gregory Stafford MP | 5153 |
 | Faversham and Mid Kent | Helen Whately MP | 6185 |
 | Feltham and Heston | Seema Malhotra MP | 2887 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4476 |
@@ -445,8 +445,8 @@
 | South West Norfolk | Terry Jermy MP | 6480 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5166 |
 | Southampton Itchen | Darren Paffey MP | 4495 |
-| Southampton Test | Satvir Kaur MP | 3361 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5533 |
+| Southampton Test | Satvir Kaur MP | 3362 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5534 |
 | Southend West and Leigh | David Burton-Sampson MP | 5821 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2569 |
 | Southport | Patrick Hurley MP | 5909 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3742 |
 | West Dorset | Edward Morello MP | 5423 |
 | West Ham and Beckton | James Asser MP | 2130 |
-| West Lancashire | Ashley Dalton MP | 5020 |
+| West Lancashire | Ashley Dalton MP | 5021 |
 | West Suffolk | Nick Timothy MP | 5977 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6221 |
 | Westmorland and Lonsdale | Tim Farron MP | 5172 |
@@ -545,7 +545,7 @@
 | Worcester | Tom Collins MP | 4290 |
 | Worsley and Eccles | Michael Wheeler MP | 5393 |
 | Worthing West | Dr Beccy Cooper MP | 5211 |
-| Wycombe | Emma Reynolds MP | 3587 |
+| Wycombe | Emma Reynolds MP | 3588 |
 | Wyre Forest | Mark Garnier MP | 6443 |
 | Wythenshawe and Sale East | Mike Kane MP | 4549 |
 | Yeovil | Adam Dance MP | 5551 |
