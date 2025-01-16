@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969434                                |
-| Last Updated      | 2025-01-16 21:15:03 UTC                                    |
+| Total Signatures   | 2969441                                |
+| Last Updated      | 2025-01-16 22:15:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3719 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6097 |
 | Blackpool South | Chris Webb MP | 5734 |
-| Blaydon and Consett | Liz Twist MP | 5208 |
+| Blaydon and Consett | Liz Twist MP | 5209 |
 | Blyth and Ashington | Ian Lavery MP | 5810 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6097 |
 | Bolsover | Natalie Fleet MP | 6476 |
@@ -124,7 +124,7 @@
 | Colchester | Pam Cox MP | 4955 |
 | Colne Valley | Paul Davies MP | 4986 |
 | Congleton | Mrs Sarah Russell MP | 5933 |
-| Corby and East Northamptonshire | Lee Barron MP | 5951 |
+| Corby and East Northamptonshire | Lee Barron MP | 5952 |
 | Coventry East | Mary Creagh MP | 3544 |
 | Coventry North West | Taiwo Owatemi MP | 4214 |
 | Coventry South | Zarah Sultana MP | 3486 |
@@ -204,7 +204,7 @@
 | Great Yarmouth | Rupert Lowe MP | 6522 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2585 |
 | Guildford | Zöe Franklin MP | 3969 |
-| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2055 |
+| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2056 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1505 |
 | Halesowen | Alex Ballinger MP | 4942 |
 | Halifax | Kate Dearden MP | 4705 |
@@ -243,7 +243,7 @@
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6255 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3299 |
 | Huddersfield | Harpreet Uppal MP | 3649 |
-| Huntingdon | Ben Obese-Jecty MP | 5510 |
+| Huntingdon | Ben Obese-Jecty MP | 5511 |
 | Hyndburn | Sarah Smith MP | 4955 |
 | Ilford North | Rt Hon Wes Streeting MP | 2602 |
 | Ilford South | Jas Athwal MP | 1575 |
@@ -297,7 +297,7 @@
 | Maidstone and Malling | Helen Grant MP | 5807 |
 | Makerfield | Josh Simons MP | 5808 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8072 |
-| Manchester Central | Rt Hon Lucy Powell MP | 3962 |
+| Manchester Central | Rt Hon Lucy Powell MP | 3963 |
 | Manchester Rusholme | Afzal Khan MP | 1210 |
 | Manchester Withington | Jeff Smith MP | 1657 |
 | Mansfield | Steve Yemm MP | 6141 |
@@ -444,9 +444,9 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5174 |
 | South West Norfolk | Terry Jermy MP | 6481 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5166 |
-| Southampton Itchen | Darren Paffey MP | 4495 |
+| Southampton Itchen | Darren Paffey MP | 4496 |
 | Southampton Test | Satvir Kaur MP | 3362 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5534 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5535 |
 | Southend West and Leigh | David Burton-Sampson MP | 5821 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2570 |
 | Southport | Patrick Hurley MP | 5909 |
