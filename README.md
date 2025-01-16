@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969230                                |
-| Last Updated      | 2025-01-16 03:17:57 UTC                                    |
+| Total Signatures   | 2969232                                |
+| Last Updated      | 2025-01-16 04:19:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5546 |
 | Mid Norfolk | George Freeman MP | 6230 |
 | Mid Sussex | Alison Bennett MP | 4672 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4181 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4182 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5665 |
 | Milton Keynes Central | Emily Darlington MP | 4901 |
 | Milton Keynes North | Chris Curtis MP | 4530 |
@@ -378,7 +378,7 @@
 | Poplar and Limehouse | Apsana Begum MP | 2906 |
 | Portsmouth North | Amanda Martin MP | 5571 |
 | Portsmouth South | Stephen Morgan MP | 3839 |
-| Preston | Sir Mark Hendrick MP | 3759 |
+| Preston | Sir Mark Hendrick MP | 3760 |
 | Putney | Fleur Anderson MP | 3491 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2136 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5063 |
