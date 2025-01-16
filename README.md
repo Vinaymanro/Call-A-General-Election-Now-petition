@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969423                                |
-| Last Updated      | 2025-01-16 20:17:30 UTC                                    |
+| Total Signatures   | 2969434                                |
+| Last Updated      | 2025-01-16 21:15:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -65,7 +65,7 @@
 | Bracknell | Peter Swallow MP | 4938 |
 | Bradford East | Imran Hussain MP | 2850 |
 | Bradford South | Judith Cummins MP | 4108 |
-| Bradford West | Naz Shah MP | 1794 |
+| Bradford West | Naz Shah MP | 1795 |
 | Braintree | Rt Hon James Cleverly MP | 7388 |
 | Brent East | Dawn Butler MP | 1851 |
 | Brent West | Barry Gardiner MP | 2076 |
@@ -130,7 +130,7 @@
 | Coventry South | Zarah Sultana MP | 3486 |
 | Cramlington and Killingworth | Emma Foody MP | 5757 |
 | Crawley | Peter Lamb MP | 4655 |
-| Crewe and Nantwich | Connor Naismith MP | 5641 |
+| Crewe and Nantwich | Connor Naismith MP | 5642 |
 | Croydon East | Natasha Irons MP | 3312 |
 | Croydon South | Rt Hon Chris Philp MP | 3939 |
 | Croydon West | Sarah Jones MP | 1734 |
@@ -168,7 +168,7 @@
 | Eastleigh | Liz Jarvis MP | 4295 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2205 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4393 |
-| Eltham and Chislehurst | Clive Efford MP | 4672 |
+| Eltham and Chislehurst | Clive Efford MP | 4673 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5132 |
 | Enfield North | Feryal Clark MP | 2868 |
 | Epping Forest | Dr Neil Hudson MP | 6542 |
@@ -205,12 +205,12 @@
 | Greenwich and Woolwich | Matthew Pennycook MP | 2585 |
 | Guildford | Zöe Franklin MP | 3969 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2055 |
-| Hackney South and Shoreditch | Dame Meg Hillier MP | 1504 |
+| Hackney South and Shoreditch | Dame Meg Hillier MP | 1505 |
 | Halesowen | Alex Ballinger MP | 4942 |
 | Halifax | Kate Dearden MP | 4705 |
 | Hamble Valley | Paul Holmes MP | 6103 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3179 |
-| Hampstead and Highgate | Tulip Siddiq MP | 2952 |
+| Hampstead and Highgate | Tulip Siddiq MP | 2954 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4679 |
 | Harlow | Chris Vince MP | 6025 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4513 |
@@ -270,12 +270,12 @@
 | Leeds North West | Katie White MP | 4351 |
 | Leeds South | Rt Hon Hilary Benn MP | 3830 |
 | Leeds South West and Morley | Mark Sewards MP | 5455 |
-| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3752 |
+| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3753 |
 | Leicester East | Shivani Raja MP | 1869 |
 | Leicester South | Shockat Adam MP | 1818 |
 | Leicester West | Rt Hon Liz Kendall MP | 3422 |
 | Leigh and Atherton | Jo Platt MP | 6013 |
-| Lewes | James MacCleary MP | 4868 |
+| Lewes | James MacCleary MP | 4869 |
 | Lewisham East | Janet Daby MP | 2134 |
 | Lewisham North | Vicky Foxcroft MP | 1641 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1574 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2611 |
 | Liverpool Walton | Dan Carden MP | 3316 |
 | Liverpool Wavertree | Paula Barker MP | 2196 |
-| Liverpool West Derby | Ian Byrne MP | 3007 |
+| Liverpool West Derby | Ian Byrne MP | 3008 |
 | Loughborough | Dr Jeevun Sandher MP | 4448 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7741 |
 | Lowestoft | Jess Asato MP | 5288 |
@@ -328,7 +328,7 @@
 | Newcastle-under-Lyme | Adam Jogee MP | 5020 |
 | Newton Abbot | Martin Wrigley MP | 5073 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5488 |
-| Normanton and Hemsworth | Jon Trickett MP | 5433 |
+| Normanton and Hemsworth | Jon Trickett MP | 5434 |
 | North Bedfordshire | Richard Fuller MP | 6062 |
 | North Cornwall | Ben Maguire MP | 6367 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6019 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5406 |
 | Redditch | Chris Bloore MP | 6027 |
 | Reigate | Rebecca Paul MP | 5515 |
-| Ribble Valley | Maya Ellis MP | 6669 |
+| Ribble Valley | Maya Ellis MP | 6670 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7064 |
 | Richmond Park | Sarah Olney MP | 4049 |
 | Rochdale | Paul Waugh MP | 3915 |
