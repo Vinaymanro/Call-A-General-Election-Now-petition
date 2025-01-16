@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969235                                |
-| Last Updated      | 2025-01-16 05:15:55 UTC                                    |
+| Total Signatures   | 2969238                                |
+| Last Updated      | 2025-01-16 06:23:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -28,7 +28,7 @@
 | Bath | Wera Hobhouse MP | 2959 |
 | Battersea | Marsha De Cordova MP | 3601 |
 | Beaconsfield | Joy Morrissey MP | 5185 |
-| Beckenham and Penge | Liam Conlon MP | 3819 |
+| Beckenham and Penge | Liam Conlon MP | 3820 |
 | Bedford | Mohammad Yasin MP | 3202 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2682 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1709 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5411 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6151 |
 | Peterborough | Andrew Pakes MP | 4123 |
-| Plymouth Moor View | Fred Thomas MP | 5620 |
+| Plymouth Moor View | Fred Thomas MP | 5621 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4706 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5390 |
 | Poole | Neil Duncan-Jordan MP | 5626 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 5946 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5042 |
 | Sefton Central | Bill Esterson MP | 3977 |
-| Selby | Keir Mather MP | 6323 |
+| Selby | Keir Mather MP | 6324 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6631 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3381 |
 | Sheffield Central | Abtisam Mohamed MP | 1418 |
