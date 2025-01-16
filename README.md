@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969287                                |
-| Last Updated      | 2025-01-16 10:17:27 UTC                                    |
+| Total Signatures   | 2969301                                |
+| Last Updated      | 2025-01-16 11:13:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -19,7 +19,7 @@
 | Aylesbury | Laura Kyrke-Smith MP | 4836 |
 | Banbury | Sean Woodcock MP | 5404 |
 | Barking | Nesil Caliskan MP | 2608 |
-| Barnsley North | Dan Jarvis MP | 5613 |
+| Barnsley North | Dan Jarvis MP | 5614 |
 | Barnsley South | Stephanie Peacock MP | 5700 |
 | Barrow and Furness | Michelle Scrogham MP | 5266 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6834 |
@@ -114,7 +114,7 @@
 | Chichester | Jess Brown-Fuller MP | 5875 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4140 |
 | Chippenham | Sarah Gibson MP | 4699 |
-| Chipping Barnet | Dan Tomlinson MP | 4312 |
+| Chipping Barnet | Dan Tomlinson MP | 4313 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5460 |
 | Christchurch | Sir Christopher Chope MP | 5816 |
 | Cities of London and Westminster | Rachel Blake MP | 5150 |
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5346 |
 | Dulwich and West Norwood | Helen Hayes MP | 1540 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5476 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3069 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3070 |
 | Ealing North | James Murray MP | 2571 |
 | Ealing Southall | Deirdre Costigan MP | 1939 |
 | Earley and Woodley | Yuan Yang MP | 3931 |
@@ -164,7 +164,7 @@
 | East Thanet | Ms Polly Billington MP | 5436 |
 | East Wiltshire | Danny Kruger MP | 6029 |
 | East Worthing and Shoreham | Tom Rutland MP | 4562 |
-| Eastbourne | Josh Babarinde MP | 5012 |
+| Eastbourne | Josh Babarinde MP | 5013 |
 | Eastleigh | Liz Jarvis MP | 4295 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2205 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4391 |
@@ -260,7 +260,7 @@
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3725 |
 | Kingston upon Hull East | Karl Turner MP | 4951 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4600 |
-| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5449 |
+| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5450 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6356 |
 | Knowsley | Anneliese Midgley MP | 3246 |
 | Lancaster and Wyre | Cat Smith MP | 5035 |
@@ -300,7 +300,7 @@
 | Manchester Central | Rt Hon Lucy Powell MP | 3962 |
 | Manchester Rusholme | Afzal Khan MP | 1210 |
 | Manchester Withington | Jeff Smith MP | 1657 |
-| Mansfield | Steve Yemm MP | 6140 |
+| Mansfield | Steve Yemm MP | 6141 |
 | Melksham and Devizes | Brian Mathew MP | 4984 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6073 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6007 |
@@ -314,11 +314,11 @@
 | Mid Sussex | Alison Bennett MP | 4672 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4182 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5665 |
-| Milton Keynes Central | Emily Darlington MP | 4901 |
+| Milton Keynes Central | Emily Darlington MP | 4902 |
 | Milton Keynes North | Chris Curtis MP | 4530 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2652 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5719 |
-| New Forest East | Rt Hon Sir Julian Lewis MP | 5364 |
+| New Forest East | Rt Hon Sir Julian Lewis MP | 5365 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5219 |
 | Newark | Rt Hon Robert Jenrick MP | 7123 |
 | Newbury | Mr Lee Dillon MP | 4867 |
@@ -390,7 +390,7 @@
 | Reigate | Rebecca Paul MP | 5515 |
 | Ribble Valley | Maya Ellis MP | 6668 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7064 |
-| Richmond Park | Sarah Olney MP | 4048 |
+| Richmond Park | Sarah Olney MP | 4049 |
 | Rochdale | Paul Waugh MP | 3915 |
 | Rochester and Strood | Lauren Edwards MP | 5974 |
 | Romford | Andrew Rosindell MP | 5758 |
@@ -425,7 +425,7 @@
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2557 |
 | Smethwick | Gurinder Singh Josan MP | 3027 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5402 |
-| South Basildon and East Thurrock | James McMurdock MP | 6539 |
+| South Basildon and East Thurrock | James McMurdock MP | 6540 |
 | South Cambridgeshire | Pippa Heylings MP | 4420 |
 | South Cotswolds | Dr Roz Savage MP | 5688 |
 | South Derbyshire | Samantha Niblett MP | 6121 |
@@ -483,14 +483,14 @@
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5635 |
 | Swindon North | Will Stone MP | 4858 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4157 |
-| Tamworth | Sarah Edwards MP | 6889 |
+| Tamworth | Sarah Edwards MP | 6890 |
 | Tatton | Rt Hon Esther McVey MP | 6471 |
 | Taunton and Wellington | Gideon Amos MP | 5141 |
 | Telford | Shaun Davies MP | 5536 |
 | Tewkesbury | Cameron Thomas MP | 4986 |
-| The Wrekin | Rt Hon Mark Pritchard MP | 6348 |
+| The Wrekin | Rt Hon Mark Pritchard MP | 6349 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7386 |
-| Thornbury and Yate | Claire Young MP | 5656 |
+| Thornbury and Yate | Claire Young MP | 5657 |
 | Thurrock | Jen Craft MP | 5075 |
 | Tipton and Wednesbury | Antonia Bance MP | 4869 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5918 |
@@ -587,7 +587,7 @@
 | Coatbridge and Bellshill | Frank McNally MP | 2565 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2826 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2648 |
-| Dumfries and Galloway | John Cooper MP | 4013 |
+| Dumfries and Galloway | John Cooper MP | 4014 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3833 |
 | Dundee Central | Chris Law MP | 2520 |
 | Dunfermline and Dollar | Graeme Downie MP | 2907 |
