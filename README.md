@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969480                                |
-| Last Updated      | 2025-01-17 06:23:00 UTC                                    |
+| Total Signatures   | 2969489                                |
+| Last Updated      | 2025-01-17 07:15:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -283,7 +283,7 @@
 | Lichfield | Dave Robertson MP | 6440 |
 | Lincoln | Mr Hamish Falconer MP | 4610 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3100 |
-| Liverpool Riverside | Kim Johnson MP | 2611 |
+| Liverpool Riverside | Kim Johnson MP | 2612 |
 | Liverpool Walton | Dan Carden MP | 3316 |
 | Liverpool Wavertree | Paula Barker MP | 2196 |
 | Liverpool West Derby | Ian Byrne MP | 3009 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5412 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6151 |
 | Peterborough | Andrew Pakes MP | 4123 |
-| Plymouth Moor View | Fred Thomas MP | 5621 |
+| Plymouth Moor View | Fred Thomas MP | 5622 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4706 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5390 |
 | Poole | Neil Duncan-Jordan MP | 5626 |
@@ -422,13 +422,13 @@
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6806 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6636 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6254 |
-| Slough | Mr Tanmanjeet Singh Dhesi MP | 2558 |
+| Slough | Mr Tanmanjeet Singh Dhesi MP | 2559 |
 | Smethwick | Gurinder Singh Josan MP | 3027 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5402 |
 | South Basildon and East Thurrock | James McMurdock MP | 6541 |
 | South Cambridgeshire | Pippa Heylings MP | 4421 |
 | South Cotswolds | Dr Roz Savage MP | 5689 |
-| South Derbyshire | Samantha Niblett MP | 6121 |
+| South Derbyshire | Samantha Niblett MP | 6122 |
 | South Devon | Caroline Voaden MP | 5285 |
 | South Dorset | Lloyd Hatton MP | 5606 |
 | South East Cornwall | Anna Gelderd MP | 6184 |
@@ -448,7 +448,7 @@
 | Southampton Test | Satvir Kaur MP | 3362 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5535 |
 | Southend West and Leigh | David Burton-Sampson MP | 5821 |
-| Southgate and Wood Green | Bambos Charalambous MP | 2570 |
+| Southgate and Wood Green | Bambos Charalambous MP | 2571 |
 | Southport | Patrick Hurley MP | 5909 |
 | Spelthorne | Lincoln Jopp MP | 5431 |
 | Spen Valley | Kim Leadbeater MP | 5328 |
@@ -481,8 +481,8 @@
 | Sussex Weald | Ms Nusrat Ghani MP | 6067 |
 | Sutton and Cheam | Luke Taylor MP | 4373 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5636 |
-| Swindon North | Will Stone MP | 4858 |
-| Swindon South | Rt Hon Heidi Alexander MP | 4158 |
+| Swindon North | Will Stone MP | 4859 |
+| Swindon South | Rt Hon Heidi Alexander MP | 4159 |
 | Tamworth | Sarah Edwards MP | 6890 |
 | Tatton | Rt Hon Esther McVey MP | 6471 |
 | Taunton and Wellington | Gideon Amos MP | 5141 |
@@ -495,7 +495,7 @@
 | Tipton and Wednesbury | Antonia Bance MP | 4869 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5918 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5907 |
-| Tooting | Dr Rosena Allin-Khan MP | 2673 |
+| Tooting | Dr Rosena Allin-Khan MP | 2674 |
 | Torbay | Steve Darling MP | 5771 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6531 |
 | Tottenham | Rt Hon David Lammy MP | 1670 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5027 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6553 |
 | Whitehaven and Workington | Josh MacAlister MP | 5794 |
-| Widnes and Halewood | Derek Twigg MP | 4196 |
+| Widnes and Halewood | Derek Twigg MP | 4197 |
 | Wigan | Rt Hon Lisa Nandy MP | 5895 |
 | Wimbledon | Mr Paul Kohler MP | 3400 |
 | Winchester | Dr Danny Chambers MP | 4889 |
