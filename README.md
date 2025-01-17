@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969588                                |
-| Last Updated      | 2025-01-17 13:20:25 UTC                                    |
+| Total Signatures   | 2969596                                |
+| Last Updated      | 2025-01-17 14:14:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -22,7 +22,7 @@
 | Barnsley North | Dan Jarvis MP | 5614 |
 | Barnsley South | Stephanie Peacock MP | 5700 |
 | Barrow and Furness | Michelle Scrogham MP | 5266 |
-| Basildon and Billericay | Rt Hon Richard Holden MP | 6835 |
+| Basildon and Billericay | Rt Hon Richard Holden MP | 6836 |
 | Basingstoke | Luke Murphy MP | 4779 |
 | Bassetlaw | Jo White MP | 6693 |
 | Bath | Wera Hobhouse MP | 2960 |
@@ -71,7 +71,7 @@
 | Brent West | Barry Gardiner MP | 2076 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2969 |
 | Brentwood and Ongar | Alex Burghart MP | 8091 |
-| Bridgwater | Sir Ashley Fox MP | 5705 |
+| Bridgwater | Sir Ashley Fox MP | 5706 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6580 |
 | Brigg and Immingham | Martin Vickers MP | 6416 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3893 |
@@ -136,7 +136,7 @@
 | Croydon West | Sarah Jones MP | 1734 |
 | Dagenham and Rainham | Margaret Mullane MP | 4184 |
 | Darlington | Lola McEvoy MP | 5418 |
-| Dartford | Jim Dickson MP | 5695 |
+| Dartford | Jim Dickson MP | 5696 |
 | Daventry | Rt Hon Stuart Andrew MP | 7245 |
 | Derby North | Catherine Atkinson MP | 4288 |
 | Derby South | Baggy Shanker MP | 3562 |
@@ -294,7 +294,7 @@
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2915 |
 | Macclesfield | Tim Roca MP | 5377 |
 | Maidenhead | Mr Joshua Reynolds MP | 5256 |
-| Maidstone and Malling | Helen Grant MP | 5808 |
+| Maidstone and Malling | Helen Grant MP | 5809 |
 | Makerfield | Josh Simons MP | 5808 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8072 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3963 |
@@ -318,7 +318,7 @@
 | Milton Keynes North | Chris Curtis MP | 4530 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2652 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5719 |
-| New Forest East | Rt Hon Sir Julian Lewis MP | 5367 |
+| New Forest East | Rt Hon Sir Julian Lewis MP | 5368 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5221 |
 | Newark | Rt Hon Robert Jenrick MP | 7124 |
 | Newbury | Mr Lee Dillon MP | 4867 |
@@ -447,7 +447,7 @@
 | Southampton Itchen | Darren Paffey MP | 4496 |
 | Southampton Test | Satvir Kaur MP | 3362 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5536 |
-| Southend West and Leigh | David Burton-Sampson MP | 5821 |
+| Southend West and Leigh | David Burton-Sampson MP | 5823 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2571 |
 | Southport | Patrick Hurley MP | 5909 |
 | Spelthorne | Lincoln Jopp MP | 5431 |
@@ -499,7 +499,7 @@
 | Torbay | Steve Darling MP | 5771 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6531 |
 | Tottenham | Rt Hon David Lammy MP | 1670 |
-| Truro and Falmouth | Jayne Kirkham MP | 4569 |
+| Truro and Falmouth | Jayne Kirkham MP | 4570 |
 | Tunbridge Wells | Mike Martin MP | 5433 |
 | Twickenham | Munira Wilson MP | 3634 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4449 |
