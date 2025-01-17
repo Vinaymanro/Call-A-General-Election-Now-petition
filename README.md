@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969579                                |
-| Last Updated      | 2025-01-17 12:32:25 UTC                                    |
+| Total Signatures   | 2969588                                |
+| Last Updated      | 2025-01-17 13:20:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3719 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6097 |
 | Blackpool South | Chris Webb MP | 5734 |
-| Blaydon and Consett | Liz Twist MP | 5209 |
+| Blaydon and Consett | Liz Twist MP | 5210 |
 | Blyth and Ashington | Ian Lavery MP | 5810 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6097 |
 | Bolsover | Natalie Fleet MP | 6476 |
@@ -188,7 +188,7 @@
 | Forest of Dean | Matt Bishop MP | 5224 |
 | Frome and East Somerset | Anna Sabine MP | 4299 |
 | Fylde | Mr Andrew Snowden MP | 6731 |
-| Gainsborough | Rt Hon Sir Edward Leigh MP | 6615 |
+| Gainsborough | Rt Hon Sir Edward Leigh MP | 6616 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4487 |
 | Gedling | Michael Payne MP | 5007 |
 | Gillingham and Rainham | Naushabah Khan MP | 5013 |
@@ -263,7 +263,7 @@
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5450 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6357 |
 | Knowsley | Anneliese Midgley MP | 3246 |
-| Lancaster and Wyre | Cat Smith MP | 5036 |
+| Lancaster and Wyre | Cat Smith MP | 5037 |
 | Leeds Central and Headingley | Alex Sobel MP | 1913 |
 | Leeds East | Richard Burgon MP | 4256 |
 | Leeds North East | Fabian Hamilton MP | 2606 |
@@ -303,7 +303,7 @@
 | Mansfield | Steve Yemm MP | 6141 |
 | Melksham and Devizes | Brian Mathew MP | 4984 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6073 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6007 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6008 |
 | Mid Bedfordshire | Blake Stephenson MP | 5807 |
 | Mid Buckinghamshire | Greg Smith MP | 5579 |
 | Mid Cheshire | Andrew Cooper MP | 5125 |
@@ -319,7 +319,7 @@
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2652 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5719 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5367 |
-| New Forest West | Rt Hon Sir Desmond Swayne MP | 5220 |
+| New Forest West | Rt Hon Sir Desmond Swayne MP | 5221 |
 | Newark | Rt Hon Robert Jenrick MP | 7124 |
 | Newbury | Mr Lee Dillon MP | 4867 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4453 |
@@ -342,7 +342,7 @@
 | North East Somerset and Hanham | Dan Norris MP | 5010 |
 | North Herefordshire | Ellie Chowns MP | 6427 |
 | North Norfolk | Steff Aquarone MP | 5389 |
-| North Northumberland | David Smith MP | 6397 |
+| North Northumberland | David Smith MP | 6398 |
 | North Shropshire | Helen Morgan MP | 6832 |
 | North Somerset | Sadik Al-Hassan MP | 4553 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6211 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5406 |
 | Redditch | Chris Bloore MP | 6028 |
 | Reigate | Rebecca Paul MP | 5516 |
-| Ribble Valley | Maya Ellis MP | 6670 |
+| Ribble Valley | Maya Ellis MP | 6672 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7064 |
 | Richmond Park | Sarah Olney MP | 4049 |
 | Rochdale | Paul Waugh MP | 3915 |
@@ -415,7 +415,7 @@
 | Sheffield Central | Abtisam Mohamed MP | 1418 |
 | Sheffield Hallam | Olivia Blake MP | 3374 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3502 |
-| Sheffield South East | Mr Clive Betts MP | 4699 |
+| Sheffield South East | Mr Clive Betts MP | 4700 |
 | Sherwood Forest | Michelle Welsh MP | 6616 |
 | Shipley | Anna Dixon MP | 4856 |
 | Shrewsbury | Julia Buckley MP | 5291 |
