@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969477                                |
-| Last Updated      | 2025-01-17 05:15:46 UTC                                    |
+| Total Signatures   | 2969480                                |
+| Last Updated      | 2025-01-17 06:23:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -411,11 +411,11 @@
 | Sefton Central | Bill Esterson MP | 3977 |
 | Selby | Keir Mather MP | 6324 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6631 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3381 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3382 |
 | Sheffield Central | Abtisam Mohamed MP | 1418 |
 | Sheffield Hallam | Olivia Blake MP | 3374 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3502 |
-| Sheffield South East | Mr Clive Betts MP | 4697 |
+| Sheffield South East | Mr Clive Betts MP | 4698 |
 | Sherwood Forest | Michelle Welsh MP | 6616 |
 | Shipley | Anna Dixon MP | 4856 |
 | Shrewsbury | Julia Buckley MP | 5291 |
@@ -583,7 +583,7 @@
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3441 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3377 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 2987 |
-| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4042 |
+| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4043 |
 | Coatbridge and Bellshill | Frank McNally MP | 2565 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2826 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2648 |
