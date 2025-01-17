@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969465                                |
-| Last Updated      | 2025-01-17 01:15:58 UTC                                    |
+| Total Signatures   | 2969471                                |
+| Last Updated      | 2025-01-17 02:41:22 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -16,7 +16,7 @@
 | Ashfield | Lee Anderson MP | 6116 |
 | Ashford | Sojan Joseph MP | 5858 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4532 |
-| Aylesbury | Laura Kyrke-Smith MP | 4836 |
+| Aylesbury | Laura Kyrke-Smith MP | 4837 |
 | Banbury | Sean Woodcock MP | 5404 |
 | Barking | Nesil Caliskan MP | 2609 |
 | Barnsley North | Dan Jarvis MP | 5614 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2611 |
 | Liverpool Walton | Dan Carden MP | 3316 |
 | Liverpool Wavertree | Paula Barker MP | 2196 |
-| Liverpool West Derby | Ian Byrne MP | 3008 |
+| Liverpool West Derby | Ian Byrne MP | 3009 |
 | Loughborough | Dr Jeevun Sandher MP | 4448 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7741 |
 | Lowestoft | Jess Asato MP | 5288 |
@@ -347,7 +347,7 @@
 | North Somerset | Sadik Al-Hassan MP | 4553 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6211 |
 | North West Cambridgeshire | Sam Carling MP | 5970 |
-| North West Essex | Rt Hon Kemi Badenoch MP | 7099 |
+| North West Essex | Rt Hon Kemi Badenoch MP | 7100 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5693 |
 | North West Leicestershire | Amanda Hack MP | 6661 |
 | North West Norfolk | James Wild MP | 5705 |
@@ -443,7 +443,7 @@
 | South West Devon | Rebecca Smith MP | 5936 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5174 |
 | South West Norfolk | Terry Jermy MP | 6481 |
-| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5166 |
+| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5167 |
 | Southampton Itchen | Darren Paffey MP | 4496 |
 | Southampton Test | Satvir Kaur MP | 3362 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5535 |
@@ -615,7 +615,7 @@
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3904 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2704 |
 | North East Fife | Wendy Chamberlain MP | 2878 |
-| Paisley and Renfrewshire North | Alison Taylor MP | 2818 |
+| Paisley and Renfrewshire North | Alison Taylor MP | 2819 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2616 |
 | Perth and Kinross-shire | Pete Wishart MP | 3478 |
 | Rutherglen | Michael Shanks MP | 2540 |
@@ -651,7 +651,7 @@
 | Neath and Swansea East | Carolyn Harris MP | 4391 |
 | Newport East | Jessica Morden MP | 3961 |
 | Newport West and Islwyn | Ruth Jones MP | 4005 |
-| Pontypridd | Alex Davies-Jones MP | 3852 |
+| Pontypridd | Alex Davies-Jones MP | 3853 |
 | Rhondda and Ogmore | Chris Bryant MP | 3988 |
 | Swansea West | Torsten Bell MP | 3617 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4035 |
