@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969475                                |
-| Last Updated      | 2025-01-17 04:20:23 UTC                                    |
+| Total Signatures   | 2969477                                |
+| Last Updated      | 2025-01-17 05:15:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -166,7 +166,7 @@
 | East Worthing and Shoreham | Tom Rutland MP | 4564 |
 | Eastbourne | Josh Babarinde MP | 5014 |
 | Eastleigh | Liz Jarvis MP | 4295 |
-| Edmonton and Winchmore Hill | Kate Osamor MP | 2205 |
+| Edmonton and Winchmore Hill | Kate Osamor MP | 2206 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4393 |
 | Eltham and Chislehurst | Clive Efford MP | 4673 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5132 |
@@ -393,7 +393,7 @@
 | Richmond Park | Sarah Olney MP | 4049 |
 | Rochdale | Paul Waugh MP | 3915 |
 | Rochester and Strood | Lauren Edwards MP | 5974 |
-| Romford | Andrew Rosindell MP | 5758 |
+| Romford | Andrew Rosindell MP | 5759 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5044 |
 | Rossendale and Darwen | Andy MacNae MP | 6434 |
 | Rother Valley | Jake Richards MP | 5808 |
