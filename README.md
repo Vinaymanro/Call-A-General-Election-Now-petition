@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969471                                |
-| Last Updated      | 2025-01-17 03:18:41 UTC                                    |
+| Total Signatures   | 2969475                                |
+| Last Updated      | 2025-01-17 04:20:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -224,7 +224,7 @@
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2568 |
 | Hazel Grove | Lisa Smart MP | 5062 |
 | Hemel Hempstead | David Taylor MP | 5043 |
-| Hendon | David Pinto-Duschinsky MP | 3773 |
+| Hendon | David Pinto-Duschinsky MP | 3774 |
 | Henley and Thame | Freddie van Mierlo MP | 5370 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5244 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6254 |
@@ -355,7 +355,7 @@
 | Northampton South | Mike Reader MP | 4919 |
 | Norwich North | Alice Macdonald MP | 4364 |
 | Norwich South | Clive Lewis MP | 3357 |
-| Nottingham East | Nadia Whittome MP | 2448 |
+| Nottingham East | Nadia Whittome MP | 2449 |
 | Nottingham North and Kimberley | Alex Norris MP | 3689 |
 | Nottingham South | Lilian Greenwood MP | 3033 |
 | Nuneaton | Jodie Gosling MP | 5496 |
@@ -436,9 +436,9 @@
 | South Leicestershire | Alberto Costa MP | 6933 |
 | South Norfolk | Ben Goldsborough MP | 5407 |
 | South Northamptonshire | Sarah Bool MP | 6623 |
-| South Ribble | Mr Paul Foster MP | 5848 |
+| South Ribble | Mr Paul Foster MP | 5849 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4692 |
-| South Shropshire | Stuart Anderson MP | 7290 |
+| South Shropshire | Stuart Anderson MP | 7291 |
 | South Suffolk | James Cartlidge MP | 6106 |
 | South West Devon | Rebecca Smith MP | 5936 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5174 |
