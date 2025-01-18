@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969735                                |
-| Last Updated      | 2025-01-18 01:14:15 UTC                                    |
+| Total Signatures   | 2969738                                |
+| Last Updated      | 2025-01-18 02:38:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -170,7 +170,7 @@
 | Ellesmere Port and Bromborough | Justin Madders MP | 4394 |
 | Eltham and Chislehurst | Clive Efford MP | 4673 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5132 |
-| Enfield North | Feryal Clark MP | 2868 |
+| Enfield North | Feryal Clark MP | 2869 |
 | Epping Forest | Dr Neil Hudson MP | 6542 |
 | Epsom and Ewell | Helen Maguire MP | 4900 |
 | Erewash | Adam Thompson MP | 5776 |
@@ -285,7 +285,7 @@
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3100 |
 | Liverpool Riverside | Kim Johnson MP | 2613 |
 | Liverpool Walton | Dan Carden MP | 3317 |
-| Liverpool Wavertree | Paula Barker MP | 2196 |
+| Liverpool Wavertree | Paula Barker MP | 2197 |
 | Liverpool West Derby | Ian Byrne MP | 3009 |
 | Loughborough | Dr Jeevun Sandher MP | 4449 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7741 |
@@ -329,7 +329,7 @@
 | Newton Abbot | Martin Wrigley MP | 5073 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5488 |
 | Normanton and Hemsworth | Jon Trickett MP | 5437 |
-| North Bedfordshire | Richard Fuller MP | 6064 |
+| North Bedfordshire | Richard Fuller MP | 6065 |
 | North Cornwall | Ben Maguire MP | 6368 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6020 |
 | North Devon | Ian Roome MP | 5808 |
