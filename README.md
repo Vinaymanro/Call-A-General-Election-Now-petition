@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969741                                |
-| Last Updated      | 2025-01-18 04:18:50 UTC                                    |
+| Total Signatures   | 2969744                                |
+| Last Updated      | 2025-01-18 05:14:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -348,7 +348,7 @@
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6211 |
 | North West Cambridgeshire | Sam Carling MP | 5970 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7102 |
-| North West Hampshire | Rt Hon Kit Malthouse MP | 5693 |
+| North West Hampshire | Rt Hon Kit Malthouse MP | 5694 |
 | North West Leicestershire | Amanda Hack MP | 6661 |
 | North West Norfolk | James Wild MP | 5707 |
 | Northampton North | Lucy Rigby MP | 4234 |
@@ -468,7 +468,7 @@
 | Stoke-on-Trent Central | Gareth Snell MP | 4665 |
 | Stoke-on-Trent North | David Williams MP | 5404 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5681 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6484 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6485 |
 | Stourbridge | Cat Eccles MP | 5116 |
 | Stratford and Bow | Uma Kumaran MP | 1749 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6677 |
@@ -524,7 +524,7 @@
 | West Ham and Beckton | James Asser MP | 2130 |
 | West Lancashire | Ashley Dalton MP | 5021 |
 | West Suffolk | Nick Timothy MP | 5978 |
-| West Worcestershire | Dame Harriett Baldwin MP | 6221 |
+| West Worcestershire | Dame Harriett Baldwin MP | 6222 |
 | Westmorland and Lonsdale | Tim Farron MP | 5172 |
 | Weston-super-Mare | Dan Aldridge MP | 5028 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6553 |
