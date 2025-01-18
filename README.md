@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969857                                |
-| Last Updated      | 2025-01-18 14:13:52 UTC                                    |
+| Total Signatures   | 2969867                                |
+| Last Updated      | 2025-01-18 15:15:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -88,7 +88,7 @@
 | Broxtowe | Juliet Campbell MP | 4686 |
 | Buckingham and Bletchley | Callum Anderson MP | 5231 |
 | Burnley | Oliver Ryan MP | 5680 |
-| Burton and Uttoxeter | Jacob Collier MP | 5752 |
+| Burton and Uttoxeter | Jacob Collier MP | 5753 |
 | Bury North | Mr James Frith MP | 4929 |
 | Bury South | Christian Wakeford MP | 5385 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5415 |
@@ -134,7 +134,7 @@
 | Croydon East | Natasha Irons MP | 3312 |
 | Croydon South | Rt Hon Chris Philp MP | 3939 |
 | Croydon West | Sarah Jones MP | 1734 |
-| Dagenham and Rainham | Margaret Mullane MP | 4186 |
+| Dagenham and Rainham | Margaret Mullane MP | 4187 |
 | Darlington | Lola McEvoy MP | 5419 |
 | Dartford | Jim Dickson MP | 5696 |
 | Daventry | Rt Hon Stuart Andrew MP | 7245 |
@@ -169,7 +169,7 @@
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2207 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4397 |
 | Eltham and Chislehurst | Clive Efford MP | 4673 |
-| Ely and East Cambridgeshire | Charlotte Cane MP | 5132 |
+| Ely and East Cambridgeshire | Charlotte Cane MP | 5133 |
 | Enfield North | Feryal Clark MP | 2869 |
 | Epping Forest | Dr Neil Hudson MP | 6542 |
 | Epsom and Ewell | Helen Maguire MP | 4900 |
@@ -179,10 +179,10 @@
 | Exeter | Steve Race MP | 3152 |
 | Exmouth and Exeter East | David Reed MP | 5160 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6079 |
-| Farnham and Bordon | Gregory Stafford MP | 5154 |
+| Farnham and Bordon | Gregory Stafford MP | 5155 |
 | Faversham and Mid Kent | Helen Whately MP | 6185 |
 | Feltham and Heston | Seema Malhotra MP | 2888 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4477 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4478 |
 | Finchley and Golders Green | Sarah Sackman MP | 4260 |
 | Folkestone and Hythe | Tony Vaughan MP | 5369 |
 | Forest of Dean | Matt Bishop MP | 5224 |
@@ -287,7 +287,7 @@
 | Liverpool Walton | Dan Carden MP | 3317 |
 | Liverpool Wavertree | Paula Barker MP | 2197 |
 | Liverpool West Derby | Ian Byrne MP | 3009 |
-| Loughborough | Dr Jeevun Sandher MP | 4449 |
+| Loughborough | Dr Jeevun Sandher MP | 4450 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7742 |
 | Lowestoft | Jess Asato MP | 5288 |
 | Luton North | Sarah Owen MP | 2447 |
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5377 |
 | Maidenhead | Mr Joshua Reynolds MP | 5257 |
 | Maidstone and Malling | Helen Grant MP | 5809 |
-| Makerfield | Josh Simons MP | 5808 |
+| Makerfield | Josh Simons MP | 5809 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8072 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3963 |
 | Manchester Rusholme | Afzal Khan MP | 1210 |
@@ -367,7 +367,7 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2132 |
 | Oxford West and Abingdon | Layla Moran MP | 2914 |
 | Peckham | Miatta Fahnbulleh MP | 1349 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6145 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6146 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5412 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6151 |
 | Peterborough | Andrew Pakes MP | 4124 |
@@ -548,7 +548,7 @@
 | Wycombe | Emma Reynolds MP | 3590 |
 | Wyre Forest | Mark Garnier MP | 6443 |
 | Wythenshawe and Sale East | Mike Kane MP | 4549 |
-| Yeovil | Adam Dance MP | 5552 |
+| Yeovil | Adam Dance MP | 5553 |
 | York Central | Rachael Maskell MP | 3244 |
 | York Outer | Mr Luke Charters MP | 4320 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2940 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5237 |
 | Bridgend | Chris Elmore MP | 4198 |
 | Caerfyrddin | Ann Davies MP | 5177 |
-| Caerphilly | Chris Evans MP | 3942 |
+| Caerphilly | Chris Evans MP | 3943 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2859 |
 | Cardiff North | Anna McMorrin MP | 3266 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2774 |
