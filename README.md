@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969744                                |
-| Last Updated      | 2025-01-18 05:14:35 UTC                                    |
+| Total Signatures   | 2969745                                |
+| Last Updated      | 2025-01-18 06:21:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -167,7 +167,7 @@
 | Eastbourne | Josh Babarinde MP | 5014 |
 | Eastleigh | Liz Jarvis MP | 4295 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2207 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4394 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4395 |
 | Eltham and Chislehurst | Clive Efford MP | 4673 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5132 |
 | Enfield North | Feryal Clark MP | 2869 |
