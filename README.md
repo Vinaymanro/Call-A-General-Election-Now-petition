@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969738                                |
-| Last Updated      | 2025-01-18 02:38:19 UTC                                    |
+| Total Signatures   | 2969739                                |
+| Last Updated      | 2025-01-18 03:17:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -309,7 +309,7 @@
 | Mid Cheshire | Andrew Cooper MP | 5125 |
 | Mid Derbyshire | Jonathan Davies MP | 5201 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5861 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5547 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5548 |
 | Mid Norfolk | George Freeman MP | 6231 |
 | Mid Sussex | Alison Bennett MP | 4673 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4182 |
