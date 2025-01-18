@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969745                                |
-| Last Updated      | 2025-01-18 06:21:11 UTC                                    |
+| Total Signatures   | 2969751                                |
+| Last Updated      | 2025-01-18 07:14:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -22,7 +22,7 @@
 | Barnsley North | Dan Jarvis MP | 5615 |
 | Barnsley South | Stephanie Peacock MP | 5700 |
 | Barrow and Furness | Michelle Scrogham MP | 5267 |
-| Basildon and Billericay | Rt Hon Richard Holden MP | 6837 |
+| Basildon and Billericay | Rt Hon Richard Holden MP | 6838 |
 | Basingstoke | Luke Murphy MP | 4779 |
 | Bassetlaw | Jo White MP | 6693 |
 | Bath | Wera Hobhouse MP | 2960 |
@@ -340,7 +340,7 @@
 | North East Hampshire | Alex Brewer MP | 5933 |
 | North East Hertfordshire | Chris Hinchliff MP | 5810 |
 | North East Somerset and Hanham | Dan Norris MP | 5011 |
-| North Herefordshire | Ellie Chowns MP | 6427 |
+| North Herefordshire | Ellie Chowns MP | 6428 |
 | North Norfolk | Steff Aquarone MP | 5390 |
 | North Northumberland | David Smith MP | 6398 |
 | North Shropshire | Helen Morgan MP | 6832 |
@@ -359,7 +359,7 @@
 | Nottingham North and Kimberley | Alex Norris MP | 3689 |
 | Nottingham South | Lilian Greenwood MP | 3034 |
 | Nuneaton | Jodie Gosling MP | 5496 |
-| Old Bexley and Sidcup | Mr Louie French MP | 6185 |
+| Old Bexley and Sidcup | Mr Louie French MP | 6186 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5182 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4043 |
 | Orpington | Gareth Bacon MP | 5283 |
@@ -390,7 +390,7 @@
 | Reigate | Rebecca Paul MP | 5516 |
 | Ribble Valley | Maya Ellis MP | 6672 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7064 |
-| Richmond Park | Sarah Olney MP | 4049 |
+| Richmond Park | Sarah Olney MP | 4050 |
 | Rochdale | Paul Waugh MP | 3915 |
 | Rochester and Strood | Lauren Edwards MP | 5976 |
 | Romford | Andrew Rosindell MP | 5760 |
@@ -487,7 +487,7 @@
 | Tatton | Rt Hon Esther McVey MP | 6471 |
 | Taunton and Wellington | Gideon Amos MP | 5141 |
 | Telford | Shaun Davies MP | 5536 |
-| Tewkesbury | Cameron Thomas MP | 4986 |
+| Tewkesbury | Cameron Thomas MP | 4987 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6350 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7386 |
 | Thornbury and Yate | Claire Young MP | 5657 |
@@ -645,7 +645,7 @@
 | Gower | Tonia Antoniazzi MP | 4715 |
 | Llanelli | Dame Nia Griffith MP | 5206 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3660 |
-| Mid and South Pembrokeshire | Henry Tufnell MP | 5449 |
+| Mid and South Pembrokeshire | Henry Tufnell MP | 5450 |
 | Monmouthshire | Catherine Fookes MP | 4708 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 5999 |
 | Neath and Swansea East | Carolyn Harris MP | 4393 |
