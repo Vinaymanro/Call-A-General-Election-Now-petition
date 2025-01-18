@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969920                                |
-| Last Updated      | 2025-01-18 19:12:06 UTC                                    |
+| Total Signatures   | 2969931                                |
+| Last Updated      | 2025-01-18 20:15:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -27,7 +27,7 @@
 | Bassetlaw | Jo White MP | 6693 |
 | Bath | Wera Hobhouse MP | 2960 |
 | Battersea | Marsha De Cordova MP | 3602 |
-| Beaconsfield | Joy Morrissey MP | 5185 |
+| Beaconsfield | Joy Morrissey MP | 5187 |
 | Beckenham and Penge | Liam Conlon MP | 3820 |
 | Bedford | Mohammad Yasin MP | 3203 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2683 |
@@ -100,7 +100,7 @@
 | Carlisle | Ms Julie Minns MP | 6489 |
 | Carshalton and Wallington | Bobby Dean MP | 4231 |
 | Castle Point | Rebecca Harris MP | 7482 |
-| Central Devon | Rt Hon Mel Stride MP | 5762 |
+| Central Devon | Rt Hon Mel Stride MP | 5763 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5262 |
 | Chatham and Aylesford | Tristan Osborne MP | 5573 |
 | Cheadle | Tom Morrison MP | 4640 |
@@ -145,7 +145,7 @@
 | Didcot and Wantage | Olly Glover MP | 4839 |
 | Doncaster Central | Sally Jameson MP | 4894 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6039 |
-| Doncaster North | Rt Hon Ed Miliband MP | 5506 |
+| Doncaster North | Rt Hon Ed Miliband MP | 5507 |
 | Dorking and Horley | Chris Coghlan MP | 5530 |
 | Dover and Deal | Mike Tapp MP | 5882 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6523 |
@@ -190,9 +190,9 @@
 | Fylde | Mr Andrew Snowden MP | 6735 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6617 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4487 |
-| Gedling | Michael Payne MP | 5007 |
+| Gedling | Michael Payne MP | 5008 |
 | Gillingham and Rainham | Naushabah Khan MP | 5014 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5553 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5554 |
 | Gloucester | Alex McIntyre MP | 4491 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5211 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6920 |
@@ -368,7 +368,7 @@
 | Oxford West and Abingdon | Layla Moran MP | 2914 |
 | Peckham | Miatta Fahnbulleh MP | 1349 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6146 |
-| Penistone and Stocksbridge | Dr Marie Tidball MP | 5412 |
+| Penistone and Stocksbridge | Dr Marie Tidball MP | 5413 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6151 |
 | Peterborough | Andrew Pakes MP | 4124 |
 | Plymouth Moor View | Fred Thomas MP | 5622 |
@@ -524,7 +524,7 @@
 | West Ham and Beckton | James Asser MP | 2130 |
 | West Lancashire | Ashley Dalton MP | 5021 |
 | West Suffolk | Nick Timothy MP | 5979 |
-| West Worcestershire | Dame Harriett Baldwin MP | 6222 |
+| West Worcestershire | Dame Harriett Baldwin MP | 6223 |
 | Westmorland and Lonsdale | Tim Farron MP | 5172 |
 | Weston-super-Mare | Dan Aldridge MP | 5030 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6553 |
@@ -552,7 +552,7 @@
 | York Central | Rachael Maskell MP | 3244 |
 | York Outer | Mr Luke Charters MP | 4320 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2940 |
-| Belfast North | John Finucane MP | 2463 |
+| Belfast North | John Finucane MP | 2464 |
 | Belfast South and Mid Down | Claire Hanna MP | 1932 |
 | Belfast West | Paul Maskey MP | 1395 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3571 |
@@ -560,7 +560,7 @@
 | Fermanagh and South Tyrone | Pat Cullen MP | 2259 |
 | Foyle | Colum Eastwood MP | 1055 |
 | Lagan Valley | Sorcha Eastwood MP | 3502 |
-| Mid Ulster | Mr Cathal Mallaghan MP | 1883 |
+| Mid Ulster | Mr Cathal Mallaghan MP | 1884 |
 | Newry and Armagh | Dáire Hughes MP | 2053 |
 | North Antrim | Jim Allister KC MP | 3075 |
 | North Down | Alex Easton MP | 3323 |
@@ -657,4 +657,4 @@
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4037 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4579 |
 | Wrexham | Andrew Ranger MP | 4752 |
-| Ynys Môn | Llinos Medi MP | 3702 |
+| Ynys Môn | Llinos Medi MP | 3703 |
