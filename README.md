@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969739                                |
-| Last Updated      | 2025-01-18 03:17:03 UTC                                    |
+| Total Signatures   | 2969741                                |
+| Last Updated      | 2025-01-18 04:18:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -71,7 +71,7 @@
 | Brent West | Barry Gardiner MP | 2076 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2969 |
 | Brentwood and Ongar | Alex Burghart MP | 8091 |
-| Bridgwater | Sir Ashley Fox MP | 5707 |
+| Bridgwater | Sir Ashley Fox MP | 5708 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6580 |
 | Brigg and Immingham | Martin Vickers MP | 6416 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3893 |
@@ -178,7 +178,7 @@
 | Esher and Walton | Monica Harding MP | 4800 |
 | Exeter | Steve Race MP | 3152 |
 | Exmouth and Exeter East | David Reed MP | 5160 |
-| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6077 |
+| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6078 |
 | Farnham and Bordon | Gregory Stafford MP | 5154 |
 | Faversham and Mid Kent | Helen Whately MP | 6185 |
 | Feltham and Heston | Seema Malhotra MP | 2888 |
