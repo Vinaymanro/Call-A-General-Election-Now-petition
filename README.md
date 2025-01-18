@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969931                                |
-| Last Updated      | 2025-01-18 20:15:54 UTC                                    |
+| Total Signatures   | 2969940                                |
+| Last Updated      | 2025-01-18 21:14:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -40,7 +40,7 @@
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2931 |
 | Birmingham Erdington | Paulette Hamilton MP | 4196 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1564 |
-| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3444 |
+| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3445 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1882 |
 | Birmingham Northfield | Laurence Turner MP | 4850 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1699 |
@@ -190,7 +190,7 @@
 | Fylde | Mr Andrew Snowden MP | 6735 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6617 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4487 |
-| Gedling | Michael Payne MP | 5008 |
+| Gedling | Michael Payne MP | 5009 |
 | Gillingham and Rainham | Naushabah Khan MP | 5014 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5554 |
 | Gloucester | Alex McIntyre MP | 4491 |
@@ -330,7 +330,7 @@
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5488 |
 | Normanton and Hemsworth | Jon Trickett MP | 5437 |
 | North Bedfordshire | Richard Fuller MP | 6065 |
-| North Cornwall | Ben Maguire MP | 6368 |
+| North Cornwall | Ben Maguire MP | 6369 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6020 |
 | North Devon | Ian Roome MP | 5808 |
 | North Dorset | Simon Hoare MP | 6280 |
@@ -393,17 +393,17 @@
 | Richmond Park | Sarah Olney MP | 4050 |
 | Rochdale | Paul Waugh MP | 3915 |
 | Rochester and Strood | Lauren Edwards MP | 5976 |
-| Romford | Andrew Rosindell MP | 5760 |
+| Romford | Andrew Rosindell MP | 5761 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5044 |
 | Rossendale and Darwen | Andy MacNae MP | 6435 |
 | Rother Valley | Jake Richards MP | 5808 |
-| Rotherham | Sarah Champion MP | 4893 |
+| Rotherham | Sarah Champion MP | 4894 |
 | Rugby | John Slinger MP | 5356 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4087 |
 | Runcorn and Helsby | Mike Amesbury MP | 4984 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5808 |
 | Rushcliffe | James Naish MP | 5043 |
-| Rutland and Stamford | Alicia Kearns MP | 6232 |
+| Rutland and Stamford | Alicia Kearns MP | 6233 |
 | Salford | Rebecca Long Bailey MP | 4618 |
 | Salisbury | Rt Hon John Glen MP | 4719 |
 | Scarborough and Whitby | Alison Hume MP | 5947 |
@@ -519,7 +519,7 @@
 | Wellingborough and Rushden | Gen Kitchen MP | 5043 |
 | Wells and Mendip Hills | Tessa Munt MP | 5215 |
 | Welwyn Hatfield | Andrew Lewin MP | 5021 |
-| West Bromwich | Sarah Coombes MP | 3743 |
+| West Bromwich | Sarah Coombes MP | 3744 |
 | West Dorset | Edward Morello MP | 5423 |
 | West Ham and Beckton | James Asser MP | 2130 |
 | West Lancashire | Ashley Dalton MP | 5021 |
@@ -557,7 +557,7 @@
 | Belfast West | Paul Maskey MP | 1395 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3571 |
 | East Londonderry | Mr Gregory Campbell MP | 2508 |
-| Fermanagh and South Tyrone | Pat Cullen MP | 2259 |
+| Fermanagh and South Tyrone | Pat Cullen MP | 2260 |
 | Foyle | Colum Eastwood MP | 1055 |
 | Lagan Valley | Sorcha Eastwood MP | 3502 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1884 |
@@ -590,7 +590,7 @@
 | Dumfries and Galloway | John Cooper MP | 4016 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3834 |
 | Dundee Central | Chris Law MP | 2520 |
-| Dunfermline and Dollar | Graeme Downie MP | 2907 |
+| Dunfermline and Dollar | Graeme Downie MP | 2908 |
 | East Kilbride and Strathaven | Joani Reid MP | 3122 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2065 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2392 |
