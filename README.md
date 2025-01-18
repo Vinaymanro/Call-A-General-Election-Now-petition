@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969896                                |
-| Last Updated      | 2025-01-18 17:12:37 UTC                                    |
+| Total Signatures   | 2969906                                |
+| Last Updated      | 2025-01-18 18:20:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -30,7 +30,7 @@
 | Beaconsfield | Joy Morrissey MP | 5185 |
 | Beckenham and Penge | Liam Conlon MP | 3820 |
 | Bedford | Mohammad Yasin MP | 3203 |
-| Bermondsey and Old Southwark | Neil Coyle MP | 2682 |
+| Bermondsey and Old Southwark | Neil Coyle MP | 2683 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1709 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6111 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6091 |
@@ -143,7 +143,7 @@
 | Derbyshire Dales | John Whitby MP | 6750 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3145 |
 | Didcot and Wantage | Olly Glover MP | 4839 |
-| Doncaster Central | Sally Jameson MP | 4893 |
+| Doncaster Central | Sally Jameson MP | 4894 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6039 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5506 |
 | Dorking and Horley | Chris Coghlan MP | 5530 |
@@ -168,7 +168,7 @@
 | Eastleigh | Liz Jarvis MP | 4295 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2207 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4397 |
-| Eltham and Chislehurst | Clive Efford MP | 4673 |
+| Eltham and Chislehurst | Clive Efford MP | 4674 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5133 |
 | Enfield North | Feryal Clark MP | 2869 |
 | Epping Forest | Dr Neil Hudson MP | 6542 |
@@ -258,7 +258,7 @@
 | Kensington and Bayswater | Joe Powell MP | 4379 |
 | Kettering | Rosie Wrighting MP | 5865 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3725 |
-| Kingston upon Hull East | Karl Turner MP | 4952 |
+| Kingston upon Hull East | Karl Turner MP | 4953 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4602 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5450 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6359 |
@@ -316,7 +316,7 @@
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5665 |
 | Milton Keynes Central | Emily Darlington MP | 4902 |
 | Milton Keynes North | Chris Curtis MP | 4532 |
-| Mitcham and Morden | Dame Siobhain McDonagh MP | 2652 |
+| Mitcham and Morden | Dame Siobhain McDonagh MP | 2653 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5720 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5368 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5222 |
@@ -386,7 +386,7 @@
 | Reading Central | Matt Rodda MP | 3014 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4411 |
 | Redcar | Anna Turley MP | 5406 |
-| Redditch | Chris Bloore MP | 6029 |
+| Redditch | Chris Bloore MP | 6030 |
 | Reigate | Rebecca Paul MP | 5516 |
 | Ribble Valley | Maya Ellis MP | 6673 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7066 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 5947 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5042 |
 | Sefton Central | Bill Esterson MP | 3977 |
-| Selby | Keir Mather MP | 6328 |
+| Selby | Keir Mather MP | 6329 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6631 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3382 |
 | Sheffield Central | Abtisam Mohamed MP | 1418 |
@@ -439,7 +439,7 @@
 | South Ribble | Mr Paul Foster MP | 5849 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4692 |
 | South Shropshire | Stuart Anderson MP | 7291 |
-| South Suffolk | James Cartlidge MP | 6106 |
+| South Suffolk | James Cartlidge MP | 6107 |
 | South West Devon | Rebecca Smith MP | 5938 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5175 |
 | South West Norfolk | Terry Jermy MP | 6483 |
@@ -545,7 +545,7 @@
 | Worcester | Tom Collins MP | 4291 |
 | Worsley and Eccles | Michael Wheeler MP | 5394 |
 | Worthing West | Dr Beccy Cooper MP | 5211 |
-| Wycombe | Emma Reynolds MP | 3590 |
+| Wycombe | Emma Reynolds MP | 3592 |
 | Wyre Forest | Mark Garnier MP | 6443 |
 | Wythenshawe and Sale East | Mike Kane MP | 4549 |
 | Yeovil | Adam Dance MP | 5553 |
