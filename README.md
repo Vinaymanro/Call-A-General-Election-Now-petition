@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969828                                |
-| Last Updated      | 2025-01-18 12:29:40 UTC                                    |
+| Total Signatures   | 2969843                                |
+| Last Updated      | 2025-01-18 13:17:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -14,7 +14,7 @@
 | Amber Valley | Linsey Farnsworth MP | 6040 |
 | Arundel and South Downs | Andrew Griffith MP | 6920 |
 | Ashfield | Lee Anderson MP | 6116 |
-| Ashford | Sojan Joseph MP | 5858 |
+| Ashford | Sojan Joseph MP | 5859 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4535 |
 | Aylesbury | Laura Kyrke-Smith MP | 4837 |
 | Banbury | Sean Woodcock MP | 5404 |
@@ -102,14 +102,14 @@
 | Castle Point | Rebecca Harris MP | 7482 |
 | Central Devon | Rt Hon Mel Stride MP | 5762 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5262 |
-| Chatham and Aylesford | Tristan Osborne MP | 5572 |
+| Chatham and Aylesford | Tristan Osborne MP | 5573 |
 | Cheadle | Tom Morrison MP | 4640 |
 | Chelmsford | Marie Goldman MP | 5228 |
 | Chelsea and Fulham | Ben Coleman MP | 5463 |
 | Cheltenham | Max Wilkinson MP | 4003 |
 | Chesham and Amersham | Sarah Green MP | 4922 |
 | Chester North and Neston | Samantha Dixon MP | 4022 |
-| Chester South and Eddisbury | Aphra Brandreth MP | 6362 |
+| Chester South and Eddisbury | Aphra Brandreth MP | 6363 |
 | Chesterfield | Mr Toby Perkins MP | 4828 |
 | Chichester | Jess Brown-Fuller MP | 5875 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4140 |
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5818 |
 | Cities of London and Westminster | Rachel Blake MP | 5151 |
 | City of Durham | Mary Kelly Foy MP | 4214 |
-| Clacton | Nigel Farage MP | 8031 |
+| Clacton | Nigel Farage MP | 8032 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1724 |
 | Colchester | Pam Cox MP | 4955 |
 | Colne Valley | Paul Davies MP | 4986 |
@@ -167,13 +167,13 @@
 | Eastbourne | Josh Babarinde MP | 5014 |
 | Eastleigh | Liz Jarvis MP | 4295 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2207 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4396 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4397 |
 | Eltham and Chislehurst | Clive Efford MP | 4673 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5132 |
 | Enfield North | Feryal Clark MP | 2869 |
 | Epping Forest | Dr Neil Hudson MP | 6542 |
 | Epsom and Ewell | Helen Maguire MP | 4900 |
-| Erewash | Adam Thompson MP | 5776 |
+| Erewash | Adam Thompson MP | 5777 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3202 |
 | Esher and Walton | Monica Harding MP | 4801 |
 | Exeter | Steve Race MP | 3152 |
@@ -202,7 +202,7 @@
 | Gravesham | Dr Lauren Sullivan MP | 5091 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5721 |
 | Great Yarmouth | Rupert Lowe MP | 6522 |
-| Greenwich and Woolwich | Matthew Pennycook MP | 2585 |
+| Greenwich and Woolwich | Matthew Pennycook MP | 2586 |
 | Guildford | Zöe Franklin MP | 3969 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2056 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1505 |
@@ -280,8 +280,8 @@
 | Lewisham North | Vicky Foxcroft MP | 1641 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1574 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1866 |
-| Lichfield | Dave Robertson MP | 6441 |
-| Lincoln | Mr Hamish Falconer MP | 4610 |
+| Lichfield | Dave Robertson MP | 6442 |
+| Lincoln | Mr Hamish Falconer MP | 4611 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3100 |
 | Liverpool Riverside | Kim Johnson MP | 2613 |
 | Liverpool Walton | Dan Carden MP | 3317 |
@@ -293,14 +293,14 @@
 | Luton North | Sarah Owen MP | 2447 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2915 |
 | Macclesfield | Tim Roca MP | 5377 |
-| Maidenhead | Mr Joshua Reynolds MP | 5256 |
+| Maidenhead | Mr Joshua Reynolds MP | 5257 |
 | Maidstone and Malling | Helen Grant MP | 5809 |
 | Makerfield | Josh Simons MP | 5808 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8072 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3963 |
 | Manchester Rusholme | Afzal Khan MP | 1210 |
 | Manchester Withington | Jeff Smith MP | 1657 |
-| Mansfield | Steve Yemm MP | 6141 |
+| Mansfield | Steve Yemm MP | 6142 |
 | Melksham and Devizes | Brian Mathew MP | 4985 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6073 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6008 |
@@ -381,8 +381,8 @@
 | Preston | Sir Mark Hendrick MP | 3760 |
 | Putney | Fleur Anderson MP | 3491 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2136 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5064 |
-| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7312 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5065 |
+| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7313 |
 | Reading Central | Matt Rodda MP | 3014 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4411 |
 | Redcar | Anna Turley MP | 5406 |
@@ -403,7 +403,7 @@
 | Runcorn and Helsby | Mike Amesbury MP | 4984 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5808 |
 | Rushcliffe | James Naish MP | 5043 |
-| Rutland and Stamford | Alicia Kearns MP | 6230 |
+| Rutland and Stamford | Alicia Kearns MP | 6231 |
 | Salford | Rebecca Long Bailey MP | 4617 |
 | Salisbury | Rt Hon John Glen MP | 4719 |
 | Scarborough and Whitby | Alison Hume MP | 5947 |
@@ -499,7 +499,7 @@
 | Torbay | Steve Darling MP | 5772 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6532 |
 | Tottenham | Rt Hon David Lammy MP | 1670 |
-| Truro and Falmouth | Jayne Kirkham MP | 4570 |
+| Truro and Falmouth | Jayne Kirkham MP | 4571 |
 | Tunbridge Wells | Mike Martin MP | 5433 |
 | Twickenham | Munira Wilson MP | 3634 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4450 |
