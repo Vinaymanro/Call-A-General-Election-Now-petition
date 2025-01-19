@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969994                                |
-| Last Updated      | 2025-01-19 05:15:02 UTC                                    |
+| Total Signatures   | 2970001                                |
+| Last Updated      | 2025-01-19 06:21:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -125,7 +125,7 @@
 | Colne Valley | Paul Davies MP | 4986 |
 | Congleton | Mrs Sarah Russell MP | 5933 |
 | Corby and East Northamptonshire | Lee Barron MP | 5952 |
-| Coventry East | Mary Creagh MP | 3546 |
+| Coventry East | Mary Creagh MP | 3547 |
 | Coventry North West | Taiwo Owatemi MP | 4215 |
 | Coventry South | Zarah Sultana MP | 3487 |
 | Cramlington and Killingworth | Emma Foody MP | 5757 |
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5433 |
 | Grantham and Bourne | Gareth Davies MP | 6282 |
 | Gravesham | Dr Lauren Sullivan MP | 5092 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5721 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5722 |
 | Great Yarmouth | Rupert Lowe MP | 6522 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2586 |
 | Guildford | Zöe Franklin MP | 3969 |
@@ -228,7 +228,7 @@
 | Henley and Thame | Freddie van Mierlo MP | 5370 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5244 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6257 |
-| Hertford and Stortford | Josh Dean MP | 5939 |
+| Hertford and Stortford | Josh Dean MP | 5940 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5716 |
 | Hexham | Joe Morris MP | 6376 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5210 |
@@ -361,7 +361,7 @@
 | Nuneaton | Jodie Gosling MP | 5497 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6187 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5182 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4043 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4044 |
 | Orpington | Gareth Bacon MP | 5284 |
 | Ossett and Denby Dale | Jade Botterill MP | 5773 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2132 |
@@ -422,7 +422,7 @@
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6806 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6636 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6254 |
-| Slough | Mr Tanmanjeet Singh Dhesi MP | 2559 |
+| Slough | Mr Tanmanjeet Singh Dhesi MP | 2560 |
 | Smethwick | Gurinder Singh Josan MP | 3027 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5402 |
 | South Basildon and East Thurrock | James McMurdock MP | 6546 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6124 |
 | South Devon | Caroline Voaden MP | 5286 |
 | South Dorset | Lloyd Hatton MP | 5606 |
-| South East Cornwall | Anna Gelderd MP | 6184 |
+| South East Cornwall | Anna Gelderd MP | 6186 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7085 |
 | South Leicestershire | Alberto Costa MP | 6933 |
 | South Norfolk | Ben Goldsborough MP | 5410 |
