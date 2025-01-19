@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969992                                |
-| Last Updated      | 2025-01-19 03:20:05 UTC                                    |
+| Total Signatures   | 2969993                                |
+| Last Updated      | 2025-01-19 04:18:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -434,7 +434,7 @@
 | South East Cornwall | Anna Gelderd MP | 6184 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7085 |
 | South Leicestershire | Alberto Costa MP | 6933 |
-| South Norfolk | Ben Goldsborough MP | 5409 |
+| South Norfolk | Ben Goldsborough MP | 5410 |
 | South Northamptonshire | Sarah Bool MP | 6624 |
 | South Ribble | Mr Paul Foster MP | 5849 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4692 |
