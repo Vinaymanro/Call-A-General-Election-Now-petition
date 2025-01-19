@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970001                                |
-| Last Updated      | 2025-01-19 06:21:23 UTC                                    |
+| Total Signatures   | 2970004                                |
+| Last Updated      | 2025-01-19 07:14:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4347 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4258 |
 | Wolverhampton West | Warinder Juss | 3785 |
-| Worcester | Tom Collins MP | 4291 |
+| Worcester | Tom Collins MP | 4292 |
 | Worsley and Eccles | Michael Wheeler MP | 5395 |
 | Worthing West | Dr Beccy Cooper MP | 5211 |
 | Wycombe | Emma Reynolds MP | 3592 |
@@ -617,7 +617,7 @@
 | North East Fife | Wendy Chamberlain MP | 2879 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2819 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2618 |
-| Perth and Kinross-shire | Pete Wishart MP | 3478 |
+| Perth and Kinross-shire | Pete Wishart MP | 3479 |
 | Rutherglen | Michael Shanks MP | 2540 |
 | Stirling and Strathallan | Chris Kane MP | 3206 |
 | West Dunbartonshire | Douglas McAllister MP | 2698 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4708 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6001 |
 | Neath and Swansea East | Carolyn Harris MP | 4394 |
-| Newport East | Jessica Morden MP | 3962 |
+| Newport East | Jessica Morden MP | 3963 |
 | Newport West and Islwyn | Ruth Jones MP | 4005 |
 | Pontypridd | Alex Davies-Jones MP | 3853 |
 | Rhondda and Ogmore | Chris Bryant MP | 3989 |
