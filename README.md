@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969990                                |
-| Last Updated      | 2025-01-19 02:48:49 UTC                                    |
+| Total Signatures   | 2969992                                |
+| Last Updated      | 2025-01-19 03:20:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4369 |
 | Bolton West | Phil Brickell MP | 5542 |
 | Bootle | Peter Dowd MP | 3119 |
-| Boston and Skegness | Richard Tice MP | 7037 |
+| Boston and Skegness | Richard Tice MP | 7038 |
 | Bournemouth East | Tom Hayes MP | 4629 |
 | Bournemouth West | Jessica Toale MP | 4870 |
 | Bracknell | Peter Swallow MP | 4940 |
@@ -180,7 +180,7 @@
 | Exmouth and Exeter East | David Reed MP | 5160 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6079 |
 | Farnham and Bordon | Gregory Stafford MP | 5155 |
-| Faversham and Mid Kent | Helen Whately MP | 6185 |
+| Faversham and Mid Kent | Helen Whately MP | 6186 |
 | Feltham and Heston | Seema Malhotra MP | 2888 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4478 |
 | Finchley and Golders Green | Sarah Sackman MP | 4260 |
