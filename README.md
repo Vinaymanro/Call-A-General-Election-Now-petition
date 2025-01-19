@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2969985                                |
-| Last Updated      | 2025-01-19 01:21:50 UTC                                    |
+| Total Signatures   | 2969990                                |
+| Last Updated      | 2025-01-19 02:48:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -74,7 +74,7 @@
 | Bridgwater | Sir Ashley Fox MP | 5708 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6581 |
 | Brigg and Immingham | Martin Vickers MP | 6418 |
-| Brighton Kemptown and Peacehaven | Chris Ward MP | 3893 |
+| Brighton Kemptown and Peacehaven | Chris Ward MP | 3894 |
 | Brighton Pavilion | Siân Berry MP | 2717 |
 | Bristol Central | Carla Denyer MP | 1609 |
 | Bristol East | Kerry McCarthy MP | 2952 |
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6028 |
 | Broxtowe | Juliet Campbell MP | 4686 |
 | Buckingham and Bletchley | Callum Anderson MP | 5232 |
-| Burnley | Oliver Ryan MP | 5680 |
+| Burnley | Oliver Ryan MP | 5681 |
 | Burton and Uttoxeter | Jacob Collier MP | 5756 |
 | Bury North | Mr James Frith MP | 4929 |
 | Bury South | Christian Wakeford MP | 5385 |
@@ -332,7 +332,7 @@
 | North Bedfordshire | Richard Fuller MP | 6065 |
 | North Cornwall | Ben Maguire MP | 6369 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6020 |
-| North Devon | Ian Roome MP | 5808 |
+| North Devon | Ian Roome MP | 5809 |
 | North Dorset | Simon Hoare MP | 6280 |
 | North Durham | Luke Akehurst MP | 5342 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6024 |
@@ -603,7 +603,7 @@
 | Glasgow North East | Maureen Burke MP | 2441 |
 | Glasgow South | Gordon McKee MP | 1825 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2244 |
-| Glasgow West | Patricia Ferguson MP | 2188 |
+| Glasgow West | Patricia Ferguson MP | 2189 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2941 |
 | Gordon and Buchan | Harriet Cross MP | 4358 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3112 |
@@ -627,7 +627,7 @@
 | Kilmarnock and Loudoun | Lillian Jones MP | 3227 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4526 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3638 |
-| Alyn and Deeside | Rt Hon Mark Tami MP | 5705 |
+| Alyn and Deeside | Rt Hon Mark Tami MP | 5706 |
 | Bangor Aberconwy | Claire Hughes MP | 4480 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3587 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5237 |
