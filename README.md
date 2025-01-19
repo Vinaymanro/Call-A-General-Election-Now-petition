@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970194                                |
-| Last Updated      | 2025-01-19 18:20:17 UTC                                    |
+| Total Signatures   | 2970202                                |
+| Last Updated      | 2025-01-19 19:12:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -21,7 +21,7 @@
 | Barking | Nesil Caliskan MP | 2609 |
 | Barnsley North | Dan Jarvis MP | 5615 |
 | Barnsley South | Stephanie Peacock MP | 5702 |
-| Barrow and Furness | Michelle Scrogham MP | 5267 |
+| Barrow and Furness | Michelle Scrogham MP | 5268 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6838 |
 | Basingstoke | Luke Murphy MP | 4779 |
 | Bassetlaw | Jo White MP | 6694 |
@@ -66,7 +66,7 @@
 | Bradford East | Imran Hussain MP | 2852 |
 | Bradford South | Judith Cummins MP | 4109 |
 | Bradford West | Naz Shah MP | 1795 |
-| Braintree | Rt Hon James Cleverly MP | 7388 |
+| Braintree | Rt Hon James Cleverly MP | 7389 |
 | Brent East | Dawn Butler MP | 1851 |
 | Brent West | Barry Gardiner MP | 2076 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2969 |
@@ -102,7 +102,7 @@
 | Castle Point | Rebecca Harris MP | 7482 |
 | Central Devon | Rt Hon Mel Stride MP | 5763 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5262 |
-| Chatham and Aylesford | Tristan Osborne MP | 5574 |
+| Chatham and Aylesford | Tristan Osborne MP | 5575 |
 | Cheadle | Tom Morrison MP | 4640 |
 | Chelmsford | Marie Goldman MP | 5228 |
 | Chelsea and Fulham | Ben Coleman MP | 5463 |
@@ -250,7 +250,7 @@
 | Ipswich | Jack Abbott MP | 4105 |
 | Isle of Wight East | Joe Robertson MP | 4352 |
 | Isle of Wight West | Mr Richard Quigley MP | 4043 |
-| Islington North | Rt Hon Jeremy Corbyn MP | 1775 |
+| Islington North | Rt Hon Jeremy Corbyn MP | 1776 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2750 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5058 |
 | Keighley and Ilkley | Robbie Moore MP | 4661 |
@@ -324,11 +324,11 @@
 | Newbury | Mr Lee Dillon MP | 4867 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4454 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4711 |
-| Newcastle upon Tyne North | Catherine McKinnell MP | 3922 |
+| Newcastle upon Tyne North | Catherine McKinnell MP | 3923 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5023 |
 | Newton Abbot | Martin Wrigley MP | 5073 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5488 |
-| Normanton and Hemsworth | Jon Trickett MP | 5439 |
+| Normanton and Hemsworth | Jon Trickett MP | 5440 |
 | North Bedfordshire | Richard Fuller MP | 6065 |
 | North Cornwall | Ben Maguire MP | 6370 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6020 |
@@ -396,7 +396,7 @@
 | Romford | Andrew Rosindell MP | 5761 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5044 |
 | Rossendale and Darwen | Andy MacNae MP | 6435 |
-| Rother Valley | Jake Richards MP | 5808 |
+| Rother Valley | Jake Richards MP | 5809 |
 | Rotherham | Sarah Champion MP | 4894 |
 | Rugby | John Slinger MP | 5357 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4087 |
@@ -623,7 +623,7 @@
 | West Dunbartonshire | Douglas McAllister MP | 2698 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3530 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3996 |
-| Central Ayrshire | Alan Gemmell MP | 3098 |
+| Central Ayrshire | Alan Gemmell MP | 3099 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3228 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4526 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3639 |
