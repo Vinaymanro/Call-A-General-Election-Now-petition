@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970285                                |
-| Last Updated      | 2025-01-20 03:19:19 UTC                                    |
+| Total Signatures   | 2970289                                |
+| Last Updated      | 2025-01-20 04:20:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -348,7 +348,7 @@
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6212 |
 | North West Cambridgeshire | Sam Carling MP | 5970 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7102 |
-| North West Hampshire | Rt Hon Kit Malthouse MP | 5694 |
+| North West Hampshire | Rt Hon Kit Malthouse MP | 5695 |
 | North West Leicestershire | Amanda Hack MP | 6662 |
 | North West Norfolk | James Wild MP | 5707 |
 | Northampton North | Lucy Rigby MP | 4234 |
@@ -443,7 +443,7 @@
 | South West Devon | Rebecca Smith MP | 5938 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5176 |
 | South West Norfolk | Terry Jermy MP | 6484 |
-| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5167 |
+| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5168 |
 | Southampton Itchen | Darren Paffey MP | 4499 |
 | Southampton Test | Satvir Kaur MP | 3364 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5539 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5030 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6553 |
 | Whitehaven and Workington | Josh MacAlister MP | 5794 |
-| Widnes and Halewood | Derek Twigg MP | 4197 |
+| Widnes and Halewood | Derek Twigg MP | 4198 |
 | Wigan | Rt Hon Lisa Nandy MP | 5899 |
 | Wimbledon | Mr Paul Kohler MP | 3400 |
 | Winchester | Dr Danny Chambers MP | 4889 |
@@ -642,7 +642,7 @@
 | Clwyd East | Becky Gittins MP | 5988 |
 | Clwyd North | Gill German MP | 5403 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4201 |
-| Gower | Tonia Antoniazzi MP | 4716 |
+| Gower | Tonia Antoniazzi MP | 4717 |
 | Llanelli | Dame Nia Griffith MP | 5206 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3662 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5451 |
