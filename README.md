@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970271                                |
-| Last Updated      | 2025-01-20 01:17:40 UTC                                    |
+| Total Signatures   | 2970279                                |
+| Last Updated      | 2025-01-20 02:45:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -242,7 +242,7 @@
 | Horsham | John Milne MP | 5784 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6256 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3301 |
-| Huddersfield | Harpreet Uppal MP | 3649 |
+| Huddersfield | Harpreet Uppal MP | 3650 |
 | Huntingdon | Ben Obese-Jecty MP | 5512 |
 | Hyndburn | Sarah Smith MP | 4957 |
 | Ilford North | Rt Hon Wes Streeting MP | 2602 |
@@ -326,7 +326,7 @@
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4711 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3923 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5023 |
-| Newton Abbot | Martin Wrigley MP | 5073 |
+| Newton Abbot | Martin Wrigley MP | 5074 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5489 |
 | Normanton and Hemsworth | Jon Trickett MP | 5440 |
 | North Bedfordshire | Richard Fuller MP | 6065 |
@@ -367,7 +367,7 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2132 |
 | Oxford West and Abingdon | Layla Moran MP | 2914 |
 | Peckham | Miatta Fahnbulleh MP | 1349 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6146 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6147 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5413 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6151 |
 | Peterborough | Andrew Pakes MP | 4124 |
@@ -383,7 +383,7 @@
 | Queen's Park and Maida Vale | Georgia Gould MP | 2136 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5066 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7314 |
-| Reading Central | Matt Rodda MP | 3014 |
+| Reading Central | Matt Rodda MP | 3015 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4411 |
 | Redcar | Anna Turley MP | 5407 |
 | Redditch | Chris Bloore MP | 6031 |
@@ -427,7 +427,7 @@
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5402 |
 | South Basildon and East Thurrock | James McMurdock MP | 6546 |
 | South Cambridgeshire | Pippa Heylings MP | 4423 |
-| South Cotswolds | Dr Roz Savage MP | 5689 |
+| South Cotswolds | Dr Roz Savage MP | 5690 |
 | South Derbyshire | Samantha Niblett MP | 6124 |
 | South Devon | Caroline Voaden MP | 5287 |
 | South Dorset | Lloyd Hatton MP | 5608 |
@@ -445,7 +445,7 @@
 | South West Norfolk | Terry Jermy MP | 6484 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5167 |
 | Southampton Itchen | Darren Paffey MP | 4499 |
-| Southampton Test | Satvir Kaur MP | 3363 |
+| Southampton Test | Satvir Kaur MP | 3364 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5539 |
 | Southend West and Leigh | David Burton-Sampson MP | 5825 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2571 |
@@ -580,7 +580,7 @@
 | Airdrie and Shotts | Kenneth Stevenson MP | 2790 |
 | Alloa and Grangemouth | Brian Leishman MP | 2993 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4018 |
-| Arbroath and Broughty Ferry | Stephen Gethins MP | 3441 |
+| Arbroath and Broughty Ferry | Stephen Gethins MP | 3442 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3378 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 2989 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4044 |
@@ -654,7 +654,7 @@
 | Pontypridd | Alex Davies-Jones MP | 3853 |
 | Rhondda and Ogmore | Chris Bryant MP | 3989 |
 | Swansea West | Torsten Bell MP | 3617 |
-| Torfaen | Rt Hon Nick Thomas-Symonds MP | 4037 |
+| Torfaen | Rt Hon Nick Thomas-Symonds MP | 4038 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4579 |
 | Wrexham | Andrew Ranger MP | 4752 |
 | Ynys Môn | Llinos Medi MP | 3703 |
