@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970290                                |
-| Last Updated      | 2025-01-20 05:16:20 UTC                                    |
+| Total Signatures   | 2970293                                |
+| Last Updated      | 2025-01-20 06:24:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -377,7 +377,7 @@
 | Poole | Neil Duncan-Jordan MP | 5629 |
 | Poplar and Limehouse | Apsana Begum MP | 2906 |
 | Portsmouth North | Amanda Martin MP | 5571 |
-| Portsmouth South | Stephen Morgan MP | 3841 |
+| Portsmouth South | Stephen Morgan MP | 3842 |
 | Preston | Sir Mark Hendrick MP | 3760 |
 | Putney | Fleur Anderson MP | 3491 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2136 |
@@ -494,7 +494,7 @@
 | Thurrock | Jen Craft MP | 5075 |
 | Tipton and Wednesbury | Antonia Bance MP | 4873 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5919 |
-| Tonbridge | Rt Hon Tom Tugendhat MP | 5908 |
+| Tonbridge | Rt Hon Tom Tugendhat MP | 5909 |
 | Tooting | Dr Rosena Allin-Khan MP | 2674 |
 | Torbay | Steve Darling MP | 5772 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6532 |
@@ -523,7 +523,7 @@
 | West Dorset | Edward Morello MP | 5423 |
 | West Ham and Beckton | James Asser MP | 2131 |
 | West Lancashire | Ashley Dalton MP | 5021 |
-| West Suffolk | Nick Timothy MP | 5980 |
+| West Suffolk | Nick Timothy MP | 5981 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6223 |
 | Westmorland and Lonsdale | Tim Farron MP | 5172 |
 | Weston-super-Mare | Dan Aldridge MP | 5030 |
