@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970313                                |
-| Last Updated      | 2025-01-20 08:22:21 UTC                                    |
+| Total Signatures   | 2970325                                |
+| Last Updated      | 2025-01-20 09:18:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5418 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5764 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5765 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5473 |
 | Amber Valley | Linsey Farnsworth MP | 6040 |
 | Arundel and South Downs | Andrew Griffith MP | 6920 |
@@ -58,8 +58,8 @@
 | Bolton North East | Kirith Entwistle MP | 5545 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4369 |
 | Bolton West | Phil Brickell MP | 5542 |
-| Bootle | Peter Dowd MP | 3119 |
-| Boston and Skegness | Richard Tice MP | 7041 |
+| Bootle | Peter Dowd MP | 3120 |
+| Boston and Skegness | Richard Tice MP | 7042 |
 | Bournemouth East | Tom Hayes MP | 4629 |
 | Bournemouth West | Jessica Toale MP | 4870 |
 | Bracknell | Peter Swallow MP | 4941 |
@@ -78,7 +78,7 @@
 | Brighton Pavilion | Siân Berry MP | 2717 |
 | Bristol Central | Carla Denyer MP | 1609 |
 | Bristol East | Kerry McCarthy MP | 2952 |
-| Bristol North East | Damien Egan MP | 3050 |
+| Bristol North East | Damien Egan MP | 3051 |
 | Bristol North West | Rt Hon Darren Jones MP | 3174 |
 | Bristol South | Karin Smyth MP | 3915 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5797 |
@@ -100,9 +100,9 @@
 | Carlisle | Ms Julie Minns MP | 6490 |
 | Carshalton and Wallington | Bobby Dean MP | 4231 |
 | Castle Point | Rebecca Harris MP | 7482 |
-| Central Devon | Rt Hon Mel Stride MP | 5763 |
+| Central Devon | Rt Hon Mel Stride MP | 5764 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5263 |
-| Chatham and Aylesford | Tristan Osborne MP | 5576 |
+| Chatham and Aylesford | Tristan Osborne MP | 5577 |
 | Cheadle | Tom Morrison MP | 4640 |
 | Chelmsford | Marie Goldman MP | 5228 |
 | Chelsea and Fulham | Ben Coleman MP | 5463 |
@@ -169,7 +169,7 @@
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2207 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4399 |
 | Eltham and Chislehurst | Clive Efford MP | 4674 |
-| Ely and East Cambridgeshire | Charlotte Cane MP | 5134 |
+| Ely and East Cambridgeshire | Charlotte Cane MP | 5136 |
 | Enfield North | Feryal Clark MP | 2869 |
 | Epping Forest | Dr Neil Hudson MP | 6542 |
 | Epsom and Ewell | Helen Maguire MP | 4900 |
@@ -197,7 +197,7 @@
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5213 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6922 |
 | Gorton and Denton | Andrew Gwynne MP | 3239 |
-| Gosport | Dame Caroline Dinenage MP | 5434 |
+| Gosport | Dame Caroline Dinenage MP | 5435 |
 | Grantham and Bourne | Gareth Davies MP | 6282 |
 | Gravesham | Dr Lauren Sullivan MP | 5092 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5722 |
@@ -302,7 +302,7 @@
 | Manchester Withington | Jeff Smith MP | 1658 |
 | Mansfield | Steve Yemm MP | 6143 |
 | Melksham and Devizes | Brian Mathew MP | 4985 |
-| Melton and Syston | Rt Hon Edward Argar MP | 6073 |
+| Melton and Syston | Rt Hon Edward Argar MP | 6074 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6008 |
 | Mid Bedfordshire | Blake Stephenson MP | 5809 |
 | Mid Buckinghamshire | Greg Smith MP | 5579 |
@@ -345,7 +345,7 @@
 | North Northumberland | David Smith MP | 6398 |
 | North Shropshire | Helen Morgan MP | 6832 |
 | North Somerset | Sadik Al-Hassan MP | 4555 |
-| North Warwickshire and Bedworth | Rachel Taylor MP | 6212 |
+| North Warwickshire and Bedworth | Rachel Taylor MP | 6213 |
 | North West Cambridgeshire | Sam Carling MP | 5970 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7102 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5695 |
@@ -483,7 +483,7 @@
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5637 |
 | Swindon North | Will Stone MP | 4859 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4160 |
-| Tamworth | Sarah Edwards MP | 6891 |
+| Tamworth | Sarah Edwards MP | 6892 |
 | Tatton | Rt Hon Esther McVey MP | 6471 |
 | Taunton and Wellington | Gideon Amos MP | 5142 |
 | Telford | Shaun Davies MP | 5536 |
