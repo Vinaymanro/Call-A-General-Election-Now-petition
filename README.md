@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970293                                |
-| Last Updated      | 2025-01-20 06:24:15 UTC                                    |
+| Total Signatures   | 2970298                                |
+| Last Updated      | 2025-01-20 07:16:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -242,7 +242,7 @@
 | Horsham | John Milne MP | 5784 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6256 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3301 |
-| Huddersfield | Harpreet Uppal MP | 3650 |
+| Huddersfield | Harpreet Uppal MP | 3651 |
 | Huntingdon | Ben Obese-Jecty MP | 5512 |
 | Hyndburn | Sarah Smith MP | 4957 |
 | Ilford North | Rt Hon Wes Streeting MP | 2602 |
@@ -340,7 +340,7 @@
 | North East Hampshire | Alex Brewer MP | 5933 |
 | North East Hertfordshire | Chris Hinchliff MP | 5811 |
 | North East Somerset and Hanham | Dan Norris MP | 5012 |
-| North Herefordshire | Ellie Chowns MP | 6429 |
+| North Herefordshire | Ellie Chowns MP | 6430 |
 | North Norfolk | Steff Aquarone MP | 5390 |
 | North Northumberland | David Smith MP | 6398 |
 | North Shropshire | Helen Morgan MP | 6832 |
@@ -395,7 +395,7 @@
 | Rochester and Strood | Lauren Edwards MP | 5977 |
 | Romford | Andrew Rosindell MP | 5761 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5044 |
-| Rossendale and Darwen | Andy MacNae MP | 6437 |
+| Rossendale and Darwen | Andy MacNae MP | 6438 |
 | Rother Valley | Jake Richards MP | 5809 |
 | Rotherham | Sarah Champion MP | 4894 |
 | Rugby | John Slinger MP | 5357 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3887 |
 | Stockton North | Chris McDonald MP | 4797 |
 | Stockton West | Matt Vickers MP | 5943 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4665 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4666 |
 | Stoke-on-Trent North | David Williams MP | 5404 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5681 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6486 |
@@ -494,7 +494,7 @@
 | Thurrock | Jen Craft MP | 5075 |
 | Tipton and Wednesbury | Antonia Bance MP | 4873 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5919 |
-| Tonbridge | Rt Hon Tom Tugendhat MP | 5909 |
+| Tonbridge | Rt Hon Tom Tugendhat MP | 5910 |
 | Tooting | Dr Rosena Allin-Khan MP | 2674 |
 | Torbay | Steve Darling MP | 5772 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6532 |
