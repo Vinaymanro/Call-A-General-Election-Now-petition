@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970289                                |
-| Last Updated      | 2025-01-20 04:20:08 UTC                                    |
+| Total Signatures   | 2970290                                |
+| Last Updated      | 2025-01-20 05:16:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -538,7 +538,7 @@
 | Witham | Rt Hon Priti Patel MP | 6970 |
 | Witney | Charlie Maynard MP | 5126 |
 | Woking | Mr Will Forster MP | 4370 |
-| Wokingham | Clive Jones MP | 4841 |
+| Wokingham | Clive Jones MP | 4842 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4347 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4259 |
 | Wolverhampton West | Warinder Juss | 3785 |
