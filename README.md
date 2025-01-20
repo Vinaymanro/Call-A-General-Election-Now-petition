@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970279                                |
-| Last Updated      | 2025-01-20 02:45:53 UTC                                    |
+| Total Signatures   | 2970285                                |
+| Last Updated      | 2025-01-20 03:19:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1564 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3445 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1882 |
-| Birmingham Northfield | Laurence Turner MP | 4851 |
+| Birmingham Northfield | Laurence Turner MP | 4852 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1699 |
 | Birmingham Selly Oak | Al Carns MP | 3263 |
 | Birmingham Yardley | Jess Phillips MP | 3042 |
@@ -95,7 +95,7 @@
 | Calder Valley | Josh Fenton-Glynn MP | 5610 |
 | Camborne and Redruth | Perran Moon MP | 4926 |
 | Cambridge | Daniel Zeichner MP | 2199 |
-| Cannock Chase | Josh Newbury MP | 6825 |
+| Cannock Chase | Josh Newbury MP | 6826 |
 | Canterbury | Rosie Duffield MP | 4446 |
 | Carlisle | Ms Julie Minns MP | 6490 |
 | Carshalton and Wallington | Bobby Dean MP | 4231 |
@@ -194,7 +194,7 @@
 | Gillingham and Rainham | Naushabah Khan MP | 5015 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5554 |
 | Gloucester | Alex McIntyre MP | 4495 |
-| Godalming and Ash | Rt Hon Jeremy Hunt MP | 5212 |
+| Godalming and Ash | Rt Hon Jeremy Hunt MP | 5213 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6922 |
 | Gorton and Denton | Andrew Gwynne MP | 3239 |
 | Gosport | Dame Caroline Dinenage MP | 5434 |
@@ -232,7 +232,7 @@
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5716 |
 | Hexham | Joe Morris MP | 6376 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5210 |
-| High Peak | Jon Pearce MP | 5407 |
+| High Peak | Jon Pearce MP | 5408 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6424 |
 | Hitchin | Alistair Strathern MP | 4890 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2265 |
@@ -441,7 +441,7 @@
 | South Shropshire | Stuart Anderson MP | 7291 |
 | South Suffolk | James Cartlidge MP | 6107 |
 | South West Devon | Rebecca Smith MP | 5938 |
-| South West Hertfordshire | Mr Gagan Mohindra MP | 5175 |
+| South West Hertfordshire | Mr Gagan Mohindra MP | 5176 |
 | South West Norfolk | Terry Jermy MP | 6484 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5167 |
 | Southampton Itchen | Darren Paffey MP | 4499 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5127 |
 | Warrington South | Sarah Hall MP | 5533 |
 | Warwick and Leamington | Matt Western MP | 4442 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5271 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5272 |
 | Watford | Matt Turmaine MP | 3724 |
 | Waveney Valley | Adrian Ramsay MP | 5815 |
 | Weald of Kent | Katie Lam MP | 7187 |
