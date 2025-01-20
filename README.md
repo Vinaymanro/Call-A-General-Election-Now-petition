@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970412                                |
-| Last Updated      | 2025-01-20 13:22:07 UTC                                    |
+| Total Signatures   | 2970422                                |
+| Last Updated      | 2025-01-20 14:15:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -177,7 +177,7 @@
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3203 |
 | Esher and Walton | Monica Harding MP | 4801 |
 | Exeter | Steve Race MP | 3153 |
-| Exmouth and Exeter East | David Reed MP | 5162 |
+| Exmouth and Exeter East | David Reed MP | 5164 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6080 |
 | Farnham and Bordon | Gregory Stafford MP | 5155 |
 | Faversham and Mid Kent | Helen Whately MP | 6186 |
@@ -198,7 +198,7 @@
 | Goole and Pocklington | Rt Hon David Davis MP | 6922 |
 | Gorton and Denton | Andrew Gwynne MP | 3239 |
 | Gosport | Dame Caroline Dinenage MP | 5435 |
-| Grantham and Bourne | Gareth Davies MP | 6283 |
+| Grantham and Bourne | Gareth Davies MP | 6284 |
 | Gravesham | Dr Lauren Sullivan MP | 5092 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5722 |
 | Great Yarmouth | Rupert Lowe MP | 6523 |
@@ -267,7 +267,7 @@
 | Leeds Central and Headingley | Alex Sobel MP | 1913 |
 | Leeds East | Richard Burgon MP | 4256 |
 | Leeds North East | Fabian Hamilton MP | 2606 |
-| Leeds North West | Katie White MP | 4351 |
+| Leeds North West | Katie White MP | 4352 |
 | Leeds South | Rt Hon Hilary Benn MP | 3832 |
 | Leeds South West and Morley | Mark Sewards MP | 5455 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3753 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2614 |
 | Liverpool Walton | Dan Carden MP | 3317 |
 | Liverpool Wavertree | Paula Barker MP | 2197 |
-| Liverpool West Derby | Ian Byrne MP | 3011 |
+| Liverpool West Derby | Ian Byrne MP | 3012 |
 | Loughborough | Dr Jeevun Sandher MP | 4450 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7744 |
 | Lowestoft | Jess Asato MP | 5290 |
@@ -359,7 +359,7 @@
 | Nottingham North and Kimberley | Alex Norris MP | 3690 |
 | Nottingham South | Lilian Greenwood MP | 3035 |
 | Nuneaton | Jodie Gosling MP | 5497 |
-| Old Bexley and Sidcup | Mr Louie French MP | 6187 |
+| Old Bexley and Sidcup | Mr Louie French MP | 6189 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5182 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4045 |
 | Orpington | Gareth Bacon MP | 5284 |
@@ -392,10 +392,10 @@
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7068 |
 | Richmond Park | Sarah Olney MP | 4050 |
 | Rochdale | Paul Waugh MP | 3916 |
-| Rochester and Strood | Lauren Edwards MP | 5977 |
+| Rochester and Strood | Lauren Edwards MP | 5978 |
 | Romford | Andrew Rosindell MP | 5761 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5044 |
-| Rossendale and Darwen | Andy MacNae MP | 6438 |
+| Rossendale and Darwen | Andy MacNae MP | 6439 |
 | Rother Valley | Jake Richards MP | 5810 |
 | Rotherham | Sarah Champion MP | 4894 |
 | Rugby | John Slinger MP | 5357 |
@@ -585,7 +585,7 @@
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 2989 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4045 |
 | Coatbridge and Bellshill | Frank McNally MP | 2565 |
-| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2826 |
+| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2827 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2649 |
 | Dumfries and Galloway | John Cooper MP | 4016 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3834 |
