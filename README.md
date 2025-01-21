@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970792                                |
-| Last Updated      | 2025-01-21 04:19:45 UTC                                    |
+| Total Signatures   | 2970798                                |
+| Last Updated      | 2025-01-21 05:15:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3107 |
 | Blackley and Middleton South | Graham Stringer MP | 3720 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6100 |
-| Blackpool South | Chris Webb MP | 5742 |
+| Blackpool South | Chris Webb MP | 5743 |
 | Blaydon and Consett | Liz Twist MP | 5210 |
 | Blyth and Ashington | Ian Lavery MP | 5813 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6098 |
@@ -168,7 +168,7 @@
 | Eastleigh | Liz Jarvis MP | 4296 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2207 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4399 |
-| Eltham and Chislehurst | Clive Efford MP | 4676 |
+| Eltham and Chislehurst | Clive Efford MP | 4677 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5136 |
 | Enfield North | Feryal Clark MP | 2869 |
 | Epping Forest | Dr Neil Hudson MP | 6543 |
@@ -422,7 +422,7 @@
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6808 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6637 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6255 |
-| Slough | Mr Tanmanjeet Singh Dhesi MP | 2561 |
+| Slough | Mr Tanmanjeet Singh Dhesi MP | 2562 |
 | Smethwick | Gurinder Singh Josan MP | 3027 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5402 |
 | South Basildon and East Thurrock | James McMurdock MP | 6547 |
@@ -437,7 +437,7 @@
 | South Norfolk | Ben Goldsborough MP | 5411 |
 | South Northamptonshire | Sarah Bool MP | 6626 |
 | South Ribble | Mr Paul Foster MP | 5855 |
-| South Shields | Mrs Emma Lewell-Buck MP | 4692 |
+| South Shields | Mrs Emma Lewell-Buck MP | 4693 |
 | South Shropshire | Stuart Anderson MP | 7291 |
 | South Suffolk | James Cartlidge MP | 6110 |
 | South West Devon | Rebecca Smith MP | 5940 |
@@ -453,7 +453,7 @@
 | Spelthorne | Lincoln Jopp MP | 5433 |
 | Spen Valley | Kim Leadbeater MP | 5330 |
 | St Albans | Daisy Cooper MP | 3863 |
-| St Austell and Newquay | Noah Law MP | 5560 |
+| St Austell and Newquay | Noah Law MP | 5561 |
 | St Helens North | David Baines MP | 4646 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4114 |
 | St Ives | Andrew George MP | 5051 |
@@ -607,7 +607,7 @@
 | Glenrothes and Mid Fife | Richard Baker MP | 2942 |
 | Gordon and Buchan | Harriet Cross MP | 4359 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3112 |
-| Inverclyde and Renfrewshire West | Martin McCluskey MP | 2726 |
+| Inverclyde and Renfrewshire West | Martin McCluskey MP | 2727 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3589 |
 | Livingston | Gregor Poynton MP | 3372 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2835 |
