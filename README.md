@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970787                                |
-| Last Updated      | 2025-01-21 03:18:03 UTC                                    |
+| Total Signatures   | 2970792                                |
+| Last Updated      | 2025-01-21 04:19:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -56,7 +56,7 @@
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6098 |
 | Bolsover | Natalie Fleet MP | 6479 |
 | Bolton North East | Kirith Entwistle MP | 5546 |
-| Bolton South and Walkden | Yasmin Qureshi MP | 4369 |
+| Bolton South and Walkden | Yasmin Qureshi MP | 4370 |
 | Bolton West | Phil Brickell MP | 5543 |
 | Bootle | Peter Dowd MP | 3120 |
 | Boston and Skegness | Richard Tice MP | 7044 |
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5435 |
 | Grantham and Bourne | Gareth Davies MP | 6284 |
 | Gravesham | Dr Lauren Sullivan MP | 5092 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5722 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5723 |
 | Great Yarmouth | Rupert Lowe MP | 6524 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2589 |
 | Guildford | Zöe Franklin MP | 3969 |
@@ -340,7 +340,7 @@
 | North East Hampshire | Alex Brewer MP | 5933 |
 | North East Hertfordshire | Chris Hinchliff MP | 5811 |
 | North East Somerset and Hanham | Dan Norris MP | 5015 |
-| North Herefordshire | Ellie Chowns MP | 6431 |
+| North Herefordshire | Ellie Chowns MP | 6432 |
 | North Norfolk | Steff Aquarone MP | 5394 |
 | North Northumberland | David Smith MP | 6399 |
 | North Shropshire | Helen Morgan MP | 6833 |
@@ -384,7 +384,7 @@
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5068 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7316 |
 | Reading Central | Matt Rodda MP | 3015 |
-| Reading West and Mid Berkshire | Olivia Bailey MP | 4411 |
+| Reading West and Mid Berkshire | Olivia Bailey MP | 4412 |
 | Redcar | Anna Turley MP | 5407 |
 | Redditch | Chris Bloore MP | 6032 |
 | Reigate | Rebecca Paul MP | 5517 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 5948 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5044 |
 | Sefton Central | Bill Esterson MP | 3979 |
-| Selby | Keir Mather MP | 6330 |
+| Selby | Keir Mather MP | 6331 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6633 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3382 |
 | Sheffield Central | Abtisam Mohamed MP | 1418 |
