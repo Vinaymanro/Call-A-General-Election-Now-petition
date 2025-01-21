@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970782                                |
-| Last Updated      | 2025-01-21 02:42:35 UTC                                    |
+| Total Signatures   | 2970787                                |
+| Last Updated      | 2025-01-21 03:18:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -115,7 +115,7 @@
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4140 |
 | Chippenham | Sarah Gibson MP | 4702 |
 | Chipping Barnet | Dan Tomlinson MP | 4313 |
-| Chorley | Rt Hon Sir Lindsay Hoyle MP | 5460 |
+| Chorley | Rt Hon Sir Lindsay Hoyle MP | 5461 |
 | Christchurch | Sir Christopher Chope MP | 5818 |
 | Cities of London and Westminster | Rachel Blake MP | 5151 |
 | City of Durham | Mary Kelly Foy MP | 4215 |
@@ -124,7 +124,7 @@
 | Colchester | Pam Cox MP | 4957 |
 | Colne Valley | Paul Davies MP | 4988 |
 | Congleton | Mrs Sarah Russell MP | 5933 |
-| Corby and East Northamptonshire | Lee Barron MP | 5953 |
+| Corby and East Northamptonshire | Lee Barron MP | 5954 |
 | Coventry East | Mary Creagh MP | 3548 |
 | Coventry North West | Taiwo Owatemi MP | 4218 |
 | Coventry South | Zarah Sultana MP | 3489 |
@@ -212,7 +212,7 @@
 | Hammersmith and Chiswick | Andy Slaughter MP | 3179 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2954 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4682 |
-| Harlow | Chris Vince MP | 6027 |
+| Harlow | Chris Vince MP | 6028 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4514 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5079 |
 | Harrow East | Bob Blackman MP | 3119 |
@@ -336,7 +336,7 @@
 | North Dorset | Simon Hoare MP | 6280 |
 | North Durham | Luke Akehurst MP | 5343 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6026 |
-| North East Derbyshire | Louise Jones MP | 5762 |
+| North East Derbyshire | Louise Jones MP | 5763 |
 | North East Hampshire | Alex Brewer MP | 5933 |
 | North East Hertfordshire | Chris Hinchliff MP | 5811 |
 | North East Somerset and Hanham | Dan Norris MP | 5015 |
@@ -604,7 +604,7 @@
 | Glasgow South | Gordon McKee MP | 1825 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2244 |
 | Glasgow West | Patricia Ferguson MP | 2190 |
-| Glenrothes and Mid Fife | Richard Baker MP | 2941 |
+| Glenrothes and Mid Fife | Richard Baker MP | 2942 |
 | Gordon and Buchan | Harriet Cross MP | 4359 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3112 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2726 |
