@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2970771                                |
-| Last Updated      | 2025-01-21 01:16:18 UTC                                    |
+| Total Signatures   | 2970782                                |
+| Last Updated      | 2025-01-21 02:42:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -36,10 +36,10 @@
 | Bexhill and Battle | Dr Kieran Mullan MP | 6091 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5025 |
 | Bicester and Woodstock | Calum Miller MP | 4648 |
-| Birkenhead | Alison McGovern MP | 4280 |
+| Birkenhead | Alison McGovern MP | 4281 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2933 |
 | Birmingham Erdington | Paulette Hamilton MP | 4197 |
-| Birmingham Hall Green and Moseley | Tahir Ali MP | 1565 |
+| Birmingham Hall Green and Moseley | Tahir Ali MP | 1566 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3445 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1883 |
 | Birmingham Northfield | Laurence Turner MP | 4852 |
@@ -59,11 +59,11 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4369 |
 | Bolton West | Phil Brickell MP | 5543 |
 | Bootle | Peter Dowd MP | 3120 |
-| Boston and Skegness | Richard Tice MP | 7043 |
+| Boston and Skegness | Richard Tice MP | 7044 |
 | Bournemouth East | Tom Hayes MP | 4629 |
 | Bournemouth West | Jessica Toale MP | 4870 |
 | Bracknell | Peter Swallow MP | 4941 |
-| Bradford East | Imran Hussain MP | 2852 |
+| Bradford East | Imran Hussain MP | 2853 |
 | Bradford South | Judith Cummins MP | 4110 |
 | Bradford West | Naz Shah MP | 1795 |
 | Braintree | Rt Hon James Cleverly MP | 7391 |
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6029 |
 | Broxtowe | Juliet Campbell MP | 4686 |
 | Buckingham and Bletchley | Callum Anderson MP | 5232 |
-| Burnley | Oliver Ryan MP | 5683 |
+| Burnley | Oliver Ryan MP | 5684 |
 | Burton and Uttoxeter | Jacob Collier MP | 5757 |
 | Bury North | Mr James Frith MP | 4930 |
 | Bury South | Christian Wakeford MP | 5386 |
@@ -271,7 +271,7 @@
 | Leeds South | Rt Hon Hilary Benn MP | 3833 |
 | Leeds South West and Morley | Mark Sewards MP | 5455 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3754 |
-| Leicester East | Shivani Raja MP | 1869 |
+| Leicester East | Shivani Raja MP | 1870 |
 | Leicester South | Shockat Adam MP | 1818 |
 | Leicester West | Rt Hon Liz Kendall MP | 3422 |
 | Leigh and Atherton | Jo Platt MP | 6013 |
@@ -343,7 +343,7 @@
 | North Herefordshire | Ellie Chowns MP | 6431 |
 | North Norfolk | Steff Aquarone MP | 5394 |
 | North Northumberland | David Smith MP | 6399 |
-| North Shropshire | Helen Morgan MP | 6832 |
+| North Shropshire | Helen Morgan MP | 6833 |
 | North Somerset | Sadik Al-Hassan MP | 4558 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6213 |
 | North West Cambridgeshire | Sam Carling MP | 5971 |
@@ -422,11 +422,11 @@
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6808 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6637 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6255 |
-| Slough | Mr Tanmanjeet Singh Dhesi MP | 2560 |
+| Slough | Mr Tanmanjeet Singh Dhesi MP | 2561 |
 | Smethwick | Gurinder Singh Josan MP | 3027 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5402 |
 | South Basildon and East Thurrock | James McMurdock MP | 6547 |
-| South Cambridgeshire | Pippa Heylings MP | 4425 |
+| South Cambridgeshire | Pippa Heylings MP | 4426 |
 | South Cotswolds | Dr Roz Savage MP | 5692 |
 | South Derbyshire | Samantha Niblett MP | 6125 |
 | South Devon | Caroline Voaden MP | 5287 |
@@ -517,7 +517,7 @@
 | Waveney Valley | Adrian Ramsay MP | 5817 |
 | Weald of Kent | Katie Lam MP | 7187 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5043 |
-| Wells and Mendip Hills | Tessa Munt MP | 5215 |
+| Wells and Mendip Hills | Tessa Munt MP | 5216 |
 | Welwyn Hatfield | Andrew Lewin MP | 5021 |
 | West Bromwich | Sarah Coombes MP | 3745 |
 | West Dorset | Edward Morello MP | 5425 |
@@ -609,7 +609,7 @@
 | Hamilton and Clyde Valley | Imogen Walker MP | 3112 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2726 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3589 |
-| Livingston | Gregor Poynton MP | 3371 |
+| Livingston | Gregor Poynton MP | 3372 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2835 |
 | Mid Dunbartonshire | Susan Murray MP | 2504 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3905 |
