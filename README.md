@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2971918                                |
-| Last Updated      | 2025-01-22 02:46:23 UTC                                    |
+| Total Signatures   | 2971925                                |
+| Last Updated      | 2025-01-22 03:19:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -214,7 +214,7 @@
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4683 |
 | Harlow | Chris Vince MP | 6029 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4517 |
-| Harrogate and Knaresborough | Tom Gordon MP | 5079 |
+| Harrogate and Knaresborough | Tom Gordon MP | 5080 |
 | Harrow East | Bob Blackman MP | 3119 |
 | Harrow West | Gareth Thomas MP | 2391 |
 | Hartlepool | Mr Jonathan Brash MP | 5611 |
@@ -421,7 +421,7 @@
 | Shrewsbury | Julia Buckley MP | 5296 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6810 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6638 |
-| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6259 |
+| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6260 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2563 |
 | Smethwick | Gurinder Singh Josan MP | 3029 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5405 |
@@ -455,7 +455,7 @@
 | St Albans | Daisy Cooper MP | 3865 |
 | St Austell and Newquay | Noah Law MP | 5562 |
 | St Helens North | David Baines MP | 4649 |
-| St Helens South and Whiston | Ms Marie Rimmer MP | 4115 |
+| St Helens South and Whiston | Ms Marie Rimmer MP | 4116 |
 | St Ives | Andrew George MP | 5053 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4768 |
 | Stafford | Leigh Ingham MP | 5571 |
@@ -476,7 +476,7 @@
 | Stretford and Urmston | Andrew Western MP | 3793 |
 | Stroud | Dr Simon Opher MP | 4510 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5359 |
-| Sunderland Central | Lewis Atkinson MP | 5191 |
+| Sunderland Central | Lewis Atkinson MP | 5192 |
 | Surrey Heath | Dr Al Pinkerton MP | 5396 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6068 |
 | Sutton and Cheam | Luke Taylor MP | 4375 |
@@ -507,7 +507,7 @@
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1663 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4867 |
 | Wallasey | Dame Angela Eagle MP | 4033 |
-| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3973 |
+| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3974 |
 | Walthamstow | Ms Stella Creasy MP | 1310 |
 | Warrington North | Charlotte Nichols MP | 5129 |
 | Warrington South | Sarah Hall MP | 5535 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5031 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6555 |
 | Whitehaven and Workington | Josh MacAlister MP | 5797 |
-| Widnes and Halewood | Derek Twigg MP | 4201 |
+| Widnes and Halewood | Derek Twigg MP | 4202 |
 | Wigan | Rt Hon Lisa Nandy MP | 5902 |
 | Wimbledon | Mr Paul Kohler MP | 3400 |
 | Winchester | Dr Danny Chambers MP | 4889 |
@@ -574,7 +574,7 @@
 | Midlothian | Kirsty McNeill MP | 2769 |
 | North Ayrshire and Arran | Irene Campbell MP | 3260 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1432 |
-| Aberdeen North | Kirsty Blackman MP | 3517 |
+| Aberdeen North | Kirsty Blackman MP | 3518 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3814 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4635 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2792 |
