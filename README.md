@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2971925                                |
-| Last Updated      | 2025-01-22 03:19:42 UTC                                    |
+| Total Signatures   | 2971934                                |
+| Last Updated      | 2025-01-22 04:20:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -57,7 +57,7 @@
 | Bolsover | Natalie Fleet MP | 6482 |
 | Bolton North East | Kirith Entwistle MP | 5547 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4371 |
-| Bolton West | Phil Brickell MP | 5545 |
+| Bolton West | Phil Brickell MP | 5546 |
 | Bootle | Peter Dowd MP | 3120 |
 | Boston and Skegness | Richard Tice MP | 7047 |
 | Bournemouth East | Tom Hayes MP | 4631 |
@@ -110,7 +110,7 @@
 | Chesham and Amersham | Sarah Green MP | 4925 |
 | Chester North and Neston | Samantha Dixon MP | 4023 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6366 |
-| Chesterfield | Mr Toby Perkins MP | 4831 |
+| Chesterfield | Mr Toby Perkins MP | 4832 |
 | Chichester | Jess Brown-Fuller MP | 5881 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4141 |
 | Chippenham | Sarah Gibson MP | 4704 |
@@ -163,7 +163,7 @@
 | East Surrey | Rt Hon Claire Coutinho MP | 5993 |
 | East Thanet | Ms Polly Billington MP | 5444 |
 | East Wiltshire | Danny Kruger MP | 6033 |
-| East Worthing and Shoreham | Tom Rutland MP | 4567 |
+| East Worthing and Shoreham | Tom Rutland MP | 4568 |
 | Eastbourne | Josh Babarinde MP | 5019 |
 | Eastleigh | Liz Jarvis MP | 4297 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2209 |
@@ -215,7 +215,7 @@
 | Harlow | Chris Vince MP | 6029 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4517 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5080 |
-| Harrow East | Bob Blackman MP | 3119 |
+| Harrow East | Bob Blackman MP | 3120 |
 | Harrow West | Gareth Thomas MP | 2391 |
 | Hartlepool | Mr Jonathan Brash MP | 5611 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6237 |
@@ -233,7 +233,7 @@
 | Hexham | Joe Morris MP | 6377 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5214 |
 | High Peak | Jon Pearce MP | 5410 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6428 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6429 |
 | Hitchin | Alistair Strathern MP | 4892 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2270 |
 | Honiton and Sidmouth | Richard Foord MP | 5217 |
@@ -378,7 +378,7 @@
 | Poplar and Limehouse | Apsana Begum MP | 2906 |
 | Portsmouth North | Amanda Martin MP | 5573 |
 | Portsmouth South | Stephen Morgan MP | 3846 |
-| Preston | Sir Mark Hendrick MP | 3768 |
+| Preston | Sir Mark Hendrick MP | 3769 |
 | Putney | Fleur Anderson MP | 3496 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2136 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5069 |
@@ -429,7 +429,7 @@
 | South Cambridgeshire | Pippa Heylings MP | 4426 |
 | South Cotswolds | Dr Roz Savage MP | 5692 |
 | South Derbyshire | Samantha Niblett MP | 6127 |
-| South Devon | Caroline Voaden MP | 5288 |
+| South Devon | Caroline Voaden MP | 5289 |
 | South Dorset | Lloyd Hatton MP | 5610 |
 | South East Cornwall | Anna Gelderd MP | 6190 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7089 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3401 |
 | Glasgow East | John Grady MP | 2287 |
 | Glasgow North | Martin Rhodes MP | 2029 |
-| Glasgow North East | Maureen Burke MP | 2444 |
+| Glasgow North East | Maureen Burke MP | 2446 |
 | Glasgow South | Gordon McKee MP | 1826 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2245 |
 | Glasgow West | Patricia Ferguson MP | 2191 |
