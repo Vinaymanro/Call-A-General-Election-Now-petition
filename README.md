@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2973096                                |
-| Last Updated      | 2025-01-23 02:42:52 UTC                                    |
+| Total Signatures   | 2973104                                |
+| Last Updated      | 2025-01-23 03:18:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -12,7 +12,7 @@
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5772 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5475 |
 | Amber Valley | Linsey Farnsworth MP | 6048 |
-| Arundel and South Downs | Andrew Griffith MP | 6928 |
+| Arundel and South Downs | Andrew Griffith MP | 6929 |
 | Ashfield | Lee Anderson MP | 6119 |
 | Ashford | Sojan Joseph MP | 5863 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4547 |
@@ -31,7 +31,7 @@
 | Beckenham and Penge | Liam Conlon MP | 3821 |
 | Bedford | Mohammad Yasin MP | 3208 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2684 |
-| Bethnal Green and Stepney | Rushanara Ali MP | 1710 |
+| Bethnal Green and Stepney | Rushanara Ali MP | 1711 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6114 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6092 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5025 |
@@ -58,7 +58,7 @@
 | Bolton North East | Kirith Entwistle MP | 5547 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4373 |
 | Bolton West | Phil Brickell MP | 5548 |
-| Bootle | Peter Dowd MP | 3121 |
+| Bootle | Peter Dowd MP | 3122 |
 | Boston and Skegness | Richard Tice MP | 7050 |
 | Bournemouth East | Tom Hayes MP | 4631 |
 | Bournemouth West | Jessica Toale MP | 4873 |
@@ -250,8 +250,8 @@
 | Ipswich | Jack Abbott MP | 4114 |
 | Isle of Wight East | Joe Robertson MP | 4355 |
 | Isle of Wight West | Mr Richard Quigley MP | 4046 |
-| Islington North | Rt Hon Jeremy Corbyn MP | 1778 |
-| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2751 |
+| Islington North | Rt Hon Jeremy Corbyn MP | 1779 |
+| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2752 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5062 |
 | Keighley and Ilkley | Robbie Moore MP | 4668 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6077 |
@@ -296,7 +296,7 @@
 | Maidenhead | Mr Joshua Reynolds MP | 5261 |
 | Maidstone and Malling | Helen Grant MP | 5813 |
 | Makerfield | Josh Simons MP | 5813 |
-| Maldon | Rt Hon Sir John Whittingdale MP | 8079 |
+| Maldon | Rt Hon Sir John Whittingdale MP | 8080 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3966 |
 | Manchester Rusholme | Afzal Khan MP | 1211 |
 | Manchester Withington | Jeff Smith MP | 1660 |
@@ -360,7 +360,7 @@
 | Nottingham South | Lilian Greenwood MP | 3036 |
 | Nuneaton | Jodie Gosling MP | 5507 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6194 |
-| Oldham East and Saddleworth | Debbie Abrahams MP | 5188 |
+| Oldham East and Saddleworth | Debbie Abrahams MP | 5189 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4047 |
 | Orpington | Gareth Bacon MP | 5288 |
 | Ossett and Denby Dale | Jade Botterill MP | 5777 |
@@ -513,7 +513,7 @@
 | Warrington South | Sarah Hall MP | 5536 |
 | Warwick and Leamington | Matt Western MP | 4448 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5277 |
-| Watford | Matt Turmaine MP | 3724 |
+| Watford | Matt Turmaine MP | 3725 |
 | Waveney Valley | Adrian Ramsay MP | 5819 |
 | Weald of Kent | Katie Lam MP | 7191 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5051 |
