@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2973114                                |
-| Last Updated      | 2025-01-23 04:19:51 UTC                                    |
+| Total Signatures   | 2973123                                |
+| Last Updated      | 2025-01-23 05:16:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -316,7 +316,7 @@
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5670 |
 | Milton Keynes Central | Emily Darlington MP | 4906 |
 | Milton Keynes North | Chris Curtis MP | 4535 |
-| Mitcham and Morden | Dame Siobhain McDonagh MP | 2656 |
+| Mitcham and Morden | Dame Siobhain McDonagh MP | 2657 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5729 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5375 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5225 |
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7319 |
 | Reading Central | Matt Rodda MP | 3017 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4414 |
-| Redcar | Anna Turley MP | 5417 |
+| Redcar | Anna Turley MP | 5418 |
 | Redditch | Chris Bloore MP | 6038 |
 | Reigate | Rebecca Paul MP | 5522 |
 | Ribble Valley | Maya Ellis MP | 6677 |
@@ -425,7 +425,7 @@
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2564 |
 | Smethwick | Gurinder Singh Josan MP | 3032 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5407 |
-| South Basildon and East Thurrock | James McMurdock MP | 6551 |
+| South Basildon and East Thurrock | James McMurdock MP | 6552 |
 | South Cambridgeshire | Pippa Heylings MP | 4429 |
 | South Cotswolds | Dr Roz Savage MP | 5695 |
 | South Derbyshire | Samantha Niblett MP | 6131 |
@@ -493,7 +493,7 @@
 | Thornbury and Yate | Claire Young MP | 5662 |
 | Thurrock | Jen Craft MP | 5081 |
 | Tipton and Wednesbury | Antonia Bance MP | 4884 |
-| Tiverton and Minehead | Rachel Gilmour MP | 5924 |
+| Tiverton and Minehead | Rachel Gilmour MP | 5925 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5915 |
 | Tooting | Dr Rosena Allin-Khan MP | 2678 |
 | Torbay | Steve Darling MP | 5778 |
@@ -510,7 +510,7 @@
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3978 |
 | Walthamstow | Ms Stella Creasy MP | 1311 |
 | Warrington North | Charlotte Nichols MP | 5130 |
-| Warrington South | Sarah Hall MP | 5536 |
+| Warrington South | Sarah Hall MP | 5537 |
 | Warwick and Leamington | Matt Western MP | 4448 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5277 |
 | Watford | Matt Turmaine MP | 3725 |
@@ -539,7 +539,7 @@
 | Witney | Charlie Maynard MP | 5132 |
 | Woking | Mr Will Forster MP | 4372 |
 | Wokingham | Clive Jones MP | 4844 |
-| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4354 |
+| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4355 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4270 |
 | Wolverhampton West | Warinder Juss | 3794 |
 | Worcester | Tom Collins MP | 4298 |
@@ -655,6 +655,6 @@
 | Rhondda and Ogmore | Chris Bryant MP | 3996 |
 | Swansea West | Torsten Bell MP | 3621 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4045 |
-| Vale of Glamorgan | Kanishka Narayan MP | 4585 |
+| Vale of Glamorgan | Kanishka Narayan MP | 4587 |
 | Wrexham | Andrew Ranger MP | 4755 |
-| Ynys Môn | Llinos Medi MP | 3707 |
+| Ynys Môn | Llinos Medi MP | 3708 |
