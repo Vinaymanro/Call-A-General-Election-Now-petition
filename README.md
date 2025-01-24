@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2974070                                |
-| Last Updated      | 2025-01-24 04:19:56 UTC                                    |
+| Total Signatures   | 2974075                                |
+| Last Updated      | 2025-01-24 05:16:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -61,7 +61,7 @@
 | Bootle | Peter Dowd MP | 3122 |
 | Boston and Skegness | Richard Tice MP | 7051 |
 | Bournemouth East | Tom Hayes MP | 4631 |
-| Bournemouth West | Jessica Toale MP | 4876 |
+| Bournemouth West | Jessica Toale MP | 4877 |
 | Bracknell | Peter Swallow MP | 4943 |
 | Bradford East | Imran Hussain MP | 2857 |
 | Bradford South | Judith Cummins MP | 4120 |
@@ -96,7 +96,7 @@
 | Camborne and Redruth | Perran Moon MP | 4931 |
 | Cambridge | Daniel Zeichner MP | 2201 |
 | Cannock Chase | Josh Newbury MP | 6830 |
-| Canterbury | Rosie Duffield MP | 4452 |
+| Canterbury | Rosie Duffield MP | 4453 |
 | Carlisle | Ms Julie Minns MP | 6497 |
 | Carshalton and Wallington | Bobby Dean MP | 4238 |
 | Castle Point | Rebecca Harris MP | 7489 |
@@ -178,7 +178,7 @@
 | Esher and Walton | Monica Harding MP | 4803 |
 | Exeter | Steve Race MP | 3157 |
 | Exmouth and Exeter East | David Reed MP | 5170 |
-| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6089 |
+| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6090 |
 | Farnham and Bordon | Gregory Stafford MP | 5158 |
 | Faversham and Mid Kent | Helen Whately MP | 6195 |
 | Feltham and Heston | Seema Malhotra MP | 2894 |
@@ -300,7 +300,7 @@
 | Manchester Central | Rt Hon Lucy Powell MP | 3968 |
 | Manchester Rusholme | Afzal Khan MP | 1212 |
 | Manchester Withington | Jeff Smith MP | 1660 |
-| Mansfield | Steve Yemm MP | 6151 |
+| Mansfield | Steve Yemm MP | 6152 |
 | Melksham and Devizes | Brian Mathew MP | 4986 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6079 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6020 |
@@ -494,7 +494,7 @@
 | Thurrock | Jen Craft MP | 5082 |
 | Tipton and Wednesbury | Antonia Bance MP | 4885 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5927 |
-| Tonbridge | Rt Hon Tom Tugendhat MP | 5915 |
+| Tonbridge | Rt Hon Tom Tugendhat MP | 5916 |
 | Tooting | Dr Rosena Allin-Khan MP | 2678 |
 | Torbay | Steve Darling MP | 5779 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6535 |
