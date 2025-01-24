@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2974054                                |
-| Last Updated      | 2025-01-24 02:43:20 UTC                                    |
+| Total Signatures   | 2974058                                |
+| Last Updated      | 2025-01-24 03:18:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -134,7 +134,7 @@
 | Croydon East | Natasha Irons MP | 3318 |
 | Croydon South | Rt Hon Chris Philp MP | 3943 |
 | Croydon West | Sarah Jones MP | 1737 |
-| Dagenham and Rainham | Margaret Mullane MP | 4205 |
+| Dagenham and Rainham | Margaret Mullane MP | 4206 |
 | Darlington | Lola McEvoy MP | 5428 |
 | Dartford | Jim Dickson MP | 5704 |
 | Daventry | Rt Hon Stuart Andrew MP | 7252 |
@@ -288,7 +288,7 @@
 | Liverpool Wavertree | Paula Barker MP | 2203 |
 | Liverpool West Derby | Ian Byrne MP | 3022 |
 | Loughborough | Dr Jeevun Sandher MP | 4456 |
-| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7749 |
+| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7751 |
 | Lowestoft | Jess Asato MP | 5294 |
 | Luton North | Sarah Owen MP | 2452 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2922 |
@@ -372,7 +372,7 @@
 | Penrith and Solway | Markus Campbell-Savours MP | 6158 |
 | Peterborough | Andrew Pakes MP | 4130 |
 | Plymouth Moor View | Fred Thomas MP | 5634 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4715 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4716 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5400 |
 | Poole | Neil Duncan-Jordan MP | 5635 |
 | Poplar and Limehouse | Apsana Begum MP | 2908 |
