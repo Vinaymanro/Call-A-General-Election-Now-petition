@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2974664                                |
-| Last Updated      | 2025-01-25 06:21:04 UTC                                    |
+| Total Signatures   | 2974670                                |
+| Last Updated      | 2025-01-25 07:13:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -55,7 +55,7 @@
 | Blyth and Ashington | Ian Lavery MP | 5816 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6104 |
 | Bolsover | Natalie Fleet MP | 6489 |
-| Bolton North East | Kirith Entwistle MP | 5549 |
+| Bolton North East | Kirith Entwistle MP | 5550 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4377 |
 | Bolton West | Phil Brickell MP | 5551 |
 | Bootle | Peter Dowd MP | 3123 |
@@ -311,7 +311,7 @@
 | Mid Dorset and North Poole | Vikki Slade MP | 5864 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5552 |
 | Mid Norfolk | George Freeman MP | 6239 |
-| Mid Sussex | Alison Bennett MP | 4677 |
+| Mid Sussex | Alison Bennett MP | 4678 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4191 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5671 |
 | Milton Keynes Central | Emily Darlington MP | 4911 |
@@ -328,7 +328,7 @@
 | Newcastle-under-Lyme | Adam Jogee MP | 5030 |
 | Newton Abbot | Martin Wrigley MP | 5076 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5502 |
-| Normanton and Hemsworth | Jon Trickett MP | 5448 |
+| Normanton and Hemsworth | Jon Trickett MP | 5449 |
 | North Bedfordshire | Richard Fuller MP | 6075 |
 | North Cornwall | Ben Maguire MP | 6372 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6023 |
@@ -456,7 +456,7 @@
 | St Austell and Newquay | Noah Law MP | 5568 |
 | St Helens North | David Baines MP | 4652 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4119 |
-| St Ives | Andrew George MP | 5056 |
+| St Ives | Andrew George MP | 5057 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4773 |
 | Stafford | Leigh Ingham MP | 5572 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6384 |
@@ -526,7 +526,7 @@
 | West Suffolk | Nick Timothy MP | 5991 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6229 |
 | Westmorland and Lonsdale | Tim Farron MP | 5181 |
-| Weston-super-Mare | Dan Aldridge MP | 5032 |
+| Weston-super-Mare | Dan Aldridge MP | 5033 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6556 |
 | Whitehaven and Workington | Josh MacAlister MP | 5805 |
 | Widnes and Halewood | Derek Twigg MP | 4209 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2061 |
 | North Antrim | Jim Allister KC MP | 3077 |
 | North Down | Alex Easton MP | 3328 |
-| South Antrim | Robin Swann MP | 3074 |
+| South Antrim | Robin Swann MP | 3075 |
 | South Down | Chris Hazzard MP | 1835 |
 | Strangford | Jim Shannon MP | 3446 |
 | Upper Bann | Carla Lockhart MP | 3050 |
