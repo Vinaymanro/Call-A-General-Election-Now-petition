@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2974645                                |
-| Last Updated      | 2025-01-25 02:38:10 UTC                                    |
+| Total Signatures   | 2974649                                |
+| Last Updated      | 2025-01-25 03:16:39 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -63,7 +63,7 @@
 | Bournemouth East | Tom Hayes MP | 4631 |
 | Bournemouth West | Jessica Toale MP | 4880 |
 | Bracknell | Peter Swallow MP | 4943 |
-| Bradford East | Imran Hussain MP | 2858 |
+| Bradford East | Imran Hussain MP | 2859 |
 | Bradford South | Judith Cummins MP | 4121 |
 | Bradford West | Naz Shah MP | 1799 |
 | Braintree | Rt Hon James Cleverly MP | 7403 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3933 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5030 |
 | Newton Abbot | Martin Wrigley MP | 5076 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5501 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5502 |
 | Normanton and Hemsworth | Jon Trickett MP | 5448 |
 | North Bedfordshire | Richard Fuller MP | 6075 |
 | North Cornwall | Ben Maguire MP | 6372 |
@@ -404,7 +404,7 @@
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5813 |
 | Rushcliffe | James Naish MP | 5050 |
 | Rutland and Stamford | Alicia Kearns MP | 6240 |
-| Salford | Rebecca Long Bailey MP | 4631 |
+| Salford | Rebecca Long Bailey MP | 4632 |
 | Salisbury | Rt Hon John Glen MP | 4725 |
 | Scarborough and Whitby | Alison Hume MP | 5959 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5053 |
@@ -485,7 +485,7 @@
 | Swindon South | Rt Hon Heidi Alexander MP | 4171 |
 | Tamworth | Sarah Edwards MP | 6904 |
 | Tatton | Rt Hon Esther McVey MP | 6477 |
-| Taunton and Wellington | Gideon Amos MP | 5146 |
+| Taunton and Wellington | Gideon Amos MP | 5147 |
 | Telford | Shaun Davies MP | 5547 |
 | Tewkesbury | Cameron Thomas MP | 4995 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6361 |
