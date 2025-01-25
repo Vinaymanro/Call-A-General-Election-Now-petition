@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2974649                                |
-| Last Updated      | 2025-01-25 03:16:39 UTC                                    |
+| Total Signatures   | 2974654                                |
+| Last Updated      | 2025-01-25 04:18:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1569 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3455 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1888 |
-| Birmingham Northfield | Laurence Turner MP | 4855 |
+| Birmingham Northfield | Laurence Turner MP | 4856 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1705 |
 | Birmingham Selly Oak | Al Carns MP | 3270 |
 | Birmingham Yardley | Jess Phillips MP | 3047 |
@@ -145,7 +145,7 @@
 | Didcot and Wantage | Olly Glover MP | 4848 |
 | Doncaster Central | Sally Jameson MP | 4906 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6047 |
-| Doncaster North | Rt Hon Ed Miliband MP | 5517 |
+| Doncaster North | Rt Hon Ed Miliband MP | 5518 |
 | Dorking and Horley | Chris Coghlan MP | 5537 |
 | Dover and Deal | Mike Tapp MP | 5889 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6538 |
@@ -245,7 +245,7 @@
 | Huddersfield | Harpreet Uppal MP | 3658 |
 | Huntingdon | Ben Obese-Jecty MP | 5520 |
 | Hyndburn | Sarah Smith MP | 4966 |
-| Ilford North | Rt Hon Wes Streeting MP | 2607 |
+| Ilford North | Rt Hon Wes Streeting MP | 2608 |
 | Ilford South | Jas Athwal MP | 1577 |
 | Ipswich | Jack Abbott MP | 4117 |
 | Isle of Wight East | Joe Robertson MP | 4358 |
@@ -562,7 +562,7 @@
 | Lagan Valley | Sorcha Eastwood MP | 3506 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1885 |
 | Newry and Armagh | Dáire Hughes MP | 2061 |
-| North Antrim | Jim Allister KC MP | 3076 |
+| North Antrim | Jim Allister KC MP | 3077 |
 | North Down | Alex Easton MP | 3328 |
 | South Antrim | Robin Swann MP | 3074 |
 | South Down | Chris Hazzard MP | 1835 |
@@ -602,7 +602,7 @@
 | Glasgow North | Martin Rhodes MP | 2030 |
 | Glasgow North East | Maureen Burke MP | 2449 |
 | Glasgow South | Gordon McKee MP | 1833 |
-| Glasgow South West | Dr Zubir Ahmed MP | 2248 |
+| Glasgow South West | Dr Zubir Ahmed MP | 2249 |
 | Glasgow West | Patricia Ferguson MP | 2192 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2947 |
 | Gordon and Buchan | Harriet Cross MP | 4362 |
