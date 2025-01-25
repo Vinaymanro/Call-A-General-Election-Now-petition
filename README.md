@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2974654                                |
-| Last Updated      | 2025-01-25 04:18:57 UTC                                    |
+| Total Signatures   | 2974656                                |
+| Last Updated      | 2025-01-25 05:15:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -603,7 +603,7 @@
 | Glasgow North East | Maureen Burke MP | 2449 |
 | Glasgow South | Gordon McKee MP | 1833 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2249 |
-| Glasgow West | Patricia Ferguson MP | 2192 |
+| Glasgow West | Patricia Ferguson MP | 2193 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2947 |
 | Gordon and Buchan | Harriet Cross MP | 4362 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3113 |
@@ -612,7 +612,7 @@
 | Livingston | Gregor Poynton MP | 3377 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2838 |
 | Mid Dunbartonshire | Susan Murray MP | 2507 |
-| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3907 |
+| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3908 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2712 |
 | North East Fife | Wendy Chamberlain MP | 2885 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2832 |
