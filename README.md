@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2974656                                |
-| Last Updated      | 2025-01-25 05:15:01 UTC                                    |
+| Total Signatures   | 2974664                                |
+| Last Updated      | 2025-01-25 06:21:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -258,7 +258,7 @@
 | Kensington and Bayswater | Joe Powell MP | 4381 |
 | Kettering | Rosie Wrighting MP | 5870 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3734 |
-| Kingston upon Hull East | Karl Turner MP | 4962 |
+| Kingston upon Hull East | Karl Turner MP | 4964 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4606 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5460 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6368 |
@@ -422,7 +422,7 @@
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6815 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6642 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6264 |
-| Slough | Mr Tanmanjeet Singh Dhesi MP | 2564 |
+| Slough | Mr Tanmanjeet Singh Dhesi MP | 2566 |
 | Smethwick | Gurinder Singh Josan MP | 3036 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5407 |
 | South Basildon and East Thurrock | James McMurdock MP | 6559 |
@@ -463,8 +463,8 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5312 |
 | Stevenage | Kevin Bonavia MP | 4697 |
 | Stockport | Navendu Mishra MP | 3895 |
-| Stockton North | Chris McDonald MP | 4804 |
-| Stockton West | Matt Vickers MP | 5951 |
+| Stockton North | Chris McDonald MP | 4805 |
+| Stockton West | Matt Vickers MP | 5952 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4680 |
 | Stoke-on-Trent North | David Williams MP | 5418 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5694 |
@@ -484,7 +484,7 @@
 | Swindon North | Will Stone MP | 4866 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4171 |
 | Tamworth | Sarah Edwards MP | 6904 |
-| Tatton | Rt Hon Esther McVey MP | 6477 |
+| Tatton | Rt Hon Esther McVey MP | 6478 |
 | Taunton and Wellington | Gideon Amos MP | 5147 |
 | Telford | Shaun Davies MP | 5547 |
 | Tewkesbury | Cameron Thomas MP | 4995 |
@@ -553,7 +553,7 @@
 | York Outer | Mr Luke Charters MP | 4328 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2944 |
 | Belfast North | John Finucane MP | 2470 |
-| Belfast South and Mid Down | Claire Hanna MP | 1933 |
+| Belfast South and Mid Down | Claire Hanna MP | 1934 |
 | Belfast West | Paul Maskey MP | 1400 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3579 |
 | East Londonderry | Mr Gregory Campbell MP | 2510 |
