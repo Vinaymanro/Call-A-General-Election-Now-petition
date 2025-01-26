@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975058                                |
-| Last Updated      | 2025-01-26 02:45:34 UTC                                    |
+| Total Signatures   | 2975059                                |
+| Last Updated      | 2025-01-26 03:18:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -551,7 +551,7 @@
 | Yeovil | Adam Dance MP | 5565 |
 | York Central | Rachael Maskell MP | 3255 |
 | York Outer | Mr Luke Charters MP | 4328 |
-| Belfast East | Rt Hon Gavin Robinson MP | 2944 |
+| Belfast East | Rt Hon Gavin Robinson MP | 2945 |
 | Belfast North | John Finucane MP | 2470 |
 | Belfast South and Mid Down | Claire Hanna MP | 1935 |
 | Belfast West | Paul Maskey MP | 1400 |
