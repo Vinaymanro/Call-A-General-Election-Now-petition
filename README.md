@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975059                                |
-| Last Updated      | 2025-01-26 03:18:32 UTC                                    |
+| Total Signatures   | 2975060                                |
+| Last Updated      | 2025-01-26 04:18:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -536,7 +536,7 @@
 | Windsor | Jack Rankin MP | 5089 |
 | Wirral West | Matthew Patrick MP | 4193 |
 | Witham | Rt Hon Priti Patel MP | 6981 |
-| Witney | Charlie Maynard MP | 5133 |
+| Witney | Charlie Maynard MP | 5134 |
 | Woking | Mr Will Forster MP | 4375 |
 | Wokingham | Clive Jones MP | 4847 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4360 |
