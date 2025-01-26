@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975070                                |
-| Last Updated      | 2025-01-26 06:21:34 UTC                                    |
+| Total Signatures   | 2975076                                |
+| Last Updated      | 2025-01-26 07:13:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -127,7 +127,7 @@
 | Corby and East Northamptonshire | Lee Barron MP | 5970 |
 | Coventry East | Mary Creagh MP | 3559 |
 | Coventry North West | Taiwo Owatemi MP | 4223 |
-| Coventry South | Zarah Sultana MP | 3492 |
+| Coventry South | Zarah Sultana MP | 3493 |
 | Cramlington and Killingworth | Emma Foody MP | 5767 |
 | Crawley | Peter Lamb MP | 4682 |
 | Crewe and Nantwich | Connor Naismith MP | 5654 |
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5518 |
 | Dorking and Horley | Chris Coghlan MP | 5538 |
 | Dover and Deal | Mike Tapp MP | 5890 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6538 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6540 |
 | Dudley | Sonia Kumar MP | 5356 |
 | Dulwich and West Norwood | Helen Hayes MP | 1545 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5487 |
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5382 |
 | Maidenhead | Mr Joshua Reynolds MP | 5264 |
 | Maidstone and Malling | Helen Grant MP | 5816 |
-| Makerfield | Josh Simons MP | 5824 |
+| Makerfield | Josh Simons MP | 5825 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8083 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3971 |
 | Manchester Rusholme | Afzal Khan MP | 1212 |
@@ -436,11 +436,11 @@
 | South Leicestershire | Alberto Costa MP | 6943 |
 | South Norfolk | Ben Goldsborough MP | 5412 |
 | South Northamptonshire | Sarah Bool MP | 6634 |
-| South Ribble | Mr Paul Foster MP | 5861 |
+| South Ribble | Mr Paul Foster MP | 5862 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4699 |
 | South Shropshire | Stuart Anderson MP | 7296 |
 | South Suffolk | James Cartlidge MP | 6118 |
-| South West Devon | Rebecca Smith MP | 5948 |
+| South West Devon | Rebecca Smith MP | 5949 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5184 |
 | South West Norfolk | Terry Jermy MP | 6494 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5173 |
