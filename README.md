@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975051                                |
-| Last Updated      | 2025-01-26 01:18:55 UTC                                    |
+| Total Signatures   | 2975058                                |
+| Last Updated      | 2025-01-26 02:45:34 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2687 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1714 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6117 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6093 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6094 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5027 |
 | Bicester and Woodstock | Calum Miller MP | 4649 |
 | Birkenhead | Alison McGovern MP | 4288 |
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 5999 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1095 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5315 |
-| East Surrey | Rt Hon Claire Coutinho MP | 5999 |
+| East Surrey | Rt Hon Claire Coutinho MP | 6000 |
 | East Thanet | Ms Polly Billington MP | 5447 |
 | East Wiltshire | Danny Kruger MP | 6037 |
 | East Worthing and Shoreham | Tom Rutland MP | 4571 |
@@ -177,7 +177,7 @@
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3207 |
 | Esher and Walton | Monica Harding MP | 4805 |
 | Exeter | Steve Race MP | 3158 |
-| Exmouth and Exeter East | David Reed MP | 5170 |
+| Exmouth and Exeter East | David Reed MP | 5171 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6094 |
 | Farnham and Bordon | Gregory Stafford MP | 5158 |
 | Faversham and Mid Kent | Helen Whately MP | 6195 |
@@ -314,7 +314,7 @@
 | Mid Sussex | Alison Bennett MP | 4678 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4191 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5671 |
-| Milton Keynes Central | Emily Darlington MP | 4913 |
+| Milton Keynes Central | Emily Darlington MP | 4914 |
 | Milton Keynes North | Chris Curtis MP | 4537 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2658 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5730 |
@@ -400,7 +400,7 @@
 | Rotherham | Sarah Champion MP | 4908 |
 | Rugby | John Slinger MP | 5367 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4090 |
-| Runcorn and Helsby | Mike Amesbury MP | 4990 |
+| Runcorn and Helsby | Mike Amesbury MP | 4991 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5813 |
 | Rushcliffe | James Naish MP | 5050 |
 | Rutland and Stamford | Alicia Kearns MP | 6240 |
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4360 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4275 |
 | Wolverhampton West | Warinder Juss | 3798 |
-| Worcester | Tom Collins MP | 4300 |
+| Worcester | Tom Collins MP | 4301 |
 | Worsley and Eccles | Michael Wheeler MP | 5405 |
 | Worthing West | Dr Beccy Cooper MP | 5226 |
 | Wycombe | Emma Reynolds MP | 3594 |
@@ -574,7 +574,7 @@
 | Midlothian | Kirsty McNeill MP | 2772 |
 | North Ayrshire and Arran | Irene Campbell MP | 3271 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1433 |
-| Aberdeen North | Kirsty Blackman MP | 3525 |
+| Aberdeen North | Kirsty Blackman MP | 3526 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3817 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4644 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2796 |
