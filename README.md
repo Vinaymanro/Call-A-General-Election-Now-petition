@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975062                                |
-| Last Updated      | 2025-01-26 05:15:54 UTC                                    |
+| Total Signatures   | 2975070                                |
+| Last Updated      | 2025-01-26 06:21:34 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -44,7 +44,7 @@
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1888 |
 | Birmingham Northfield | Laurence Turner MP | 4856 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1705 |
-| Birmingham Selly Oak | Al Carns MP | 3270 |
+| Birmingham Selly Oak | Al Carns MP | 3271 |
 | Birmingham Yardley | Jess Phillips MP | 3048 |
 | Bishop Auckland | Sam Rushworth MP | 6134 |
 | Blackburn | Mr Adnan Hussain MP | 3112 |
@@ -109,7 +109,7 @@
 | Cheltenham | Max Wilkinson MP | 4009 |
 | Chesham and Amersham | Sarah Green MP | 4927 |
 | Chester North and Neston | Samantha Dixon MP | 4030 |
-| Chester South and Eddisbury | Aphra Brandreth MP | 6367 |
+| Chester South and Eddisbury | Aphra Brandreth MP | 6368 |
 | Chesterfield | Mr Toby Perkins MP | 4840 |
 | Chichester | Jess Brown-Fuller MP | 5887 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4143 |
@@ -345,14 +345,14 @@
 | North Northumberland | David Smith MP | 6406 |
 | North Shropshire | Helen Morgan MP | 6845 |
 | North Somerset | Sadik Al-Hassan MP | 4562 |
-| North Warwickshire and Bedworth | Rachel Taylor MP | 6226 |
+| North Warwickshire and Bedworth | Rachel Taylor MP | 6227 |
 | North West Cambridgeshire | Sam Carling MP | 5980 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7106 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5701 |
 | North West Leicestershire | Amanda Hack MP | 6669 |
 | North West Norfolk | James Wild MP | 5714 |
 | Northampton North | Lucy Rigby MP | 4246 |
-| Northampton South | Mike Reader MP | 4931 |
+| Northampton South | Mike Reader MP | 4932 |
 | Norwich North | Alice Macdonald MP | 4369 |
 | Norwich South | Clive Lewis MP | 3366 |
 | Nottingham East | Nadia Whittome MP | 2455 |
@@ -396,7 +396,7 @@
 | Romford | Andrew Rosindell MP | 5765 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5048 |
 | Rossendale and Darwen | Andy MacNae MP | 6451 |
-| Rother Valley | Jake Richards MP | 5818 |
+| Rother Valley | Jake Richards MP | 5819 |
 | Rotherham | Sarah Champion MP | 4908 |
 | Rugby | John Slinger MP | 5367 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4090 |
@@ -430,7 +430,7 @@
 | South Cotswolds | Dr Roz Savage MP | 5698 |
 | South Derbyshire | Samantha Niblett MP | 6139 |
 | South Devon | Caroline Voaden MP | 5293 |
-| South Dorset | Lloyd Hatton MP | 5615 |
+| South Dorset | Lloyd Hatton MP | 5616 |
 | South East Cornwall | Anna Gelderd MP | 6194 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7094 |
 | South Leicestershire | Alberto Costa MP | 6943 |
@@ -525,7 +525,7 @@
 | West Lancashire | Ashley Dalton MP | 5024 |
 | West Suffolk | Nick Timothy MP | 5993 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6231 |
-| Westmorland and Lonsdale | Tim Farron MP | 5183 |
+| Westmorland and Lonsdale | Tim Farron MP | 5184 |
 | Weston-super-Mare | Dan Aldridge MP | 5033 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6556 |
 | Whitehaven and Workington | Josh MacAlister MP | 5807 |
@@ -629,7 +629,7 @@
 | Aberafan Maesteg | Stephen Kinnock MP | 3652 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5716 |
 | Bangor Aberconwy | Claire Hughes MP | 4488 |
-| Blaenau Gwent and Rhymney | Nick Smith MP | 3599 |
+| Blaenau Gwent and Rhymney | Nick Smith MP | 3600 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5247 |
 | Bridgend | Chris Elmore MP | 4206 |
 | Caerfyrddin | Ann Davies MP | 5183 |
