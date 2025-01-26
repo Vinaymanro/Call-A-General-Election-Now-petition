@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975060                                |
-| Last Updated      | 2025-01-26 04:18:53 UTC                                    |
+| Total Signatures   | 2975062                                |
+| Last Updated      | 2025-01-26 05:15:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -96,7 +96,7 @@
 | Camborne and Redruth | Perran Moon MP | 4932 |
 | Cambridge | Daniel Zeichner MP | 2201 |
 | Cannock Chase | Josh Newbury MP | 6831 |
-| Canterbury | Rosie Duffield MP | 4454 |
+| Canterbury | Rosie Duffield MP | 4455 |
 | Carlisle | Ms Julie Minns MP | 6500 |
 | Carshalton and Wallington | Bobby Dean MP | 4239 |
 | Castle Point | Rebecca Harris MP | 7491 |
@@ -572,7 +572,7 @@
 | East Renfrewshire | Blair McDougall MP | 2581 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 878 |
 | Midlothian | Kirsty McNeill MP | 2772 |
-| North Ayrshire and Arran | Irene Campbell MP | 3271 |
+| North Ayrshire and Arran | Irene Campbell MP | 3272 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1433 |
 | Aberdeen North | Kirsty Blackman MP | 3526 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3817 |
