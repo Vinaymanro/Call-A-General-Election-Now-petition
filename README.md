@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975469                                |
-| Last Updated      | 2025-01-27 03:19:11 UTC                                    |
+| Total Signatures   | 2975474                                |
+| Last Updated      | 2025-01-27 04:20:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -170,7 +170,7 @@
 | Ellesmere Port and Bromborough | Justin Madders MP | 4411 |
 | Eltham and Chislehurst | Clive Efford MP | 4680 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5141 |
-| Enfield North | Feryal Clark MP | 2871 |
+| Enfield North | Feryal Clark MP | 2872 |
 | Epping Forest | Dr Neil Hudson MP | 6548 |
 | Epsom and Ewell | Helen Maguire MP | 4906 |
 | Erewash | Adam Thompson MP | 5791 |
@@ -236,7 +236,7 @@
 | Hinckley and Bosworth | Dr Luke Evans MP | 6436 |
 | Hitchin | Alistair Strathern MP | 4895 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2272 |
-| Honiton and Sidmouth | Richard Foord MP | 5223 |
+| Honiton and Sidmouth | Richard Foord MP | 5224 |
 | Hornchurch and Upminster | Julia Lopez MP | 6592 |
 | Hornsey and Friern Barnet | Catherine West MP | 1928 |
 | Horsham | John Milne MP | 5794 |
@@ -270,7 +270,7 @@
 | Leeds North West | Katie White MP | 4363 |
 | Leeds South | Rt Hon Hilary Benn MP | 3841 |
 | Leeds South West and Morley | Mark Sewards MP | 5464 |
-| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3763 |
+| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3764 |
 | Leicester East | Shivani Raja MP | 1871 |
 | Leicester South | Shockat Adam MP | 1824 |
 | Leicester West | Rt Hon Liz Kendall MP | 3429 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5552 |
 | Mid Norfolk | George Freeman MP | 6239 |
 | Mid Sussex | Alison Bennett MP | 4680 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4191 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4192 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5671 |
 | Milton Keynes Central | Emily Darlington MP | 4915 |
 | Milton Keynes North | Chris Curtis MP | 4537 |
@@ -606,7 +606,7 @@
 | Glasgow West | Patricia Ferguson MP | 2193 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2947 |
 | Gordon and Buchan | Harriet Cross MP | 4363 |
-| Hamilton and Clyde Valley | Imogen Walker MP | 3113 |
+| Hamilton and Clyde Valley | Imogen Walker MP | 3114 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2736 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3598 |
 | Livingston | Gregor Poynton MP | 3378 |
