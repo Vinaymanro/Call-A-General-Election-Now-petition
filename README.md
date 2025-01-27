@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975467                                |
-| Last Updated      | 2025-01-27 02:45:18 UTC                                    |
+| Total Signatures   | 2975469                                |
+| Last Updated      | 2025-01-27 03:19:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -167,7 +167,7 @@
 | Eastbourne | Josh Babarinde MP | 5021 |
 | Eastleigh | Liz Jarvis MP | 4304 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2210 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4410 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4411 |
 | Eltham and Chislehurst | Clive Efford MP | 4680 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5141 |
 | Enfield North | Feryal Clark MP | 2871 |
@@ -349,7 +349,7 @@
 | North West Cambridgeshire | Sam Carling MP | 5980 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7108 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5701 |
-| North West Leicestershire | Amanda Hack MP | 6671 |
+| North West Leicestershire | Amanda Hack MP | 6672 |
 | North West Norfolk | James Wild MP | 5716 |
 | Northampton North | Lucy Rigby MP | 4246 |
 | Northampton South | Mike Reader MP | 4934 |
