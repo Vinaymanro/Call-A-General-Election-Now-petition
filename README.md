@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975477                                |
-| Last Updated      | 2025-01-27 05:16:17 UTC                                    |
+| Total Signatures   | 2975480                                |
+| Last Updated      | 2025-01-27 06:24:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -61,7 +61,7 @@
 | Bootle | Peter Dowd MP | 3124 |
 | Boston and Skegness | Richard Tice MP | 7054 |
 | Bournemouth East | Tom Hayes MP | 4635 |
-| Bournemouth West | Jessica Toale MP | 4883 |
+| Bournemouth West | Jessica Toale MP | 4884 |
 | Bracknell | Peter Swallow MP | 4944 |
 | Bradford East | Imran Hussain MP | 2862 |
 | Bradford South | Judith Cummins MP | 4122 |
@@ -272,7 +272,7 @@
 | Leeds South West and Morley | Mark Sewards MP | 5464 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3764 |
 | Leicester East | Shivani Raja MP | 1871 |
-| Leicester South | Shockat Adam MP | 1824 |
+| Leicester South | Shockat Adam MP | 1825 |
 | Leicester West | Rt Hon Liz Kendall MP | 3429 |
 | Leigh and Atherton | Jo Platt MP | 6033 |
 | Lewes | James MacCleary MP | 4873 |
@@ -288,7 +288,7 @@
 | Liverpool Wavertree | Paula Barker MP | 2204 |
 | Liverpool West Derby | Ian Byrne MP | 3022 |
 | Loughborough | Dr Jeevun Sandher MP | 4458 |
-| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7754 |
+| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7755 |
 | Lowestoft | Jess Asato MP | 5300 |
 | Luton North | Sarah Owen MP | 2454 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2924 |
