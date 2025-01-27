@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975474                                |
-| Last Updated      | 2025-01-27 04:20:53 UTC                                    |
+| Total Signatures   | 2975477                                |
+| Last Updated      | 2025-01-27 05:16:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -285,7 +285,7 @@
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3110 |
 | Liverpool Riverside | Kim Johnson MP | 2620 |
 | Liverpool Walton | Dan Carden MP | 3332 |
-| Liverpool Wavertree | Paula Barker MP | 2203 |
+| Liverpool Wavertree | Paula Barker MP | 2204 |
 | Liverpool West Derby | Ian Byrne MP | 3022 |
 | Loughborough | Dr Jeevun Sandher MP | 4458 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7754 |
@@ -416,7 +416,7 @@
 | Sheffield Hallam | Olivia Blake MP | 3376 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3507 |
 | Sheffield South East | Mr Clive Betts MP | 4708 |
-| Sherwood Forest | Michelle Welsh MP | 6621 |
+| Sherwood Forest | Michelle Welsh MP | 6622 |
 | Shipley | Anna Dixon MP | 4867 |
 | Shrewsbury | Julia Buckley MP | 5301 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6815 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3754 |
 | West Dorset | Edward Morello MP | 5429 |
 | West Ham and Beckton | James Asser MP | 2140 |
-| West Lancashire | Ashley Dalton MP | 5024 |
+| West Lancashire | Ashley Dalton MP | 5025 |
 | West Suffolk | Nick Timothy MP | 5994 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6232 |
 | Westmorland and Lonsdale | Tim Farron MP | 5185 |
