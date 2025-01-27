@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975480                                |
-| Last Updated      | 2025-01-27 06:24:20 UTC                                    |
+| Total Signatures   | 2975487                                |
+| Last Updated      | 2025-01-27 07:16:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -36,7 +36,7 @@
 | Bexhill and Battle | Dr Kieran Mullan MP | 6094 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5027 |
 | Bicester and Woodstock | Calum Miller MP | 4650 |
-| Birkenhead | Alison McGovern MP | 4288 |
+| Birkenhead | Alison McGovern MP | 4289 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2937 |
 | Birmingham Erdington | Paulette Hamilton MP | 4208 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1571 |
@@ -49,7 +49,7 @@
 | Bishop Auckland | Sam Rushworth MP | 6134 |
 | Blackburn | Mr Adnan Hussain MP | 3113 |
 | Blackley and Middleton South | Graham Stringer MP | 3735 |
-| Blackpool North and Fleetwood | Lorraine Beavers MP | 6108 |
+| Blackpool North and Fleetwood | Lorraine Beavers MP | 6109 |
 | Blackpool South | Chris Webb MP | 5753 |
 | Blaydon and Consett | Liz Twist MP | 5213 |
 | Blyth and Ashington | Ian Lavery MP | 5816 |
@@ -84,7 +84,7 @@
 | Broadland and Fakenham | Jerome Mayhew MP | 5801 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5224 |
 | Bromsgrove | Bradley Thomas MP | 6430 |
-| Broxbourne | Lewis Cocking MP | 6041 |
+| Broxbourne | Lewis Cocking MP | 6042 |
 | Broxtowe | Juliet Campbell MP | 4693 |
 | Buckingham and Bletchley | Callum Anderson MP | 5240 |
 | Burnley | Oliver Ryan MP | 5692 |
@@ -140,7 +140,7 @@
 | Daventry | Rt Hon Stuart Andrew MP | 7254 |
 | Derby North | Catherine Atkinson MP | 4295 |
 | Derby South | Baggy Shanker MP | 3574 |
-| Derbyshire Dales | John Whitby MP | 6756 |
+| Derbyshire Dales | John Whitby MP | 6757 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3154 |
 | Didcot and Wantage | Olly Glover MP | 4850 |
 | Doncaster Central | Sally Jameson MP | 4908 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2620 |
 | Liverpool Walton | Dan Carden MP | 3332 |
 | Liverpool Wavertree | Paula Barker MP | 2204 |
-| Liverpool West Derby | Ian Byrne MP | 3022 |
+| Liverpool West Derby | Ian Byrne MP | 3023 |
 | Loughborough | Dr Jeevun Sandher MP | 4458 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7755 |
 | Lowestoft | Jess Asato MP | 5300 |
@@ -460,12 +460,12 @@
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4773 |
 | Stafford | Leigh Ingham MP | 5575 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6385 |
-| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5314 |
+| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5315 |
 | Stevenage | Kevin Bonavia MP | 4698 |
 | Stockport | Navendu Mishra MP | 3895 |
 | Stockton North | Chris McDonald MP | 4808 |
 | Stockton West | Matt Vickers MP | 5956 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4680 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4681 |
 | Stoke-on-Trent North | David Williams MP | 5421 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5695 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6501 |
