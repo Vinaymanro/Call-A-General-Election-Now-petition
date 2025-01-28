@@ -3,14 +3,14 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975813                                |
-| Last Updated      | 2025-01-28 04:19:49 UTC                                    |
+| Total Signatures   | 2975815                                |
+| Last Updated      | 2025-01-28 05:15:48 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5423 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5776 |
-| Altrincham and Sale West | Mr Connor Rand MP | 5480 |
+| Altrincham and Sale West | Mr Connor Rand MP | 5481 |
 | Amber Valley | Linsey Farnsworth MP | 6054 |
 | Arundel and South Downs | Andrew Griffith MP | 6932 |
 | Ashfield | Lee Anderson MP | 6123 |
@@ -220,7 +220,7 @@
 | Hartlepool | Mr Jonathan Brash MP | 5616 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6243 |
 | Hastings and Rye | Helena Dollimore MP | 5040 |
-| Havant | Alan Mak MP | 5625 |
+| Havant | Alan Mak MP | 5626 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2575 |
 | Hazel Grove | Lisa Smart MP | 5070 |
 | Hemel Hempstead | David Taylor MP | 5050 |
