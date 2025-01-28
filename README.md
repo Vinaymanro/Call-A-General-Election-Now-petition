@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975825                                |
-| Last Updated      | 2025-01-28 06:23:21 UTC                                    |
+| Total Signatures   | 2975832                                |
+| Last Updated      | 2025-01-28 07:15:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -72,7 +72,7 @@
 | Brentford and Isleworth | Ruth Cadbury MP | 2978 |
 | Brentwood and Ongar | Alex Burghart MP | 8101 |
 | Bridgwater | Sir Ashley Fox MP | 5719 |
-| Bridlington and The Wolds | Charlie Dewhirst MP | 6591 |
+| Bridlington and The Wolds | Charlie Dewhirst MP | 6592 |
 | Brigg and Immingham | Martin Vickers MP | 6429 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3899 |
 | Brighton Pavilion | Siân Berry MP | 2721 |
@@ -144,7 +144,7 @@
 | Dewsbury and Batley | Iqbal Mohamed MP | 3154 |
 | Didcot and Wantage | Olly Glover MP | 4853 |
 | Doncaster Central | Sally Jameson MP | 4909 |
-| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6048 |
+| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6049 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5519 |
 | Dorking and Horley | Chris Coghlan MP | 5540 |
 | Dover and Deal | Mike Tapp MP | 5891 |
@@ -187,7 +187,7 @@
 | Folkestone and Hythe | Tony Vaughan MP | 5370 |
 | Forest of Dean | Matt Bishop MP | 5235 |
 | Frome and East Somerset | Anna Sabine MP | 4304 |
-| Fylde | Mr Andrew Snowden MP | 6745 |
+| Fylde | Mr Andrew Snowden MP | 6746 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6631 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4494 |
 | Gedling | Michael Payne MP | 5025 |
@@ -265,7 +265,7 @@
 | Knowsley | Anneliese Midgley MP | 3258 |
 | Lancaster and Wyre | Cat Smith MP | 5047 |
 | Leeds Central and Headingley | Alex Sobel MP | 1919 |
-| Leeds East | Richard Burgon MP | 4272 |
+| Leeds East | Richard Burgon MP | 4273 |
 | Leeds North East | Fabian Hamilton MP | 2611 |
 | Leeds North West | Katie White MP | 4365 |
 | Leeds South | Rt Hon Hilary Benn MP | 3842 |
@@ -358,7 +358,7 @@
 | Nottingham East | Nadia Whittome MP | 2456 |
 | Nottingham North and Kimberley | Alex Norris MP | 3699 |
 | Nottingham South | Lilian Greenwood MP | 3038 |
-| Nuneaton | Jodie Gosling MP | 5512 |
+| Nuneaton | Jodie Gosling MP | 5513 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6197 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5202 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4055 |
@@ -388,13 +388,13 @@
 | Redcar | Anna Turley MP | 5422 |
 | Redditch | Chris Bloore MP | 6044 |
 | Reigate | Rebecca Paul MP | 5528 |
-| Ribble Valley | Maya Ellis MP | 6683 |
+| Ribble Valley | Maya Ellis MP | 6684 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7074 |
 | Richmond Park | Sarah Olney MP | 4052 |
 | Rochdale | Paul Waugh MP | 3922 |
 | Rochester and Strood | Lauren Edwards MP | 5990 |
 | Romford | Andrew Rosindell MP | 5765 |
-| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5050 |
+| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5051 |
 | Rossendale and Darwen | Andy MacNae MP | 6452 |
 | Rother Valley | Jake Richards MP | 5819 |
 | Rotherham | Sarah Champion MP | 4909 |
