@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2975806                                |
-| Last Updated      | 2025-01-28 01:16:20 UTC                                    |
+| Total Signatures   | 2975813                                |
+| Last Updated      | 2025-01-28 02:42:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -36,7 +36,7 @@
 | Bexhill and Battle | Dr Kieran Mullan MP | 6096 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5028 |
 | Bicester and Woodstock | Calum Miller MP | 4650 |
-| Birkenhead | Alison McGovern MP | 4290 |
+| Birkenhead | Alison McGovern MP | 4291 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2937 |
 | Birmingham Erdington | Paulette Hamilton MP | 4210 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1571 |
@@ -143,7 +143,7 @@
 | Derbyshire Dales | John Whitby MP | 6758 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3154 |
 | Didcot and Wantage | Olly Glover MP | 4853 |
-| Doncaster Central | Sally Jameson MP | 4908 |
+| Doncaster Central | Sally Jameson MP | 4909 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6048 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5519 |
 | Dorking and Horley | Chris Coghlan MP | 5540 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6141 |
 | South Devon | Caroline Voaden MP | 5293 |
 | South Dorset | Lloyd Hatton MP | 5617 |
-| South East Cornwall | Anna Gelderd MP | 6197 |
+| South East Cornwall | Anna Gelderd MP | 6198 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7094 |
 | South Leicestershire | Alberto Costa MP | 6944 |
 | South Norfolk | Ben Goldsborough MP | 5413 |
@@ -453,7 +453,7 @@
 | Spelthorne | Lincoln Jopp MP | 5439 |
 | Spen Valley | Kim Leadbeater MP | 5338 |
 | St Albans | Daisy Cooper MP | 3867 |
-| St Austell and Newquay | Noah Law MP | 5569 |
+| St Austell and Newquay | Noah Law MP | 5570 |
 | St Helens North | David Baines MP | 4656 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4122 |
 | St Ives | Andrew George MP | 5057 |
@@ -474,7 +474,7 @@
 | Stratford-on-Avon | Manuela Perteghella MP | 6682 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1855 |
 | Stretford and Urmston | Andrew Western MP | 3797 |
-| Stroud | Dr Simon Opher MP | 4513 |
+| Stroud | Dr Simon Opher MP | 4514 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5364 |
 | Sunderland Central | Lewis Atkinson MP | 5198 |
 | Surrey Heath | Dr Al Pinkerton MP | 5401 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4565 |
 | Yeovil | Adam Dance MP | 5567 |
 | York Central | Rachael Maskell MP | 3256 |
-| York Outer | Mr Luke Charters MP | 4328 |
+| York Outer | Mr Luke Charters MP | 4329 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2945 |
 | Belfast North | John Finucane MP | 2470 |
 | Belfast South and Mid Down | Claire Hanna MP | 1935 |
@@ -638,7 +638,7 @@
 | Cardiff North | Anna McMorrin MP | 3271 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2779 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3122 |
-| Ceredigion Preseli | Ben Lake MP | 4717 |
+| Ceredigion Preseli | Ben Lake MP | 4718 |
 | Clwyd East | Becky Gittins MP | 5999 |
 | Clwyd North | Gill German MP | 5411 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4207 |
