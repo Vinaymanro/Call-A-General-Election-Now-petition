@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2976246                                |
-| Last Updated      | 2025-01-29 03:18:11 UTC                                    |
+| Total Signatures   | 2976253                                |
+| Last Updated      | 2025-01-29 04:19:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5356 |
 | Dulwich and West Norwood | Helen Hayes MP | 1548 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5488 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3072 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3073 |
 | Ealing North | James Murray MP | 2574 |
 | Ealing Southall | Deirdre Costigan MP | 1942 |
 | Earley and Woodley | Yuan Yang MP | 3937 |
@@ -264,7 +264,7 @@
 | Kingswinford and South Staffordshire | Mike Wood MP | 6371 |
 | Knowsley | Anneliese Midgley MP | 3259 |
 | Lancaster and Wyre | Cat Smith MP | 5049 |
-| Leeds Central and Headingley | Alex Sobel MP | 1919 |
+| Leeds Central and Headingley | Alex Sobel MP | 1920 |
 | Leeds East | Richard Burgon MP | 4274 |
 | Leeds North East | Fabian Hamilton MP | 2611 |
 | Leeds North West | Katie White MP | 4365 |
@@ -306,7 +306,7 @@
 | Meriden and Solihull East | Saqib Bhatti MP | 6030 |
 | Mid Bedfordshire | Blake Stephenson MP | 5820 |
 | Mid Buckinghamshire | Greg Smith MP | 5581 |
-| Mid Cheshire | Andrew Cooper MP | 5135 |
+| Mid Cheshire | Andrew Cooper MP | 5136 |
 | Mid Derbyshire | Jonathan Davies MP | 5205 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5866 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5555 |
@@ -432,7 +432,7 @@
 | South Devon | Caroline Voaden MP | 5294 |
 | South Dorset | Lloyd Hatton MP | 5619 |
 | South East Cornwall | Anna Gelderd MP | 6199 |
-| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7096 |
+| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7097 |
 | South Leicestershire | Alberto Costa MP | 6944 |
 | South Norfolk | Ben Goldsborough MP | 5413 |
 | South Northamptonshire | Sarah Bool MP | 6637 |
@@ -518,7 +518,7 @@
 | Weald of Kent | Katie Lam MP | 7197 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5056 |
 | Wells and Mendip Hills | Tessa Munt MP | 5224 |
-| Welwyn Hatfield | Andrew Lewin MP | 5034 |
+| Welwyn Hatfield | Andrew Lewin MP | 5035 |
 | West Bromwich | Sarah Coombes MP | 3757 |
 | West Dorset | Edward Morello MP | 5430 |
 | West Ham and Beckton | James Asser MP | 2140 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4565 |
 | Yeovil | Adam Dance MP | 5567 |
 | York Central | Rachael Maskell MP | 3259 |
-| York Outer | Mr Luke Charters MP | 4332 |
+| York Outer | Mr Luke Charters MP | 4333 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2945 |
 | Belfast North | John Finucane MP | 2470 |
 | Belfast South and Mid Down | Claire Hanna MP | 1935 |
@@ -626,7 +626,7 @@
 | Central Ayrshire | Alan Gemmell MP | 3106 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3232 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4533 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3654 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3655 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5717 |
 | Bangor Aberconwy | Claire Hughes MP | 4490 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3603 |
