@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2976255                                |
-| Last Updated      | 2025-01-29 05:16:01 UTC                                    |
+| Total Signatures   | 2976263                                |
+| Last Updated      | 2025-01-29 06:23:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -24,7 +24,7 @@
 | Barrow and Furness | Michelle Scrogham MP | 5278 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6855 |
 | Basingstoke | Luke Murphy MP | 4792 |
-| Bassetlaw | Jo White MP | 6710 |
+| Bassetlaw | Jo White MP | 6711 |
 | Bath | Wera Hobhouse MP | 2965 |
 | Battersea | Marsha De Cordova MP | 3604 |
 | Beaconsfield | Joy Morrissey MP | 5197 |
@@ -265,7 +265,7 @@
 | Knowsley | Anneliese Midgley MP | 3259 |
 | Lancaster and Wyre | Cat Smith MP | 5049 |
 | Leeds Central and Headingley | Alex Sobel MP | 1920 |
-| Leeds East | Richard Burgon MP | 4274 |
+| Leeds East | Richard Burgon MP | 4275 |
 | Leeds North East | Fabian Hamilton MP | 2612 |
 | Leeds North West | Katie White MP | 4365 |
 | Leeds South | Rt Hon Hilary Benn MP | 3842 |
@@ -357,7 +357,7 @@
 | Norwich South | Clive Lewis MP | 3367 |
 | Nottingham East | Nadia Whittome MP | 2456 |
 | Nottingham North and Kimberley | Alex Norris MP | 3699 |
-| Nottingham South | Lilian Greenwood MP | 3038 |
+| Nottingham South | Lilian Greenwood MP | 3039 |
 | Nuneaton | Jodie Gosling MP | 5515 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6197 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5203 |
@@ -372,7 +372,7 @@
 | Penrith and Solway | Markus Campbell-Savours MP | 6166 |
 | Peterborough | Andrew Pakes MP | 4134 |
 | Plymouth Moor View | Fred Thomas MP | 5643 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4721 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4722 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5405 |
 | Poole | Neil Duncan-Jordan MP | 5636 |
 | Poplar and Limehouse | Apsana Begum MP | 2910 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5131 |
 | Warrington South | Sarah Hall MP | 5543 |
 | Warwick and Leamington | Matt Western MP | 4450 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5280 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5281 |
 | Watford | Matt Turmaine MP | 3727 |
 | Waveney Valley | Adrian Ramsay MP | 5824 |
 | Weald of Kent | Katie Lam MP | 7197 |
@@ -546,7 +546,7 @@
 | Worsley and Eccles | Michael Wheeler MP | 5407 |
 | Worthing West | Dr Beccy Cooper MP | 5230 |
 | Wycombe | Emma Reynolds MP | 3595 |
-| Wyre Forest | Mark Garnier MP | 6452 |
+| Wyre Forest | Mark Garnier MP | 6453 |
 | Wythenshawe and Sale East | Mike Kane MP | 4565 |
 | Yeovil | Adam Dance MP | 5567 |
 | York Central | Rachael Maskell MP | 3259 |
@@ -628,7 +628,7 @@
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4533 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3655 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5717 |
-| Bangor Aberconwy | Claire Hughes MP | 4490 |
+| Bangor Aberconwy | Claire Hughes MP | 4491 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3603 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5251 |
 | Bridgend | Chris Elmore MP | 4207 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4718 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6009 |
 | Neath and Swansea East | Carolyn Harris MP | 4403 |
-| Newport East | Jessica Morden MP | 3972 |
+| Newport East | Jessica Morden MP | 3973 |
 | Newport West and Islwyn | Ruth Jones MP | 4020 |
 | Pontypridd | Alex Davies-Jones MP | 3864 |
 | Rhondda and Ogmore | Chris Bryant MP | 4002 |
