@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2976425                                |
-| Last Updated      | 2025-01-29 12:32:55 UTC                                    |
+| Total Signatures   | 2976432                                |
+| Last Updated      | 2025-01-29 13:21:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -130,7 +130,7 @@
 | Coventry South | Zarah Sultana MP | 3495 |
 | Cramlington and Killingworth | Emma Foody MP | 5769 |
 | Crawley | Peter Lamb MP | 4685 |
-| Crewe and Nantwich | Connor Naismith MP | 5658 |
+| Crewe and Nantwich | Connor Naismith MP | 5659 |
 | Croydon East | Natasha Irons MP | 3319 |
 | Croydon South | Rt Hon Chris Philp MP | 3945 |
 | Croydon West | Sarah Jones MP | 1738 |
@@ -139,7 +139,7 @@
 | Dartford | Jim Dickson MP | 5708 |
 | Daventry | Rt Hon Stuart Andrew MP | 7255 |
 | Derby North | Catherine Atkinson MP | 4295 |
-| Derby South | Baggy Shanker MP | 3575 |
+| Derby South | Baggy Shanker MP | 3576 |
 | Derbyshire Dales | John Whitby MP | 6758 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3155 |
 | Didcot and Wantage | Olly Glover MP | 4857 |
@@ -268,7 +268,7 @@
 | Leeds East | Richard Burgon MP | 4275 |
 | Leeds North East | Fabian Hamilton MP | 2613 |
 | Leeds North West | Katie White MP | 4366 |
-| Leeds South | Rt Hon Hilary Benn MP | 3843 |
+| Leeds South | Rt Hon Hilary Benn MP | 3844 |
 | Leeds South West and Morley | Mark Sewards MP | 5466 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3764 |
 | Leicester East | Shivani Raja MP | 1871 |
@@ -340,7 +340,7 @@
 | North East Hampshire | Alex Brewer MP | 5939 |
 | North East Hertfordshire | Chris Hinchliff MP | 5816 |
 | North East Somerset and Hanham | Dan Norris MP | 5020 |
-| North Herefordshire | Ellie Chowns MP | 6443 |
+| North Herefordshire | Ellie Chowns MP | 6444 |
 | North Norfolk | Steff Aquarone MP | 5404 |
 | North Northumberland | David Smith MP | 6408 |
 | North Shropshire | Helen Morgan MP | 6848 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5053 |
 | Sefton Central | Bill Esterson MP | 3990 |
 | Selby | Keir Mather MP | 6338 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6643 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6644 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3394 |
 | Sheffield Central | Abtisam Mohamed MP | 1421 |
 | Sheffield Hallam | Olivia Blake MP | 3376 |
@@ -546,13 +546,13 @@
 | Worsley and Eccles | Michael Wheeler MP | 5408 |
 | Worthing West | Dr Beccy Cooper MP | 5230 |
 | Wycombe | Emma Reynolds MP | 3595 |
-| Wyre Forest | Mark Garnier MP | 6453 |
+| Wyre Forest | Mark Garnier MP | 6454 |
 | Wythenshawe and Sale East | Mike Kane MP | 4567 |
 | Yeovil | Adam Dance MP | 5567 |
 | York Central | Rachael Maskell MP | 3259 |
 | York Outer | Mr Luke Charters MP | 4333 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2945 |
-| Belfast North | John Finucane MP | 2470 |
+| Belfast North | John Finucane MP | 2471 |
 | Belfast South and Mid Down | Claire Hanna MP | 1935 |
 | Belfast West | Paul Maskey MP | 1404 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3579 |
