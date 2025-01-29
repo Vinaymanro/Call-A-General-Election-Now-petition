@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2976236                                |
-| Last Updated      | 2025-01-29 01:16:21 UTC                                    |
+| Total Signatures   | 2976243                                |
+| Last Updated      | 2025-01-29 02:41:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -100,7 +100,7 @@
 | Carlisle | Ms Julie Minns MP | 6502 |
 | Carshalton and Wallington | Bobby Dean MP | 4243 |
 | Castle Point | Rebecca Harris MP | 7493 |
-| Central Devon | Rt Hon Mel Stride MP | 5771 |
+| Central Devon | Rt Hon Mel Stride MP | 5772 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5270 |
 | Chatham and Aylesford | Tristan Osborne MP | 5590 |
 | Cheadle | Tom Morrison MP | 4644 |
@@ -235,7 +235,7 @@
 | High Peak | Jon Pearce MP | 5417 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6437 |
 | Hitchin | Alistair Strathern MP | 4896 |
-| Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2272 |
+| Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2273 |
 | Honiton and Sidmouth | Richard Foord MP | 5226 |
 | Hornchurch and Upminster | Julia Lopez MP | 6592 |
 | Hornsey and Friern Barnet | Catherine West MP | 1929 |
@@ -423,14 +423,14 @@
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6648 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6265 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2569 |
-| Smethwick | Gurinder Singh Josan MP | 3038 |
+| Smethwick | Gurinder Singh Josan MP | 3039 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5410 |
 | South Basildon and East Thurrock | James McMurdock MP | 6563 |
 | South Cambridgeshire | Pippa Heylings MP | 4435 |
 | South Cotswolds | Dr Roz Savage MP | 5699 |
 | South Derbyshire | Samantha Niblett MP | 6141 |
 | South Devon | Caroline Voaden MP | 5294 |
-| South Dorset | Lloyd Hatton MP | 5618 |
+| South Dorset | Lloyd Hatton MP | 5619 |
 | South East Cornwall | Anna Gelderd MP | 6199 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7096 |
 | South Leicestershire | Alberto Costa MP | 6944 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3896 |
 | Stockton North | Chris McDonald MP | 4809 |
 | Stockton West | Matt Vickers MP | 5959 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4682 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4683 |
 | Stoke-on-Trent North | David Williams MP | 5425 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5698 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6502 |
@@ -549,7 +549,7 @@
 | Wyre Forest | Mark Garnier MP | 6452 |
 | Wythenshawe and Sale East | Mike Kane MP | 4565 |
 | Yeovil | Adam Dance MP | 5567 |
-| York Central | Rachael Maskell MP | 3258 |
+| York Central | Rachael Maskell MP | 3259 |
 | York Outer | Mr Luke Charters MP | 4332 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2945 |
 | Belfast North | John Finucane MP | 2470 |
@@ -648,7 +648,7 @@
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5458 |
 | Monmouthshire | Catherine Fookes MP | 4718 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6009 |
-| Neath and Swansea East | Carolyn Harris MP | 4402 |
+| Neath and Swansea East | Carolyn Harris MP | 4403 |
 | Newport East | Jessica Morden MP | 3972 |
 | Newport West and Islwyn | Ruth Jones MP | 4020 |
 | Pontypridd | Alex Davies-Jones MP | 3864 |
