@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2976243                                |
-| Last Updated      | 2025-01-29 02:41:29 UTC                                    |
+| Total Signatures   | 2976246                                |
+| Last Updated      | 2025-01-29 03:18:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5094 |
 | Harrow East | Bob Blackman MP | 3122 |
 | Harrow West | Gareth Thomas MP | 2396 |
-| Hartlepool | Mr Jonathan Brash MP | 5616 |
+| Hartlepool | Mr Jonathan Brash MP | 5617 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6243 |
 | Hastings and Rye | Helena Dollimore MP | 5042 |
 | Havant | Alan Mak MP | 5626 |
@@ -280,7 +280,7 @@
 | Lewisham North | Vicky Foxcroft MP | 1646 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1581 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1868 |
-| Lichfield | Dave Robertson MP | 6450 |
+| Lichfield | Dave Robertson MP | 6451 |
 | Lincoln | Mr Hamish Falconer MP | 4624 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3110 |
 | Liverpool Riverside | Kim Johnson MP | 2620 |
@@ -457,7 +457,7 @@
 | St Helens North | David Baines MP | 4657 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4122 |
 | St Ives | Andrew George MP | 5057 |
-| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4775 |
+| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4776 |
 | Stafford | Leigh Ingham MP | 5577 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6386 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5315 |
