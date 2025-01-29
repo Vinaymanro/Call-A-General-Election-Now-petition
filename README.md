@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2976253                                |
-| Last Updated      | 2025-01-29 04:19:31 UTC                                    |
+| Total Signatures   | 2976255                                |
+| Last Updated      | 2025-01-29 05:16:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -266,7 +266,7 @@
 | Lancaster and Wyre | Cat Smith MP | 5049 |
 | Leeds Central and Headingley | Alex Sobel MP | 1920 |
 | Leeds East | Richard Burgon MP | 4274 |
-| Leeds North East | Fabian Hamilton MP | 2611 |
+| Leeds North East | Fabian Hamilton MP | 2612 |
 | Leeds North West | Katie White MP | 4365 |
 | Leeds South | Rt Hon Hilary Benn MP | 3842 |
 | Leeds South West and Morley | Mark Sewards MP | 5465 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2620 |
 | Liverpool Walton | Dan Carden MP | 3333 |
 | Liverpool Wavertree | Paula Barker MP | 2204 |
-| Liverpool West Derby | Ian Byrne MP | 3026 |
+| Liverpool West Derby | Ian Byrne MP | 3027 |
 | Loughborough | Dr Jeevun Sandher MP | 4459 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7757 |
 | Lowestoft | Jess Asato MP | 5301 |
