@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2976718                                |
-| Last Updated      | 2025-01-30 05:17:05 UTC                                    |
+| Total Signatures   | 2976724                                |
+| Last Updated      | 2025-01-30 06:23:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -24,7 +24,7 @@
 | Barrow and Furness | Michelle Scrogham MP | 5278 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6855 |
 | Basingstoke | Luke Murphy MP | 4793 |
-| Bassetlaw | Jo White MP | 6712 |
+| Bassetlaw | Jo White MP | 6713 |
 | Bath | Wera Hobhouse MP | 2965 |
 | Battersea | Marsha De Cordova MP | 3604 |
 | Beaconsfield | Joy Morrissey MP | 5198 |
@@ -142,7 +142,7 @@
 | Derby South | Baggy Shanker MP | 3576 |
 | Derbyshire Dales | John Whitby MP | 6758 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3155 |
-| Didcot and Wantage | Olly Glover MP | 4857 |
+| Didcot and Wantage | Olly Glover MP | 4858 |
 | Doncaster Central | Sally Jameson MP | 4909 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6049 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5520 |
@@ -253,7 +253,7 @@
 | Islington North | Rt Hon Jeremy Corbyn MP | 1784 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2755 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5063 |
-| Keighley and Ilkley | Robbie Moore MP | 4671 |
+| Keighley and Ilkley | Robbie Moore MP | 4672 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6078 |
 | Kensington and Bayswater | Joe Powell MP | 4383 |
 | Kettering | Rosie Wrighting MP | 5870 |
@@ -263,7 +263,7 @@
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5466 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6371 |
 | Knowsley | Anneliese Midgley MP | 3261 |
-| Lancaster and Wyre | Cat Smith MP | 5049 |
+| Lancaster and Wyre | Cat Smith MP | 5050 |
 | Leeds Central and Headingley | Alex Sobel MP | 1921 |
 | Leeds East | Richard Burgon MP | 4276 |
 | Leeds North East | Fabian Hamilton MP | 2614 |
@@ -603,7 +603,7 @@
 | Glasgow North East | Maureen Burke MP | 2451 |
 | Glasgow South | Gordon McKee MP | 1833 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2251 |
-| Glasgow West | Patricia Ferguson MP | 2194 |
+| Glasgow West | Patricia Ferguson MP | 2195 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2951 |
 | Gordon and Buchan | Harriet Cross MP | 4364 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3114 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4718 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6011 |
 | Neath and Swansea East | Carolyn Harris MP | 4403 |
-| Newport East | Jessica Morden MP | 3975 |
+| Newport East | Jessica Morden MP | 3976 |
 | Newport West and Islwyn | Ruth Jones MP | 4020 |
 | Pontypridd | Alex Davies-Jones MP | 3864 |
 | Rhondda and Ogmore | Chris Bryant MP | 4003 |
