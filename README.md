@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2976709                                |
-| Last Updated      | 2025-01-30 02:40:37 UTC                                    |
+| Total Signatures   | 2976714                                |
+| Last Updated      | 2025-01-30 03:18:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -207,7 +207,7 @@
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2059 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1511 |
 | Halesowen | Alex Ballinger MP | 4959 |
-| Halifax | Kate Dearden MP | 4721 |
+| Halifax | Kate Dearden MP | 4722 |
 | Hamble Valley | Paul Holmes MP | 6115 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3181 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2955 |
@@ -278,7 +278,7 @@
 | Lewes | James MacCleary MP | 4876 |
 | Lewisham East | Janet Daby MP | 2138 |
 | Lewisham North | Vicky Foxcroft MP | 1647 |
-| Lewisham West and East Dulwich | Ellie Reeves MP | 1581 |
+| Lewisham West and East Dulwich | Ellie Reeves MP | 1582 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1868 |
 | Lichfield | Dave Robertson MP | 6451 |
 | Lincoln | Mr Hamish Falconer MP | 4624 |
@@ -475,7 +475,7 @@
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1855 |
 | Stretford and Urmston | Andrew Western MP | 3797 |
 | Stroud | Dr Simon Opher MP | 4517 |
-| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5364 |
+| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5365 |
 | Sunderland Central | Lewis Atkinson MP | 5199 |
 | Surrey Heath | Dr Al Pinkerton MP | 5402 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6081 |
@@ -527,7 +527,7 @@
 | West Worcestershire | Dame Harriett Baldwin MP | 6236 |
 | Westmorland and Lonsdale | Tim Farron MP | 5186 |
 | Weston-super-Mare | Dan Aldridge MP | 5036 |
-| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6558 |
+| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6559 |
 | Whitehaven and Workington | Josh MacAlister MP | 5809 |
 | Widnes and Halewood | Derek Twigg MP | 4211 |
 | Wigan | Rt Hon Lisa Nandy MP | 5917 |
@@ -656,5 +656,5 @@
 | Swansea West | Torsten Bell MP | 3626 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4047 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4592 |
-| Wrexham | Andrew Ranger MP | 4757 |
+| Wrexham | Andrew Ranger MP | 4758 |
 | Ynys Môn | Llinos Medi MP | 3712 |
