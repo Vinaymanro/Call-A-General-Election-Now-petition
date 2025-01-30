@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2976714                                |
-| Last Updated      | 2025-01-30 03:18:32 UTC                                    |
+| Total Signatures   | 2976716                                |
+| Last Updated      | 2025-01-30 04:19:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -183,7 +183,7 @@
 | Faversham and Mid Kent | Helen Whately MP | 6196 |
 | Feltham and Heston | Seema Malhotra MP | 2899 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4484 |
-| Finchley and Golders Green | Sarah Sackman MP | 4270 |
+| Finchley and Golders Green | Sarah Sackman MP | 4271 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5370 |
 | Forest of Dean | Matt Bishop MP | 5236 |
 | Frome and East Somerset | Anna Sabine MP | 4304 |
@@ -246,7 +246,7 @@
 | Huntingdon | Ben Obese-Jecty MP | 5521 |
 | Hyndburn | Sarah Smith MP | 4971 |
 | Ilford North | Rt Hon Wes Streeting MP | 2609 |
-| Ilford South | Jas Athwal MP | 1577 |
+| Ilford South | Jas Athwal MP | 1578 |
 | Ipswich | Jack Abbott MP | 4117 |
 | Isle of Wight East | Joe Robertson MP | 4360 |
 | Isle of Wight West | Mr Richard Quigley MP | 4047 |
