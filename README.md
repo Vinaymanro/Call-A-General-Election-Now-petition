@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2976702                                |
-| Last Updated      | 2025-01-30 01:15:31 UTC                                    |
+| Total Signatures   | 2976709                                |
+| Last Updated      | 2025-01-30 02:40:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -54,7 +54,7 @@
 | Blaydon and Consett | Liz Twist MP | 5215 |
 | Blyth and Ashington | Ian Lavery MP | 5817 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6106 |
-| Bolsover | Natalie Fleet MP | 6495 |
+| Bolsover | Natalie Fleet MP | 6496 |
 | Bolton North East | Kirith Entwistle MP | 5554 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4380 |
 | Bolton West | Phil Brickell MP | 5553 |
@@ -83,7 +83,7 @@
 | Bristol South | Karin Smyth MP | 3927 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5802 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5225 |
-| Bromsgrove | Bradley Thomas MP | 6438 |
+| Bromsgrove | Bradley Thomas MP | 6439 |
 | Broxbourne | Lewis Cocking MP | 6044 |
 | Broxtowe | Juliet Campbell MP | 4695 |
 | Buckingham and Bletchley | Callum Anderson MP | 5240 |
@@ -101,7 +101,7 @@
 | Carshalton and Wallington | Bobby Dean MP | 4244 |
 | Castle Point | Rebecca Harris MP | 7498 |
 | Central Devon | Rt Hon Mel Stride MP | 5772 |
-| Central Suffolk and North Ipswich | Patrick Spencer MP | 5271 |
+| Central Suffolk and North Ipswich | Patrick Spencer MP | 5272 |
 | Chatham and Aylesford | Tristan Osborne MP | 5590 |
 | Cheadle | Tom Morrison MP | 4645 |
 | Chelmsford | Marie Goldman MP | 5239 |
@@ -395,7 +395,7 @@
 | Rochester and Strood | Lauren Edwards MP | 5993 |
 | Romford | Andrew Rosindell MP | 5765 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5051 |
-| Rossendale and Darwen | Andy MacNae MP | 6452 |
+| Rossendale and Darwen | Andy MacNae MP | 6453 |
 | Rother Valley | Jake Richards MP | 5821 |
 | Rotherham | Sarah Champion MP | 4911 |
 | Rugby | John Slinger MP | 5371 |
@@ -430,12 +430,12 @@
 | South Cotswolds | Dr Roz Savage MP | 5700 |
 | South Derbyshire | Samantha Niblett MP | 6141 |
 | South Devon | Caroline Voaden MP | 5295 |
-| South Dorset | Lloyd Hatton MP | 5619 |
+| South Dorset | Lloyd Hatton MP | 5620 |
 | South East Cornwall | Anna Gelderd MP | 6200 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7097 |
 | South Leicestershire | Alberto Costa MP | 6944 |
 | South Norfolk | Ben Goldsborough MP | 5413 |
-| South Northamptonshire | Sarah Bool MP | 6637 |
+| South Northamptonshire | Sarah Bool MP | 6638 |
 | South Ribble | Mr Paul Foster MP | 5863 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4700 |
 | South Shropshire | Stuart Anderson MP | 7301 |
@@ -622,7 +622,7 @@
 | Stirling and Strathallan | Chris Kane MP | 3209 |
 | West Dunbartonshire | Douglas McAllister MP | 2706 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3536 |
-| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3998 |
+| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3999 |
 | Central Ayrshire | Alan Gemmell MP | 3106 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3232 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4535 |
