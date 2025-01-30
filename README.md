@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2976716                                |
-| Last Updated      | 2025-01-30 04:19:41 UTC                                    |
+| Total Signatures   | 2976718                                |
+| Last Updated      | 2025-01-30 05:17:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -163,7 +163,7 @@
 | East Surrey | Rt Hon Claire Coutinho MP | 6000 |
 | East Thanet | Ms Polly Billington MP | 5448 |
 | East Wiltshire | Danny Kruger MP | 6040 |
-| East Worthing and Shoreham | Tom Rutland MP | 4577 |
+| East Worthing and Shoreham | Tom Rutland MP | 4578 |
 | Eastbourne | Josh Babarinde MP | 5022 |
 | Eastleigh | Liz Jarvis MP | 4306 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2213 |
@@ -425,7 +425,7 @@
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2569 |
 | Smethwick | Gurinder Singh Josan MP | 3040 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5410 |
-| South Basildon and East Thurrock | James McMurdock MP | 6563 |
+| South Basildon and East Thurrock | James McMurdock MP | 6564 |
 | South Cambridgeshire | Pippa Heylings MP | 4435 |
 | South Cotswolds | Dr Roz Savage MP | 5700 |
 | South Derbyshire | Samantha Niblett MP | 6141 |
