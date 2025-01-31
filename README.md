@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2977189                                |
-| Last Updated      | 2025-01-31 01:16:54 UTC                                    |
+| Total Signatures   | 2977196                                |
+| Last Updated      | 2025-01-31 02:42:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6047 |
 | Broxtowe | Juliet Campbell MP | 4695 |
 | Buckingham and Bletchley | Callum Anderson MP | 5240 |
-| Burnley | Oliver Ryan MP | 5696 |
+| Burnley | Oliver Ryan MP | 5697 |
 | Burton and Uttoxeter | Jacob Collier MP | 5772 |
 | Bury North | Mr James Frith MP | 4947 |
 | Bury South | Christian Wakeford MP | 5397 |
@@ -118,7 +118,7 @@
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5468 |
 | Christchurch | Sir Christopher Chope MP | 5836 |
 | Cities of London and Westminster | Rachel Blake MP | 5155 |
-| City of Durham | Mary Kelly Foy MP | 4229 |
+| City of Durham | Mary Kelly Foy MP | 4230 |
 | Clacton | Nigel Farage MP | 8044 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1728 |
 | Colchester | Pam Cox MP | 4965 |
@@ -205,7 +205,7 @@
 | Greenwich and Woolwich | Matthew Pennycook MP | 2599 |
 | Guildford | Zöe Franklin MP | 3980 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2059 |
-| Hackney South and Shoreditch | Dame Meg Hillier MP | 1512 |
+| Hackney South and Shoreditch | Dame Meg Hillier MP | 1513 |
 | Halesowen | Alex Ballinger MP | 4960 |
 | Halifax | Kate Dearden MP | 4722 |
 | Hamble Valley | Paul Holmes MP | 6118 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3898 |
 | Stockton North | Chris McDonald MP | 4811 |
 | Stockton West | Matt Vickers MP | 5960 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4687 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4688 |
 | Stoke-on-Trent North | David Williams MP | 5426 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5699 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6504 |
@@ -537,7 +537,7 @@
 | Wirral West | Matthew Patrick MP | 4193 |
 | Witham | Rt Hon Priti Patel MP | 6984 |
 | Witney | Charlie Maynard MP | 5137 |
-| Woking | Mr Will Forster MP | 4378 |
+| Woking | Mr Will Forster MP | 4379 |
 | Wokingham | Clive Jones MP | 4851 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4364 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4282 |
@@ -587,7 +587,7 @@
 | Coatbridge and Bellshill | Frank McNally MP | 2571 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2834 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2663 |
-| Dumfries and Galloway | John Cooper MP | 4024 |
+| Dumfries and Galloway | John Cooper MP | 4025 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3837 |
 | Dundee Central | Chris Law MP | 2526 |
 | Dunfermline and Dollar | Graeme Downie MP | 2913 |
@@ -644,7 +644,7 @@
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4212 |
 | Gower | Tonia Antoniazzi MP | 4724 |
 | Llanelli | Dame Nia Griffith MP | 5226 |
-| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3681 |
+| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3682 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5462 |
 | Monmouthshire | Catherine Fookes MP | 4719 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6011 |
