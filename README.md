@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2977197                                |
-| Last Updated      | 2025-01-31 03:17:43 UTC                                    |
+| Total Signatures   | 2977201                                |
+| Last Updated      | 2025-01-31 04:19:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -77,7 +77,7 @@
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3902 |
 | Brighton Pavilion | Siân Berry MP | 2721 |
 | Bristol Central | Carla Denyer MP | 1609 |
-| Bristol East | Kerry McCarthy MP | 2963 |
+| Bristol East | Kerry McCarthy MP | 2964 |
 | Bristol North East | Damien Egan MP | 3065 |
 | Bristol North West | Rt Hon Darren Jones MP | 3186 |
 | Bristol South | Karin Smyth MP | 3927 |
@@ -122,7 +122,7 @@
 | Clacton | Nigel Farage MP | 8044 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1728 |
 | Colchester | Pam Cox MP | 4965 |
-| Colne Valley | Paul Davies MP | 4996 |
+| Colne Valley | Paul Davies MP | 4997 |
 | Congleton | Mrs Sarah Russell MP | 5946 |
 | Corby and East Northamptonshire | Lee Barron MP | 5977 |
 | Coventry East | Mary Creagh MP | 3562 |
@@ -173,7 +173,7 @@
 | Enfield North | Feryal Clark MP | 2873 |
 | Epping Forest | Dr Neil Hudson MP | 6550 |
 | Epsom and Ewell | Helen Maguire MP | 4906 |
-| Erewash | Adam Thompson MP | 5795 |
+| Erewash | Adam Thompson MP | 5796 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3211 |
 | Esher and Walton | Monica Harding MP | 4807 |
 | Exeter | Steve Race MP | 3161 |
@@ -624,7 +624,7 @@
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3536 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3999 |
 | Central Ayrshire | Alan Gemmell MP | 3106 |
-| Kilmarnock and Loudoun | Lillian Jones MP | 3232 |
+| Kilmarnock and Loudoun | Lillian Jones MP | 3233 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4536 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3658 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5717 |
