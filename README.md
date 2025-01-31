@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2977206                                |
-| Last Updated      | 2025-01-31 05:16:06 UTC                                    |
+| Total Signatures   | 2977215                                |
+| Last Updated      | 2025-01-31 06:24:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -16,7 +16,7 @@
 | Ashfield | Lee Anderson MP | 6129 |
 | Ashford | Sojan Joseph MP | 5868 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4556 |
-| Aylesbury | Laura Kyrke-Smith MP | 4844 |
+| Aylesbury | Laura Kyrke-Smith MP | 4845 |
 | Banbury | Sean Woodcock MP | 5420 |
 | Barking | Nesil Caliskan MP | 2617 |
 | Barnsley North | Dan Jarvis MP | 5638 |
@@ -212,8 +212,8 @@
 | Hammersmith and Chiswick | Andy Slaughter MP | 3181 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2955 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4694 |
-| Harlow | Chris Vince MP | 6034 |
-| Harpenden and Berkhamsted | Victoria Collins MP | 4521 |
+| Harlow | Chris Vince MP | 6035 |
+| Harpenden and Berkhamsted | Victoria Collins MP | 4522 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5094 |
 | Harrow East | Bob Blackman MP | 3122 |
 | Harrow West | Gareth Thomas MP | 2396 |
@@ -241,7 +241,7 @@
 | Hornsey and Friern Barnet | Catherine West MP | 1930 |
 | Horsham | John Milne MP | 5797 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6265 |
-| Hove and Portslade | Rt Hon Peter Kyle MP | 3314 |
+| Hove and Portslade | Rt Hon Peter Kyle MP | 3315 |
 | Huddersfield | Harpreet Uppal MP | 3663 |
 | Huntingdon | Ben Obese-Jecty MP | 5524 |
 | Hyndburn | Sarah Smith MP | 4972 |
@@ -287,7 +287,7 @@
 | Liverpool Walton | Dan Carden MP | 3333 |
 | Liverpool Wavertree | Paula Barker MP | 2205 |
 | Liverpool West Derby | Ian Byrne MP | 3028 |
-| Loughborough | Dr Jeevun Sandher MP | 4460 |
+| Loughborough | Dr Jeevun Sandher MP | 4461 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7759 |
 | Lowestoft | Jess Asato MP | 5302 |
 | Luton North | Sarah Owen MP | 2455 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5558 |
 | Mid Norfolk | George Freeman MP | 6240 |
 | Mid Sussex | Alison Bennett MP | 4682 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4194 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4195 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5674 |
 | Milton Keynes Central | Emily Darlington MP | 4917 |
 | Milton Keynes North | Chris Curtis MP | 4541 |
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7331 |
 | Reading Central | Matt Rodda MP | 3018 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4420 |
-| Redcar | Anna Turley MP | 5424 |
+| Redcar | Anna Turley MP | 5425 |
 | Redditch | Chris Bloore MP | 6047 |
 | Reigate | Rebecca Paul MP | 5530 |
 | Ribble Valley | Maya Ellis MP | 6685 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3898 |
 | Stockton North | Chris McDonald MP | 4811 |
 | Stockton West | Matt Vickers MP | 5960 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4688 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4689 |
 | Stoke-on-Trent North | David Williams MP | 5426 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5699 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6504 |
@@ -637,7 +637,7 @@
 | Cardiff East | Rt Hon Jo Stevens MP | 2870 |
 | Cardiff North | Anna McMorrin MP | 3271 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2780 |
-| Cardiff West | Mr Alex Barros-Curtis MP | 3123 |
+| Cardiff West | Mr Alex Barros-Curtis MP | 3124 |
 | Ceredigion Preseli | Ben Lake MP | 4722 |
 | Clwyd East | Becky Gittins MP | 6005 |
 | Clwyd North | Gill German MP | 5414 |
