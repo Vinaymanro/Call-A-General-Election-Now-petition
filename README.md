@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2977196                                |
-| Last Updated      | 2025-01-31 02:42:18 UTC                                    |
+| Total Signatures   | 2977197                                |
+| Last Updated      | 2025-01-31 03:17:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1095 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5317 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6000 |
-| East Thanet | Ms Polly Billington MP | 5448 |
+| East Thanet | Ms Polly Billington MP | 5449 |
 | East Wiltshire | Danny Kruger MP | 6040 |
 | East Worthing and Shoreham | Tom Rutland MP | 4579 |
 | Eastbourne | Josh Babarinde MP | 5022 |
