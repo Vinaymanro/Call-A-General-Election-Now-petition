@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2977201                                |
-| Last Updated      | 2025-01-31 04:19:58 UTC                                    |
+| Total Signatures   | 2977206                                |
+| Last Updated      | 2025-01-31 05:16:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -36,7 +36,7 @@
 | Bexhill and Battle | Dr Kieran Mullan MP | 6102 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5030 |
 | Bicester and Woodstock | Calum Miller MP | 4650 |
-| Birkenhead | Alison McGovern MP | 4295 |
+| Birkenhead | Alison McGovern MP | 4296 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2938 |
 | Birmingham Erdington | Paulette Hamilton MP | 4212 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1572 |
@@ -243,7 +243,7 @@
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6265 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3314 |
 | Huddersfield | Harpreet Uppal MP | 3663 |
-| Huntingdon | Ben Obese-Jecty MP | 5523 |
+| Huntingdon | Ben Obese-Jecty MP | 5524 |
 | Hyndburn | Sarah Smith MP | 4972 |
 | Ilford North | Rt Hon Wes Streeting MP | 2612 |
 | Ilford South | Jas Athwal MP | 1580 |
@@ -251,7 +251,7 @@
 | Isle of Wight East | Joe Robertson MP | 4362 |
 | Isle of Wight West | Mr Richard Quigley MP | 4047 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1784 |
-| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2755 |
+| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2756 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5063 |
 | Keighley and Ilkley | Robbie Moore MP | 4673 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6078 |
@@ -318,7 +318,7 @@
 | Milton Keynes North | Chris Curtis MP | 4541 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2658 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5737 |
-| New Forest East | Rt Hon Sir Julian Lewis MP | 5385 |
+| New Forest East | Rt Hon Sir Julian Lewis MP | 5386 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5230 |
 | Newark | Rt Hon Robert Jenrick MP | 7135 |
 | Newbury | Mr Lee Dillon MP | 4871 |
@@ -483,7 +483,7 @@
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5645 |
 | Swindon North | Will Stone MP | 4870 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4178 |
-| Tamworth | Sarah Edwards MP | 6909 |
+| Tamworth | Sarah Edwards MP | 6910 |
 | Tatton | Rt Hon Esther McVey MP | 6482 |
 | Taunton and Wellington | Gideon Amos MP | 5149 |
 | Telford | Shaun Davies MP | 5551 |
