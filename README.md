@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2977713                                |
-| Last Updated      | 2025-02-01 04:19:11 UTC                                    |
+| Total Signatures   | 2977716                                |
+| Last Updated      | 2025-02-01 05:15:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -53,7 +53,7 @@
 | Blackpool South | Chris Webb MP | 5761 |
 | Blaydon and Consett | Liz Twist MP | 5217 |
 | Blyth and Ashington | Ian Lavery MP | 5820 |
-| Bognor Regis and Littlehampton | Alison Griffiths MP | 6107 |
+| Bognor Regis and Littlehampton | Alison Griffiths MP | 6108 |
 | Bolsover | Natalie Fleet MP | 6499 |
 | Bolton North East | Kirith Entwistle MP | 5555 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4381 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3730 |
 | Waveney Valley | Adrian Ramsay MP | 5827 |
 | Weald of Kent | Katie Lam MP | 7201 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5056 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5057 |
 | Wells and Mendip Hills | Tessa Munt MP | 5227 |
 | Welwyn Hatfield | Andrew Lewin MP | 5038 |
 | West Bromwich | Sarah Coombes MP | 3762 |
@@ -614,7 +614,7 @@
 | Mid Dunbartonshire | Susan Murray MP | 2511 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3913 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2714 |
-| North East Fife | Wendy Chamberlain MP | 2886 |
+| North East Fife | Wendy Chamberlain MP | 2887 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2837 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2628 |
 | Perth and Kinross-shire | Pete Wishart MP | 3490 |
