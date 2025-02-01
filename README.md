@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2977726                                |
-| Last Updated      | 2025-02-01 06:22:08 UTC                                    |
+| Total Signatures   | 2977735                                |
+| Last Updated      | 2025-02-01 07:15:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -52,7 +52,7 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6114 |
 | Blackpool South | Chris Webb MP | 5761 |
 | Blaydon and Consett | Liz Twist MP | 5217 |
-| Blyth and Ashington | Ian Lavery MP | 5820 |
+| Blyth and Ashington | Ian Lavery MP | 5821 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6108 |
 | Bolsover | Natalie Fleet MP | 6499 |
 | Bolton North East | Kirith Entwistle MP | 5555 |
@@ -265,7 +265,7 @@
 | Knowsley | Anneliese Midgley MP | 3261 |
 | Lancaster and Wyre | Cat Smith MP | 5051 |
 | Leeds Central and Headingley | Alex Sobel MP | 1922 |
-| Leeds East | Richard Burgon MP | 4276 |
+| Leeds East | Richard Burgon MP | 4277 |
 | Leeds North East | Fabian Hamilton MP | 2614 |
 | Leeds North West | Katie White MP | 4369 |
 | Leeds South | Rt Hon Hilary Benn MP | 3847 |
@@ -300,7 +300,7 @@
 | Manchester Central | Rt Hon Lucy Powell MP | 3976 |
 | Manchester Rusholme | Afzal Khan MP | 1212 |
 | Manchester Withington | Jeff Smith MP | 1664 |
-| Mansfield | Steve Yemm MP | 6159 |
+| Mansfield | Steve Yemm MP | 6160 |
 | Melksham and Devizes | Brian Mathew MP | 4991 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6084 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6039 |
@@ -372,7 +372,7 @@
 | Penrith and Solway | Markus Campbell-Savours MP | 6168 |
 | Peterborough | Andrew Pakes MP | 4137 |
 | Plymouth Moor View | Fred Thomas MP | 5646 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4723 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4724 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5409 |
 | Poole | Neil Duncan-Jordan MP | 5639 |
 | Poplar and Limehouse | Apsana Begum MP | 2911 |
@@ -384,18 +384,18 @@
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5079 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7332 |
 | Reading Central | Matt Rodda MP | 3018 |
-| Reading West and Mid Berkshire | Olivia Bailey MP | 4422 |
+| Reading West and Mid Berkshire | Olivia Bailey MP | 4423 |
 | Redcar | Anna Turley MP | 5427 |
 | Redditch | Chris Bloore MP | 6048 |
 | Reigate | Rebecca Paul MP | 5531 |
-| Ribble Valley | Maya Ellis MP | 6686 |
+| Ribble Valley | Maya Ellis MP | 6687 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7079 |
 | Richmond Park | Sarah Olney MP | 4052 |
 | Rochdale | Paul Waugh MP | 3922 |
 | Rochester and Strood | Lauren Edwards MP | 5995 |
 | Romford | Andrew Rosindell MP | 5771 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5052 |
-| Rossendale and Darwen | Andy MacNae MP | 6456 |
+| Rossendale and Darwen | Andy MacNae MP | 6457 |
 | Rother Valley | Jake Richards MP | 5821 |
 | Rotherham | Sarah Champion MP | 4916 |
 | Rugby | John Slinger MP | 5373 |
@@ -471,7 +471,7 @@
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6505 |
 | Stourbridge | Cat Eccles MP | 5128 |
 | Stratford and Bow | Uma Kumaran MP | 1755 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6684 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6685 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1855 |
 | Stretford and Urmston | Andrew Western MP | 3799 |
 | Stroud | Dr Simon Opher MP | 4519 |
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5551 |
 | Tewkesbury | Cameron Thomas MP | 4997 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6371 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7400 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7401 |
 | Thornbury and Yate | Claire Young MP | 5671 |
 | Thurrock | Jen Craft MP | 5093 |
 | Tipton and Wednesbury | Antonia Bance MP | 4888 |
