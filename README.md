@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2977710                                |
-| Last Updated      | 2025-02-01 03:20:35 UTC                                    |
+| Total Signatures   | 2977713                                |
+| Last Updated      | 2025-02-01 04:19:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -75,7 +75,7 @@
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6598 |
 | Brigg and Immingham | Martin Vickers MP | 6432 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3903 |
-| Brighton Pavilion | Siân Berry MP | 2722 |
+| Brighton Pavilion | Siân Berry MP | 2723 |
 | Bristol Central | Carla Denyer MP | 1610 |
 | Bristol East | Kerry McCarthy MP | 2964 |
 | Bristol North East | Damien Egan MP | 3066 |
@@ -182,7 +182,7 @@
 | Farnham and Bordon | Gregory Stafford MP | 5167 |
 | Faversham and Mid Kent | Helen Whately MP | 6197 |
 | Feltham and Heston | Seema Malhotra MP | 2900 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4485 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4486 |
 | Finchley and Golders Green | Sarah Sackman MP | 4271 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5373 |
 | Forest of Dean | Matt Bishop MP | 5236 |
@@ -623,7 +623,7 @@
 | West Dunbartonshire | Douglas McAllister MP | 2707 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3537 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3999 |
-| Central Ayrshire | Alan Gemmell MP | 3109 |
+| Central Ayrshire | Alan Gemmell MP | 3110 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3233 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4536 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3658 |
