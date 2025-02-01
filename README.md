@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2977716                                |
-| Last Updated      | 2025-02-01 05:15:09 UTC                                    |
+| Total Signatures   | 2977726                                |
+| Last Updated      | 2025-02-01 06:22:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -46,7 +46,7 @@
 | Birmingham Perry Barr | Ayoub Khan MP | 1707 |
 | Birmingham Selly Oak | Al Carns MP | 3273 |
 | Birmingham Yardley | Jess Phillips MP | 3054 |
-| Bishop Auckland | Sam Rushworth MP | 6139 |
+| Bishop Auckland | Sam Rushworth MP | 6140 |
 | Blackburn | Mr Adnan Hussain MP | 3114 |
 | Blackley and Middleton South | Graham Stringer MP | 3738 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6114 |
@@ -81,7 +81,7 @@
 | Bristol North East | Damien Egan MP | 3066 |
 | Bristol North West | Rt Hon Darren Jones MP | 3186 |
 | Bristol South | Karin Smyth MP | 3928 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5809 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5810 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5225 |
 | Bromsgrove | Bradley Thomas MP | 6439 |
 | Broxbourne | Lewis Cocking MP | 6048 |
@@ -227,7 +227,7 @@
 | Hendon | David Pinto-Duschinsky MP | 3784 |
 | Henley and Thame | Freddie van Mierlo MP | 5379 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5254 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6273 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6274 |
 | Hertford and Stortford | Josh Dean MP | 5951 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5726 |
 | Hexham | Joe Morris MP | 6385 |
@@ -290,7 +290,7 @@
 | Loughborough | Dr Jeevun Sandher MP | 4461 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7760 |
 | Lowestoft | Jess Asato MP | 5303 |
-| Luton North | Sarah Owen MP | 2456 |
+| Luton North | Sarah Owen MP | 2457 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2927 |
 | Macclesfield | Tim Roca MP | 5385 |
 | Maidenhead | Mr Joshua Reynolds MP | 5264 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5820 |
 | North Dorset | Simon Hoare MP | 6289 |
 | North Durham | Luke Akehurst MP | 5359 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6038 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6039 |
 | North East Derbyshire | Louise Jones MP | 5773 |
 | North East Hampshire | Alex Brewer MP | 5940 |
 | North East Hertfordshire | Chris Hinchliff MP | 5816 |
@@ -430,7 +430,7 @@
 | South Cotswolds | Dr Roz Savage MP | 5701 |
 | South Derbyshire | Samantha Niblett MP | 6141 |
 | South Devon | Caroline Voaden MP | 5297 |
-| South Dorset | Lloyd Hatton MP | 5622 |
+| South Dorset | Lloyd Hatton MP | 5623 |
 | South East Cornwall | Anna Gelderd MP | 6201 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7100 |
 | South Leicestershire | Alberto Costa MP | 6944 |
@@ -451,7 +451,7 @@
 | Southgate and Wood Green | Bambos Charalambous MP | 2579 |
 | Southport | Patrick Hurley MP | 5926 |
 | Spelthorne | Lincoln Jopp MP | 5439 |
-| Spen Valley | Kim Leadbeater MP | 5341 |
+| Spen Valley | Kim Leadbeater MP | 5342 |
 | St Albans | Daisy Cooper MP | 3872 |
 | St Austell and Newquay | Noah Law MP | 5573 |
 | St Helens North | David Baines MP | 4660 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4815 |
 | Stockton West | Matt Vickers MP | 5962 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4691 |
-| Stoke-on-Trent North | David Williams MP | 5427 |
+| Stoke-on-Trent North | David Williams MP | 5428 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5701 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6505 |
 | Stourbridge | Cat Eccles MP | 5128 |
@@ -480,7 +480,7 @@
 | Surrey Heath | Dr Al Pinkerton MP | 5402 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6082 |
 | Sutton and Cheam | Luke Taylor MP | 4379 |
-| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5646 |
+| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5647 |
 | Swindon North | Will Stone MP | 4870 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4180 |
 | Tamworth | Sarah Edwards MP | 6910 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3762 |
 | West Dorset | Edward Morello MP | 5434 |
 | West Ham and Beckton | James Asser MP | 2143 |
-| West Lancashire | Ashley Dalton MP | 5029 |
+| West Lancashire | Ashley Dalton MP | 5030 |
 | West Suffolk | Nick Timothy MP | 5998 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6237 |
 | Westmorland and Lonsdale | Tim Farron MP | 5186 |
