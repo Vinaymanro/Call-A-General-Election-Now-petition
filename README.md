@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2977706                                |
-| Last Updated      | 2025-02-01 02:47:08 UTC                                    |
+| Total Signatures   | 2977710                                |
+| Last Updated      | 2025-02-01 03:20:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -359,7 +359,7 @@
 | Nottingham North and Kimberley | Alex Norris MP | 3702 |
 | Nottingham South | Lilian Greenwood MP | 3041 |
 | Nuneaton | Jodie Gosling MP | 5519 |
-| Old Bexley and Sidcup | Mr Louie French MP | 6200 |
+| Old Bexley and Sidcup | Mr Louie French MP | 6201 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5205 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4059 |
 | Orpington | Gareth Bacon MP | 5296 |
@@ -456,7 +456,7 @@
 | St Austell and Newquay | Noah Law MP | 5573 |
 | St Helens North | David Baines MP | 4660 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4123 |
-| St Ives | Andrew George MP | 5061 |
+| St Ives | Andrew George MP | 5062 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4777 |
 | Stafford | Leigh Ingham MP | 5580 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6393 |
@@ -581,12 +581,12 @@
 | Alloa and Grangemouth | Brian Leishman MP | 3002 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4028 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3451 |
-| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3386 |
+| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3387 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3001 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4056 |
 | Coatbridge and Bellshill | Frank McNally MP | 2573 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2834 |
-| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2664 |
+| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2665 |
 | Dumfries and Galloway | John Cooper MP | 4027 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3837 |
 | Dundee Central | Chris Law MP | 2526 |
