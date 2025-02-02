@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2978320                                |
-| Last Updated      | 2025-02-02 02:45:23 UTC                                    |
+| Total Signatures   | 2978322                                |
+| Last Updated      | 2025-02-02 03:19:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -339,7 +339,7 @@
 | North East Derbyshire | Louise Jones MP | 5775 |
 | North East Hampshire | Alex Brewer MP | 5941 |
 | North East Hertfordshire | Chris Hinchliff MP | 5816 |
-| North East Somerset and Hanham | Dan Norris MP | 5023 |
+| North East Somerset and Hanham | Dan Norris MP | 5024 |
 | North Herefordshire | Ellie Chowns MP | 6447 |
 | North Norfolk | Steff Aquarone MP | 5413 |
 | North Northumberland | David Smith MP | 6412 |
@@ -502,7 +502,7 @@
 | Truro and Falmouth | Jayne Kirkham MP | 4579 |
 | Tunbridge Wells | Mike Martin MP | 5441 |
 | Twickenham | Munira Wilson MP | 3646 |
-| Tynemouth | Rt Hon Sir Alan Campbell MP | 4469 |
+| Tynemouth | Rt Hon Sir Alan Campbell MP | 4470 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4460 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1668 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4880 |
