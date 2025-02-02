@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2978325                                |
-| Last Updated      | 2025-02-02 05:15:56 UTC                                    |
+| Total Signatures   | 2978327                                |
+| Last Updated      | 2025-02-02 06:21:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -199,7 +199,7 @@
 | Gorton and Denton | Andrew Gwynne MP | 3245 |
 | Gosport | Dame Caroline Dinenage MP | 5445 |
 | Grantham and Bourne | Gareth Davies MP | 6295 |
-| Gravesham | Dr Lauren Sullivan MP | 5115 |
+| Gravesham | Dr Lauren Sullivan MP | 5116 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5752 |
 | Great Yarmouth | Rupert Lowe MP | 6543 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2600 |
@@ -299,7 +299,7 @@
 | Maldon | Rt Hon Sir John Whittingdale MP | 8089 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3977 |
 | Manchester Rusholme | Afzal Khan MP | 1212 |
-| Manchester Withington | Jeff Smith MP | 1664 |
+| Manchester Withington | Jeff Smith MP | 1665 |
 | Mansfield | Steve Yemm MP | 6162 |
 | Melksham and Devizes | Brian Mathew MP | 4993 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6085 |
