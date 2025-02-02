@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2978322                                |
-| Last Updated      | 2025-02-02 03:19:06 UTC                                    |
+| Total Signatures   | 2978323                                |
+| Last Updated      | 2025-02-02 04:18:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -271,7 +271,7 @@
 | Leeds South | Rt Hon Hilary Benn MP | 3849 |
 | Leeds South West and Morley | Mark Sewards MP | 5469 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3765 |
-| Leicester East | Shivani Raja MP | 1871 |
+| Leicester East | Shivani Raja MP | 1872 |
 | Leicester South | Shockat Adam MP | 1828 |
 | Leicester West | Rt Hon Liz Kendall MP | 3437 |
 | Leigh and Atherton | Jo Platt MP | 6042 |
