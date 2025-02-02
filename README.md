@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2978323                                |
-| Last Updated      | 2025-02-02 04:18:21 UTC                                    |
+| Total Signatures   | 2978325                                |
+| Last Updated      | 2025-02-02 05:15:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -458,7 +458,7 @@
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4124 |
 | St Ives | Andrew George MP | 5063 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4778 |
-| Stafford | Leigh Ingham MP | 5581 |
+| Stafford | Leigh Ingham MP | 5582 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6394 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5321 |
 | Stevenage | Kevin Bonavia MP | 4708 |
@@ -657,4 +657,4 @@
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4050 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4594 |
 | Wrexham | Andrew Ranger MP | 4762 |
-| Ynys Môn | Llinos Medi MP | 3716 |
+| Ynys Môn | Llinos Medi MP | 3717 |
