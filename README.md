@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2978976                                |
-| Last Updated      | 2025-02-03 01:17:49 UTC                                    |
+| Total Signatures   | 2978986                                |
+| Last Updated      | 2025-02-03 02:44:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -40,7 +40,7 @@
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2939 |
 | Birmingham Erdington | Paulette Hamilton MP | 4216 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1573 |
-| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3459 |
+| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3460 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1888 |
 | Birmingham Northfield | Laurence Turner MP | 4865 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1708 |
@@ -111,7 +111,7 @@
 | Chester North and Neston | Samantha Dixon MP | 4034 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6373 |
 | Chesterfield | Mr Toby Perkins MP | 4848 |
-| Chichester | Jess Brown-Fuller MP | 5894 |
+| Chichester | Jess Brown-Fuller MP | 5895 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4147 |
 | Chippenham | Sarah Gibson MP | 4714 |
 | Chipping Barnet | Dan Tomlinson MP | 4322 |
@@ -125,7 +125,7 @@
 | Colne Valley | Paul Davies MP | 5000 |
 | Congleton | Mrs Sarah Russell MP | 5949 |
 | Corby and East Northamptonshire | Lee Barron MP | 5982 |
-| Coventry East | Mary Creagh MP | 3568 |
+| Coventry East | Mary Creagh MP | 3569 |
 | Coventry North West | Taiwo Owatemi MP | 4231 |
 | Coventry South | Zarah Sultana MP | 3498 |
 | Cramlington and Killingworth | Emma Foody MP | 5774 |
@@ -155,7 +155,7 @@
 | Ealing Central and Acton | Dr Rupa Huq MP | 3076 |
 | Ealing North | James Murray MP | 2574 |
 | Ealing Southall | Deirdre Costigan MP | 1949 |
-| Earley and Woodley | Yuan Yang MP | 3940 |
+| Earley and Woodley | Yuan Yang MP | 3941 |
 | Easington | Grahame Morris MP | 5700 |
 | East Grinstead and Uckfield | Mims Davies MP | 6009 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1098 |
@@ -166,9 +166,9 @@
 | East Worthing and Shoreham | Tom Rutland MP | 4579 |
 | Eastbourne | Josh Babarinde MP | 5023 |
 | Eastleigh | Liz Jarvis MP | 4312 |
-| Edmonton and Winchmore Hill | Kate Osamor MP | 2215 |
+| Edmonton and Winchmore Hill | Kate Osamor MP | 2216 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4418 |
-| Eltham and Chislehurst | Clive Efford MP | 4683 |
+| Eltham and Chislehurst | Clive Efford MP | 4684 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5147 |
 | Enfield North | Feryal Clark MP | 2877 |
 | Epping Forest | Dr Neil Hudson MP | 6553 |
@@ -196,7 +196,7 @@
 | Gloucester | Alex McIntyre MP | 4511 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5224 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6937 |
-| Gorton and Denton | Andrew Gwynne MP | 3245 |
+| Gorton and Denton | Andrew Gwynne MP | 3246 |
 | Gosport | Dame Caroline Dinenage MP | 5445 |
 | Grantham and Bourne | Gareth Davies MP | 6299 |
 | Gravesham | Dr Lauren Sullivan MP | 5116 |
@@ -219,7 +219,7 @@
 | Harrow West | Gareth Thomas MP | 2398 |
 | Hartlepool | Mr Jonathan Brash MP | 5622 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6249 |
-| Hastings and Rye | Helena Dollimore MP | 5045 |
+| Hastings and Rye | Helena Dollimore MP | 5046 |
 | Havant | Alan Mak MP | 5630 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2579 |
 | Hazel Grove | Lisa Smart MP | 5074 |
@@ -463,7 +463,7 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5321 |
 | Stevenage | Kevin Bonavia MP | 4710 |
 | Stockport | Navendu Mishra MP | 3902 |
-| Stockton North | Chris McDonald MP | 4817 |
+| Stockton North | Chris McDonald MP | 4818 |
 | Stockton West | Matt Vickers MP | 5965 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4693 |
 | Stoke-on-Trent North | David Williams MP | 5431 |
@@ -561,7 +561,7 @@
 | Foyle | Colum Eastwood MP | 1055 |
 | Lagan Valley | Sorcha Eastwood MP | 3511 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1887 |
-| Newry and Armagh | Dáire Hughes MP | 2066 |
+| Newry and Armagh | Dáire Hughes MP | 2067 |
 | North Antrim | Jim Allister KC MP | 3081 |
 | North Down | Alex Easton MP | 3334 |
 | South Antrim | Robin Swann MP | 3079 |
