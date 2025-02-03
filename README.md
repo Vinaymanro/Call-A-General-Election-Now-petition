@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2978990                                |
-| Last Updated      | 2025-02-03 03:21:12 UTC                                    |
+| Total Signatures   | 2978996                                |
+| Last Updated      | 2025-02-03 04:20:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -24,7 +24,7 @@
 | Barrow and Furness | Michelle Scrogham MP | 5282 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6860 |
 | Basingstoke | Luke Murphy MP | 4798 |
-| Bassetlaw | Jo White MP | 6719 |
+| Bassetlaw | Jo White MP | 6720 |
 | Bath | Wera Hobhouse MP | 2966 |
 | Battersea | Marsha De Cordova MP | 3604 |
 | Beaconsfield | Joy Morrissey MP | 5199 |
@@ -146,7 +146,7 @@
 | Doncaster Central | Sally Jameson MP | 4915 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6052 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5526 |
-| Dorking and Horley | Chris Coghlan MP | 5543 |
+| Dorking and Horley | Chris Coghlan MP | 5544 |
 | Dover and Deal | Mike Tapp MP | 5899 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6544 |
 | Dudley | Sonia Kumar MP | 5360 |
@@ -188,7 +188,7 @@
 | Forest of Dean | Matt Bishop MP | 5238 |
 | Frome and East Somerset | Anna Sabine MP | 4308 |
 | Fylde | Mr Andrew Snowden MP | 6752 |
-| Gainsborough | Rt Hon Sir Edward Leigh MP | 6637 |
+| Gainsborough | Rt Hon Sir Edward Leigh MP | 6638 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4499 |
 | Gedling | Michael Payne MP | 5033 |
 | Gillingham and Rainham | Naushabah Khan MP | 5024 |
@@ -296,7 +296,7 @@
 | Maidenhead | Mr Joshua Reynolds MP | 5265 |
 | Maidstone and Malling | Helen Grant MP | 5823 |
 | Makerfield | Josh Simons MP | 5838 |
-| Maldon | Rt Hon Sir John Whittingdale MP | 8092 |
+| Maldon | Rt Hon Sir John Whittingdale MP | 8093 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3977 |
 | Manchester Rusholme | Afzal Khan MP | 1213 |
 | Manchester Withington | Jeff Smith MP | 1665 |
@@ -481,7 +481,7 @@
 | Sussex Weald | Ms Nusrat Ghani MP | 6083 |
 | Sutton and Cheam | Luke Taylor MP | 4379 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5649 |
-| Swindon North | Will Stone MP | 4874 |
+| Swindon North | Will Stone MP | 4875 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4181 |
 | Tamworth | Sarah Edwards MP | 6911 |
 | Tatton | Rt Hon Esther McVey MP | 6483 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4721 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6014 |
 | Neath and Swansea East | Carolyn Harris MP | 4407 |
-| Newport East | Jessica Morden MP | 3978 |
+| Newport East | Jessica Morden MP | 3979 |
 | Newport West and Islwyn | Ruth Jones MP | 4025 |
 | Pontypridd | Alex Davies-Jones MP | 3866 |
 | Rhondda and Ogmore | Chris Bryant MP | 4007 |
