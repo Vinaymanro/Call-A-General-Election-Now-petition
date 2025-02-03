@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2979001                                |
-| Last Updated      | 2025-02-03 05:16:17 UTC                                    |
+| Total Signatures   | 2979008                                |
+| Last Updated      | 2025-02-03 06:24:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5726 |
 | Barrow and Furness | Michelle Scrogham MP | 5282 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6860 |
-| Basingstoke | Luke Murphy MP | 4798 |
+| Basingstoke | Luke Murphy MP | 4799 |
 | Bassetlaw | Jo White MP | 6720 |
 | Bath | Wera Hobhouse MP | 2966 |
 | Battersea | Marsha De Cordova MP | 3604 |
@@ -91,7 +91,7 @@
 | Burton and Uttoxeter | Jacob Collier MP | 5774 |
 | Bury North | Mr James Frith MP | 4955 |
 | Bury South | Christian Wakeford MP | 5401 |
-| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5429 |
+| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5430 |
 | Calder Valley | Josh Fenton-Glynn MP | 5626 |
 | Camborne and Redruth | Perran Moon MP | 4942 |
 | Cambridge | Daniel Zeichner MP | 2205 |
@@ -284,7 +284,7 @@
 | Lincoln | Mr Hamish Falconer MP | 4625 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3111 |
 | Liverpool Riverside | Kim Johnson MP | 2625 |
-| Liverpool Walton | Dan Carden MP | 3333 |
+| Liverpool Walton | Dan Carden MP | 3334 |
 | Liverpool Wavertree | Paula Barker MP | 2207 |
 | Liverpool West Derby | Ian Byrne MP | 3030 |
 | Loughborough | Dr Jeevun Sandher MP | 4463 |
@@ -324,7 +324,7 @@
 | Newbury | Mr Lee Dillon MP | 4872 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4472 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4722 |
-| Newcastle upon Tyne North | Catherine McKinnell MP | 3936 |
+| Newcastle upon Tyne North | Catherine McKinnell MP | 3937 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5038 |
 | Newton Abbot | Martin Wrigley MP | 5081 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5509 |
@@ -407,7 +407,7 @@
 | Salford | Rebecca Long Bailey MP | 4646 |
 | Salisbury | Rt Hon John Glen MP | 4730 |
 | Scarborough and Whitby | Alison Hume MP | 5972 |
-| Scunthorpe | Sir Nicholas Dakin MP | 5057 |
+| Scunthorpe | Sir Nicholas Dakin MP | 5058 |
 | Sefton Central | Bill Esterson MP | 3995 |
 | Selby | Keir Mather MP | 6343 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6645 |
@@ -439,7 +439,7 @@
 | South Ribble | Mr Paul Foster MP | 5863 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4701 |
 | South Shropshire | Stuart Anderson MP | 7303 |
-| South Suffolk | James Cartlidge MP | 6126 |
+| South Suffolk | James Cartlidge MP | 6127 |
 | South West Devon | Rebecca Smith MP | 5954 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5187 |
 | South West Norfolk | Terry Jermy MP | 6503 |
@@ -622,7 +622,7 @@
 | Stirling and Strathallan | Chris Kane MP | 3210 |
 | West Dunbartonshire | Douglas McAllister MP | 2711 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3538 |
-| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 3999 |
+| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4000 |
 | Central Ayrshire | Alan Gemmell MP | 3111 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3234 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4540 |
