@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2978996                                |
-| Last Updated      | 2025-02-03 04:20:04 UTC                                    |
+| Total Signatures   | 2979001                                |
+| Last Updated      | 2025-02-03 05:16:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -307,12 +307,12 @@
 | Mid Bedfordshire | Blake Stephenson MP | 5826 |
 | Mid Buckinghamshire | Greg Smith MP | 5582 |
 | Mid Cheshire | Andrew Cooper MP | 5145 |
-| Mid Derbyshire | Jonathan Davies MP | 5212 |
+| Mid Derbyshire | Jonathan Davies MP | 5213 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5868 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5563 |
 | Mid Norfolk | George Freeman MP | 6261 |
 | Mid Sussex | Alison Bennett MP | 4683 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4196 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4197 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5675 |
 | Milton Keynes Central | Emily Darlington MP | 4918 |
 | Milton Keynes North | Chris Curtis MP | 4541 |
@@ -433,7 +433,7 @@
 | South Dorset | Lloyd Hatton MP | 5626 |
 | South East Cornwall | Anna Gelderd MP | 6205 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7103 |
-| South Leicestershire | Alberto Costa MP | 6947 |
+| South Leicestershire | Alberto Costa MP | 6948 |
 | South Norfolk | Ben Goldsborough MP | 5420 |
 | South Northamptonshire | Sarah Bool MP | 6649 |
 | South Ribble | Mr Paul Foster MP | 5863 |
@@ -486,7 +486,7 @@
 | Tamworth | Sarah Edwards MP | 6911 |
 | Tatton | Rt Hon Esther McVey MP | 6483 |
 | Taunton and Wellington | Gideon Amos MP | 5151 |
-| Telford | Shaun Davies MP | 5553 |
+| Telford | Shaun Davies MP | 5554 |
 | Tewkesbury | Cameron Thomas MP | 4998 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6373 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7401 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2067 |
 | North Antrim | Jim Allister KC MP | 3081 |
 | North Down | Alex Easton MP | 3334 |
-| South Antrim | Robin Swann MP | 3079 |
+| South Antrim | Robin Swann MP | 3080 |
 | South Down | Chris Hazzard MP | 1838 |
 | Strangford | Jim Shannon MP | 3448 |
 | Upper Bann | Carla Lockhart MP | 3054 |
