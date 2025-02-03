@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2978986                                |
-| Last Updated      | 2025-02-03 02:44:02 UTC                                    |
+| Total Signatures   | 2978990                                |
+| Last Updated      | 2025-02-03 03:21:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -64,7 +64,7 @@
 | Bournemouth West | Jessica Toale MP | 4891 |
 | Bracknell | Peter Swallow MP | 4949 |
 | Bradford East | Imran Hussain MP | 2871 |
-| Bradford South | Judith Cummins MP | 4133 |
+| Bradford South | Judith Cummins MP | 4134 |
 | Bradford West | Naz Shah MP | 1804 |
 | Braintree | Rt Hon James Cleverly MP | 7411 |
 | Brent East | Dawn Butler MP | 1856 |
@@ -170,7 +170,7 @@
 | Ellesmere Port and Bromborough | Justin Madders MP | 4418 |
 | Eltham and Chislehurst | Clive Efford MP | 4684 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5147 |
-| Enfield North | Feryal Clark MP | 2877 |
+| Enfield North | Feryal Clark MP | 2878 |
 | Epping Forest | Dr Neil Hudson MP | 6553 |
 | Epsom and Ewell | Helen Maguire MP | 4910 |
 | Erewash | Adam Thompson MP | 5798 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3936 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5038 |
 | Newton Abbot | Martin Wrigley MP | 5081 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5508 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5509 |
 | Normanton and Hemsworth | Jon Trickett MP | 5462 |
 | North Bedfordshire | Richard Fuller MP | 6085 |
 | North Cornwall | Ben Maguire MP | 6378 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3765 |
 | West Dorset | Edward Morello MP | 5434 |
 | West Ham and Beckton | James Asser MP | 2143 |
-| West Lancashire | Ashley Dalton MP | 5033 |
+| West Lancashire | Ashley Dalton MP | 5034 |
 | West Suffolk | Nick Timothy MP | 6001 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6239 |
 | Westmorland and Lonsdale | Tim Farron MP | 5187 |
