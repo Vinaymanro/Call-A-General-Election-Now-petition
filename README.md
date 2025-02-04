@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2979569                                |
-| Last Updated      | 2025-02-04 03:18:59 UTC                                    |
+| Total Signatures   | 2979574                                |
+| Last Updated      | 2025-02-04 04:19:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -64,7 +64,7 @@
 | Bournemouth West | Jessica Toale MP | 4891 |
 | Bracknell | Peter Swallow MP | 4951 |
 | Bradford East | Imran Hussain MP | 2873 |
-| Bradford South | Judith Cummins MP | 4137 |
+| Bradford South | Judith Cummins MP | 4139 |
 | Bradford West | Naz Shah MP | 1804 |
 | Braintree | Rt Hon James Cleverly MP | 7413 |
 | Brent East | Dawn Butler MP | 1856 |
@@ -288,7 +288,7 @@
 | Liverpool Wavertree | Paula Barker MP | 2207 |
 | Liverpool West Derby | Ian Byrne MP | 3031 |
 | Loughborough | Dr Jeevun Sandher MP | 4464 |
-| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7765 |
+| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7766 |
 | Lowestoft | Jess Asato MP | 5304 |
 | Luton North | Sarah Owen MP | 2462 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2930 |
@@ -306,7 +306,7 @@
 | Meriden and Solihull East | Saqib Bhatti MP | 6045 |
 | Mid Bedfordshire | Blake Stephenson MP | 5828 |
 | Mid Buckinghamshire | Greg Smith MP | 5583 |
-| Mid Cheshire | Andrew Cooper MP | 5147 |
+| Mid Cheshire | Andrew Cooper MP | 5148 |
 | Mid Derbyshire | Jonathan Davies MP | 5213 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5868 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5563 |
@@ -468,7 +468,7 @@
 | Stoke-on-Trent Central | Gareth Snell MP | 4694 |
 | Stoke-on-Trent North | David Williams MP | 5432 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5705 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6508 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6509 |
 | Stourbridge | Cat Eccles MP | 5131 |
 | Stratford and Bow | Uma Kumaran MP | 1756 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6687 |
