@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2979590                                |
-| Last Updated      | 2025-02-04 06:24:06 UTC                                    |
+| Total Signatures   | 2979597                                |
+| Last Updated      | 2025-02-04 07:16:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5425 |
 | Barking | Nesil Caliskan MP | 2620 |
 | Barnsley North | Dan Jarvis MP | 5642 |
-| Barnsley South | Stephanie Peacock MP | 5729 |
+| Barnsley South | Stephanie Peacock MP | 5730 |
 | Barrow and Furness | Michelle Scrogham MP | 5285 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6863 |
 | Basingstoke | Luke Murphy MP | 4799 |
@@ -126,8 +126,8 @@
 | Congleton | Mrs Sarah Russell MP | 5950 |
 | Corby and East Northamptonshire | Lee Barron MP | 5982 |
 | Coventry East | Mary Creagh MP | 3570 |
-| Coventry North West | Taiwo Owatemi MP | 4231 |
-| Coventry South | Zarah Sultana MP | 3498 |
+| Coventry North West | Taiwo Owatemi MP | 4232 |
+| Coventry South | Zarah Sultana MP | 3499 |
 | Cramlington and Killingworth | Emma Foody MP | 5777 |
 | Crawley | Peter Lamb MP | 4688 |
 | Crewe and Nantwich | Connor Naismith MP | 5667 |
@@ -192,7 +192,7 @@
 | Gateshead Central and Whickham | Mark Ferguson MP | 4499 |
 | Gedling | Michael Payne MP | 5035 |
 | Gillingham and Rainham | Naushabah Khan MP | 5029 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5569 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5570 |
 | Gloucester | Alex McIntyre MP | 4514 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5225 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6941 |
@@ -263,7 +263,7 @@
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5469 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6376 |
 | Knowsley | Anneliese Midgley MP | 3263 |
-| Lancaster and Wyre | Cat Smith MP | 5051 |
+| Lancaster and Wyre | Cat Smith MP | 5052 |
 | Leeds Central and Headingley | Alex Sobel MP | 1925 |
 | Leeds East | Richard Burgon MP | 4282 |
 | Leeds North East | Fabian Hamilton MP | 2618 |
@@ -361,7 +361,7 @@
 | Nuneaton | Jodie Gosling MP | 5522 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6201 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5209 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4060 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4061 |
 | Orpington | Gareth Bacon MP | 5297 |
 | Ossett and Denby Dale | Jade Botterill MP | 5782 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2141 |
@@ -473,7 +473,7 @@
 | Stratford and Bow | Uma Kumaran MP | 1756 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6687 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1855 |
-| Stretford and Urmston | Andrew Western MP | 3802 |
+| Stretford and Urmston | Andrew Western MP | 3803 |
 | Stroud | Dr Simon Opher MP | 4520 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5367 |
 | Sunderland Central | Lewis Atkinson MP | 5204 |
