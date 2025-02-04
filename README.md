@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2979582                                |
-| Last Updated      | 2025-02-04 05:16:03 UTC                                    |
+| Total Signatures   | 2979590                                |
+| Last Updated      | 2025-02-04 06:24:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -89,7 +89,7 @@
 | Buckingham and Bletchley | Callum Anderson MP | 5243 |
 | Burnley | Oliver Ryan MP | 5704 |
 | Burton and Uttoxeter | Jacob Collier MP | 5774 |
-| Bury North | Mr James Frith MP | 4955 |
+| Bury North | Mr James Frith MP | 4956 |
 | Bury South | Christian Wakeford MP | 5402 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5430 |
 | Calder Valley | Josh Fenton-Glynn MP | 5626 |
@@ -190,7 +190,7 @@
 | Fylde | Mr Andrew Snowden MP | 6752 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6639 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4499 |
-| Gedling | Michael Payne MP | 5034 |
+| Gedling | Michael Payne MP | 5035 |
 | Gillingham and Rainham | Naushabah Khan MP | 5029 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5569 |
 | Gloucester | Alex McIntyre MP | 4514 |
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 3995 |
 | Selby | Keir Mather MP | 6344 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6646 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3397 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3398 |
 | Sheffield Central | Abtisam Mohamed MP | 1422 |
 | Sheffield Hallam | Olivia Blake MP | 3379 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3511 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5189 |
 | South West Norfolk | Terry Jermy MP | 6504 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5181 |
-| Southampton Itchen | Darren Paffey MP | 4511 |
+| Southampton Itchen | Darren Paffey MP | 4512 |
 | Southampton Test | Satvir Kaur MP | 3387 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5554 |
 | Southend West and Leigh | David Burton-Sampson MP | 5845 |
@@ -483,7 +483,7 @@
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5649 |
 | Swindon North | Will Stone MP | 4876 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4181 |
-| Tamworth | Sarah Edwards MP | 6911 |
+| Tamworth | Sarah Edwards MP | 6912 |
 | Tatton | Rt Hon Esther McVey MP | 6483 |
 | Taunton and Wellington | Gideon Amos MP | 5152 |
 | Telford | Shaun Davies MP | 5554 |
@@ -505,7 +505,7 @@
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4473 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4462 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1668 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4881 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4882 |
 | Wallasey | Dame Angela Eagle MP | 4048 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3987 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
@@ -515,7 +515,7 @@
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5294 |
 | Watford | Matt Turmaine MP | 3734 |
 | Waveney Valley | Adrian Ramsay MP | 5828 |
-| Weald of Kent | Katie Lam MP | 7208 |
+| Weald of Kent | Katie Lam MP | 7209 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5062 |
 | Wells and Mendip Hills | Tessa Munt MP | 5230 |
 | Welwyn Hatfield | Andrew Lewin MP | 5042 |
@@ -586,7 +586,7 @@
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4058 |
 | Coatbridge and Bellshill | Frank McNally MP | 2574 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2839 |
-| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2667 |
+| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2668 |
 | Dumfries and Galloway | John Cooper MP | 4027 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3838 |
 | Dundee Central | Chris Law MP | 2529 |
