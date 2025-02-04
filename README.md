@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2979574                                |
-| Last Updated      | 2025-02-04 04:19:26 UTC                                    |
+| Total Signatures   | 2979582                                |
+| Last Updated      | 2025-02-04 05:16:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -63,7 +63,7 @@
 | Bournemouth East | Tom Hayes MP | 4644 |
 | Bournemouth West | Jessica Toale MP | 4891 |
 | Bracknell | Peter Swallow MP | 4951 |
-| Bradford East | Imran Hussain MP | 2873 |
+| Bradford East | Imran Hussain MP | 2874 |
 | Bradford South | Judith Cummins MP | 4139 |
 | Bradford West | Naz Shah MP | 1804 |
 | Braintree | Rt Hon James Cleverly MP | 7413 |
@@ -103,12 +103,12 @@
 | Central Devon | Rt Hon Mel Stride MP | 5777 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5277 |
 | Chatham and Aylesford | Tristan Osborne MP | 5598 |
-| Cheadle | Tom Morrison MP | 4649 |
+| Cheadle | Tom Morrison MP | 4650 |
 | Chelmsford | Marie Goldman MP | 5244 |
 | Chelsea and Fulham | Ben Coleman MP | 5476 |
 | Cheltenham | Max Wilkinson MP | 4018 |
 | Chesham and Amersham | Sarah Green MP | 4932 |
-| Chester North and Neston | Samantha Dixon MP | 4034 |
+| Chester North and Neston | Samantha Dixon MP | 4035 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6373 |
 | Chesterfield | Mr Toby Perkins MP | 4848 |
 | Chichester | Jess Brown-Fuller MP | 5897 |
@@ -128,7 +128,7 @@
 | Coventry East | Mary Creagh MP | 3570 |
 | Coventry North West | Taiwo Owatemi MP | 4231 |
 | Coventry South | Zarah Sultana MP | 3498 |
-| Cramlington and Killingworth | Emma Foody MP | 5776 |
+| Cramlington and Killingworth | Emma Foody MP | 5777 |
 | Crawley | Peter Lamb MP | 4688 |
 | Crewe and Nantwich | Connor Naismith MP | 5667 |
 | Croydon East | Natasha Irons MP | 3323 |
@@ -199,7 +199,7 @@
 | Gorton and Denton | Andrew Gwynne MP | 3248 |
 | Gosport | Dame Caroline Dinenage MP | 5449 |
 | Grantham and Bourne | Gareth Davies MP | 6300 |
-| Gravesham | Dr Lauren Sullivan MP | 5116 |
+| Gravesham | Dr Lauren Sullivan MP | 5117 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5757 |
 | Great Yarmouth | Rupert Lowe MP | 6546 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2600 |
@@ -242,7 +242,7 @@
 | Horsham | John Milne MP | 5801 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6272 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3315 |
-| Huddersfield | Harpreet Uppal MP | 3664 |
+| Huddersfield | Harpreet Uppal MP | 3665 |
 | Huntingdon | Ben Obese-Jecty MP | 5531 |
 | Hyndburn | Sarah Smith MP | 4976 |
 | Ilford North | Rt Hon Wes Streeting MP | 2612 |
@@ -251,7 +251,7 @@
 | Isle of Wight East | Joe Robertson MP | 4363 |
 | Isle of Wight West | Mr Richard Quigley MP | 4050 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1785 |
-| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2758 |
+| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2759 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5064 |
 | Keighley and Ilkley | Robbie Moore MP | 4678 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6078 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4722 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6016 |
 | Neath and Swansea East | Carolyn Harris MP | 4407 |
-| Newport East | Jessica Morden MP | 3979 |
+| Newport East | Jessica Morden MP | 3980 |
 | Newport West and Islwyn | Ruth Jones MP | 4026 |
 | Pontypridd | Alex Davies-Jones MP | 3867 |
 | Rhondda and Ogmore | Chris Bryant MP | 4007 |
