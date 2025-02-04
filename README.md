@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2979567                                |
-| Last Updated      | 2025-02-04 02:42:35 UTC                                    |
+| Total Signatures   | 2979569                                |
+| Last Updated      | 2025-02-04 03:18:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -415,7 +415,7 @@
 | Sheffield Central | Abtisam Mohamed MP | 1422 |
 | Sheffield Hallam | Olivia Blake MP | 3379 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3511 |
-| Sheffield South East | Mr Clive Betts MP | 4713 |
+| Sheffield South East | Mr Clive Betts MP | 4714 |
 | Sherwood Forest | Michelle Welsh MP | 6627 |
 | Shipley | Anna Dixon MP | 4871 |
 | Shrewsbury | Julia Buckley MP | 5308 |
@@ -578,7 +578,7 @@
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3822 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4648 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2800 |
-| Alloa and Grangemouth | Brian Leishman MP | 3004 |
+| Alloa and Grangemouth | Brian Leishman MP | 3005 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4030 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3453 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3387 |
