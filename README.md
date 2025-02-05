@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2980146                                |
-| Last Updated      | 2025-02-05 04:20:05 UTC                                    |
+| Total Signatures   | 2980149                                |
+| Last Updated      | 2025-02-05 05:17:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -101,7 +101,7 @@
 | Carshalton and Wallington | Bobby Dean MP | 4248 |
 | Castle Point | Rebecca Harris MP | 7499 |
 | Central Devon | Rt Hon Mel Stride MP | 5777 |
-| Central Suffolk and North Ipswich | Patrick Spencer MP | 5277 |
+| Central Suffolk and North Ipswich | Patrick Spencer MP | 5278 |
 | Chatham and Aylesford | Tristan Osborne MP | 5598 |
 | Cheadle | Tom Morrison MP | 4650 |
 | Chelmsford | Marie Goldman MP | 5245 |
@@ -136,7 +136,7 @@
 | Croydon West | Sarah Jones MP | 1740 |
 | Dagenham and Rainham | Margaret Mullane MP | 4212 |
 | Darlington | Lola McEvoy MP | 5436 |
-| Dartford | Jim Dickson MP | 5713 |
+| Dartford | Jim Dickson MP | 5714 |
 | Daventry | Rt Hon Stuart Andrew MP | 7262 |
 | Derby North | Catherine Atkinson MP | 4303 |
 | Derby South | Baggy Shanker MP | 3583 |
@@ -324,7 +324,7 @@
 | Newbury | Mr Lee Dillon MP | 4873 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4479 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4722 |
-| Newcastle upon Tyne North | Catherine McKinnell MP | 3938 |
+| Newcastle upon Tyne North | Catherine McKinnell MP | 3939 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5040 |
 | Newton Abbot | Martin Wrigley MP | 5084 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5509 |
