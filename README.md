@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2980138                                |
-| Last Updated      | 2025-02-05 01:17:58 UTC                                    |
+| Total Signatures   | 2980143                                |
+| Last Updated      | 2025-02-05 02:45:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -19,7 +19,7 @@
 | Aylesbury | Laura Kyrke-Smith MP | 4850 |
 | Banbury | Sean Woodcock MP | 5427 |
 | Barking | Nesil Caliskan MP | 2620 |
-| Barnsley North | Dan Jarvis MP | 5645 |
+| Barnsley North | Dan Jarvis MP | 5646 |
 | Barnsley South | Stephanie Peacock MP | 5730 |
 | Barrow and Furness | Michelle Scrogham MP | 5285 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6864 |
@@ -396,7 +396,7 @@
 | Romford | Andrew Rosindell MP | 5773 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5054 |
 | Rossendale and Darwen | Andy MacNae MP | 6462 |
-| Rother Valley | Jake Richards MP | 5825 |
+| Rother Valley | Jake Richards MP | 5826 |
 | Rotherham | Sarah Champion MP | 4924 |
 | Rugby | John Slinger MP | 5377 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4097 |
@@ -434,7 +434,7 @@
 | South East Cornwall | Anna Gelderd MP | 6209 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7107 |
 | South Leicestershire | Alberto Costa MP | 6951 |
-| South Norfolk | Ben Goldsborough MP | 5425 |
+| South Norfolk | Ben Goldsborough MP | 5426 |
 | South Northamptonshire | Sarah Bool MP | 6650 |
 | South Ribble | Mr Paul Foster MP | 5865 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4704 |
@@ -597,11 +597,11 @@
 | Edinburgh South | Rt Hon Ian Murray MP | 2054 |
 | Edinburgh South West | Dr Scott Arthur MP | 2247 |
 | Edinburgh West | Christine Jardine MP | 2705 |
-| Falkirk | Euan Stainbank MP | 3412 |
+| Falkirk | Euan Stainbank MP | 3413 |
 | Glasgow East | John Grady MP | 2299 |
 | Glasgow North | Martin Rhodes MP | 2031 |
 | Glasgow North East | Maureen Burke MP | 2457 |
-| Glasgow South | Gordon McKee MP | 1833 |
+| Glasgow South | Gordon McKee MP | 1834 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2254 |
 | Glasgow West | Patricia Ferguson MP | 2202 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2951 |
