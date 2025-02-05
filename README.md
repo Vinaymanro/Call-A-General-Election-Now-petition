@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2980154                                |
-| Last Updated      | 2025-02-05 06:23:44 UTC                                    |
+| Total Signatures   | 2980159                                |
+| Last Updated      | 2025-02-05 07:15:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -26,7 +26,7 @@
 | Basingstoke | Luke Murphy MP | 4800 |
 | Bassetlaw | Jo White MP | 6721 |
 | Bath | Wera Hobhouse MP | 2966 |
-| Battersea | Marsha De Cordova MP | 3605 |
+| Battersea | Marsha De Cordova MP | 3606 |
 | Beaconsfield | Joy Morrissey MP | 5201 |
 | Beckenham and Penge | Liam Conlon MP | 3826 |
 | Bedford | Mohammad Yasin MP | 3216 |
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1573 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3465 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1888 |
-| Birmingham Northfield | Laurence Turner MP | 4867 |
+| Birmingham Northfield | Laurence Turner MP | 4868 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1709 |
 | Birmingham Selly Oak | Al Carns MP | 3275 |
 | Birmingham Yardley | Jess Phillips MP | 3055 |
@@ -57,7 +57,7 @@
 | Bolsover | Natalie Fleet MP | 6504 |
 | Bolton North East | Kirith Entwistle MP | 5564 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4383 |
-| Bolton West | Phil Brickell MP | 5561 |
+| Bolton West | Phil Brickell MP | 5562 |
 | Bootle | Peter Dowd MP | 3129 |
 | Boston and Skegness | Richard Tice MP | 7057 |
 | Bournemouth East | Tom Hayes MP | 4644 |
@@ -345,7 +345,7 @@
 | North Northumberland | David Smith MP | 6414 |
 | North Shropshire | Helen Morgan MP | 6852 |
 | North Somerset | Sadik Al-Hassan MP | 4568 |
-| North Warwickshire and Bedworth | Rachel Taylor MP | 6239 |
+| North Warwickshire and Bedworth | Rachel Taylor MP | 6240 |
 | North West Cambridgeshire | Sam Carling MP | 5988 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7116 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5712 |
@@ -476,7 +476,7 @@
 | Stretford and Urmston | Andrew Western MP | 3803 |
 | Stroud | Dr Simon Opher MP | 4520 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5369 |
-| Sunderland Central | Lewis Atkinson MP | 5207 |
+| Sunderland Central | Lewis Atkinson MP | 5208 |
 | Surrey Heath | Dr Al Pinkerton MP | 5403 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6085 |
 | Sutton and Cheam | Luke Taylor MP | 4379 |
