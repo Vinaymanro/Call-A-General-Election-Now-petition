@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2980145                                |
-| Last Updated      | 2025-02-05 03:20:09 UTC                                    |
+| Total Signatures   | 2980146                                |
+| Last Updated      | 2025-02-05 04:20:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -463,7 +463,7 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5326 |
 | Stevenage | Kevin Bonavia MP | 4711 |
 | Stockport | Navendu Mishra MP | 3904 |
-| Stockton North | Chris McDonald MP | 4819 |
+| Stockton North | Chris McDonald MP | 4820 |
 | Stockton West | Matt Vickers MP | 5966 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4695 |
 | Stoke-on-Trent North | David Williams MP | 5433 |
