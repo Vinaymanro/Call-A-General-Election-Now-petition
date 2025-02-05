@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2980143                                |
-| Last Updated      | 2025-02-05 02:45:35 UTC                                    |
+| Total Signatures   | 2980145                                |
+| Last Updated      | 2025-02-05 03:20:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -272,7 +272,7 @@
 | Leeds South West and Morley | Mark Sewards MP | 5472 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3766 |
 | Leicester East | Shivani Raja MP | 1874 |
-| Leicester South | Shockat Adam MP | 1831 |
+| Leicester South | Shockat Adam MP | 1832 |
 | Leicester West | Rt Hon Liz Kendall MP | 3440 |
 | Leigh and Atherton | Jo Platt MP | 6048 |
 | Lewes | James MacCleary MP | 4883 |
@@ -598,7 +598,7 @@
 | Edinburgh South West | Dr Scott Arthur MP | 2247 |
 | Edinburgh West | Christine Jardine MP | 2705 |
 | Falkirk | Euan Stainbank MP | 3413 |
-| Glasgow East | John Grady MP | 2299 |
+| Glasgow East | John Grady MP | 2300 |
 | Glasgow North | Martin Rhodes MP | 2031 |
 | Glasgow North East | Maureen Burke MP | 2457 |
 | Glasgow South | Gordon McKee MP | 1834 |
