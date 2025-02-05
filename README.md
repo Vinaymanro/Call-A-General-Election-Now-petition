@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2980149                                |
-| Last Updated      | 2025-02-05 05:17:13 UTC                                    |
+| Total Signatures   | 2980154                                |
+| Last Updated      | 2025-02-05 06:23:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -181,7 +181,7 @@
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6105 |
 | Farnham and Bordon | Gregory Stafford MP | 5169 |
 | Faversham and Mid Kent | Helen Whately MP | 6205 |
-| Feltham and Heston | Seema Malhotra MP | 2903 |
+| Feltham and Heston | Seema Malhotra MP | 2904 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4492 |
 | Finchley and Golders Green | Sarah Sackman MP | 4275 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5377 |
@@ -341,7 +341,7 @@
 | North East Hertfordshire | Chris Hinchliff MP | 5819 |
 | North East Somerset and Hanham | Dan Norris MP | 5028 |
 | North Herefordshire | Ellie Chowns MP | 6449 |
-| North Norfolk | Steff Aquarone MP | 5416 |
+| North Norfolk | Steff Aquarone MP | 5417 |
 | North Northumberland | David Smith MP | 6414 |
 | North Shropshire | Helen Morgan MP | 6852 |
 | North Somerset | Sadik Al-Hassan MP | 4568 |
@@ -397,7 +397,7 @@
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5054 |
 | Rossendale and Darwen | Andy MacNae MP | 6462 |
 | Rother Valley | Jake Richards MP | 5826 |
-| Rotherham | Sarah Champion MP | 4924 |
+| Rotherham | Sarah Champion MP | 4925 |
 | Rugby | John Slinger MP | 5377 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4097 |
 | Runcorn and Helsby | Mike Amesbury MP | 5002 |
@@ -453,7 +453,7 @@
 | Spelthorne | Lincoln Jopp MP | 5440 |
 | Spen Valley | Kim Leadbeater MP | 5349 |
 | St Albans | Daisy Cooper MP | 3872 |
-| St Austell and Newquay | Noah Law MP | 5581 |
+| St Austell and Newquay | Noah Law MP | 5582 |
 | St Helens North | David Baines MP | 4668 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4126 |
 | St Ives | Andrew George MP | 5065 |
@@ -461,7 +461,7 @@
 | Stafford | Leigh Ingham MP | 5585 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6396 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5326 |
-| Stevenage | Kevin Bonavia MP | 4711 |
+| Stevenage | Kevin Bonavia MP | 4712 |
 | Stockport | Navendu Mishra MP | 3904 |
 | Stockton North | Chris McDonald MP | 4820 |
 | Stockton West | Matt Vickers MP | 5966 |
