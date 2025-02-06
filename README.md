@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2981049                                |
-| Last Updated      | 2025-02-06 03:19:44 UTC                                    |
+| Total Signatures   | 2981055                                |
+| Last Updated      | 2025-02-06 04:19:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -33,9 +33,9 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2696 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1719 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6130 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6107 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6108 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5035 |
-| Bicester and Woodstock | Calum Miller MP | 4662 |
+| Bicester and Woodstock | Calum Miller MP | 4663 |
 | Birkenhead | Alison McGovern MP | 4301 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2941 |
 | Birmingham Erdington | Paulette Hamilton MP | 4217 |
@@ -90,7 +90,7 @@
 | Burnley | Oliver Ryan MP | 5706 |
 | Burton and Uttoxeter | Jacob Collier MP | 5776 |
 | Bury North | Mr James Frith MP | 4961 |
-| Bury South | Christian Wakeford MP | 5403 |
+| Bury South | Christian Wakeford MP | 5404 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5433 |
 | Calder Valley | Josh Fenton-Glynn MP | 5629 |
 | Camborne and Redruth | Perran Moon MP | 4948 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2627 |
 | Liverpool Walton | Dan Carden MP | 3335 |
 | Liverpool Wavertree | Paula Barker MP | 2208 |
-| Liverpool West Derby | Ian Byrne MP | 3034 |
+| Liverpool West Derby | Ian Byrne MP | 3035 |
 | Loughborough | Dr Jeevun Sandher MP | 4465 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7769 |
 | Lowestoft | Jess Asato MP | 5310 |
@@ -358,7 +358,7 @@
 | Nottingham East | Nadia Whittome MP | 2465 |
 | Nottingham North and Kimberley | Alex Norris MP | 3706 |
 | Nottingham South | Lilian Greenwood MP | 3042 |
-| Nuneaton | Jodie Gosling MP | 5524 |
+| Nuneaton | Jodie Gosling MP | 5525 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6202 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5209 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4065 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5044 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6562 |
 | Whitehaven and Workington | Josh MacAlister MP | 5820 |
-| Widnes and Halewood | Derek Twigg MP | 4217 |
+| Widnes and Halewood | Derek Twigg MP | 4218 |
 | Wigan | Rt Hon Lisa Nandy MP | 5926 |
 | Wimbledon | Mr Paul Kohler MP | 3405 |
 | Winchester | Dr Danny Chambers MP | 4903 |
