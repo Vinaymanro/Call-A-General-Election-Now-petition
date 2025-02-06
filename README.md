@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2981060                                |
-| Last Updated      | 2025-02-06 05:18:20 UTC                                    |
+| Total Signatures   | 2981069                                |
+| Last Updated      | 2025-02-06 06:24:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -17,7 +17,7 @@
 | Ashford | Sojan Joseph MP | 5878 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4564 |
 | Aylesbury | Laura Kyrke-Smith MP | 4853 |
-| Banbury | Sean Woodcock MP | 5429 |
+| Banbury | Sean Woodcock MP | 5430 |
 | Barking | Nesil Caliskan MP | 2621 |
 | Barnsley North | Dan Jarvis MP | 5648 |
 | Barnsley South | Stephanie Peacock MP | 5732 |
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5365 |
 | Dulwich and West Norwood | Helen Hayes MP | 1550 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5499 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3080 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3081 |
 | Ealing North | James Murray MP | 2574 |
 | Ealing Southall | Deirdre Costigan MP | 1950 |
 | Earley and Woodley | Yuan Yang MP | 3941 |
@@ -263,7 +263,7 @@
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5473 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6377 |
 | Knowsley | Anneliese Midgley MP | 3265 |
-| Lancaster and Wyre | Cat Smith MP | 5061 |
+| Lancaster and Wyre | Cat Smith MP | 5063 |
 | Leeds Central and Headingley | Alex Sobel MP | 1926 |
 | Leeds East | Richard Burgon MP | 4283 |
 | Leeds North East | Fabian Hamilton MP | 2620 |
@@ -347,7 +347,7 @@
 | North Somerset | Sadik Al-Hassan MP | 4569 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6241 |
 | North West Cambridgeshire | Sam Carling MP | 5990 |
-| North West Essex | Rt Hon Kemi Badenoch MP | 7119 |
+| North West Essex | Rt Hon Kemi Badenoch MP | 7120 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5713 |
 | North West Leicestershire | Amanda Hack MP | 6684 |
 | North West Norfolk | James Wild MP | 5727 |
@@ -357,7 +357,7 @@
 | Norwich South | Clive Lewis MP | 3372 |
 | Nottingham East | Nadia Whittome MP | 2465 |
 | Nottingham North and Kimberley | Alex Norris MP | 3706 |
-| Nottingham South | Lilian Greenwood MP | 3042 |
+| Nottingham South | Lilian Greenwood MP | 3043 |
 | Nuneaton | Jodie Gosling MP | 5525 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6202 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5209 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6169 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5430 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6175 |
-| Peterborough | Andrew Pakes MP | 4141 |
+| Peterborough | Andrew Pakes MP | 4142 |
 | Plymouth Moor View | Fred Thomas MP | 5656 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4728 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5420 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5935 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5930 |
 | Tooting | Dr Rosena Allin-Khan MP | 2685 |
-| Torbay | Steve Darling MP | 5791 |
+| Torbay | Steve Darling MP | 5792 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6552 |
 | Tottenham | Rt Hon David Lammy MP | 1677 |
 | Truro and Falmouth | Jayne Kirkham MP | 4583 |
@@ -636,7 +636,7 @@
 | Caerphilly | Chris Evans MP | 3966 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2874 |
 | Cardiff North | Anna McMorrin MP | 3275 |
-| Cardiff South and Penarth | Stephen Doughty MP | 2787 |
+| Cardiff South and Penarth | Stephen Doughty MP | 2788 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3131 |
 | Ceredigion Preseli | Ben Lake MP | 4722 |
 | Clwyd East | Becky Gittins MP | 6010 |
