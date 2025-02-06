@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2981047                                |
-| Last Updated      | 2025-02-06 02:45:55 UTC                                    |
+| Total Signatures   | 2981049                                |
+| Last Updated      | 2025-02-06 03:19:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5430 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6175 |
 | Peterborough | Andrew Pakes MP | 4141 |
-| Plymouth Moor View | Fred Thomas MP | 5655 |
+| Plymouth Moor View | Fred Thomas MP | 5656 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4728 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5420 |
 | Poole | Neil Duncan-Jordan MP | 5646 |
@@ -653,7 +653,7 @@
 | Newport West and Islwyn | Ruth Jones MP | 4027 |
 | Pontypridd | Alex Davies-Jones MP | 3872 |
 | Rhondda and Ogmore | Chris Bryant MP | 4007 |
-| Swansea West | Torsten Bell MP | 3632 |
+| Swansea West | Torsten Bell MP | 3633 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4058 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4596 |
 | Wrexham | Andrew Ranger MP | 4769 |
