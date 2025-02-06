@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2981055                                |
-| Last Updated      | 2025-02-06 04:19:54 UTC                                    |
+| Total Signatures   | 2981060                                |
+| Last Updated      | 2025-02-06 05:18:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -187,7 +187,7 @@
 | Folkestone and Hythe | Tony Vaughan KC MP | 5379 |
 | Forest of Dean | Matt Bishop MP | 5240 |
 | Frome and East Somerset | Anna Sabine MP | 4312 |
-| Fylde | Mr Andrew Snowden MP | 6756 |
+| Fylde | Mr Andrew Snowden MP | 6757 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6639 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4504 |
 | Gedling | Michael Payne MP | 5036 |
@@ -254,7 +254,7 @@
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2760 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5067 |
 | Keighley and Ilkley | Robbie Moore MP | 4680 |
-| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6081 |
+| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6082 |
 | Kensington and Bayswater | Joe Powell MP | 4390 |
 | Kettering | Rosie Wrighting MP | 5882 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3737 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5830 |
 | North Dorset | Simon Hoare MP | 6298 |
 | North Durham | Luke Akehurst MP | 5366 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6044 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6045 |
 | North East Derbyshire | Louise Jones MP | 5782 |
 | North East Hampshire | Alex Brewer MP | 5944 |
 | North East Hertfordshire | Chris Hinchliff MP | 5823 |
@@ -476,7 +476,7 @@
 | Stretford and Urmston | Andrew Western MP | 3804 |
 | Stroud | Dr Simon Opher MP | 4521 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5372 |
-| Sunderland Central | Lewis Atkinson MP | 5210 |
+| Sunderland Central | Lewis Atkinson MP | 5211 |
 | Surrey Heath | Dr Al Pinkerton MP | 5407 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6088 |
 | Sutton and Cheam | Luke Taylor MP | 4379 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5139 |
 | Warrington South | Sarah Hall MP | 5546 |
 | Warwick and Leamington | Matt Western MP | 4459 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5298 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5299 |
 | Watford | Matt Turmaine MP | 3735 |
 | Waveney Valley | Adrian Ramsay MP | 5834 |
 | Weald of Kent | Katie Lam MP | 7211 |
