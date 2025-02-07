@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2981780                                |
-| Last Updated      | 2025-02-07 04:20:23 UTC                                    |
+| Total Signatures   | 2981785                                |
+| Last Updated      | 2025-02-07 05:16:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -163,7 +163,7 @@
 | East Surrey | Rt Hon Claire Coutinho MP | 6011 |
 | East Thanet | Ms Polly Billington MP | 5460 |
 | East Wiltshire | Danny Kruger MP | 6046 |
-| East Worthing and Shoreham | Tom Rutland MP | 4584 |
+| East Worthing and Shoreham | Tom Rutland MP | 4585 |
 | Eastbourne | Josh Babarinde MP | 5023 |
 | Eastleigh | Liz Jarvis MP | 4315 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2218 |
@@ -207,7 +207,7 @@
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1516 |
 | Halesowen | Alex Ballinger MP | 4974 |
-| Halifax | Kate Dearden MP | 4731 |
+| Halifax | Kate Dearden MP | 4732 |
 | Hamble Valley | Paul Holmes MP | 6128 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3187 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2958 |
@@ -310,7 +310,7 @@
 | Mid Derbyshire | Jonathan Davies MP | 5216 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5869 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5566 |
-| Mid Norfolk | George Freeman MP | 6269 |
+| Mid Norfolk | George Freeman MP | 6270 |
 | Mid Sussex | Alison Bennett MP | 4684 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4209 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5678 |
@@ -318,7 +318,7 @@
 | Milton Keynes North | Chris Curtis MP | 4548 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2659 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5752 |
-| New Forest East | Rt Hon Sir Julian Lewis MP | 5395 |
+| New Forest East | Rt Hon Sir Julian Lewis MP | 5396 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5235 |
 | Newark | Rt Hon Robert Jenrick MP | 7140 |
 | Newbury | Mr Lee Dillon MP | 4878 |
@@ -548,7 +548,7 @@
 | Wycombe | Emma Reynolds MP | 3599 |
 | Wyre Forest | Mark Garnier MP | 6465 |
 | Wythenshawe and Sale East | Mike Kane MP | 4578 |
-| Yeovil | Adam Dance MP | 5576 |
+| Yeovil | Adam Dance MP | 5577 |
 | York Central | Rachael Maskell MP | 3265 |
 | York Outer | Mr Luke Charters MP | 4339 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2950 |
