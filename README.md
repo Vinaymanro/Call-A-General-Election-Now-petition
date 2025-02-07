@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2981777                                |
-| Last Updated      | 2025-02-07 03:21:05 UTC                                    |
+| Total Signatures   | 2981780                                |
+| Last Updated      | 2025-02-07 04:20:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -110,7 +110,7 @@
 | Chesham and Amersham | Sarah Green MP | 4933 |
 | Chester North and Neston | Samantha Dixon MP | 4037 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6375 |
-| Chesterfield | Mr Toby Perkins MP | 4856 |
+| Chesterfield | Mr Toby Perkins MP | 4857 |
 | Chichester | Jess Brown-Fuller MP | 5907 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4149 |
 | Chippenham | Sarah Gibson MP | 4718 |
@@ -171,7 +171,7 @@
 | Eltham and Chislehurst | Clive Efford MP | 4687 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5155 |
 | Enfield North | Feryal Clark MP | 2878 |
-| Epping Forest | Dr Neil Hudson MP | 6556 |
+| Epping Forest | Dr Neil Hudson MP | 6557 |
 | Epsom and Ewell | Helen Maguire MP | 4912 |
 | Erewash | Adam Thompson MP | 5803 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3212 |
@@ -546,7 +546,7 @@
 | Worsley and Eccles | Michael Wheeler MP | 5417 |
 | Worthing West | Dr Beccy Cooper MP | 5234 |
 | Wycombe | Emma Reynolds MP | 3599 |
-| Wyre Forest | Mark Garnier MP | 6464 |
+| Wyre Forest | Mark Garnier MP | 6465 |
 | Wythenshawe and Sale East | Mike Kane MP | 4578 |
 | Yeovil | Adam Dance MP | 5576 |
 | York Central | Rachael Maskell MP | 3265 |
