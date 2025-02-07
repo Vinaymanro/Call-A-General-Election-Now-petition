@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2981776                                |
-| Last Updated      | 2025-02-07 02:47:59 UTC                                    |
+| Total Signatures   | 2981777                                |
+| Last Updated      | 2025-02-07 03:21:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5433 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5781 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5492 |
-| Amber Valley | Linsey Farnsworth MP | 6060 |
+| Amber Valley | Linsey Farnsworth MP | 6061 |
 | Arundel and South Downs | Andrew Griffith MP | 6943 |
 | Ashfield | Lee Anderson MP | 6137 |
 | Ashford | Sojan Joseph MP | 5879 |
