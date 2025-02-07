@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2981785                                |
-| Last Updated      | 2025-02-07 05:16:26 UTC                                    |
+| Total Signatures   | 2981795                                |
+| Last Updated      | 2025-02-07 06:24:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -101,7 +101,7 @@
 | Carshalton and Wallington | Bobby Dean MP | 4250 |
 | Castle Point | Rebecca Harris MP | 7504 |
 | Central Devon | Rt Hon Mel Stride MP | 5780 |
-| Central Suffolk and North Ipswich | Patrick Spencer MP | 5281 |
+| Central Suffolk and North Ipswich | Patrick Spencer MP | 5282 |
 | Chatham and Aylesford | Tristan Osborne MP | 5599 |
 | Cheadle | Tom Morrison MP | 4650 |
 | Chelmsford | Marie Goldman MP | 5251 |
@@ -186,7 +186,7 @@
 | Finchley and Golders Green | Sarah Sackman MP | 4275 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5379 |
 | Forest of Dean | Matt Bishop MP | 5241 |
-| Frome and East Somerset | Anna Sabine MP | 4314 |
+| Frome and East Somerset | Anna Sabine MP | 4315 |
 | Fylde | Mr Andrew Snowden MP | 6758 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6640 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4505 |
@@ -227,7 +227,7 @@
 | Hendon | David Pinto-Duschinsky MP | 3787 |
 | Henley and Thame | Freddie van Mierlo MP | 5389 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5261 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6280 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6281 |
 | Hertford and Stortford | Josh Dean MP | 5953 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5730 |
 | Hexham | Joe Morris MP | 6395 |
@@ -293,7 +293,7 @@
 | Luton North | Sarah Owen MP | 2465 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2932 |
 | Macclesfield | Tim Roca MP | 5391 |
-| Maidenhead | Mr Joshua Reynolds MP | 5268 |
+| Maidenhead | Mr Joshua Reynolds MP | 5269 |
 | Maidstone and Malling | Helen Grant MP | 5829 |
 | Makerfield | Josh Simons MP | 5849 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8095 |
@@ -376,7 +376,7 @@
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5421 |
 | Poole | Neil Duncan-Jordan MP | 5647 |
 | Poplar and Limehouse | Apsana Begum MP | 2915 |
-| Portsmouth North | Amanda Martin MP | 5590 |
+| Portsmouth North | Amanda Martin MP | 5591 |
 | Portsmouth South | Stephen Morgan MP | 3858 |
 | Preston | Sir Mark Hendrick MP | 3797 |
 | Putney | Fleur Anderson MP | 3505 |
@@ -387,18 +387,18 @@
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4429 |
 | Redcar | Anna Turley MP | 5433 |
 | Redditch | Chris Bloore MP | 6056 |
-| Reigate | Rebecca Paul MP | 5537 |
+| Reigate | Rebecca Paul MP | 5538 |
 | Ribble Valley | Maya Ellis MP | 6690 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7087 |
 | Richmond Park | Sarah Olney MP | 4052 |
-| Rochdale | Paul Waugh MP | 3932 |
+| Rochdale | Paul Waugh MP | 3933 |
 | Rochester and Strood | Lauren Edwards MP | 5999 |
 | Romford | Andrew Rosindell MP | 5774 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5058 |
 | Rossendale and Darwen | Andy MacNae MP | 6463 |
 | Rother Valley | Jake Richards MP | 5829 |
 | Rotherham | Sarah Champion MP | 4929 |
-| Rugby | John Slinger MP | 5379 |
+| Rugby | John Slinger MP | 5380 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4097 |
 | Runcorn and Helsby | Mike Amesbury MP | 5005 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5819 |
@@ -437,7 +437,7 @@
 | South Norfolk | Ben Goldsborough MP | 5429 |
 | South Northamptonshire | Sarah Bool MP | 6650 |
 | South Ribble | Mr Paul Foster MP | 5870 |
-| South Shields | Mrs Emma Lewell-Buck MP | 4704 |
+| South Shields | Mrs Emma Lewell-Buck MP | 4705 |
 | South Shropshire | Stuart Anderson MP | 7306 |
 | South Suffolk | James Cartlidge MP | 6131 |
 | South West Devon | Rebecca Smith MP | 5959 |
@@ -650,7 +650,7 @@
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6025 |
 | Neath and Swansea East | Carolyn Harris MP | 4415 |
 | Newport East | Jessica Morden MP | 3982 |
-| Newport West and Islwyn | Ruth Jones MP | 4029 |
+| Newport West and Islwyn | Ruth Jones MP | 4030 |
 | Pontypridd | Alex Davies-Jones MP | 3877 |
 | Rhondda and Ogmore | Chris Bryant MP | 4008 |
 | Swansea West | Torsten Bell MP | 3634 |
