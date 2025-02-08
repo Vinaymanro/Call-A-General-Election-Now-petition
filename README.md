@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2982397                                |
-| Last Updated      | 2025-02-08 02:40:58 UTC                                    |
+| Total Signatures   | 2982399                                |
+| Last Updated      | 2025-02-08 03:18:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -338,7 +338,7 @@
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6046 |
 | North East Derbyshire | Louise Jones MP | 5784 |
 | North East Hampshire | Alex Brewer MP | 5946 |
-| North East Hertfordshire | Chris Hinchliff MP | 5824 |
+| North East Hertfordshire | Chris Hinchliff MP | 5825 |
 | North East Somerset and Hanham | Dan Norris MP | 5033 |
 | North Herefordshire | Ellie Chowns MP | 6453 |
 | North Norfolk | Steff Aquarone MP | 5421 |
@@ -450,7 +450,7 @@
 | Southend West and Leigh | David Burton-Sampson MP | 5850 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2582 |
 | Southport | Patrick Hurley MP | 5932 |
-| Spelthorne | Lincoln Jopp MP | 5441 |
+| Spelthorne | Lincoln Jopp MP | 5442 |
 | Spen Valley | Kim Leadbeater MP | 5353 |
 | St Albans | Daisy Cooper MP | 3873 |
 | St Austell and Newquay | Noah Law MP | 5588 |
