@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2982399                                |
-| Last Updated      | 2025-02-08 03:18:18 UTC                                    |
+| Total Signatures   | 2982403                                |
+| Last Updated      | 2025-02-08 04:19:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -88,7 +88,7 @@
 | Broxtowe | Juliet Campbell MP | 4697 |
 | Buckingham and Bletchley | Callum Anderson MP | 5246 |
 | Burnley | Oliver Ryan MP | 5708 |
-| Burton and Uttoxeter | Jacob Collier MP | 5778 |
+| Burton and Uttoxeter | Jacob Collier MP | 5779 |
 | Bury North | Mr James Frith MP | 4965 |
 | Bury South | Christian Wakeford MP | 5407 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5438 |
@@ -239,7 +239,7 @@
 | Honiton and Sidmouth | Richard Foord MP | 5239 |
 | Hornchurch and Upminster | Julia Lopez MP | 6601 |
 | Hornsey and Friern Barnet | Catherine West MP | 1932 |
-| Horsham | John Milne MP | 5807 |
+| Horsham | John Milne MP | 5808 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6279 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3318 |
 | Huddersfield | Harpreet Uppal MP | 3666 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3797 |
 | Putney | Fleur Anderson MP | 3505 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2144 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5091 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5092 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7338 |
 | Reading Central | Matt Rodda MP | 3023 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4429 |
@@ -575,7 +575,7 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3281 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1433 |
 | Aberdeen North | Kirsty Blackman MP | 3536 |
-| Aberdeen South | Rt Hon Stephen Flynn MP | 3825 |
+| Aberdeen South | Rt Hon Stephen Flynn MP | 3826 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4655 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2802 |
 | Alloa and Grangemouth | Brian Leishman MP | 3006 |
