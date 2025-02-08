@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2982410                                |
-| Last Updated      | 2025-02-08 06:21:35 UTC                                    |
+| Total Signatures   | 2982418                                |
+| Last Updated      | 2025-02-08 07:13:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5737 |
 | Barrow and Furness | Michelle Scrogham MP | 5295 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6870 |
-| Basingstoke | Luke Murphy MP | 4805 |
+| Basingstoke | Luke Murphy MP | 4806 |
 | Bassetlaw | Jo White MP | 6725 |
 | Bath | Wera Hobhouse MP | 2971 |
 | Battersea | Marsha De Cordova MP | 3606 |
@@ -192,13 +192,13 @@
 | Gateshead Central and Whickham | Mark Ferguson MP | 4507 |
 | Gedling | Michael Payne MP | 5038 |
 | Gillingham and Rainham | Naushabah Khan MP | 5033 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5575 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5576 |
 | Gloucester | Alex McIntyre MP | 4518 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5226 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6942 |
 | Gorton and Denton | Andrew Gwynne MP | 3250 |
 | Gosport | Dame Caroline Dinenage MP | 5454 |
-| Grantham and Bourne | Gareth Davies MP | 6304 |
+| Grantham and Bourne | Gareth Davies MP | 6305 |
 | Gravesham | Dr Lauren Sullivan MP | 5122 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5768 |
 | Great Yarmouth | Rupert Lowe MP | 6559 |
@@ -217,14 +217,14 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5100 |
 | Harrow East | Bob Blackman MP | 3125 |
 | Harrow West | Gareth Thomas MP | 2400 |
-| Hartlepool | Mr Jonathan Brash MP | 5626 |
+| Hartlepool | Mr Jonathan Brash MP | 5627 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6257 |
 | Hastings and Rye | Helena Dollimore MP | 5054 |
 | Havant | Alan Mak MP | 5636 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2582 |
 | Hazel Grove | Lisa Smart MP | 5082 |
 | Hemel Hempstead | David Taylor MP | 5056 |
-| Hendon | David Pinto-Duschinsky MP | 3788 |
+| Hendon | David Pinto-Duschinsky MP | 3789 |
 | Henley and Thame | Freddie van Mierlo MP | 5389 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5263 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6282 |
@@ -330,7 +330,7 @@
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5514 |
 | Normanton and Hemsworth | Jon Trickett MP | 5471 |
 | North Bedfordshire | Richard Fuller MP | 6087 |
-| North Cornwall | Ben Maguire MP | 6380 |
+| North Cornwall | Ben Maguire MP | 6381 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6035 |
 | North Devon | Ian Roome MP | 5833 |
 | North Dorset | Simon Hoare MP | 6299 |
@@ -442,7 +442,7 @@
 | South Suffolk | James Cartlidge MP | 6132 |
 | South West Devon | Rebecca Smith MP | 5959 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5190 |
-| South West Norfolk | Terry Jermy MP | 6507 |
+| South West Norfolk | Terry Jermy MP | 6508 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5186 |
 | Southampton Itchen | Darren Paffey MP | 4523 |
 | Southampton Test | Satvir Kaur MP | 3394 |
@@ -500,7 +500,7 @@
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6556 |
 | Tottenham | Rt Hon David Lammy MP | 1679 |
 | Truro and Falmouth | Jayne Kirkham MP | 4588 |
-| Tunbridge Wells | Mike Martin MP | 5443 |
+| Tunbridge Wells | Mike Martin MP | 5444 |
 | Twickenham | Munira Wilson MP | 3647 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4476 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4466 |
