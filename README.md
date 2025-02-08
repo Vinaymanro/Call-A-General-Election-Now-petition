@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2982403                                |
-| Last Updated      | 2025-02-08 05:14:44 UTC                                    |
+| Total Signatures   | 2982410                                |
+| Last Updated      | 2025-02-08 06:21:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -125,7 +125,7 @@
 | Colne Valley | Paul Davies MP | 5007 |
 | Congleton | Mrs Sarah Russell MP | 5955 |
 | Corby and East Northamptonshire | Lee Barron MP | 5987 |
-| Coventry East | Mary Creagh MP | 3575 |
+| Coventry East | Mary Creagh MP | 3576 |
 | Coventry North West | Taiwo Owatemi MP | 4236 |
 | Coventry South | Zarah Sultana MP | 3505 |
 | Cramlington and Killingworth | Emma Foody MP | 5787 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6304 |
 | Gravesham | Dr Lauren Sullivan MP | 5122 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5768 |
-| Great Yarmouth | Rupert Lowe MP | 6558 |
+| Great Yarmouth | Rupert Lowe MP | 6559 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2604 |
 | Guildford | Zöe Franklin MP | 3989 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
@@ -322,7 +322,7 @@
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5236 |
 | Newark | Rt Hon Robert Jenrick MP | 7140 |
 | Newbury | Mr Lee Dillon MP | 4878 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4484 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4485 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4729 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3942 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5049 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5190 |
 | South West Norfolk | Terry Jermy MP | 6507 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5186 |
-| Southampton Itchen | Darren Paffey MP | 4522 |
+| Southampton Itchen | Darren Paffey MP | 4523 |
 | Southampton Test | Satvir Kaur MP | 3394 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5557 |
 | Southend West and Leigh | David Burton-Sampson MP | 5850 |
@@ -539,7 +539,7 @@
 | Witney | Charlie Maynard MP | 5146 |
 | Woking | Mr Will Forster MP | 4385 |
 | Wokingham | Clive Jones MP | 4856 |
-| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4376 |
+| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4377 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4295 |
 | Wolverhampton West | Warinder Juss | 3808 |
 | Worcester | Tom Collins MP | 4310 |
@@ -655,6 +655,6 @@
 | Rhondda and Ogmore | Chris Bryant MP | 4009 |
 | Swansea West | Torsten Bell MP | 3634 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4060 |
-| Vale of Glamorgan | Kanishka Narayan MP | 4598 |
+| Vale of Glamorgan | Kanishka Narayan MP | 4600 |
 | Wrexham | Andrew Ranger MP | 4773 |
 | Ynys Môn | Llinos Medi MP | 3720 |
