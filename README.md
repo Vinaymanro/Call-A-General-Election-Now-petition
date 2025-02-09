@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2982987                                |
-| Last Updated      | 2025-02-09 04:19:07 UTC                                    |
+| Total Signatures   | 2982989                                |
+| Last Updated      | 2025-02-09 05:16:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -304,7 +304,7 @@
 | Melksham and Devizes | Brian Mathew MP | 5000 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6095 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6051 |
-| Mid Bedfordshire | Blake Stephenson MP | 5831 |
+| Mid Bedfordshire | Blake Stephenson MP | 5832 |
 | Mid Buckinghamshire | Greg Smith MP | 5585 |
 | Mid Cheshire | Andrew Cooper MP | 5157 |
 | Mid Derbyshire | Jonathan Davies MP | 5217 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4823 |
 | Stockton West | Matt Vickers MP | 5972 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4702 |
-| Stoke-on-Trent North | David Williams MP | 5441 |
+| Stoke-on-Trent North | David Williams MP | 5442 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5708 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6516 |
 | Stourbridge | Cat Eccles MP | 5138 |
