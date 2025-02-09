@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2982992                                |
-| Last Updated      | 2025-02-09 06:21:51 UTC                                    |
+| Total Signatures   | 2982996                                |
+| Last Updated      | 2025-02-09 07:14:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -207,7 +207,7 @@
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1516 |
 | Halesowen | Alex Ballinger MP | 4976 |
-| Halifax | Kate Dearden MP | 4734 |
+| Halifax | Kate Dearden MP | 4735 |
 | Hamble Valley | Paul Holmes MP | 6130 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3190 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2958 |
@@ -339,7 +339,7 @@
 | North East Derbyshire | Louise Jones MP | 5784 |
 | North East Hampshire | Alex Brewer MP | 5946 |
 | North East Hertfordshire | Chris Hinchliff MP | 5826 |
-| North East Somerset and Hanham | Dan Norris MP | 5033 |
+| North East Somerset and Hanham | Dan Norris MP | 5034 |
 | North Herefordshire | Ellie Chowns MP | 6454 |
 | North Norfolk | Steff Aquarone MP | 5422 |
 | North Northumberland | David Smith MP | 6417 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 5978 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5065 |
 | Sefton Central | Bill Esterson MP | 4000 |
-| Selby | Keir Mather MP | 6349 |
+| Selby | Keir Mather MP | 6350 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6649 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3408 |
 | Sheffield Central | Abtisam Mohamed MP | 1423 |
@@ -503,7 +503,7 @@
 | Tunbridge Wells | Mike Martin MP | 5444 |
 | Twickenham | Munira Wilson MP | 3647 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4476 |
-| Uxbridge and South Ruislip | Danny Beales MP | 4467 |
+| Uxbridge and South Ruislip | Danny Beales MP | 4468 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1671 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4892 |
 | Wallasey | Dame Angela Eagle MP | 4053 |
