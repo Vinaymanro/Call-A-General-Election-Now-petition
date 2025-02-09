@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2982981                                |
-| Last Updated      | 2025-02-09 02:48:48 UTC                                    |
+| Total Signatures   | 2982984                                |
+| Last Updated      | 2025-02-09 03:20:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -17,7 +17,7 @@
 | Ashford | Sojan Joseph MP | 5879 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4571 |
 | Aylesbury | Laura Kyrke-Smith MP | 4855 |
-| Banbury | Sean Woodcock MP | 5433 |
+| Banbury | Sean Woodcock MP | 5434 |
 | Barking | Nesil Caliskan MP | 2624 |
 | Barnsley North | Dan Jarvis MP | 5657 |
 | Barnsley South | Stephanie Peacock MP | 5742 |
@@ -477,7 +477,7 @@
 | Stroud | Dr Simon Opher MP | 4521 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5377 |
 | Sunderland Central | Lewis Atkinson MP | 5216 |
-| Surrey Heath | Dr Al Pinkerton MP | 5410 |
+| Surrey Heath | Dr Al Pinkerton MP | 5411 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6092 |
 | Sutton and Cheam | Luke Taylor MP | 4381 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5658 |
@@ -505,7 +505,7 @@
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4476 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4467 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1671 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4891 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4892 |
 | Wallasey | Dame Angela Eagle MP | 4053 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3990 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
