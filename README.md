@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2982984                                |
-| Last Updated      | 2025-02-09 03:20:32 UTC                                    |
+| Total Signatures   | 2982987                                |
+| Last Updated      | 2025-02-09 04:19:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -233,7 +233,7 @@
 | Hexham | Joe Morris MP | 6396 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5236 |
 | High Peak | Jon Pearce MP | 5434 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6453 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6454 |
 | Hitchin | Alistair Strathern MP | 4906 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2275 |
 | Honiton and Sidmouth | Richard Foord MP | 5240 |
@@ -514,7 +514,7 @@
 | Warwick and Leamington | Matt Western MP | 4460 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5301 |
 | Watford | Matt Turmaine MP | 3736 |
-| Waveney Valley | Adrian Ramsay MP | 5838 |
+| Waveney Valley | Adrian Ramsay MP | 5839 |
 | Weald of Kent | Katie Lam MP | 7215 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5065 |
 | Wells and Mendip Hills | Tessa Munt MP | 5235 |
@@ -605,7 +605,7 @@
 | Glasgow South West | Dr Zubir Ahmed MP | 2254 |
 | Glasgow West | Patricia Ferguson MP | 2206 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2952 |
-| Gordon and Buchan | Harriet Cross MP | 4373 |
+| Gordon and Buchan | Harriet Cross MP | 4374 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3123 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2742 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3604 |
