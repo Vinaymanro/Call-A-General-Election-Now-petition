@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2982989                                |
-| Last Updated      | 2025-02-09 05:16:11 UTC                                    |
+| Total Signatures   | 2982992                                |
+| Last Updated      | 2025-02-09 06:21:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5434 |
 | Barking | Nesil Caliskan MP | 2624 |
 | Barnsley North | Dan Jarvis MP | 5657 |
-| Barnsley South | Stephanie Peacock MP | 5742 |
+| Barnsley South | Stephanie Peacock MP | 5743 |
 | Barrow and Furness | Michelle Scrogham MP | 5297 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6870 |
 | Basingstoke | Luke Murphy MP | 4806 |
@@ -207,7 +207,7 @@
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1516 |
 | Halesowen | Alex Ballinger MP | 4976 |
-| Halifax | Kate Dearden MP | 4733 |
+| Halifax | Kate Dearden MP | 4734 |
 | Hamble Valley | Paul Holmes MP | 6130 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3190 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2958 |
@@ -458,7 +458,7 @@
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4129 |
 | St Ives | Andrew George MP | 5070 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4788 |
-| Stafford | Leigh Ingham MP | 5587 |
+| Stafford | Leigh Ingham MP | 5588 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6398 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5333 |
 | Stevenage | Kevin Bonavia MP | 4721 |
