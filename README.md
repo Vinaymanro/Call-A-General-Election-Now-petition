@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2982971                                |
-| Last Updated      | 2025-02-09 01:21:42 UTC                                    |
+| Total Signatures   | 2982981                                |
+| Last Updated      | 2025-02-09 02:48:48 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -48,7 +48,7 @@
 | Birmingham Yardley | Jess Phillips MP | 3058 |
 | Bishop Auckland | Sam Rushworth MP | 6153 |
 | Blackburn | Mr Adnan Hussain MP | 3120 |
-| Blackley and Middleton South | Graham Stringer MP | 3751 |
+| Blackley and Middleton South | Graham Stringer MP | 3752 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6124 |
 | Blackpool South | Chris Webb MP | 5778 |
 | Blaydon and Consett | Liz Twist MP | 5223 |
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6058 |
 | Broxtowe | Juliet Campbell MP | 4699 |
 | Buckingham and Bletchley | Callum Anderson MP | 5246 |
-| Burnley | Oliver Ryan MP | 5708 |
+| Burnley | Oliver Ryan MP | 5709 |
 | Burton and Uttoxeter | Jacob Collier MP | 5781 |
 | Bury North | Mr James Frith MP | 4965 |
 | Bury South | Christian Wakeford MP | 5408 |
@@ -98,7 +98,7 @@
 | Cannock Chase | Josh Newbury MP | 6854 |
 | Canterbury | Rosie Duffield MP | 4462 |
 | Carlisle | Ms Julie Minns MP | 6512 |
-| Carshalton and Wallington | Bobby Dean MP | 4252 |
+| Carshalton and Wallington | Bobby Dean MP | 4253 |
 | Castle Point | Rebecca Harris MP | 7506 |
 | Central Devon | Rt Hon Mel Stride MP | 5783 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5284 |
@@ -109,7 +109,7 @@
 | Cheltenham | Max Wilkinson MP | 4021 |
 | Chesham and Amersham | Sarah Green MP | 4933 |
 | Chester North and Neston | Samantha Dixon MP | 4041 |
-| Chester South and Eddisbury | Aphra Brandreth MP | 6375 |
+| Chester South and Eddisbury | Aphra Brandreth MP | 6376 |
 | Chesterfield | Mr Toby Perkins MP | 4857 |
 | Chichester | Jess Brown-Fuller MP | 5909 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4150 |
@@ -330,7 +330,7 @@
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5515 |
 | Normanton and Hemsworth | Jon Trickett MP | 5472 |
 | North Bedfordshire | Richard Fuller MP | 6088 |
-| North Cornwall | Ben Maguire MP | 6383 |
+| North Cornwall | Ben Maguire MP | 6384 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6035 |
 | North Devon | Ian Roome MP | 5836 |
 | North Dorset | Simon Hoare MP | 6300 |
@@ -359,7 +359,7 @@
 | Nottingham North and Kimberley | Alex Norris MP | 3711 |
 | Nottingham South | Lilian Greenwood MP | 3047 |
 | Nuneaton | Jodie Gosling MP | 5527 |
-| Old Bexley and Sidcup | Mr Louie French MP | 6204 |
+| Old Bexley and Sidcup | Mr Louie French MP | 6205 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5210 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4066 |
 | Orpington | Gareth Bacon MP | 5302 |
@@ -440,7 +440,7 @@
 | South Shields | Mrs Emma Lewell-Buck MP | 4707 |
 | South Shropshire | Stuart Anderson MP | 7309 |
 | South Suffolk | James Cartlidge MP | 6134 |
-| South West Devon | Rebecca Smith MP | 5959 |
+| South West Devon | Rebecca Smith MP | 5961 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5190 |
 | South West Norfolk | Terry Jermy MP | 6511 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5186 |
@@ -601,7 +601,7 @@
 | Glasgow East | John Grady MP | 2303 |
 | Glasgow North | Martin Rhodes MP | 2033 |
 | Glasgow North East | Maureen Burke MP | 2462 |
-| Glasgow South | Gordon McKee MP | 1837 |
+| Glasgow South | Gordon McKee MP | 1839 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2254 |
 | Glasgow West | Patricia Ferguson MP | 2206 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2952 |
