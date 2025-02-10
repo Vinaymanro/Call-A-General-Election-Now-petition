@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2983578                                |
-| Last Updated      | 2025-02-10 05:17:34 UTC                                    |
+| Total Signatures   | 2983582                                |
+| Last Updated      | 2025-02-10 06:24:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -70,7 +70,7 @@
 | Brent East | Dawn Butler MP | 1859 |
 | Brent West | Barry Gardiner MP | 2084 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2985 |
-| Brentwood and Ongar | Alex Burghart MP | 8122 |
+| Brentwood and Ongar | Alex Burghart MP | 8123 |
 | Bridgwater | Sir Ashley Fox MP | 5734 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6607 |
 | Brigg and Immingham | Martin Vickers MP | 6449 |
@@ -303,7 +303,7 @@
 | Mansfield | Steve Yemm MP | 6175 |
 | Melksham and Devizes | Brian Mathew MP | 5000 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6096 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6052 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6053 |
 | Mid Bedfordshire | Blake Stephenson MP | 5832 |
 | Mid Buckinghamshire | Greg Smith MP | 5586 |
 | Mid Cheshire | Andrew Cooper MP | 5158 |
@@ -604,7 +604,7 @@
 | Glasgow South | Gordon McKee MP | 1839 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2254 |
 | Glasgow West | Patricia Ferguson MP | 2207 |
-| Glenrothes and Mid Fife | Richard Baker MP | 2952 |
+| Glenrothes and Mid Fife | Richard Baker MP | 2953 |
 | Gordon and Buchan | Harriet Cross MP | 4374 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3126 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2742 |
@@ -634,7 +634,7 @@
 | Bridgend | Chris Elmore MP | 4222 |
 | Caerfyrddin | Ann Davies MP | 5193 |
 | Caerphilly | Chris Evans MP | 3971 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2876 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2877 |
 | Cardiff North | Anna McMorrin MP | 3281 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2791 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3131 |
