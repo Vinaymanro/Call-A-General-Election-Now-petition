@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2983575                                |
-| Last Updated      | 2025-02-10 04:21:05 UTC                                    |
+| Total Signatures   | 2983578                                |
+| Last Updated      | 2025-02-10 05:17:34 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6309 |
 | Gravesham | Dr Lauren Sullivan MP | 5123 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5772 |
-| Great Yarmouth | Rupert Lowe MP | 6561 |
+| Great Yarmouth | Rupert Lowe MP | 6562 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2606 |
 | Guildford | Zöe Franklin MP | 3990 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
@@ -523,7 +523,7 @@
 | West Dorset | Edward Morello MP | 5441 |
 | West Ham and Beckton | James Asser MP | 2146 |
 | West Lancashire | Ashley Dalton MP | 5043 |
-| West Suffolk | Nick Timothy MP | 6008 |
+| West Suffolk | Nick Timothy MP | 6009 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6250 |
 | Westmorland and Lonsdale | Tim Farron MP | 5190 |
 | Weston-super-Mare | Dan Aldridge MP | 5054 |
@@ -547,7 +547,7 @@
 | Worthing West | Dr Beccy Cooper MP | 5237 |
 | Wycombe | Emma Reynolds MP | 3600 |
 | Wyre Forest | Mark Garnier MP | 6470 |
-| Wythenshawe and Sale East | Mike Kane MP | 4583 |
+| Wythenshawe and Sale East | Mike Kane MP | 4584 |
 | Yeovil | Adam Dance MP | 5584 |
 | York Central | Rachael Maskell MP | 3265 |
 | York Outer | Mr Luke Charters MP | 4339 |
