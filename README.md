@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2983568                                |
-| Last Updated      | 2025-02-10 02:48:31 UTC                                    |
+| Total Signatures   | 2983569                                |
+| Last Updated      | 2025-02-10 03:21:48 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -480,7 +480,7 @@
 | Surrey Heath | Dr Al Pinkerton MP | 5412 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6095 |
 | Sutton and Cheam | Luke Taylor MP | 4381 |
-| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5659 |
+| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5660 |
 | Swindon North | Will Stone MP | 4884 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4188 |
 | Tamworth | Sarah Edwards MP | 6917 |
