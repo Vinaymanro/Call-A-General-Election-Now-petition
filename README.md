@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2983569                                |
-| Last Updated      | 2025-02-10 03:21:48 UTC                                    |
+| Total Signatures   | 2983575                                |
+| Last Updated      | 2025-02-10 04:21:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -53,7 +53,7 @@
 | Blackpool South | Chris Webb MP | 5780 |
 | Blaydon and Consett | Liz Twist MP | 5226 |
 | Blyth and Ashington | Ian Lavery MP | 5837 |
-| Bognor Regis and Littlehampton | Alison Griffiths MP | 6119 |
+| Bognor Regis and Littlehampton | Alison Griffiths MP | 6120 |
 | Bolsover | Natalie Fleet MP | 6512 |
 | Bolton North East | Kirith Entwistle MP | 5578 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4389 |
@@ -147,7 +147,7 @@
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6061 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5542 |
 | Dorking and Horley | Chris Coghlan MP | 5548 |
-| Dover and Deal | Mike Tapp MP | 5909 |
+| Dover and Deal | Mike Tapp MP | 5910 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6548 |
 | Dudley | Sonia Kumar MP | 5367 |
 | Dulwich and West Norwood | Helen Hayes MP | 1550 |
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5102 |
 | Harrow East | Bob Blackman MP | 3125 |
 | Harrow West | Gareth Thomas MP | 2400 |
-| Hartlepool | Mr Jonathan Brash MP | 5631 |
+| Hartlepool | Mr Jonathan Brash MP | 5632 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6257 |
 | Hastings and Rye | Helena Dollimore MP | 5055 |
 | Havant | Alan Mak MP | 5638 |
@@ -374,9 +374,9 @@
 | Plymouth Moor View | Fred Thomas MP | 5658 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4733 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5423 |
-| Poole | Neil Duncan-Jordan MP | 5652 |
+| Poole | Neil Duncan-Jordan MP | 5653 |
 | Poplar and Limehouse | Apsana Begum MP | 2916 |
-| Portsmouth North | Amanda Martin MP | 5595 |
+| Portsmouth North | Amanda Martin MP | 5596 |
 | Portsmouth South | Stephen Morgan MP | 3862 |
 | Preston | Sir Mark Hendrick MP | 3798 |
 | Putney | Fleur Anderson MP | 3508 |
@@ -567,7 +567,7 @@
 | South Antrim | Robin Swann MP | 3085 |
 | South Down | Chris Hazzard MP | 1839 |
 | Strangford | Jim Shannon MP | 3449 |
-| Upper Bann | Carla Lockhart MP | 3056 |
+| Upper Bann | Carla Lockhart MP | 3057 |
 | West Tyrone | Órfhlaith Begley MP | 1661 |
 | East Renfrewshire | Blair McDougall MP | 2586 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 879 |
