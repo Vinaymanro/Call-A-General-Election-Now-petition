@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984049                                |
-| Last Updated      | 2025-02-11 04:19:36 UTC                                    |
+| Total Signatures   | 2984052                                |
+| Last Updated      | 2025-02-11 05:16:39 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -137,7 +137,7 @@
 | Dagenham and Rainham | Margaret Mullane MP | 4222 |
 | Darlington | Lola McEvoy MP | 5446 |
 | Dartford | Jim Dickson MP | 5719 |
-| Daventry | Rt Hon Stuart Andrew MP | 7267 |
+| Daventry | Rt Hon Stuart Andrew MP | 7268 |
 | Derby North | Catherine Atkinson MP | 4309 |
 | Derby South | Baggy Shanker MP | 3590 |
 | Derbyshire Dales | John Whitby MP | 6764 |
@@ -345,7 +345,7 @@
 | North Northumberland | David Smith MP | 6417 |
 | North Shropshire | Helen Morgan MP | 6864 |
 | North Somerset | Sadik Al-Hassan MP | 4573 |
-| North Warwickshire and Bedworth | Rachel Taylor MP | 6244 |
+| North Warwickshire and Bedworth | Rachel Taylor MP | 6245 |
 | North West Cambridgeshire | Sam Carling MP | 5996 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7124 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5716 |
@@ -464,7 +464,7 @@
 | Stevenage | Kevin Bonavia MP | 4724 |
 | Stockport | Navendu Mishra MP | 3904 |
 | Stockton North | Chris McDonald MP | 4825 |
-| Stockton West | Matt Vickers MP | 5973 |
+| Stockton West | Matt Vickers MP | 5974 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4707 |
 | Stoke-on-Trent North | David Williams MP | 5444 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5710 |
