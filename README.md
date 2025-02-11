@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984047                                |
-| Last Updated      | 2025-02-11 03:20:39 UTC                                    |
+| Total Signatures   | 2984049                                |
+| Last Updated      | 2025-02-11 04:19:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1099 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5322 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6011 |
-| East Thanet | Ms Polly Billington MP | 5468 |
+| East Thanet | Ms Polly Billington MP | 5469 |
 | East Wiltshire | Danny Kruger MP | 6049 |
 | East Worthing and Shoreham | Tom Rutland MP | 4590 |
 | Eastbourne | Josh Babarinde MP | 5025 |
@@ -269,7 +269,7 @@
 | Leeds North East | Fabian Hamilton MP | 2620 |
 | Leeds North West | Katie White MP | 4374 |
 | Leeds South | Rt Hon Hilary Benn MP | 3859 |
-| Leeds South West and Morley | Mark Sewards MP | 5481 |
+| Leeds South West and Morley | Mark Sewards MP | 5482 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3769 |
 | Leicester East | Shivani Raja MP | 1875 |
 | Leicester South | Shockat Adam MP | 1833 |
