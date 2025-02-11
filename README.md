@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984052                                |
-| Last Updated      | 2025-02-11 05:16:39 UTC                                    |
+| Total Signatures   | 2984058                                |
+| Last Updated      | 2025-02-11 06:23:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -272,10 +272,10 @@
 | Leeds South West and Morley | Mark Sewards MP | 5482 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3769 |
 | Leicester East | Shivani Raja MP | 1875 |
-| Leicester South | Shockat Adam MP | 1833 |
+| Leicester South | Shockat Adam MP | 1834 |
 | Leicester West | Rt Hon Liz Kendall MP | 3450 |
 | Leigh and Atherton | Jo Platt MP | 6055 |
-| Lewes | James MacCleary MP | 4886 |
+| Lewes | James MacCleary MP | 4887 |
 | Lewisham East | Janet Daby MP | 2143 |
 | Lewisham North | Vicky Foxcroft MP | 1650 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1585 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5844 |
 | North Dorset | Simon Hoare MP | 6304 |
 | North Durham | Luke Akehurst MP | 5372 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6051 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6052 |
 | North East Derbyshire | Louise Jones MP | 5786 |
 | North East Hampshire | Alex Brewer MP | 5948 |
 | North East Hertfordshire | Chris Hinchliff MP | 5828 |
@@ -374,7 +374,7 @@
 | Plymouth Moor View | Fred Thomas MP | 5658 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4735 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5423 |
-| Poole | Neil Duncan-Jordan MP | 5653 |
+| Poole | Neil Duncan-Jordan MP | 5654 |
 | Poplar and Limehouse | Apsana Begum MP | 2916 |
 | Portsmouth North | Amanda Martin MP | 5597 |
 | Portsmouth South | Stephen Morgan MP | 3862 |
@@ -395,7 +395,7 @@
 | Rochester and Strood | Lauren Edwards MP | 6003 |
 | Romford | Andrew Rosindell MP | 5775 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5062 |
-| Rossendale and Darwen | Andy MacNae MP | 6470 |
+| Rossendale and Darwen | Andy MacNae MP | 6471 |
 | Rother Valley | Jake Richards MP | 5833 |
 | Rotherham | Sarah Champion MP | 4935 |
 | Rugby | John Slinger MP | 5385 |
@@ -404,7 +404,7 @@
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5822 |
 | Rushcliffe | James Naish MP | 5067 |
 | Rutland and Stamford | Alicia Kearns MP | 6252 |
-| Salford | Rebecca Long Bailey MP | 4650 |
+| Salford | Rebecca Long Bailey MP | 4651 |
 | Salisbury | Rt Hon John Glen MP | 4734 |
 | Scarborough and Whitby | Alison Hume MP | 5981 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5066 |
