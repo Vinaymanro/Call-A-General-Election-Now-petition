@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984058                                |
-| Last Updated      | 2025-02-11 06:23:54 UTC                                    |
+| Total Signatures   | 2984064                                |
+| Last Updated      | 2025-02-11 07:15:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -108,7 +108,7 @@
 | Chelsea and Fulham | Ben Coleman MP | 5477 |
 | Cheltenham | Max Wilkinson MP | 4021 |
 | Chesham and Amersham | Sarah Green MP | 4933 |
-| Chester North and Neston | Samantha Dixon MP | 4042 |
+| Chester North and Neston | Samantha Dixon MP | 4043 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6381 |
 | Chesterfield | Mr Toby Perkins MP | 4862 |
 | Chichester | Jess Brown-Fuller MP | 5912 |
@@ -121,7 +121,7 @@
 | City of Durham | Mary Kelly Foy MP | 4242 |
 | Clacton | Nigel Farage MP | 8057 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1731 |
-| Colchester | Pam Cox MP | 4973 |
+| Colchester | Pam Cox MP | 4974 |
 | Colne Valley | Paul Davies MP | 5007 |
 | Congleton | Mrs Sarah Russell MP | 5956 |
 | Corby and East Northamptonshire | Lee Barron MP | 5990 |
@@ -222,7 +222,7 @@
 | Hastings and Rye | Helena Dollimore MP | 5061 |
 | Havant | Alan Mak MP | 5638 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2583 |
-| Hazel Grove | Lisa Smart MP | 5084 |
+| Hazel Grove | Lisa Smart MP | 5085 |
 | Hemel Hempstead | David Taylor MP | 5060 |
 | Hendon | David Pinto-Duschinsky MP | 3790 |
 | Henley and Thame | Freddie van Mierlo MP | 5393 |
@@ -311,7 +311,7 @@
 | Mid Dorset and North Poole | Vikki Slade MP | 5874 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5569 |
 | Mid Norfolk | George Freeman MP | 6271 |
-| Mid Sussex | Alison Bennett MP | 4687 |
+| Mid Sussex | Alison Bennett MP | 4688 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4217 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5684 |
 | Milton Keynes Central | Emily Darlington MP | 4924 |
@@ -376,7 +376,7 @@
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5423 |
 | Poole | Neil Duncan-Jordan MP | 5654 |
 | Poplar and Limehouse | Apsana Begum MP | 2916 |
-| Portsmouth North | Amanda Martin MP | 5597 |
+| Portsmouth North | Amanda Martin MP | 5598 |
 | Portsmouth South | Stephen Morgan MP | 3862 |
 | Preston | Sir Mark Hendrick MP | 3800 |
 | Putney | Fleur Anderson MP | 3509 |
@@ -497,7 +497,7 @@
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5937 |
 | Tooting | Dr Rosena Allin-Khan MP | 2686 |
 | Torbay | Steve Darling MP | 5804 |
-| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6557 |
+| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6558 |
 | Tottenham | Rt Hon David Lammy MP | 1679 |
 | Truro and Falmouth | Jayne Kirkham MP | 4590 |
 | Tunbridge Wells | Mike Martin MP | 5447 |
