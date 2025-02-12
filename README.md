@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984466                                |
-| Last Updated      | 2025-02-12 01:17:56 UTC                                    |
+| Total Signatures   | 2984471                                |
+| Last Updated      | 2025-02-12 02:46:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -60,7 +60,7 @@
 | Bolton West | Phil Brickell MP | 5569 |
 | Bootle | Peter Dowd MP | 3135 |
 | Boston and Skegness | Richard Tice MP | 7067 |
-| Bournemouth East | Tom Hayes MP | 4650 |
+| Bournemouth East | Tom Hayes MP | 4651 |
 | Bournemouth West | Jessica Toale MP | 4901 |
 | Bracknell | Peter Swallow MP | 4959 |
 | Bradford East | Imran Hussain MP | 2879 |
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5845 |
 | Cities of London and Westminster | Rachel Blake MP | 5162 |
 | City of Durham | Mary Kelly Foy MP | 4243 |
-| Clacton | Nigel Farage MP | 8058 |
+| Clacton | Nigel Farage MP | 8059 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1731 |
 | Colchester | Pam Cox MP | 4978 |
 | Colne Valley | Paul Davies MP | 5007 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6208 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5215 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4067 |
-| Orpington | Gareth Bacon MP | 5302 |
+| Orpington | Gareth Bacon MP | 5303 |
 | Ossett and Denby Dale | Jade Botterill MP | 5788 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2143 |
 | Oxford West and Abingdon | Layla Moran MP | 2923 |
@@ -413,7 +413,7 @@
 | Sevenoaks | Rt Hon Laura Trott MP | 6652 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3409 |
 | Sheffield Central | Abtisam Mohamed MP | 1423 |
-| Sheffield Hallam | Olivia Blake MP | 3384 |
+| Sheffield Hallam | Olivia Blake MP | 3385 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3521 |
 | Sheffield South East | Mr Clive Betts MP | 4727 |
 | Sherwood Forest | Michelle Welsh MP | 6640 |
@@ -626,7 +626,7 @@
 | Central Ayrshire | Alan Gemmell MP | 3123 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3244 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4544 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3673 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3674 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5730 |
 | Bangor Aberconwy | Claire Hughes MP | 4506 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3622 |
