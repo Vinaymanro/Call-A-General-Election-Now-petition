@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984471                                |
-| Last Updated      | 2025-02-12 02:46:03 UTC                                    |
+| Total Signatures   | 2984472                                |
+| Last Updated      | 2025-02-12 03:19:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -203,7 +203,7 @@
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5773 |
 | Great Yarmouth | Rupert Lowe MP | 6564 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2609 |
-| Guildford | Zöe Franklin MP | 3991 |
+| Guildford | Zöe Franklin MP | 3992 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1516 |
 | Halesowen | Alex Ballinger MP | 4982 |
