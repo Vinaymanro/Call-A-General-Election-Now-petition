@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984488                                |
-| Last Updated      | 2025-02-12 06:25:56 UTC                                    |
+| Total Signatures   | 2984502                                |
+| Last Updated      | 2025-02-12 07:15:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -52,12 +52,12 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6128 |
 | Blackpool South | Chris Webb MP | 5784 |
 | Blaydon and Consett | Liz Twist MP | 5228 |
-| Blyth and Ashington | Ian Lavery MP | 5839 |
+| Blyth and Ashington | Ian Lavery MP | 5840 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6121 |
 | Bolsover | Natalie Fleet MP | 6515 |
 | Bolton North East | Kirith Entwistle MP | 5581 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4392 |
-| Bolton West | Phil Brickell MP | 5569 |
+| Bolton West | Phil Brickell MP | 5570 |
 | Bootle | Peter Dowd MP | 3135 |
 | Boston and Skegness | Richard Tice MP | 7067 |
 | Bournemouth East | Tom Hayes MP | 4651 |
@@ -140,7 +140,7 @@
 | Daventry | Rt Hon Stuart Andrew MP | 7269 |
 | Derby North | Catherine Atkinson MP | 4310 |
 | Derby South | Baggy Shanker MP | 3590 |
-| Derbyshire Dales | John Whitby MP | 6764 |
+| Derbyshire Dales | John Whitby MP | 6765 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3168 |
 | Didcot and Wantage | Olly Glover MP | 4868 |
 | Doncaster Central | Sally Jameson MP | 4925 |
@@ -162,7 +162,7 @@
 | East Hampshire | Rt Hon Damian Hinds MP | 5323 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6012 |
 | East Thanet | Ms Polly Billington MP | 5470 |
-| East Wiltshire | Danny Kruger MP | 6051 |
+| East Wiltshire | Danny Kruger MP | 6052 |
 | East Worthing and Shoreham | Tom Rutland MP | 4591 |
 | Eastbourne | Josh Babarinde MP | 5026 |
 | Eastleigh | Liz Jarvis MP | 4320 |
@@ -180,7 +180,7 @@
 | Exmouth and Exeter East | David Reed MP | 5189 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6111 |
 | Farnham and Bordon | Gregory Stafford MP | 5176 |
-| Faversham and Mid Kent | Helen Whately MP | 6210 |
+| Faversham and Mid Kent | Helen Whately MP | 6211 |
 | Feltham and Heston | Seema Malhotra MP | 2912 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4498 |
 | Finchley and Golders Green | Sarah Sackman MP | 4276 |
@@ -233,7 +233,7 @@
 | Hexham | Joe Morris MP | 6402 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5239 |
 | High Peak | Jon Pearce MP | 5436 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6462 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6464 |
 | Hitchin | Alistair Strathern MP | 4910 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2275 |
 | Honiton and Sidmouth | Richard Foord MP | 5241 |
@@ -348,7 +348,7 @@
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6248 |
 | North West Cambridgeshire | Sam Carling MP | 5996 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7124 |
-| North West Hampshire | Rt Hon Kit Malthouse MP | 5716 |
+| North West Hampshire | Rt Hon Kit Malthouse MP | 5717 |
 | North West Leicestershire | Amanda Hack MP | 6688 |
 | North West Norfolk | James Wild MP | 5736 |
 | Northampton North | Lucy Rigby KC MP | 4260 |
@@ -418,7 +418,7 @@
 | Sheffield South East | Mr Clive Betts MP | 4727 |
 | Sherwood Forest | Michelle Welsh MP | 6640 |
 | Shipley | Anna Dixon MP | 4877 |
-| Shrewsbury | Julia Buckley MP | 5315 |
+| Shrewsbury | Julia Buckley MP | 5316 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6841 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6661 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6279 |
@@ -460,7 +460,7 @@
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4789 |
 | Stafford | Leigh Ingham MP | 5589 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6401 |
-| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5335 |
+| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5336 |
 | Stevenage | Kevin Bonavia MP | 4726 |
 | Stockport | Navendu Mishra MP | 3904 |
 | Stockton North | Chris McDonald MP | 4826 |
@@ -469,7 +469,7 @@
 | Stoke-on-Trent North | David Williams MP | 5445 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5711 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6519 |
-| Stourbridge | Cat Eccles MP | 5139 |
+| Stourbridge | Cat Eccles MP | 5140 |
 | Stratford and Bow | Uma Kumaran MP | 1758 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6700 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1856 |
@@ -520,7 +520,7 @@
 | Wells and Mendip Hills | Tessa Munt MP | 5238 |
 | Welwyn Hatfield | Andrew Lewin MP | 5046 |
 | West Bromwich | Sarah Coombes MP | 3772 |
-| West Dorset | Edward Morello MP | 5444 |
+| West Dorset | Edward Morello MP | 5445 |
 | West Ham and Beckton | James Asser MP | 2147 |
 | West Lancashire | Ashley Dalton MP | 5045 |
 | West Suffolk | Nick Timothy MP | 6012 |
@@ -540,7 +540,7 @@
 | Woking | Mr Will Forster MP | 4387 |
 | Wokingham | Clive Jones MP | 4860 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4389 |
-| Wolverhampton South East | Rt Hon Pat McFadden MP | 4299 |
+| Wolverhampton South East | Rt Hon Pat McFadden MP | 4300 |
 | Wolverhampton West | Warinder Juss | 3811 |
 | Worcester | Tom Collins MP | 4310 |
 | Worsley and Eccles | Michael Wheeler MP | 5421 |
@@ -621,7 +621,7 @@
 | Rutherglen | Michael Shanks MP | 2559 |
 | Stirling and Strathallan | Chris Kane MP | 3216 |
 | West Dunbartonshire | Douglas McAllister MP | 2717 |
-| Ayr, Carrick and Cumnock | Elaine Stewart MP | 3542 |
+| Ayr, Carrick and Cumnock | Elaine Stewart MP | 3543 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4013 |
 | Central Ayrshire | Alan Gemmell MP | 3123 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3244 |
