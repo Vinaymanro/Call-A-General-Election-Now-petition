@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984475                                |
-| Last Updated      | 2025-02-12 04:20:01 UTC                                    |
+| Total Signatures   | 2984480                                |
+| Last Updated      | 2025-02-12 05:16:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -126,7 +126,7 @@
 | Congleton | Mrs Sarah Russell MP | 5956 |
 | Corby and East Northamptonshire | Lee Barron MP | 5990 |
 | Coventry East | Mary Creagh MP | 3578 |
-| Coventry North West | Taiwo Owatemi MP | 4239 |
+| Coventry North West | Taiwo Owatemi MP | 4240 |
 | Coventry South | Zarah Sultana MP | 3506 |
 | Cramlington and Killingworth | Emma Foody MP | 5787 |
 | Crawley | Peter Lamb MP | 4700 |
@@ -162,7 +162,7 @@
 | East Hampshire | Rt Hon Damian Hinds MP | 5323 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6012 |
 | East Thanet | Ms Polly Billington MP | 5470 |
-| East Wiltshire | Danny Kruger MP | 6050 |
+| East Wiltshire | Danny Kruger MP | 6051 |
 | East Worthing and Shoreham | Tom Rutland MP | 4591 |
 | Eastbourne | Josh Babarinde MP | 5026 |
 | Eastleigh | Liz Jarvis MP | 4320 |
@@ -378,7 +378,7 @@
 | Poplar and Limehouse | Apsana Begum MP | 2916 |
 | Portsmouth North | Amanda Martin MP | 5599 |
 | Portsmouth South | Stephen Morgan MP | 3863 |
-| Preston | Sir Mark Hendrick MP | 3800 |
+| Preston | Sir Mark Hendrick MP | 3801 |
 | Putney | Fleur Anderson MP | 3509 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2147 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5103 |
@@ -427,7 +427,7 @@
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5425 |
 | South Basildon and East Thurrock | James McMurdock MP | 6587 |
 | South Cambridgeshire | Pippa Heylings MP | 4441 |
-| South Cotswolds | Dr Roz Savage MP | 5704 |
+| South Cotswolds | Dr Roz Savage MP | 5705 |
 | South Derbyshire | Samantha Niblett MP | 6156 |
 | South Devon | Caroline Voaden MP | 5307 |
 | South Dorset | Lloyd Hatton MP | 5637 |
@@ -536,7 +536,7 @@
 | Windsor | Jack Rankin MP | 5100 |
 | Wirral West | Matthew Patrick MP | 4201 |
 | Witham | Rt Hon Priti Patel MP | 6997 |
-| Witney | Charlie Maynard MP | 5148 |
+| Witney | Charlie Maynard MP | 5149 |
 | Woking | Mr Will Forster MP | 4387 |
 | Wokingham | Clive Jones MP | 4860 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4389 |
