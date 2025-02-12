@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984480                                |
-| Last Updated      | 2025-02-12 05:16:43 UTC                                    |
+| Total Signatures   | 2984488                                |
+| Last Updated      | 2025-02-12 06:25:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -103,7 +103,7 @@
 | Central Devon | Rt Hon Mel Stride MP | 5786 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5289 |
 | Chatham and Aylesford | Tristan Osborne MP | 5606 |
-| Cheadle | Tom Morrison MP | 4653 |
+| Cheadle | Tom Morrison MP | 4654 |
 | Chelmsford | Marie Goldman MP | 5258 |
 | Chelsea and Fulham | Ben Coleman MP | 5478 |
 | Cheltenham | Max Wilkinson MP | 4021 |
@@ -212,7 +212,7 @@
 | Hammersmith and Chiswick | Andy Slaughter MP | 3192 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2959 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4706 |
-| Harlow | Chris Vince MP | 6046 |
+| Harlow | Chris Vince MP | 6047 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4528 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5104 |
 | Harrow East | Bob Blackman MP | 3125 |
@@ -293,7 +293,7 @@
 | Luton North | Sarah Owen MP | 2466 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2937 |
 | Macclesfield | Tim Roca MP | 5395 |
-| Maidenhead | Mr Joshua Reynolds MP | 5273 |
+| Maidenhead | Mr Joshua Reynolds MP | 5274 |
 | Maidstone and Malling | Helen Grant MP | 5834 |
 | Makerfield | Josh Simons MP | 5853 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8101 |
@@ -345,7 +345,7 @@
 | North Northumberland | David Smith MP | 6417 |
 | North Shropshire | Helen Morgan MP | 6864 |
 | North Somerset | Sadik Al-Hassan MP | 4574 |
-| North Warwickshire and Bedworth | Rachel Taylor MP | 6247 |
+| North Warwickshire and Bedworth | Rachel Taylor MP | 6248 |
 | North West Cambridgeshire | Sam Carling MP | 5996 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7124 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5716 |
@@ -443,7 +443,7 @@
 | South West Devon | Rebecca Smith MP | 5963 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5194 |
 | South West Norfolk | Terry Jermy MP | 6512 |
-| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5187 |
+| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5188 |
 | Southampton Itchen | Darren Paffey MP | 4525 |
 | Southampton Test | Satvir Kaur MP | 3394 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5562 |
@@ -477,7 +477,7 @@
 | Stroud | Dr Simon Opher MP | 4522 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5379 |
 | Sunderland Central | Lewis Atkinson MP | 5223 |
-| Surrey Heath | Dr Al Pinkerton MP | 5412 |
+| Surrey Heath | Dr Al Pinkerton MP | 5413 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6097 |
 | Sutton and Cheam | Luke Taylor MP | 4383 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5660 |
@@ -486,7 +486,7 @@
 | Tamworth | Sarah Edwards MP | 6917 |
 | Tatton | Rt Hon Esther McVey MP | 6490 |
 | Taunton and Wellington | Gideon Amos MP | 5156 |
-| Telford | Shaun Davies MP | 5565 |
+| Telford | Shaun Davies MP | 5566 |
 | Tewkesbury | Cameron Thomas MP | 5003 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6381 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7415 |
@@ -523,7 +523,7 @@
 | West Dorset | Edward Morello MP | 5444 |
 | West Ham and Beckton | James Asser MP | 2147 |
 | West Lancashire | Ashley Dalton MP | 5045 |
-| West Suffolk | Nick Timothy MP | 6011 |
+| West Suffolk | Nick Timothy MP | 6012 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6252 |
 | Westmorland and Lonsdale | Tim Farron MP | 5191 |
 | Weston-super-Mare | Dan Aldridge MP | 5055 |
