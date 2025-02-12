@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984472                                |
-| Last Updated      | 2025-02-12 03:19:56 UTC                                    |
+| Total Signatures   | 2984475                                |
+| Last Updated      | 2025-02-12 04:20:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -31,7 +31,7 @@
 | Beckenham and Penge | Liam Conlon MP | 3833 |
 | Bedford | Mohammad Yasin MP | 3216 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2696 |
-| Bethnal Green and Stepney | Rushanara Ali MP | 1722 |
+| Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6139 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6113 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5039 |
@@ -455,7 +455,7 @@
 | St Albans | Daisy Cooper MP | 3874 |
 | St Austell and Newquay | Noah Law MP | 5590 |
 | St Helens North | David Baines MP | 4682 |
-| St Helens South and Whiston | Ms Marie Rimmer MP | 4131 |
+| St Helens South and Whiston | Ms Marie Rimmer MP | 4132 |
 | St Ives | Andrew George MP | 5073 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4789 |
 | Stafford | Leigh Ingham MP | 5589 |
@@ -482,7 +482,7 @@
 | Sutton and Cheam | Luke Taylor MP | 4383 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5660 |
 | Swindon North | Will Stone MP | 4886 |
-| Swindon South | Rt Hon Heidi Alexander MP | 4189 |
+| Swindon South | Rt Hon Heidi Alexander MP | 4190 |
 | Tamworth | Sarah Edwards MP | 6917 |
 | Tatton | Rt Hon Esther McVey MP | 6490 |
 | Taunton and Wellington | Gideon Amos MP | 5156 |
