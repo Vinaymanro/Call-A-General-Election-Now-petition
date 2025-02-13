@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984874                                |
-| Last Updated      | 2025-02-13 01:18:18 UTC                                    |
+| Total Signatures   | 2984876                                |
+| Last Updated      | 2025-02-13 02:47:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4392 |
 | Bolton West | Phil Brickell MP | 5572 |
 | Bootle | Peter Dowd MP | 3135 |
-| Boston and Skegness | Richard Tice MP | 7067 |
+| Boston and Skegness | Richard Tice MP | 7068 |
 | Bournemouth East | Tom Hayes MP | 4651 |
 | Bournemouth West | Jessica Toale MP | 4901 |
 | Bracknell | Peter Swallow MP | 4959 |
@@ -273,7 +273,7 @@
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3770 |
 | Leicester East | Shivani Raja MP | 1876 |
 | Leicester South | Shockat Adam MP | 1836 |
-| Leicester West | Rt Hon Liz Kendall MP | 3450 |
+| Leicester West | Rt Hon Liz Kendall MP | 3451 |
 | Leigh and Atherton | Jo Platt MP | 6057 |
 | Lewes | James MacCleary MP | 4890 |
 | Lewisham East | Janet Daby MP | 2143 |
