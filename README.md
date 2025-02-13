@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984876                                |
-| Last Updated      | 2025-02-13 03:20:27 UTC                                    |
+| Total Signatures   | 2984877                                |
+| Last Updated      | 2025-02-13 04:20:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -520,7 +520,7 @@
 | Wells and Mendip Hills | Tessa Munt MP | 5240 |
 | Welwyn Hatfield | Andrew Lewin MP | 5047 |
 | West Bromwich | Sarah Coombes MP | 3774 |
-| West Dorset | Edward Morello MP | 5445 |
+| West Dorset | Edward Morello MP | 5446 |
 | West Ham and Beckton | James Asser MP | 2147 |
 | West Lancashire | Ashley Dalton MP | 5045 |
 | West Suffolk | Nick Timothy MP | 6013 |
