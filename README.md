@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984878                                |
-| Last Updated      | 2025-02-13 05:16:16 UTC                                    |
+| Total Signatures   | 2984882                                |
+| Last Updated      | 2025-02-13 06:23:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -63,7 +63,7 @@
 | Bournemouth East | Tom Hayes MP | 4651 |
 | Bournemouth West | Jessica Toale MP | 4901 |
 | Bracknell | Peter Swallow MP | 4959 |
-| Bradford East | Imran Hussain MP | 2879 |
+| Bradford East | Imran Hussain MP | 2880 |
 | Bradford South | Judith Cummins MP | 4154 |
 | Bradford West | Naz Shah MP | 1807 |
 | Braintree | Rt Hon James Cleverly MP | 7420 |
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5547 |
 | Dorking and Horley | Chris Coghlan MP | 5548 |
 | Dover and Deal | Mike Tapp MP | 5914 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6551 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6552 |
 | Dudley | Sonia Kumar MP | 5369 |
 | Dulwich and West Norwood | Helen Hayes MP | 1550 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5503 |
@@ -177,7 +177,7 @@
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3215 |
 | Esher and Walton | Monica Harding MP | 4816 |
 | Exeter | Steve Race MP | 3165 |
-| Exmouth and Exeter East | David Reed MP | 5190 |
+| Exmouth and Exeter East | David Reed MP | 5191 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6111 |
 | Farnham and Bordon | Gregory Stafford MP | 5177 |
 | Faversham and Mid Kent | Helen Whately MP | 6211 |
@@ -517,7 +517,7 @@
 | Waveney Valley | Adrian Ramsay MP | 5841 |
 | Weald of Kent | Katie Lam MP | 7216 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5072 |
-| Wells and Mendip Hills | Tessa Munt MP | 5240 |
+| Wells and Mendip Hills | Tessa Munt MP | 5241 |
 | Welwyn Hatfield | Andrew Lewin MP | 5047 |
 | West Bromwich | Sarah Coombes MP | 3774 |
 | West Dorset | Edward Morello MP | 5446 |
