@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984897                                |
-| Last Updated      | 2025-02-13 07:16:16 UTC                                    |
+| Total Signatures   | 2984904                                |
+| Last Updated      | 2025-02-13 08:21:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5449 |
 | Dartford | Jim Dickson MP | 5720 |
 | Daventry | Rt Hon Stuart Andrew MP | 7269 |
-| Derby North | Catherine Atkinson MP | 4311 |
+| Derby North | Catherine Atkinson MP | 4312 |
 | Derby South | Baggy Shanker MP | 3590 |
 | Derbyshire Dales | John Whitby MP | 6765 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3169 |
@@ -156,7 +156,7 @@
 | Ealing North | James Murray MP | 2575 |
 | Ealing Southall | Deirdre Costigan MP | 1952 |
 | Earley and Woodley | Yuan Yang MP | 3944 |
-| Easington | Grahame Morris MP | 5715 |
+| Easington | Grahame Morris MP | 5716 |
 | East Grinstead and Uckfield | Mims Davies MP | 6023 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1099 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5323 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6316 |
 | Gravesham | Dr Lauren Sullivan MP | 5125 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5775 |
-| Great Yarmouth | Rupert Lowe MP | 6566 |
+| Great Yarmouth | Rupert Lowe MP | 6567 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2609 |
 | Guildford | Zöe Franklin MP | 3992 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
@@ -401,7 +401,7 @@
 | Rugby | John Slinger MP | 5388 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4099 |
 | Runcorn and Helsby | Mike Amesbury MP | 5010 |
-| Runnymede and Weybridge | Dr Ben Spencer MP | 5825 |
+| Runnymede and Weybridge | Dr Ben Spencer MP | 5826 |
 | Rushcliffe | James Naish MP | 5068 |
 | Rutland and Stamford | Alicia Kearns MP | 6255 |
 | Salford | Rebecca Long Bailey MP | 4651 |
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 4001 |
 | Selby | Keir Mather MP | 6355 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6652 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3410 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3411 |
 | Sheffield Central | Abtisam Mohamed MP | 1423 |
 | Sheffield Hallam | Olivia Blake MP | 3385 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3522 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3905 |
 | Stockton North | Chris McDonald MP | 4826 |
 | Stockton West | Matt Vickers MP | 5976 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4710 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4711 |
 | Stoke-on-Trent North | David Williams MP | 5445 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5711 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6522 |
@@ -527,7 +527,7 @@
 | West Worcestershire | Dame Harriett Baldwin MP | 6252 |
 | Westmorland and Lonsdale | Tim Farron MP | 5191 |
 | Weston-super-Mare | Dan Aldridge MP | 5056 |
-| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6565 |
+| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6566 |
 | Whitehaven and Workington | Josh MacAlister MP | 5827 |
 | Widnes and Halewood | Derek Twigg MP | 4222 |
 | Wigan | Rt Hon Lisa Nandy MP | 5935 |
