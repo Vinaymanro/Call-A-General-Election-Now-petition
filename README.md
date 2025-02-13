@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2984877                                |
-| Last Updated      | 2025-02-13 04:20:03 UTC                                    |
+| Total Signatures   | 2984878                                |
+| Last Updated      | 2025-02-13 05:16:16 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -535,7 +535,7 @@
 | Winchester | Dr Danny Chambers MP | 4907 |
 | Windsor | Jack Rankin MP | 5100 |
 | Wirral West | Matthew Patrick MP | 4201 |
-| Witham | Rt Hon Priti Patel MP | 6997 |
+| Witham | Rt Hon Priti Patel MP | 6998 |
 | Witney | Charlie Maynard MP | 5151 |
 | Woking | Mr Will Forster MP | 4387 |
 | Wokingham | Clive Jones MP | 4861 |
