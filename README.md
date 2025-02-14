@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985292                                |
-| Last Updated      | 2025-02-14 12:33:23 UTC                                    |
+| Total Signatures   | 2985300                                |
+| Last Updated      | 2025-02-14 13:22:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5435 |
 | Barking | Nesil Caliskan MP | 2625 |
 | Barnsley North | Dan Jarvis MP | 5662 |
-| Barnsley South | Stephanie Peacock MP | 5751 |
+| Barnsley South | Stephanie Peacock MP | 5752 |
 | Barrow and Furness | Michelle Scrogham MP | 5303 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6873 |
 | Basingstoke | Luke Murphy MP | 4808 |
@@ -56,7 +56,7 @@
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6121 |
 | Bolsover | Natalie Fleet MP | 6517 |
 | Bolton North East | Kirith Entwistle MP | 5582 |
-| Bolton South and Walkden | Yasmin Qureshi MP | 4393 |
+| Bolton South and Walkden | Yasmin Qureshi MP | 4394 |
 | Bolton West | Phil Brickell MP | 5572 |
 | Bootle | Peter Dowd MP | 3136 |
 | Boston and Skegness | Richard Tice MP | 7068 |
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6062 |
 | Broxtowe | Juliet Campbell MP | 4701 |
 | Buckingham and Bletchley | Callum Anderson MP | 5248 |
-| Burnley | Oliver Ryan MP | 5711 |
+| Burnley | Oliver Ryan MP | 5712 |
 | Burton and Uttoxeter | Jacob Collier MP | 5786 |
 | Bury North | Mr James Frith MP | 4967 |
 | Bury South | Christian Wakeford MP | 5410 |
@@ -196,7 +196,7 @@
 | Gloucester | Alex McIntyre MP | 4525 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5230 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6947 |
-| Gorton and Denton | Andrew Gwynne MP | 3256 |
+| Gorton and Denton | Andrew Gwynne MP | 3257 |
 | Gosport | Dame Caroline Dinenage MP | 5458 |
 | Grantham and Bourne | Gareth Davies MP | 6317 |
 | Gravesham | Dr Lauren Sullivan MP | 5125 |
@@ -229,7 +229,7 @@
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5269 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6285 |
 | Hertford and Stortford | Josh Dean MP | 5961 |
-| Hertsmere | Rt Hon Sir Oliver Dowden MP | 5736 |
+| Hertsmere | Rt Hon Sir Oliver Dowden MP | 5737 |
 | Hexham | Joe Morris MP | 6402 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5241 |
 | High Peak | Jon Pearce MP | 5437 |
@@ -408,7 +408,7 @@
 | Salisbury | Rt Hon John Glen MP | 4735 |
 | Scarborough and Whitby | Alison Hume MP | 5983 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5066 |
-| Sefton Central | Bill Esterson MP | 4001 |
+| Sefton Central | Bill Esterson MP | 4002 |
 | Selby | Keir Mather MP | 6357 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6652 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3411 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5141 |
 | Warrington South | Sarah Hall MP | 5553 |
 | Warwick and Leamington | Matt Western MP | 4462 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5301 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5302 |
 | Watford | Matt Turmaine MP | 3736 |
 | Waveney Valley | Adrian Ramsay MP | 5842 |
 | Weald of Kent | Katie Lam MP | 7216 |
@@ -620,7 +620,7 @@
 | Perth and Kinross-shire | Pete Wishart MP | 3496 |
 | Rutherglen | Michael Shanks MP | 2560 |
 | Stirling and Strathallan | Chris Kane MP | 3216 |
-| West Dunbartonshire | Douglas McAllister MP | 2717 |
+| West Dunbartonshire | Douglas McAllister MP | 2718 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3544 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4013 |
 | Central Ayrshire | Alan Gemmell MP | 3124 |
