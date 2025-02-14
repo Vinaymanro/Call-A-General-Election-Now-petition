@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985201                                |
-| Last Updated      | 2025-02-14 02:47:03 UTC                                    |
+| Total Signatures   | 2985202                                |
+| Last Updated      | 2025-02-14 03:20:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -339,7 +339,7 @@
 | North East Derbyshire | Louise Jones MP | 5788 |
 | North East Hampshire | Alex Brewer MP | 5948 |
 | North East Hertfordshire | Chris Hinchliff MP | 5830 |
-| North East Somerset and Hanham | Dan Norris MP | 5038 |
+| North East Somerset and Hanham | Dan Norris MP | 5039 |
 | North Herefordshire | Ellie Chowns MP | 6462 |
 | North Norfolk | Steff Aquarone MP | 5425 |
 | North Northumberland | David Smith MP | 6417 |
