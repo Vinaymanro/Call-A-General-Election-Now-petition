@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985208                                |
-| Last Updated      | 2025-02-14 05:16:05 UTC                                    |
+| Total Signatures   | 2985212                                |
+| Last Updated      | 2025-02-14 06:23:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5751 |
 | Barrow and Furness | Michelle Scrogham MP | 5302 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6873 |
-| Basingstoke | Luke Murphy MP | 4807 |
+| Basingstoke | Luke Murphy MP | 4808 |
 | Bassetlaw | Jo White MP | 6731 |
 | Bath | Wera Hobhouse MP | 2972 |
 | Battersea | Marsha De Cordova MP | 3608 |
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 4967 |
 | Bury South | Christian Wakeford MP | 5410 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5443 |
-| Calder Valley | Josh Fenton-Glynn MP | 5638 |
+| Calder Valley | Josh Fenton-Glynn MP | 5639 |
 | Camborne and Redruth | Perran Moon MP | 4953 |
 | Cambridge | Daniel Zeichner MP | 2209 |
 | Cannock Chase | Josh Newbury MP | 6861 |
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6274 |
 | Mid Sussex | Alison Bennett MP | 4688 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4217 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5689 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5690 |
 | Milton Keynes Central | Emily Darlington MP | 4926 |
 | Milton Keynes North | Chris Curtis MP | 4556 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2663 |
@@ -499,7 +499,7 @@
 | Torbay | Steve Darling MP | 5806 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6562 |
 | Tottenham | Rt Hon David Lammy MP | 1679 |
-| Truro and Falmouth | Jayne Kirkham MP | 4590 |
+| Truro and Falmouth | Jayne Kirkham MP | 4591 |
 | Tunbridge Wells | Mike Martin MP | 5448 |
 | Twickenham | Munira Wilson MP | 3647 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4479 |
