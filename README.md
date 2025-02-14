@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985202                                |
-| Last Updated      | 2025-02-14 03:20:13 UTC                                    |
+| Total Signatures   | 2985205                                |
+| Last Updated      | 2025-02-14 04:20:16 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -151,7 +151,7 @@
 | Droitwich and Evesham | Nigel Huddleston MP | 6552 |
 | Dudley | Sonia Kumar MP | 5370 |
 | Dulwich and West Norwood | Helen Hayes MP | 1550 |
-| Dunstable and Leighton Buzzard | Alex Mayer MP | 5504 |
+| Dunstable and Leighton Buzzard | Alex Mayer MP | 5505 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3082 |
 | Ealing North | James Murray MP | 2575 |
 | Ealing Southall | Deirdre Costigan MP | 1952 |
@@ -244,7 +244,7 @@
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3322 |
 | Huddersfield | Harpreet Uppal MP | 3671 |
 | Huntingdon | Ben Obese-Jecty MP | 5537 |
-| Hyndburn | Sarah Smith MP | 4987 |
+| Hyndburn | Sarah Smith MP | 4988 |
 | Ilford North | Rt Hon Wes Streeting MP | 2617 |
 | Ilford South | Jas Athwal MP | 1588 |
 | Ipswich | Jack Abbott MP | 4130 |
@@ -585,7 +585,7 @@
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3005 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4062 |
 | Coatbridge and Bellshill | Frank McNally MP | 2578 |
-| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2846 |
+| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2847 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2671 |
 | Dumfries and Galloway | John Cooper MP | 4032 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3846 |
