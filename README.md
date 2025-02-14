@@ -3,12 +3,12 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985424                                |
-| Last Updated      | 2025-02-14 21:15:23 UTC                                    |
+| Total Signatures   | 2985437                                |
+| Last Updated      | 2025-02-14 22:15:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
-| Aldershot | Alex Baker MP | 5439 |
+| Aldershot | Alex Baker MP | 5440 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5785 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5496 |
 | Amber Valley | Linsey Farnsworth MP | 6069 |
@@ -40,7 +40,7 @@
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2943 |
 | Birmingham Erdington | Paulette Hamilton MP | 4225 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1575 |
-| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3472 |
+| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3473 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1894 |
 | Birmingham Northfield | Laurence Turner MP | 4881 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1714 |
@@ -104,7 +104,7 @@
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5291 |
 | Chatham and Aylesford | Tristan Osborne MP | 5610 |
 | Cheadle | Tom Morrison MP | 4655 |
-| Chelmsford | Marie Goldman MP | 5261 |
+| Chelmsford | Marie Goldman MP | 5262 |
 | Chelsea and Fulham | Ben Coleman MP | 5481 |
 | Cheltenham | Max Wilkinson MP | 4022 |
 | Chesham and Amersham | Sarah Green MP | 4933 |
@@ -130,7 +130,7 @@
 | Coventry South | Zarah Sultana MP | 3507 |
 | Cramlington and Killingworth | Emma Foody MP | 5787 |
 | Crawley | Peter Lamb MP | 4700 |
-| Crewe and Nantwich | Connor Naismith MP | 5678 |
+| Crewe and Nantwich | Connor Naismith MP | 5679 |
 | Croydon East | Natasha Irons MP | 3327 |
 | Croydon South | Rt Hon Chris Philp MP | 3951 |
 | Croydon West | Sarah Jones MP | 1742 |
@@ -151,7 +151,7 @@
 | Droitwich and Evesham | Nigel Huddleston MP | 6552 |
 | Dudley | Sonia Kumar MP | 5370 |
 | Dulwich and West Norwood | Helen Hayes MP | 1550 |
-| Dunstable and Leighton Buzzard | Alex Mayer MP | 5506 |
+| Dunstable and Leighton Buzzard | Alex Mayer MP | 5507 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3082 |
 | Ealing North | James Murray MP | 2575 |
 | Ealing Southall | Deirdre Costigan MP | 1952 |
@@ -216,7 +216,7 @@
 | Harpenden and Berkhamsted | Victoria Collins MP | 4528 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5104 |
 | Harrow East | Bob Blackman MP | 3126 |
-| Harrow West | Gareth Thomas MP | 2400 |
+| Harrow West | Gareth Thomas MP | 2401 |
 | Hartlepool | Mr Jonathan Brash MP | 5635 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6260 |
 | Hastings and Rye | Helena Dollimore MP | 5063 |
@@ -302,7 +302,7 @@
 | Manchester Withington | Jeff Smith MP | 1666 |
 | Mansfield | Steve Yemm MP | 6179 |
 | Melksham and Devizes | Brian Mathew MP | 5002 |
-| Melton and Syston | Rt Hon Edward Argar MP | 6100 |
+| Melton and Syston | Rt Hon Edward Argar MP | 6101 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6054 |
 | Mid Bedfordshire | Blake Stephenson MP | 5835 |
 | Mid Buckinghamshire | Greg Smith MP | 5592 |
@@ -338,7 +338,7 @@
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6056 |
 | North East Derbyshire | Louise Jones MP | 5788 |
 | North East Hampshire | Alex Brewer MP | 5948 |
-| North East Hertfordshire | Chris Hinchliff MP | 5830 |
+| North East Hertfordshire | Chris Hinchliff MP | 5831 |
 | North East Somerset and Hanham | Dan Norris MP | 5040 |
 | North Herefordshire | Ellie Chowns MP | 6463 |
 | North Norfolk | Steff Aquarone MP | 5426 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5066 |
 | Sefton Central | Bill Esterson MP | 4004 |
 | Selby | Keir Mather MP | 6357 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6652 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6653 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3411 |
 | Sheffield Central | Abtisam Mohamed MP | 1423 |
 | Sheffield Hallam | Olivia Blake MP | 3385 |
@@ -579,7 +579,7 @@
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4662 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2807 |
 | Alloa and Grangemouth | Brian Leishman MP | 3008 |
-| Angus and Perthshire Glens | Dave Doogan MP | 4039 |
+| Angus and Perthshire Glens | Dave Doogan MP | 4040 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3464 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3394 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3005 |
@@ -608,12 +608,12 @@
 | Gordon and Buchan | Harriet Cross MP | 4376 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3127 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2743 |
-| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3605 |
+| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3606 |
 | Livingston | Gregor Poynton MP | 3389 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2846 |
 | Mid Dunbartonshire | Susan Murray MP | 2520 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3928 |
-| Motherwell, Wishaw and Carluke | Pamela Nash MP | 2725 |
+| Motherwell, Wishaw and Carluke | Pamela Nash MP | 2726 |
 | North East Fife | Wendy Chamberlain MP | 2896 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2848 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2638 |
@@ -652,7 +652,7 @@
 | Newport East | Jessica Morden MP | 3991 |
 | Newport West and Islwyn | Ruth Jones MP | 4036 |
 | Pontypridd | Alex Davies-Jones MP | 3885 |
-| Rhondda and Ogmore | Chris Bryant MP | 4013 |
+| Rhondda and Ogmore | Chris Bryant MP | 4014 |
 | Swansea West | Torsten Bell MP | 3639 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4064 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4606 |
