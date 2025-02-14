@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985212                                |
-| Last Updated      | 2025-02-14 06:23:37 UTC                                    |
+| Total Signatures   | 2985214                                |
+| Last Updated      | 2025-02-14 07:15:34 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -294,7 +294,7 @@
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2937 |
 | Macclesfield | Tim Roca MP | 5395 |
 | Maidenhead | Mr Joshua Reynolds MP | 5276 |
-| Maidstone and Malling | Helen Grant MP | 5834 |
+| Maidstone and Malling | Helen Grant MP | 5835 |
 | Makerfield | Josh Simons MP | 5857 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8103 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3985 |
@@ -505,7 +505,7 @@
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4479 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4472 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1671 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4899 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4900 |
 | Wallasey | Dame Angela Eagle MP | 4055 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3996 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
