@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985479                                |
-| Last Updated      | 2025-02-15 02:44:17 UTC                                    |
+| Total Signatures   | 2985480                                |
+| Last Updated      | 2025-02-15 03:19:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -239,7 +239,7 @@
 | Honiton and Sidmouth | Richard Foord MP | 5244 |
 | Hornchurch and Upminster | Julia Lopez MP | 6603 |
 | Hornsey and Friern Barnet | Catherine West MP | 1935 |
-| Horsham | John Milne MP | 5814 |
+| Horsham | John Milne MP | 5815 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6284 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3322 |
 | Huddersfield | Harpreet Uppal MP | 3671 |
