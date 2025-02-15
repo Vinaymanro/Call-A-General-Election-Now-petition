@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985490                                |
-| Last Updated      | 2025-02-15 06:22:56 UTC                                    |
+| Total Signatures   | 2985494                                |
+| Last Updated      | 2025-02-15 07:14:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5845 |
 | Cities of London and Westminster | Rachel Blake MP | 5164 |
 | City of Durham | Mary Kelly Foy MP | 4243 |
-| Clacton | Nigel Farage MP | 8061 |
+| Clacton | Nigel Farage MP | 8062 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1733 |
 | Colchester | Pam Cox MP | 4981 |
 | Colne Valley | Paul Davies MP | 5008 |
@@ -421,7 +421,7 @@
 | Shrewsbury | Julia Buckley MP | 5317 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6845 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6664 |
-| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6280 |
+| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6281 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2580 |
 | Smethwick | Gurinder Singh Josan MP | 3050 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5428 |
@@ -460,7 +460,7 @@
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4790 |
 | Stafford | Leigh Ingham MP | 5595 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6403 |
-| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5337 |
+| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5338 |
 | Stevenage | Kevin Bonavia MP | 4728 |
 | Stockport | Navendu Mishra MP | 3905 |
 | Stockton North | Chris McDonald MP | 4826 |
@@ -578,7 +578,7 @@
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3835 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4662 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2807 |
-| Alloa and Grangemouth | Brian Leishman MP | 3008 |
+| Alloa and Grangemouth | Brian Leishman MP | 3009 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4040 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3464 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3394 |
