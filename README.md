@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985481                                |
-| Last Updated      | 2025-02-15 05:16:11 UTC                                    |
+| Total Signatures   | 2985490                                |
+| Last Updated      | 2025-02-15 06:22:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -21,7 +21,7 @@
 | Barking | Nesil Caliskan MP | 2625 |
 | Barnsley North | Dan Jarvis MP | 5663 |
 | Barnsley South | Stephanie Peacock MP | 5752 |
-| Barrow and Furness | Michelle Scrogham MP | 5303 |
+| Barrow and Furness | Michelle Scrogham MP | 5304 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6874 |
 | Basingstoke | Luke Murphy MP | 4808 |
 | Bassetlaw | Jo White MP | 6731 |
@@ -53,7 +53,7 @@
 | Blackpool South | Chris Webb MP | 5784 |
 | Blaydon and Consett | Liz Twist MP | 5229 |
 | Blyth and Ashington | Ian Lavery MP | 5840 |
-| Bognor Regis and Littlehampton | Alison Griffiths MP | 6121 |
+| Bognor Regis and Littlehampton | Alison Griffiths MP | 6122 |
 | Bolsover | Natalie Fleet MP | 6517 |
 | Bolton North East | Kirith Entwistle MP | 5582 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4394 |
@@ -241,7 +241,7 @@
 | Hornsey and Friern Barnet | Catherine West MP | 1935 |
 | Horsham | John Milne MP | 5815 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6284 |
-| Hove and Portslade | Rt Hon Peter Kyle MP | 3322 |
+| Hove and Portslade | Rt Hon Peter Kyle MP | 3323 |
 | Huddersfield | Harpreet Uppal MP | 3671 |
 | Huntingdon | Ben Obese-Jecty MP | 5537 |
 | Hyndburn | Sarah Smith MP | 4989 |
@@ -268,7 +268,7 @@
 | Leeds East | Richard Burgon MP | 4291 |
 | Leeds North East | Fabian Hamilton MP | 2623 |
 | Leeds North West | Katie White MP | 4375 |
-| Leeds South | Rt Hon Hilary Benn MP | 3863 |
+| Leeds South | Rt Hon Hilary Benn MP | 3864 |
 | Leeds South West and Morley | Mark Sewards MP | 5486 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3771 |
 | Leicester East | Shivani Raja MP | 1876 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5847 |
 | North Dorset | Simon Hoare MP | 6307 |
 | North Durham | Luke Akehurst MP | 5375 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6056 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6057 |
 | North East Derbyshire | Louise Jones MP | 5788 |
 | North East Hampshire | Alex Brewer MP | 5948 |
 | North East Hertfordshire | Chris Hinchliff MP | 5831 |
@@ -344,7 +344,7 @@
 | North Norfolk | Steff Aquarone MP | 5426 |
 | North Northumberland | David Smith MP | 6417 |
 | North Shropshire | Helen Morgan MP | 6866 |
-| North Somerset | Sadik Al-Hassan MP | 4575 |
+| North Somerset | Sadik Al-Hassan MP | 4576 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6252 |
 | North West Cambridgeshire | Sam Carling MP | 6000 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7125 |
@@ -447,7 +447,7 @@
 | Southampton Itchen | Darren Paffey MP | 4525 |
 | Southampton Test | Satvir Kaur MP | 3395 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5564 |
-| Southend West and Leigh | David Burton-Sampson MP | 5859 |
+| Southend West and Leigh | David Burton-Sampson MP | 5860 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2583 |
 | Southport | Patrick Hurley MP | 5940 |
 | Spelthorne | Lincoln Jopp MP | 5450 |
@@ -480,7 +480,7 @@
 | Surrey Heath | Dr Al Pinkerton MP | 5417 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6100 |
 | Sutton and Cheam | Luke Taylor MP | 4385 |
-| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5660 |
+| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5661 |
 | Swindon North | Will Stone MP | 4891 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4191 |
 | Tamworth | Sarah Edwards MP | 6923 |
@@ -591,7 +591,7 @@
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3846 |
 | Dundee Central | Chris Law MP | 2538 |
 | Dunfermline and Dollar | Graeme Downie MP | 2922 |
-| East Kilbride and Strathaven | Joani Reid MP | 3141 |
+| East Kilbride and Strathaven | Joani Reid MP | 3142 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2077 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2404 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
