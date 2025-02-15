@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985480                                |
-| Last Updated      | 2025-02-15 03:19:46 UTC                                    |
+| Total Signatures   | 2985481                                |
+| Last Updated      | 2025-02-15 04:20:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -606,7 +606,7 @@
 | Glasgow West | Patricia Ferguson MP | 2207 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2956 |
 | Gordon and Buchan | Harriet Cross MP | 4376 |
-| Hamilton and Clyde Valley | Imogen Walker MP | 3127 |
+| Hamilton and Clyde Valley | Imogen Walker MP | 3128 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2743 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3606 |
 | Livingston | Gregor Poynton MP | 3389 |
