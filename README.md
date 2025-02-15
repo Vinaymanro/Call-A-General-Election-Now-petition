@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985568                                |
-| Last Updated      | 2025-02-15 12:30:19 UTC                                    |
+| Total Signatures   | 2985579                                |
+| Last Updated      | 2025-02-15 13:17:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5436 |
 | Barking | Nesil Caliskan MP | 2625 |
 | Barnsley North | Dan Jarvis MP | 5663 |
-| Barnsley South | Stephanie Peacock MP | 5752 |
+| Barnsley South | Stephanie Peacock MP | 5753 |
 | Barrow and Furness | Michelle Scrogham MP | 5304 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6874 |
 | Basingstoke | Luke Murphy MP | 4808 |
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 4967 |
 | Bury South | Christian Wakeford MP | 5410 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5443 |
-| Calder Valley | Josh Fenton-Glynn MP | 5639 |
+| Calder Valley | Josh Fenton-Glynn MP | 5640 |
 | Camborne and Redruth | Perran Moon MP | 4953 |
 | Cambridge | Daniel Zeichner MP | 2209 |
 | Cannock Chase | Josh Newbury MP | 6861 |
@@ -121,7 +121,7 @@
 | City of Durham | Mary Kelly Foy MP | 4243 |
 | Clacton | Nigel Farage MP | 8062 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1733 |
-| Colchester | Pam Cox MP | 4982 |
+| Colchester | Pam Cox MP | 4983 |
 | Colne Valley | Paul Davies MP | 5008 |
 | Congleton | Mrs Sarah Russell MP | 5958 |
 | Corby and East Northamptonshire | Lee Barron MP | 5990 |
@@ -162,7 +162,7 @@
 | East Hampshire | Rt Hon Damian Hinds MP | 5323 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6013 |
 | East Thanet | Ms Polly Billington MP | 5470 |
-| East Wiltshire | Danny Kruger MP | 6055 |
+| East Wiltshire | Danny Kruger MP | 6056 |
 | East Worthing and Shoreham | Tom Rutland MP | 4592 |
 | Eastbourne | Josh Babarinde MP | 5026 |
 | Eastleigh | Liz Jarvis MP | 4322 |
@@ -172,7 +172,7 @@
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5160 |
 | Enfield North | Feryal Clark MP | 2883 |
 | Epping Forest | Dr Neil Hudson MP | 6562 |
-| Epsom and Ewell | Helen Maguire MP | 4913 |
+| Epsom and Ewell | Helen Maguire MP | 4914 |
 | Erewash | Adam Thompson MP | 5813 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3215 |
 | Esher and Walton | Monica Harding MP | 4817 |
@@ -233,7 +233,7 @@
 | Hexham | Joe Morris MP | 6402 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5241 |
 | High Peak | Jon Pearce MP | 5438 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6467 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6468 |
 | Hitchin | Alistair Strathern MP | 4910 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2275 |
 | Honiton and Sidmouth | Richard Foord MP | 5244 |
@@ -268,7 +268,7 @@
 | Leeds East | Richard Burgon MP | 4291 |
 | Leeds North East | Fabian Hamilton MP | 2623 |
 | Leeds North West | Katie White MP | 4375 |
-| Leeds South | Rt Hon Hilary Benn MP | 3864 |
+| Leeds South | Rt Hon Hilary Benn MP | 3865 |
 | Leeds South West and Morley | Mark Sewards MP | 5487 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3771 |
 | Leicester East | Shivani Raja MP | 1876 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6866 |
 | North Somerset | Sadik Al-Hassan MP | 4576 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6252 |
-| North West Cambridgeshire | Sam Carling MP | 6000 |
+| North West Cambridgeshire | Sam Carling MP | 6001 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7125 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5719 |
 | North West Leicestershire | Amanda Hack MP | 6688 |
@@ -447,8 +447,8 @@
 | Southampton Itchen | Darren Paffey MP | 4525 |
 | Southampton Test | Satvir Kaur MP | 3395 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5564 |
-| Southend West and Leigh | David Burton-Sampson MP | 5860 |
-| Southgate and Wood Green | Bambos Charalambous MP | 2583 |
+| Southend West and Leigh | David Burton-Sampson MP | 5861 |
+| Southgate and Wood Green | Bambos Charalambous MP | 2584 |
 | Southport | Patrick Hurley MP | 5940 |
 | Spelthorne | Lincoln Jopp MP | 5450 |
 | Spen Valley | Kim Leadbeater MP | 5362 |
@@ -486,7 +486,7 @@
 | Tamworth | Sarah Edwards MP | 6923 |
 | Tatton | Rt Hon Esther McVey MP | 6493 |
 | Taunton and Wellington | Gideon Amos MP | 5158 |
-| Telford | Shaun Davies MP | 5571 |
+| Telford | Shaun Davies MP | 5572 |
 | Tewkesbury | Cameron Thomas MP | 5005 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6384 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7417 |
