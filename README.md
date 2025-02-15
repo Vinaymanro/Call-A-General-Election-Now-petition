@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985473                                |
-| Last Updated      | 2025-02-15 01:17:06 UTC                                    |
+| Total Signatures   | 2985479                                |
+| Last Updated      | 2025-02-15 02:44:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -76,7 +76,7 @@
 | Brigg and Immingham | Martin Vickers MP | 6453 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3919 |
 | Brighton Pavilion | Siân Berry MP | 2728 |
-| Bristol Central | Carla Denyer MP | 1614 |
+| Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2969 |
 | Bristol North East | Damien Egan MP | 3071 |
 | Bristol North West | Rt Hon Darren Jones MP | 3196 |
@@ -100,7 +100,7 @@
 | Carlisle | Ms Julie Minns MP | 6513 |
 | Carshalton and Wallington | Bobby Dean MP | 4258 |
 | Castle Point | Rebecca Harris MP | 7510 |
-| Central Devon | Rt Hon Mel Stride MP | 5789 |
+| Central Devon | Rt Hon Mel Stride MP | 5790 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5291 |
 | Chatham and Aylesford | Tristan Osborne MP | 5610 |
 | Cheadle | Tom Morrison MP | 4655 |
@@ -192,7 +192,7 @@
 | Gateshead Central and Whickham | Mark Ferguson MP | 4511 |
 | Gedling | Michael Payne MP | 5043 |
 | Gillingham and Rainham | Naushabah Khan MP | 5038 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5579 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5580 |
 | Gloucester | Alex McIntyre MP | 4525 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5230 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6947 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3945 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5056 |
 | Newton Abbot | Martin Wrigley MP | 5100 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5523 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5524 |
 | Normanton and Hemsworth | Jon Trickett MP | 5478 |
 | North Bedfordshire | Richard Fuller MP | 6090 |
 | North Cornwall | Ben Maguire MP | 6384 |
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4392 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4300 |
 | Wolverhampton West | Warinder Juss | 3811 |
-| Worcester | Tom Collins MP | 4313 |
+| Worcester | Tom Collins MP | 4314 |
 | Worsley and Eccles | Michael Wheeler MP | 5425 |
 | Worthing West | Dr Beccy Cooper MP | 5240 |
 | Wycombe | Emma Reynolds MP | 3601 |
@@ -575,7 +575,7 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3283 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1434 |
 | Aberdeen North | Kirsty Blackman MP | 3538 |
-| Aberdeen South | Rt Hon Stephen Flynn MP | 3834 |
+| Aberdeen South | Rt Hon Stephen Flynn MP | 3835 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4662 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2807 |
 | Alloa and Grangemouth | Brian Leishman MP | 3008 |
