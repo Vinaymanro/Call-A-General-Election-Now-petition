@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985974                                |
-| Last Updated      | 2025-02-16 16:18:34 UTC                                    |
+| Total Signatures   | 2985981                                |
+| Last Updated      | 2025-02-16 17:13:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -283,7 +283,7 @@
 | Lichfield | Dave Robertson MP | 6466 |
 | Lincoln | Mr Hamish Falconer MP | 4637 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3117 |
-| Liverpool Riverside | Kim Johnson MP | 2629 |
+| Liverpool Riverside | Kim Johnson MP | 2630 |
 | Liverpool Walton | Dan Carden MP | 3343 |
 | Liverpool Wavertree | Paula Barker MP | 2215 |
 | Liverpool West Derby | Ian Byrne MP | 3040 |
@@ -418,7 +418,7 @@
 | Sheffield South East | Mr Clive Betts MP | 4728 |
 | Sherwood Forest | Michelle Welsh MP | 6647 |
 | Shipley | Anna Dixon MP | 4878 |
-| Shrewsbury | Julia Buckley MP | 5317 |
+| Shrewsbury | Julia Buckley MP | 5318 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6846 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6664 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6281 |
@@ -472,10 +472,10 @@
 | Stourbridge | Cat Eccles MP | 5146 |
 | Stratford and Bow | Uma Kumaran MP | 1759 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6702 |
-| Streatham and Croydon North | Rt Hon Steve Reed MP | 1858 |
+| Streatham and Croydon North | Rt Hon Steve Reed MP | 1859 |
 | Stretford and Urmston | Andrew Western MP | 3811 |
-| Stroud | Dr Simon Opher MP | 4526 |
-| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5383 |
+| Stroud | Dr Simon Opher MP | 4527 |
+| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5384 |
 | Sunderland Central | Lewis Atkinson MP | 5224 |
 | Surrey Heath | Dr Al Pinkerton MP | 5418 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6101 |
@@ -566,7 +566,7 @@
 | North Down | Alex Easton MP | 3343 |
 | South Antrim | Robin Swann MP | 3085 |
 | South Down | Chris Hazzard MP | 1839 |
-| Strangford | Jim Shannon MP | 3449 |
+| Strangford | Jim Shannon MP | 3450 |
 | Upper Bann | Carla Lockhart MP | 3060 |
 | West Tyrone | Órfhlaith Begley MP | 1662 |
 | East Renfrewshire | Blair McDougall MP | 2586 |
@@ -613,7 +613,7 @@
 | Lothian East | Rt Hon Douglas Alexander MP | 2848 |
 | Mid Dunbartonshire | Susan Murray MP | 2520 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3928 |
-| Motherwell, Wishaw and Carluke | Pamela Nash MP | 2726 |
+| Motherwell, Wishaw and Carluke | Pamela Nash MP | 2727 |
 | North East Fife | Wendy Chamberlain MP | 2896 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2849 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2638 |
