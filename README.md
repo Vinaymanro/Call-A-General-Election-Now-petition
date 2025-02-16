@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985797                                |
-| Last Updated      | 2025-02-16 02:51:46 UTC                                    |
+| Total Signatures   | 2985800                                |
+| Last Updated      | 2025-02-16 03:23:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -143,7 +143,7 @@
 | Derbyshire Dales | John Whitby MP | 6767 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3169 |
 | Didcot and Wantage | Olly Glover MP | 4870 |
-| Doncaster Central | Sally Jameson MP | 4925 |
+| Doncaster Central | Sally Jameson MP | 4926 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6062 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5550 |
 | Dorking and Horley | Chris Coghlan MP | 5549 |
@@ -209,7 +209,7 @@
 | Halesowen | Alex Ballinger MP | 4982 |
 | Halifax | Kate Dearden MP | 4740 |
 | Hamble Valley | Paul Holmes MP | 6134 |
-| Hammersmith and Chiswick | Andy Slaughter MP | 3192 |
+| Hammersmith and Chiswick | Andy Slaughter MP | 3193 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2960 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4707 |
 | Harlow | Chris Vince MP | 6055 |
@@ -591,7 +591,7 @@
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3848 |
 | Dundee Central | Chris Law MP | 2538 |
 | Dunfermline and Dollar | Graeme Downie MP | 2922 |
-| East Kilbride and Strathaven | Joani Reid MP | 3142 |
+| East Kilbride and Strathaven | Joani Reid MP | 3143 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2077 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2404 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
