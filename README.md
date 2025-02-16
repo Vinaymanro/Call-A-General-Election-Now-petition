@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985915                                |
-| Last Updated      | 2025-02-16 12:32:56 UTC                                    |
+| Total Signatures   | 2985923                                |
+| Last Updated      | 2025-02-16 13:18:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5436 |
 | Barking | Nesil Caliskan MP | 2625 |
 | Barnsley North | Dan Jarvis MP | 5663 |
-| Barnsley South | Stephanie Peacock MP | 5755 |
+| Barnsley South | Stephanie Peacock MP | 5756 |
 | Barrow and Furness | Michelle Scrogham MP | 5304 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6874 |
 | Basingstoke | Luke Murphy MP | 4808 |
@@ -188,7 +188,7 @@
 | Forest of Dean | Matt Bishop MP | 5251 |
 | Frome and East Somerset | Anna Sabine MP | 4321 |
 | Fylde | Mr Andrew Snowden MP | 6766 |
-| Gainsborough | Rt Hon Sir Edward Leigh MP | 6644 |
+| Gainsborough | Rt Hon Sir Edward Leigh MP | 6645 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4512 |
 | Gedling | Michael Payne MP | 5043 |
 | Gillingham and Rainham | Naushabah Khan MP | 5038 |
@@ -196,7 +196,7 @@
 | Gloucester | Alex McIntyre MP | 4525 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5230 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6947 |
-| Gorton and Denton | Andrew Gwynne MP | 3258 |
+| Gorton and Denton | Andrew Gwynne MP | 3259 |
 | Gosport | Dame Caroline Dinenage MP | 5459 |
 | Grantham and Bourne | Gareth Davies MP | 6317 |
 | Gravesham | Dr Lauren Sullivan MP | 5129 |
@@ -433,7 +433,7 @@
 | South Dorset | Lloyd Hatton MP | 5641 |
 | South East Cornwall | Anna Gelderd MP | 6220 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7117 |
-| South Leicestershire | Alberto Costa MP | 6972 |
+| South Leicestershire | Alberto Costa MP | 6973 |
 | South Norfolk | Ben Goldsborough MP | 5436 |
 | South Northamptonshire | Sarah Bool MP | 6658 |
 | South Ribble | Mr Paul Foster MP | 5877 |
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4394 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4300 |
 | Wolverhampton West | Warinder Juss | 3812 |
-| Worcester | Tom Collins MP | 4315 |
+| Worcester | Tom Collins MP | 4316 |
 | Worsley and Eccles | Michael Wheeler MP | 5426 |
 | Worthing West | Dr Beccy Cooper MP | 5240 |
 | Wycombe | Emma Reynolds MP | 3601 |
@@ -610,7 +610,7 @@
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2743 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3607 |
 | Livingston | Gregor Poynton MP | 3389 |
-| Lothian East | Rt Hon Douglas Alexander MP | 2847 |
+| Lothian East | Rt Hon Douglas Alexander MP | 2848 |
 | Mid Dunbartonshire | Susan Murray MP | 2520 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3928 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2726 |
@@ -633,13 +633,13 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5272 |
 | Bridgend | Chris Elmore MP | 4226 |
 | Caerfyrddin | Ann Davies MP | 5194 |
-| Caerphilly | Chris Evans MP | 3973 |
+| Caerphilly | Chris Evans MP | 3974 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2884 |
 | Cardiff North | Anna McMorrin MP | 3287 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2792 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3133 |
 | Ceredigion Preseli | Ben Lake MP | 4726 |
-| Clwyd East | Becky Gittins MP | 6021 |
+| Clwyd East | Becky Gittins MP | 6022 |
 | Clwyd North | Gill German MP | 5433 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4221 |
 | Gower | Tonia Antoniazzi MP | 4743 |
