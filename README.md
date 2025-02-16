@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985803                                |
-| Last Updated      | 2025-02-16 05:16:02 UTC                                    |
+| Total Signatures   | 2985806                                |
+| Last Updated      | 2025-02-16 06:21:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -49,7 +49,7 @@
 | Bishop Auckland | Sam Rushworth MP | 6157 |
 | Blackburn | Mr Adnan Hussain MP | 3122 |
 | Blackley and Middleton South | Graham Stringer MP | 3758 |
-| Blackpool North and Fleetwood | Lorraine Beavers MP | 6130 |
+| Blackpool North and Fleetwood | Lorraine Beavers MP | 6131 |
 | Blackpool South | Chris Webb MP | 5784 |
 | Blaydon and Consett | Liz Twist MP | 5229 |
 | Blyth and Ashington | Ian Lavery MP | 5840 |
@@ -143,7 +143,7 @@
 | Derbyshire Dales | John Whitby MP | 6767 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3169 |
 | Didcot and Wantage | Olly Glover MP | 4870 |
-| Doncaster Central | Sally Jameson MP | 4926 |
+| Doncaster Central | Sally Jameson MP | 4927 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6063 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5550 |
 | Dorking and Horley | Chris Coghlan MP | 5549 |
@@ -640,7 +640,7 @@
 | Cardiff West | Mr Alex Barros-Curtis MP | 3132 |
 | Ceredigion Preseli | Ben Lake MP | 4726 |
 | Clwyd East | Becky Gittins MP | 6021 |
-| Clwyd North | Gill German MP | 5432 |
+| Clwyd North | Gill German MP | 5433 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4221 |
 | Gower | Tonia Antoniazzi MP | 4743 |
 | Llanelli | Dame Nia Griffith MP | 5241 |
