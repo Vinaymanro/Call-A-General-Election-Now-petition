@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985800                                |
-| Last Updated      | 2025-02-16 03:23:00 UTC                                    |
+| Total Signatures   | 2985802                                |
+| Last Updated      | 2025-02-16 04:19:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -189,7 +189,7 @@
 | Frome and East Somerset | Anna Sabine MP | 4321 |
 | Fylde | Mr Andrew Snowden MP | 6766 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6644 |
-| Gateshead Central and Whickham | Mark Ferguson MP | 4511 |
+| Gateshead Central and Whickham | Mark Ferguson MP | 4512 |
 | Gedling | Michael Payne MP | 5043 |
 | Gillingham and Rainham | Naushabah Khan MP | 5038 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5581 |
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5459 |
 | Grantham and Bourne | Gareth Davies MP | 6317 |
 | Gravesham | Dr Lauren Sullivan MP | 5126 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5777 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5778 |
 | Great Yarmouth | Rupert Lowe MP | 6570 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2613 |
 | Guildford | Zöe Franklin MP | 3992 |
