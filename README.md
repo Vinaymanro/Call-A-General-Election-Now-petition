@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985806                                |
-| Last Updated      | 2025-02-16 06:21:45 UTC                                    |
+| Total Signatures   | 2985808                                |
+| Last Updated      | 2025-02-16 07:16:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -145,7 +145,7 @@
 | Didcot and Wantage | Olly Glover MP | 4870 |
 | Doncaster Central | Sally Jameson MP | 4927 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6063 |
-| Doncaster North | Rt Hon Ed Miliband MP | 5550 |
+| Doncaster North | Rt Hon Ed Miliband MP | 5551 |
 | Dorking and Horley | Chris Coghlan MP | 5549 |
 | Dover and Deal | Mike Tapp MP | 5915 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6552 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4726 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6032 |
 | Neath and Swansea East | Carolyn Harris MP | 4419 |
-| Newport East | Jessica Morden MP | 3992 |
+| Newport East | Jessica Morden MP | 3993 |
 | Newport West and Islwyn | Ruth Jones MP | 4037 |
 | Pontypridd | Alex Davies-Jones MP | 3887 |
 | Rhondda and Ogmore | Chris Bryant MP | 4014 |
