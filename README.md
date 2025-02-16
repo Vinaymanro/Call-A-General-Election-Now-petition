@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2985802                                |
-| Last Updated      | 2025-02-16 04:19:29 UTC                                    |
+| Total Signatures   | 2985803                                |
+| Last Updated      | 2025-02-16 05:16:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -144,7 +144,7 @@
 | Dewsbury and Batley | Iqbal Mohamed MP | 3169 |
 | Didcot and Wantage | Olly Glover MP | 4870 |
 | Doncaster Central | Sally Jameson MP | 4926 |
-| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6062 |
+| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6063 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5550 |
 | Dorking and Horley | Chris Coghlan MP | 5549 |
 | Dover and Deal | Mike Tapp MP | 5915 |
