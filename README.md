@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986115                                |
-| Last Updated      | 2025-02-17 03:23:13 UTC                                    |
+| Total Signatures   | 2986119                                |
+| Last Updated      | 2025-02-17 04:20:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5845 |
 | Cities of London and Westminster | Rachel Blake MP | 5164 |
 | City of Durham | Mary Kelly Foy MP | 4245 |
-| Clacton | Nigel Farage MP | 8063 |
+| Clacton | Nigel Farage MP | 8064 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1733 |
 | Colchester | Pam Cox MP | 4983 |
 | Colne Valley | Paul Davies MP | 5009 |
@@ -213,7 +213,7 @@
 | Hampstead and Highgate | Tulip Siddiq MP | 2960 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4707 |
 | Harlow | Chris Vince MP | 6055 |
-| Harpenden and Berkhamsted | Victoria Collins MP | 4528 |
+| Harpenden and Berkhamsted | Victoria Collins MP | 4529 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5106 |
 | Harrow East | Bob Blackman MP | 3127 |
 | Harrow West | Gareth Thomas MP | 2401 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5439 |
 | Redditch | Chris Bloore MP | 6061 |
 | Reigate | Rebecca Paul MP | 5542 |
-| Ribble Valley | Maya Ellis MP | 6696 |
+| Ribble Valley | Maya Ellis MP | 6697 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7096 |
 | Richmond Park | Sarah Olney MP | 4054 |
 | Rochdale | Paul Waugh MP | 3940 |
@@ -486,7 +486,7 @@
 | Tamworth | Sarah Edwards MP | 6927 |
 | Tatton | Rt Hon Esther McVey MP | 6493 |
 | Taunton and Wellington | Gideon Amos MP | 5158 |
-| Telford | Shaun Davies MP | 5573 |
+| Telford | Shaun Davies MP | 5574 |
 | Tewkesbury | Cameron Thomas MP | 5007 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6384 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7418 |
