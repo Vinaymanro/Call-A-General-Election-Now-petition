@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986113                                |
-| Last Updated      | 2025-02-17 02:50:50 UTC                                    |
+| Total Signatures   | 2986115                                |
+| Last Updated      | 2025-02-17 03:23:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -382,7 +382,7 @@
 | Putney | Fleur Anderson MP | 3511 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2147 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5105 |
-| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7347 |
+| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7348 |
 | Reading Central | Matt Rodda MP | 3024 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4433 |
 | Redcar | Anna Turley MP | 5439 |
@@ -421,7 +421,7 @@
 | Shrewsbury | Julia Buckley MP | 5318 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6847 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6665 |
-| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6281 |
+| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6282 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2580 |
 | Smethwick | Gurinder Singh Josan MP | 3052 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5429 |
