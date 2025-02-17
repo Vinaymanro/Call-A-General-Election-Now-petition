@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986120                                |
-| Last Updated      | 2025-02-17 05:18:06 UTC                                    |
+| Total Signatures   | 2986124                                |
+| Last Updated      | 2025-02-17 06:24:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -61,7 +61,7 @@
 | Bootle | Peter Dowd MP | 3137 |
 | Boston and Skegness | Richard Tice MP | 7068 |
 | Bournemouth East | Tom Hayes MP | 4651 |
-| Bournemouth West | Jessica Toale MP | 4902 |
+| Bournemouth West | Jessica Toale MP | 4903 |
 | Bracknell | Peter Swallow MP | 4960 |
 | Bradford East | Imran Hussain MP | 2882 |
 | Bradford South | Judith Cummins MP | 4159 |
@@ -202,7 +202,7 @@
 | Gravesham | Dr Lauren Sullivan MP | 5129 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5780 |
 | Great Yarmouth | Rupert Lowe MP | 6570 |
-| Greenwich and Woolwich | Matthew Pennycook MP | 2613 |
+| Greenwich and Woolwich | Matthew Pennycook MP | 2614 |
 | Guildford | Zöe Franklin MP | 3992 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1516 |
@@ -533,9 +533,9 @@
 | Wigan | Rt Hon Lisa Nandy MP | 5937 |
 | Wimbledon | Mr Paul Kohler MP | 3407 |
 | Winchester | Dr Danny Chambers MP | 4909 |
-| Windsor | Jack Rankin MP | 5101 |
+| Windsor | Jack Rankin MP | 5102 |
 | Wirral West | Matthew Patrick MP | 4201 |
-| Witham | Rt Hon Priti Patel MP | 7003 |
+| Witham | Rt Hon Priti Patel MP | 7004 |
 | Witney | Charlie Maynard MP | 5158 |
 | Woking | Mr Will Forster MP | 4389 |
 | Wokingham | Clive Jones MP | 4862 |
