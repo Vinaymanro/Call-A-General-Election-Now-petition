@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986124                                |
-| Last Updated      | 2025-02-17 06:24:53 UTC                                    |
+| Total Signatures   | 2986133                                |
+| Last Updated      | 2025-02-17 07:16:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -17,7 +17,7 @@
 | Ashford | Sojan Joseph MP | 5883 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4579 |
 | Aylesbury | Laura Kyrke-Smith MP | 4858 |
-| Banbury | Sean Woodcock MP | 5438 |
+| Banbury | Sean Woodcock MP | 5439 |
 | Barking | Nesil Caliskan MP | 2625 |
 | Barnsley North | Dan Jarvis MP | 5663 |
 | Barnsley South | Stephanie Peacock MP | 5756 |
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3122 |
 | Blackley and Middleton South | Graham Stringer MP | 3758 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6132 |
-| Blackpool South | Chris Webb MP | 5784 |
+| Blackpool South | Chris Webb MP | 5785 |
 | Blaydon and Consett | Liz Twist MP | 5231 |
 | Blyth and Ashington | Ian Lavery MP | 5841 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6124 |
@@ -126,7 +126,7 @@
 | Congleton | Mrs Sarah Russell MP | 5959 |
 | Corby and East Northamptonshire | Lee Barron MP | 5990 |
 | Coventry East | Mary Creagh MP | 3580 |
-| Coventry North West | Taiwo Owatemi MP | 4243 |
+| Coventry North West | Taiwo Owatemi MP | 4244 |
 | Coventry South | Zarah Sultana MP | 3508 |
 | Cramlington and Killingworth | Emma Foody MP | 5788 |
 | Crawley | Peter Lamb MP | 4702 |
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1100 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5324 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6013 |
-| East Thanet | Ms Polly Billington MP | 5470 |
+| East Thanet | Ms Polly Billington MP | 5471 |
 | East Wiltshire | Danny Kruger MP | 6056 |
 | East Worthing and Shoreham | Tom Rutland MP | 4593 |
 | Eastbourne | Josh Babarinde MP | 5027 |
@@ -190,7 +190,7 @@
 | Fylde | Mr Andrew Snowden MP | 6766 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6645 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4512 |
-| Gedling | Michael Payne MP | 5043 |
+| Gedling | Michael Payne MP | 5044 |
 | Gillingham and Rainham | Naushabah Khan MP | 5038 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5581 |
 | Gloucester | Alex McIntyre MP | 4527 |
@@ -236,7 +236,7 @@
 | Hinckley and Bosworth | Dr Luke Evans MP | 6468 |
 | Hitchin | Alistair Strathern MP | 4911 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2275 |
-| Honiton and Sidmouth | Richard Foord MP | 5245 |
+| Honiton and Sidmouth | Richard Foord MP | 5246 |
 | Hornchurch and Upminster | Julia Lopez MP | 6604 |
 | Hornsey and Friern Barnet | Catherine West MP | 1935 |
 | Horsham | John Milne MP | 5817 |
@@ -334,7 +334,7 @@
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6039 |
 | North Devon | Ian Roome MP | 5847 |
 | North Dorset | Simon Hoare MP | 6309 |
-| North Durham | Luke Akehurst MP | 5376 |
+| North Durham | Luke Akehurst MP | 5377 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6058 |
 | North East Derbyshire | Louise Jones MP | 5790 |
 | North East Hampshire | Alex Brewer MP | 5949 |
@@ -488,7 +488,7 @@
 | Taunton and Wellington | Gideon Amos MP | 5158 |
 | Telford | Shaun Davies MP | 5574 |
 | Tewkesbury | Cameron Thomas MP | 5007 |
-| The Wrekin | Rt Hon Mark Pritchard MP | 6384 |
+| The Wrekin | Rt Hon Mark Pritchard MP | 6385 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7418 |
 | Thornbury and Yate | Claire Young MP | 5680 |
 | Thurrock | Jen Craft MP | 5107 |
@@ -499,7 +499,7 @@
 | Torbay | Steve Darling MP | 5807 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6566 |
 | Tottenham | Rt Hon David Lammy MP | 1679 |
-| Truro and Falmouth | Jayne Kirkham MP | 4592 |
+| Truro and Falmouth | Jayne Kirkham MP | 4593 |
 | Tunbridge Wells | Mike Martin MP | 5450 |
 | Twickenham | Munira Wilson MP | 3648 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4481 |
