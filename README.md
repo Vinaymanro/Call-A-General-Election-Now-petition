@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986108                                |
-| Last Updated      | 2025-02-17 01:20:50 UTC                                    |
+| Total Signatures   | 2986113                                |
+| Last Updated      | 2025-02-17 02:50:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -24,7 +24,7 @@
 | Barrow and Furness | Michelle Scrogham MP | 5305 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6874 |
 | Basingstoke | Luke Murphy MP | 4808 |
-| Bassetlaw | Jo White MP | 6731 |
+| Bassetlaw | Jo White MP | 6732 |
 | Bath | Wera Hobhouse MP | 2972 |
 | Battersea | Marsha De Cordova MP | 3609 |
 | Beaconsfield | Joy Morrissey MP | 5210 |
@@ -88,7 +88,7 @@
 | Broxtowe | Juliet Campbell MP | 4702 |
 | Buckingham and Bletchley | Callum Anderson MP | 5249 |
 | Burnley | Oliver Ryan MP | 5713 |
-| Burton and Uttoxeter | Jacob Collier MP | 5786 |
+| Burton and Uttoxeter | Jacob Collier MP | 5787 |
 | Bury North | Mr James Frith MP | 4968 |
 | Bury South | Christian Wakeford MP | 5411 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5443 |
@@ -136,7 +136,7 @@
 | Croydon West | Sarah Jones MP | 1742 |
 | Dagenham and Rainham | Margaret Mullane MP | 4226 |
 | Darlington | Lola McEvoy MP | 5451 |
-| Dartford | Jim Dickson MP | 5721 |
+| Dartford | Jim Dickson MP | 5722 |
 | Daventry | Rt Hon Stuart Andrew MP | 7271 |
 | Derby North | Catherine Atkinson MP | 4313 |
 | Derby South | Baggy Shanker MP | 3597 |
@@ -223,7 +223,7 @@
 | Havant | Alan Mak MP | 5639 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2585 |
 | Hazel Grove | Lisa Smart MP | 5088 |
-| Hemel Hempstead | David Taylor MP | 5063 |
+| Hemel Hempstead | David Taylor MP | 5064 |
 | Hendon | David Pinto-Duschinsky MP | 3793 |
 | Henley and Thame | Freddie van Mierlo MP | 5398 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5269 |
@@ -367,7 +367,7 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2146 |
 | Oxford West and Abingdon | Layla Moran MP | 2925 |
 | Peckham | Miatta Fahnbulleh MP | 1353 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6181 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6182 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5436 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6177 |
 | Peterborough | Andrew Pakes MP | 4149 |
