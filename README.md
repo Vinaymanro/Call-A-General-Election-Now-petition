@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986516                                |
-| Last Updated      | 2025-02-18 02:45:44 UTC                                    |
+| Total Signatures   | 2986517                                |
+| Last Updated      | 2025-02-18 03:19:48 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -74,7 +74,7 @@
 | Bridgwater | Sir Ashley Fox MP | 5741 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6611 |
 | Brigg and Immingham | Martin Vickers MP | 6453 |
-| Brighton Kemptown and Peacehaven | Chris Ward MP | 3919 |
+| Brighton Kemptown and Peacehaven | Chris Ward MP | 3920 |
 | Brighton Pavilion | Siân Berry MP | 2728 |
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2970 |
