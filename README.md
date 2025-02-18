@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986517                                |
-| Last Updated      | 2025-02-18 03:19:48 UTC                                    |
+| Total Signatures   | 2986519                                |
+| Last Updated      | 2025-02-18 04:20:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -199,7 +199,7 @@
 | Gorton and Denton | Andrew Gwynne MP | 3260 |
 | Gosport | Dame Caroline Dinenage MP | 5460 |
 | Grantham and Bourne | Gareth Davies MP | 6319 |
-| Gravesham | Dr Lauren Sullivan MP | 5130 |
+| Gravesham | Dr Lauren Sullivan MP | 5131 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5781 |
 | Great Yarmouth | Rupert Lowe MP | 6571 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2614 |
@@ -653,7 +653,7 @@
 | Newport West and Islwyn | Ruth Jones MP | 4038 |
 | Pontypridd | Alex Davies-Jones MP | 3889 |
 | Rhondda and Ogmore | Chris Bryant MP | 4016 |
-| Swansea West | Torsten Bell MP | 3639 |
+| Swansea West | Torsten Bell MP | 3640 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4065 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4606 |
 | Wrexham | Andrew Ranger MP | 4788 |
