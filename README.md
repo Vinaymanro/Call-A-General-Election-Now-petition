@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986527                                |
-| Last Updated      | 2025-02-18 05:17:56 UTC                                    |
+| Total Signatures   | 2986536                                |
+| Last Updated      | 2025-02-18 06:24:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5442 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5786 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5496 |
-| Amber Valley | Linsey Farnsworth MP | 6070 |
+| Amber Valley | Linsey Farnsworth MP | 6071 |
 | Arundel and South Downs | Andrew Griffith MP | 6949 |
 | Ashfield | Lee Anderson MP | 6149 |
 | Ashford | Sojan Joseph MP | 5883 |
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5440 |
 | Barking | Nesil Caliskan MP | 2626 |
 | Barnsley North | Dan Jarvis MP | 5664 |
-| Barnsley South | Stephanie Peacock MP | 5758 |
+| Barnsley South | Stephanie Peacock MP | 5759 |
 | Barrow and Furness | Michelle Scrogham MP | 5305 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6875 |
 | Basingstoke | Luke Murphy MP | 4809 |
@@ -168,7 +168,7 @@
 | Eastleigh | Liz Jarvis MP | 4324 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2218 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4431 |
-| Eltham and Chislehurst | Clive Efford MP | 4695 |
+| Eltham and Chislehurst | Clive Efford MP | 4696 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5164 |
 | Enfield North | Feryal Clark MP | 2883 |
 | Epping Forest | Dr Neil Hudson MP | 6564 |
@@ -239,7 +239,7 @@
 | Honiton and Sidmouth | Richard Foord MP | 5246 |
 | Hornchurch and Upminster | Julia Lopez MP | 6604 |
 | Hornsey and Friern Barnet | Catherine West MP | 1935 |
-| Horsham | John Milne MP | 5818 |
+| Horsham | John Milne MP | 5819 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6287 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3323 |
 | Huddersfield | Harpreet Uppal MP | 3673 |
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6279 |
 | Mid Sussex | Alison Bennett MP | 4689 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4219 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5693 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5694 |
 | Milton Keynes Central | Emily Darlington MP | 4929 |
 | Milton Keynes North | Chris Curtis MP | 4558 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2664 |
@@ -445,7 +445,7 @@
 | South West Norfolk | Terry Jermy MP | 6514 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5190 |
 | Southampton Itchen | Darren Paffey MP | 4528 |
-| Southampton Test | Satvir Kaur MP | 3397 |
+| Southampton Test | Satvir Kaur MP | 3398 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5568 |
 | Southend West and Leigh | David Burton-Sampson MP | 5862 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2584 |
@@ -487,7 +487,7 @@
 | Tatton | Rt Hon Esther McVey MP | 6493 |
 | Taunton and Wellington | Gideon Amos MP | 5160 |
 | Telford | Shaun Davies MP | 5575 |
-| Tewkesbury | Cameron Thomas MP | 5007 |
+| Tewkesbury | Cameron Thomas MP | 5008 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6385 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7418 |
 | Thornbury and Yate | Claire Young MP | 5681 |
@@ -502,10 +502,10 @@
 | Truro and Falmouth | Jayne Kirkham MP | 4596 |
 | Tunbridge Wells | Mike Martin MP | 5450 |
 | Twickenham | Munira Wilson MP | 3648 |
-| Tynemouth | Rt Hon Sir Alan Campbell MP | 4481 |
+| Tynemouth | Rt Hon Sir Alan Campbell MP | 4482 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4472 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1672 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4902 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4903 |
 | Wallasey | Dame Angela Eagle MP | 4056 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3996 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
