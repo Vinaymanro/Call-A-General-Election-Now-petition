@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986519                                |
-| Last Updated      | 2025-02-18 04:20:06 UTC                                    |
+| Total Signatures   | 2986527                                |
+| Last Updated      | 2025-02-18 05:17:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5442 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5786 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5496 |
-| Amber Valley | Linsey Farnsworth MP | 6069 |
+| Amber Valley | Linsey Farnsworth MP | 6070 |
 | Arundel and South Downs | Andrew Griffith MP | 6949 |
 | Ashfield | Lee Anderson MP | 6149 |
 | Ashford | Sojan Joseph MP | 5883 |
@@ -62,7 +62,7 @@
 | Boston and Skegness | Richard Tice MP | 7069 |
 | Bournemouth East | Tom Hayes MP | 4651 |
 | Bournemouth West | Jessica Toale MP | 4903 |
-| Bracknell | Peter Swallow MP | 4960 |
+| Bracknell | Peter Swallow MP | 4961 |
 | Bradford East | Imran Hussain MP | 2883 |
 | Bradford South | Judith Cummins MP | 4159 |
 | Bradford West | Naz Shah MP | 1807 |
@@ -88,7 +88,7 @@
 | Broxtowe | Juliet Campbell MP | 4702 |
 | Buckingham and Bletchley | Callum Anderson MP | 5250 |
 | Burnley | Oliver Ryan MP | 5714 |
-| Burton and Uttoxeter | Jacob Collier MP | 5788 |
+| Burton and Uttoxeter | Jacob Collier MP | 5789 |
 | Bury North | Mr James Frith MP | 4968 |
 | Bury South | Christian Wakeford MP | 5411 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5443 |
@@ -187,14 +187,14 @@
 | Folkestone and Hythe | Tony Vaughan KC MP | 5389 |
 | Forest of Dean | Matt Bishop MP | 5254 |
 | Frome and East Somerset | Anna Sabine MP | 4321 |
-| Fylde | Mr Andrew Snowden MP | 6766 |
+| Fylde | Mr Andrew Snowden MP | 6767 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6646 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4512 |
 | Gedling | Michael Payne MP | 5045 |
 | Gillingham and Rainham | Naushabah Khan MP | 5038 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5581 |
 | Gloucester | Alex McIntyre MP | 4527 |
-| Godalming and Ash | Rt Hon Jeremy Hunt MP | 5230 |
+| Godalming and Ash | Rt Hon Jeremy Hunt MP | 5231 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6947 |
 | Gorton and Denton | Andrew Gwynne MP | 3260 |
 | Gosport | Dame Caroline Dinenage MP | 5460 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5196 |
 | South West Norfolk | Terry Jermy MP | 6514 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5190 |
-| Southampton Itchen | Darren Paffey MP | 4526 |
+| Southampton Itchen | Darren Paffey MP | 4528 |
 | Southampton Test | Satvir Kaur MP | 3397 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5568 |
 | Southend West and Leigh | David Burton-Sampson MP | 5862 |
@@ -518,7 +518,7 @@
 | Weald of Kent | Katie Lam MP | 7217 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5075 |
 | Wells and Mendip Hills | Tessa Munt MP | 5242 |
-| Welwyn Hatfield | Andrew Lewin MP | 5048 |
+| Welwyn Hatfield | Andrew Lewin MP | 5049 |
 | West Bromwich | Sarah Coombes MP | 3775 |
 | West Dorset | Edward Morello MP | 5449 |
 | West Ham and Beckton | James Asser MP | 2149 |
