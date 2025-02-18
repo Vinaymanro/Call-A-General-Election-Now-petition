@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986641                                |
-| Last Updated      | 2025-02-18 12:33:03 UTC                                    |
+| Total Signatures   | 2986649                                |
+| Last Updated      | 2025-02-18 13:22:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5442 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5786 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5787 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5496 |
 | Amber Valley | Linsey Farnsworth MP | 6071 |
 | Arundel and South Downs | Andrew Griffith MP | 6950 |
@@ -167,7 +167,7 @@
 | Eastbourne | Josh Babarinde MP | 5028 |
 | Eastleigh | Liz Jarvis MP | 4324 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2218 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4431 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4432 |
 | Eltham and Chislehurst | Clive Efford MP | 4696 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5164 |
 | Enfield North | Feryal Clark MP | 2883 |
@@ -181,7 +181,7 @@
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6111 |
 | Farnham and Bordon | Gregory Stafford MP | 5180 |
 | Faversham and Mid Kent | Helen Whately MP | 6214 |
-| Feltham and Heston | Seema Malhotra MP | 2916 |
+| Feltham and Heston | Seema Malhotra MP | 2917 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4501 |
 | Finchley and Golders Green | Sarah Sackman MP | 4278 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5389 |
@@ -243,7 +243,7 @@
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6287 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3324 |
 | Huddersfield | Harpreet Uppal MP | 3673 |
-| Huntingdon | Ben Obese-Jecty MP | 5542 |
+| Huntingdon | Ben Obese-Jecty MP | 5543 |
 | Hyndburn | Sarah Smith MP | 4993 |
 | Ilford North | Rt Hon Wes Streeting MP | 2619 |
 | Ilford South | Jas Athwal MP | 1589 |
@@ -263,7 +263,7 @@
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5481 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6385 |
 | Knowsley | Anneliese Midgley MP | 3271 |
-| Lancaster and Wyre | Cat Smith MP | 5070 |
+| Lancaster and Wyre | Cat Smith MP | 5071 |
 | Leeds Central and Headingley | Alex Sobel MP | 1927 |
 | Leeds East | Richard Burgon MP | 4295 |
 | Leeds North East | Fabian Hamilton MP | 2623 |
@@ -386,7 +386,7 @@
 | Reading Central | Matt Rodda MP | 3024 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4433 |
 | Redcar | Anna Turley MP | 5440 |
-| Redditch | Chris Bloore MP | 6062 |
+| Redditch | Chris Bloore MP | 6063 |
 | Reigate | Rebecca Paul MP | 5542 |
 | Ribble Valley | Maya Ellis MP | 6697 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7096 |
@@ -605,7 +605,7 @@
 | Glasgow South West | Dr Zubir Ahmed MP | 2255 |
 | Glasgow West | Patricia Ferguson MP | 2207 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2957 |
-| Gordon and Buchan | Harriet Cross MP | 4378 |
+| Gordon and Buchan | Harriet Cross MP | 4379 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3131 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2744 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3610 |
@@ -655,6 +655,6 @@
 | Rhondda and Ogmore | Chris Bryant MP | 4017 |
 | Swansea West | Torsten Bell MP | 3640 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4065 |
-| Vale of Glamorgan | Kanishka Narayan MP | 4606 |
+| Vale of Glamorgan | Kanishka Narayan MP | 4607 |
 | Wrexham | Andrew Ranger MP | 4788 |
 | Ynys Môn | Llinos Medi MP | 3726 |
