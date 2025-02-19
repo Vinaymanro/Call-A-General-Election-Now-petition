@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986967                                |
-| Last Updated      | 2025-02-19 07:16:40 UTC                                    |
+| Total Signatures   | 2986974                                |
+| Last Updated      | 2025-02-19 08:22:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -47,7 +47,7 @@
 | Birmingham Selly Oak | Al Carns MP | 3287 |
 | Birmingham Yardley | Jess Phillips MP | 3070 |
 | Bishop Auckland | Sam Rushworth MP | 6158 |
-| Blackburn | Mr Adnan Hussain MP | 3122 |
+| Blackburn | Mr Adnan Hussain MP | 3123 |
 | Blackley and Middleton South | Graham Stringer MP | 3759 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6136 |
 | Blackpool South | Chris Webb MP | 5790 |
@@ -116,7 +116,7 @@
 | Chippenham | Sarah Gibson MP | 4723 |
 | Chipping Barnet | Dan Tomlinson MP | 4332 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5487 |
-| Christchurch | Sir Christopher Chope MP | 5845 |
+| Christchurch | Sir Christopher Chope MP | 5846 |
 | Cities of London and Westminster | Rachel Blake MP | 5164 |
 | City of Durham | Mary Kelly Foy MP | 4245 |
 | Clacton | Nigel Farage MP | 8065 |
@@ -161,10 +161,10 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1100 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5325 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6016 |
-| East Thanet | Ms Polly Billington MP | 5471 |
+| East Thanet | Ms Polly Billington MP | 5472 |
 | East Wiltshire | Danny Kruger MP | 6056 |
 | East Worthing and Shoreham | Tom Rutland MP | 4593 |
-| Eastbourne | Josh Babarinde MP | 5030 |
+| Eastbourne | Josh Babarinde MP | 5031 |
 | Eastleigh | Liz Jarvis MP | 4325 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2218 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4432 |
@@ -220,7 +220,7 @@
 | Hartlepool | Mr Jonathan Brash MP | 5636 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6265 |
 | Hastings and Rye | Helena Dollimore MP | 5064 |
-| Havant | Alan Mak MP | 5643 |
+| Havant | Alan Mak MP | 5644 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2586 |
 | Hazel Grove | Lisa Smart MP | 5090 |
 | Hemel Hempstead | David Taylor MP | 5065 |
@@ -397,7 +397,7 @@
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5065 |
 | Rossendale and Darwen | Andy MacNae MP | 6483 |
 | Rother Valley | Jake Richards MP | 5843 |
-| Rotherham | Sarah Champion MP | 4940 |
+| Rotherham | Sarah Champion MP | 4941 |
 | Rugby | John Slinger MP | 5393 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4099 |
 | Runcorn and Helsby | Mike Amesbury MP | 5016 |
@@ -419,7 +419,7 @@
 | Sherwood Forest | Michelle Welsh MP | 6651 |
 | Shipley | Anna Dixon MP | 4882 |
 | Shrewsbury | Julia Buckley MP | 5320 |
-| Sittingbourne and Sheppey | Kevin McKenna MP | 6848 |
+| Sittingbourne and Sheppey | Kevin McKenna MP | 6849 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6665 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6284 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2580 |
