@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986956                                |
-| Last Updated      | 2025-02-19 05:16:34 UTC                                    |
+| Total Signatures   | 2986960                                |
+| Last Updated      | 2025-02-19 06:24:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -121,7 +121,7 @@
 | City of Durham | Mary Kelly Foy MP | 4245 |
 | Clacton | Nigel Farage MP | 8065 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1737 |
-| Colchester | Pam Cox MP | 4986 |
+| Colchester | Pam Cox MP | 4987 |
 | Colne Valley | Paul Davies MP | 5010 |
 | Congleton | Mrs Sarah Russell MP | 5962 |
 | Corby and East Northamptonshire | Lee Barron MP | 5991 |
@@ -221,7 +221,7 @@
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6265 |
 | Hastings and Rye | Helena Dollimore MP | 5064 |
 | Havant | Alan Mak MP | 5643 |
-| Hayes and Harlington | Rt Hon John McDonnell MP | 2585 |
+| Hayes and Harlington | Rt Hon John McDonnell MP | 2586 |
 | Hazel Grove | Lisa Smart MP | 5090 |
 | Hemel Hempstead | David Taylor MP | 5065 |
 | Hendon | David Pinto-Duschinsky MP | 3795 |
@@ -463,7 +463,7 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5340 |
 | Stevenage | Kevin Bonavia MP | 4733 |
 | Stockport | Navendu Mishra MP | 3908 |
-| Stockton North | Chris McDonald MP | 4829 |
+| Stockton North | Chris McDonald MP | 4830 |
 | Stockton West | Matt Vickers MP | 5979 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4717 |
 | Stoke-on-Trent North | David Williams MP | 5446 |
@@ -638,7 +638,7 @@
 | Cardiff North | Anna McMorrin MP | 3288 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2793 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3134 |
-| Ceredigion Preseli | Ben Lake MP | 4727 |
+| Ceredigion Preseli | Ben Lake MP | 4728 |
 | Clwyd East | Becky Gittins MP | 6025 |
 | Clwyd North | Gill German MP | 5438 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4222 |
