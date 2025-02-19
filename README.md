@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986950                                |
-| Last Updated      | 2025-02-19 03:23:25 UTC                                    |
+| Total Signatures   | 2986952                                |
+| Last Updated      | 2025-02-19 04:20:39 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -279,7 +279,7 @@
 | Lewisham East | Janet Daby MP | 2144 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1585 |
-| Leyton and Wanstead | Mr Calvin Bailey MP | 1876 |
+| Leyton and Wanstead | Mr Calvin Bailey MP | 1877 |
 | Lichfield | Dave Robertson MP | 6466 |
 | Lincoln | Mr Hamish Falconer MP | 4638 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3119 |
@@ -624,7 +624,7 @@
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3544 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4016 |
 | Central Ayrshire | Alan Gemmell MP | 3126 |
-| Kilmarnock and Loudoun | Lillian Jones MP | 3245 |
+| Kilmarnock and Loudoun | Lillian Jones MP | 3246 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4545 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3680 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5736 |
