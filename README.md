@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986952                                |
-| Last Updated      | 2025-02-19 04:20:39 UTC                                    |
+| Total Signatures   | 2986956                                |
+| Last Updated      | 2025-02-19 05:16:34 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -259,7 +259,7 @@
 | Kettering | Rosie Wrighting MP | 5897 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3741 |
 | Kingston upon Hull East | Karl Turner MP | 4984 |
-| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4625 |
+| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4626 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5484 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6385 |
 | Knowsley | Anneliese Midgley MP | 3271 |
@@ -360,7 +360,7 @@
 | Nottingham South | Lilian Greenwood MP | 3048 |
 | Nuneaton | Jodie Gosling MP | 5538 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6208 |
-| Oldham East and Saddleworth | Debbie Abrahams MP | 5221 |
+| Oldham East and Saddleworth | Debbie Abrahams MP | 5222 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4073 |
 | Orpington | Gareth Bacon MP | 5305 |
 | Ossett and Denby Dale | Jade Botterill MP | 5790 |
@@ -425,7 +425,7 @@
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2580 |
 | Smethwick | Gurinder Singh Josan MP | 3052 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5436 |
-| South Basildon and East Thurrock | James McMurdock MP | 6590 |
+| South Basildon and East Thurrock | James McMurdock MP | 6591 |
 | South Cambridgeshire | Pippa Heylings MP | 4442 |
 | South Cotswolds | Dr Roz Savage MP | 5709 |
 | South Derbyshire | Samantha Niblett MP | 6160 |
@@ -476,7 +476,7 @@
 | Stretford and Urmston | Andrew Western MP | 3812 |
 | Stroud | Dr Simon Opher MP | 4527 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5388 |
-| Sunderland Central | Lewis Atkinson MP | 5224 |
+| Sunderland Central | Lewis Atkinson MP | 5225 |
 | Surrey Heath | Dr Al Pinkerton MP | 5418 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6102 |
 | Sutton and Cheam | Luke Taylor MP | 4387 |
