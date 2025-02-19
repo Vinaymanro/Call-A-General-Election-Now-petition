@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986960                                |
-| Last Updated      | 2025-02-19 06:24:41 UTC                                    |
+| Total Signatures   | 2986967                                |
+| Last Updated      | 2025-02-19 07:16:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -144,10 +144,10 @@
 | Dewsbury and Batley | Iqbal Mohamed MP | 3170 |
 | Didcot and Wantage | Olly Glover MP | 4871 |
 | Doncaster Central | Sally Jameson MP | 4930 |
-| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6065 |
+| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6066 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5555 |
 | Dorking and Horley | Chris Coghlan MP | 5550 |
-| Dover and Deal | Mike Tapp MP | 5915 |
+| Dover and Deal | Mike Tapp MP | 5916 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6554 |
 | Dudley | Sonia Kumar MP | 5374 |
 | Dulwich and West Norwood | Helen Hayes MP | 1554 |
@@ -182,7 +182,7 @@
 | Farnham and Bordon | Gregory Stafford MP | 5181 |
 | Faversham and Mid Kent | Helen Whately MP | 6214 |
 | Feltham and Heston | Seema Malhotra MP | 2917 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4501 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4502 |
 | Finchley and Golders Green | Sarah Sackman MP | 4279 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5389 |
 | Forest of Dean | Matt Bishop MP | 5257 |
@@ -231,7 +231,7 @@
 | Hertford and Stortford | Josh Dean MP | 5968 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5738 |
 | Hexham | Joe Morris MP | 6404 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5246 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5247 |
 | High Peak | Jon Pearce MP | 5441 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6474 |
 | Hitchin | Alistair Strathern MP | 4911 |
@@ -405,7 +405,7 @@
 | Rushcliffe | James Naish MP | 5070 |
 | Rutland and Stamford | Alicia Kearns MP | 6255 |
 | Salford | Rebecca Long Bailey MP | 4653 |
-| Salisbury | Rt Hon John Glen MP | 4740 |
+| Salisbury | Rt Hon John Glen MP | 4741 |
 | Scarborough and Whitby | Alison Hume MP | 5984 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5071 |
 | Sefton Central | Bill Esterson MP | 4009 |
@@ -438,7 +438,7 @@
 | South Northamptonshire | Sarah Bool MP | 6663 |
 | South Ribble | Mr Paul Foster MP | 5882 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4712 |
-| South Shropshire | Stuart Anderson MP | 7316 |
+| South Shropshire | Stuart Anderson MP | 7317 |
 | South Suffolk | James Cartlidge MP | 6141 |
 | South West Devon | Rebecca Smith MP | 5966 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5197 |
@@ -656,5 +656,5 @@
 | Swansea West | Torsten Bell MP | 3641 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4067 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4608 |
-| Wrexham | Andrew Ranger MP | 4789 |
+| Wrexham | Andrew Ranger MP | 4790 |
 | Ynys Môn | Llinos Medi MP | 3726 |
