@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2986949                                |
-| Last Updated      | 2025-02-19 02:48:12 UTC                                    |
+| Total Signatures   | 2986950                                |
+| Last Updated      | 2025-02-19 03:23:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5106 |
 | Harrow East | Bob Blackman MP | 3128 |
 | Harrow West | Gareth Thomas MP | 2401 |
-| Hartlepool | Mr Jonathan Brash MP | 5635 |
+| Hartlepool | Mr Jonathan Brash MP | 5636 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6265 |
 | Hastings and Rye | Helena Dollimore MP | 5064 |
 | Havant | Alan Mak MP | 5643 |
