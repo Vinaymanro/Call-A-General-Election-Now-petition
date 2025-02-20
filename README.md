@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2987358                                |
-| Last Updated      | 2025-02-20 06:24:12 UTC                                    |
+| Total Signatures   | 2987365                                |
+| Last Updated      | 2025-02-20 07:16:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5440 |
 | Barking | Nesil Caliskan MP | 2628 |
 | Barnsley North | Dan Jarvis MP | 5667 |
-| Barnsley South | Stephanie Peacock MP | 5760 |
+| Barnsley South | Stephanie Peacock MP | 5761 |
 | Barrow and Furness | Michelle Scrogham MP | 5305 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6875 |
 | Basingstoke | Luke Murphy MP | 4809 |
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2700 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6141 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6117 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6118 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5043 |
 | Bicester and Woodstock | Calum Miller MP | 4670 |
 | Birkenhead | Alison McGovern MP | 4309 |
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3123 |
 | Blackley and Middleton South | Graham Stringer MP | 3760 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6136 |
-| Blackpool South | Chris Webb MP | 5791 |
+| Blackpool South | Chris Webb MP | 5792 |
 | Blaydon and Consett | Liz Twist MP | 5237 |
 | Blyth and Ashington | Ian Lavery MP | 5844 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6128 |
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6063 |
 | Broxtowe | Juliet Campbell MP | 4702 |
 | Buckingham and Bletchley | Callum Anderson MP | 5250 |
-| Burnley | Oliver Ryan MP | 5716 |
+| Burnley | Oliver Ryan MP | 5717 |
 | Burton and Uttoxeter | Jacob Collier MP | 5789 |
 | Bury North | Mr James Frith MP | 4970 |
 | Bury South | Christian Wakeford MP | 5412 |
@@ -150,7 +150,7 @@
 | Dover and Deal | Mike Tapp MP | 5917 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6554 |
 | Dudley | Sonia Kumar MP | 5376 |
-| Dulwich and West Norwood | Helen Hayes MP | 1555 |
+| Dulwich and West Norwood | Helen Hayes MP | 1556 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5508 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3083 |
 | Ealing North | James Murray MP | 2577 |
@@ -258,7 +258,7 @@
 | Kensington and Bayswater | Joe Powell MP | 4395 |
 | Kettering | Rosie Wrighting MP | 5899 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3741 |
-| Kingston upon Hull East | Karl Turner MP | 4984 |
+| Kingston upon Hull East | Karl Turner MP | 4985 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4628 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5484 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6385 |
@@ -361,7 +361,7 @@
 | Nuneaton | Jodie Gosling MP | 5538 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6209 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5222 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4074 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4075 |
 | Orpington | Gareth Bacon MP | 5305 |
 | Ossett and Denby Dale | Jade Botterill MP | 5790 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2147 |
