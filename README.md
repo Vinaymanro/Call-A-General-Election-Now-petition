@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2987349                                |
-| Last Updated      | 2025-02-20 04:20:09 UTC                                    |
+| Total Signatures   | 2987353                                |
+| Last Updated      | 2025-02-20 05:16:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1738 |
 | Colchester | Pam Cox MP | 4987 |
 | Colne Valley | Paul Davies MP | 5012 |
-| Congleton | Mrs Sarah Russell MP | 5962 |
+| Congleton | Mrs Sarah Russell MP | 5963 |
 | Corby and East Northamptonshire | Lee Barron MP | 5992 |
 | Coventry East | Mary Creagh MP | 3582 |
 | Coventry North West | Taiwo Owatemi MP | 4244 |
@@ -402,7 +402,7 @@
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4100 |
 | Runcorn and Helsby | Mike Amesbury MP | 5017 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5826 |
-| Rushcliffe | James Naish MP | 5070 |
+| Rushcliffe | James Naish MP | 5071 |
 | Rutland and Stamford | Alicia Kearns MP | 6255 |
 | Salford | Rebecca Long Bailey MP | 4653 |
 | Salisbury | Rt Hon John Glen MP | 4742 |
@@ -429,7 +429,7 @@
 | South Cambridgeshire | Pippa Heylings MP | 4442 |
 | South Cotswolds | Dr Roz Savage MP | 5709 |
 | South Derbyshire | Samantha Niblett MP | 6161 |
-| South Devon | Caroline Voaden MP | 5314 |
+| South Devon | Caroline Voaden MP | 5315 |
 | South Dorset | Lloyd Hatton MP | 5647 |
 | South East Cornwall | Anna Gelderd MP | 6222 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7121 |
@@ -540,7 +540,7 @@
 | Woking | Mr Will Forster MP | 4390 |
 | Wokingham | Clive Jones MP | 4863 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4398 |
-| Wolverhampton South East | Rt Hon Pat McFadden MP | 4303 |
+| Wolverhampton South East | Rt Hon Pat McFadden MP | 4304 |
 | Wolverhampton West | Warinder Juss | 3815 |
 | Worcester | Tom Collins MP | 4318 |
 | Worsley and Eccles | Michael Wheeler MP | 5429 |
