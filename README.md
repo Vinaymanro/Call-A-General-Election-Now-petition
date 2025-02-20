@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2987353                                |
-| Last Updated      | 2025-02-20 05:16:35 UTC                                    |
+| Total Signatures   | 2987358                                |
+| Last Updated      | 2025-02-20 06:24:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -111,7 +111,7 @@
 | Chester North and Neston | Samantha Dixon MP | 4046 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6382 |
 | Chesterfield | Mr Toby Perkins MP | 4870 |
-| Chichester | Jess Brown-Fuller MP | 5915 |
+| Chichester | Jess Brown-Fuller MP | 5916 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4160 |
 | Chippenham | Sarah Gibson MP | 4727 |
 | Chipping Barnet | Dan Tomlinson MP | 4332 |
@@ -350,7 +350,7 @@
 | North West Essex | Rt Hon Kemi Badenoch MP | 7129 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5720 |
 | North West Leicestershire | Amanda Hack MP | 6690 |
-| North West Norfolk | James Wild MP | 5745 |
+| North West Norfolk | James Wild MP | 5746 |
 | Northampton North | Lucy Rigby KC MP | 4266 |
 | Northampton South | Mike Reader MP | 4954 |
 | Norwich North | Alice Macdonald MP | 4390 |
@@ -359,7 +359,7 @@
 | Nottingham North and Kimberley | Alex Norris MP | 3721 |
 | Nottingham South | Lilian Greenwood MP | 3048 |
 | Nuneaton | Jodie Gosling MP | 5538 |
-| Old Bexley and Sidcup | Mr Louie French MP | 6208 |
+| Old Bexley and Sidcup | Mr Louie French MP | 6209 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5222 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4074 |
 | Orpington | Gareth Bacon MP | 5305 |
@@ -543,7 +543,7 @@
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4304 |
 | Wolverhampton West | Warinder Juss | 3815 |
 | Worcester | Tom Collins MP | 4318 |
-| Worsley and Eccles | Michael Wheeler MP | 5429 |
+| Worsley and Eccles | Michael Wheeler MP | 5431 |
 | Worthing West | Dr Beccy Cooper MP | 5242 |
 | Wycombe | Emma Reynolds MP | 3606 |
 | Wyre Forest | Mark Garnier MP | 6475 |
