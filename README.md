@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2987398                                |
-| Last Updated      | 2025-02-20 09:18:05 UTC                                    |
+| Total Signatures   | 2987403                                |
+| Last Updated      | 2025-02-20 10:18:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5761 |
 | Barrow and Furness | Michelle Scrogham MP | 5305 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6875 |
-| Basingstoke | Luke Murphy MP | 4809 |
+| Basingstoke | Luke Murphy MP | 4810 |
 | Bassetlaw | Jo White MP | 6734 |
 | Bath | Wera Hobhouse MP | 2977 |
 | Battersea | Marsha De Cordova MP | 3610 |
@@ -106,7 +106,7 @@
 | Cheadle | Tom Morrison MP | 4657 |
 | Chelmsford | Marie Goldman MP | 5264 |
 | Chelsea and Fulham | Ben Coleman MP | 5483 |
-| Cheltenham | Max Wilkinson MP | 4024 |
+| Cheltenham | Max Wilkinson MP | 4025 |
 | Chesham and Amersham | Sarah Green MP | 4936 |
 | Chester North and Neston | Samantha Dixon MP | 4046 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6382 |
@@ -130,7 +130,7 @@
 | Coventry South | Zarah Sultana MP | 3508 |
 | Cramlington and Killingworth | Emma Foody MP | 5792 |
 | Crawley | Peter Lamb MP | 4708 |
-| Crewe and Nantwich | Connor Naismith MP | 5685 |
+| Crewe and Nantwich | Connor Naismith MP | 5686 |
 | Croydon East | Natasha Irons MP | 3330 |
 | Croydon South | Rt Hon Chris Philp MP | 3951 |
 | Croydon West | Sarah Jones MP | 1743 |
@@ -482,7 +482,7 @@
 | Sutton and Cheam | Luke Taylor MP | 4387 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5665 |
 | Swindon North | Will Stone MP | 4891 |
-| Swindon South | Rt Hon Heidi Alexander MP | 4199 |
+| Swindon South | Rt Hon Heidi Alexander MP | 4200 |
 | Tamworth | Sarah Edwards MP | 6931 |
 | Tatton | Rt Hon Esther McVey MP | 6494 |
 | Taunton and Wellington | Gideon Amos MP | 5161 |
@@ -597,7 +597,7 @@
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
 | Edinburgh South West | Dr Scott Arthur MP | 2255 |
 | Edinburgh West | Christine Jardine MP | 2709 |
-| Falkirk | Euan Stainbank MP | 3422 |
+| Falkirk | Euan Stainbank MP | 3423 |
 | Glasgow East | John Grady MP | 2309 |
 | Glasgow North | Martin Rhodes MP | 2034 |
 | Glasgow North East | Maureen Burke MP | 2467 |
