@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2987722                                |
-| Last Updated      | 2025-02-21 01:19:05 UTC                                    |
+| Total Signatures   | 2987728                                |
+| Last Updated      | 2025-02-21 02:48:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -101,7 +101,7 @@
 | Carshalton and Wallington | Bobby Dean MP | 4261 |
 | Castle Point | Rebecca Harris MP | 7518 |
 | Central Devon | Rt Hon Mel Stride MP | 5795 |
-| Central Suffolk and North Ipswich | Patrick Spencer MP | 5294 |
+| Central Suffolk and North Ipswich | Patrick Spencer MP | 5295 |
 | Chatham and Aylesford | Tristan Osborne MP | 5620 |
 | Cheadle | Tom Morrison MP | 4658 |
 | Chelmsford | Marie Goldman MP | 5264 |
@@ -122,7 +122,7 @@
 | Clacton | Nigel Farage MP | 8067 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1738 |
 | Colchester | Pam Cox MP | 4987 |
-| Colne Valley | Paul Davies MP | 5016 |
+| Colne Valley | Paul Davies MP | 5017 |
 | Congleton | Mrs Sarah Russell MP | 5963 |
 | Corby and East Northamptonshire | Lee Barron MP | 5992 |
 | Coventry East | Mary Creagh MP | 3583 |
@@ -139,7 +139,7 @@
 | Dartford | Jim Dickson MP | 5725 |
 | Daventry | Rt Hon Stuart Andrew MP | 7273 |
 | Derby North | Catherine Atkinson MP | 4314 |
-| Derby South | Baggy Shanker MP | 3599 |
+| Derby South | Baggy Shanker MP | 3600 |
 | Derbyshire Dales | John Whitby MP | 6768 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3171 |
 | Didcot and Wantage | Olly Glover MP | 4873 |
@@ -255,7 +255,7 @@
 | Jarrow and Gateshead East | Kate Osborne MP | 5077 |
 | Keighley and Ilkley | Robbie Moore MP | 4683 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6093 |
-| Kensington and Bayswater | Joe Powell MP | 4396 |
+| Kensington and Bayswater | Joe Powell MP | 4397 |
 | Kettering | Rosie Wrighting MP | 5900 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3741 |
 | Kingston upon Hull East | Karl Turner MP | 4988 |
@@ -317,7 +317,7 @@
 | Milton Keynes Central | Emily Darlington MP | 4931 |
 | Milton Keynes North | Chris Curtis MP | 4564 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2664 |
-| Morecambe and Lunesdale | Lizzi Collinge MP | 5758 |
+| Morecambe and Lunesdale | Lizzi Collinge MP | 5759 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5411 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5245 |
 | Newark | Rt Hon Robert Jenrick MP | 7148 |
@@ -588,7 +588,7 @@
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2849 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2676 |
 | Dumfries and Galloway | John Cooper MP | 4032 |
-| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3850 |
+| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3851 |
 | Dundee Central | Chris Law MP | 2539 |
 | Dunfermline and Dollar | Graeme Downie MP | 2926 |
 | East Kilbride and Strathaven | Joani Reid MP | 3144 |
