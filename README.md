@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2987730                                |
-| Last Updated      | 2025-02-21 03:22:10 UTC                                    |
+| Total Signatures   | 2987732                                |
+| Last Updated      | 2025-02-21 04:21:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -202,7 +202,7 @@
 | Gravesham | Dr Lauren Sullivan MP | 5133 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5784 |
 | Great Yarmouth | Rupert Lowe MP | 6576 |
-| Greenwich and Woolwich | Matthew Pennycook MP | 2614 |
+| Greenwich and Woolwich | Matthew Pennycook MP | 2615 |
 | Guildford | Zöe Franklin MP | 3994 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1517 |
@@ -330,7 +330,7 @@
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5526 |
 | Normanton and Hemsworth | Jon Trickett MP | 5483 |
 | North Bedfordshire | Richard Fuller MP | 6096 |
-| North Cornwall | Ben Maguire MP | 6389 |
+| North Cornwall | Ben Maguire MP | 6390 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6040 |
 | North Devon | Ian Roome MP | 5849 |
 | North Dorset | Simon Hoare MP | 6311 |
