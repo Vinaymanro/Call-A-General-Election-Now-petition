@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2987728                                |
-| Last Updated      | 2025-02-21 02:48:46 UTC                                    |
+| Total Signatures   | 2987730                                |
+| Last Updated      | 2025-02-21 03:22:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -471,7 +471,7 @@
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6525 |
 | Stourbridge | Cat Eccles MP | 5150 |
 | Stratford and Bow | Uma Kumaran MP | 1761 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6702 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6703 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1861 |
 | Stretford and Urmston | Andrew Western MP | 3812 |
 | Stroud | Dr Simon Opher MP | 4529 |
@@ -589,7 +589,7 @@
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2676 |
 | Dumfries and Galloway | John Cooper MP | 4032 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3851 |
-| Dundee Central | Chris Law MP | 2539 |
+| Dundee Central | Chris Law MP | 2540 |
 | Dunfermline and Dollar | Graeme Downie MP | 2926 |
 | East Kilbride and Strathaven | Joani Reid MP | 3144 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2078 |
