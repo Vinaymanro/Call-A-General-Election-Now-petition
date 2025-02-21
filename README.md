@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2987780                                |
-| Last Updated      | 2025-02-21 09:17:49 UTC                                    |
+| Total Signatures   | 2987790                                |
+| Last Updated      | 2025-02-21 10:18:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -74,7 +74,7 @@
 | Bridgwater | Sir Ashley Fox MP | 5742 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6612 |
 | Brigg and Immingham | Martin Vickers MP | 6457 |
-| Brighton Kemptown and Peacehaven | Chris Ward MP | 3924 |
+| Brighton Kemptown and Peacehaven | Chris Ward MP | 3925 |
 | Brighton Pavilion | Siân Berry MP | 2730 |
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2975 |
@@ -98,7 +98,7 @@
 | Cannock Chase | Josh Newbury MP | 6869 |
 | Canterbury | Rosie Duffield MP | 4466 |
 | Carlisle | Ms Julie Minns MP | 6521 |
-| Carshalton and Wallington | Bobby Dean MP | 4261 |
+| Carshalton and Wallington | Bobby Dean MP | 4262 |
 | Castle Point | Rebecca Harris MP | 7518 |
 | Central Devon | Rt Hon Mel Stride MP | 5795 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5295 |
@@ -261,7 +261,7 @@
 | Kingston upon Hull East | Karl Turner MP | 4988 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4631 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5484 |
-| Kingswinford and South Staffordshire | Mike Wood MP | 6386 |
+| Kingswinford and South Staffordshire | Mike Wood MP | 6387 |
 | Knowsley | Anneliese Midgley MP | 3271 |
 | Lancaster and Wyre | Cat Smith MP | 5072 |
 | Leeds Central and Headingley | Alex Sobel MP | 1927 |
@@ -419,7 +419,7 @@
 | Sherwood Forest | Michelle Welsh MP | 6655 |
 | Shipley | Anna Dixon MP | 4884 |
 | Shrewsbury | Julia Buckley MP | 5321 |
-| Sittingbourne and Sheppey | Kevin McKenna MP | 6855 |
+| Sittingbourne and Sheppey | Kevin McKenna MP | 6856 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6666 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6284 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2580 |
@@ -463,14 +463,14 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5340 |
 | Stevenage | Kevin Bonavia MP | 4734 |
 | Stockport | Navendu Mishra MP | 3909 |
-| Stockton North | Chris McDonald MP | 4831 |
+| Stockton North | Chris McDonald MP | 4832 |
 | Stockton West | Matt Vickers MP | 5981 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4721 |
 | Stoke-on-Trent North | David Williams MP | 5447 |
-| Stoke-on-Trent South | Dr Allison Gardner MP | 5717 |
+| Stoke-on-Trent South | Dr Allison Gardner MP | 5718 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6526 |
 | Stourbridge | Cat Eccles MP | 5150 |
-| Stratford and Bow | Uma Kumaran MP | 1761 |
+| Stratford and Bow | Uma Kumaran MP | 1762 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6703 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1861 |
 | Stretford and Urmston | Andrew Western MP | 3812 |
@@ -491,7 +491,7 @@
 | The Wrekin | Rt Hon Mark Pritchard MP | 6392 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7420 |
 | Thornbury and Yate | Claire Young MP | 5682 |
-| Thurrock | Jen Craft MP | 5107 |
+| Thurrock | Jen Craft MP | 5108 |
 | Tipton and Wednesbury | Antonia Bance MP | 4905 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5948 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5942 |
@@ -503,7 +503,7 @@
 | Tunbridge Wells | Mike Martin MP | 5452 |
 | Twickenham | Munira Wilson MP | 3649 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4482 |
-| Uxbridge and South Ruislip | Danny Beales MP | 4474 |
+| Uxbridge and South Ruislip | Danny Beales MP | 4475 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1672 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4906 |
 | Wallasey | Dame Angela Eagle MP | 4058 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4592 |
 | Yeovil | Adam Dance MP | 5593 |
 | York Central | Rachael Maskell MP | 3270 |
-| York Outer | Mr Luke Charters MP | 4342 |
+| York Outer | Mr Luke Charters MP | 4343 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2954 |
 | Belfast North | John Finucane MP | 2484 |
 | Belfast South and Mid Down | Claire Hanna MP | 1938 |
