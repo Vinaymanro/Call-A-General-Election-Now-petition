@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2987858                                |
-| Last Updated      | 2025-02-21 13:22:27 UTC                                    |
+| Total Signatures   | 2987868                                |
+| Last Updated      | 2025-02-21 14:14:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -39,7 +39,7 @@
 | Birkenhead | Alison McGovern MP | 4310 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2944 |
 | Birmingham Erdington | Paulette Hamilton MP | 4227 |
-| Birmingham Hall Green and Moseley | Tahir Ali MP | 1575 |
+| Birmingham Hall Green and Moseley | Tahir Ali MP | 1576 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3475 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1895 |
 | Birmingham Northfield | Laurence Turner MP | 4884 |
@@ -84,7 +84,7 @@
 | Broadland and Fakenham | Jerome Mayhew MP | 5827 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5233 |
 | Bromsgrove | Bradley Thomas MP | 6465 |
-| Broxbourne | Lewis Cocking MP | 6063 |
+| Broxbourne | Lewis Cocking MP | 6064 |
 | Broxtowe | Juliet Campbell MP | 4704 |
 | Buckingham and Bletchley | Callum Anderson MP | 5250 |
 | Burnley | Oliver Ryan MP | 5718 |
@@ -142,7 +142,7 @@
 | Derby South | Baggy Shanker MP | 3600 |
 | Derbyshire Dales | John Whitby MP | 6768 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3171 |
-| Didcot and Wantage | Olly Glover MP | 4873 |
+| Didcot and Wantage | Olly Glover MP | 4874 |
 | Doncaster Central | Sally Jameson MP | 4932 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6066 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5556 |
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1100 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5326 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6017 |
-| East Thanet | Ms Polly Billington MP | 5472 |
+| East Thanet | Ms Polly Billington MP | 5473 |
 | East Wiltshire | Danny Kruger MP | 6059 |
 | East Worthing and Shoreham | Tom Rutland MP | 4596 |
 | Eastbourne | Josh Babarinde MP | 5034 |
@@ -248,7 +248,7 @@
 | Ilford North | Rt Hon Wes Streeting MP | 2620 |
 | Ilford South | Jas Athwal MP | 1591 |
 | Ipswich | Jack Abbott MP | 4135 |
-| Isle of Wight East | Joe Robertson MP | 4374 |
+| Isle of Wight East | Joe Robertson MP | 4375 |
 | Isle of Wight West | Mr Richard Quigley MP | 4064 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1790 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2764 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2632 |
 | Liverpool Walton | Dan Carden MP | 3347 |
 | Liverpool Wavertree | Paula Barker MP | 2217 |
-| Liverpool West Derby | Ian Byrne MP | 3043 |
+| Liverpool West Derby | Ian Byrne MP | 3044 |
 | Loughborough | Dr Jeevun Sandher MP | 4473 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7786 |
 | Lowestoft | Jess Asato MP | 5324 |
@@ -389,7 +389,7 @@
 | Redditch | Chris Bloore MP | 6065 |
 | Reigate | Rebecca Paul MP | 5543 |
 | Ribble Valley | Maya Ellis MP | 6699 |
-| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7100 |
+| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
 | Richmond Park | Sarah Olney MP | 4056 |
 | Rochdale | Paul Waugh MP | 3943 |
 | Rochester and Strood | Lauren Edwards MP | 6013 |
@@ -431,14 +431,14 @@
 | South Derbyshire | Samantha Niblett MP | 6163 |
 | South Devon | Caroline Voaden MP | 5316 |
 | South Dorset | Lloyd Hatton MP | 5647 |
-| South East Cornwall | Anna Gelderd MP | 6225 |
+| South East Cornwall | Anna Gelderd MP | 6226 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7124 |
 | South Leicestershire | Alberto Costa MP | 6977 |
 | South Norfolk | Ben Goldsborough MP | 5438 |
 | South Northamptonshire | Sarah Bool MP | 6664 |
 | South Ribble | Mr Paul Foster MP | 5885 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4713 |
-| South Shropshire | Stuart Anderson MP | 7318 |
+| South Shropshire | Stuart Anderson MP | 7319 |
 | South Suffolk | James Cartlidge MP | 6141 |
 | South West Devon | Rebecca Smith MP | 5966 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5198 |
@@ -447,7 +447,7 @@
 | Southampton Itchen | Darren Paffey MP | 4531 |
 | Southampton Test | Satvir Kaur MP | 3399 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5570 |
-| Southend West and Leigh | David Burton-Sampson MP | 5865 |
+| Southend West and Leigh | David Burton-Sampson MP | 5866 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2585 |
 | Southport | Patrick Hurley MP | 5940 |
 | Spelthorne | Lincoln Jopp MP | 5455 |
