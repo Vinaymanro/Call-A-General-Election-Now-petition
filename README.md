@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2987737                                |
-| Last Updated      | 2025-02-21 06:24:12 UTC                                    |
+| Total Signatures   | 2987742                                |
+| Last Updated      | 2025-02-21 07:16:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -112,7 +112,7 @@
 | Chester South and Eddisbury | Aphra Brandreth MP | 6383 |
 | Chesterfield | Mr Toby Perkins MP | 4870 |
 | Chichester | Jess Brown-Fuller MP | 5916 |
-| Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4161 |
+| Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
 | Chippenham | Sarah Gibson MP | 4728 |
 | Chipping Barnet | Dan Tomlinson MP | 4332 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5487 |
@@ -151,7 +151,7 @@
 | Droitwich and Evesham | Nigel Huddleston MP | 6554 |
 | Dudley | Sonia Kumar MP | 5376 |
 | Dulwich and West Norwood | Helen Hayes MP | 1556 |
-| Dunstable and Leighton Buzzard | Alex Mayer MP | 5509 |
+| Dunstable and Leighton Buzzard | Alex Mayer MP | 5510 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3083 |
 | Ealing North | James Murray MP | 2577 |
 | Ealing Southall | Deirdre Costigan MP | 1952 |
@@ -234,7 +234,7 @@
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5250 |
 | High Peak | Jon Pearce MP | 5445 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6475 |
-| Hitchin | Alistair Strathern MP | 4911 |
+| Hitchin | Alistair Strathern MP | 4912 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2276 |
 | Honiton and Sidmouth | Richard Foord MP | 5246 |
 | Hornchurch and Upminster | Julia Lopez MP | 6604 |
@@ -475,7 +475,7 @@
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1861 |
 | Stretford and Urmston | Andrew Western MP | 3812 |
 | Stroud | Dr Simon Opher MP | 4529 |
-| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5391 |
+| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5392 |
 | Sunderland Central | Lewis Atkinson MP | 5227 |
 | Surrey Heath | Dr Al Pinkerton MP | 5418 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6102 |
@@ -519,7 +519,7 @@
 | Wellingborough and Rushden | Gen Kitchen MP | 5078 |
 | Wells and Mendip Hills | Tessa Munt MP | 5245 |
 | Welwyn Hatfield | Andrew Lewin MP | 5051 |
-| West Bromwich | Sarah Coombes MP | 3777 |
+| West Bromwich | Sarah Coombes MP | 3778 |
 | West Dorset | Edward Morello MP | 5450 |
 | West Ham and Beckton | James Asser MP | 2150 |
 | West Lancashire | Ashley Dalton MP | 5048 |
