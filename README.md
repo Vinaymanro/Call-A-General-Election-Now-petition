@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2987903                                |
-| Last Updated      | 2025-02-21 16:24:56 UTC                                    |
+| Total Signatures   | 2987912                                |
+| Last Updated      | 2025-02-21 17:14:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -71,14 +71,14 @@
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2985 |
 | Brentwood and Ongar | Alex Burghart MP | 8131 |
-| Bridgwater | Sir Ashley Fox MP | 5742 |
+| Bridgwater | Sir Ashley Fox MP | 5743 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6612 |
 | Brigg and Immingham | Martin Vickers MP | 6457 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3925 |
 | Brighton Pavilion | Siân Berry MP | 2730 |
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2975 |
-| Bristol North East | Damien Egan MP | 3076 |
+| Bristol North East | Damien Egan MP | 3077 |
 | Bristol North West | Rt Hon Darren Jones MP | 3200 |
 | Bristol South | Karin Smyth MP | 3954 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5827 |
@@ -113,7 +113,7 @@
 | Chesterfield | Mr Toby Perkins MP | 4870 |
 | Chichester | Jess Brown-Fuller MP | 5916 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
-| Chippenham | Sarah Gibson MP | 4728 |
+| Chippenham | Sarah Gibson MP | 4729 |
 | Chipping Barnet | Dan Tomlinson MP | 4332 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5488 |
 | Christchurch | Sir Christopher Chope MP | 5846 |
@@ -121,7 +121,7 @@
 | City of Durham | Mary Kelly Foy MP | 4247 |
 | Clacton | Nigel Farage MP | 8067 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1739 |
-| Colchester | Pam Cox MP | 4987 |
+| Colchester | Pam Cox MP | 4988 |
 | Colne Valley | Paul Davies MP | 5017 |
 | Congleton | Mrs Sarah Russell MP | 5963 |
 | Corby and East Northamptonshire | Lee Barron MP | 5994 |
@@ -255,7 +255,7 @@
 | Jarrow and Gateshead East | Kate Osborne MP | 5077 |
 | Keighley and Ilkley | Robbie Moore MP | 4683 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6093 |
-| Kensington and Bayswater | Joe Powell MP | 4397 |
+| Kensington and Bayswater | Joe Powell MP | 4398 |
 | Kettering | Rosie Wrighting MP | 5900 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3741 |
 | Kingston upon Hull East | Karl Turner MP | 4988 |
@@ -323,7 +323,7 @@
 | Newark | Rt Hon Robert Jenrick MP | 7148 |
 | Newbury | Mr Lee Dillon MP | 4883 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4492 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4741 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4742 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3948 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5058 |
 | Newton Abbot | Martin Wrigley MP | 5103 |
@@ -400,7 +400,7 @@
 | Rotherham | Sarah Champion MP | 4942 |
 | Rugby | John Slinger MP | 5397 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4101 |
-| Runcorn and Helsby | Mike Amesbury MP | 5017 |
+| Runcorn and Helsby | Mike Amesbury MP | 5018 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5827 |
 | Rushcliffe | James Naish MP | 5071 |
 | Rutland and Stamford | Alicia Kearns MP | 6255 |
@@ -609,7 +609,7 @@
 | Hamilton and Clyde Valley | Imogen Walker MP | 3132 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2744 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3613 |
-| Livingston | Gregor Poynton MP | 3391 |
+| Livingston | Gregor Poynton MP | 3392 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2849 |
 | Mid Dunbartonshire | Susan Murray MP | 2522 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3931 |
@@ -634,7 +634,7 @@
 | Bridgend | Chris Elmore MP | 4227 |
 | Caerfyrddin | Ann Davies MP | 5196 |
 | Caerphilly | Chris Evans MP | 3976 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2886 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2887 |
 | Cardiff North | Anna McMorrin MP | 3289 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2793 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3138 |
