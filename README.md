@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988151                                |
-| Last Updated      | 2025-02-22 11:12:14 UTC                                    |
+| Total Signatures   | 2988164                                |
+| Last Updated      | 2025-02-22 12:30:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -49,7 +49,7 @@
 | Bishop Auckland | Sam Rushworth MP | 6159 |
 | Blackburn | Mr Adnan Hussain MP | 3123 |
 | Blackley and Middleton South | Graham Stringer MP | 3760 |
-| Blackpool North and Fleetwood | Lorraine Beavers MP | 6139 |
+| Blackpool North and Fleetwood | Lorraine Beavers MP | 6140 |
 | Blackpool South | Chris Webb MP | 5795 |
 | Blaydon and Consett | Liz Twist MP | 5237 |
 | Blyth and Ashington | Ian Lavery MP | 5844 |
@@ -114,7 +114,7 @@
 | Chichester | Jess Brown-Fuller MP | 5916 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
 | Chippenham | Sarah Gibson MP | 4729 |
-| Chipping Barnet | Dan Tomlinson MP | 4332 |
+| Chipping Barnet | Dan Tomlinson MP | 4333 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5488 |
 | Christchurch | Sir Christopher Chope MP | 5847 |
 | Cities of London and Westminster | Rachel Blake MP | 5166 |
@@ -150,7 +150,7 @@
 | Dover and Deal | Mike Tapp MP | 5919 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6554 |
 | Dudley | Sonia Kumar MP | 5376 |
-| Dulwich and West Norwood | Helen Hayes MP | 1557 |
+| Dulwich and West Norwood | Helen Hayes MP | 1558 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5510 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3086 |
 | Ealing North | James Murray MP | 2578 |
@@ -213,7 +213,7 @@
 | Hampstead and Highgate | Tulip Siddiq MP | 2960 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4710 |
 | Harlow | Chris Vince MP | 6059 |
-| Harpenden and Berkhamsted | Victoria Collins MP | 4533 |
+| Harpenden and Berkhamsted | Victoria Collins MP | 4534 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5109 |
 | Harrow East | Bob Blackman MP | 3128 |
 | Harrow West | Gareth Thomas MP | 2402 |
@@ -229,7 +229,7 @@
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5271 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6291 |
 | Hertford and Stortford | Josh Dean MP | 5971 |
-| Hertsmere | Rt Hon Sir Oliver Dowden MP | 5739 |
+| Hertsmere | Rt Hon Sir Oliver Dowden MP | 5740 |
 | Hexham | Joe Morris MP | 6405 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5251 |
 | High Peak | Jon Pearce MP | 5445 |
@@ -244,7 +244,7 @@
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3325 |
 | Huddersfield | Harpreet Uppal MP | 3674 |
 | Huntingdon | Ben Obese-Jecty MP | 5546 |
-| Hyndburn | Sarah Smith MP | 4993 |
+| Hyndburn | Sarah Smith MP | 4994 |
 | Ilford North | Rt Hon Wes Streeting MP | 2620 |
 | Ilford South | Jas Athwal MP | 1591 |
 | Ipswich | Jack Abbott MP | 4135 |
@@ -283,7 +283,7 @@
 | Lichfield | Dave Robertson MP | 6469 |
 | Lincoln | Mr Hamish Falconer MP | 4640 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3119 |
-| Liverpool Riverside | Kim Johnson MP | 2632 |
+| Liverpool Riverside | Kim Johnson MP | 2633 |
 | Liverpool Walton | Dan Carden MP | 3347 |
 | Liverpool Wavertree | Paula Barker MP | 2217 |
 | Liverpool West Derby | Ian Byrne MP | 3044 |
@@ -318,7 +318,7 @@
 | Milton Keynes North | Chris Curtis MP | 4564 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2665 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5760 |
-| New Forest East | Rt Hon Sir Julian Lewis MP | 5413 |
+| New Forest East | Rt Hon Sir Julian Lewis MP | 5414 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5246 |
 | Newark | Rt Hon Robert Jenrick MP | 7151 |
 | Newbury | Mr Lee Dillon MP | 4883 |
@@ -416,7 +416,7 @@
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3531 |
 | Sheffield South East | Mr Clive Betts MP | 4731 |
-| Sherwood Forest | Michelle Welsh MP | 6655 |
+| Sherwood Forest | Michelle Welsh MP | 6656 |
 | Shipley | Anna Dixon MP | 4884 |
 | Shrewsbury | Julia Buckley MP | 5321 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6856 |
@@ -463,7 +463,7 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5340 |
 | Stevenage | Kevin Bonavia MP | 4734 |
 | Stockport | Navendu Mishra MP | 3909 |
-| Stockton North | Chris McDonald MP | 4832 |
+| Stockton North | Chris McDonald MP | 4833 |
 | Stockton West | Matt Vickers MP | 5982 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4721 |
 | Stoke-on-Trent North | David Williams MP | 5447 |
@@ -497,7 +497,7 @@
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5942 |
 | Tooting | Dr Rosena Allin-Khan MP | 2689 |
 | Torbay | Steve Darling MP | 5813 |
-| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6570 |
+| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6571 |
 | Tottenham | Rt Hon David Lammy MP | 1680 |
 | Truro and Falmouth | Jayne Kirkham MP | 4597 |
 | Tunbridge Wells | Mike Martin MP | 5452 |
@@ -517,7 +517,7 @@
 | Waveney Valley | Adrian Ramsay MP | 5847 |
 | Weald of Kent | Katie Lam MP | 7222 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5079 |
-| Wells and Mendip Hills | Tessa Munt MP | 5245 |
+| Wells and Mendip Hills | Tessa Munt MP | 5246 |
 | Welwyn Hatfield | Andrew Lewin MP | 5051 |
 | West Bromwich | Sarah Coombes MP | 3778 |
 | West Dorset | Edward Morello MP | 5450 |
@@ -604,7 +604,7 @@
 | Glasgow South | Gordon McKee MP | 1844 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2256 |
 | Glasgow West | Patricia Ferguson MP | 2209 |
-| Glenrothes and Mid Fife | Richard Baker MP | 2961 |
+| Glenrothes and Mid Fife | Richard Baker MP | 2962 |
 | Gordon and Buchan | Harriet Cross MP | 4383 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3132 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2744 |
