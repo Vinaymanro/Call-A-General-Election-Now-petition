@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988280                                |
-| Last Updated      | 2025-02-22 19:12:35 UTC                                    |
+| Total Signatures   | 2988288                                |
+| Last Updated      | 2025-02-22 20:16:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -149,7 +149,7 @@
 | Dorking and Horley | Chris Coghlan MP | 5550 |
 | Dover and Deal | Mike Tapp MP | 5919 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6555 |
-| Dudley | Sonia Kumar MP | 5376 |
+| Dudley | Sonia Kumar MP | 5377 |
 | Dulwich and West Norwood | Helen Hayes MP | 1558 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5510 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3086 |
@@ -222,7 +222,7 @@
 | Hastings and Rye | Helena Dollimore MP | 5064 |
 | Havant | Alan Mak MP | 5648 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2592 |
-| Hazel Grove | Lisa Smart MP | 5093 |
+| Hazel Grove | Lisa Smart MP | 5094 |
 | Hemel Hempstead | David Taylor MP | 5068 |
 | Hendon | David Pinto-Duschinsky MP | 3796 |
 | Henley and Thame | Freddie van Mierlo MP | 5399 |
@@ -263,7 +263,7 @@
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5485 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6387 |
 | Knowsley | Anneliese Midgley MP | 3271 |
-| Lancaster and Wyre | Cat Smith MP | 5072 |
+| Lancaster and Wyre | Cat Smith MP | 5073 |
 | Leeds Central and Headingley | Alex Sobel MP | 1927 |
 | Leeds East | Richard Burgon MP | 4298 |
 | Leeds North East | Fabian Hamilton MP | 2627 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4150 |
 | Plymouth Moor View | Fred Thomas MP | 5671 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4737 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5431 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5432 |
 | Poole | Neil Duncan-Jordan MP | 5663 |
 | Poplar and Limehouse | Apsana Begum MP | 2920 |
 | Portsmouth North | Amanda Martin MP | 5608 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3803 |
 | Putney | Fleur Anderson MP | 3513 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2149 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5107 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5109 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7349 |
 | Reading Central | Matt Rodda MP | 3025 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4437 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5074 |
 | Sefton Central | Bill Esterson MP | 4012 |
 | Selby | Keir Mather MP | 6361 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6656 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6657 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3413 |
 | Sheffield Central | Abtisam Mohamed MP | 1425 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
@@ -471,7 +471,7 @@
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6528 |
 | Stourbridge | Cat Eccles MP | 5151 |
 | Stratford and Bow | Uma Kumaran MP | 1762 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6704 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6705 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1861 |
 | Stretford and Urmston | Andrew Western MP | 3812 |
 | Stroud | Dr Simon Opher MP | 4529 |
