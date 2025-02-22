@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988067                                |
-| Last Updated      | 2025-02-22 05:15:42 UTC                                    |
+| Total Signatures   | 2988068                                |
+| Last Updated      | 2025-02-22 06:24:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -320,7 +320,7 @@
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5760 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5413 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5246 |
-| Newark | Rt Hon Robert Jenrick MP | 7150 |
+| Newark | Rt Hon Robert Jenrick MP | 7151 |
 | Newbury | Mr Lee Dillon MP | 4883 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4492 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4742 |
