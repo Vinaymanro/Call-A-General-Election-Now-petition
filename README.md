@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988061                                |
-| Last Updated      | 2025-02-22 02:43:04 UTC                                    |
+| Total Signatures   | 2988066                                |
+| Last Updated      | 2025-02-22 03:19:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -98,7 +98,7 @@
 | Cannock Chase | Josh Newbury MP | 6869 |
 | Canterbury | Rosie Duffield MP | 4466 |
 | Carlisle | Ms Julie Minns MP | 6521 |
-| Carshalton and Wallington | Bobby Dean MP | 4262 |
+| Carshalton and Wallington | Bobby Dean MP | 4263 |
 | Castle Point | Rebecca Harris MP | 7518 |
 | Central Devon | Rt Hon Mel Stride MP | 5796 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5295 |
@@ -186,7 +186,7 @@
 | Finchley and Golders Green | Sarah Sackman MP | 4279 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5389 |
 | Forest of Dean | Matt Bishop MP | 5261 |
-| Frome and East Somerset | Anna Sabine MP | 4323 |
+| Frome and East Somerset | Anna Sabine MP | 4324 |
 | Fylde | Mr Andrew Snowden MP | 6768 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6647 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4514 |
@@ -239,8 +239,8 @@
 | Honiton and Sidmouth | Richard Foord MP | 5246 |
 | Hornchurch and Upminster | Julia Lopez MP | 6604 |
 | Hornsey and Friern Barnet | Catherine West MP | 1935 |
-| Horsham | John Milne MP | 5821 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6288 |
+| Horsham | John Milne MP | 5822 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6289 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3325 |
 | Huddersfield | Harpreet Uppal MP | 3674 |
 | Huntingdon | Ben Obese-Jecty MP | 5546 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6869 |
 | North Somerset | Sadik Al-Hassan MP | 4579 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6257 |
-| North West Cambridgeshire | Sam Carling MP | 6003 |
+| North West Cambridgeshire | Sam Carling MP | 6004 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7129 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5722 |
 | North West Leicestershire | Amanda Hack MP | 6691 |
