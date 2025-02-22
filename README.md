@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988164                                |
-| Last Updated      | 2025-02-22 12:30:17 UTC                                    |
+| Total Signatures   | 2988176                                |
+| Last Updated      | 2025-02-22 13:18:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5445 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5792 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5793 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5497 |
 | Amber Valley | Linsey Farnsworth MP | 6074 |
 | Arundel and South Downs | Andrew Griffith MP | 6952 |
@@ -84,7 +84,7 @@
 | Broadland and Fakenham | Jerome Mayhew MP | 5827 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5233 |
 | Bromsgrove | Bradley Thomas MP | 6466 |
-| Broxbourne | Lewis Cocking MP | 6066 |
+| Broxbourne | Lewis Cocking MP | 6067 |
 | Broxtowe | Juliet Campbell MP | 4705 |
 | Buckingham and Bletchley | Callum Anderson MP | 5250 |
 | Burnley | Oliver Ryan MP | 5719 |
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5557 |
 | Dorking and Horley | Chris Coghlan MP | 5550 |
 | Dover and Deal | Mike Tapp MP | 5919 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6554 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6555 |
 | Dudley | Sonia Kumar MP | 5376 |
 | Dulwich and West Norwood | Helen Hayes MP | 1558 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5510 |
@@ -173,14 +173,14 @@
 | Enfield North | Feryal Clark MP | 2884 |
 | Epping Forest | Dr Neil Hudson MP | 6568 |
 | Epsom and Ewell | Helen Maguire MP | 4919 |
-| Erewash | Adam Thompson MP | 5816 |
+| Erewash | Adam Thompson MP | 5817 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3217 |
 | Esher and Walton | Monica Harding MP | 4818 |
-| Exeter | Steve Race MP | 3169 |
+| Exeter | Steve Race MP | 3170 |
 | Exmouth and Exeter East | David Reed MP | 5197 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6115 |
 | Farnham and Bordon | Gregory Stafford MP | 5182 |
-| Faversham and Mid Kent | Helen Whately MP | 6216 |
+| Faversham and Mid Kent | Helen Whately MP | 6217 |
 | Feltham and Heston | Seema Malhotra MP | 2917 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4503 |
 | Finchley and Golders Green | Sarah Sackman MP | 4279 |
@@ -302,9 +302,9 @@
 | Manchester Withington | Jeff Smith MP | 1669 |
 | Mansfield | Steve Yemm MP | 6186 |
 | Melksham and Devizes | Brian Mathew MP | 5006 |
-| Melton and Syston | Rt Hon Edward Argar MP | 6104 |
+| Melton and Syston | Rt Hon Edward Argar MP | 6105 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6058 |
-| Mid Bedfordshire | Blake Stephenson MP | 5840 |
+| Mid Bedfordshire | Blake Stephenson MP | 5841 |
 | Mid Buckinghamshire | Greg Smith MP | 5594 |
 | Mid Cheshire | Andrew Cooper MP | 5161 |
 | Mid Derbyshire | Jonathan Davies MP | 5223 |
@@ -348,7 +348,7 @@
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6257 |
 | North West Cambridgeshire | Sam Carling MP | 6004 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7129 |
-| North West Hampshire | Rt Hon Kit Malthouse MP | 5723 |
+| North West Hampshire | Rt Hon Kit Malthouse MP | 5724 |
 | North West Leicestershire | Amanda Hack MP | 6691 |
 | North West Norfolk | James Wild MP | 5748 |
 | Northampton North | Lucy Rigby KC MP | 4268 |
@@ -367,13 +367,13 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2147 |
 | Oxford West and Abingdon | Layla Moran MP | 2926 |
 | Peckham | Miatta Fahnbulleh MP | 1355 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6187 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6188 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5437 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6179 |
 | Peterborough | Andrew Pakes MP | 4150 |
 | Plymouth Moor View | Fred Thomas MP | 5670 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4737 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5429 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5430 |
 | Poole | Neil Duncan-Jordan MP | 5663 |
 | Poplar and Limehouse | Apsana Begum MP | 2920 |
 | Portsmouth North | Amanda Martin MP | 5608 |
@@ -421,7 +421,7 @@
 | Shrewsbury | Julia Buckley MP | 5321 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6856 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6667 |
-| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6284 |
+| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6285 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2580 |
 | Smethwick | Gurinder Singh Josan MP | 3053 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5436 |
