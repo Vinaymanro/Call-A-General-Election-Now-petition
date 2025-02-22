@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988068                                |
-| Last Updated      | 2025-02-22 06:24:17 UTC                                    |
+| Total Signatures   | 2988074                                |
+| Last Updated      | 2025-02-22 07:14:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -109,7 +109,7 @@
 | Cheltenham | Max Wilkinson MP | 4026 |
 | Chesham and Amersham | Sarah Green MP | 4936 |
 | Chester North and Neston | Samantha Dixon MP | 4047 |
-| Chester South and Eddisbury | Aphra Brandreth MP | 6383 |
+| Chester South and Eddisbury | Aphra Brandreth MP | 6384 |
 | Chesterfield | Mr Toby Perkins MP | 4870 |
 | Chichester | Jess Brown-Fuller MP | 5916 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
@@ -197,9 +197,9 @@
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5234 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6950 |
 | Gorton and Denton | Andrew Gwynne MP | 3265 |
-| Gosport | Dame Caroline Dinenage MP | 5464 |
+| Gosport | Dame Caroline Dinenage MP | 5465 |
 | Grantham and Bourne | Gareth Davies MP | 6321 |
-| Gravesham | Dr Lauren Sullivan MP | 5133 |
+| Gravesham | Dr Lauren Sullivan MP | 5134 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5784 |
 | Great Yarmouth | Rupert Lowe MP | 6576 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2616 |
@@ -220,7 +220,7 @@
 | Hartlepool | Mr Jonathan Brash MP | 5639 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6267 |
 | Hastings and Rye | Helena Dollimore MP | 5064 |
-| Havant | Alan Mak MP | 5646 |
+| Havant | Alan Mak MP | 5647 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2590 |
 | Hazel Grove | Lisa Smart MP | 5092 |
 | Hemel Hempstead | David Taylor MP | 5068 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3803 |
 | Putney | Fleur Anderson MP | 3513 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2148 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5106 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5107 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7349 |
 | Reading Central | Matt Rodda MP | 3025 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4436 |
@@ -614,7 +614,7 @@
 | Mid Dunbartonshire | Susan Murray MP | 2522 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3931 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2727 |
-| North East Fife | Wendy Chamberlain MP | 2897 |
+| North East Fife | Wendy Chamberlain MP | 2898 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2854 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2641 |
 | Perth and Kinross-shire | Pete Wishart MP | 3499 |
