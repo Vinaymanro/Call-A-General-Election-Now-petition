@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988343                                |
-| Last Updated      | 2025-02-23 01:24:03 UTC                                    |
+| Total Signatures   | 2988351                                |
+| Last Updated      | 2025-02-23 02:51:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -13,7 +13,7 @@
 | Altrincham and Sale West | Mr Connor Rand MP | 5497 |
 | Amber Valley | Linsey Farnsworth MP | 6076 |
 | Arundel and South Downs | Andrew Griffith MP | 6952 |
-| Ashfield | Lee Anderson MP | 6152 |
+| Ashfield | Lee Anderson MP | 6153 |
 | Ashford | Sojan Joseph MP | 5887 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4581 |
 | Aylesbury | Laura Kyrke-Smith MP | 4861 |
@@ -59,13 +59,13 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4400 |
 | Bolton West | Phil Brickell MP | 5573 |
 | Bootle | Peter Dowd MP | 3140 |
-| Boston and Skegness | Richard Tice MP | 7075 |
+| Boston and Skegness | Richard Tice MP | 7076 |
 | Bournemouth East | Tom Hayes MP | 4655 |
 | Bournemouth West | Jessica Toale MP | 4905 |
 | Bracknell | Peter Swallow MP | 4964 |
 | Bradford East | Imran Hussain MP | 2885 |
 | Bradford South | Judith Cummins MP | 4168 |
-| Bradford West | Naz Shah MP | 1807 |
+| Bradford West | Naz Shah MP | 1808 |
 | Braintree | Rt Hon James Cleverly MP | 7427 |
 | Brent East | Dawn Butler MP | 1860 |
 | Brent West | Barry Gardiner MP | 2087 |
@@ -192,7 +192,7 @@
 | Gateshead Central and Whickham | Mark Ferguson MP | 4515 |
 | Gedling | Michael Payne MP | 5048 |
 | Gillingham and Rainham | Naushabah Khan MP | 5042 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5586 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5587 |
 | Gloucester | Alex McIntyre MP | 4529 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5234 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6951 |
@@ -268,7 +268,7 @@
 | Leeds East | Richard Burgon MP | 4298 |
 | Leeds North East | Fabian Hamilton MP | 2627 |
 | Leeds North West | Katie White MP | 4378 |
-| Leeds South | Rt Hon Hilary Benn MP | 3867 |
+| Leeds South | Rt Hon Hilary Benn MP | 3868 |
 | Leeds South West and Morley | Mark Sewards MP | 5488 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3776 |
 | Leicester East | Shivani Raja MP | 1879 |
@@ -280,7 +280,7 @@
 | Lewisham North | Vicky Foxcroft MP | 1651 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1586 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1878 |
-| Lichfield | Dave Robertson MP | 6469 |
+| Lichfield | Dave Robertson MP | 6470 |
 | Lincoln | Mr Hamish Falconer MP | 4640 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3124 |
 | Liverpool Riverside | Kim Johnson MP | 2633 |
@@ -417,7 +417,7 @@
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3531 |
 | Sheffield South East | Mr Clive Betts MP | 4731 |
 | Sherwood Forest | Michelle Welsh MP | 6656 |
-| Shipley | Anna Dixon MP | 4884 |
+| Shipley | Anna Dixon MP | 4885 |
 | Shrewsbury | Julia Buckley MP | 5321 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6856 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6667 |
@@ -498,7 +498,7 @@
 | Tooting | Dr Rosena Allin-Khan MP | 2689 |
 | Torbay | Steve Darling MP | 5813 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6571 |
-| Tottenham | Rt Hon David Lammy MP | 1680 |
+| Tottenham | Rt Hon David Lammy MP | 1681 |
 | Truro and Falmouth | Jayne Kirkham MP | 4597 |
 | Tunbridge Wells | Mike Martin MP | 5452 |
 | Twickenham | Munira Wilson MP | 3650 |
