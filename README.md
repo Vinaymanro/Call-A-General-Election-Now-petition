@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988353                                |
-| Last Updated      | 2025-02-23 03:23:15 UTC                                    |
+| Total Signatures   | 2988354                                |
+| Last Updated      | 2025-02-23 04:19:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -302,7 +302,7 @@
 | Manchester Withington | Jeff Smith MP | 1669 |
 | Mansfield | Steve Yemm MP | 6186 |
 | Melksham and Devizes | Brian Mathew MP | 5006 |
-| Melton and Syston | Rt Hon Edward Argar MP | 6105 |
+| Melton and Syston | Rt Hon Edward Argar MP | 6106 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6059 |
 | Mid Bedfordshire | Blake Stephenson MP | 5841 |
 | Mid Buckinghamshire | Greg Smith MP | 5594 |
