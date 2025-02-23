@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988357                                |
-| Last Updated      | 2025-02-23 05:15:16 UTC                                    |
+| Total Signatures   | 2988358                                |
+| Last Updated      | 2025-02-23 06:22:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -617,7 +617,7 @@
 | North East Fife | Wendy Chamberlain MP | 2899 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2854 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2641 |
-| Perth and Kinross-shire | Pete Wishart MP | 3499 |
+| Perth and Kinross-shire | Pete Wishart MP | 3500 |
 | Rutherglen | Michael Shanks MP | 2568 |
 | Stirling and Strathallan | Chris Kane MP | 3217 |
 | West Dunbartonshire | Douglas McAllister MP | 2722 |
