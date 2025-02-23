@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988363                                |
-| Last Updated      | 2025-02-23 07:14:53 UTC                                    |
+| Total Signatures   | 2988372                                |
+| Last Updated      | 2025-02-23 08:21:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -180,7 +180,7 @@
 | Exmouth and Exeter East | David Reed MP | 5197 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6115 |
 | Farnham and Bordon | Gregory Stafford MP | 5182 |
-| Faversham and Mid Kent | Helen Whately MP | 6217 |
+| Faversham and Mid Kent | Helen Whately MP | 6218 |
 | Feltham and Heston | Seema Malhotra MP | 2918 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4503 |
 | Finchley and Golders Green | Sarah Sackman MP | 4280 |
@@ -284,7 +284,7 @@
 | Lincoln | Mr Hamish Falconer MP | 4640 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3124 |
 | Liverpool Riverside | Kim Johnson MP | 2633 |
-| Liverpool Walton | Dan Carden MP | 3347 |
+| Liverpool Walton | Dan Carden MP | 3348 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
 | Liverpool West Derby | Ian Byrne MP | 3044 |
 | Loughborough | Dr Jeevun Sandher MP | 4473 |
@@ -295,12 +295,12 @@
 | Macclesfield | Tim Roca MP | 5397 |
 | Maidenhead | Mr Joshua Reynolds MP | 5281 |
 | Maidstone and Malling | Helen Grant MP | 5839 |
-| Makerfield | Josh Simons MP | 5862 |
+| Makerfield | Josh Simons MP | 5863 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8108 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3988 |
 | Manchester Rusholme | Afzal Khan MP | 1215 |
 | Manchester Withington | Jeff Smith MP | 1669 |
-| Mansfield | Steve Yemm MP | 6186 |
+| Mansfield | Steve Yemm MP | 6187 |
 | Melksham and Devizes | Brian Mathew MP | 5006 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6106 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6059 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5074 |
 | Sefton Central | Bill Esterson MP | 4012 |
 | Selby | Keir Mather MP | 6361 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6657 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6658 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3415 |
 | Sheffield Central | Abtisam Mohamed MP | 1425 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6164 |
 | South Devon | Caroline Voaden MP | 5317 |
 | South Dorset | Lloyd Hatton MP | 5647 |
-| South East Cornwall | Anna Gelderd MP | 6227 |
+| South East Cornwall | Anna Gelderd MP | 6228 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7124 |
 | South Leicestershire | Alberto Costa MP | 6978 |
 | South Norfolk | Ben Goldsborough MP | 5438 |
@@ -449,7 +449,7 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5571 |
 | Southend West and Leigh | David Burton-Sampson MP | 5869 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2585 |
-| Southport | Patrick Hurley MP | 5940 |
+| Southport | Patrick Hurley MP | 5941 |
 | Spelthorne | Lincoln Jopp MP | 5456 |
 | Spen Valley | Kim Leadbeater MP | 5370 |
 | St Albans | Daisy Cooper MP | 3876 |
@@ -475,7 +475,7 @@
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1861 |
 | Stretford and Urmston | Andrew Western MP | 3812 |
 | Stroud | Dr Simon Opher MP | 4530 |
-| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5393 |
+| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5394 |
 | Sunderland Central | Lewis Atkinson MP | 5227 |
 | Surrey Heath | Dr Al Pinkerton MP | 5420 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6103 |
@@ -651,7 +651,7 @@
 | Neath and Swansea East | Carolyn Harris MP | 4424 |
 | Newport East | Jessica Morden MP | 3999 |
 | Newport West and Islwyn | Ruth Jones MP | 4041 |
-| Pontypridd | Alex Davies-Jones MP | 3897 |
+| Pontypridd | Alex Davies-Jones MP | 3898 |
 | Rhondda and Ogmore | Chris Bryant MP | 4021 |
 | Swansea West | Torsten Bell MP | 3643 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
