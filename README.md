@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988354                                |
-| Last Updated      | 2025-02-23 04:19:53 UTC                                    |
+| Total Signatures   | 2988357                                |
+| Last Updated      | 2025-02-23 05:15:16 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1577 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3475 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1895 |
-| Birmingham Northfield | Laurence Turner MP | 4885 |
+| Birmingham Northfield | Laurence Turner MP | 4886 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1717 |
 | Birmingham Selly Oak | Al Carns MP | 3288 |
 | Birmingham Yardley | Jess Phillips MP | 3074 |
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5377 |
 | Dulwich and West Norwood | Helen Hayes MP | 1558 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5511 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3086 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3087 |
 | Ealing North | James Murray MP | 2578 |
 | Ealing Southall | Deirdre Costigan MP | 1953 |
 | Earley and Woodley | Yuan Yang MP | 3951 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3738 |
 | Waveney Valley | Adrian Ramsay MP | 5847 |
 | Weald of Kent | Katie Lam MP | 7222 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5079 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5080 |
 | Wells and Mendip Hills | Tessa Munt MP | 5246 |
 | Welwyn Hatfield | Andrew Lewin MP | 5051 |
 | West Bromwich | Sarah Coombes MP | 3779 |
