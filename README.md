@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988351                                |
-| Last Updated      | 2025-02-23 02:51:47 UTC                                    |
+| Total Signatures   | 2988353                                |
+| Last Updated      | 2025-02-23 03:23:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -320,7 +320,7 @@
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5760 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5414 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5246 |
-| Newark | Rt Hon Robert Jenrick MP | 7151 |
+| Newark | Rt Hon Robert Jenrick MP | 7152 |
 | Newbury | Mr Lee Dillon MP | 4885 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4492 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4742 |
@@ -498,7 +498,7 @@
 | Tooting | Dr Rosena Allin-Khan MP | 2689 |
 | Torbay | Steve Darling MP | 5813 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6571 |
-| Tottenham | Rt Hon David Lammy MP | 1681 |
+| Tottenham | Rt Hon David Lammy MP | 1682 |
 | Truro and Falmouth | Jayne Kirkham MP | 4597 |
 | Tunbridge Wells | Mike Martin MP | 5452 |
 | Twickenham | Munira Wilson MP | 3650 |
