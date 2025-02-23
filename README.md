@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988358                                |
-| Last Updated      | 2025-02-23 06:22:19 UTC                                    |
+| Total Signatures   | 2988363                                |
+| Last Updated      | 2025-02-23 07:14:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -16,7 +16,7 @@
 | Ashfield | Lee Anderson MP | 6153 |
 | Ashford | Sojan Joseph MP | 5887 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4581 |
-| Aylesbury | Laura Kyrke-Smith MP | 4861 |
+| Aylesbury | Laura Kyrke-Smith MP | 4862 |
 | Banbury | Sean Woodcock MP | 5442 |
 | Barking | Nesil Caliskan MP | 2628 |
 | Barnsley North | Dan Jarvis MP | 5668 |
@@ -71,7 +71,7 @@
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2986 |
 | Brentwood and Ongar | Alex Burghart MP | 8131 |
-| Bridgwater | Sir Ashley Fox MP | 5744 |
+| Bridgwater | Sir Ashley Fox MP | 5745 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6614 |
 | Brigg and Immingham | Martin Vickers MP | 6457 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3926 |
@@ -101,7 +101,7 @@
 | Carshalton and Wallington | Bobby Dean MP | 4263 |
 | Castle Point | Rebecca Harris MP | 7518 |
 | Central Devon | Rt Hon Mel Stride MP | 5796 |
-| Central Suffolk and North Ipswich | Patrick Spencer MP | 5295 |
+| Central Suffolk and North Ipswich | Patrick Spencer MP | 5296 |
 | Chatham and Aylesford | Tristan Osborne MP | 5621 |
 | Cheadle | Tom Morrison MP | 4658 |
 | Chelmsford | Marie Goldman MP | 5264 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4150 |
 | Plymouth Moor View | Fred Thomas MP | 5671 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4737 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5432 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5433 |
 | Poole | Neil Duncan-Jordan MP | 5663 |
 | Poplar and Limehouse | Apsana Begum MP | 2920 |
 | Portsmouth North | Amanda Martin MP | 5608 |
@@ -450,7 +450,7 @@
 | Southend West and Leigh | David Burton-Sampson MP | 5869 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2585 |
 | Southport | Patrick Hurley MP | 5940 |
-| Spelthorne | Lincoln Jopp MP | 5455 |
+| Spelthorne | Lincoln Jopp MP | 5456 |
 | Spen Valley | Kim Leadbeater MP | 5370 |
 | St Albans | Daisy Cooper MP | 3876 |
 | St Austell and Newquay | Noah Law MP | 5598 |
