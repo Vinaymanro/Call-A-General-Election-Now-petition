@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988624                                |
-| Last Updated      | 2025-02-24 01:21:00 UTC                                    |
+| Total Signatures   | 2988629                                |
+| Last Updated      | 2025-02-24 02:52:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -70,7 +70,7 @@
 | Brent East | Dawn Butler MP | 1860 |
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2987 |
-| Brentwood and Ongar | Alex Burghart MP | 8131 |
+| Brentwood and Ongar | Alex Burghart MP | 8132 |
 | Bridgwater | Sir Ashley Fox MP | 5745 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6615 |
 | Brigg and Immingham | Martin Vickers MP | 6457 |
@@ -156,7 +156,7 @@
 | Ealing North | James Murray MP | 2578 |
 | Ealing Southall | Deirdre Costigan MP | 1953 |
 | Earley and Woodley | Yuan Yang MP | 3951 |
-| Easington | Grahame Morris MP | 5725 |
+| Easington | Grahame Morris MP | 5726 |
 | East Grinstead and Uckfield | Mims Davies MP | 6026 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1100 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5329 |
@@ -236,7 +236,7 @@
 | Hinckley and Bosworth | Dr Luke Evans MP | 6478 |
 | Hitchin | Alistair Strathern MP | 4914 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2277 |
-| Honiton and Sidmouth | Richard Foord MP | 5246 |
+| Honiton and Sidmouth | Richard Foord MP | 5247 |
 | Hornchurch and Upminster | Julia Lopez MP | 6605 |
 | Hornsey and Friern Barnet | Catherine West MP | 1935 |
 | Horsham | John Milne MP | 5823 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5852 |
 | North Dorset | Simon Hoare MP | 6311 |
 | North Durham | Luke Akehurst MP | 5380 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6062 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6063 |
 | North East Derbyshire | Louise Jones MP | 5792 |
 | North East Hampshire | Alex Brewer MP | 5953 |
 | North East Hertfordshire | Chris Hinchliff MP | 5839 |
@@ -416,7 +416,7 @@
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3531 |
 | Sheffield South East | Mr Clive Betts MP | 4732 |
-| Sherwood Forest | Michelle Welsh MP | 6656 |
+| Sherwood Forest | Michelle Welsh MP | 6657 |
 | Shipley | Anna Dixon MP | 4885 |
 | Shrewsbury | Julia Buckley MP | 5321 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6857 |
