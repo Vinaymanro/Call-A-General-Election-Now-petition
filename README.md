@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988751                                |
-| Last Updated      | 2025-02-24 16:23:04 UTC                                    |
+| Total Signatures   | 2988757                                |
+| Last Updated      | 2025-02-24 17:14:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -66,7 +66,7 @@
 | Bradford East | Imran Hussain MP | 2885 |
 | Bradford South | Judith Cummins MP | 4168 |
 | Bradford West | Naz Shah MP | 1808 |
-| Braintree | Rt Hon James Cleverly MP | 7428 |
+| Braintree | Rt Hon James Cleverly MP | 7429 |
 | Brent East | Dawn Butler MP | 1860 |
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2987 |
@@ -223,7 +223,7 @@
 | Havant | Alan Mak MP | 5649 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2592 |
 | Hazel Grove | Lisa Smart MP | 5094 |
-| Hemel Hempstead | David Taylor MP | 5070 |
+| Hemel Hempstead | David Taylor MP | 5071 |
 | Hendon | David Pinto-Duschinsky MP | 3796 |
 | Henley and Thame | Freddie van Mierlo MP | 5400 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5271 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6872 |
 | North Somerset | Sadik Al-Hassan MP | 4580 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6260 |
-| North West Cambridgeshire | Sam Carling MP | 6007 |
+| North West Cambridgeshire | Sam Carling MP | 6008 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7130 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
 | North West Leicestershire | Amanda Hack MP | 6692 |
@@ -477,7 +477,7 @@
 | Stroud | Dr Simon Opher MP | 4530 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5394 |
 | Sunderland Central | Lewis Atkinson MP | 5229 |
-| Surrey Heath | Dr Al Pinkerton MP | 5420 |
+| Surrey Heath | Dr Al Pinkerton MP | 5421 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6103 |
 | Sutton and Cheam | Luke Taylor MP | 4388 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5670 |
@@ -548,7 +548,7 @@
 | Wycombe | Emma Reynolds MP | 3607 |
 | Wyre Forest | Mark Garnier MP | 6477 |
 | Wythenshawe and Sale East | Mike Kane MP | 4594 |
-| Yeovil | Adam Dance MP | 5593 |
+| Yeovil | Adam Dance MP | 5595 |
 | York Central | Rachael Maskell MP | 3274 |
 | York Outer | Mr Luke Charters MP | 4343 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2955 |
