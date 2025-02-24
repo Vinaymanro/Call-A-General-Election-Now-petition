@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988634                                |
-| Last Updated      | 2025-02-24 05:17:00 UTC                                    |
+| Total Signatures   | 2988635                                |
+| Last Updated      | 2025-02-24 06:26:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -218,7 +218,7 @@
 | Harrow East | Bob Blackman MP | 3128 |
 | Harrow West | Gareth Thomas MP | 2402 |
 | Hartlepool | Mr Jonathan Brash MP | 5640 |
-| Harwich and North Essex | Sir Bernard Jenkin MP | 6269 |
+| Harwich and North Essex | Sir Bernard Jenkin MP | 6270 |
 | Hastings and Rye | Helena Dollimore MP | 5065 |
 | Havant | Alan Mak MP | 5649 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2592 |
