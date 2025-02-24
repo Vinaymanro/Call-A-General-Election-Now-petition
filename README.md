@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988629                                |
-| Last Updated      | 2025-02-24 03:25:03 UTC                                    |
+| Total Signatures   | 2988632                                |
+| Last Updated      | 2025-02-24 04:20:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6148 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6120 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6121 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5044 |
 | Bicester and Woodstock | Calum Miller MP | 4674 |
 | Birkenhead | Alison McGovern MP | 4311 |
@@ -427,7 +427,7 @@
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5436 |
 | South Basildon and East Thurrock | James McMurdock MP | 6600 |
 | South Cambridgeshire | Pippa Heylings MP | 4444 |
-| South Cotswolds | Dr Roz Savage MP | 5714 |
+| South Cotswolds | Dr Roz Savage MP | 5715 |
 | South Derbyshire | Samantha Niblett MP | 6164 |
 | South Devon | Caroline Voaden MP | 5318 |
 | South Dorset | Lloyd Hatton MP | 5647 |
@@ -499,7 +499,7 @@
 | Torbay | Steve Darling MP | 5813 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6572 |
 | Tottenham | Rt Hon David Lammy MP | 1682 |
-| Truro and Falmouth | Jayne Kirkham MP | 4598 |
+| Truro and Falmouth | Jayne Kirkham MP | 4599 |
 | Tunbridge Wells | Mike Martin MP | 5452 |
 | Twickenham | Munira Wilson MP | 3650 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4483 |
