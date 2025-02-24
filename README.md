@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988675                                |
-| Last Updated      | 2025-02-24 10:19:15 UTC                                    |
+| Total Signatures   | 2988681                                |
+| Last Updated      | 2025-02-24 11:14:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4674 |
 | Birkenhead | Alison McGovern MP | 4311 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2945 |
-| Birmingham Erdington | Paulette Hamilton MP | 4227 |
+| Birmingham Erdington | Paulette Hamilton MP | 4228 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1577 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3475 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1895 |
@@ -348,12 +348,12 @@
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6259 |
 | North West Cambridgeshire | Sam Carling MP | 6007 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7129 |
-| North West Hampshire | Rt Hon Kit Malthouse MP | 5726 |
+| North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
 | North West Leicestershire | Amanda Hack MP | 6692 |
 | North West Norfolk | James Wild MP | 5748 |
 | Northampton North | Lucy Rigby KC MP | 4268 |
 | Northampton South | Mike Reader MP | 4958 |
-| Norwich North | Alice Macdonald MP | 4390 |
+| Norwich North | Alice Macdonald MP | 4391 |
 | Norwich South | Clive Lewis MP | 3381 |
 | Nottingham East | Nadia Whittome MP | 2472 |
 | Nottingham North and Kimberley | Alex Norris MP | 3722 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6190 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5438 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6180 |
-| Peterborough | Andrew Pakes MP | 4150 |
+| Peterborough | Andrew Pakes MP | 4151 |
 | Plymouth Moor View | Fred Thomas MP | 5672 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4738 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5435 |
@@ -476,7 +476,7 @@
 | Stretford and Urmston | Andrew Western MP | 3813 |
 | Stroud | Dr Simon Opher MP | 4530 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5394 |
-| Sunderland Central | Lewis Atkinson MP | 5228 |
+| Sunderland Central | Lewis Atkinson MP | 5229 |
 | Surrey Heath | Dr Al Pinkerton MP | 5420 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6103 |
 | Sutton and Cheam | Luke Taylor MP | 4388 |
@@ -571,7 +571,7 @@
 | West Tyrone | Órfhlaith Begley MP | 1664 |
 | East Renfrewshire | Blair McDougall MP | 2587 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
-| Midlothian | Kirsty McNeill MP | 2791 |
+| Midlothian | Kirsty McNeill MP | 2792 |
 | North Ayrshire and Arran | Irene Campbell MP | 3289 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1438 |
 | Aberdeen North | Kirsty Blackman MP | 3544 |
