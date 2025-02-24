@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988632                                |
-| Last Updated      | 2025-02-24 04:20:41 UTC                                    |
+| Total Signatures   | 2988634                                |
+| Last Updated      | 2025-02-24 05:17:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6148 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6121 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6122 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5044 |
 | Bicester and Woodstock | Calum Miller MP | 4674 |
 | Birkenhead | Alison McGovern MP | 4311 |
@@ -49,7 +49,7 @@
 | Bishop Auckland | Sam Rushworth MP | 6161 |
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3761 |
-| Blackpool North and Fleetwood | Lorraine Beavers MP | 6143 |
+| Blackpool North and Fleetwood | Lorraine Beavers MP | 6144 |
 | Blackpool South | Chris Webb MP | 5798 |
 | Blaydon and Consett | Liz Twist MP | 5240 |
 | Blyth and Ashington | Ian Lavery MP | 5845 |
