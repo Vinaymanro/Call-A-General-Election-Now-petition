@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988654                                |
-| Last Updated      | 2025-02-24 08:23:10 UTC                                    |
+| Total Signatures   | 2988661                                |
+| Last Updated      | 2025-02-24 09:19:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -97,7 +97,7 @@
 | Cambridge | Daniel Zeichner MP | 2210 |
 | Cannock Chase | Josh Newbury MP | 6870 |
 | Canterbury | Rosie Duffield MP | 4467 |
-| Carlisle | Ms Julie Minns MP | 6521 |
+| Carlisle | Ms Julie Minns MP | 6522 |
 | Carshalton and Wallington | Bobby Dean MP | 4264 |
 | Castle Point | Rebecca Harris MP | 7518 |
 | Central Devon | Rt Hon Mel Stride MP | 5796 |
@@ -108,7 +108,7 @@
 | Chelsea and Fulham | Ben Coleman MP | 5484 |
 | Cheltenham | Max Wilkinson MP | 4026 |
 | Chesham and Amersham | Sarah Green MP | 4938 |
-| Chester North and Neston | Samantha Dixon MP | 4048 |
+| Chester North and Neston | Samantha Dixon MP | 4049 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6385 |
 | Chesterfield | Mr Toby Perkins MP | 4871 |
 | Chichester | Jess Brown-Fuller MP | 5916 |
@@ -142,7 +142,7 @@
 | Derby South | Baggy Shanker MP | 3601 |
 | Derbyshire Dales | John Whitby MP | 6770 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3172 |
-| Didcot and Wantage | Olly Glover MP | 4877 |
+| Didcot and Wantage | Olly Glover MP | 4878 |
 | Doncaster Central | Sally Jameson MP | 4932 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6068 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5558 |
@@ -417,7 +417,7 @@
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3531 |
 | Sheffield South East | Mr Clive Betts MP | 4732 |
 | Sherwood Forest | Michelle Welsh MP | 6657 |
-| Shipley | Anna Dixon MP | 4885 |
+| Shipley | Anna Dixon MP | 4886 |
 | Shrewsbury | Julia Buckley MP | 5321 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6857 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6667 |
@@ -456,7 +456,7 @@
 | St Austell and Newquay | Noah Law MP | 5598 |
 | St Helens North | David Baines MP | 4689 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4145 |
-| St Ives | Andrew George MP | 5079 |
+| St Ives | Andrew George MP | 5080 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4796 |
 | Stafford | Leigh Ingham MP | 5603 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6412 |
@@ -510,7 +510,7 @@
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 3999 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
 | Warrington North | Charlotte Nichols MP | 5145 |
-| Warrington South | Sarah Hall MP | 5556 |
+| Warrington South | Sarah Hall MP | 5557 |
 | Warwick and Leamington | Matt Western MP | 4468 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5307 |
 | Watford | Matt Turmaine MP | 3738 |
@@ -636,7 +636,7 @@
 | Caerphilly | Chris Evans MP | 3977 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2888 |
 | Cardiff North | Anna McMorrin MP | 3289 |
-| Cardiff South and Penarth | Stephen Doughty MP | 2794 |
+| Cardiff South and Penarth | Stephen Doughty MP | 2795 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3139 |
 | Ceredigion Preseli | Ben Lake MP | 4734 |
 | Clwyd East | Becky Gittins MP | 6026 |
