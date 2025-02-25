@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988899                                |
-| Last Updated      | 2025-02-25 09:18:44 UTC                                    |
+| Total Signatures   | 2988909                                |
+| Last Updated      | 2025-02-25 10:18:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -17,7 +17,7 @@
 | Ashford | Sojan Joseph MP | 5887 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4581 |
 | Aylesbury | Laura Kyrke-Smith MP | 4862 |
-| Banbury | Sean Woodcock MP | 5442 |
+| Banbury | Sean Woodcock MP | 5443 |
 | Barking | Nesil Caliskan MP | 2629 |
 | Barnsley North | Dan Jarvis MP | 5671 |
 | Barnsley South | Stephanie Peacock MP | 5765 |
@@ -227,11 +227,11 @@
 | Hendon | David Pinto-Duschinsky MP | 3796 |
 | Henley and Thame | Freddie van Mierlo MP | 5400 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5271 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6292 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6293 |
 | Hertford and Stortford | Josh Dean MP | 5971 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5742 |
 | Hexham | Joe Morris MP | 6405 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5251 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5252 |
 | High Peak | Jon Pearce MP | 5446 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6479 |
 | Hitchin | Alistair Strathern MP | 4915 |
@@ -281,7 +281,7 @@
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1586 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1878 |
 | Lichfield | Dave Robertson MP | 6470 |
-| Lincoln | Mr Hamish Falconer MP | 4641 |
+| Lincoln | Mr Hamish Falconer MP | 4642 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3124 |
 | Liverpool Riverside | Kim Johnson MP | 2633 |
 | Liverpool Walton | Dan Carden MP | 3348 |
@@ -325,7 +325,7 @@
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4492 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4742 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3948 |
-| Newcastle-under-Lyme | Adam Jogee MP | 5061 |
+| Newcastle-under-Lyme | Adam Jogee MP | 5062 |
 | Newton Abbot | Martin Wrigley MP | 5105 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5526 |
 | Normanton and Hemsworth | Jon Trickett MP | 5485 |
@@ -382,7 +382,7 @@
 | Putney | Fleur Anderson MP | 3515 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2149 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5109 |
-| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7351 |
+| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7352 |
 | Reading Central | Matt Rodda MP | 3025 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4437 |
 | Redcar | Anna Turley MP | 5442 |
@@ -487,7 +487,7 @@
 | Tatton | Rt Hon Esther McVey MP | 6494 |
 | Taunton and Wellington | Gideon Amos MP | 5164 |
 | Telford | Shaun Davies MP | 5578 |
-| Tewkesbury | Cameron Thomas MP | 5008 |
+| Tewkesbury | Cameron Thomas MP | 5009 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6393 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7423 |
 | Thornbury and Yate | Claire Young MP | 5685 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4594 |
 | Yeovil | Adam Dance MP | 5595 |
 | York Central | Rachael Maskell MP | 3274 |
-| York Outer | Mr Luke Charters MP | 4343 |
+| York Outer | Mr Luke Charters MP | 4344 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2955 |
 | Belfast North | John Finucane MP | 2485 |
 | Belfast South and Mid Down | Claire Hanna MP | 1938 |
@@ -622,7 +622,7 @@
 | Stirling and Strathallan | Chris Kane MP | 3217 |
 | West Dunbartonshire | Douglas McAllister MP | 2722 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3546 |
-| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4016 |
+| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4017 |
 | Central Ayrshire | Alan Gemmell MP | 3129 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3247 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4550 |
@@ -657,4 +657,4 @@
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4611 |
 | Wrexham | Andrew Ranger MP | 4791 |
-| Ynys Môn | Llinos Medi MP | 3729 |
+| Ynys Môn | Llinos Medi MP | 3730 |
