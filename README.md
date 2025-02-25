@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988854                                |
-| Last Updated      | 2025-02-24 23:16:28 UTC                                    |
+| Total Signatures   | 2988868                                |
+| Last Updated      | 2025-02-25 01:20:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -22,13 +22,13 @@
 | Barnsley North | Dan Jarvis MP | 5671 |
 | Barnsley South | Stephanie Peacock MP | 5765 |
 | Barrow and Furness | Michelle Scrogham MP | 5309 |
-| Basildon and Billericay | Rt Hon Richard Holden MP | 6883 |
+| Basildon and Billericay | Rt Hon Richard Holden MP | 6884 |
 | Basingstoke | Luke Murphy MP | 4811 |
 | Bassetlaw | Jo White MP | 6740 |
 | Bath | Wera Hobhouse MP | 2978 |
 | Battersea | Marsha De Cordova MP | 3610 |
 | Beaconsfield | Joy Morrissey MP | 5210 |
-| Beckenham and Penge | Liam Conlon MP | 3837 |
+| Beckenham and Penge | Liam Conlon MP | 3838 |
 | Bedford | Mohammad Yasin MP | 3219 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
@@ -95,7 +95,7 @@
 | Calder Valley | Josh Fenton-Glynn MP | 5643 |
 | Camborne and Redruth | Perran Moon MP | 4959 |
 | Cambridge | Daniel Zeichner MP | 2210 |
-| Cannock Chase | Josh Newbury MP | 6872 |
+| Cannock Chase | Josh Newbury MP | 6873 |
 | Canterbury | Rosie Duffield MP | 4468 |
 | Carlisle | Ms Julie Minns MP | 6522 |
 | Carshalton and Wallington | Bobby Dean MP | 4264 |
@@ -108,7 +108,7 @@
 | Chelsea and Fulham | Ben Coleman MP | 5484 |
 | Cheltenham | Max Wilkinson MP | 4026 |
 | Chesham and Amersham | Sarah Green MP | 4938 |
-| Chester North and Neston | Samantha Dixon MP | 4049 |
+| Chester North and Neston | Samantha Dixon MP | 4050 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6385 |
 | Chesterfield | Mr Toby Perkins MP | 4872 |
 | Chichester | Jess Brown-Fuller MP | 5916 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6321 |
 | Gravesham | Dr Lauren Sullivan MP | 5137 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5787 |
-| Great Yarmouth | Rupert Lowe MP | 6578 |
+| Great Yarmouth | Rupert Lowe MP | 6579 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2620 |
 | Guildford | Zöe Franklin MP | 3995 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
@@ -303,7 +303,7 @@
 | Mansfield | Steve Yemm MP | 6187 |
 | Melksham and Devizes | Brian Mathew MP | 5006 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6106 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6063 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6064 |
 | Mid Bedfordshire | Blake Stephenson MP | 5841 |
 | Mid Buckinghamshire | Greg Smith MP | 5595 |
 | Mid Cheshire | Andrew Cooper MP | 5162 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5442 |
 | Redditch | Chris Bloore MP | 6067 |
 | Reigate | Rebecca Paul MP | 5547 |
-| Ribble Valley | Maya Ellis MP | 6700 |
+| Ribble Valley | Maya Ellis MP | 6701 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
 | Richmond Park | Sarah Olney MP | 4056 |
 | Rochdale | Paul Waugh MP | 3944 |
@@ -420,7 +420,7 @@
 | Shipley | Anna Dixon MP | 4886 |
 | Shrewsbury | Julia Buckley MP | 5321 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6859 |
-| Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6667 |
+| Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6668 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6285 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2580 |
 | Smethwick | Gurinder Singh Josan MP | 3053 |
@@ -467,9 +467,9 @@
 | Stockton West | Matt Vickers MP | 5984 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4721 |
 | Stoke-on-Trent North | David Williams MP | 5447 |
-| Stoke-on-Trent South | Dr Allison Gardner MP | 5718 |
+| Stoke-on-Trent South | Dr Allison Gardner MP | 5719 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6528 |
-| Stourbridge | Cat Eccles MP | 5151 |
+| Stourbridge | Cat Eccles MP | 5152 |
 | Stratford and Bow | Uma Kumaran MP | 1763 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6705 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1861 |
@@ -533,7 +533,7 @@
 | Wigan | Rt Hon Lisa Nandy MP | 5941 |
 | Wimbledon | Mr Paul Kohler MP | 3408 |
 | Winchester | Dr Danny Chambers MP | 4915 |
-| Windsor | Jack Rankin MP | 5106 |
+| Windsor | Jack Rankin MP | 5107 |
 | Wirral West | Matthew Patrick MP | 4204 |
 | Witham | Rt Hon Priti Patel MP | 7006 |
 | Witney | Charlie Maynard MP | 5161 |
@@ -591,7 +591,7 @@
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3853 |
 | Dundee Central | Chris Law MP | 2540 |
 | Dunfermline and Dollar | Graeme Downie MP | 2926 |
-| East Kilbride and Strathaven | Joani Reid MP | 3146 |
+| East Kilbride and Strathaven | Joani Reid MP | 3147 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2078 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2405 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
@@ -603,7 +603,7 @@
 | Glasgow North East | Maureen Burke MP | 2468 |
 | Glasgow South | Gordon McKee MP | 1844 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2256 |
-| Glasgow West | Patricia Ferguson MP | 2209 |
+| Glasgow West | Patricia Ferguson MP | 2210 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2963 |
 | Gordon and Buchan | Harriet Cross MP | 4384 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3133 |
@@ -636,7 +636,7 @@
 | Caerphilly | Chris Evans MP | 3977 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2888 |
 | Cardiff North | Anna McMorrin MP | 3290 |
-| Cardiff South and Penarth | Stephen Doughty MP | 2795 |
+| Cardiff South and Penarth | Stephen Doughty MP | 2796 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3139 |
 | Ceredigion Preseli | Ben Lake MP | 4734 |
 | Clwyd East | Becky Gittins MP | 6027 |
