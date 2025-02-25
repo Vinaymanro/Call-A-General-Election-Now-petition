@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988884                                |
-| Last Updated      | 2025-02-25 07:17:00 UTC                                    |
+| Total Signatures   | 2988891                                |
+| Last Updated      | 2025-02-25 08:22:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -102,7 +102,7 @@
 | Castle Point | Rebecca Harris MP | 7518 |
 | Central Devon | Rt Hon Mel Stride MP | 5796 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5297 |
-| Chatham and Aylesford | Tristan Osborne MP | 5621 |
+| Chatham and Aylesford | Tristan Osborne MP | 5622 |
 | Cheadle | Tom Morrison MP | 4659 |
 | Chelmsford | Marie Goldman MP | 5264 |
 | Chelsea and Fulham | Ben Coleman MP | 5484 |
@@ -140,7 +140,7 @@
 | Daventry | Rt Hon Stuart Andrew MP | 7275 |
 | Derby North | Catherine Atkinson MP | 4316 |
 | Derby South | Baggy Shanker MP | 3601 |
-| Derbyshire Dales | John Whitby MP | 6771 |
+| Derbyshire Dales | John Whitby MP | 6772 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3172 |
 | Didcot and Wantage | Olly Glover MP | 4878 |
 | Doncaster Central | Sally Jameson MP | 4932 |
@@ -167,7 +167,7 @@
 | Eastbourne | Josh Babarinde MP | 5034 |
 | Eastleigh | Liz Jarvis MP | 4326 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2220 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4434 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4435 |
 | Eltham and Chislehurst | Clive Efford MP | 4698 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5167 |
 | Enfield North | Feryal Clark MP | 2884 |
@@ -391,7 +391,7 @@
 | Ribble Valley | Maya Ellis MP | 6701 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
 | Richmond Park | Sarah Olney MP | 4056 |
-| Rochdale | Paul Waugh MP | 3944 |
+| Rochdale | Paul Waugh MP | 3945 |
 | Rochester and Strood | Lauren Edwards MP | 6016 |
 | Romford | Andrew Rosindell MP | 5784 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5065 |
@@ -406,7 +406,7 @@
 | Rutland and Stamford | Alicia Kearns MP | 6255 |
 | Salford | Rebecca Long Bailey MP | 4656 |
 | Salisbury | Rt Hon John Glen MP | 4742 |
-| Scarborough and Whitby | Alison Hume MP | 5991 |
+| Scarborough and Whitby | Alison Hume MP | 5992 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5074 |
 | Sefton Central | Bill Esterson MP | 4012 |
 | Selby | Keir Mather MP | 6361 |
@@ -485,7 +485,7 @@
 | Swindon South | Rt Hon Heidi Alexander MP | 4201 |
 | Tamworth | Sarah Edwards MP | 6934 |
 | Tatton | Rt Hon Esther McVey MP | 6494 |
-| Taunton and Wellington | Gideon Amos MP | 5163 |
+| Taunton and Wellington | Gideon Amos MP | 5164 |
 | Telford | Shaun Davies MP | 5578 |
 | Tewkesbury | Cameron Thomas MP | 5008 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6393 |
@@ -604,7 +604,7 @@
 | Glasgow South | Gordon McKee MP | 1844 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2256 |
 | Glasgow West | Patricia Ferguson MP | 2210 |
-| Glenrothes and Mid Fife | Richard Baker MP | 2963 |
+| Glenrothes and Mid Fife | Richard Baker MP | 2964 |
 | Gordon and Buchan | Harriet Cross MP | 4384 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3133 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2744 |
