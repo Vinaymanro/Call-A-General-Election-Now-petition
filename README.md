@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989070                                |
-| Last Updated      | 2025-02-25 21:16:17 UTC                                    |
+| Total Signatures   | 2989076                                |
+| Last Updated      | 2025-02-25 22:16:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -83,7 +83,7 @@
 | Bristol South | Karin Smyth MP | 3960 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5827 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5235 |
-| Bromsgrove | Bradley Thomas MP | 6470 |
+| Bromsgrove | Bradley Thomas MP | 6471 |
 | Broxbourne | Lewis Cocking MP | 6069 |
 | Broxtowe | Juliet Campbell MP | 4705 |
 | Buckingham and Bletchley | Callum Anderson MP | 5252 |
@@ -203,7 +203,7 @@
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5787 |
 | Great Yarmouth | Rupert Lowe MP | 6579 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2621 |
-| Guildford | Zöe Franklin MP | 3995 |
+| Guildford | Zöe Franklin MP | 3996 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1517 |
 | Halesowen | Alex Ballinger MP | 4987 |
@@ -224,7 +224,7 @@
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2592 |
 | Hazel Grove | Lisa Smart MP | 5095 |
 | Hemel Hempstead | David Taylor MP | 5071 |
-| Hendon | David Pinto-Duschinsky MP | 3796 |
+| Hendon | David Pinto-Duschinsky MP | 3797 |
 | Henley and Thame | Freddie van Mierlo MP | 5400 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5271 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6294 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2633 |
 | Liverpool Walton | Dan Carden MP | 3350 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
-| Liverpool West Derby | Ian Byrne MP | 3044 |
+| Liverpool West Derby | Ian Byrne MP | 3045 |
 | Loughborough | Dr Jeevun Sandher MP | 4474 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7789 |
 | Lowestoft | Jess Asato MP | 5327 |
@@ -390,7 +390,7 @@
 | Reigate | Rebecca Paul MP | 5547 |
 | Ribble Valley | Maya Ellis MP | 6701 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
-| Richmond Park | Sarah Olney MP | 4056 |
+| Richmond Park | Sarah Olney MP | 4057 |
 | Rochdale | Paul Waugh MP | 3946 |
 | Rochester and Strood | Lauren Edwards MP | 6016 |
 | Romford | Andrew Rosindell MP | 5784 |
@@ -648,7 +648,7 @@
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5475 |
 | Monmouthshire | Catherine Fookes MP | 4732 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6038 |
-| Neath and Swansea East | Carolyn Harris MP | 4427 |
+| Neath and Swansea East | Carolyn Harris MP | 4428 |
 | Newport East | Jessica Morden MP | 4000 |
 | Newport West and Islwyn | Ruth Jones MP | 4043 |
 | Pontypridd | Alex Davies-Jones MP | 3900 |
