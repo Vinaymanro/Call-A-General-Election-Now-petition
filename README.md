@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988938                                |
-| Last Updated      | 2025-02-25 12:35:13 UTC                                    |
+| Total Signatures   | 2988947                                |
+| Last Updated      | 2025-02-25 13:24:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -107,13 +107,13 @@
 | Chelmsford | Marie Goldman MP | 5264 |
 | Chelsea and Fulham | Ben Coleman MP | 5484 |
 | Cheltenham | Max Wilkinson MP | 4026 |
-| Chesham and Amersham | Sarah Green MP | 4938 |
+| Chesham and Amersham | Sarah Green MP | 4939 |
 | Chester North and Neston | Samantha Dixon MP | 4050 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6385 |
 | Chesterfield | Mr Toby Perkins MP | 4872 |
 | Chichester | Jess Brown-Fuller MP | 5916 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
-| Chippenham | Sarah Gibson MP | 4729 |
+| Chippenham | Sarah Gibson MP | 4730 |
 | Chipping Barnet | Dan Tomlinson MP | 4333 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5493 |
 | Christchurch | Sir Christopher Chope MP | 5847 |
@@ -171,7 +171,7 @@
 | Eltham and Chislehurst | Clive Efford MP | 4698 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5168 |
 | Enfield North | Feryal Clark MP | 2884 |
-| Epping Forest | Dr Neil Hudson MP | 6569 |
+| Epping Forest | Dr Neil Hudson MP | 6570 |
 | Epsom and Ewell | Helen Maguire MP | 4922 |
 | Erewash | Adam Thompson MP | 5818 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
@@ -267,7 +267,7 @@
 | Leeds Central and Headingley | Alex Sobel MP | 1927 |
 | Leeds East | Richard Burgon MP | 4299 |
 | Leeds North East | Fabian Hamilton MP | 2628 |
-| Leeds North West | Katie White MP | 4379 |
+| Leeds North West | Katie White MP | 4380 |
 | Leeds South | Rt Hon Hilary Benn MP | 3868 |
 | Leeds South West and Morley | Mark Sewards MP | 5488 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3777 |
@@ -288,7 +288,7 @@
 | Liverpool Wavertree | Paula Barker MP | 2219 |
 | Liverpool West Derby | Ian Byrne MP | 3044 |
 | Loughborough | Dr Jeevun Sandher MP | 4474 |
-| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7788 |
+| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7789 |
 | Lowestoft | Jess Asato MP | 5327 |
 | Luton North | Sarah Owen MP | 2468 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2940 |
@@ -330,7 +330,7 @@
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5526 |
 | Normanton and Hemsworth | Jon Trickett MP | 5486 |
 | North Bedfordshire | Richard Fuller MP | 6099 |
-| North Cornwall | Ben Maguire MP | 6393 |
+| North Cornwall | Ben Maguire MP | 6394 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6042 |
 | North Devon | Ian Roome MP | 5852 |
 | North Dorset | Simon Hoare MP | 6311 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6872 |
 | North Somerset | Sadik Al-Hassan MP | 4580 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6260 |
-| North West Cambridgeshire | Sam Carling MP | 6008 |
+| North West Cambridgeshire | Sam Carling MP | 6009 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7130 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
 | North West Leicestershire | Amanda Hack MP | 6693 |
@@ -369,7 +369,7 @@
 | Peckham | Miatta Fahnbulleh MP | 1355 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6192 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5439 |
-| Penrith and Solway | Markus Campbell-Savours MP | 6182 |
+| Penrith and Solway | Markus Campbell-Savours MP | 6183 |
 | Peterborough | Andrew Pakes MP | 4151 |
 | Plymouth Moor View | Fred Thomas MP | 5672 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4738 |
@@ -507,7 +507,7 @@
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1674 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4908 |
 | Wallasey | Dame Angela Eagle MP | 4060 |
-| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4000 |
+| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4001 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
 | Warrington North | Charlotte Nichols MP | 5145 |
 | Warrington South | Sarah Hall MP | 5557 |
