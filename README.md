@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988891                                |
-| Last Updated      | 2025-02-25 08:22:44 UTC                                    |
+| Total Signatures   | 2988899                                |
+| Last Updated      | 2025-02-25 09:18:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -157,7 +157,7 @@
 | Ealing Southall | Deirdre Costigan MP | 1953 |
 | Earley and Woodley | Yuan Yang MP | 3952 |
 | Easington | Grahame Morris MP | 5726 |
-| East Grinstead and Uckfield | Mims Davies MP | 6026 |
+| East Grinstead and Uckfield | Mims Davies MP | 6027 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1100 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5329 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6021 |
@@ -391,7 +391,7 @@
 | Ribble Valley | Maya Ellis MP | 6701 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
 | Richmond Park | Sarah Olney MP | 4056 |
-| Rochdale | Paul Waugh MP | 3945 |
+| Rochdale | Paul Waugh MP | 3946 |
 | Rochester and Strood | Lauren Edwards MP | 6016 |
 | Romford | Andrew Rosindell MP | 5784 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5065 |
@@ -418,15 +418,15 @@
 | Sheffield South East | Mr Clive Betts MP | 4732 |
 | Sherwood Forest | Michelle Welsh MP | 6657 |
 | Shipley | Anna Dixon MP | 4886 |
-| Shrewsbury | Julia Buckley MP | 5321 |
+| Shrewsbury | Julia Buckley MP | 5322 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6859 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6668 |
-| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6285 |
+| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6286 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2580 |
 | Smethwick | Gurinder Singh Josan MP | 3053 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5437 |
 | South Basildon and East Thurrock | James McMurdock MP | 6601 |
-| South Cambridgeshire | Pippa Heylings MP | 4444 |
+| South Cambridgeshire | Pippa Heylings MP | 4445 |
 | South Cotswolds | Dr Roz Savage MP | 5715 |
 | South Derbyshire | Samantha Niblett MP | 6164 |
 | South Devon | Caroline Voaden MP | 5318 |
@@ -463,13 +463,13 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5340 |
 | Stevenage | Kevin Bonavia MP | 4735 |
 | Stockport | Navendu Mishra MP | 3910 |
-| Stockton North | Chris McDonald MP | 4834 |
+| Stockton North | Chris McDonald MP | 4835 |
 | Stockton West | Matt Vickers MP | 5984 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4721 |
 | Stoke-on-Trent North | David Williams MP | 5447 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5719 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6528 |
-| Stourbridge | Cat Eccles MP | 5152 |
+| Stourbridge | Cat Eccles MP | 5153 |
 | Stratford and Bow | Uma Kumaran MP | 1763 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6705 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1861 |
@@ -638,7 +638,7 @@
 | Cardiff North | Anna McMorrin MP | 3290 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2796 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3139 |
-| Ceredigion Preseli | Ben Lake MP | 4734 |
+| Ceredigion Preseli | Ben Lake MP | 4735 |
 | Clwyd East | Becky Gittins MP | 6027 |
 | Clwyd North | Gill German MP | 5439 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4224 |
