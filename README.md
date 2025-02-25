@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988873                                |
-| Last Updated      | 2025-02-25 04:21:07 UTC                                    |
+| Total Signatures   | 2988875                                |
+| Last Updated      | 2025-02-25 05:16:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -80,7 +80,7 @@
 | Bristol East | Kerry McCarthy MP | 2976 |
 | Bristol North East | Damien Egan MP | 3080 |
 | Bristol North West | Rt Hon Darren Jones MP | 3201 |
-| Bristol South | Karin Smyth MP | 3959 |
+| Bristol South | Karin Smyth MP | 3960 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5827 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5235 |
 | Bromsgrove | Bradley Thomas MP | 6470 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5145 |
 | Warrington South | Sarah Hall MP | 5557 |
 | Warwick and Leamington | Matt Western MP | 4468 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5307 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5308 |
 | Watford | Matt Turmaine MP | 3738 |
 | Waveney Valley | Adrian Ramsay MP | 5848 |
 | Weald of Kent | Katie Lam MP | 7223 |
