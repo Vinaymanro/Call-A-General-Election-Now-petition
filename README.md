@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988868                                |
-| Last Updated      | 2025-02-25 01:20:25 UTC                                    |
+| Total Signatures   | 2988872                                |
+| Last Updated      | 2025-02-25 02:51:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6149 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6123 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6124 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5044 |
 | Bicester and Woodstock | Calum Miller MP | 4674 |
 | Birkenhead | Alison McGovern MP | 4311 |
@@ -202,7 +202,7 @@
 | Gravesham | Dr Lauren Sullivan MP | 5137 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5787 |
 | Great Yarmouth | Rupert Lowe MP | 6579 |
-| Greenwich and Woolwich | Matthew Pennycook MP | 2620 |
+| Greenwich and Woolwich | Matthew Pennycook MP | 2621 |
 | Guildford | Zöe Franklin MP | 3995 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1517 |
@@ -492,7 +492,7 @@
 | Thirsk and Malton | Kevin Hollinrake MP | 7423 |
 | Thornbury and Yate | Claire Young MP | 5685 |
 | Thurrock | Jen Craft MP | 5109 |
-| Tipton and Wednesbury | Antonia Bance MP | 4906 |
+| Tipton and Wednesbury | Antonia Bance MP | 4907 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5951 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5943 |
 | Tooting | Dr Rosena Allin-Khan MP | 2689 |
@@ -582,7 +582,7 @@
 | Angus and Perthshire Glens | Dave Doogan MP | 4044 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3469 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3402 |
-| Bathgate and Linlithgow | Kirsteen Sullivan MP | 3012 |
+| Bathgate and Linlithgow | Kirsteen Sullivan MP | 3013 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4068 |
 | Coatbridge and Bellshill | Frank McNally MP | 2581 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2850 |
