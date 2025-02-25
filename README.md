@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2988875                                |
-| Last Updated      | 2025-02-25 05:16:52 UTC                                    |
+| Total Signatures   | 2988878                                |
+| Last Updated      | 2025-02-25 06:25:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4401 |
 | Bolton West | Phil Brickell MP | 5573 |
 | Bootle | Peter Dowd MP | 3142 |
-| Boston and Skegness | Richard Tice MP | 7076 |
+| Boston and Skegness | Richard Tice MP | 7077 |
 | Bournemouth East | Tom Hayes MP | 4656 |
 | Bournemouth West | Jessica Toale MP | 4906 |
 | Bracknell | Peter Swallow MP | 4964 |
@@ -233,8 +233,8 @@
 | Hexham | Joe Morris MP | 6405 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5251 |
 | High Peak | Jon Pearce MP | 5446 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6478 |
-| Hitchin | Alistair Strathern MP | 4914 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6479 |
+| Hitchin | Alistair Strathern MP | 4915 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2277 |
 | Honiton and Sidmouth | Richard Foord MP | 5247 |
 | Hornchurch and Upminster | Julia Lopez MP | 6605 |
