@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989104                                |
-| Last Updated      | 2025-02-26 05:17:20 UTC                                    |
+| Total Signatures   | 2989106                                |
+| Last Updated      | 2025-02-26 06:25:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -178,7 +178,7 @@
 | Esher and Walton | Monica Harding MP | 4820 |
 | Exeter | Steve Race MP | 3171 |
 | Exmouth and Exeter East | David Reed MP | 5200 |
-| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6116 |
+| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6117 |
 | Farnham and Bordon | Gregory Stafford MP | 5183 |
 | Faversham and Mid Kent | Helen Whately MP | 6220 |
 | Feltham and Heston | Seema Malhotra MP | 2918 |
@@ -523,7 +523,7 @@
 | West Dorset | Edward Morello MP | 5452 |
 | West Ham and Beckton | James Asser MP | 2150 |
 | West Lancashire | Ashley Dalton MP | 5048 |
-| West Suffolk | Nick Timothy MP | 6032 |
+| West Suffolk | Nick Timothy MP | 6033 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6257 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5063 |
