@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989106                                |
-| Last Updated      | 2025-02-26 06:25:00 UTC                                    |
+| Total Signatures   | 2989111                                |
+| Last Updated      | 2025-02-26 07:16:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3762 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6145 |
-| Blackpool South | Chris Webb MP | 5798 |
+| Blackpool South | Chris Webb MP | 5799 |
 | Blaydon and Consett | Liz Twist MP | 5240 |
 | Blyth and Ashington | Ian Lavery MP | 5846 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6136 |
@@ -235,7 +235,7 @@
 | High Peak | Jon Pearce MP | 5446 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6479 |
 | Hitchin | Alistair Strathern MP | 4915 |
-| Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2277 |
+| Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2278 |
 | Honiton and Sidmouth | Richard Foord MP | 5248 |
 | Hornchurch and Upminster | Julia Lopez MP | 6605 |
 | Hornsey and Friern Barnet | Catherine West MP | 1936 |
@@ -432,7 +432,7 @@
 | South Devon | Caroline Voaden MP | 5319 |
 | South Dorset | Lloyd Hatton MP | 5649 |
 | South East Cornwall | Anna Gelderd MP | 6231 |
-| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7126 |
+| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7127 |
 | South Leicestershire | Alberto Costa MP | 6980 |
 | South Norfolk | Ben Goldsborough MP | 5438 |
 | South Northamptonshire | Sarah Bool MP | 6667 |
@@ -468,7 +468,7 @@
 | Stoke-on-Trent Central | Gareth Snell MP | 4721 |
 | Stoke-on-Trent North | David Williams MP | 5447 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5719 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6528 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6529 |
 | Stourbridge | Cat Eccles MP | 5153 |
 | Stratford and Bow | Uma Kumaran MP | 1763 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6705 |
@@ -497,7 +497,7 @@
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5943 |
 | Tooting | Dr Rosena Allin-Khan MP | 2689 |
 | Torbay | Steve Darling MP | 5813 |
-| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6572 |
+| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6573 |
 | Tottenham | Rt Hon David Lammy MP | 1682 |
 | Truro and Falmouth | Jayne Kirkham MP | 4601 |
 | Tunbridge Wells | Mike Martin MP | 5452 |
