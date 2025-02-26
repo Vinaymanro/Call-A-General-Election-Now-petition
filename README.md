@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989169                                |
-| Last Updated      | 2025-02-26 12:35:06 UTC                                    |
+| Total Signatures   | 2989180                                |
+| Last Updated      | 2025-02-26 13:24:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6149 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6125 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6126 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5045 |
 | Bicester and Woodstock | Calum Miller MP | 4674 |
 | Birkenhead | Alison McGovern MP | 4311 |
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 4972 |
 | Bury South | Christian Wakeford MP | 5414 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5445 |
-| Calder Valley | Josh Fenton-Glynn MP | 5645 |
+| Calder Valley | Josh Fenton-Glynn MP | 5646 |
 | Camborne and Redruth | Perran Moon MP | 4959 |
 | Cambridge | Daniel Zeichner MP | 2210 |
 | Cannock Chase | Josh Newbury MP | 6873 |
@@ -482,7 +482,7 @@
 | Sutton and Cheam | Luke Taylor MP | 4388 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5670 |
 | Swindon North | Will Stone MP | 4893 |
-| Swindon South | Rt Hon Heidi Alexander MP | 4202 |
+| Swindon South | Rt Hon Heidi Alexander MP | 4203 |
 | Tamworth | Sarah Edwards MP | 6934 |
 | Tatton | Rt Hon Esther McVey MP | 6494 |
 | Taunton and Wellington | Gideon Amos MP | 5164 |
@@ -526,7 +526,7 @@
 | West Suffolk | Nick Timothy MP | 6033 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6257 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
-| Weston-super-Mare | Dan Aldridge MP | 5063 |
+| Weston-super-Mare | Dan Aldridge MP | 5065 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6572 |
 | Whitehaven and Workington | Josh MacAlister MP | 5836 |
 | Widnes and Halewood | Derek Twigg MP | 4229 |
@@ -535,7 +535,7 @@
 | Winchester | Dr Danny Chambers MP | 4915 |
 | Windsor | Jack Rankin MP | 5108 |
 | Wirral West | Matthew Patrick MP | 4204 |
-| Witham | Rt Hon Priti Patel MP | 7006 |
+| Witham | Rt Hon Priti Patel MP | 7007 |
 | Witney | Charlie Maynard MP | 5162 |
 | Woking | Mr Will Forster MP | 4391 |
 | Wokingham | Clive Jones MP | 4863 |
@@ -584,7 +584,7 @@
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3402 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3013 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4068 |
-| Coatbridge and Bellshill | Frank McNally MP | 2581 |
+| Coatbridge and Bellshill | Frank McNally MP | 2582 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2850 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2677 |
 | Dumfries and Galloway | John Cooper MP | 4037 |
@@ -615,7 +615,7 @@
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3932 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2727 |
 | North East Fife | Wendy Chamberlain MP | 2899 |
-| Paisley and Renfrewshire North | Alison Taylor MP | 2855 |
+| Paisley and Renfrewshire North | Alison Taylor MP | 2856 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2642 |
 | Perth and Kinross-shire | Pete Wishart MP | 3500 |
 | Rutherglen | Michael Shanks MP | 2568 |
@@ -627,7 +627,7 @@
 | Kilmarnock and Loudoun | Lillian Jones MP | 3247 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4551 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3681 |
-| Alyn and Deeside | Rt Hon Mark Tami MP | 5743 |
+| Alyn and Deeside | Rt Hon Mark Tami MP | 5744 |
 | Bangor Aberconwy | Claire Hughes MP | 4511 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3632 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5273 |
@@ -645,7 +645,7 @@
 | Gower | Tonia Antoniazzi MP | 4755 |
 | Llanelli | Dame Nia Griffith MP | 5243 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3704 |
-| Mid and South Pembrokeshire | Henry Tufnell MP | 5475 |
+| Mid and South Pembrokeshire | Henry Tufnell MP | 5477 |
 | Monmouthshire | Catherine Fookes MP | 4732 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6038 |
 | Neath and Swansea East | Carolyn Harris MP | 4430 |
