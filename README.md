@@ -3,18 +3,18 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989266                                |
-| Last Updated      | 2025-02-26 19:14:00 UTC                                    |
+| Total Signatures   | 2989274                                |
+| Last Updated      | 2025-02-26 20:19:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5449 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5795 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5497 |
-| Amber Valley | Linsey Farnsworth MP | 6077 |
+| Amber Valley | Linsey Farnsworth MP | 6078 |
 | Arundel and South Downs | Andrew Griffith MP | 6953 |
 | Ashfield | Lee Anderson MP | 6155 |
-| Ashford | Sojan Joseph MP | 5887 |
+| Ashford | Sojan Joseph MP | 5888 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4581 |
 | Aylesbury | Laura Kyrke-Smith MP | 4863 |
 | Banbury | Sean Woodcock MP | 5443 |
@@ -98,7 +98,7 @@
 | Cannock Chase | Josh Newbury MP | 6874 |
 | Canterbury | Rosie Duffield MP | 4468 |
 | Carlisle | Ms Julie Minns MP | 6523 |
-| Carshalton and Wallington | Bobby Dean MP | 4264 |
+| Carshalton and Wallington | Bobby Dean MP | 4265 |
 | Castle Point | Rebecca Harris MP | 7520 |
 | Central Devon | Rt Hon Mel Stride MP | 5798 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5298 |
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5847 |
 | Cities of London and Westminster | Rachel Blake MP | 5166 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
-| Clacton | Nigel Farage MP | 8071 |
+| Clacton | Nigel Farage MP | 8072 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1739 |
 | Colchester | Pam Cox MP | 4988 |
 | Colne Valley | Paul Davies MP | 5020 |
@@ -339,7 +339,7 @@
 | North East Derbyshire | Louise Jones MP | 5792 |
 | North East Hampshire | Alex Brewer MP | 5953 |
 | North East Hertfordshire | Chris Hinchliff MP | 5842 |
-| North East Somerset and Hanham | Dan Norris MP | 5041 |
+| North East Somerset and Hanham | Dan Norris MP | 5042 |
 | North Herefordshire | Ellie Chowns MP | 6466 |
 | North Norfolk | Steff Aquarone MP | 5429 |
 | North Northumberland | David Smith MP | 6427 |
@@ -394,7 +394,7 @@
 | Rochdale | Paul Waugh MP | 3946 |
 | Rochester and Strood | Lauren Edwards MP | 6016 |
 | Romford | Andrew Rosindell MP | 5784 |
-| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5065 |
+| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5066 |
 | Rossendale and Darwen | Andy MacNae MP | 6487 |
 | Rother Valley | Jake Richards MP | 5849 |
 | Rotherham | Sarah Champion MP | 4943 |
@@ -518,7 +518,7 @@
 | Weald of Kent | Katie Lam MP | 7223 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5080 |
 | Wells and Mendip Hills | Tessa Munt MP | 5249 |
-| Welwyn Hatfield | Andrew Lewin MP | 5053 |
+| Welwyn Hatfield | Andrew Lewin MP | 5054 |
 | West Bromwich | Sarah Coombes MP | 3779 |
 | West Dorset | Edward Morello MP | 5453 |
 | West Ham and Beckton | James Asser MP | 2150 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3427 |
 | Glasgow East | John Grady MP | 2311 |
 | Glasgow North | Martin Rhodes MP | 2035 |
-| Glasgow North East | Maureen Burke MP | 2469 |
+| Glasgow North East | Maureen Burke MP | 2470 |
 | Glasgow South | Gordon McKee MP | 1844 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2256 |
 | Glasgow West | Patricia Ferguson MP | 2211 |
