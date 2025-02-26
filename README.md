@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989102                                |
-| Last Updated      | 2025-02-26 04:21:04 UTC                                    |
+| Total Signatures   | 2989104                                |
+| Last Updated      | 2025-02-26 05:17:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -251,7 +251,7 @@
 | Isle of Wight East | Joe Robertson MP | 4376 |
 | Isle of Wight West | Mr Richard Quigley MP | 4067 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1790 |
-| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2766 |
+| Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2767 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5079 |
 | Keighley and Ilkley | Robbie Moore MP | 4685 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6095 |
@@ -544,7 +544,7 @@
 | Wolverhampton West | Warinder Juss | 3816 |
 | Worcester | Tom Collins MP | 4320 |
 | Worsley and Eccles | Michael Wheeler MP | 5434 |
-| Worthing West | Dr Beccy Cooper MP | 5243 |
+| Worthing West | Dr Beccy Cooper MP | 5244 |
 | Wycombe | Emma Reynolds MP | 3607 |
 | Wyre Forest | Mark Garnier MP | 6477 |
 | Wythenshawe and Sale East | Mike Kane MP | 4594 |
