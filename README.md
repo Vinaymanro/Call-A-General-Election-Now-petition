@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989491                                |
-| Last Updated      | 2025-02-27 22:17:28 UTC                                    |
+| Total Signatures   | 2989498                                |
+| Last Updated      | 2025-02-27 23:16:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -175,7 +175,7 @@
 | Epsom and Ewell | Helen Maguire MP | 4922 |
 | Erewash | Adam Thompson MP | 5819 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
-| Esher and Walton | Monica Harding MP | 4821 |
+| Esher and Walton | Monica Harding MP | 4823 |
 | Exeter | Steve Race MP | 3172 |
 | Exmouth and Exeter East | David Reed MP | 5202 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6118 |
@@ -266,7 +266,7 @@
 | Lancaster and Wyre | Cat Smith MP | 5075 |
 | Leeds Central and Headingley | Alex Sobel MP | 1928 |
 | Leeds East | Richard Burgon MP | 4300 |
-| Leeds North East | Fabian Hamilton MP | 2628 |
+| Leeds North East | Fabian Hamilton MP | 2629 |
 | Leeds North West | Katie White MP | 4380 |
 | Leeds South | Rt Hon Hilary Benn MP | 3869 |
 | Leeds South West and Morley | Mark Sewards MP | 5488 |
@@ -358,7 +358,7 @@
 | Nottingham East | Nadia Whittome MP | 2473 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
 | Nottingham South | Lilian Greenwood MP | 3050 |
-| Nuneaton | Jodie Gosling MP | 5543 |
+| Nuneaton | Jodie Gosling MP | 5545 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6212 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5225 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4077 |
@@ -384,7 +384,7 @@
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5109 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3025 |
-| Reading West and Mid Berkshire | Olivia Bailey MP | 4439 |
+| Reading West and Mid Berkshire | Olivia Bailey MP | 4441 |
 | Redcar | Anna Turley MP | 5445 |
 | Redditch | Chris Bloore MP | 6069 |
 | Reigate | Rebecca Paul MP | 5547 |
