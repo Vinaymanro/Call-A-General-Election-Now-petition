@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989400                                |
-| Last Updated      | 2025-02-27 12:35:02 UTC                                    |
+| Total Signatures   | 2989406                                |
+| Last Updated      | 2025-02-27 13:25:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5449 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5796 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5497 |
-| Amber Valley | Linsey Farnsworth MP | 6078 |
+| Amber Valley | Linsey Farnsworth MP | 6079 |
 | Arundel and South Downs | Andrew Griffith MP | 6953 |
 | Ashfield | Lee Anderson MP | 6156 |
 | Ashford | Sojan Joseph MP | 5888 |
@@ -37,7 +37,7 @@
 | Bexleyheath and Crayford | Daniel Francis MP | 5045 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
 | Birkenhead | Alison McGovern MP | 4312 |
-| Birmingham Edgbaston | Preet Kaur Gill MP | 2945 |
+| Birmingham Edgbaston | Preet Kaur Gill MP | 2946 |
 | Birmingham Erdington | Paulette Hamilton MP | 4231 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1577 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3477 |
@@ -50,14 +50,14 @@
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3762 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6145 |
-| Blackpool South | Chris Webb MP | 5799 |
+| Blackpool South | Chris Webb MP | 5800 |
 | Blaydon and Consett | Liz Twist MP | 5240 |
 | Blyth and Ashington | Ian Lavery MP | 5847 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
 | Bolton North East | Kirith Entwistle MP | 5591 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4404 |
-| Bolton West | Phil Brickell MP | 5574 |
+| Bolton West | Phil Brickell MP | 5575 |
 | Bootle | Peter Dowd MP | 3143 |
 | Boston and Skegness | Richard Tice MP | 7078 |
 | Bournemouth East | Tom Hayes MP | 4657 |
@@ -157,7 +157,7 @@
 | Ealing Southall | Deirdre Costigan MP | 1954 |
 | Earley and Woodley | Yuan Yang MP | 3952 |
 | Easington | Grahame Morris MP | 5726 |
-| East Grinstead and Uckfield | Mims Davies MP | 6029 |
+| East Grinstead and Uckfield | Mims Davies MP | 6030 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5330 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6021 |
@@ -206,7 +206,7 @@
 | Guildford | Zöe Franklin MP | 3996 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1517 |
-| Halesowen | Alex Ballinger MP | 4988 |
+| Halesowen | Alex Ballinger MP | 4989 |
 | Halifax | Kate Dearden MP | 4746 |
 | Hamble Valley | Paul Holmes MP | 6137 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3194 |
