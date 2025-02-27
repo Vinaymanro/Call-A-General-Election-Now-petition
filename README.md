@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989347                                |
-| Last Updated      | 2025-02-27 07:16:27 UTC                                    |
+| Total Signatures   | 2989355                                |
+| Last Updated      | 2025-02-27 08:22:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4153 |
 | Plymouth Moor View | Fred Thomas MP | 5672 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4738 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5437 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5438 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
 | Poplar and Limehouse | Apsana Begum MP | 2920 |
 | Portsmouth North | Amanda Martin MP | 5609 |
@@ -417,7 +417,7 @@
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3532 |
 | Sheffield South East | Mr Clive Betts MP | 4732 |
 | Sherwood Forest | Michelle Welsh MP | 6657 |
-| Shipley | Anna Dixon MP | 4888 |
+| Shipley | Anna Dixon MP | 4889 |
 | Shrewsbury | Julia Buckley MP | 5322 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6859 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6668 |
@@ -439,7 +439,7 @@
 | South Ribble | Mr Paul Foster MP | 5890 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4715 |
 | South Shropshire | Stuart Anderson MP | 7320 |
-| South Suffolk | James Cartlidge MP | 6144 |
+| South Suffolk | James Cartlidge MP | 6145 |
 | South West Devon | Rebecca Smith MP | 5970 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5201 |
 | South West Norfolk | Terry Jermy MP | 6519 |
@@ -449,9 +449,9 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5572 |
 | Southend West and Leigh | David Burton-Sampson MP | 5869 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2585 |
-| Southport | Patrick Hurley MP | 5943 |
+| Southport | Patrick Hurley MP | 5944 |
 | Spelthorne | Lincoln Jopp MP | 5458 |
-| Spen Valley | Kim Leadbeater MP | 5370 |
+| Spen Valley | Kim Leadbeater MP | 5371 |
 | St Albans | Daisy Cooper MP | 3876 |
 | St Austell and Newquay | Noah Law MP | 5601 |
 | St Helens North | David Baines MP | 4689 |
@@ -472,7 +472,7 @@
 | Stourbridge | Cat Eccles MP | 5153 |
 | Stratford and Bow | Uma Kumaran MP | 1763 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6706 |
-| Streatham and Croydon North | Rt Hon Steve Reed MP | 1861 |
+| Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
 | Stretford and Urmston | Andrew Western MP | 3817 |
 | Stroud | Dr Simon Opher MP | 4530 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5394 |
@@ -484,7 +484,7 @@
 | Swindon North | Will Stone MP | 4893 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4203 |
 | Tamworth | Sarah Edwards MP | 6934 |
-| Tatton | Rt Hon Esther McVey MP | 6495 |
+| Tatton | Rt Hon Esther McVey MP | 6496 |
 | Taunton and Wellington | Gideon Amos MP | 5164 |
 | Telford | Shaun Davies MP | 5578 |
 | Tewkesbury | Cameron Thomas MP | 5009 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3740 |
 | Waveney Valley | Adrian Ramsay MP | 5848 |
 | Weald of Kent | Katie Lam MP | 7223 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5080 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5081 |
 | Wells and Mendip Hills | Tessa Munt MP | 5249 |
 | Welwyn Hatfield | Andrew Lewin MP | 5054 |
 | West Bromwich | Sarah Coombes MP | 3779 |
