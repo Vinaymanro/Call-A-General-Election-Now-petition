@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989485                                |
-| Last Updated      | 2025-02-27 21:16:26 UTC                                    |
+| Total Signatures   | 2989491                                |
+| Last Updated      | 2025-02-27 22:17:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -121,7 +121,7 @@
 | City of Durham | Mary Kelly Foy MP | 4249 |
 | Clacton | Nigel Farage MP | 8073 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1739 |
-| Colchester | Pam Cox MP | 4989 |
+| Colchester | Pam Cox MP | 4990 |
 | Colne Valley | Paul Davies MP | 5021 |
 | Congleton | Mrs Sarah Russell MP | 5967 |
 | Corby and East Northamptonshire | Lee Barron MP | 6000 |
@@ -177,7 +177,7 @@
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4821 |
 | Exeter | Steve Race MP | 3172 |
-| Exmouth and Exeter East | David Reed MP | 5201 |
+| Exmouth and Exeter East | David Reed MP | 5202 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6118 |
 | Farnham and Bordon | Gregory Stafford MP | 5184 |
 | Faversham and Mid Kent | Helen Whately MP | 6221 |
@@ -303,7 +303,7 @@
 | Mansfield | Steve Yemm MP | 6190 |
 | Melksham and Devizes | Brian Mathew MP | 5008 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6106 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6067 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6068 |
 | Mid Bedfordshire | Blake Stephenson MP | 5841 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
 | Mid Cheshire | Andrew Cooper MP | 5163 |
@@ -358,7 +358,7 @@
 | Nottingham East | Nadia Whittome MP | 2473 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
 | Nottingham South | Lilian Greenwood MP | 3050 |
-| Nuneaton | Jodie Gosling MP | 5542 |
+| Nuneaton | Jodie Gosling MP | 5543 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6212 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5225 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4077 |
@@ -384,7 +384,7 @@
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5109 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3025 |
-| Reading West and Mid Berkshire | Olivia Bailey MP | 4438 |
+| Reading West and Mid Berkshire | Olivia Bailey MP | 4439 |
 | Redcar | Anna Turley MP | 5445 |
 | Redditch | Chris Bloore MP | 6069 |
 | Reigate | Rebecca Paul MP | 5547 |
@@ -429,7 +429,7 @@
 | South Cambridgeshire | Pippa Heylings MP | 4446 |
 | South Cotswolds | Dr Roz Savage MP | 5715 |
 | South Derbyshire | Samantha Niblett MP | 6164 |
-| South Devon | Caroline Voaden MP | 5319 |
+| South Devon | Caroline Voaden MP | 5320 |
 | South Dorset | Lloyd Hatton MP | 5650 |
 | South East Cornwall | Anna Gelderd MP | 6233 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7128 |
