@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989365                                |
-| Last Updated      | 2025-02-27 09:18:39 UTC                                    |
+| Total Signatures   | 2989373                                |
+| Last Updated      | 2025-02-27 10:18:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -52,7 +52,7 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6145 |
 | Blackpool South | Chris Webb MP | 5799 |
 | Blaydon and Consett | Liz Twist MP | 5240 |
-| Blyth and Ashington | Ian Lavery MP | 5846 |
+| Blyth and Ashington | Ian Lavery MP | 5847 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
 | Bolton North East | Kirith Entwistle MP | 5591 |
@@ -115,7 +115,7 @@
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
 | Chippenham | Sarah Gibson MP | 4730 |
 | Chipping Barnet | Dan Tomlinson MP | 4333 |
-| Chorley | Rt Hon Sir Lindsay Hoyle MP | 5494 |
+| Chorley | Rt Hon Sir Lindsay Hoyle MP | 5495 |
 | Christchurch | Sir Christopher Chope MP | 5847 |
 | Cities of London and Westminster | Rachel Blake MP | 5166 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6322 |
 | Gravesham | Dr Lauren Sullivan MP | 5138 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5787 |
-| Great Yarmouth | Rupert Lowe MP | 6579 |
+| Great Yarmouth | Rupert Lowe MP | 6580 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2621 |
 | Guildford | Zöe Franklin MP | 3996 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
@@ -239,7 +239,7 @@
 | Honiton and Sidmouth | Richard Foord MP | 5250 |
 | Hornchurch and Upminster | Julia Lopez MP | 6605 |
 | Hornsey and Friern Barnet | Catherine West MP | 1936 |
-| Horsham | John Milne MP | 5826 |
+| Horsham | John Milne MP | 5827 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6293 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3327 |
 | Huddersfield | Harpreet Uppal MP | 3677 |
@@ -323,7 +323,7 @@
 | Newark | Rt Hon Robert Jenrick MP | 7156 |
 | Newbury | Mr Lee Dillon MP | 4886 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4493 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4744 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4745 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3948 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5064 |
 | Newton Abbot | Martin Wrigley MP | 5105 |
@@ -400,7 +400,7 @@
 | Rotherham | Sarah Champion MP | 4943 |
 | Rugby | John Slinger MP | 5404 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4103 |
-| Runcorn and Helsby | Mike Amesbury MP | 5020 |
+| Runcorn and Helsby | Mike Amesbury MP | 5021 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5830 |
 | Rushcliffe | James Naish MP | 5073 |
 | Rutland and Stamford | Alicia Kearns MP | 6256 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5075 |
 | Sefton Central | Bill Esterson MP | 4013 |
 | Selby | Keir Mather MP | 6362 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6660 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6661 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3416 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
@@ -636,7 +636,7 @@
 | Caerphilly | Chris Evans MP | 3978 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2888 |
 | Cardiff North | Anna McMorrin MP | 3291 |
-| Cardiff South and Penarth | Stephen Doughty MP | 2796 |
+| Cardiff South and Penarth | Stephen Doughty MP | 2797 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3139 |
 | Ceredigion Preseli | Ben Lake MP | 4735 |
 | Clwyd East | Becky Gittins MP | 6029 |
