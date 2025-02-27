@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989332                                |
-| Last Updated      | 2025-02-27 04:20:35 UTC                                    |
+| Total Signatures   | 2989335                                |
+| Last Updated      | 2025-02-27 05:18:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -207,7 +207,7 @@
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1517 |
 | Halesowen | Alex Ballinger MP | 4987 |
-| Halifax | Kate Dearden MP | 4745 |
+| Halifax | Kate Dearden MP | 4746 |
 | Hamble Valley | Paul Holmes MP | 6137 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3194 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2960 |
@@ -459,7 +459,7 @@
 | St Ives | Andrew George MP | 5084 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4797 |
 | Stafford | Leigh Ingham MP | 5604 |
-| Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6414 |
+| Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6415 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5341 |
 | Stevenage | Kevin Bonavia MP | 4735 |
 | Stockport | Navendu Mishra MP | 3910 |
@@ -614,7 +614,7 @@
 | Mid Dunbartonshire | Susan Murray MP | 2522 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3932 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2728 |
-| North East Fife | Wendy Chamberlain MP | 2899 |
+| North East Fife | Wendy Chamberlain MP | 2900 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2856 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2643 |
 | Perth and Kinross-shire | Pete Wishart MP | 3500 |
