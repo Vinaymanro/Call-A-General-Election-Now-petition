@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989443                                |
-| Last Updated      | 2025-02-27 17:15:47 UTC                                    |
+| Total Signatures   | 2989451                                |
+| Last Updated      | 2025-02-27 18:24:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -29,7 +29,7 @@
 | Battersea | Marsha De Cordova MP | 3611 |
 | Beaconsfield | Joy Morrissey MP | 5210 |
 | Beckenham and Penge | Liam Conlon MP | 3838 |
-| Bedford | Mohammad Yasin MP | 3221 |
+| Bedford | Mohammad Yasin MP | 3222 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6151 |
@@ -222,7 +222,7 @@
 | Hastings and Rye | Helena Dollimore MP | 5065 |
 | Havant | Alan Mak MP | 5651 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2592 |
-| Hazel Grove | Lisa Smart MP | 5096 |
+| Hazel Grove | Lisa Smart MP | 5097 |
 | Hemel Hempstead | David Taylor MP | 5071 |
 | Hendon | David Pinto-Duschinsky MP | 3797 |
 | Henley and Thame | Freddie van Mierlo MP | 5400 |
@@ -257,7 +257,7 @@
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6095 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
 | Kettering | Rosie Wrighting MP | 5902 |
-| Kingston and Surbiton | Rt Hon Ed Davey MP | 3743 |
+| Kingston and Surbiton | Rt Hon Ed Davey MP | 3744 |
 | Kingston upon Hull East | Karl Turner MP | 4989 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4634 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5487 |
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5398 |
 | Maidenhead | Mr Joshua Reynolds MP | 5281 |
 | Maidstone and Malling | Helen Grant MP | 5841 |
-| Makerfield | Josh Simons MP | 5868 |
+| Makerfield | Josh Simons MP | 5869 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8109 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3989 |
 | Manchester Rusholme | Afzal Khan MP | 1215 |
@@ -357,7 +357,7 @@
 | Norwich South | Clive Lewis MP | 3381 |
 | Nottingham East | Nadia Whittome MP | 2473 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
-| Nottingham South | Lilian Greenwood MP | 3049 |
+| Nottingham South | Lilian Greenwood MP | 3050 |
 | Nuneaton | Jodie Gosling MP | 5542 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6211 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5225 |
@@ -467,11 +467,11 @@
 | Stockton West | Matt Vickers MP | 5984 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4721 |
 | Stoke-on-Trent North | David Williams MP | 5447 |
-| Stoke-on-Trent South | Dr Allison Gardner MP | 5721 |
+| Stoke-on-Trent South | Dr Allison Gardner MP | 5722 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6529 |
 | Stourbridge | Cat Eccles MP | 5153 |
 | Stratford and Bow | Uma Kumaran MP | 1763 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6706 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6707 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
 | Stretford and Urmston | Andrew Western MP | 3817 |
 | Stroud | Dr Simon Opher MP | 4530 |
@@ -593,7 +593,7 @@
 | Dunfermline and Dollar | Graeme Downie MP | 2926 |
 | East Kilbride and Strathaven | Joani Reid MP | 3147 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2078 |
-| Edinburgh North and Leith | Tracy Gilbert MP | 2405 |
+| Edinburgh North and Leith | Tracy Gilbert MP | 2406 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
 | Edinburgh South West | Dr Scott Arthur MP | 2256 |
 | Edinburgh West | Christine Jardine MP | 2712 |
