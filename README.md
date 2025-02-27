@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989436                                |
-| Last Updated      | 2025-02-27 16:23:08 UTC                                    |
+| Total Signatures   | 2989443                                |
+| Last Updated      | 2025-02-27 17:15:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -110,7 +110,7 @@
 | Chesham and Amersham | Sarah Green MP | 4939 |
 | Chester North and Neston | Samantha Dixon MP | 4051 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6385 |
-| Chesterfield | Mr Toby Perkins MP | 4872 |
+| Chesterfield | Mr Toby Perkins MP | 4873 |
 | Chichester | Jess Brown-Fuller MP | 5917 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
 | Chippenham | Sarah Gibson MP | 4730 |
@@ -300,10 +300,10 @@
 | Manchester Central | Rt Hon Lucy Powell MP | 3989 |
 | Manchester Rusholme | Afzal Khan MP | 1215 |
 | Manchester Withington | Jeff Smith MP | 1670 |
-| Mansfield | Steve Yemm MP | 6189 |
+| Mansfield | Steve Yemm MP | 6190 |
 | Melksham and Devizes | Brian Mathew MP | 5008 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6106 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6066 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6067 |
 | Mid Bedfordshire | Blake Stephenson MP | 5841 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
 | Mid Cheshire | Andrew Cooper MP | 5163 |
@@ -488,7 +488,7 @@
 | Taunton and Wellington | Gideon Amos MP | 5164 |
 | Telford | Shaun Davies MP | 5578 |
 | Tewkesbury | Cameron Thomas MP | 5009 |
-| The Wrekin | Rt Hon Mark Pritchard MP | 6395 |
+| The Wrekin | Rt Hon Mark Pritchard MP | 6396 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7423 |
 | Thornbury and Yate | Claire Young MP | 5686 |
 | Thurrock | Jen Craft MP | 5109 |
@@ -566,7 +566,7 @@
 | North Down | Alex Easton MP | 3349 |
 | South Antrim | Robin Swann MP | 3085 |
 | South Down | Chris Hazzard MP | 1840 |
-| Strangford | Jim Shannon MP | 3452 |
+| Strangford | Jim Shannon MP | 3453 |
 | Upper Bann | Carla Lockhart MP | 3061 |
 | West Tyrone | Órfhlaith Begley MP | 1664 |
 | East Renfrewshire | Blair McDougall MP | 2588 |
@@ -614,11 +614,11 @@
 | Mid Dunbartonshire | Susan Murray MP | 2522 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3932 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2728 |
-| North East Fife | Wendy Chamberlain MP | 2900 |
+| North East Fife | Wendy Chamberlain MP | 2901 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2856 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2643 |
 | Perth and Kinross-shire | Pete Wishart MP | 3500 |
-| Rutherglen | Michael Shanks MP | 2568 |
+| Rutherglen | Michael Shanks MP | 2569 |
 | Stirling and Strathallan | Chris Kane MP | 3217 |
 | West Dunbartonshire | Douglas McAllister MP | 2722 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3546 |
