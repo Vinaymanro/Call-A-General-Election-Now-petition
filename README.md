@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989406                                |
-| Last Updated      | 2025-02-27 13:25:08 UTC                                    |
+| Total Signatures   | 2989411                                |
+| Last Updated      | 2025-02-27 14:16:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -157,7 +157,7 @@
 | Ealing Southall | Deirdre Costigan MP | 1954 |
 | Earley and Woodley | Yuan Yang MP | 3952 |
 | Easington | Grahame Morris MP | 5726 |
-| East Grinstead and Uckfield | Mims Davies MP | 6030 |
+| East Grinstead and Uckfield | Mims Davies MP | 6031 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5330 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6021 |
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3025 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4438 |
-| Redcar | Anna Turley MP | 5444 |
+| Redcar | Anna Turley MP | 5445 |
 | Redditch | Chris Bloore MP | 6069 |
 | Reigate | Rebecca Paul MP | 5547 |
 | Ribble Valley | Maya Ellis MP | 6701 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5201 |
 | South West Norfolk | Terry Jermy MP | 6519 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5197 |
-| Southampton Itchen | Darren Paffey MP | 4531 |
+| Southampton Itchen | Darren Paffey MP | 4533 |
 | Southampton Test | Satvir Kaur MP | 3400 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5572 |
 | Southend West and Leigh | David Burton-Sampson MP | 5869 |
@@ -518,7 +518,7 @@
 | Weald of Kent | Katie Lam MP | 7223 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5081 |
 | Wells and Mendip Hills | Tessa Munt MP | 5249 |
-| Welwyn Hatfield | Andrew Lewin MP | 5054 |
+| Welwyn Hatfield | Andrew Lewin MP | 5055 |
 | West Bromwich | Sarah Coombes MP | 3780 |
 | West Dorset | Edward Morello MP | 5453 |
 | West Ham and Beckton | James Asser MP | 2150 |
