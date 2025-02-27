@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989328                                |
-| Last Updated      | 2025-02-27 01:20:23 UTC                                    |
+| Total Signatures   | 2989331                                |
+| Last Updated      | 2025-02-27 02:51:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -83,7 +83,7 @@
 | Bristol South | Karin Smyth MP | 3960 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5827 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5235 |
-| Bromsgrove | Bradley Thomas MP | 6471 |
+| Bromsgrove | Bradley Thomas MP | 6472 |
 | Broxbourne | Lewis Cocking MP | 6070 |
 | Broxtowe | Juliet Campbell MP | 4706 |
 | Buckingham and Bletchley | Callum Anderson MP | 5253 |
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5330 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6021 |
-| East Thanet | Ms Polly Billington MP | 5474 |
+| East Thanet | Ms Polly Billington MP | 5475 |
 | East Wiltshire | Danny Kruger MP | 6062 |
 | East Worthing and Shoreham | Tom Rutland MP | 4601 |
 | Eastbourne | Josh Babarinde MP | 5034 |
@@ -353,7 +353,7 @@
 | North West Norfolk | James Wild MP | 5751 |
 | Northampton North | Lucy Rigby KC MP | 4268 |
 | Northampton South | Mike Reader MP | 4959 |
-| Norwich North | Alice Macdonald MP | 4391 |
+| Norwich North | Alice Macdonald MP | 4392 |
 | Norwich South | Clive Lewis MP | 3381 |
 | Nottingham East | Nadia Whittome MP | 2473 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
