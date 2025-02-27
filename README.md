@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989331                                |
-| Last Updated      | 2025-02-27 02:51:56 UTC                                    |
+| Total Signatures   | 2989332                                |
+| Last Updated      | 2025-02-27 03:24:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -249,7 +249,7 @@
 | Ilford South | Jas Athwal MP | 1591 |
 | Ipswich | Jack Abbott MP | 4136 |
 | Isle of Wight East | Joe Robertson MP | 4376 |
-| Isle of Wight West | Mr Richard Quigley MP | 4067 |
+| Isle of Wight West | Mr Richard Quigley MP | 4068 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2767 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5079 |
