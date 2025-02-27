@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989335                                |
-| Last Updated      | 2025-02-27 05:18:01 UTC                                    |
+| Total Signatures   | 2989339                                |
+| Last Updated      | 2025-02-27 06:25:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -105,7 +105,7 @@
 | Chatham and Aylesford | Tristan Osborne MP | 5625 |
 | Cheadle | Tom Morrison MP | 4660 |
 | Chelmsford | Marie Goldman MP | 5265 |
-| Chelsea and Fulham | Ben Coleman MP | 5484 |
+| Chelsea and Fulham | Ben Coleman MP | 5485 |
 | Cheltenham | Max Wilkinson MP | 4026 |
 | Chesham and Amersham | Sarah Green MP | 4939 |
 | Chester North and Neston | Samantha Dixon MP | 4051 |
@@ -353,7 +353,7 @@
 | North West Norfolk | James Wild MP | 5751 |
 | Northampton North | Lucy Rigby KC MP | 4268 |
 | Northampton South | Mike Reader MP | 4959 |
-| Norwich North | Alice Macdonald MP | 4392 |
+| Norwich North | Alice Macdonald MP | 4393 |
 | Norwich South | Clive Lewis MP | 3381 |
 | Nottingham East | Nadia Whittome MP | 2473 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6164 |
 | South Devon | Caroline Voaden MP | 5319 |
 | South Dorset | Lloyd Hatton MP | 5650 |
-| South East Cornwall | Anna Gelderd MP | 6231 |
+| South East Cornwall | Anna Gelderd MP | 6232 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7128 |
 | South Leicestershire | Alberto Costa MP | 6981 |
 | South Norfolk | Ben Goldsborough MP | 5438 |
@@ -473,7 +473,7 @@
 | Stratford and Bow | Uma Kumaran MP | 1763 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6706 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1861 |
-| Stretford and Urmston | Andrew Western MP | 3815 |
+| Stretford and Urmston | Andrew Western MP | 3816 |
 | Stroud | Dr Simon Opher MP | 4530 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5394 |
 | Sunderland Central | Lewis Atkinson MP | 5229 |
