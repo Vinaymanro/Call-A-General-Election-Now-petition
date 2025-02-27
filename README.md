@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989411                                |
-| Last Updated      | 2025-02-27 14:16:42 UTC                                    |
+| Total Signatures   | 2989422                                |
+| Last Updated      | 2025-02-27 15:19:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -115,7 +115,7 @@
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
 | Chippenham | Sarah Gibson MP | 4730 |
 | Chipping Barnet | Dan Tomlinson MP | 4333 |
-| Chorley | Rt Hon Sir Lindsay Hoyle MP | 5495 |
+| Chorley | Rt Hon Sir Lindsay Hoyle MP | 5496 |
 | Christchurch | Sir Christopher Chope MP | 5847 |
 | Cities of London and Westminster | Rachel Blake MP | 5166 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
@@ -137,11 +137,11 @@
 | Dagenham and Rainham | Margaret Mullane MP | 4228 |
 | Darlington | Lola McEvoy MP | 5454 |
 | Dartford | Jim Dickson MP | 5728 |
-| Daventry | Rt Hon Stuart Andrew MP | 7275 |
+| Daventry | Rt Hon Stuart Andrew MP | 7277 |
 | Derby North | Catherine Atkinson MP | 4318 |
 | Derby South | Baggy Shanker MP | 3602 |
-| Derbyshire Dales | John Whitby MP | 6772 |
-| Dewsbury and Batley | Iqbal Mohamed MP | 3172 |
+| Derbyshire Dales | John Whitby MP | 6773 |
+| Dewsbury and Batley | Iqbal Mohamed MP | 3173 |
 | Didcot and Wantage | Olly Glover MP | 4878 |
 | Doncaster Central | Sally Jameson MP | 4932 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6069 |
@@ -191,7 +191,7 @@
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6648 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4516 |
 | Gedling | Michael Payne MP | 5051 |
-| Gillingham and Rainham | Naushabah Khan MP | 5044 |
+| Gillingham and Rainham | Naushabah Khan MP | 5045 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5587 |
 | Gloucester | Alex McIntyre MP | 4531 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5234 |
@@ -199,7 +199,7 @@
 | Gorton and Denton | Andrew Gwynne MP | 3271 |
 | Gosport | Dame Caroline Dinenage MP | 5467 |
 | Grantham and Bourne | Gareth Davies MP | 6322 |
-| Gravesham | Dr Lauren Sullivan MP | 5138 |
+| Gravesham | Dr Lauren Sullivan MP | 5139 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5787 |
 | Great Yarmouth | Rupert Lowe MP | 6580 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2621 |
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5109 |
 | Harrow East | Bob Blackman MP | 3128 |
 | Harrow West | Gareth Thomas MP | 2402 |
-| Hartlepool | Mr Jonathan Brash MP | 5640 |
+| Hartlepool | Mr Jonathan Brash MP | 5641 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6270 |
 | Hastings and Rye | Helena Dollimore MP | 5065 |
 | Havant | Alan Mak MP | 5651 |
@@ -303,7 +303,7 @@
 | Mansfield | Steve Yemm MP | 6189 |
 | Melksham and Devizes | Brian Mathew MP | 5008 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6106 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6064 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6065 |
 | Mid Bedfordshire | Blake Stephenson MP | 5841 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
 | Mid Cheshire | Andrew Cooper MP | 5163 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5201 |
 | South West Norfolk | Terry Jermy MP | 6519 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5197 |
-| Southampton Itchen | Darren Paffey MP | 4533 |
+| Southampton Itchen | Darren Paffey MP | 4534 |
 | Southampton Test | Satvir Kaur MP | 3400 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5572 |
 | Southend West and Leigh | David Burton-Sampson MP | 5869 |
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4401 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4308 |
 | Wolverhampton West | Warinder Juss | 3816 |
-| Worcester | Tom Collins MP | 4320 |
+| Worcester | Tom Collins MP | 4321 |
 | Worsley and Eccles | Michael Wheeler MP | 5434 |
 | Worthing West | Dr Beccy Cooper MP | 5244 |
 | Wycombe | Emma Reynolds MP | 3607 |
