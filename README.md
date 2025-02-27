@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989339                                |
-| Last Updated      | 2025-02-27 06:25:12 UTC                                    |
+| Total Signatures   | 2989347                                |
+| Last Updated      | 2025-02-27 07:16:27 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -17,7 +17,7 @@
 | Ashford | Sojan Joseph MP | 5888 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4581 |
 | Aylesbury | Laura Kyrke-Smith MP | 4863 |
-| Banbury | Sean Woodcock MP | 5443 |
+| Banbury | Sean Woodcock MP | 5445 |
 | Barking | Nesil Caliskan MP | 2630 |
 | Barnsley North | Dan Jarvis MP | 5671 |
 | Barnsley South | Stephanie Peacock MP | 5765 |
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6282 |
 | Mid Sussex | Alison Bennett MP | 4696 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4223 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5696 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5697 |
 | Milton Keynes Central | Emily Darlington MP | 4937 |
 | Milton Keynes North | Chris Curtis MP | 4566 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2668 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5853 |
 | North Dorset | Simon Hoare MP | 6311 |
 | North Durham | Luke Akehurst MP | 5380 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6064 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6065 |
 | North East Derbyshire | Louise Jones MP | 5792 |
 | North East Hampshire | Alex Brewer MP | 5953 |
 | North East Hertfordshire | Chris Hinchliff MP | 5842 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5075 |
 | Sefton Central | Bill Esterson MP | 4013 |
 | Selby | Keir Mather MP | 6362 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6659 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6660 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3416 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
@@ -473,7 +473,7 @@
 | Stratford and Bow | Uma Kumaran MP | 1763 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6706 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1861 |
-| Stretford and Urmston | Andrew Western MP | 3816 |
+| Stretford and Urmston | Andrew Western MP | 3817 |
 | Stroud | Dr Simon Opher MP | 4530 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5394 |
 | Sunderland Central | Lewis Atkinson MP | 5229 |
@@ -510,7 +510,7 @@
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4001 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
 | Warrington North | Charlotte Nichols MP | 5145 |
-| Warrington South | Sarah Hall MP | 5558 |
+| Warrington South | Sarah Hall MP | 5559 |
 | Warwick and Leamington | Matt Western MP | 4469 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5309 |
 | Watford | Matt Turmaine MP | 3740 |
@@ -583,7 +583,7 @@
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3469 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3403 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3013 |
-| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4068 |
+| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4069 |
 | Coatbridge and Bellshill | Frank McNally MP | 2582 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2850 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2677 |
