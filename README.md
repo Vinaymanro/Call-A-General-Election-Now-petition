@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989527                                |
-| Last Updated      | 2025-02-28 08:22:07 UTC                                    |
+| Total Signatures   | 2989536                                |
+| Last Updated      | 2025-02-28 09:18:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -32,7 +32,7 @@
 | Bedford | Mohammad Yasin MP | 3223 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
-| Beverley and Holderness | Rt Hon Graham Stuart MP | 6152 |
+| Beverley and Holderness | Rt Hon Graham Stuart MP | 6153 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6128 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5045 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
@@ -56,7 +56,7 @@
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
 | Bolton North East | Kirith Entwistle MP | 5591 |
-| Bolton South and Walkden | Yasmin Qureshi MP | 4404 |
+| Bolton South and Walkden | Yasmin Qureshi MP | 4405 |
 | Bolton West | Phil Brickell MP | 5575 |
 | Bootle | Peter Dowd MP | 3143 |
 | Boston and Skegness | Richard Tice MP | 7078 |
@@ -126,7 +126,7 @@
 | Congleton | Mrs Sarah Russell MP | 5967 |
 | Corby and East Northamptonshire | Lee Barron MP | 6000 |
 | Coventry East | Mary Creagh MP | 3586 |
-| Coventry North West | Taiwo Owatemi MP | 4248 |
+| Coventry North West | Taiwo Owatemi MP | 4249 |
 | Coventry South | Zarah Sultana MP | 3512 |
 | Cramlington and Killingworth | Emma Foody MP | 5794 |
 | Crawley | Peter Lamb MP | 4712 |
@@ -142,14 +142,14 @@
 | Derby South | Baggy Shanker MP | 3602 |
 | Derbyshire Dales | John Whitby MP | 6773 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3173 |
-| Didcot and Wantage | Olly Glover MP | 4878 |
+| Didcot and Wantage | Olly Glover MP | 4879 |
 | Doncaster Central | Sally Jameson MP | 4933 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6069 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5558 |
 | Dorking and Horley | Chris Coghlan MP | 5552 |
 | Dover and Deal | Mike Tapp MP | 5920 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6557 |
-| Dudley | Sonia Kumar MP | 5382 |
+| Dudley | Sonia Kumar MP | 5383 |
 | Dulwich and West Norwood | Helen Hayes MP | 1558 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5512 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3088 |
@@ -378,7 +378,7 @@
 | Poplar and Limehouse | Apsana Begum MP | 2920 |
 | Portsmouth North | Amanda Martin MP | 5609 |
 | Portsmouth South | Stephen Morgan MP | 3869 |
-| Preston | Sir Mark Hendrick MP | 3804 |
+| Preston | Sir Mark Hendrick MP | 3805 |
 | Putney | Fleur Anderson MP | 3515 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2149 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5109 |
@@ -436,7 +436,7 @@
 | South Leicestershire | Alberto Costa MP | 6981 |
 | South Norfolk | Ben Goldsborough MP | 5438 |
 | South Northamptonshire | Sarah Bool MP | 6667 |
-| South Ribble | Mr Paul Foster MP | 5892 |
+| South Ribble | Mr Paul Foster MP | 5893 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4715 |
 | South Shropshire | Stuart Anderson MP | 7320 |
 | South Suffolk | James Cartlidge MP | 6145 |
@@ -500,7 +500,7 @@
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6574 |
 | Tottenham | Rt Hon David Lammy MP | 1683 |
 | Truro and Falmouth | Jayne Kirkham MP | 4602 |
-| Tunbridge Wells | Mike Martin MP | 5452 |
+| Tunbridge Wells | Mike Martin MP | 5453 |
 | Twickenham | Munira Wilson MP | 3650 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4484 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4477 |
@@ -562,7 +562,7 @@
 | Lagan Valley | Sorcha Eastwood MP | 3520 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1891 |
 | Newry and Armagh | Dáire Hughes MP | 2070 |
-| North Antrim | Jim Allister KC MP | 3087 |
+| North Antrim | Jim Allister KC MP | 3088 |
 | North Down | Alex Easton MP | 3349 |
 | South Antrim | Robin Swann MP | 3085 |
 | South Down | Chris Hazzard MP | 1840 |
