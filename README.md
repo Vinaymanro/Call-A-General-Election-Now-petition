@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989511                                |
-| Last Updated      | 2025-02-28 05:18:38 UTC                                    |
+| Total Signatures   | 2989514                                |
+| Last Updated      | 2025-02-28 06:24:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3762 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6145 |
 | Blackpool South | Chris Webb MP | 5800 |
-| Blaydon and Consett | Liz Twist MP | 5240 |
+| Blaydon and Consett | Liz Twist MP | 5241 |
 | Blyth and Ashington | Ian Lavery MP | 5847 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
@@ -99,7 +99,7 @@
 | Canterbury | Rosie Duffield MP | 4468 |
 | Carlisle | Ms Julie Minns MP | 6523 |
 | Carshalton and Wallington | Bobby Dean MP | 4265 |
-| Castle Point | Rebecca Harris MP | 7520 |
+| Castle Point | Rebecca Harris MP | 7521 |
 | Central Devon | Rt Hon Mel Stride MP | 5798 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5298 |
 | Chatham and Aylesford | Tristan Osborne MP | 5625 |
@@ -363,7 +363,7 @@
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5225 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4077 |
 | Orpington | Gareth Bacon MP | 5307 |
-| Ossett and Denby Dale | Jade Botterill MP | 5791 |
+| Ossett and Denby Dale | Jade Botterill MP | 5792 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
 | Oxford West and Abingdon | Layla Moran MP | 2926 |
 | Peckham | Miatta Fahnbulleh MP | 1356 |
