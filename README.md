@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989601                                |
-| Last Updated      | 2025-02-28 16:22:41 UTC                                    |
+| Total Signatures   | 2989608                                |
+| Last Updated      | 2025-02-28 17:14:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5847 |
 | Cities of London and Westminster | Rachel Blake MP | 5169 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
-| Clacton | Nigel Farage MP | 8073 |
+| Clacton | Nigel Farage MP | 8074 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1739 |
 | Colchester | Pam Cox MP | 4990 |
 | Colne Valley | Paul Davies MP | 5022 |
@@ -163,7 +163,7 @@
 | East Surrey | Rt Hon Claire Coutinho MP | 6021 |
 | East Thanet | Ms Polly Billington MP | 5475 |
 | East Wiltshire | Danny Kruger MP | 6062 |
-| East Worthing and Shoreham | Tom Rutland MP | 4601 |
+| East Worthing and Shoreham | Tom Rutland MP | 4602 |
 | Eastbourne | Josh Babarinde MP | 5034 |
 | Eastleigh | Liz Jarvis MP | 4326 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2221 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6192 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5440 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6184 |
-| Peterborough | Andrew Pakes MP | 4153 |
+| Peterborough | Andrew Pakes MP | 4154 |
 | Plymouth Moor View | Fred Thomas MP | 5672 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4739 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5439 |
@@ -426,7 +426,7 @@
 | Smethwick | Gurinder Singh Josan MP | 3053 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5437 |
 | South Basildon and East Thurrock | James McMurdock MP | 6602 |
-| South Cambridgeshire | Pippa Heylings MP | 4446 |
+| South Cambridgeshire | Pippa Heylings MP | 4449 |
 | South Cotswolds | Dr Roz Savage MP | 5715 |
 | South Derbyshire | Samantha Niblett MP | 6164 |
 | South Devon | Caroline Voaden MP | 5320 |
@@ -457,7 +457,7 @@
 | St Helens North | David Baines MP | 4690 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4145 |
 | St Ives | Andrew George MP | 5086 |
-| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4797 |
+| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4798 |
 | Stafford | Leigh Ingham MP | 5605 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6416 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5341 |
