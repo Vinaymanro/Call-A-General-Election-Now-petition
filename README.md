@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989633                                |
-| Last Updated      | 2025-02-28 20:18:49 UTC                                    |
+| Total Signatures   | 2989646                                |
+| Last Updated      | 2025-02-28 21:15:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -49,10 +49,10 @@
 | Bishop Auckland | Sam Rushworth MP | 6161 |
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3762 |
-| Blackpool North and Fleetwood | Lorraine Beavers MP | 6145 |
+| Blackpool North and Fleetwood | Lorraine Beavers MP | 6146 |
 | Blackpool South | Chris Webb MP | 5800 |
 | Blaydon and Consett | Liz Twist MP | 5241 |
-| Blyth and Ashington | Ian Lavery MP | 5848 |
+| Blyth and Ashington | Ian Lavery MP | 5849 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
 | Bolton North East | Kirith Entwistle MP | 5591 |
@@ -214,7 +214,7 @@
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4713 |
 | Harlow | Chris Vince MP | 6062 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4536 |
-| Harrogate and Knaresborough | Tom Gordon MP | 5111 |
+| Harrogate and Knaresborough | Tom Gordon MP | 5112 |
 | Harrow East | Bob Blackman MP | 3128 |
 | Harrow West | Gareth Thomas MP | 2402 |
 | Hartlepool | Mr Jonathan Brash MP | 5642 |
@@ -398,7 +398,7 @@
 | Rossendale and Darwen | Andy MacNae MP | 6487 |
 | Rother Valley | Jake Richards MP | 5850 |
 | Rotherham | Sarah Champion MP | 4943 |
-| Rugby | John Slinger MP | 5405 |
+| Rugby | John Slinger MP | 5407 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4103 |
 | Runcorn and Helsby | Mike Amesbury MP | 5021 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5831 |
@@ -433,7 +433,7 @@
 | South Dorset | Lloyd Hatton MP | 5650 |
 | South East Cornwall | Anna Gelderd MP | 6233 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7129 |
-| South Leicestershire | Alberto Costa MP | 6981 |
+| South Leicestershire | Alberto Costa MP | 6982 |
 | South Norfolk | Ben Goldsborough MP | 5438 |
 | South Northamptonshire | Sarah Bool MP | 6667 |
 | South Ribble | Mr Paul Foster MP | 5893 |
@@ -446,7 +446,7 @@
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5197 |
 | Southampton Itchen | Darren Paffey MP | 4535 |
 | Southampton Test | Satvir Kaur MP | 3400 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5572 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5574 |
 | Southend West and Leigh | David Burton-Sampson MP | 5869 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2585 |
 | Southport | Patrick Hurley MP | 5944 |
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5580 |
 | Tewkesbury | Cameron Thomas MP | 5009 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6396 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7423 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7425 |
 | Thornbury and Yate | Claire Young MP | 5687 |
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
@@ -506,7 +506,7 @@
 | Uxbridge and South Ruislip | Danny Beales MP | 4477 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1675 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4908 |
-| Wallasey | Dame Angela Eagle MP | 4061 |
+| Wallasey | Dame Angela Eagle MP | 4062 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4002 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
 | Warrington North | Charlotte Nichols MP | 5145 |
@@ -559,7 +559,7 @@
 | East Londonderry | Mr Gregory Campbell MP | 2522 |
 | Fermanagh and South Tyrone | Pat Cullen MP | 2263 |
 | Foyle | Colum Eastwood MP | 1057 |
-| Lagan Valley | Sorcha Eastwood MP | 3520 |
+| Lagan Valley | Sorcha Eastwood MP | 3521 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1891 |
 | Newry and Armagh | Dáire Hughes MP | 2070 |
 | North Antrim | Jim Allister KC MP | 3088 |
@@ -656,5 +656,5 @@
 | Swansea West | Torsten Bell MP | 3646 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4611 |
-| Wrexham | Andrew Ranger MP | 4792 |
+| Wrexham | Andrew Ranger MP | 4793 |
 | Ynys Môn | Llinos Medi MP | 3730 |
