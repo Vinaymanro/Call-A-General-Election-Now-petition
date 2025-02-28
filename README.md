@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989510                                |
-| Last Updated      | 2025-02-28 04:21:04 UTC                                    |
+| Total Signatures   | 2989511                                |
+| Last Updated      | 2025-02-28 05:18:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5066 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6572 |
-| Whitehaven and Workington | Josh MacAlister MP | 5837 |
+| Whitehaven and Workington | Josh MacAlister MP | 5838 |
 | Widnes and Halewood | Derek Twigg MP | 4229 |
 | Wigan | Rt Hon Lisa Nandy MP | 5942 |
 | Wimbledon | Mr Paul Kohler MP | 3408 |
