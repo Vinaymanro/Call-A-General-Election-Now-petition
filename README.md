@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989656                                |
-| Last Updated      | 2025-02-28 22:16:15 UTC                                    |
+| Total Signatures   | 2989662                                |
+| Last Updated      | 2025-02-28 23:16:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -64,7 +64,7 @@
 | Bournemouth West | Jessica Toale MP | 4908 |
 | Bracknell | Peter Swallow MP | 4967 |
 | Bradford East | Imran Hussain MP | 2886 |
-| Bradford South | Judith Cummins MP | 4173 |
+| Bradford South | Judith Cummins MP | 4174 |
 | Bradford West | Naz Shah MP | 1810 |
 | Braintree | Rt Hon James Cleverly MP | 7429 |
 | Brent East | Dawn Butler MP | 1860 |
@@ -191,7 +191,7 @@
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6648 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4518 |
 | Gedling | Michael Payne MP | 5051 |
-| Gillingham and Rainham | Naushabah Khan MP | 5048 |
+| Gillingham and Rainham | Naushabah Khan MP | 5049 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5587 |
 | Gloucester | Alex McIntyre MP | 4532 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5234 |
@@ -227,7 +227,7 @@
 | Hendon | David Pinto-Duschinsky MP | 3797 |
 | Henley and Thame | Freddie van Mierlo MP | 5401 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5273 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6295 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6296 |
 | Hertford and Stortford | Josh Dean MP | 5973 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5742 |
 | Hexham | Joe Morris MP | 6407 |
@@ -254,7 +254,7 @@
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5079 |
 | Keighley and Ilkley | Robbie Moore MP | 4685 |
-| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6096 |
+| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6097 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
 | Kettering | Rosie Wrighting MP | 5902 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3744 |
@@ -626,10 +626,10 @@
 | Central Ayrshire | Alan Gemmell MP | 3130 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3247 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3681 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3682 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5745 |
 | Bangor Aberconwy | Claire Hughes MP | 4511 |
-| Blaenau Gwent and Rhymney | Nick Smith MP | 3632 |
+| Blaenau Gwent and Rhymney | Nick Smith MP | 3633 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5273 |
 | Bridgend | Chris Elmore MP | 4230 |
 | Caerfyrddin | Ann Davies MP | 5198 |
