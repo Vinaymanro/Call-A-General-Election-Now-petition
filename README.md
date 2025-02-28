@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989608                                |
-| Last Updated      | 2025-02-28 17:14:24 UTC                                    |
+| Total Signatures   | 2989618                                |
+| Last Updated      | 2025-02-28 18:24:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -95,12 +95,12 @@
 | Calder Valley | Josh Fenton-Glynn MP | 5649 |
 | Camborne and Redruth | Perran Moon MP | 4959 |
 | Cambridge | Daniel Zeichner MP | 2210 |
-| Cannock Chase | Josh Newbury MP | 6874 |
+| Cannock Chase | Josh Newbury MP | 6875 |
 | Canterbury | Rosie Duffield MP | 4468 |
 | Carlisle | Ms Julie Minns MP | 6523 |
 | Carshalton and Wallington | Bobby Dean MP | 4265 |
 | Castle Point | Rebecca Harris MP | 7522 |
-| Central Devon | Rt Hon Mel Stride MP | 5798 |
+| Central Devon | Rt Hon Mel Stride MP | 5799 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5299 |
 | Chatham and Aylesford | Tristan Osborne MP | 5625 |
 | Cheadle | Tom Morrison MP | 4660 |
@@ -114,7 +114,7 @@
 | Chichester | Jess Brown-Fuller MP | 5918 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
 | Chippenham | Sarah Gibson MP | 4730 |
-| Chipping Barnet | Dan Tomlinson MP | 4333 |
+| Chipping Barnet | Dan Tomlinson MP | 4334 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5496 |
 | Christchurch | Sir Christopher Chope MP | 5847 |
 | Cities of London and Westminster | Rachel Blake MP | 5169 |
@@ -189,7 +189,7 @@
 | Frome and East Somerset | Anna Sabine MP | 4326 |
 | Fylde | Mr Andrew Snowden MP | 6768 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6648 |
-| Gateshead Central and Whickham | Mark Ferguson MP | 4517 |
+| Gateshead Central and Whickham | Mark Ferguson MP | 4518 |
 | Gedling | Michael Payne MP | 5051 |
 | Gillingham and Rainham | Naushabah Khan MP | 5048 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5587 |
@@ -323,7 +323,7 @@
 | Newark | Rt Hon Robert Jenrick MP | 7156 |
 | Newbury | Mr Lee Dillon MP | 4886 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4494 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4745 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4746 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3949 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5064 |
 | Newton Abbot | Martin Wrigley MP | 5106 |
@@ -378,7 +378,7 @@
 | Poplar and Limehouse | Apsana Begum MP | 2920 |
 | Portsmouth North | Amanda Martin MP | 5609 |
 | Portsmouth South | Stephen Morgan MP | 3869 |
-| Preston | Sir Mark Hendrick MP | 3805 |
+| Preston | Sir Mark Hendrick MP | 3806 |
 | Putney | Fleur Anderson MP | 3515 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2149 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5109 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5951 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5944 |
 | Tooting | Dr Rosena Allin-Khan MP | 2689 |
-| Torbay | Steve Darling MP | 5815 |
+| Torbay | Steve Darling MP | 5816 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6574 |
 | Tottenham | Rt Hon David Lammy MP | 1683 |
 | Truro and Falmouth | Jayne Kirkham MP | 4602 |
@@ -578,7 +578,7 @@
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3838 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4665 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2811 |
-| Alloa and Grangemouth | Brian Leishman MP | 3013 |
+| Alloa and Grangemouth | Brian Leishman MP | 3014 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4045 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3469 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3403 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5273 |
 | Bridgend | Chris Elmore MP | 4230 |
 | Caerfyrddin | Ann Davies MP | 5197 |
-| Caerphilly | Chris Evans MP | 3978 |
+| Caerphilly | Chris Evans MP | 3979 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2890 |
 | Cardiff North | Anna McMorrin MP | 3291 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2797 |
@@ -652,7 +652,7 @@
 | Newport East | Jessica Morden MP | 4001 |
 | Newport West and Islwyn | Ruth Jones MP | 4043 |
 | Pontypridd | Alex Davies-Jones MP | 3900 |
-| Rhondda and Ogmore | Chris Bryant MP | 4022 |
+| Rhondda and Ogmore | Chris Bryant MP | 4023 |
 | Swansea West | Torsten Bell MP | 3646 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4611 |
