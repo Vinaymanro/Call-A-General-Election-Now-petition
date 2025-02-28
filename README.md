@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989498                                |
-| Last Updated      | 2025-02-27 23:16:57 UTC                                    |
+| Total Signatures   | 2989505                                |
+| Last Updated      | 2025-02-28 01:20:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -146,7 +146,7 @@
 | Doncaster Central | Sally Jameson MP | 4933 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6069 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5558 |
-| Dorking and Horley | Chris Coghlan MP | 5551 |
+| Dorking and Horley | Chris Coghlan MP | 5552 |
 | Dover and Deal | Mike Tapp MP | 5920 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6557 |
 | Dudley | Sonia Kumar MP | 5382 |
@@ -273,7 +273,7 @@
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3777 |
 | Leicester East | Shivani Raja MP | 1879 |
 | Leicester South | Shockat Adam MP | 1840 |
-| Leicester West | Rt Hon Liz Kendall MP | 3452 |
+| Leicester West | Rt Hon Liz Kendall MP | 3453 |
 | Leigh and Atherton | Jo Platt MP | 6067 |
 | Lewes | James MacCleary MP | 4894 |
 | Lewisham East | Janet Daby MP | 2145 |
@@ -322,7 +322,7 @@
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5247 |
 | Newark | Rt Hon Robert Jenrick MP | 7156 |
 | Newbury | Mr Lee Dillon MP | 4886 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4493 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4494 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4745 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3948 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5064 |
@@ -345,7 +345,7 @@
 | North Northumberland | David Smith MP | 6427 |
 | North Shropshire | Helen Morgan MP | 6872 |
 | North Somerset | Sadik Al-Hassan MP | 4580 |
-| North Warwickshire and Bedworth | Rachel Taylor MP | 6262 |
+| North Warwickshire and Bedworth | Rachel Taylor MP | 6263 |
 | North West Cambridgeshire | Sam Carling MP | 6010 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
@@ -358,13 +358,13 @@
 | Nottingham East | Nadia Whittome MP | 2473 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
 | Nottingham South | Lilian Greenwood MP | 3050 |
-| Nuneaton | Jodie Gosling MP | 5545 |
+| Nuneaton | Jodie Gosling MP | 5546 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6212 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5225 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4077 |
 | Orpington | Gareth Bacon MP | 5307 |
 | Ossett and Denby Dale | Jade Botterill MP | 5791 |
-| Oxford East | Rt Hon Anneliese Dodds MP | 2149 |
+| Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
 | Oxford West and Abingdon | Layla Moran MP | 2926 |
 | Peckham | Miatta Fahnbulleh MP | 1356 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6192 |
@@ -436,7 +436,7 @@
 | South Leicestershire | Alberto Costa MP | 6981 |
 | South Norfolk | Ben Goldsborough MP | 5438 |
 | South Northamptonshire | Sarah Bool MP | 6667 |
-| South Ribble | Mr Paul Foster MP | 5891 |
+| South Ribble | Mr Paul Foster MP | 5892 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4715 |
 | South Shropshire | Stuart Anderson MP | 7320 |
 | South Suffolk | James Cartlidge MP | 6145 |
