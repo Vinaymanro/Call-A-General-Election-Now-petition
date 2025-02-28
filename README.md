@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989505                                |
-| Last Updated      | 2025-02-28 01:20:33 UTC                                    |
+| Total Signatures   | 2989507                                |
+| Last Updated      | 2025-02-28 02:52:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -354,7 +354,7 @@
 | Northampton North | Lucy Rigby KC MP | 4268 |
 | Northampton South | Mike Reader MP | 4960 |
 | Norwich North | Alice Macdonald MP | 4394 |
-| Norwich South | Clive Lewis MP | 3381 |
+| Norwich South | Clive Lewis MP | 3382 |
 | Nottingham East | Nadia Whittome MP | 2473 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
 | Nottingham South | Lilian Greenwood MP | 3050 |
@@ -574,7 +574,7 @@
 | Midlothian | Kirsty McNeill MP | 2792 |
 | North Ayrshire and Arran | Irene Campbell MP | 3289 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1439 |
-| Aberdeen North | Kirsty Blackman MP | 3546 |
+| Aberdeen North | Kirsty Blackman MP | 3547 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3838 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4665 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2811 |
