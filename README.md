@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989618                                |
-| Last Updated      | 2025-02-28 18:24:25 UTC                                    |
+| Total Signatures   | 2989627                                |
+| Last Updated      | 2025-02-28 19:15:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -248,7 +248,7 @@
 | Ilford North | Rt Hon Wes Streeting MP | 2621 |
 | Ilford South | Jas Athwal MP | 1591 |
 | Ipswich | Jack Abbott MP | 4136 |
-| Isle of Wight East | Joe Robertson MP | 4377 |
+| Isle of Wight East | Joe Robertson MP | 4378 |
 | Isle of Wight West | Mr Richard Quigley MP | 4068 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
@@ -330,7 +330,7 @@
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5526 |
 | Normanton and Hemsworth | Jon Trickett MP | 5486 |
 | North Bedfordshire | Richard Fuller MP | 6100 |
-| North Cornwall | Ben Maguire MP | 6396 |
+| North Cornwall | Ben Maguire MP | 6397 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6043 |
 | North Devon | Ian Roome MP | 5855 |
 | North Dorset | Simon Hoare MP | 6311 |
@@ -387,7 +387,7 @@
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4443 |
 | Redcar | Anna Turley MP | 5445 |
 | Redditch | Chris Bloore MP | 6069 |
-| Reigate | Rebecca Paul MP | 5547 |
+| Reigate | Rebecca Paul MP | 5548 |
 | Ribble Valley | Maya Ellis MP | 6704 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
 | Richmond Park | Sarah Olney MP | 4059 |
@@ -401,7 +401,7 @@
 | Rugby | John Slinger MP | 5405 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4103 |
 | Runcorn and Helsby | Mike Amesbury MP | 5021 |
-| Runnymede and Weybridge | Dr Ben Spencer MP | 5830 |
+| Runnymede and Weybridge | Dr Ben Spencer MP | 5831 |
 | Rushcliffe | James Naish MP | 5073 |
 | Rutland and Stamford | Alicia Kearns MP | 6256 |
 | Salford | Rebecca Long Bailey MP | 4656 |
@@ -453,7 +453,7 @@
 | Spelthorne | Lincoln Jopp MP | 5458 |
 | Spen Valley | Kim Leadbeater MP | 5372 |
 | St Albans | Daisy Cooper MP | 3876 |
-| St Austell and Newquay | Noah Law MP | 5602 |
+| St Austell and Newquay | Noah Law MP | 5603 |
 | St Helens North | David Baines MP | 4690 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4145 |
 | St Ives | Andrew George MP | 5086 |
@@ -507,7 +507,7 @@
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1675 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4908 |
 | Wallasey | Dame Angela Eagle MP | 4061 |
-| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4001 |
+| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4002 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
 | Warrington North | Charlotte Nichols MP | 5145 |
 | Warrington South | Sarah Hall MP | 5559 |
@@ -530,9 +530,9 @@
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6572 |
 | Whitehaven and Workington | Josh MacAlister MP | 5839 |
 | Widnes and Halewood | Derek Twigg MP | 4229 |
-| Wigan | Rt Hon Lisa Nandy MP | 5942 |
+| Wigan | Rt Hon Lisa Nandy MP | 5943 |
 | Wimbledon | Mr Paul Kohler MP | 3408 |
-| Winchester | Dr Danny Chambers MP | 4915 |
+| Winchester | Dr Danny Chambers MP | 4916 |
 | Windsor | Jack Rankin MP | 5109 |
 | Wirral West | Matthew Patrick MP | 4204 |
 | Witham | Rt Hon Priti Patel MP | 7007 |
@@ -575,7 +575,7 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3289 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1439 |
 | Aberdeen North | Kirsty Blackman MP | 3547 |
-| Aberdeen South | Rt Hon Stephen Flynn MP | 3838 |
+| Aberdeen South | Rt Hon Stephen Flynn MP | 3839 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4665 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2811 |
 | Alloa and Grangemouth | Brian Leishman MP | 3014 |
