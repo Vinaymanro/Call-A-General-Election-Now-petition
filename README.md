@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989519                                |
-| Last Updated      | 2025-02-28 07:16:46 UTC                                    |
+| Total Signatures   | 2989527                                |
+| Last Updated      | 2025-02-28 08:22:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -15,11 +15,11 @@
 | Arundel and South Downs | Andrew Griffith MP | 6953 |
 | Ashfield | Lee Anderson MP | 6156 |
 | Ashford | Sojan Joseph MP | 5888 |
-| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4582 |
+| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4583 |
 | Aylesbury | Laura Kyrke-Smith MP | 4863 |
 | Banbury | Sean Woodcock MP | 5446 |
 | Barking | Nesil Caliskan MP | 2630 |
-| Barnsley North | Dan Jarvis MP | 5671 |
+| Barnsley North | Dan Jarvis MP | 5673 |
 | Barnsley South | Stephanie Peacock MP | 5765 |
 | Barrow and Furness | Michelle Scrogham MP | 5309 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6884 |
@@ -32,7 +32,7 @@
 | Bedford | Mohammad Yasin MP | 3223 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
-| Beverley and Holderness | Rt Hon Graham Stuart MP | 6151 |
+| Beverley and Holderness | Rt Hon Graham Stuart MP | 6152 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6128 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5045 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
@@ -170,7 +170,7 @@
 | Ellesmere Port and Bromborough | Justin Madders MP | 4436 |
 | Eltham and Chislehurst | Clive Efford MP | 4699 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5170 |
-| Enfield North | Feryal Clark MP | 2884 |
+| Enfield North | Feryal Clark MP | 2885 |
 | Epping Forest | Dr Neil Hudson MP | 6570 |
 | Epsom and Ewell | Helen Maguire MP | 4922 |
 | Erewash | Adam Thompson MP | 5819 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5445 |
 | Redditch | Chris Bloore MP | 6069 |
 | Reigate | Rebecca Paul MP | 5547 |
-| Ribble Valley | Maya Ellis MP | 6701 |
+| Ribble Valley | Maya Ellis MP | 6702 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
 | Richmond Park | Sarah Olney MP | 4059 |
 | Rochdale | Paul Waugh MP | 3946 |
@@ -497,7 +497,7 @@
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5944 |
 | Tooting | Dr Rosena Allin-Khan MP | 2689 |
 | Torbay | Steve Darling MP | 5815 |
-| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6573 |
+| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6574 |
 | Tottenham | Rt Hon David Lammy MP | 1683 |
 | Truro and Falmouth | Jayne Kirkham MP | 4602 |
 | Tunbridge Wells | Mike Martin MP | 5452 |
@@ -618,7 +618,7 @@
 | Paisley and Renfrewshire North | Alison Taylor MP | 2856 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2643 |
 | Perth and Kinross-shire | Pete Wishart MP | 3500 |
-| Rutherglen | Michael Shanks MP | 2569 |
+| Rutherglen | Michael Shanks MP | 2570 |
 | Stirling and Strathallan | Chris Kane MP | 3217 |
 | West Dunbartonshire | Douglas McAllister MP | 2722 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3546 |
