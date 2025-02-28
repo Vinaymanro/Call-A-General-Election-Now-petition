@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989597                                |
-| Last Updated      | 2025-02-28 15:18:42 UTC                                    |
+| Total Signatures   | 2989601                                |
+| Last Updated      | 2025-02-28 16:22:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -40,7 +40,7 @@
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2946 |
 | Birmingham Erdington | Paulette Hamilton MP | 4231 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1577 |
-| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3477 |
+| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3478 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1895 |
 | Birmingham Northfield | Laurence Turner MP | 4887 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1718 |
@@ -86,7 +86,7 @@
 | Bromsgrove | Bradley Thomas MP | 6472 |
 | Broxbourne | Lewis Cocking MP | 6070 |
 | Broxtowe | Juliet Campbell MP | 4706 |
-| Buckingham and Bletchley | Callum Anderson MP | 5253 |
+| Buckingham and Bletchley | Callum Anderson MP | 5254 |
 | Burnley | Oliver Ryan MP | 5722 |
 | Burton and Uttoxeter | Jacob Collier MP | 5794 |
 | Bury North | Mr James Frith MP | 4973 |
@@ -468,7 +468,7 @@
 | Stoke-on-Trent Central | Gareth Snell MP | 4721 |
 | Stoke-on-Trent North | David Williams MP | 5447 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5724 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6530 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6531 |
 | Stourbridge | Cat Eccles MP | 5154 |
 | Stratford and Bow | Uma Kumaran MP | 1764 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6707 |
@@ -490,7 +490,7 @@
 | Tewkesbury | Cameron Thomas MP | 5009 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6396 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7423 |
-| Thornbury and Yate | Claire Young MP | 5686 |
+| Thornbury and Yate | Claire Young MP | 5687 |
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5951 |
