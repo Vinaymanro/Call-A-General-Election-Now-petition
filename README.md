@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989514                                |
-| Last Updated      | 2025-02-28 06:24:41 UTC                                    |
+| Total Signatures   | 2989519                                |
+| Last Updated      | 2025-02-28 07:16:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -117,7 +117,7 @@
 | Chipping Barnet | Dan Tomlinson MP | 4333 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5496 |
 | Christchurch | Sir Christopher Chope MP | 5847 |
-| Cities of London and Westminster | Rachel Blake MP | 5166 |
+| Cities of London and Westminster | Rachel Blake MP | 5167 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
 | Clacton | Nigel Farage MP | 8073 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1739 |
@@ -384,7 +384,7 @@
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5109 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3025 |
-| Reading West and Mid Berkshire | Olivia Bailey MP | 4441 |
+| Reading West and Mid Berkshire | Olivia Bailey MP | 4442 |
 | Redcar | Anna Turley MP | 5445 |
 | Redditch | Chris Bloore MP | 6069 |
 | Reigate | Rebecca Paul MP | 5547 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5066 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6572 |
-| Whitehaven and Workington | Josh MacAlister MP | 5838 |
+| Whitehaven and Workington | Josh MacAlister MP | 5839 |
 | Widnes and Halewood | Derek Twigg MP | 4229 |
 | Wigan | Rt Hon Lisa Nandy MP | 5942 |
 | Wimbledon | Mr Paul Kohler MP | 3408 |
@@ -541,7 +541,7 @@
 | Wokingham | Clive Jones MP | 4864 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4401 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4308 |
-| Wolverhampton West | Warinder Juss | 3816 |
+| Wolverhampton West | Warinder Juss | 3817 |
 | Worcester | Tom Collins MP | 4321 |
 | Worsley and Eccles | Michael Wheeler MP | 5434 |
 | Worthing West | Dr Beccy Cooper MP | 5244 |
@@ -639,7 +639,7 @@
 | Cardiff South and Penarth | Stephen Doughty MP | 2797 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3139 |
 | Ceredigion Preseli | Ben Lake MP | 4735 |
-| Clwyd East | Becky Gittins MP | 6029 |
+| Clwyd East | Becky Gittins MP | 6030 |
 | Clwyd North | Gill German MP | 5442 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4226 |
 | Gower | Tonia Antoniazzi MP | 4755 |
