@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989581                                |
-| Last Updated      | 2025-02-28 13:23:33 UTC                                    |
+| Total Signatures   | 2989583                                |
+| Last Updated      | 2025-02-28 14:16:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -139,7 +139,7 @@
 | Dartford | Jim Dickson MP | 5728 |
 | Daventry | Rt Hon Stuart Andrew MP | 7277 |
 | Derby North | Catherine Atkinson MP | 4318 |
-| Derby South | Baggy Shanker MP | 3602 |
+| Derby South | Baggy Shanker MP | 3603 |
 | Derbyshire Dales | John Whitby MP | 6773 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3173 |
 | Didcot and Wantage | Olly Glover MP | 4879 |
@@ -195,7 +195,7 @@
 | Glastonbury and Somerton | Sarah Dyke MP | 5587 |
 | Gloucester | Alex McIntyre MP | 4532 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5234 |
-| Goole and Pocklington | Rt Hon David Davis MP | 6953 |
+| Goole and Pocklington | Rt Hon David Davis MP | 6954 |
 | Gorton and Denton | Andrew Gwynne MP | 3271 |
 | Gosport | Dame Caroline Dinenage MP | 5468 |
 | Grantham and Bourne | Gareth Davies MP | 6322 |
