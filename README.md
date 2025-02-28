@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989507                                |
-| Last Updated      | 2025-02-28 02:52:32 UTC                                    |
+| Total Signatures   | 2989510                                |
+| Last Updated      | 2025-02-28 03:24:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -280,7 +280,7 @@
 | Lewisham North | Vicky Foxcroft MP | 1651 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1586 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1878 |
-| Lichfield | Dave Robertson MP | 6471 |
+| Lichfield | Dave Robertson MP | 6472 |
 | Lincoln | Mr Hamish Falconer MP | 4642 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3124 |
 | Liverpool Riverside | Kim Johnson MP | 2633 |
@@ -349,7 +349,7 @@
 | North West Cambridgeshire | Sam Carling MP | 6010 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
-| North West Leicestershire | Amanda Hack MP | 6693 |
+| North West Leicestershire | Amanda Hack MP | 6694 |
 | North West Norfolk | James Wild MP | 5751 |
 | Northampton North | Lucy Rigby KC MP | 4268 |
 | Northampton South | Mike Reader MP | 4960 |
@@ -458,7 +458,7 @@
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4145 |
 | St Ives | Andrew George MP | 5086 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4797 |
-| Stafford | Leigh Ingham MP | 5604 |
+| Stafford | Leigh Ingham MP | 5605 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6415 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5341 |
 | Stevenage | Kevin Bonavia MP | 4735 |
