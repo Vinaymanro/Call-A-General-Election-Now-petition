@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989627                                |
-| Last Updated      | 2025-02-28 19:15:03 UTC                                    |
+| Total Signatures   | 2989633                                |
+| Last Updated      | 2025-02-28 20:18:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -32,7 +32,7 @@
 | Bedford | Mohammad Yasin MP | 3223 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
-| Beverley and Holderness | Rt Hon Graham Stuart MP | 6153 |
+| Beverley and Holderness | Rt Hon Graham Stuart MP | 6154 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6128 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5045 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
@@ -187,7 +187,7 @@
 | Folkestone and Hythe | Tony Vaughan KC MP | 5390 |
 | Forest of Dean | Matt Bishop MP | 5264 |
 | Frome and East Somerset | Anna Sabine MP | 4326 |
-| Fylde | Mr Andrew Snowden MP | 6768 |
+| Fylde | Mr Andrew Snowden MP | 6769 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6648 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4518 |
 | Gedling | Michael Payne MP | 5051 |
@@ -318,7 +318,7 @@
 | Milton Keynes North | Chris Curtis MP | 4566 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2668 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5762 |
-| New Forest East | Rt Hon Sir Julian Lewis MP | 5414 |
+| New Forest East | Rt Hon Sir Julian Lewis MP | 5415 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5247 |
 | Newark | Rt Hon Robert Jenrick MP | 7156 |
 | Newbury | Mr Lee Dillon MP | 4886 |
@@ -372,7 +372,7 @@
 | Penrith and Solway | Markus Campbell-Savours MP | 6184 |
 | Peterborough | Andrew Pakes MP | 4154 |
 | Plymouth Moor View | Fred Thomas MP | 5672 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4739 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4740 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5439 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
 | Poplar and Limehouse | Apsana Begum MP | 2920 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3910 |
 | Stockton North | Chris McDonald MP | 4835 |
 | Stockton West | Matt Vickers MP | 5984 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4721 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4723 |
 | Stoke-on-Trent North | David Williams MP | 5447 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5724 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6531 |
