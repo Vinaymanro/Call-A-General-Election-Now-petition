@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989575                                |
-| Last Updated      | 2025-02-28 12:34:23 UTC                                    |
+| Total Signatures   | 2989581                                |
+| Last Updated      | 2025-02-28 13:23:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -58,7 +58,7 @@
 | Bolton North East | Kirith Entwistle MP | 5591 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4405 |
 | Bolton West | Phil Brickell MP | 5575 |
-| Bootle | Peter Dowd MP | 3143 |
+| Bootle | Peter Dowd MP | 3144 |
 | Boston and Skegness | Richard Tice MP | 7078 |
 | Bournemouth East | Tom Hayes MP | 4658 |
 | Bournemouth West | Jessica Toale MP | 4908 |
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5111 |
 | Harrow East | Bob Blackman MP | 3128 |
 | Harrow West | Gareth Thomas MP | 2402 |
-| Hartlepool | Mr Jonathan Brash MP | 5641 |
+| Hartlepool | Mr Jonathan Brash MP | 5642 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6270 |
 | Hastings and Rye | Helena Dollimore MP | 5065 |
 | Havant | Alan Mak MP | 5651 |
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6282 |
 | Mid Sussex | Alison Bennett MP | 4696 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4223 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5697 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5698 |
 | Milton Keynes Central | Emily Darlington MP | 4937 |
 | Milton Keynes North | Chris Curtis MP | 4566 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2668 |
@@ -439,7 +439,7 @@
 | South Ribble | Mr Paul Foster MP | 5893 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4715 |
 | South Shropshire | Stuart Anderson MP | 7320 |
-| South Suffolk | James Cartlidge MP | 6145 |
+| South Suffolk | James Cartlidge MP | 6146 |
 | South West Devon | Rebecca Smith MP | 5970 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5201 |
 | South West Norfolk | Terry Jermy MP | 6519 |
@@ -486,7 +486,7 @@
 | Tamworth | Sarah Edwards MP | 6934 |
 | Tatton | Rt Hon Esther McVey MP | 6496 |
 | Taunton and Wellington | Gideon Amos MP | 5164 |
-| Telford | Shaun Davies MP | 5578 |
+| Telford | Shaun Davies MP | 5580 |
 | Tewkesbury | Cameron Thomas MP | 5009 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6396 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7423 |
