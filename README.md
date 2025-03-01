@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989675                                |
-| Last Updated      | 2025-03-01 03:30:29 UTC                                    |
+| Total Signatures   | 2989677                                |
+| Last Updated      | 2025-03-01 04:19:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -210,7 +210,7 @@
 | Halifax | Kate Dearden MP | 4746 |
 | Hamble Valley | Paul Holmes MP | 6137 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3194 |
-| Hampstead and Highgate | Tulip Siddiq MP | 2961 |
+| Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4713 |
 | Harlow | Chris Vince MP | 6062 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4536 |
@@ -231,7 +231,7 @@
 | Hertford and Stortford | Josh Dean MP | 5973 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5742 |
 | Hexham | Joe Morris MP | 6407 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5252 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5253 |
 | High Peak | Jon Pearce MP | 5446 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6479 |
 | Hitchin | Alistair Strathern MP | 4916 |
