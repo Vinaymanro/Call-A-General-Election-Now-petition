@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989699                                |
-| Last Updated      | 2025-03-01 09:16:29 UTC                                    |
+| Total Signatures   | 2989702                                |
+| Last Updated      | 2025-03-01 10:16:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -26,7 +26,7 @@
 | Basingstoke | Luke Murphy MP | 4811 |
 | Bassetlaw | Jo White MP | 6740 |
 | Bath | Wera Hobhouse MP | 2978 |
-| Battersea | Marsha De Cordova MP | 3611 |
+| Battersea | Marsha De Cordova MP | 3612 |
 | Beaconsfield | Joy Morrissey MP | 5210 |
 | Beckenham and Penge | Liam Conlon MP | 3838 |
 | Bedford | Mohammad Yasin MP | 3223 |
@@ -62,7 +62,7 @@
 | Boston and Skegness | Richard Tice MP | 7079 |
 | Bournemouth East | Tom Hayes MP | 4658 |
 | Bournemouth West | Jessica Toale MP | 4908 |
-| Bracknell | Peter Swallow MP | 4968 |
+| Bracknell | Peter Swallow MP | 4969 |
 | Bradford East | Imran Hussain MP | 2886 |
 | Bradford South | Judith Cummins MP | 4174 |
 | Bradford West | Naz Shah MP | 1810 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5445 |
 | Redditch | Chris Bloore MP | 6069 |
 | Reigate | Rebecca Paul MP | 5549 |
-| Ribble Valley | Maya Ellis MP | 6704 |
+| Ribble Valley | Maya Ellis MP | 6705 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
 | Richmond Park | Sarah Olney MP | 4059 |
 | Rochdale | Paul Waugh MP | 3946 |
