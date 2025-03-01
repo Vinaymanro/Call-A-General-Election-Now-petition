@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989682                                |
-| Last Updated      | 2025-03-01 07:15:29 UTC                                    |
+| Total Signatures   | 2989690                                |
+| Last Updated      | 2025-03-01 08:20:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4405 |
 | Bolton West | Phil Brickell MP | 5575 |
 | Bootle | Peter Dowd MP | 3144 |
-| Boston and Skegness | Richard Tice MP | 7078 |
+| Boston and Skegness | Richard Tice MP | 7079 |
 | Bournemouth East | Tom Hayes MP | 4658 |
 | Bournemouth West | Jessica Toale MP | 4908 |
 | Bracknell | Peter Swallow MP | 4967 |
@@ -111,7 +111,7 @@
 | Chester North and Neston | Samantha Dixon MP | 4051 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6385 |
 | Chesterfield | Mr Toby Perkins MP | 4873 |
-| Chichester | Jess Brown-Fuller MP | 5918 |
+| Chichester | Jess Brown-Fuller MP | 5919 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
 | Chippenham | Sarah Gibson MP | 4730 |
 | Chipping Barnet | Dan Tomlinson MP | 4334 |
@@ -239,7 +239,7 @@
 | Honiton and Sidmouth | Richard Foord MP | 5251 |
 | Hornchurch and Upminster | Julia Lopez MP | 6606 |
 | Hornsey and Friern Barnet | Catherine West MP | 1936 |
-| Horsham | John Milne MP | 5827 |
+| Horsham | John Milne MP | 5828 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6293 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3327 |
 | Huddersfield | Harpreet Uppal MP | 3678 |
@@ -291,7 +291,7 @@
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7793 |
 | Lowestoft | Jess Asato MP | 5328 |
 | Luton North | Sarah Owen MP | 2468 |
-| Luton South and South Bedfordshire | Rachel Hopkins MP | 2940 |
+| Luton South and South Bedfordshire | Rachel Hopkins MP | 2941 |
 | Macclesfield | Tim Roca MP | 5398 |
 | Maidenhead | Mr Joshua Reynolds MP | 5281 |
 | Maidstone and Malling | Helen Grant MP | 5841 |
@@ -449,7 +449,7 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5574 |
 | Southend West and Leigh | David Burton-Sampson MP | 5869 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2585 |
-| Southport | Patrick Hurley MP | 5944 |
+| Southport | Patrick Hurley MP | 5945 |
 | Spelthorne | Lincoln Jopp MP | 5458 |
 | Spen Valley | Kim Leadbeater MP | 5372 |
 | St Albans | Daisy Cooper MP | 3876 |
@@ -461,7 +461,7 @@
 | Stafford | Leigh Ingham MP | 5605 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6416 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5341 |
-| Stevenage | Kevin Bonavia MP | 4735 |
+| Stevenage | Kevin Bonavia MP | 4736 |
 | Stockport | Navendu Mishra MP | 3910 |
 | Stockton North | Chris McDonald MP | 4835 |
 | Stockton West | Matt Vickers MP | 5984 |
@@ -564,12 +564,12 @@
 | Newry and Armagh | Dáire Hughes MP | 2070 |
 | North Antrim | Jim Allister KC MP | 3088 |
 | North Down | Alex Easton MP | 3349 |
-| South Antrim | Robin Swann MP | 3085 |
+| South Antrim | Robin Swann MP | 3086 |
 | South Down | Chris Hazzard MP | 1840 |
 | Strangford | Jim Shannon MP | 3453 |
 | Upper Bann | Carla Lockhart MP | 3061 |
 | West Tyrone | Órfhlaith Begley MP | 1664 |
-| East Renfrewshire | Blair McDougall MP | 2588 |
+| East Renfrewshire | Blair McDougall MP | 2589 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
 | Midlothian | Kirsty McNeill MP | 2792 |
 | North Ayrshire and Arran | Irene Campbell MP | 3289 |
