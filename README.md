@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989731                                |
-| Last Updated      | 2025-03-01 14:14:24 UTC                                    |
+| Total Signatures   | 2989739                                |
+| Last Updated      | 2025-03-01 15:17:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -49,7 +49,7 @@
 | Bishop Auckland | Sam Rushworth MP | 6161 |
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3762 |
-| Blackpool North and Fleetwood | Lorraine Beavers MP | 6146 |
+| Blackpool North and Fleetwood | Lorraine Beavers MP | 6147 |
 | Blackpool South | Chris Webb MP | 5800 |
 | Blaydon and Consett | Liz Twist MP | 5242 |
 | Blyth and Ashington | Ian Lavery MP | 5849 |
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5383 |
 | Dulwich and West Norwood | Helen Hayes MP | 1558 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5512 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3088 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3089 |
 | Ealing North | James Murray MP | 2578 |
 | Ealing Southall | Deirdre Costigan MP | 1954 |
 | Earley and Woodley | Yuan Yang MP | 3952 |
@@ -190,7 +190,7 @@
 | Fylde | Mr Andrew Snowden MP | 6770 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6648 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4518 |
-| Gedling | Michael Payne MP | 5051 |
+| Gedling | Michael Payne MP | 5052 |
 | Gillingham and Rainham | Naushabah Khan MP | 5049 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5587 |
 | Gloucester | Alex McIntyre MP | 4532 |
@@ -248,13 +248,13 @@
 | Ilford North | Rt Hon Wes Streeting MP | 2621 |
 | Ilford South | Jas Athwal MP | 1591 |
 | Ipswich | Jack Abbott MP | 4136 |
-| Isle of Wight East | Joe Robertson MP | 4378 |
+| Isle of Wight East | Joe Robertson MP | 4379 |
 | Isle of Wight West | Mr Richard Quigley MP | 4068 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5079 |
 | Keighley and Ilkley | Robbie Moore MP | 4685 |
-| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6097 |
+| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6098 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
 | Kettering | Rosie Wrighting MP | 5902 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3744 |
@@ -353,7 +353,7 @@
 | North West Norfolk | James Wild MP | 5752 |
 | Northampton North | Lucy Rigby KC MP | 4268 |
 | Northampton South | Mike Reader MP | 4960 |
-| Norwich North | Alice Macdonald MP | 4394 |
+| Norwich North | Alice Macdonald MP | 4395 |
 | Norwich South | Clive Lewis MP | 3382 |
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
@@ -467,7 +467,7 @@
 | Stockton West | Matt Vickers MP | 5985 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4724 |
 | Stoke-on-Trent North | David Williams MP | 5447 |
-| Stoke-on-Trent South | Dr Allison Gardner MP | 5724 |
+| Stoke-on-Trent South | Dr Allison Gardner MP | 5725 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6531 |
 | Stourbridge | Cat Eccles MP | 5154 |
 | Stratford and Bow | Uma Kumaran MP | 1764 |
@@ -587,7 +587,7 @@
 | Coatbridge and Bellshill | Frank McNally MP | 2582 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2850 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2678 |
-| Dumfries and Galloway | John Cooper MP | 4039 |
+| Dumfries and Galloway | John Cooper MP | 4040 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3854 |
 | Dundee Central | Chris Law MP | 2540 |
 | Dunfermline and Dollar | Graeme Downie MP | 2926 |
