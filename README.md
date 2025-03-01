@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989777                                |
-| Last Updated      | 2025-03-01 20:17:12 UTC                                    |
+| Total Signatures   | 2989786                                |
+| Last Updated      | 2025-03-01 21:14:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -166,7 +166,7 @@
 | East Worthing and Shoreham | Tom Rutland MP | 4603 |
 | Eastbourne | Josh Babarinde MP | 5036 |
 | Eastleigh | Liz Jarvis MP | 4326 |
-| Edmonton and Winchmore Hill | Kate Osamor MP | 2221 |
+| Edmonton and Winchmore Hill | Kate Osamor MP | 2222 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4436 |
 | Eltham and Chislehurst | Clive Efford MP | 4699 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5170 |
@@ -302,7 +302,7 @@
 | Manchester Withington | Jeff Smith MP | 1670 |
 | Mansfield | Steve Yemm MP | 6190 |
 | Melksham and Devizes | Brian Mathew MP | 5008 |
-| Melton and Syston | Rt Hon Edward Argar MP | 6106 |
+| Melton and Syston | Rt Hon Edward Argar MP | 6107 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6069 |
 | Mid Bedfordshire | Blake Stephenson MP | 5841 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
@@ -378,7 +378,7 @@
 | Poplar and Limehouse | Apsana Begum MP | 2920 |
 | Portsmouth North | Amanda Martin MP | 5609 |
 | Portsmouth South | Stephen Morgan MP | 3869 |
-| Preston | Sir Mark Hendrick MP | 3806 |
+| Preston | Sir Mark Hendrick MP | 3807 |
 | Putney | Fleur Anderson MP | 3515 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2150 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5109 |
@@ -408,7 +408,7 @@
 | Salisbury | Rt Hon John Glen MP | 4744 |
 | Scarborough and Whitby | Alison Hume MP | 5994 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5075 |
-| Sefton Central | Bill Esterson MP | 4013 |
+| Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6363 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6661 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3416 |
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5580 |
 | Tewkesbury | Cameron Thomas MP | 5009 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6397 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7426 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7428 |
 | Thornbury and Yate | Claire Young MP | 5687 |
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
@@ -563,7 +563,7 @@
 | Mid Ulster | Mr Cathal Mallaghan MP | 1891 |
 | Newry and Armagh | Dáire Hughes MP | 2070 |
 | North Antrim | Jim Allister KC MP | 3088 |
-| North Down | Alex Easton MP | 3349 |
+| North Down | Alex Easton MP | 3350 |
 | South Antrim | Robin Swann MP | 3086 |
 | South Down | Chris Hazzard MP | 1840 |
 | Strangford | Jim Shannon MP | 3453 |
@@ -604,7 +604,7 @@
 | Glasgow South | Gordon McKee MP | 1845 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2256 |
 | Glasgow West | Patricia Ferguson MP | 2211 |
-| Glenrothes and Mid Fife | Richard Baker MP | 2964 |
+| Glenrothes and Mid Fife | Richard Baker MP | 2965 |
 | Gordon and Buchan | Harriet Cross MP | 4387 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3133 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2745 |
@@ -612,7 +612,7 @@
 | Livingston | Gregor Poynton MP | 3394 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2852 |
 | Mid Dunbartonshire | Susan Murray MP | 2523 |
-| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3932 |
+| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3933 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2728 |
 | North East Fife | Wendy Chamberlain MP | 2901 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2856 |
