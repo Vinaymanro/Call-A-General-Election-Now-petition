@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989677                                |
-| Last Updated      | 2025-03-01 04:19:59 UTC                                    |
+| Total Signatures   | 2989680                                |
+| Last Updated      | 2025-03-01 05:16:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -179,7 +179,7 @@
 | Exeter | Steve Race MP | 3172 |
 | Exmouth and Exeter East | David Reed MP | 5202 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6119 |
-| Farnham and Bordon | Gregory Stafford MP | 5184 |
+| Farnham and Bordon | Gregory Stafford MP | 5186 |
 | Faversham and Mid Kent | Helen Whately MP | 6221 |
 | Feltham and Heston | Seema Malhotra MP | 2918 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4504 |
@@ -548,7 +548,7 @@
 | Wycombe | Emma Reynolds MP | 3607 |
 | Wyre Forest | Mark Garnier MP | 6479 |
 | Wythenshawe and Sale East | Mike Kane MP | 4597 |
-| Yeovil | Adam Dance MP | 5597 |
+| Yeovil | Adam Dance MP | 5598 |
 | York Central | Rachael Maskell MP | 3274 |
 | York Outer | Mr Luke Charters MP | 4344 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2955 |
