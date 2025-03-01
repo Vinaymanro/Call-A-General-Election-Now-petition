@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989680                                |
-| Last Updated      | 2025-03-01 05:16:10 UTC                                    |
+| Total Signatures   | 2989681                                |
+| Last Updated      | 2025-03-01 06:23:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -628,7 +628,7 @@
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3682 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5745 |
-| Bangor Aberconwy | Claire Hughes MP | 4511 |
+| Bangor Aberconwy | Claire Hughes MP | 4512 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3633 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5273 |
 | Bridgend | Chris Elmore MP | 4230 |
