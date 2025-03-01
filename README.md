@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989714                                |
-| Last Updated      | 2025-03-01 11:12:48 UTC                                    |
+| Total Signatures   | 2989721                                |
+| Last Updated      | 2025-03-01 12:31:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -37,7 +37,7 @@
 | Bexleyheath and Crayford | Daniel Francis MP | 5045 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
 | Birkenhead | Alison McGovern MP | 4312 |
-| Birmingham Edgbaston | Preet Kaur Gill MP | 2946 |
+| Birmingham Edgbaston | Preet Kaur Gill MP | 2948 |
 | Birmingham Erdington | Paulette Hamilton MP | 4231 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1577 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3478 |
@@ -147,7 +147,7 @@
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6069 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5558 |
 | Dorking and Horley | Chris Coghlan MP | 5552 |
-| Dover and Deal | Mike Tapp MP | 5920 |
+| Dover and Deal | Mike Tapp MP | 5921 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6557 |
 | Dudley | Sonia Kumar MP | 5383 |
 | Dulwich and West Norwood | Helen Hayes MP | 1558 |
@@ -163,7 +163,7 @@
 | East Surrey | Rt Hon Claire Coutinho MP | 6021 |
 | East Thanet | Ms Polly Billington MP | 5475 |
 | East Wiltshire | Danny Kruger MP | 6062 |
-| East Worthing and Shoreham | Tom Rutland MP | 4602 |
+| East Worthing and Shoreham | Tom Rutland MP | 4603 |
 | Eastbourne | Josh Babarinde MP | 5034 |
 | Eastleigh | Liz Jarvis MP | 4326 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2221 |
@@ -322,7 +322,7 @@
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5247 |
 | Newark | Rt Hon Robert Jenrick MP | 7156 |
 | Newbury | Mr Lee Dillon MP | 4886 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4494 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4495 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4746 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3949 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5064 |
@@ -396,7 +396,7 @@
 | Romford | Andrew Rosindell MP | 5784 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5066 |
 | Rossendale and Darwen | Andy MacNae MP | 6487 |
-| Rother Valley | Jake Richards MP | 5850 |
+| Rother Valley | Jake Richards MP | 5851 |
 | Rotherham | Sarah Champion MP | 4943 |
 | Rugby | John Slinger MP | 5407 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4103 |
@@ -484,7 +484,7 @@
 | Swindon North | Will Stone MP | 4893 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4203 |
 | Tamworth | Sarah Edwards MP | 6934 |
-| Tatton | Rt Hon Esther McVey MP | 6496 |
+| Tatton | Rt Hon Esther McVey MP | 6497 |
 | Taunton and Wellington | Gideon Amos MP | 5165 |
 | Telford | Shaun Davies MP | 5580 |
 | Tewkesbury | Cameron Thomas MP | 5009 |
