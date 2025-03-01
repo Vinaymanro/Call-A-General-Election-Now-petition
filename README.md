@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989790                                |
-| Last Updated      | 2025-03-01 22:15:06 UTC                                    |
+| Total Signatures   | 2989798                                |
+| Last Updated      | 2025-03-01 23:17:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -96,7 +96,7 @@
 | Camborne and Redruth | Perran Moon MP | 4959 |
 | Cambridge | Daniel Zeichner MP | 2210 |
 | Cannock Chase | Josh Newbury MP | 6875 |
-| Canterbury | Rosie Duffield MP | 4468 |
+| Canterbury | Rosie Duffield MP | 4469 |
 | Carlisle | Ms Julie Minns MP | 6523 |
 | Carshalton and Wallington | Bobby Dean MP | 4266 |
 | Castle Point | Rebecca Harris MP | 7522 |
@@ -149,7 +149,7 @@
 | Dorking and Horley | Chris Coghlan MP | 5552 |
 | Dover and Deal | Mike Tapp MP | 5921 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6557 |
-| Dudley | Sonia Kumar MP | 5383 |
+| Dudley | Sonia Kumar MP | 5384 |
 | Dulwich and West Norwood | Helen Hayes MP | 1558 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5512 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3091 |
@@ -257,7 +257,7 @@
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6098 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
 | Kettering | Rosie Wrighting MP | 5902 |
-| Kingston and Surbiton | Rt Hon Ed Davey MP | 3744 |
+| Kingston and Surbiton | Rt Hon Ed Davey MP | 3745 |
 | Kingston upon Hull East | Karl Turner MP | 4990 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4634 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5487 |
@@ -314,7 +314,7 @@
 | Mid Sussex | Alison Bennett MP | 4696 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4223 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5698 |
-| Milton Keynes Central | Emily Darlington MP | 4937 |
+| Milton Keynes Central | Emily Darlington MP | 4938 |
 | Milton Keynes North | Chris Curtis MP | 4566 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2668 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5762 |
@@ -443,7 +443,7 @@
 | South West Devon | Rebecca Smith MP | 5970 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5201 |
 | South West Norfolk | Terry Jermy MP | 6521 |
-| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5197 |
+| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5198 |
 | Southampton Itchen | Darren Paffey MP | 4535 |
 | Southampton Test | Satvir Kaur MP | 3400 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5574 |
@@ -488,7 +488,7 @@
 | Taunton and Wellington | Gideon Amos MP | 5165 |
 | Telford | Shaun Davies MP | 5580 |
 | Tewkesbury | Cameron Thomas MP | 5009 |
-| The Wrekin | Rt Hon Mark Pritchard MP | 6397 |
+| The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7428 |
 | Thornbury and Yate | Claire Young MP | 5687 |
 | Thurrock | Jen Craft MP | 5111 |
@@ -520,7 +520,7 @@
 | Wells and Mendip Hills | Tessa Munt MP | 5249 |
 | Welwyn Hatfield | Andrew Lewin MP | 5055 |
 | West Bromwich | Sarah Coombes MP | 3780 |
-| West Dorset | Edward Morello MP | 5454 |
+| West Dorset | Edward Morello MP | 5455 |
 | West Ham and Beckton | James Asser MP | 2151 |
 | West Lancashire | Ashley Dalton MP | 5050 |
 | West Suffolk | Nick Timothy MP | 6034 |
@@ -639,7 +639,7 @@
 | Cardiff South and Penarth | Stephen Doughty MP | 2797 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3139 |
 | Ceredigion Preseli | Ben Lake MP | 4735 |
-| Clwyd East | Becky Gittins MP | 6030 |
+| Clwyd East | Becky Gittins MP | 6031 |
 | Clwyd North | Gill German MP | 5442 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4226 |
 | Gower | Tonia Antoniazzi MP | 4755 |
