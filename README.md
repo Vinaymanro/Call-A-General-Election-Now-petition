@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989739                                |
-| Last Updated      | 2025-03-01 15:17:11 UTC                                    |
+| Total Signatures   | 2989747                                |
+| Last Updated      | 2025-03-01 16:19:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5383 |
 | Dulwich and West Norwood | Helen Hayes MP | 1558 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5512 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3089 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3090 |
 | Ealing North | James Murray MP | 2578 |
 | Ealing Southall | Deirdre Costigan MP | 1954 |
 | Earley and Woodley | Yuan Yang MP | 3952 |
@@ -199,7 +199,7 @@
 | Gorton and Denton | Andrew Gwynne MP | 3271 |
 | Gosport | Dame Caroline Dinenage MP | 5468 |
 | Grantham and Bourne | Gareth Davies MP | 6322 |
-| Gravesham | Dr Lauren Sullivan MP | 5139 |
+| Gravesham | Dr Lauren Sullivan MP | 5140 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5787 |
 | Great Yarmouth | Rupert Lowe MP | 6581 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2621 |
@@ -265,7 +265,7 @@
 | Knowsley | Anneliese Midgley MP | 3272 |
 | Lancaster and Wyre | Cat Smith MP | 5075 |
 | Leeds Central and Headingley | Alex Sobel MP | 1928 |
-| Leeds East | Richard Burgon MP | 4301 |
+| Leeds East | Richard Burgon MP | 4302 |
 | Leeds North East | Fabian Hamilton MP | 2629 |
 | Leeds North West | Katie White MP | 4380 |
 | Leeds South | Rt Hon Hilary Benn MP | 3869 |
@@ -380,7 +380,7 @@
 | Portsmouth South | Stephen Morgan MP | 3869 |
 | Preston | Sir Mark Hendrick MP | 3806 |
 | Putney | Fleur Anderson MP | 3515 |
-| Queen's Park and Maida Vale | Georgia Gould MP | 2149 |
+| Queen's Park and Maida Vale | Georgia Gould MP | 2150 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5109 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3025 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5445 |
 | Redditch | Chris Bloore MP | 6069 |
 | Reigate | Rebecca Paul MP | 5549 |
-| Ribble Valley | Maya Ellis MP | 6705 |
+| Ribble Valley | Maya Ellis MP | 6706 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
 | Richmond Park | Sarah Olney MP | 4059 |
 | Rochdale | Paul Waugh MP | 3946 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6164 |
 | South Devon | Caroline Voaden MP | 5320 |
 | South Dorset | Lloyd Hatton MP | 5650 |
-| South East Cornwall | Anna Gelderd MP | 6233 |
+| South East Cornwall | Anna Gelderd MP | 6234 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7129 |
 | South Leicestershire | Alberto Costa MP | 6982 |
 | South Norfolk | Ben Goldsborough MP | 5438 |
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5580 |
 | Tewkesbury | Cameron Thomas MP | 5009 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6396 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7425 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7426 |
 | Thornbury and Yate | Claire Young MP | 5687 |
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
@@ -541,7 +541,7 @@
 | Wokingham | Clive Jones MP | 4864 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4401 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4308 |
-| Wolverhampton West | Warinder Juss | 3817 |
+| Wolverhampton West | Warinder Juss | 3818 |
 | Worcester | Tom Collins MP | 4321 |
 | Worsley and Eccles | Michael Wheeler MP | 5434 |
 | Worthing West | Dr Beccy Cooper MP | 5244 |
