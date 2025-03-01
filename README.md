@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989747                                |
-| Last Updated      | 2025-03-01 16:19:23 UTC                                    |
+| Total Signatures   | 2989751                                |
+| Last Updated      | 2025-03-01 17:13:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -25,7 +25,7 @@
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6884 |
 | Basingstoke | Luke Murphy MP | 4811 |
 | Bassetlaw | Jo White MP | 6740 |
-| Bath | Wera Hobhouse MP | 2978 |
+| Bath | Wera Hobhouse MP | 2979 |
 | Battersea | Marsha De Cordova MP | 3612 |
 | Beaconsfield | Joy Morrissey MP | 5210 |
 | Beckenham and Penge | Liam Conlon MP | 3838 |
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5847 |
 | Cities of London and Westminster | Rachel Blake MP | 5169 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
-| Clacton | Nigel Farage MP | 8074 |
+| Clacton | Nigel Farage MP | 8075 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1739 |
 | Colchester | Pam Cox MP | 4990 |
 | Colne Valley | Paul Davies MP | 5022 |
@@ -288,7 +288,7 @@
 | Liverpool Wavertree | Paula Barker MP | 2219 |
 | Liverpool West Derby | Ian Byrne MP | 3045 |
 | Loughborough | Dr Jeevun Sandher MP | 4475 |
-| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7793 |
+| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7794 |
 | Lowestoft | Jess Asato MP | 5328 |
 | Luton North | Sarah Owen MP | 2469 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2941 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 5994 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5075 |
 | Sefton Central | Bill Esterson MP | 4013 |
-| Selby | Keir Mather MP | 6362 |
+| Selby | Keir Mather MP | 6363 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6661 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3416 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
