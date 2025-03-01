@@ -3,14 +3,14 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989721                                |
-| Last Updated      | 2025-03-01 12:31:45 UTC                                    |
+| Total Signatures   | 2989726                                |
+| Last Updated      | 2025-03-01 13:19:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5449 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5798 |
-| Altrincham and Sale West | Mr Connor Rand MP | 5497 |
+| Altrincham and Sale West | Mr Connor Rand MP | 5498 |
 | Amber Valley | Linsey Farnsworth MP | 6079 |
 | Arundel and South Downs | Andrew Griffith MP | 6953 |
 | Ashfield | Lee Anderson MP | 6156 |
@@ -56,7 +56,7 @@
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
 | Bolton North East | Kirith Entwistle MP | 5591 |
-| Bolton South and Walkden | Yasmin Qureshi MP | 4405 |
+| Bolton South and Walkden | Yasmin Qureshi MP | 4406 |
 | Bolton West | Phil Brickell MP | 5575 |
 | Bootle | Peter Dowd MP | 3144 |
 | Boston and Skegness | Richard Tice MP | 7079 |
@@ -125,7 +125,7 @@
 | Colne Valley | Paul Davies MP | 5022 |
 | Congleton | Mrs Sarah Russell MP | 5968 |
 | Corby and East Northamptonshire | Lee Barron MP | 6000 |
-| Coventry East | Mary Creagh MP | 3586 |
+| Coventry East | Mary Creagh MP | 3587 |
 | Coventry North West | Taiwo Owatemi MP | 4249 |
 | Coventry South | Zarah Sultana MP | 3512 |
 | Cramlington and Killingworth | Emma Foody MP | 5794 |
@@ -164,7 +164,7 @@
 | East Thanet | Ms Polly Billington MP | 5475 |
 | East Wiltshire | Danny Kruger MP | 6062 |
 | East Worthing and Shoreham | Tom Rutland MP | 4603 |
-| Eastbourne | Josh Babarinde MP | 5034 |
+| Eastbourne | Josh Babarinde MP | 5035 |
 | Eastleigh | Liz Jarvis MP | 4326 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2221 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4436 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5273 |
 | Bridgend | Chris Elmore MP | 4230 |
 | Caerfyrddin | Ann Davies MP | 5198 |
-| Caerphilly | Chris Evans MP | 3979 |
+| Caerphilly | Chris Evans MP | 3980 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2890 |
 | Cardiff North | Anna McMorrin MP | 3291 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2797 |
