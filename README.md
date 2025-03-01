@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989674                                |
-| Last Updated      | 2025-03-01 01:25:34 UTC                                    |
+| Total Signatures   | 2989675                                |
+| Last Updated      | 2025-03-01 02:55:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -187,7 +187,7 @@
 | Folkestone and Hythe | Tony Vaughan KC MP | 5390 |
 | Forest of Dean | Matt Bishop MP | 5264 |
 | Frome and East Somerset | Anna Sabine MP | 4326 |
-| Fylde | Mr Andrew Snowden MP | 6769 |
+| Fylde | Mr Andrew Snowden MP | 6770 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6648 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4518 |
 | Gedling | Michael Payne MP | 5051 |
