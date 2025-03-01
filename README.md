@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989751                                |
-| Last Updated      | 2025-03-01 17:13:51 UTC                                    |
+| Total Signatures   | 2989760                                |
+| Last Updated      | 2025-03-01 18:21:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5383 |
 | Dulwich and West Norwood | Helen Hayes MP | 1558 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5512 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3090 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3091 |
 | Ealing North | James Murray MP | 2578 |
 | Ealing Southall | Deirdre Costigan MP | 1954 |
 | Earley and Woodley | Yuan Yang MP | 3952 |
@@ -164,7 +164,7 @@
 | East Thanet | Ms Polly Billington MP | 5475 |
 | East Wiltshire | Danny Kruger MP | 6062 |
 | East Worthing and Shoreham | Tom Rutland MP | 4603 |
-| Eastbourne | Josh Babarinde MP | 5035 |
+| Eastbourne | Josh Babarinde MP | 5036 |
 | Eastleigh | Liz Jarvis MP | 4326 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2221 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4436 |
@@ -183,7 +183,7 @@
 | Faversham and Mid Kent | Helen Whately MP | 6221 |
 | Feltham and Heston | Seema Malhotra MP | 2918 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4504 |
-| Finchley and Golders Green | Sarah Sackman MP | 4280 |
+| Finchley and Golders Green | Sarah Sackman MP | 4281 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5390 |
 | Forest of Dean | Matt Bishop MP | 5264 |
 | Frome and East Somerset | Anna Sabine MP | 4326 |
@@ -267,7 +267,7 @@
 | Leeds Central and Headingley | Alex Sobel MP | 1928 |
 | Leeds East | Richard Burgon MP | 4302 |
 | Leeds North East | Fabian Hamilton MP | 2629 |
-| Leeds North West | Katie White MP | 4380 |
+| Leeds North West | Katie White MP | 4381 |
 | Leeds South | Rt Hon Hilary Benn MP | 3869 |
 | Leeds South West and Morley | Mark Sewards MP | 5488 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3777 |
@@ -323,7 +323,7 @@
 | Newark | Rt Hon Robert Jenrick MP | 7156 |
 | Newbury | Mr Lee Dillon MP | 4886 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4495 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4746 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4747 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3949 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5064 |
 | Newton Abbot | Martin Wrigley MP | 5106 |
@@ -511,7 +511,7 @@
 | Walthamstow | Ms Stella Creasy MP | 1317 |
 | Warrington North | Charlotte Nichols MP | 5145 |
 | Warrington South | Sarah Hall MP | 5559 |
-| Warwick and Leamington | Matt Western MP | 4469 |
+| Warwick and Leamington | Matt Western MP | 4470 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5309 |
 | Watford | Matt Turmaine MP | 3740 |
 | Waveney Valley | Adrian Ramsay MP | 5848 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5066 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6572 |
-| Whitehaven and Workington | Josh MacAlister MP | 5840 |
+| Whitehaven and Workington | Josh MacAlister MP | 5841 |
 | Widnes and Halewood | Derek Twigg MP | 4229 |
 | Wigan | Rt Hon Lisa Nandy MP | 5943 |
 | Wimbledon | Mr Paul Kohler MP | 3408 |
@@ -552,7 +552,7 @@
 | York Central | Rachael Maskell MP | 3274 |
 | York Outer | Mr Luke Charters MP | 4344 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2955 |
-| Belfast North | John Finucane MP | 2485 |
+| Belfast North | John Finucane MP | 2486 |
 | Belfast South and Mid Down | Claire Hanna MP | 1939 |
 | Belfast West | Paul Maskey MP | 1409 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3588 |
@@ -617,7 +617,7 @@
 | North East Fife | Wendy Chamberlain MP | 2901 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2856 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2643 |
-| Perth and Kinross-shire | Pete Wishart MP | 3500 |
+| Perth and Kinross-shire | Pete Wishart MP | 3501 |
 | Rutherglen | Michael Shanks MP | 2570 |
 | Stirling and Strathallan | Chris Kane MP | 3217 |
 | West Dunbartonshire | Douglas McAllister MP | 2722 |
