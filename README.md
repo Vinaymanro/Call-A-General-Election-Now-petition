@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989786                                |
-| Last Updated      | 2025-03-01 21:14:58 UTC                                    |
+| Total Signatures   | 2989790                                |
+| Last Updated      | 2025-03-01 22:15:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -113,7 +113,7 @@
 | Chesterfield | Mr Toby Perkins MP | 4873 |
 | Chichester | Jess Brown-Fuller MP | 5919 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
-| Chippenham | Sarah Gibson MP | 4730 |
+| Chippenham | Sarah Gibson MP | 4731 |
 | Chipping Barnet | Dan Tomlinson MP | 4334 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5496 |
 | Christchurch | Sir Christopher Chope MP | 5847 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5075 |
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6363 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6661 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6662 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3416 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
@@ -442,7 +442,7 @@
 | South Suffolk | James Cartlidge MP | 6146 |
 | South West Devon | Rebecca Smith MP | 5970 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5201 |
-| South West Norfolk | Terry Jermy MP | 6520 |
+| South West Norfolk | Terry Jermy MP | 6521 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5197 |
 | Southampton Itchen | Darren Paffey MP | 4535 |
 | Southampton Test | Satvir Kaur MP | 3400 |
@@ -610,7 +610,7 @@
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2745 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3614 |
 | Livingston | Gregor Poynton MP | 3394 |
-| Lothian East | Rt Hon Douglas Alexander MP | 2852 |
+| Lothian East | Rt Hon Douglas Alexander MP | 2853 |
 | Mid Dunbartonshire | Susan Murray MP | 2523 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3933 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2728 |
