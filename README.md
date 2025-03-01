@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989760                                |
-| Last Updated      | 2025-03-01 18:21:35 UTC                                    |
+| Total Signatures   | 2989766                                |
+| Last Updated      | 2025-03-01 19:12:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -67,7 +67,7 @@
 | Bradford South | Judith Cummins MP | 4174 |
 | Bradford West | Naz Shah MP | 1810 |
 | Braintree | Rt Hon James Cleverly MP | 7430 |
-| Brent East | Dawn Butler MP | 1860 |
+| Brent East | Dawn Butler MP | 1862 |
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2988 |
 | Brentwood and Ongar | Alex Burghart MP | 8133 |
@@ -344,7 +344,7 @@
 | North Norfolk | Steff Aquarone MP | 5429 |
 | North Northumberland | David Smith MP | 6427 |
 | North Shropshire | Helen Morgan MP | 6872 |
-| North Somerset | Sadik Al-Hassan MP | 4580 |
+| North Somerset | Sadik Al-Hassan MP | 4581 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6263 |
 | North West Cambridgeshire | Sam Carling MP | 6010 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
@@ -391,7 +391,7 @@
 | Ribble Valley | Maya Ellis MP | 6706 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
 | Richmond Park | Sarah Olney MP | 4059 |
-| Rochdale | Paul Waugh MP | 3946 |
+| Rochdale | Paul Waugh MP | 3947 |
 | Rochester and Strood | Lauren Edwards MP | 6017 |
 | Romford | Andrew Rosindell MP | 5784 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5066 |
@@ -430,7 +430,7 @@
 | South Cotswolds | Dr Roz Savage MP | 5715 |
 | South Derbyshire | Samantha Niblett MP | 6164 |
 | South Devon | Caroline Voaden MP | 5320 |
-| South Dorset | Lloyd Hatton MP | 5650 |
+| South Dorset | Lloyd Hatton MP | 5651 |
 | South East Cornwall | Anna Gelderd MP | 6234 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7129 |
 | South Leicestershire | Alberto Costa MP | 6982 |
@@ -541,7 +541,7 @@
 | Wokingham | Clive Jones MP | 4864 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4401 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4308 |
-| Wolverhampton West | Warinder Juss | 3818 |
+| Wolverhampton West | Warinder Juss | 3819 |
 | Worcester | Tom Collins MP | 4321 |
 | Worsley and Eccles | Michael Wheeler MP | 5434 |
 | Worthing West | Dr Beccy Cooper MP | 5244 |
