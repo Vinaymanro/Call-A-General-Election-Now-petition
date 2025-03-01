@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989681                                |
-| Last Updated      | 2025-03-01 06:23:54 UTC                                    |
+| Total Signatures   | 2989682                                |
+| Last Updated      | 2025-03-01 07:15:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -98,7 +98,7 @@
 | Cannock Chase | Josh Newbury MP | 6875 |
 | Canterbury | Rosie Duffield MP | 4468 |
 | Carlisle | Ms Julie Minns MP | 6523 |
-| Carshalton and Wallington | Bobby Dean MP | 4265 |
+| Carshalton and Wallington | Bobby Dean MP | 4266 |
 | Castle Point | Rebecca Harris MP | 7522 |
 | Central Devon | Rt Hon Mel Stride MP | 5799 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5299 |
