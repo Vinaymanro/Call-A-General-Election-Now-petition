@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989850                                |
-| Last Updated      | 2025-03-02 11:13:37 UTC                                    |
+| Total Signatures   | 2989860                                |
+| Last Updated      | 2025-03-02 12:30:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -22,7 +22,7 @@
 | Barnsley North | Dan Jarvis MP | 5673 |
 | Barnsley South | Stephanie Peacock MP | 5765 |
 | Barrow and Furness | Michelle Scrogham MP | 5310 |
-| Basildon and Billericay | Rt Hon Richard Holden MP | 6884 |
+| Basildon and Billericay | Rt Hon Richard Holden MP | 6885 |
 | Basingstoke | Luke Murphy MP | 4811 |
 | Bassetlaw | Jo White MP | 6740 |
 | Bath | Wera Hobhouse MP | 2979 |
@@ -195,7 +195,7 @@
 | Glastonbury and Somerton | Sarah Dyke MP | 5587 |
 | Gloucester | Alex McIntyre MP | 4532 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5234 |
-| Goole and Pocklington | Rt Hon David Davis MP | 6954 |
+| Goole and Pocklington | Rt Hon David Davis MP | 6955 |
 | Gorton and Denton | Andrew Gwynne MP | 3271 |
 | Gosport | Dame Caroline Dinenage MP | 5468 |
 | Grantham and Bourne | Gareth Davies MP | 6322 |
@@ -281,7 +281,7 @@
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1586 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1878 |
 | Lichfield | Dave Robertson MP | 6472 |
-| Lincoln | Mr Hamish Falconer MP | 4642 |
+| Lincoln | Mr Hamish Falconer MP | 4643 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3124 |
 | Liverpool Riverside | Kim Johnson MP | 2633 |
 | Liverpool Walton | Dan Carden MP | 3350 |
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6282 |
 | Mid Sussex | Alison Bennett MP | 4696 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4223 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5698 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5700 |
 | Milton Keynes Central | Emily Darlington MP | 4938 |
 | Milton Keynes North | Chris Curtis MP | 4566 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2668 |
@@ -455,7 +455,7 @@
 | St Albans | Daisy Cooper MP | 3876 |
 | St Austell and Newquay | Noah Law MP | 5603 |
 | St Helens North | David Baines MP | 4690 |
-| St Helens South and Whiston | Ms Marie Rimmer MP | 4145 |
+| St Helens South and Whiston | Ms Marie Rimmer MP | 4146 |
 | St Ives | Andrew George MP | 5086 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4798 |
 | Stafford | Leigh Ingham MP | 5605 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3910 |
 | Stockton North | Chris McDonald MP | 4835 |
 | Stockton West | Matt Vickers MP | 5985 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4724 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4725 |
 | Stoke-on-Trent North | David Williams MP | 5447 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5725 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6531 |
@@ -499,7 +499,7 @@
 | Torbay | Steve Darling MP | 5818 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6574 |
 | Tottenham | Rt Hon David Lammy MP | 1683 |
-| Truro and Falmouth | Jayne Kirkham MP | 4602 |
+| Truro and Falmouth | Jayne Kirkham MP | 4603 |
 | Tunbridge Wells | Mike Martin MP | 5453 |
 | Twickenham | Munira Wilson MP | 3650 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4484 |
@@ -510,7 +510,7 @@
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4002 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
 | Warrington North | Charlotte Nichols MP | 5145 |
-| Warrington South | Sarah Hall MP | 5559 |
+| Warrington South | Sarah Hall MP | 5560 |
 | Warwick and Leamington | Matt Western MP | 4470 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5309 |
 | Watford | Matt Turmaine MP | 3740 |
@@ -592,7 +592,7 @@
 | Dundee Central | Chris Law MP | 2540 |
 | Dunfermline and Dollar | Graeme Downie MP | 2926 |
 | East Kilbride and Strathaven | Joani Reid MP | 3147 |
-| Edinburgh East and Musselburgh | Chris Murray MP | 2079 |
+| Edinburgh East and Musselburgh | Chris Murray MP | 2080 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2406 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
 | Edinburgh South West | Dr Scott Arthur MP | 2257 |
