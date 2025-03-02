@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989807                                |
-| Last Updated      | 2025-03-02 04:19:42 UTC                                    |
+| Total Signatures   | 2989808                                |
+| Last Updated      | 2025-03-02 05:17:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -275,7 +275,7 @@
 | Leicester South | Shockat Adam MP | 1840 |
 | Leicester West | Rt Hon Liz Kendall MP | 3453 |
 | Leigh and Atherton | Jo Platt MP | 6067 |
-| Lewes | James MacCleary MP | 4894 |
+| Lewes | James MacCleary MP | 4895 |
 | Lewisham East | Janet Daby MP | 2145 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1586 |
