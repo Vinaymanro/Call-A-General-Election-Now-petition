@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989886                                |
-| Last Updated      | 2025-03-02 15:16:47 UTC                                    |
+| Total Signatures   | 2989894                                |
+| Last Updated      | 2025-03-02 16:19:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3762 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6147 |
 | Blackpool South | Chris Webb MP | 5802 |
-| Blaydon and Consett | Liz Twist MP | 5243 |
+| Blaydon and Consett | Liz Twist MP | 5244 |
 | Blyth and Ashington | Ian Lavery MP | 5849 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
@@ -69,7 +69,7 @@
 | Braintree | Rt Hon James Cleverly MP | 7430 |
 | Brent East | Dawn Butler MP | 1862 |
 | Brent West | Barry Gardiner MP | 2087 |
-| Brentford and Isleworth | Ruth Cadbury MP | 2989 |
+| Brentford and Isleworth | Ruth Cadbury MP | 2990 |
 | Brentwood and Ongar | Alex Burghart MP | 8133 |
 | Bridgwater | Sir Ashley Fox MP | 5747 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6618 |
@@ -194,7 +194,7 @@
 | Gillingham and Rainham | Naushabah Khan MP | 5049 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5587 |
 | Gloucester | Alex McIntyre MP | 4532 |
-| Godalming and Ash | Rt Hon Jeremy Hunt MP | 5234 |
+| Godalming and Ash | Rt Hon Jeremy Hunt MP | 5235 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6955 |
 | Gorton and Denton | Andrew Gwynne MP | 3271 |
 | Gosport | Dame Caroline Dinenage MP | 5468 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6873 |
 | North Somerset | Sadik Al-Hassan MP | 4581 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6263 |
-| North West Cambridgeshire | Sam Carling MP | 6010 |
+| North West Cambridgeshire | Sam Carling MP | 6011 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
 | North West Leicestershire | Amanda Hack MP | 6694 |
@@ -384,7 +384,7 @@
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5110 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3025 |
-| Reading West and Mid Berkshire | Olivia Bailey MP | 4443 |
+| Reading West and Mid Berkshire | Olivia Bailey MP | 4444 |
 | Redcar | Anna Turley MP | 5445 |
 | Redditch | Chris Bloore MP | 6069 |
 | Reigate | Rebecca Paul MP | 5549 |
@@ -464,7 +464,7 @@
 | Stevenage | Kevin Bonavia MP | 4736 |
 | Stockport | Navendu Mishra MP | 3910 |
 | Stockton North | Chris McDonald MP | 4835 |
-| Stockton West | Matt Vickers MP | 5985 |
+| Stockton West | Matt Vickers MP | 5986 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4725 |
 | Stoke-on-Trent North | David Williams MP | 5447 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5725 |
@@ -517,7 +517,7 @@
 | Waveney Valley | Adrian Ramsay MP | 5848 |
 | Weald of Kent | Katie Lam MP | 7223 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5081 |
-| Wells and Mendip Hills | Tessa Munt MP | 5249 |
+| Wells and Mendip Hills | Tessa Munt MP | 5250 |
 | Welwyn Hatfield | Andrew Lewin MP | 5055 |
 | West Bromwich | Sarah Coombes MP | 3780 |
 | West Dorset | Edward Morello MP | 5455 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5066 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6573 |
-| Whitehaven and Workington | Josh MacAlister MP | 5841 |
+| Whitehaven and Workington | Josh MacAlister MP | 5842 |
 | Widnes and Halewood | Derek Twigg MP | 4230 |
 | Wigan | Rt Hon Lisa Nandy MP | 5943 |
 | Wimbledon | Mr Paul Kohler MP | 3408 |
