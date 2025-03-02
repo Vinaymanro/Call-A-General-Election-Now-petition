@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989860                                |
-| Last Updated      | 2025-03-02 12:30:50 UTC                                    |
+| Total Signatures   | 2989868                                |
+| Last Updated      | 2025-03-02 13:18:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -31,7 +31,7 @@
 | Beckenham and Penge | Liam Conlon MP | 3838 |
 | Bedford | Mohammad Yasin MP | 3223 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
-| Bethnal Green and Stepney | Rushanara Ali MP | 1724 |
+| Bethnal Green and Stepney | Rushanara Ali MP | 1725 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6154 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6128 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5045 |
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3762 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6147 |
-| Blackpool South | Chris Webb MP | 5800 |
+| Blackpool South | Chris Webb MP | 5802 |
 | Blaydon and Consett | Liz Twist MP | 5243 |
 | Blyth and Ashington | Ian Lavery MP | 5849 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
@@ -182,7 +182,7 @@
 | Farnham and Bordon | Gregory Stafford MP | 5186 |
 | Faversham and Mid Kent | Helen Whately MP | 6221 |
 | Feltham and Heston | Seema Malhotra MP | 2918 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4504 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4505 |
 | Finchley and Golders Green | Sarah Sackman MP | 4281 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5390 |
 | Forest of Dean | Matt Bishop MP | 5264 |
@@ -247,7 +247,7 @@
 | Hyndburn | Sarah Smith MP | 4997 |
 | Ilford North | Rt Hon Wes Streeting MP | 2621 |
 | Ilford South | Jas Athwal MP | 1591 |
-| Ipswich | Jack Abbott MP | 4138 |
+| Ipswich | Jack Abbott MP | 4139 |
 | Isle of Wight East | Joe Robertson MP | 4379 |
 | Isle of Wight West | Mr Richard Quigley MP | 4068 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
@@ -545,7 +545,7 @@
 | Worcester | Tom Collins MP | 4321 |
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5244 |
-| Wycombe | Emma Reynolds MP | 3607 |
+| Wycombe | Emma Reynolds MP | 3608 |
 | Wyre Forest | Mark Garnier MP | 6479 |
 | Wythenshawe and Sale East | Mike Kane MP | 4597 |
 | Yeovil | Adam Dance MP | 5599 |
@@ -628,9 +628,9 @@
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3682 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5745 |
-| Bangor Aberconwy | Claire Hughes MP | 4512 |
+| Bangor Aberconwy | Claire Hughes MP | 4513 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3633 |
-| Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5273 |
+| Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
 | Bridgend | Chris Elmore MP | 4230 |
 | Caerfyrddin | Ann Davies MP | 5198 |
 | Caerphilly | Chris Evans MP | 3980 |
