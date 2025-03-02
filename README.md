@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989798                                |
-| Last Updated      | 2025-03-01 23:17:01 UTC                                    |
+| Total Signatures   | 2989807                                |
+| Last Updated      | 2025-03-02 01:24:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -31,7 +31,7 @@
 | Beckenham and Penge | Liam Conlon MP | 3838 |
 | Bedford | Mohammad Yasin MP | 3223 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
-| Bethnal Green and Stepney | Rushanara Ali MP | 1723 |
+| Bethnal Green and Stepney | Rushanara Ali MP | 1724 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6154 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6128 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5045 |
@@ -55,7 +55,7 @@
 | Blyth and Ashington | Ian Lavery MP | 5849 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
-| Bolton North East | Kirith Entwistle MP | 5591 |
+| Bolton North East | Kirith Entwistle MP | 5592 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4406 |
 | Bolton West | Phil Brickell MP | 5575 |
 | Bootle | Peter Dowd MP | 3144 |
@@ -69,7 +69,7 @@
 | Braintree | Rt Hon James Cleverly MP | 7430 |
 | Brent East | Dawn Butler MP | 1862 |
 | Brent West | Barry Gardiner MP | 2087 |
-| Brentford and Isleworth | Ruth Cadbury MP | 2988 |
+| Brentford and Isleworth | Ruth Cadbury MP | 2989 |
 | Brentwood and Ongar | Alex Burghart MP | 8133 |
 | Bridgwater | Sir Ashley Fox MP | 5747 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6618 |
@@ -135,7 +135,7 @@
 | Croydon South | Rt Hon Chris Philp MP | 3954 |
 | Croydon West | Sarah Jones MP | 1743 |
 | Dagenham and Rainham | Margaret Mullane MP | 4229 |
-| Darlington | Lola McEvoy MP | 5454 |
+| Darlington | Lola McEvoy MP | 5455 |
 | Dartford | Jim Dickson MP | 5728 |
 | Daventry | Rt Hon Stuart Andrew MP | 7277 |
 | Derby North | Catherine Atkinson MP | 4318 |
@@ -247,7 +247,7 @@
 | Hyndburn | Sarah Smith MP | 4997 |
 | Ilford North | Rt Hon Wes Streeting MP | 2621 |
 | Ilford South | Jas Athwal MP | 1591 |
-| Ipswich | Jack Abbott MP | 4136 |
+| Ipswich | Jack Abbott MP | 4138 |
 | Isle of Wight East | Joe Robertson MP | 4379 |
 | Isle of Wight West | Mr Richard Quigley MP | 4068 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
@@ -338,7 +338,7 @@
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6065 |
 | North East Derbyshire | Louise Jones MP | 5792 |
 | North East Hampshire | Alex Brewer MP | 5954 |
-| North East Hertfordshire | Chris Hinchliff MP | 5843 |
+| North East Hertfordshire | Chris Hinchliff MP | 5844 |
 | North East Somerset and Hanham | Dan Norris MP | 5042 |
 | North Herefordshire | Ellie Chowns MP | 6466 |
 | North Norfolk | Steff Aquarone MP | 5429 |
@@ -581,7 +581,7 @@
 | Alloa and Grangemouth | Brian Leishman MP | 3014 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4045 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3469 |
-| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3403 |
+| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3404 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3013 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4069 |
 | Coatbridge and Bellshill | Frank McNally MP | 2582 |
@@ -641,7 +641,7 @@
 | Ceredigion Preseli | Ben Lake MP | 4735 |
 | Clwyd East | Becky Gittins MP | 6031 |
 | Clwyd North | Gill German MP | 5442 |
-| Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4226 |
+| Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4227 |
 | Gower | Tonia Antoniazzi MP | 4755 |
 | Llanelli | Dame Nia Griffith MP | 5243 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3704 |
