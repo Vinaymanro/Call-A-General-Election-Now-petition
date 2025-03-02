@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989810                                |
-| Last Updated      | 2025-03-02 06:23:37 UTC                                    |
+| Total Signatures   | 2989811                                |
+| Last Updated      | 2025-03-02 07:14:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -543,7 +543,7 @@
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4308 |
 | Wolverhampton West | Warinder Juss | 3819 |
 | Worcester | Tom Collins MP | 4321 |
-| Worsley and Eccles | Michael Wheeler MP | 5434 |
+| Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5244 |
 | Wycombe | Emma Reynolds MP | 3607 |
 | Wyre Forest | Mark Garnier MP | 6479 |
