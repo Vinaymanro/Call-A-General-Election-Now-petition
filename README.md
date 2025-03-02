@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989840                                |
-| Last Updated      | 2025-03-02 10:17:15 UTC                                    |
+| Total Signatures   | 2989850                                |
+| Last Updated      | 2025-03-02 11:13:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5449 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5798 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5799 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5498 |
 | Amber Valley | Linsey Farnsworth MP | 6080 |
 | Arundel and South Downs | Andrew Griffith MP | 6953 |
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1577 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3478 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1895 |
-| Birmingham Northfield | Laurence Turner MP | 4887 |
+| Birmingham Northfield | Laurence Turner MP | 4888 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1718 |
 | Birmingham Selly Oak | Al Carns MP | 3288 |
 | Birmingham Yardley | Jess Phillips MP | 3077 |
@@ -95,7 +95,7 @@
 | Calder Valley | Josh Fenton-Glynn MP | 5650 |
 | Camborne and Redruth | Perran Moon MP | 4960 |
 | Cambridge | Daniel Zeichner MP | 2210 |
-| Cannock Chase | Josh Newbury MP | 6875 |
+| Cannock Chase | Josh Newbury MP | 6876 |
 | Canterbury | Rosie Duffield MP | 4469 |
 | Carlisle | Ms Julie Minns MP | 6523 |
 | Carshalton and Wallington | Bobby Dean MP | 4266 |
@@ -266,7 +266,7 @@
 | Lancaster and Wyre | Cat Smith MP | 5075 |
 | Leeds Central and Headingley | Alex Sobel MP | 1928 |
 | Leeds East | Richard Burgon MP | 4302 |
-| Leeds North East | Fabian Hamilton MP | 2629 |
+| Leeds North East | Fabian Hamilton MP | 2630 |
 | Leeds North West | Katie White MP | 4382 |
 | Leeds South | Rt Hon Hilary Benn MP | 3869 |
 | Leeds South West and Morley | Mark Sewards MP | 5488 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2633 |
 | Liverpool Walton | Dan Carden MP | 3350 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
-| Liverpool West Derby | Ian Byrne MP | 3045 |
+| Liverpool West Derby | Ian Byrne MP | 3046 |
 | Loughborough | Dr Jeevun Sandher MP | 4475 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7794 |
 | Lowestoft | Jess Asato MP | 5328 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5445 |
 | Redditch | Chris Bloore MP | 6069 |
 | Reigate | Rebecca Paul MP | 5549 |
-| Ribble Valley | Maya Ellis MP | 6706 |
+| Ribble Valley | Maya Ellis MP | 6707 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
 | Richmond Park | Sarah Olney MP | 4059 |
 | Rochdale | Paul Waugh MP | 3947 |
@@ -494,9 +494,9 @@
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5951 |
-| Tonbridge | Rt Hon Tom Tugendhat MP | 5945 |
+| Tonbridge | Rt Hon Tom Tugendhat MP | 5947 |
 | Tooting | Dr Rosena Allin-Khan MP | 2689 |
-| Torbay | Steve Darling MP | 5817 |
+| Torbay | Steve Darling MP | 5818 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6574 |
 | Tottenham | Rt Hon David Lammy MP | 1683 |
 | Truro and Falmouth | Jayne Kirkham MP | 4602 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4597 |
 | Yeovil | Adam Dance MP | 5599 |
 | York Central | Rachael Maskell MP | 3275 |
-| York Outer | Mr Luke Charters MP | 4344 |
+| York Outer | Mr Luke Charters MP | 4345 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2955 |
 | Belfast North | John Finucane MP | 2486 |
 | Belfast South and Mid Down | Claire Hanna MP | 1939 |
