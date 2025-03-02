@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2989833                                |
-| Last Updated      | 2025-03-02 09:17:36 UTC                                    |
+| Total Signatures   | 2989840                                |
+| Last Updated      | 2025-03-02 10:17:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3762 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6147 |
 | Blackpool South | Chris Webb MP | 5800 |
-| Blaydon and Consett | Liz Twist MP | 5242 |
+| Blaydon and Consett | Liz Twist MP | 5243 |
 | Blyth and Ashington | Ian Lavery MP | 5849 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
@@ -212,7 +212,7 @@
 | Hammersmith and Chiswick | Andy Slaughter MP | 3195 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4713 |
-| Harlow | Chris Vince MP | 6062 |
+| Harlow | Chris Vince MP | 6063 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4536 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5112 |
 | Harrow East | Bob Blackman MP | 3129 |
@@ -267,7 +267,7 @@
 | Leeds Central and Headingley | Alex Sobel MP | 1928 |
 | Leeds East | Richard Burgon MP | 4302 |
 | Leeds North East | Fabian Hamilton MP | 2629 |
-| Leeds North West | Katie White MP | 4381 |
+| Leeds North West | Katie White MP | 4382 |
 | Leeds South | Rt Hon Hilary Benn MP | 3869 |
 | Leeds South West and Morley | Mark Sewards MP | 5488 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3777 |
@@ -302,7 +302,7 @@
 | Manchester Withington | Jeff Smith MP | 1670 |
 | Mansfield | Steve Yemm MP | 6190 |
 | Melksham and Devizes | Brian Mathew MP | 5008 |
-| Melton and Syston | Rt Hon Edward Argar MP | 6107 |
+| Melton and Syston | Rt Hon Edward Argar MP | 6108 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6069 |
 | Mid Bedfordshire | Blake Stephenson MP | 5841 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3807 |
 | Putney | Fleur Anderson MP | 3515 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2150 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5109 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5110 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3025 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4443 |
@@ -490,7 +490,7 @@
 | Tewkesbury | Cameron Thomas MP | 5009 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7428 |
-| Thornbury and Yate | Claire Young MP | 5687 |
+| Thornbury and Yate | Claire Young MP | 5688 |
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5951 |
@@ -548,7 +548,7 @@
 | Wycombe | Emma Reynolds MP | 3607 |
 | Wyre Forest | Mark Garnier MP | 6479 |
 | Wythenshawe and Sale East | Mike Kane MP | 4597 |
-| Yeovil | Adam Dance MP | 5598 |
+| Yeovil | Adam Dance MP | 5599 |
 | York Central | Rachael Maskell MP | 3275 |
 | York Outer | Mr Luke Charters MP | 4344 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2955 |
