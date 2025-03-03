@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990021                                |
-| Last Updated      | 2025-03-03 02:54:12 UTC                                    |
+| Total Signatures   | 2990023                                |
+| Last Updated      | 2025-03-03 03:27:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -67,7 +67,7 @@
 | Bradford South | Judith Cummins MP | 4175 |
 | Bradford West | Naz Shah MP | 1810 |
 | Braintree | Rt Hon James Cleverly MP | 7430 |
-| Brent East | Dawn Butler MP | 1862 |
+| Brent East | Dawn Butler MP | 1863 |
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2990 |
 | Brentwood and Ongar | Alex Burghart MP | 8133 |
@@ -284,7 +284,7 @@
 | Lincoln | Mr Hamish Falconer MP | 4643 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3124 |
 | Liverpool Riverside | Kim Johnson MP | 2633 |
-| Liverpool Walton | Dan Carden MP | 3350 |
+| Liverpool Walton | Dan Carden MP | 3351 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
 | Liverpool West Derby | Ian Byrne MP | 3046 |
 | Loughborough | Dr Jeevun Sandher MP | 4475 |
