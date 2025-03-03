@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990030                                |
-| Last Updated      | 2025-03-03 05:17:44 UTC                                    |
+| Total Signatures   | 2990034                                |
+| Last Updated      | 2025-03-03 06:26:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -290,7 +290,7 @@
 | Loughborough | Dr Jeevun Sandher MP | 4475 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7795 |
 | Lowestoft | Jess Asato MP | 5329 |
-| Luton North | Sarah Owen MP | 2470 |
+| Luton North | Sarah Owen MP | 2471 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2941 |
 | Macclesfield | Tim Roca MP | 5398 |
 | Maidenhead | Mr Joshua Reynolds MP | 5281 |
@@ -326,7 +326,7 @@
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4747 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3949 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5065 |
-| Newton Abbot | Martin Wrigley MP | 5107 |
+| Newton Abbot | Martin Wrigley MP | 5108 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5527 |
 | Normanton and Hemsworth | Jon Trickett MP | 5486 |
 | North Bedfordshire | Richard Fuller MP | 6101 |
@@ -391,7 +391,7 @@
 | Ribble Valley | Maya Ellis MP | 6707 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7101 |
 | Richmond Park | Sarah Olney MP | 4059 |
-| Rochdale | Paul Waugh MP | 3948 |
+| Rochdale | Paul Waugh MP | 3949 |
 | Rochester and Strood | Lauren Edwards MP | 6018 |
 | Romford | Andrew Rosindell MP | 5785 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5066 |
@@ -452,7 +452,7 @@
 | Southport | Patrick Hurley MP | 5947 |
 | Spelthorne | Lincoln Jopp MP | 5458 |
 | Spen Valley | Kim Leadbeater MP | 5372 |
-| St Albans | Daisy Cooper MP | 3876 |
+| St Albans | Daisy Cooper MP | 3877 |
 | St Austell and Newquay | Noah Law MP | 5603 |
 | St Helens North | David Baines MP | 4690 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4146 |
