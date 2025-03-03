@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990023                                |
-| Last Updated      | 2025-03-03 03:27:14 UTC                                    |
+| Total Signatures   | 2990027                                |
+| Last Updated      | 2025-03-03 04:22:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -256,7 +256,7 @@
 | Keighley and Ilkley | Robbie Moore MP | 4685 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6098 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
-| Kettering | Rosie Wrighting MP | 5902 |
+| Kettering | Rosie Wrighting MP | 5903 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3745 |
 | Kingston upon Hull East | Karl Turner MP | 4990 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4635 |
@@ -351,7 +351,7 @@
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
 | North West Leicestershire | Amanda Hack MP | 6694 |
 | North West Norfolk | James Wild MP | 5752 |
-| Northampton North | Lucy Rigby KC MP | 4271 |
+| Northampton North | Lucy Rigby KC MP | 4272 |
 | Northampton South | Mike Reader MP | 4961 |
 | Norwich North | Alice Macdonald MP | 4395 |
 | Norwich South | Clive Lewis MP | 3383 |
@@ -506,7 +506,7 @@
 | Uxbridge and South Ruislip | Danny Beales MP | 4477 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1675 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4908 |
-| Wallasey | Dame Angela Eagle MP | 4062 |
+| Wallasey | Dame Angela Eagle MP | 4063 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4002 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
 | Warrington North | Charlotte Nichols MP | 5145 |
@@ -648,7 +648,7 @@
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5478 |
 | Monmouthshire | Catherine Fookes MP | 4733 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6039 |
-| Neath and Swansea East | Carolyn Harris MP | 4431 |
+| Neath and Swansea East | Carolyn Harris MP | 4432 |
 | Newport East | Jessica Morden MP | 4001 |
 | Newport West and Islwyn | Ruth Jones MP | 4044 |
 | Pontypridd | Alex Davies-Jones MP | 3900 |
