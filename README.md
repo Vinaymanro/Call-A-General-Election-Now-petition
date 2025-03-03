@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990213                                |
-| Last Updated      | 2025-03-03 20:19:16 UTC                                    |
+| Total Signatures   | 2990221                                |
+| Last Updated      | 2025-03-03 21:17:27 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -132,7 +132,7 @@
 | Crawley | Peter Lamb MP | 4712 |
 | Crewe and Nantwich | Connor Naismith MP | 5686 |
 | Croydon East | Natasha Irons MP | 3333 |
-| Croydon South | Rt Hon Chris Philp MP | 3954 |
+| Croydon South | Rt Hon Chris Philp MP | 3955 |
 | Croydon West | Sarah Jones MP | 1743 |
 | Dagenham and Rainham | Margaret Mullane MP | 4231 |
 | Darlington | Lola McEvoy MP | 5458 |
@@ -214,7 +214,7 @@
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4713 |
 | Harlow | Chris Vince MP | 6064 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4536 |
-| Harrogate and Knaresborough | Tom Gordon MP | 5112 |
+| Harrogate and Knaresborough | Tom Gordon MP | 5113 |
 | Harrow East | Bob Blackman MP | 3130 |
 | Harrow West | Gareth Thomas MP | 2402 |
 | Hartlepool | Mr Jonathan Brash MP | 5643 |
@@ -272,7 +272,7 @@
 | Leeds South West and Morley | Mark Sewards MP | 5489 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3779 |
 | Leicester East | Shivani Raja MP | 1881 |
-| Leicester South | Shockat Adam MP | 1841 |
+| Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3457 |
 | Leigh and Atherton | Jo Platt MP | 6068 |
 | Lewes | James MacCleary MP | 4896 |
@@ -309,7 +309,7 @@
 | Mid Cheshire | Andrew Cooper MP | 5164 |
 | Mid Derbyshire | Jonathan Davies MP | 5228 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5878 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5584 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5586 |
 | Mid Norfolk | George Freeman MP | 6284 |
 | Mid Sussex | Alison Bennett MP | 4697 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4224 |
@@ -365,7 +365,7 @@
 | Orpington | Gareth Bacon MP | 5307 |
 | Ossett and Denby Dale | Jade Botterill MP | 5792 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
-| Oxford West and Abingdon | Layla Moran MP | 2926 |
+| Oxford West and Abingdon | Layla Moran MP | 2927 |
 | Peckham | Miatta Fahnbulleh MP | 1356 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6192 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5440 |
@@ -484,7 +484,7 @@
 | Swindon North | Will Stone MP | 4893 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4203 |
 | Tamworth | Sarah Edwards MP | 6935 |
-| Tatton | Rt Hon Esther McVey MP | 6497 |
+| Tatton | Rt Hon Esther McVey MP | 6498 |
 | Taunton and Wellington | Gideon Amos MP | 5166 |
 | Telford | Shaun Davies MP | 5580 |
 | Tewkesbury | Cameron Thomas MP | 5009 |
@@ -637,7 +637,7 @@
 | Cardiff East | Rt Hon Jo Stevens MP | 2890 |
 | Cardiff North | Anna McMorrin MP | 3291 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2797 |
-| Cardiff West | Mr Alex Barros-Curtis MP | 3139 |
+| Cardiff West | Mr Alex Barros-Curtis MP | 3140 |
 | Ceredigion Preseli | Ben Lake MP | 4735 |
 | Clwyd East | Becky Gittins MP | 6033 |
 | Clwyd North | Gill German MP | 5443 |
