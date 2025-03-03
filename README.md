@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990015                                |
-| Last Updated      | 2025-03-03 01:22:51 UTC                                    |
+| Total Signatures   | 2990021                                |
+| Last Updated      | 2025-03-03 02:54:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3762 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6147 |
-| Blackpool South | Chris Webb MP | 5802 |
+| Blackpool South | Chris Webb MP | 5803 |
 | Blaydon and Consett | Liz Twist MP | 5244 |
 | Blyth and Ashington | Ian Lavery MP | 5849 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
@@ -270,7 +270,7 @@
 | Leeds North West | Katie White MP | 4382 |
 | Leeds South | Rt Hon Hilary Benn MP | 3869 |
 | Leeds South West and Morley | Mark Sewards MP | 5489 |
-| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3777 |
+| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3779 |
 | Leicester East | Shivani Raja MP | 1879 |
 | Leicester South | Shockat Adam MP | 1840 |
 | Leicester West | Rt Hon Liz Kendall MP | 3453 |
@@ -447,7 +447,7 @@
 | Southampton Itchen | Darren Paffey MP | 4537 |
 | Southampton Test | Satvir Kaur MP | 3400 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5574 |
-| Southend West and Leigh | David Burton-Sampson MP | 5870 |
+| Southend West and Leigh | David Burton-Sampson MP | 5871 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2585 |
 | Southport | Patrick Hurley MP | 5947 |
 | Spelthorne | Lincoln Jopp MP | 5458 |
@@ -473,7 +473,7 @@
 | Stratford and Bow | Uma Kumaran MP | 1764 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6708 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
-| Stretford and Urmston | Andrew Western MP | 3817 |
+| Stretford and Urmston | Andrew Western MP | 3818 |
 | Stroud | Dr Simon Opher MP | 4531 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5394 |
 | Sunderland Central | Lewis Atkinson MP | 5230 |
@@ -589,7 +589,7 @@
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2678 |
 | Dumfries and Galloway | John Cooper MP | 4040 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3854 |
-| Dundee Central | Chris Law MP | 2541 |
+| Dundee Central | Chris Law MP | 2542 |
 | Dunfermline and Dollar | Graeme Downie MP | 2927 |
 | East Kilbride and Strathaven | Joani Reid MP | 3148 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2080 |
