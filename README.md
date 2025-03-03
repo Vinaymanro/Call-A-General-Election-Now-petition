@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990104                                |
-| Last Updated      | 2025-03-03 12:35:20 UTC                                    |
+| Total Signatures   | 2990113                                |
+| Last Updated      | 2025-03-03 13:25:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -70,7 +70,7 @@
 | Brent East | Dawn Butler MP | 1863 |
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2990 |
-| Brentwood and Ongar | Alex Burghart MP | 8133 |
+| Brentwood and Ongar | Alex Burghart MP | 8134 |
 | Bridgwater | Sir Ashley Fox MP | 5748 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6618 |
 | Brigg and Immingham | Martin Vickers MP | 6458 |
@@ -97,7 +97,7 @@
 | Cambridge | Daniel Zeichner MP | 2210 |
 | Cannock Chase | Josh Newbury MP | 6876 |
 | Canterbury | Rosie Duffield MP | 4470 |
-| Carlisle | Ms Julie Minns MP | 6523 |
+| Carlisle | Ms Julie Minns MP | 6524 |
 | Carshalton and Wallington | Bobby Dean MP | 4266 |
 | Castle Point | Rebecca Harris MP | 7523 |
 | Central Devon | Rt Hon Mel Stride MP | 5799 |
@@ -113,7 +113,7 @@
 | Chesterfield | Mr Toby Perkins MP | 4873 |
 | Chichester | Jess Brown-Fuller MP | 5920 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
-| Chippenham | Sarah Gibson MP | 4732 |
+| Chippenham | Sarah Gibson MP | 4733 |
 | Chipping Barnet | Dan Tomlinson MP | 4334 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5496 |
 | Christchurch | Sir Christopher Chope MP | 5848 |
@@ -259,7 +259,7 @@
 | Kettering | Rosie Wrighting MP | 5903 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3745 |
 | Kingston upon Hull East | Karl Turner MP | 4990 |
-| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4635 |
+| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4636 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5487 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6388 |
 | Knowsley | Anneliese Midgley MP | 3274 |
@@ -309,7 +309,7 @@
 | Mid Cheshire | Andrew Cooper MP | 5164 |
 | Mid Derbyshire | Jonathan Davies MP | 5228 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5878 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5574 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5575 |
 | Mid Norfolk | George Freeman MP | 6284 |
 | Mid Sussex | Alison Bennett MP | 4697 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4223 |
@@ -332,7 +332,7 @@
 | North Bedfordshire | Richard Fuller MP | 6101 |
 | North Cornwall | Ben Maguire MP | 6398 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6043 |
-| North Devon | Ian Roome MP | 5855 |
+| North Devon | Ian Roome MP | 5856 |
 | North Dorset | Simon Hoare MP | 6311 |
 | North Durham | Luke Akehurst MP | 5381 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6066 |
@@ -419,7 +419,7 @@
 | Sherwood Forest | Michelle Welsh MP | 6657 |
 | Shipley | Anna Dixon MP | 4890 |
 | Shrewsbury | Julia Buckley MP | 5322 |
-| Sittingbourne and Sheppey | Kevin McKenna MP | 6859 |
+| Sittingbourne and Sheppey | Kevin McKenna MP | 6860 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6668 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6287 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2581 |
@@ -501,7 +501,7 @@
 | Tottenham | Rt Hon David Lammy MP | 1683 |
 | Truro and Falmouth | Jayne Kirkham MP | 4603 |
 | Tunbridge Wells | Mike Martin MP | 5454 |
-| Twickenham | Munira Wilson MP | 3650 |
+| Twickenham | Munira Wilson MP | 3651 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4486 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4477 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1675 |
@@ -608,7 +608,7 @@
 | Gordon and Buchan | Harriet Cross MP | 4387 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3134 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2745 |
-| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3614 |
+| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3615 |
 | Livingston | Gregor Poynton MP | 3396 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2853 |
 | Mid Dunbartonshire | Susan Murray MP | 2523 |
