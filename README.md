@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990052                                |
-| Last Updated      | 2025-03-03 08:24:32 UTC                                    |
+| Total Signatures   | 2990063                                |
+| Last Updated      | 2025-03-03 09:20:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -44,7 +44,7 @@
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1896 |
 | Birmingham Northfield | Laurence Turner MP | 4888 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1718 |
-| Birmingham Selly Oak | Al Carns MP | 3288 |
+| Birmingham Selly Oak | Al Carns MP | 3289 |
 | Birmingham Yardley | Jess Phillips MP | 3077 |
 | Bishop Auckland | Sam Rushworth MP | 6161 |
 | Blackburn | Mr Adnan Hussain MP | 3125 |
@@ -99,9 +99,9 @@
 | Canterbury | Rosie Duffield MP | 4470 |
 | Carlisle | Ms Julie Minns MP | 6523 |
 | Carshalton and Wallington | Bobby Dean MP | 4266 |
-| Castle Point | Rebecca Harris MP | 7522 |
+| Castle Point | Rebecca Harris MP | 7523 |
 | Central Devon | Rt Hon Mel Stride MP | 5799 |
-| Central Suffolk and North Ipswich | Patrick Spencer MP | 5300 |
+| Central Suffolk and North Ipswich | Patrick Spencer MP | 5301 |
 | Chatham and Aylesford | Tristan Osborne MP | 5625 |
 | Cheadle | Tom Morrison MP | 4662 |
 | Chelmsford | Marie Goldman MP | 5265 |
@@ -265,10 +265,10 @@
 | Knowsley | Anneliese Midgley MP | 3273 |
 | Lancaster and Wyre | Cat Smith MP | 5075 |
 | Leeds Central and Headingley | Alex Sobel MP | 1928 |
-| Leeds East | Richard Burgon MP | 4302 |
+| Leeds East | Richard Burgon MP | 4303 |
 | Leeds North East | Fabian Hamilton MP | 2630 |
 | Leeds North West | Katie White MP | 4382 |
-| Leeds South | Rt Hon Hilary Benn MP | 3869 |
+| Leeds South | Rt Hon Hilary Benn MP | 3870 |
 | Leeds South West and Morley | Mark Sewards MP | 5489 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3779 |
 | Leicester East | Shivani Raja MP | 1879 |
@@ -307,7 +307,7 @@
 | Mid Bedfordshire | Blake Stephenson MP | 5841 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
 | Mid Cheshire | Andrew Cooper MP | 5164 |
-| Mid Derbyshire | Jonathan Davies MP | 5227 |
+| Mid Derbyshire | Jonathan Davies MP | 5228 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5878 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5574 |
 | Mid Norfolk | George Freeman MP | 6284 |
@@ -323,7 +323,7 @@
 | Newark | Rt Hon Robert Jenrick MP | 7156 |
 | Newbury | Mr Lee Dillon MP | 4886 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4495 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4747 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4748 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3949 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5065 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
@@ -352,7 +352,7 @@
 | North West Leicestershire | Amanda Hack MP | 6694 |
 | North West Norfolk | James Wild MP | 5752 |
 | Northampton North | Lucy Rigby KC MP | 4272 |
-| Northampton South | Mike Reader MP | 4961 |
+| Northampton South | Mike Reader MP | 4962 |
 | Norwich North | Alice Macdonald MP | 4395 |
 | Norwich South | Clive Lewis MP | 3383 |
 | Nottingham East | Nadia Whittome MP | 2475 |
@@ -448,14 +448,14 @@
 | Southampton Test | Satvir Kaur MP | 3400 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5574 |
 | Southend West and Leigh | David Burton-Sampson MP | 5871 |
-| Southgate and Wood Green | Bambos Charalambous MP | 2585 |
+| Southgate and Wood Green | Bambos Charalambous MP | 2586 |
 | Southport | Patrick Hurley MP | 5947 |
 | Spelthorne | Lincoln Jopp MP | 5458 |
 | Spen Valley | Kim Leadbeater MP | 5372 |
 | St Albans | Daisy Cooper MP | 3877 |
 | St Austell and Newquay | Noah Law MP | 5603 |
 | St Helens North | David Baines MP | 4690 |
-| St Helens South and Whiston | Ms Marie Rimmer MP | 4146 |
+| St Helens South and Whiston | Ms Marie Rimmer MP | 4147 |
 | St Ives | Andrew George MP | 5086 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4798 |
 | Stafford | Leigh Ingham MP | 5605 |
@@ -599,7 +599,7 @@
 | Edinburgh West | Christine Jardine MP | 2712 |
 | Falkirk | Euan Stainbank MP | 3430 |
 | Glasgow East | John Grady MP | 2312 |
-| Glasgow North | Martin Rhodes MP | 2035 |
+| Glasgow North | Martin Rhodes MP | 2036 |
 | Glasgow North East | Maureen Burke MP | 2472 |
 | Glasgow South | Gordon McKee MP | 1845 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2256 |
