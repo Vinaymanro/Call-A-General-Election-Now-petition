@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990034                                |
-| Last Updated      | 2025-03-03 06:26:15 UTC                                    |
+| Total Signatures   | 2990037                                |
+| Last Updated      | 2025-03-03 07:17:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -206,7 +206,7 @@
 | Guildford | Zöe Franklin MP | 3996 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1517 |
-| Halesowen | Alex Ballinger MP | 4989 |
+| Halesowen | Alex Ballinger MP | 4990 |
 | Halifax | Kate Dearden MP | 4746 |
 | Hamble Valley | Paul Holmes MP | 6137 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3196 |
@@ -232,7 +232,7 @@
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5743 |
 | Hexham | Joe Morris MP | 6407 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5254 |
-| High Peak | Jon Pearce MP | 5446 |
+| High Peak | Jon Pearce MP | 5447 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6480 |
 | Hitchin | Alistair Strathern MP | 4916 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2278 |
@@ -407,7 +407,7 @@
 | Salford | Rebecca Long Bailey MP | 4659 |
 | Salisbury | Rt Hon John Glen MP | 4744 |
 | Scarborough and Whitby | Alison Hume MP | 5994 |
-| Scunthorpe | Sir Nicholas Dakin MP | 5076 |
+| Scunthorpe | Sir Nicholas Dakin MP | 5077 |
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6363 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6662 |
