@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990027                                |
-| Last Updated      | 2025-03-03 04:22:07 UTC                                    |
+| Total Signatures   | 2990030                                |
+| Last Updated      | 2025-03-03 05:17:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -377,7 +377,7 @@
 | Poole | Neil Duncan-Jordan MP | 5666 |
 | Poplar and Limehouse | Apsana Begum MP | 2921 |
 | Portsmouth North | Amanda Martin MP | 5609 |
-| Portsmouth South | Stephen Morgan MP | 3869 |
+| Portsmouth South | Stephen Morgan MP | 3870 |
 | Preston | Sir Mark Hendrick MP | 3807 |
 | Putney | Fleur Anderson MP | 3515 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2150 |
@@ -471,11 +471,11 @@
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6531 |
 | Stourbridge | Cat Eccles MP | 5154 |
 | Stratford and Bow | Uma Kumaran MP | 1764 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6708 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6709 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
 | Stretford and Urmston | Andrew Western MP | 3818 |
 | Stroud | Dr Simon Opher MP | 4531 |
-| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5394 |
+| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5395 |
 | Sunderland Central | Lewis Atkinson MP | 5230 |
 | Surrey Heath | Dr Al Pinkerton MP | 5421 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6103 |
