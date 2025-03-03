@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990005                                |
-| Last Updated      | 2025-03-02 23:15:45 UTC                                    |
+| Total Signatures   | 2990015                                |
+| Last Updated      | 2025-03-03 01:22:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -56,8 +56,8 @@
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
 | Bolton North East | Kirith Entwistle MP | 5592 |
-| Bolton South and Walkden | Yasmin Qureshi MP | 4406 |
-| Bolton West | Phil Brickell MP | 5575 |
+| Bolton South and Walkden | Yasmin Qureshi MP | 4407 |
+| Bolton West | Phil Brickell MP | 5576 |
 | Bootle | Peter Dowd MP | 3145 |
 | Boston and Skegness | Richard Tice MP | 7079 |
 | Bournemouth East | Tom Hayes MP | 4658 |
@@ -212,7 +212,7 @@
 | Hammersmith and Chiswick | Andy Slaughter MP | 3196 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4713 |
-| Harlow | Chris Vince MP | 6063 |
+| Harlow | Chris Vince MP | 6064 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4536 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5112 |
 | Harrow East | Bob Blackman MP | 3129 |
@@ -240,7 +240,7 @@
 | Hornchurch and Upminster | Julia Lopez MP | 6606 |
 | Hornsey and Friern Barnet | Catherine West MP | 1937 |
 | Horsham | John Milne MP | 5828 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6294 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6295 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3327 |
 | Huddersfield | Harpreet Uppal MP | 3678 |
 | Huntingdon | Ben Obese-Jecty MP | 5550 |
@@ -289,7 +289,7 @@
 | Liverpool West Derby | Ian Byrne MP | 3046 |
 | Loughborough | Dr Jeevun Sandher MP | 4475 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7795 |
-| Lowestoft | Jess Asato MP | 5328 |
+| Lowestoft | Jess Asato MP | 5329 |
 | Luton North | Sarah Owen MP | 2470 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2941 |
 | Macclesfield | Tim Roca MP | 5398 |
@@ -354,7 +354,7 @@
 | Northampton North | Lucy Rigby KC MP | 4271 |
 | Northampton South | Mike Reader MP | 4961 |
 | Norwich North | Alice Macdonald MP | 4395 |
-| Norwich South | Clive Lewis MP | 3382 |
+| Norwich South | Clive Lewis MP | 3383 |
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
 | Nottingham South | Lilian Greenwood MP | 3050 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4154 |
 | Plymouth Moor View | Fred Thomas MP | 5673 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4743 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5440 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5441 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
 | Poplar and Limehouse | Apsana Begum MP | 2921 |
 | Portsmouth North | Amanda Martin MP | 5609 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5202 |
 | South West Norfolk | Terry Jermy MP | 6521 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5199 |
-| Southampton Itchen | Darren Paffey MP | 4536 |
+| Southampton Itchen | Darren Paffey MP | 4537 |
 | Southampton Test | Satvir Kaur MP | 3400 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5574 |
 | Southend West and Leigh | David Burton-Sampson MP | 5870 |
@@ -545,7 +545,7 @@
 | Worcester | Tom Collins MP | 4321 |
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5244 |
-| Wycombe | Emma Reynolds MP | 3608 |
+| Wycombe | Emma Reynolds MP | 3609 |
 | Wyre Forest | Mark Garnier MP | 6479 |
 | Wythenshawe and Sale East | Mike Kane MP | 4597 |
 | Yeovil | Adam Dance MP | 5599 |
@@ -644,7 +644,7 @@
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4227 |
 | Gower | Tonia Antoniazzi MP | 4755 |
 | Llanelli | Dame Nia Griffith MP | 5244 |
-| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3704 |
+| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3705 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5478 |
 | Monmouthshire | Catherine Fookes MP | 4733 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6039 |
