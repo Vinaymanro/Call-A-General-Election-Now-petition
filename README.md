@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990125                                |
-| Last Updated      | 2025-03-03 14:17:23 UTC                                    |
+| Total Signatures   | 2990138                                |
+| Last Updated      | 2025-03-03 15:19:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -66,7 +66,7 @@
 | Bradford East | Imran Hussain MP | 2886 |
 | Bradford South | Judith Cummins MP | 4175 |
 | Bradford West | Naz Shah MP | 1810 |
-| Braintree | Rt Hon James Cleverly MP | 7430 |
+| Braintree | Rt Hon James Cleverly MP | 7431 |
 | Brent East | Dawn Butler MP | 1863 |
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2990 |
@@ -110,7 +110,7 @@
 | Chesham and Amersham | Sarah Green MP | 4939 |
 | Chester North and Neston | Samantha Dixon MP | 4051 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6386 |
-| Chesterfield | Mr Toby Perkins MP | 4873 |
+| Chesterfield | Mr Toby Perkins MP | 4874 |
 | Chichester | Jess Brown-Fuller MP | 5921 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4162 |
 | Chippenham | Sarah Gibson MP | 4733 |
@@ -190,7 +190,7 @@
 | Fylde | Mr Andrew Snowden MP | 6770 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6648 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4519 |
-| Gedling | Michael Payne MP | 5052 |
+| Gedling | Michael Payne MP | 5053 |
 | Gillingham and Rainham | Naushabah Khan MP | 5049 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5587 |
 | Gloucester | Alex McIntyre MP | 4532 |
@@ -198,9 +198,9 @@
 | Goole and Pocklington | Rt Hon David Davis MP | 6955 |
 | Gorton and Denton | Andrew Gwynne MP | 3272 |
 | Gosport | Dame Caroline Dinenage MP | 5469 |
-| Grantham and Bourne | Gareth Davies MP | 6322 |
+| Grantham and Bourne | Gareth Davies MP | 6323 |
 | Gravesham | Dr Lauren Sullivan MP | 5140 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5788 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5789 |
 | Great Yarmouth | Rupert Lowe MP | 6581 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2622 |
 | Guildford | Zöe Franklin MP | 3996 |
@@ -233,7 +233,7 @@
 | Hexham | Joe Morris MP | 6407 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5254 |
 | High Peak | Jon Pearce MP | 5447 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6482 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6483 |
 | Hitchin | Alistair Strathern MP | 4916 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2278 |
 | Honiton and Sidmouth | Richard Foord MP | 5251 |
@@ -272,9 +272,9 @@
 | Leeds South West and Morley | Mark Sewards MP | 5489 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3779 |
 | Leicester East | Shivani Raja MP | 1879 |
-| Leicester South | Shockat Adam MP | 1840 |
+| Leicester South | Shockat Adam MP | 1841 |
 | Leicester West | Rt Hon Liz Kendall MP | 3454 |
-| Leigh and Atherton | Jo Platt MP | 6067 |
+| Leigh and Atherton | Jo Platt MP | 6068 |
 | Lewes | James MacCleary MP | 4896 |
 | Lewisham East | Janet Daby MP | 2145 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
@@ -309,10 +309,10 @@
 | Mid Cheshire | Andrew Cooper MP | 5164 |
 | Mid Derbyshire | Jonathan Davies MP | 5228 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5878 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5576 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5579 |
 | Mid Norfolk | George Freeman MP | 6284 |
 | Mid Sussex | Alison Bennett MP | 4697 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4223 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4224 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5701 |
 | Milton Keynes Central | Emily Darlington MP | 4938 |
 | Milton Keynes North | Chris Curtis MP | 4566 |
@@ -585,7 +585,7 @@
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3013 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4071 |
 | Coatbridge and Bellshill | Frank McNally MP | 2582 |
-| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2851 |
+| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2852 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2678 |
 | Dumfries and Galloway | John Cooper MP | 4040 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3855 |
