@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990360                                |
-| Last Updated      | 2025-03-04 13:24:45 UTC                                    |
+| Total Signatures   | 2990366                                |
+| Last Updated      | 2025-03-04 14:16:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -93,7 +93,7 @@
 | Bury South | Christian Wakeford MP | 5415 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5446 |
 | Calder Valley | Josh Fenton-Glynn MP | 5652 |
-| Camborne and Redruth | Perran Moon MP | 4961 |
+| Camborne and Redruth | Perran Moon MP | 4962 |
 | Cambridge | Daniel Zeichner MP | 2211 |
 | Cannock Chase | Josh Newbury MP | 6876 |
 | Canterbury | Rosie Duffield MP | 4470 |
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3026 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4446 |
-| Redcar | Anna Turley MP | 5445 |
+| Redcar | Anna Turley MP | 5446 |
 | Redditch | Chris Bloore MP | 6071 |
 | Reigate | Rebecca Paul MP | 5549 |
 | Ribble Valley | Maya Ellis MP | 6707 |
@@ -456,7 +456,7 @@
 | St Austell and Newquay | Noah Law MP | 5604 |
 | St Helens North | David Baines MP | 4690 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4147 |
-| St Ives | Andrew George MP | 5087 |
+| St Ives | Andrew George MP | 5088 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4798 |
 | Stafford | Leigh Ingham MP | 5605 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6417 |
@@ -493,11 +493,11 @@
 | Thornbury and Yate | Claire Young MP | 5691 |
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
-| Tiverton and Minehead | Rachel Gilmour MP | 5951 |
+| Tiverton and Minehead | Rachel Gilmour MP | 5952 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5947 |
 | Tooting | Dr Rosena Allin-Khan MP | 2689 |
 | Torbay | Steve Darling MP | 5819 |
-| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6574 |
+| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6575 |
 | Tottenham | Rt Hon David Lammy MP | 1683 |
 | Truro and Falmouth | Jayne Kirkham MP | 4603 |
 | Tunbridge Wells | Mike Martin MP | 5455 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3781 |
 | West Dorset | Edward Morello MP | 5455 |
 | West Ham and Beckton | James Asser MP | 2151 |
-| West Lancashire | Ashley Dalton MP | 5050 |
+| West Lancashire | Ashley Dalton MP | 5051 |
 | West Suffolk | Nick Timothy MP | 6034 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6258 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
