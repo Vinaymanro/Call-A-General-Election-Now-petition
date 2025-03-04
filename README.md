@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990440                                |
-| Last Updated      | 2025-03-04 22:15:18 UTC                                    |
+| Total Signatures   | 2990450                                |
+| Last Updated      | 2025-03-04 23:16:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -28,7 +28,7 @@
 | Bath | Wera Hobhouse MP | 2979 |
 | Battersea | Marsha De Cordova MP | 3612 |
 | Beaconsfield | Joy Morrissey MP | 5211 |
-| Beckenham and Penge | Liam Conlon MP | 3838 |
+| Beckenham and Penge | Liam Conlon MP | 3839 |
 | Bedford | Mohammad Yasin MP | 3225 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1725 |
@@ -122,7 +122,7 @@
 | Clacton | Nigel Farage MP | 8075 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1739 |
 | Colchester | Pam Cox MP | 4991 |
-| Colne Valley | Paul Davies MP | 5025 |
+| Colne Valley | Paul Davies MP | 5026 |
 | Congleton | Mrs Sarah Russell MP | 5970 |
 | Corby and East Northamptonshire | Lee Barron MP | 6000 |
 | Coventry East | Mary Creagh MP | 3587 |
@@ -270,7 +270,7 @@
 | Leeds North West | Katie White MP | 4384 |
 | Leeds South | Rt Hon Hilary Benn MP | 3871 |
 | Leeds South West and Morley | Mark Sewards MP | 5490 |
-| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3781 |
+| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3782 |
 | Leicester East | Shivani Raja MP | 1881 |
 | Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3459 |
@@ -368,12 +368,12 @@
 | Oxford West and Abingdon | Layla Moran MP | 2927 |
 | Peckham | Miatta Fahnbulleh MP | 1356 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6193 |
-| Penistone and Stocksbridge | Dr Marie Tidball MP | 5440 |
+| Penistone and Stocksbridge | Dr Marie Tidball MP | 5441 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6185 |
 | Peterborough | Andrew Pakes MP | 4154 |
 | Plymouth Moor View | Fred Thomas MP | 5673 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4743 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5441 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5442 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
 | Poplar and Limehouse | Apsana Begum MP | 2921 |
 | Portsmouth North | Amanda Martin MP | 5610 |
@@ -422,7 +422,7 @@
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6860 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6668 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6288 |
-| Slough | Mr Tanmanjeet Singh Dhesi MP | 2581 |
+| Slough | Mr Tanmanjeet Singh Dhesi MP | 2582 |
 | Smethwick | Gurinder Singh Josan MP | 3056 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5439 |
 | South Basildon and East Thurrock | James McMurdock MP | 6602 |
@@ -571,7 +571,7 @@
 | West Tyrone | Órfhlaith Begley MP | 1664 |
 | East Renfrewshire | Blair McDougall MP | 2590 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
-| Midlothian | Kirsty McNeill MP | 2792 |
+| Midlothian | Kirsty McNeill MP | 2793 |
 | North Ayrshire and Arran | Irene Campbell MP | 3289 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1440 |
 | Aberdeen North | Kirsty Blackman MP | 3548 |
@@ -588,7 +588,7 @@
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2852 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2678 |
 | Dumfries and Galloway | John Cooper MP | 4040 |
-| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3855 |
+| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3856 |
 | Dundee Central | Chris Law MP | 2542 |
 | Dunfermline and Dollar | Graeme Downie MP | 2928 |
 | East Kilbride and Strathaven | Joani Reid MP | 3151 |
@@ -605,7 +605,7 @@
 | Glasgow South West | Dr Zubir Ahmed MP | 2257 |
 | Glasgow West | Patricia Ferguson MP | 2211 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2966 |
-| Gordon and Buchan | Harriet Cross MP | 4387 |
+| Gordon and Buchan | Harriet Cross MP | 4388 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3134 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2745 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3617 |
@@ -653,7 +653,7 @@
 | Newport West and Islwyn | Ruth Jones MP | 4045 |
 | Pontypridd | Alex Davies-Jones MP | 3901 |
 | Rhondda and Ogmore | Chris Bryant MP | 4027 |
-| Swansea West | Torsten Bell MP | 3648 |
+| Swansea West | Torsten Bell MP | 3649 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4611 |
 | Wrexham | Andrew Ranger MP | 4794 |
