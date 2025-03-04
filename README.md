@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990285                                |
-| Last Updated      | 2025-03-04 07:17:36 UTC                                    |
+| Total Signatures   | 2990295                                |
+| Last Updated      | 2025-03-04 08:21:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -70,10 +70,10 @@
 | Brent East | Dawn Butler MP | 1863 |
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2990 |
-| Brentwood and Ongar | Alex Burghart MP | 8136 |
+| Brentwood and Ongar | Alex Burghart MP | 8137 |
 | Bridgwater | Sir Ashley Fox MP | 5748 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6619 |
-| Brigg and Immingham | Martin Vickers MP | 6459 |
+| Brigg and Immingham | Martin Vickers MP | 6460 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3931 |
 | Brighton Pavilion | Siân Berry MP | 2732 |
 | Bristol Central | Carla Denyer MP | 1615 |
@@ -85,7 +85,7 @@
 | Bromley and Biggin Hill | Peter Fortune MP | 5235 |
 | Bromsgrove | Bradley Thomas MP | 6473 |
 | Broxbourne | Lewis Cocking MP | 6073 |
-| Broxtowe | Juliet Campbell MP | 4707 |
+| Broxtowe | Juliet Campbell MP | 4708 |
 | Buckingham and Bletchley | Callum Anderson MP | 5254 |
 | Burnley | Oliver Ryan MP | 5722 |
 | Burton and Uttoxeter | Jacob Collier MP | 5795 |
@@ -128,7 +128,7 @@
 | Coventry East | Mary Creagh MP | 3587 |
 | Coventry North West | Taiwo Owatemi MP | 4249 |
 | Coventry South | Zarah Sultana MP | 3512 |
-| Cramlington and Killingworth | Emma Foody MP | 5796 |
+| Cramlington and Killingworth | Emma Foody MP | 5797 |
 | Crawley | Peter Lamb MP | 4712 |
 | Crewe and Nantwich | Connor Naismith MP | 5687 |
 | Croydon East | Natasha Irons MP | 3333 |
@@ -318,7 +318,7 @@
 | Milton Keynes North | Chris Curtis MP | 4566 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5762 |
-| New Forest East | Rt Hon Sir Julian Lewis MP | 5415 |
+| New Forest East | Rt Hon Sir Julian Lewis MP | 5416 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5247 |
 | Newark | Rt Hon Robert Jenrick MP | 7156 |
 | Newbury | Mr Lee Dillon MP | 4886 |
@@ -405,8 +405,8 @@
 | Rushcliffe | James Naish MP | 5073 |
 | Rutland and Stamford | Alicia Kearns MP | 6257 |
 | Salford | Rebecca Long Bailey MP | 4660 |
-| Salisbury | Rt Hon John Glen MP | 4745 |
-| Scarborough and Whitby | Alison Hume MP | 5994 |
+| Salisbury | Rt Hon John Glen MP | 4746 |
+| Scarborough and Whitby | Alison Hume MP | 5995 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5077 |
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6364 |
@@ -567,7 +567,7 @@
 | South Antrim | Robin Swann MP | 3086 |
 | South Down | Chris Hazzard MP | 1840 |
 | Strangford | Jim Shannon MP | 3453 |
-| Upper Bann | Carla Lockhart MP | 3061 |
+| Upper Bann | Carla Lockhart MP | 3062 |
 | West Tyrone | Órfhlaith Begley MP | 1664 |
 | East Renfrewshire | Blair McDougall MP | 2590 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
@@ -629,10 +629,10 @@
 | Aberafan Maesteg | Stephen Kinnock MP | 3682 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5745 |
 | Bangor Aberconwy | Claire Hughes MP | 4514 |
-| Blaenau Gwent and Rhymney | Nick Smith MP | 3635 |
+| Blaenau Gwent and Rhymney | Nick Smith MP | 3636 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
 | Bridgend | Chris Elmore MP | 4230 |
-| Caerfyrddin | Ann Davies MP | 5198 |
+| Caerfyrddin | Ann Davies MP | 5199 |
 | Caerphilly | Chris Evans MP | 3980 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2891 |
 | Cardiff North | Anna McMorrin MP | 3291 |
