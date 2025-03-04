@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990388                                |
-| Last Updated      | 2025-03-04 17:15:54 UTC                                    |
+| Total Signatures   | 2990395                                |
+| Last Updated      | 2025-03-04 18:25:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3764 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6149 |
-| Blackpool South | Chris Webb MP | 5803 |
+| Blackpool South | Chris Webb MP | 5804 |
 | Blaydon and Consett | Liz Twist MP | 5244 |
 | Blyth and Ashington | Ian Lavery MP | 5849 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
@@ -199,7 +199,7 @@
 | Gorton and Denton | Andrew Gwynne MP | 3273 |
 | Gosport | Dame Caroline Dinenage MP | 5470 |
 | Grantham and Bourne | Gareth Davies MP | 6323 |
-| Gravesham | Dr Lauren Sullivan MP | 5141 |
+| Gravesham | Dr Lauren Sullivan MP | 5142 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5793 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2622 |
@@ -273,7 +273,7 @@
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3781 |
 | Leicester East | Shivani Raja MP | 1881 |
 | Leicester South | Shockat Adam MP | 1842 |
-| Leicester West | Rt Hon Liz Kendall MP | 3458 |
+| Leicester West | Rt Hon Liz Kendall MP | 3459 |
 | Leigh and Atherton | Jo Platt MP | 6068 |
 | Lewes | James MacCleary MP | 4897 |
 | Lewisham East | Janet Daby MP | 2145 |
@@ -306,7 +306,7 @@
 | Meriden and Solihull East | Saqib Bhatti MP | 6075 |
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
-| Mid Cheshire | Andrew Cooper MP | 5164 |
+| Mid Cheshire | Andrew Cooper MP | 5165 |
 | Mid Derbyshire | Jonathan Davies MP | 5228 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5878 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5588 |
@@ -378,7 +378,7 @@
 | Poplar and Limehouse | Apsana Begum MP | 2921 |
 | Portsmouth North | Amanda Martin MP | 5610 |
 | Portsmouth South | Stephen Morgan MP | 3871 |
-| Preston | Sir Mark Hendrick MP | 3807 |
+| Preston | Sir Mark Hendrick MP | 3808 |
 | Putney | Fleur Anderson MP | 3516 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2150 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5111 |
@@ -485,7 +485,7 @@
 | Swindon South | Rt Hon Heidi Alexander MP | 4204 |
 | Tamworth | Sarah Edwards MP | 6938 |
 | Tatton | Rt Hon Esther McVey MP | 6498 |
-| Taunton and Wellington | Gideon Amos MP | 5167 |
+| Taunton and Wellington | Gideon Amos MP | 5168 |
 | Telford | Shaun Davies MP | 5580 |
 | Tewkesbury | Cameron Thomas MP | 5010 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
@@ -651,7 +651,7 @@
 | Neath and Swansea East | Carolyn Harris MP | 4435 |
 | Newport East | Jessica Morden MP | 4003 |
 | Newport West and Islwyn | Ruth Jones MP | 4045 |
-| Pontypridd | Alex Davies-Jones MP | 3900 |
+| Pontypridd | Alex Davies-Jones MP | 3901 |
 | Rhondda and Ogmore | Chris Bryant MP | 4026 |
 | Swansea West | Torsten Bell MP | 3648 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
