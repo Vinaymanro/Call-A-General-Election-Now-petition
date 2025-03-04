@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990271                                |
-| Last Updated      | 2025-03-04 04:20:51 UTC                                    |
+| Total Signatures   | 2990274                                |
+| Last Updated      | 2025-03-04 05:16:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -185,7 +185,7 @@
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4505 |
 | Finchley and Golders Green | Sarah Sackman MP | 4282 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5390 |
-| Forest of Dean | Matt Bishop MP | 5265 |
+| Forest of Dean | Matt Bishop MP | 5266 |
 | Frome and East Somerset | Anna Sabine MP | 4326 |
 | Fylde | Mr Andrew Snowden MP | 6770 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6649 |
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5469 |
 | Grantham and Bourne | Gareth Davies MP | 6323 |
 | Gravesham | Dr Lauren Sullivan MP | 5141 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5789 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5790 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2622 |
 | Guildford | Zöe Franklin MP | 3997 |
@@ -384,7 +384,7 @@
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5111 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3026 |
-| Reading West and Mid Berkshire | Olivia Bailey MP | 4445 |
+| Reading West and Mid Berkshire | Olivia Bailey MP | 4446 |
 | Redcar | Anna Turley MP | 5445 |
 | Redditch | Chris Bloore MP | 6071 |
 | Reigate | Rebecca Paul MP | 5549 |
