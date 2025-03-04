@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990270                                |
-| Last Updated      | 2025-03-04 03:27:01 UTC                                    |
+| Total Signatures   | 2990271                                |
+| Last Updated      | 2025-03-04 04:20:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -297,7 +297,7 @@
 | Maidstone and Malling | Helen Grant MP | 5841 |
 | Makerfield | Josh Simons MP | 5871 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8110 |
-| Manchester Central | Rt Hon Lucy Powell MP | 3989 |
+| Manchester Central | Rt Hon Lucy Powell MP | 3990 |
 | Manchester Rusholme | Afzal Khan MP | 1216 |
 | Manchester Withington | Jeff Smith MP | 1670 |
 | Mansfield | Steve Yemm MP | 6191 |
