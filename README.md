@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990381                                |
-| Last Updated      | 2025-03-04 16:22:56 UTC                                    |
+| Total Signatures   | 2990388                                |
+| Last Updated      | 2025-03-04 17:15:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -45,7 +45,7 @@
 | Birmingham Northfield | Laurence Turner MP | 4888 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1719 |
 | Birmingham Selly Oak | Al Carns MP | 3289 |
-| Birmingham Yardley | Jess Phillips MP | 3077 |
+| Birmingham Yardley | Jess Phillips MP | 3078 |
 | Bishop Auckland | Sam Rushworth MP | 6161 |
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3764 |
@@ -79,7 +79,7 @@
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2976 |
 | Bristol North East | Damien Egan MP | 3080 |
-| Bristol North West | Rt Hon Darren Jones MP | 3204 |
+| Bristol North West | Rt Hon Darren Jones MP | 3205 |
 | Bristol South | Karin Smyth MP | 3960 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5827 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5236 |
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5470 |
 | Grantham and Bourne | Gareth Davies MP | 6323 |
 | Gravesham | Dr Lauren Sullivan MP | 5141 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5792 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5793 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2622 |
 | Guildford | Zöe Franklin MP | 3997 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2633 |
 | Liverpool Walton | Dan Carden MP | 3352 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
-| Liverpool West Derby | Ian Byrne MP | 3047 |
+| Liverpool West Derby | Ian Byrne MP | 3048 |
 | Loughborough | Dr Jeevun Sandher MP | 4476 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7795 |
 | Lowestoft | Jess Asato MP | 5329 |
@@ -471,7 +471,7 @@
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6531 |
 | Stourbridge | Cat Eccles MP | 5154 |
 | Stratford and Bow | Uma Kumaran MP | 1764 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6709 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6710 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
 | Stretford and Urmston | Andrew Western MP | 3819 |
 | Stroud | Dr Simon Opher MP | 4531 |
@@ -621,7 +621,7 @@
 | Rutherglen | Michael Shanks MP | 2570 |
 | Stirling and Strathallan | Chris Kane MP | 3217 |
 | West Dunbartonshire | Douglas McAllister MP | 2723 |
-| Ayr, Carrick and Cumnock | Elaine Stewart MP | 3548 |
+| Ayr, Carrick and Cumnock | Elaine Stewart MP | 3549 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4022 |
 | Central Ayrshire | Alan Gemmell MP | 3131 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3248 |
@@ -629,7 +629,7 @@
 | Aberafan Maesteg | Stephen Kinnock MP | 3682 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5745 |
 | Bangor Aberconwy | Claire Hughes MP | 4514 |
-| Blaenau Gwent and Rhymney | Nick Smith MP | 3636 |
+| Blaenau Gwent and Rhymney | Nick Smith MP | 3637 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
 | Bridgend | Chris Elmore MP | 4232 |
 | Caerfyrddin | Ann Davies MP | 5199 |
