@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990279                                |
-| Last Updated      | 2025-03-04 06:25:02 UTC                                    |
+| Total Signatures   | 2990285                                |
+| Last Updated      | 2025-03-04 07:17:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -70,7 +70,7 @@
 | Brent East | Dawn Butler MP | 1863 |
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2990 |
-| Brentwood and Ongar | Alex Burghart MP | 8135 |
+| Brentwood and Ongar | Alex Burghart MP | 8136 |
 | Bridgwater | Sir Ashley Fox MP | 5748 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6619 |
 | Brigg and Immingham | Martin Vickers MP | 6459 |
@@ -231,7 +231,7 @@
 | Hertford and Stortford | Josh Dean MP | 5973 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5744 |
 | Hexham | Joe Morris MP | 6407 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5254 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5255 |
 | High Peak | Jon Pearce MP | 5447 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6484 |
 | Hitchin | Alistair Strathern MP | 4916 |
@@ -424,11 +424,11 @@
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6287 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2581 |
 | Smethwick | Gurinder Singh Josan MP | 3053 |
-| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5438 |
+| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5439 |
 | South Basildon and East Thurrock | James McMurdock MP | 6602 |
 | South Cambridgeshire | Pippa Heylings MP | 4451 |
 | South Cotswolds | Dr Roz Savage MP | 5715 |
-| South Derbyshire | Samantha Niblett MP | 6164 |
+| South Derbyshire | Samantha Niblett MP | 6165 |
 | South Devon | Caroline Voaden MP | 5320 |
 | South Dorset | Lloyd Hatton MP | 5652 |
 | South East Cornwall | Anna Gelderd MP | 6234 |
@@ -485,7 +485,7 @@
 | Swindon South | Rt Hon Heidi Alexander MP | 4203 |
 | Tamworth | Sarah Edwards MP | 6935 |
 | Tatton | Rt Hon Esther McVey MP | 6498 |
-| Taunton and Wellington | Gideon Amos MP | 5166 |
+| Taunton and Wellington | Gideon Amos MP | 5167 |
 | Telford | Shaun Davies MP | 5580 |
 | Tewkesbury | Cameron Thomas MP | 5010 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3740 |
 | Waveney Valley | Adrian Ramsay MP | 5849 |
 | Weald of Kent | Katie Lam MP | 7224 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5081 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5082 |
 | Wells and Mendip Hills | Tessa Munt MP | 5250 |
 | Welwyn Hatfield | Andrew Lewin MP | 5055 |
 | West Bromwich | Sarah Coombes MP | 3781 |
