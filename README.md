@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990430                                |
-| Last Updated      | 2025-03-04 21:16:40 UTC                                    |
+| Total Signatures   | 2990440                                |
+| Last Updated      | 2025-03-04 22:15:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -29,7 +29,7 @@
 | Battersea | Marsha De Cordova MP | 3612 |
 | Beaconsfield | Joy Morrissey MP | 5211 |
 | Beckenham and Penge | Liam Conlon MP | 3838 |
-| Bedford | Mohammad Yasin MP | 3223 |
+| Bedford | Mohammad Yasin MP | 3225 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1725 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6154 |
@@ -186,7 +186,7 @@
 | Finchley and Golders Green | Sarah Sackman MP | 4282 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5390 |
 | Forest of Dean | Matt Bishop MP | 5266 |
-| Frome and East Somerset | Anna Sabine MP | 4326 |
+| Frome and East Somerset | Anna Sabine MP | 4327 |
 | Fylde | Mr Andrew Snowden MP | 6770 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6649 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4519 |
@@ -212,7 +212,7 @@
 | Hammersmith and Chiswick | Andy Slaughter MP | 3196 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4713 |
-| Harlow | Chris Vince MP | 6064 |
+| Harlow | Chris Vince MP | 6065 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4536 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5113 |
 | Harrow East | Bob Blackman MP | 3130 |
@@ -222,12 +222,12 @@
 | Hastings and Rye | Helena Dollimore MP | 5065 |
 | Havant | Alan Mak MP | 5651 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2592 |
-| Hazel Grove | Lisa Smart MP | 5098 |
+| Hazel Grove | Lisa Smart MP | 5099 |
 | Hemel Hempstead | David Taylor MP | 5072 |
 | Hendon | David Pinto-Duschinsky MP | 3797 |
 | Henley and Thame | Freddie van Mierlo MP | 5401 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5273 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6296 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6297 |
 | Hertford and Stortford | Josh Dean MP | 5973 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5744 |
 | Hexham | Joe Morris MP | 6407 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5588 |
 | Mid Norfolk | George Freeman MP | 6284 |
 | Mid Sussex | Alison Bennett MP | 4697 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4225 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4226 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5702 |
 | Milton Keynes Central | Emily Darlington MP | 4939 |
 | Milton Keynes North | Chris Curtis MP | 4566 |
@@ -367,7 +367,7 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
 | Oxford West and Abingdon | Layla Moran MP | 2927 |
 | Peckham | Miatta Fahnbulleh MP | 1356 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6192 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6193 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5440 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6185 |
 | Peterborough | Andrew Pakes MP | 4154 |
@@ -423,7 +423,7 @@
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6668 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6288 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2581 |
-| Smethwick | Gurinder Singh Josan MP | 3055 |
+| Smethwick | Gurinder Singh Josan MP | 3056 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5439 |
 | South Basildon and East Thurrock | James McMurdock MP | 6602 |
 | South Cambridgeshire | Pippa Heylings MP | 4451 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4836 |
 | Stockton West | Matt Vickers MP | 5987 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4726 |
-| Stoke-on-Trent North | David Williams MP | 5449 |
+| Stoke-on-Trent North | David Williams MP | 5450 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5725 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6531 |
 | Stourbridge | Cat Eccles MP | 5154 |
