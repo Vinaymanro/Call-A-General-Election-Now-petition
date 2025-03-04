@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990351                                |
-| Last Updated      | 2025-03-04 12:35:28 UTC                                    |
+| Total Signatures   | 2990360                                |
+| Last Updated      | 2025-03-04 13:24:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -82,7 +82,7 @@
 | Bristol North West | Rt Hon Darren Jones MP | 3204 |
 | Bristol South | Karin Smyth MP | 3960 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5827 |
-| Bromley and Biggin Hill | Peter Fortune MP | 5235 |
+| Bromley and Biggin Hill | Peter Fortune MP | 5236 |
 | Bromsgrove | Bradley Thomas MP | 6473 |
 | Broxbourne | Lewis Cocking MP | 6073 |
 | Broxtowe | Juliet Campbell MP | 4708 |
@@ -182,7 +182,7 @@
 | Farnham and Bordon | Gregory Stafford MP | 5187 |
 | Faversham and Mid Kent | Helen Whately MP | 6221 |
 | Feltham and Heston | Seema Malhotra MP | 2918 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4505 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4506 |
 | Finchley and Golders Green | Sarah Sackman MP | 4282 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5390 |
 | Forest of Dean | Matt Bishop MP | 5266 |
@@ -303,7 +303,7 @@
 | Mansfield | Steve Yemm MP | 6192 |
 | Melksham and Devizes | Brian Mathew MP | 5008 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6108 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6074 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6075 |
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
 | Mid Cheshire | Andrew Cooper MP | 5164 |
@@ -423,7 +423,7 @@
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6668 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6287 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2581 |
-| Smethwick | Gurinder Singh Josan MP | 3054 |
+| Smethwick | Gurinder Singh Josan MP | 3055 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5439 |
 | South Basildon and East Thurrock | James McMurdock MP | 6602 |
 | South Cambridgeshire | Pippa Heylings MP | 4451 |
@@ -482,14 +482,14 @@
 | Sutton and Cheam | Luke Taylor MP | 4388 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5670 |
 | Swindon North | Will Stone MP | 4893 |
-| Swindon South | Rt Hon Heidi Alexander MP | 4203 |
-| Tamworth | Sarah Edwards MP | 6936 |
+| Swindon South | Rt Hon Heidi Alexander MP | 4204 |
+| Tamworth | Sarah Edwards MP | 6937 |
 | Tatton | Rt Hon Esther McVey MP | 6498 |
 | Taunton and Wellington | Gideon Amos MP | 5167 |
 | Telford | Shaun Davies MP | 5580 |
 | Tewkesbury | Cameron Thomas MP | 5010 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7428 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7429 |
 | Thornbury and Yate | Claire Young MP | 5691 |
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
@@ -514,7 +514,7 @@
 | Warwick and Leamington | Matt Western MP | 4471 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5309 |
 | Watford | Matt Turmaine MP | 3740 |
-| Waveney Valley | Adrian Ramsay MP | 5849 |
+| Waveney Valley | Adrian Ramsay MP | 5850 |
 | Weald of Kent | Katie Lam MP | 7224 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5082 |
 | Wells and Mendip Hills | Tessa Munt MP | 5250 |
@@ -612,7 +612,7 @@
 | Livingston | Gregor Poynton MP | 3396 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2856 |
 | Mid Dunbartonshire | Susan Murray MP | 2523 |
-| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3933 |
+| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3934 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2728 |
 | North East Fife | Wendy Chamberlain MP | 2902 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2856 |
