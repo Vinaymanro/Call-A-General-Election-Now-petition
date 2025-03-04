@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990328                                |
-| Last Updated      | 2025-03-04 10:19:12 UTC                                    |
+| Total Signatures   | 2990334                                |
+| Last Updated      | 2025-03-04 11:14:39 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -79,7 +79,7 @@
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2976 |
 | Bristol North East | Damien Egan MP | 3080 |
-| Bristol North West | Rt Hon Darren Jones MP | 3203 |
+| Bristol North West | Rt Hon Darren Jones MP | 3204 |
 | Bristol South | Karin Smyth MP | 3960 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5827 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5235 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2633 |
 | Liverpool Walton | Dan Carden MP | 3352 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
-| Liverpool West Derby | Ian Byrne MP | 3046 |
+| Liverpool West Derby | Ian Byrne MP | 3047 |
 | Loughborough | Dr Jeevun Sandher MP | 4476 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7795 |
 | Lowestoft | Jess Asato MP | 5329 |
@@ -423,7 +423,7 @@
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6668 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6287 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2581 |
-| Smethwick | Gurinder Singh Josan MP | 3053 |
+| Smethwick | Gurinder Singh Josan MP | 3054 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5439 |
 | South Basildon and East Thurrock | James McMurdock MP | 6602 |
 | South Cambridgeshire | Pippa Heylings MP | 4451 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6165 |
 | South Devon | Caroline Voaden MP | 5320 |
 | South Dorset | Lloyd Hatton MP | 5652 |
-| South East Cornwall | Anna Gelderd MP | 6234 |
+| South East Cornwall | Anna Gelderd MP | 6236 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7130 |
 | South Leicestershire | Alberto Costa MP | 6983 |
 | South Norfolk | Ben Goldsborough MP | 5439 |
@@ -641,7 +641,7 @@
 | Ceredigion Preseli | Ben Lake MP | 4735 |
 | Clwyd East | Becky Gittins MP | 6033 |
 | Clwyd North | Gill German MP | 5443 |
-| Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4227 |
+| Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4228 |
 | Gower | Tonia Antoniazzi MP | 4755 |
 | Llanelli | Dame Nia Griffith MP | 5244 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3705 |
