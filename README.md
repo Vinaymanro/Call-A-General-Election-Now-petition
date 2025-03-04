@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990366                                |
-| Last Updated      | 2025-03-04 14:16:57 UTC                                    |
+| Total Signatures   | 2990375                                |
+| Last Updated      | 2025-03-04 15:19:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -12,7 +12,7 @@
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5799 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5499 |
 | Amber Valley | Linsey Farnsworth MP | 6081 |
-| Arundel and South Downs | Andrew Griffith MP | 6954 |
+| Arundel and South Downs | Andrew Griffith MP | 6955 |
 | Ashfield | Lee Anderson MP | 6158 |
 | Ashford | Sojan Joseph MP | 5888 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4584 |
@@ -135,7 +135,7 @@
 | Croydon South | Rt Hon Chris Philp MP | 3955 |
 | Croydon West | Sarah Jones MP | 1743 |
 | Dagenham and Rainham | Margaret Mullane MP | 4231 |
-| Darlington | Lola McEvoy MP | 5458 |
+| Darlington | Lola McEvoy MP | 5459 |
 | Dartford | Jim Dickson MP | 5730 |
 | Daventry | Rt Hon Stuart Andrew MP | 7277 |
 | Derby North | Catherine Atkinson MP | 4318 |
@@ -197,7 +197,7 @@
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5236 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6955 |
 | Gorton and Denton | Andrew Gwynne MP | 3273 |
-| Gosport | Dame Caroline Dinenage MP | 5469 |
+| Gosport | Dame Caroline Dinenage MP | 5470 |
 | Grantham and Bourne | Gareth Davies MP | 6323 |
 | Gravesham | Dr Lauren Sullivan MP | 5141 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5792 |
@@ -254,7 +254,7 @@
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5079 |
 | Keighley and Ilkley | Robbie Moore MP | 4686 |
-| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6099 |
+| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6100 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
 | Kettering | Rosie Wrighting MP | 5903 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3745 |
@@ -297,7 +297,7 @@
 | Maidstone and Malling | Helen Grant MP | 5841 |
 | Makerfield | Josh Simons MP | 5871 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8110 |
-| Manchester Central | Rt Hon Lucy Powell MP | 3991 |
+| Manchester Central | Rt Hon Lucy Powell MP | 3992 |
 | Manchester Rusholme | Afzal Khan MP | 1216 |
 | Manchester Withington | Jeff Smith MP | 1670 |
 | Mansfield | Steve Yemm MP | 6192 |
@@ -483,7 +483,7 @@
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5670 |
 | Swindon North | Will Stone MP | 4893 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4204 |
-| Tamworth | Sarah Edwards MP | 6937 |
+| Tamworth | Sarah Edwards MP | 6938 |
 | Tatton | Rt Hon Esther McVey MP | 6498 |
 | Taunton and Wellington | Gideon Amos MP | 5167 |
 | Telford | Shaun Davies MP | 5580 |
@@ -518,8 +518,8 @@
 | Weald of Kent | Katie Lam MP | 7224 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5082 |
 | Wells and Mendip Hills | Tessa Munt MP | 5250 |
-| Welwyn Hatfield | Andrew Lewin MP | 5055 |
-| West Bromwich | Sarah Coombes MP | 3781 |
+| Welwyn Hatfield | Andrew Lewin MP | 5056 |
+| West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5455 |
 | West Ham and Beckton | James Asser MP | 2151 |
 | West Lancashire | Ashley Dalton MP | 5051 |
@@ -622,7 +622,7 @@
 | Stirling and Strathallan | Chris Kane MP | 3217 |
 | West Dunbartonshire | Douglas McAllister MP | 2723 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3548 |
-| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4021 |
+| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4022 |
 | Central Ayrshire | Alan Gemmell MP | 3131 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3248 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
