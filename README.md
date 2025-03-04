@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990421                                |
-| Last Updated      | 2025-03-04 20:18:56 UTC                                    |
+| Total Signatures   | 2990430                                |
+| Last Updated      | 2025-03-04 21:16:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -253,7 +253,7 @@
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5079 |
-| Keighley and Ilkley | Robbie Moore MP | 4686 |
+| Keighley and Ilkley | Robbie Moore MP | 4687 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6100 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
 | Kettering | Rosie Wrighting MP | 5903 |
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6284 |
 | Mid Sussex | Alison Bennett MP | 4697 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4225 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5701 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5702 |
 | Milton Keynes Central | Emily Darlington MP | 4939 |
 | Milton Keynes North | Chris Curtis MP | 4566 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
@@ -328,7 +328,7 @@
 | Newcastle-under-Lyme | Adam Jogee MP | 5066 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5527 |
-| Normanton and Hemsworth | Jon Trickett MP | 5486 |
+| Normanton and Hemsworth | Jon Trickett MP | 5487 |
 | North Bedfordshire | Richard Fuller MP | 6101 |
 | North Cornwall | Ben Maguire MP | 6398 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6044 |
@@ -358,7 +358,7 @@
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
 | Nottingham South | Lilian Greenwood MP | 3051 |
-| Nuneaton | Jodie Gosling MP | 5546 |
+| Nuneaton | Jodie Gosling MP | 5547 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5226 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4079 |
@@ -385,14 +385,14 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3026 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4446 |
-| Redcar | Anna Turley MP | 5448 |
+| Redcar | Anna Turley MP | 5449 |
 | Redditch | Chris Bloore MP | 6071 |
 | Reigate | Rebecca Paul MP | 5549 |
 | Ribble Valley | Maya Ellis MP | 6707 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7102 |
 | Richmond Park | Sarah Olney MP | 4059 |
 | Rochdale | Paul Waugh MP | 3950 |
-| Rochester and Strood | Lauren Edwards MP | 6018 |
+| Rochester and Strood | Lauren Edwards MP | 6019 |
 | Romford | Andrew Rosindell MP | 5785 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5067 |
 | Rossendale and Darwen | Andy MacNae MP | 6487 |
@@ -546,7 +546,7 @@
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5246 |
 | Wycombe | Emma Reynolds MP | 3609 |
-| Wyre Forest | Mark Garnier MP | 6479 |
+| Wyre Forest | Mark Garnier MP | 6480 |
 | Wythenshawe and Sale East | Mike Kane MP | 4597 |
 | Yeovil | Adam Dance MP | 5599 |
 | York Central | Rachael Maskell MP | 3276 |
@@ -574,7 +574,7 @@
 | Midlothian | Kirsty McNeill MP | 2792 |
 | North Ayrshire and Arran | Irene Campbell MP | 3289 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1440 |
-| Aberdeen North | Kirsty Blackman MP | 3547 |
+| Aberdeen North | Kirsty Blackman MP | 3548 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3839 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4668 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2811 |
@@ -604,7 +604,7 @@
 | Glasgow South | Gordon McKee MP | 1845 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2257 |
 | Glasgow West | Patricia Ferguson MP | 2211 |
-| Glenrothes and Mid Fife | Richard Baker MP | 2965 |
+| Glenrothes and Mid Fife | Richard Baker MP | 2966 |
 | Gordon and Buchan | Harriet Cross MP | 4387 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3134 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2745 |
