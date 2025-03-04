@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990274                                |
-| Last Updated      | 2025-03-04 05:16:59 UTC                                    |
+| Total Signatures   | 2990279                                |
+| Last Updated      | 2025-03-04 06:25:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -192,7 +192,7 @@
 | Gateshead Central and Whickham | Mark Ferguson MP | 4519 |
 | Gedling | Michael Payne MP | 5053 |
 | Gillingham and Rainham | Naushabah Khan MP | 5049 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5587 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5588 |
 | Gloucester | Alex McIntyre MP | 4532 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5236 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6955 |
@@ -297,7 +297,7 @@
 | Maidstone and Malling | Helen Grant MP | 5841 |
 | Makerfield | Josh Simons MP | 5871 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8110 |
-| Manchester Central | Rt Hon Lucy Powell MP | 3990 |
+| Manchester Central | Rt Hon Lucy Powell MP | 3991 |
 | Manchester Rusholme | Afzal Khan MP | 1216 |
 | Manchester Withington | Jeff Smith MP | 1670 |
 | Mansfield | Steve Yemm MP | 6191 |
@@ -629,7 +629,7 @@
 | Aberafan Maesteg | Stephen Kinnock MP | 3682 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5745 |
 | Bangor Aberconwy | Claire Hughes MP | 4514 |
-| Blaenau Gwent and Rhymney | Nick Smith MP | 3634 |
+| Blaenau Gwent and Rhymney | Nick Smith MP | 3635 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
 | Bridgend | Chris Elmore MP | 4230 |
 | Caerfyrddin | Ann Davies MP | 5198 |
@@ -648,11 +648,11 @@
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5479 |
 | Monmouthshire | Catherine Fookes MP | 4733 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6041 |
-| Neath and Swansea East | Carolyn Harris MP | 4434 |
+| Neath and Swansea East | Carolyn Harris MP | 4435 |
 | Newport East | Jessica Morden MP | 4003 |
 | Newport West and Islwyn | Ruth Jones MP | 4045 |
 | Pontypridd | Alex Davies-Jones MP | 3900 |
-| Rhondda and Ogmore | Chris Bryant MP | 4025 |
+| Rhondda and Ogmore | Chris Bryant MP | 4026 |
 | Swansea West | Torsten Bell MP | 3648 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4611 |
