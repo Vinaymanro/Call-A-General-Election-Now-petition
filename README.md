@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990265                                |
-| Last Updated      | 2025-03-04 01:21:29 UTC                                    |
+| Total Signatures   | 2990269                                |
+| Last Updated      | 2025-03-04 02:53:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1739 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5024 |
-| Congleton | Mrs Sarah Russell MP | 5969 |
+| Congleton | Mrs Sarah Russell MP | 5970 |
 | Corby and East Northamptonshire | Lee Barron MP | 6000 |
 | Coventry East | Mary Creagh MP | 3587 |
 | Coventry North West | Taiwo Owatemi MP | 4249 |
@@ -351,7 +351,7 @@
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
 | North West Leicestershire | Amanda Hack MP | 6694 |
 | North West Norfolk | James Wild MP | 5752 |
-| Northampton North | Lucy Rigby KC MP | 4273 |
+| Northampton North | Lucy Rigby KC MP | 4274 |
 | Northampton South | Mike Reader MP | 4962 |
 | Norwich North | Alice Macdonald MP | 4395 |
 | Norwich South | Clive Lewis MP | 3384 |
@@ -360,7 +360,7 @@
 | Nottingham South | Lilian Greenwood MP | 3051 |
 | Nuneaton | Jodie Gosling MP | 5546 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6212 |
-| Oldham East and Saddleworth | Debbie Abrahams MP | 5225 |
+| Oldham East and Saddleworth | Debbie Abrahams MP | 5226 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4079 |
 | Orpington | Gareth Bacon MP | 5307 |
 | Ossett and Denby Dale | Jade Botterill MP | 5792 |
@@ -394,7 +394,7 @@
 | Rochdale | Paul Waugh MP | 3950 |
 | Rochester and Strood | Lauren Edwards MP | 6018 |
 | Romford | Andrew Rosindell MP | 5785 |
-| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5066 |
+| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5067 |
 | Rossendale and Darwen | Andy MacNae MP | 6487 |
 | Rother Valley | Jake Richards MP | 5852 |
 | Rotherham | Sarah Champion MP | 4943 |
