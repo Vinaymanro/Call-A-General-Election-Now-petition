@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990269                                |
-| Last Updated      | 2025-03-04 02:53:49 UTC                                    |
+| Total Signatures   | 2990270                                |
+| Last Updated      | 2025-03-04 03:27:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -433,7 +433,7 @@
 | South Dorset | Lloyd Hatton MP | 5652 |
 | South East Cornwall | Anna Gelderd MP | 6234 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7130 |
-| South Leicestershire | Alberto Costa MP | 6982 |
+| South Leicestershire | Alberto Costa MP | 6983 |
 | South Norfolk | Ben Goldsborough MP | 5438 |
 | South Northamptonshire | Sarah Bool MP | 6668 |
 | South Ribble | Mr Paul Foster MP | 5894 |
