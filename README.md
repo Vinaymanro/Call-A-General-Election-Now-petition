@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990550                                |
-| Last Updated      | 2025-03-05 18:25:39 UTC                                    |
+| Total Signatures   | 2990557                                |
+| Last Updated      | 2025-03-05 19:14:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1725 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6154 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6130 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6131 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5047 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
 | Birkenhead | Alison McGovern MP | 4313 |
@@ -144,7 +144,7 @@
 | Dewsbury and Batley | Iqbal Mohamed MP | 3173 |
 | Didcot and Wantage | Olly Glover MP | 4879 |
 | Doncaster Central | Sally Jameson MP | 4933 |
-| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6073 |
+| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6074 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5558 |
 | Dorking and Horley | Chris Coghlan MP | 5554 |
 | Dover and Deal | Mike Tapp MP | 5922 |
@@ -178,7 +178,7 @@
 | Esher and Walton | Monica Harding MP | 4824 |
 | Exeter | Steve Race MP | 3172 |
 | Exmouth and Exeter East | David Reed MP | 5202 |
-| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6119 |
+| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6120 |
 | Farnham and Bordon | Gregory Stafford MP | 5187 |
 | Faversham and Mid Kent | Helen Whately MP | 6221 |
 | Feltham and Heston | Seema Malhotra MP | 2918 |
@@ -352,7 +352,7 @@
 | North West Leicestershire | Amanda Hack MP | 6694 |
 | North West Norfolk | James Wild MP | 5752 |
 | Northampton North | Lucy Rigby KC MP | 4276 |
-| Northampton South | Mike Reader MP | 4962 |
+| Northampton South | Mike Reader MP | 4963 |
 | Norwich North | Alice Macdonald MP | 4396 |
 | Norwich South | Clive Lewis MP | 3384 |
 | Nottingham East | Nadia Whittome MP | 2475 |
@@ -451,7 +451,7 @@
 | Southgate and Wood Green | Bambos Charalambous MP | 2586 |
 | Southport | Patrick Hurley MP | 5948 |
 | Spelthorne | Lincoln Jopp MP | 5458 |
-| Spen Valley | Kim Leadbeater MP | 5372 |
+| Spen Valley | Kim Leadbeater MP | 5373 |
 | St Albans | Daisy Cooper MP | 3877 |
 | St Austell and Newquay | Noah Law MP | 5604 |
 | St Helens North | David Baines MP | 4691 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5952 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5947 |
 | Tooting | Dr Rosena Allin-Khan MP | 2689 |
-| Torbay | Steve Darling MP | 5819 |
+| Torbay | Steve Darling MP | 5821 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6575 |
 | Tottenham | Rt Hon David Lammy MP | 1683 |
 | Truro and Falmouth | Jayne Kirkham MP | 4603 |
