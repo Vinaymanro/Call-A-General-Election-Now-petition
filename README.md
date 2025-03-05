@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990456                                |
-| Last Updated      | 2025-03-05 01:21:33 UTC                                    |
+| Total Signatures   | 2990458                                |
+| Last Updated      | 2025-03-05 02:53:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2633 |
 | Liverpool Walton | Dan Carden MP | 3352 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
-| Liverpool West Derby | Ian Byrne MP | 3048 |
+| Liverpool West Derby | Ian Byrne MP | 3049 |
 | Loughborough | Dr Jeevun Sandher MP | 4476 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7795 |
 | Lowestoft | Jess Asato MP | 5329 |
@@ -547,7 +547,7 @@
 | Worthing West | Dr Beccy Cooper MP | 5246 |
 | Wycombe | Emma Reynolds MP | 3609 |
 | Wyre Forest | Mark Garnier MP | 6480 |
-| Wythenshawe and Sale East | Mike Kane MP | 4597 |
+| Wythenshawe and Sale East | Mike Kane MP | 4598 |
 | Yeovil | Adam Dance MP | 5599 |
 | York Central | Rachael Maskell MP | 3276 |
 | York Outer | Mr Luke Charters MP | 4345 |
