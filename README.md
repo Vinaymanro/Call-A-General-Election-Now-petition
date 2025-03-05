@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990469                                |
-| Last Updated      | 2025-03-05 07:16:58 UTC                                    |
+| Total Signatures   | 2990474                                |
+| Last Updated      | 2025-03-05 08:23:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1739 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5026 |
-| Congleton | Mrs Sarah Russell MP | 5970 |
+| Congleton | Mrs Sarah Russell MP | 5971 |
 | Corby and East Northamptonshire | Lee Barron MP | 6000 |
 | Coventry East | Mary Creagh MP | 3587 |
 | Coventry North West | Taiwo Owatemi MP | 4250 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3808 |
 | Putney | Fleur Anderson MP | 3516 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2150 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5111 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5112 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3026 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4446 |
@@ -473,7 +473,7 @@
 | Stratford and Bow | Uma Kumaran MP | 1765 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6710 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
-| Stretford and Urmston | Andrew Western MP | 3819 |
+| Stretford and Urmston | Andrew Western MP | 3820 |
 | Stroud | Dr Simon Opher MP | 4531 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5396 |
 | Sunderland Central | Lewis Atkinson MP | 5231 |
@@ -481,7 +481,7 @@
 | Sussex Weald | Ms Nusrat Ghani MP | 6104 |
 | Sutton and Cheam | Luke Taylor MP | 4388 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5670 |
-| Swindon North | Will Stone MP | 4893 |
+| Swindon North | Will Stone MP | 4894 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4204 |
 | Tamworth | Sarah Edwards MP | 6938 |
 | Tatton | Rt Hon Esther McVey MP | 6498 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5455 |
 | West Ham and Beckton | James Asser MP | 2151 |
-| West Lancashire | Ashley Dalton MP | 5051 |
+| West Lancashire | Ashley Dalton MP | 5052 |
 | West Suffolk | Nick Timothy MP | 6034 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6258 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
