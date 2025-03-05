@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990512                                |
-| Last Updated      | 2025-03-05 12:35:26 UTC                                    |
+| Total Signatures   | 2990518                                |
+| Last Updated      | 2025-03-05 13:25:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -199,7 +199,7 @@
 | Gorton and Denton | Andrew Gwynne MP | 3273 |
 | Gosport | Dame Caroline Dinenage MP | 5470 |
 | Grantham and Bourne | Gareth Davies MP | 6323 |
-| Gravesham | Dr Lauren Sullivan MP | 5142 |
+| Gravesham | Dr Lauren Sullivan MP | 5143 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5793 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2622 |
@@ -314,7 +314,7 @@
 | Mid Sussex | Alison Bennett MP | 4697 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4226 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5703 |
-| Milton Keynes Central | Emily Darlington MP | 4939 |
+| Milton Keynes Central | Emily Darlington MP | 4940 |
 | Milton Keynes North | Chris Curtis MP | 4566 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5762 |
@@ -351,7 +351,7 @@
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
 | North West Leicestershire | Amanda Hack MP | 6694 |
 | North West Norfolk | James Wild MP | 5752 |
-| Northampton North | Lucy Rigby KC MP | 4275 |
+| Northampton North | Lucy Rigby KC MP | 4276 |
 | Northampton South | Mike Reader MP | 4962 |
 | Norwich North | Alice Macdonald MP | 4396 |
 | Norwich South | Clive Lewis MP | 3384 |
@@ -430,7 +430,7 @@
 | South Cotswolds | Dr Roz Savage MP | 5715 |
 | South Derbyshire | Samantha Niblett MP | 6165 |
 | South Devon | Caroline Voaden MP | 5320 |
-| South Dorset | Lloyd Hatton MP | 5652 |
+| South Dorset | Lloyd Hatton MP | 5653 |
 | South East Cornwall | Anna Gelderd MP | 6236 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7130 |
 | South Leicestershire | Alberto Costa MP | 6984 |
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4401 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4309 |
 | Wolverhampton West | Warinder Juss | 3819 |
-| Worcester | Tom Collins MP | 4321 |
+| Worcester | Tom Collins MP | 4322 |
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5246 |
 | Wycombe | Emma Reynolds MP | 3609 |
@@ -634,7 +634,7 @@
 | Bridgend | Chris Elmore MP | 4233 |
 | Caerfyrddin | Ann Davies MP | 5199 |
 | Caerphilly | Chris Evans MP | 3980 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2891 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2892 |
 | Cardiff North | Anna McMorrin MP | 3291 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2797 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3140 |
