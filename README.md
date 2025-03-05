@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990566                                |
-| Last Updated      | 2025-03-05 20:19:29 UTC                                    |
+| Total Signatures   | 2990572                                |
+| Last Updated      | 2025-03-05 21:16:39 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -58,7 +58,7 @@
 | Bolton North East | Kirith Entwistle MP | 5595 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4407 |
 | Bolton West | Phil Brickell MP | 5576 |
-| Bootle | Peter Dowd MP | 3146 |
+| Bootle | Peter Dowd MP | 3147 |
 | Boston and Skegness | Richard Tice MP | 7079 |
 | Bournemouth East | Tom Hayes MP | 4659 |
 | Bournemouth West | Jessica Toale MP | 4909 |
@@ -265,7 +265,7 @@
 | Knowsley | Anneliese Midgley MP | 3274 |
 | Lancaster and Wyre | Cat Smith MP | 5075 |
 | Leeds Central and Headingley | Alex Sobel MP | 1928 |
-| Leeds East | Richard Burgon MP | 4304 |
+| Leeds East | Richard Burgon MP | 4305 |
 | Leeds North East | Fabian Hamilton MP | 2631 |
 | Leeds North West | Katie White MP | 4386 |
 | Leeds South | Rt Hon Hilary Benn MP | 3871 |
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3026 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4446 |
-| Redcar | Anna Turley MP | 5450 |
+| Redcar | Anna Turley MP | 5451 |
 | Redditch | Chris Bloore MP | 6071 |
 | Reigate | Rebecca Paul MP | 5549 |
 | Ribble Valley | Maya Ellis MP | 6707 |
@@ -481,7 +481,7 @@
 | Sussex Weald | Ms Nusrat Ghani MP | 6104 |
 | Sutton and Cheam | Luke Taylor MP | 4388 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5670 |
-| Swindon North | Will Stone MP | 4894 |
+| Swindon North | Will Stone MP | 4895 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4204 |
 | Tamworth | Sarah Edwards MP | 6940 |
 | Tatton | Rt Hon Esther McVey MP | 6498 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5952 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5947 |
 | Tooting | Dr Rosena Allin-Khan MP | 2689 |
-| Torbay | Steve Darling MP | 5821 |
+| Torbay | Steve Darling MP | 5822 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6575 |
 | Tottenham | Rt Hon David Lammy MP | 1683 |
 | Truro and Falmouth | Jayne Kirkham MP | 4603 |
@@ -581,7 +581,7 @@
 | Alloa and Grangemouth | Brian Leishman MP | 3014 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4045 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3469 |
-| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3404 |
+| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3405 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3014 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4071 |
 | Coatbridge and Bellshill | Frank McNally MP | 2582 |
