@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990557                                |
-| Last Updated      | 2025-03-05 19:14:14 UTC                                    |
+| Total Signatures   | 2990566                                |
+| Last Updated      | 2025-03-05 20:19:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -82,7 +82,7 @@
 | Bristol North West | Rt Hon Darren Jones MP | 3205 |
 | Bristol South | Karin Smyth MP | 3960 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5827 |
-| Bromley and Biggin Hill | Peter Fortune MP | 5237 |
+| Bromley and Biggin Hill | Peter Fortune MP | 5238 |
 | Bromsgrove | Bradley Thomas MP | 6473 |
 | Broxbourne | Lewis Cocking MP | 6073 |
 | Broxtowe | Juliet Campbell MP | 4708 |
@@ -164,7 +164,7 @@
 | East Thanet | Ms Polly Billington MP | 5475 |
 | East Wiltshire | Danny Kruger MP | 6062 |
 | East Worthing and Shoreham | Tom Rutland MP | 4605 |
-| Eastbourne | Josh Babarinde MP | 5037 |
+| Eastbourne | Josh Babarinde MP | 5038 |
 | Eastleigh | Liz Jarvis MP | 4326 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2222 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4437 |
@@ -267,7 +267,7 @@
 | Leeds Central and Headingley | Alex Sobel MP | 1928 |
 | Leeds East | Richard Burgon MP | 4304 |
 | Leeds North East | Fabian Hamilton MP | 2631 |
-| Leeds North West | Katie White MP | 4384 |
+| Leeds North West | Katie White MP | 4386 |
 | Leeds South | Rt Hon Hilary Benn MP | 3871 |
 | Leeds South West and Morley | Mark Sewards MP | 5490 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3783 |
@@ -333,10 +333,10 @@
 | North Cornwall | Ben Maguire MP | 6398 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6044 |
 | North Devon | Ian Roome MP | 5856 |
-| North Dorset | Simon Hoare MP | 6311 |
+| North Dorset | Simon Hoare MP | 6312 |
 | North Durham | Luke Akehurst MP | 5381 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6066 |
-| North East Derbyshire | Louise Jones MP | 5793 |
+| North East Derbyshire | Louise Jones MP | 5794 |
 | North East Hampshire | Alex Brewer MP | 5954 |
 | North East Hertfordshire | Chris Hinchliff MP | 5844 |
 | North East Somerset and Hanham | Dan Norris MP | 5042 |
@@ -505,7 +505,7 @@
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4486 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4477 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1675 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4913 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4914 |
 | Wallasey | Dame Angela Eagle MP | 4064 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4002 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
@@ -597,7 +597,7 @@
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
 | Edinburgh South West | Dr Scott Arthur MP | 2258 |
 | Edinburgh West | Christine Jardine MP | 2712 |
-| Falkirk | Euan Stainbank MP | 3430 |
+| Falkirk | Euan Stainbank MP | 3431 |
 | Glasgow East | John Grady MP | 2312 |
 | Glasgow North | Martin Rhodes MP | 2036 |
 | Glasgow North East | Maureen Burke MP | 2472 |
@@ -613,7 +613,7 @@
 | Lothian East | Rt Hon Douglas Alexander MP | 2856 |
 | Mid Dunbartonshire | Susan Murray MP | 2523 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3934 |
-| Motherwell, Wishaw and Carluke | Pamela Nash MP | 2728 |
+| Motherwell, Wishaw and Carluke | Pamela Nash MP | 2729 |
 | North East Fife | Wendy Chamberlain MP | 2902 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2856 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2643 |
