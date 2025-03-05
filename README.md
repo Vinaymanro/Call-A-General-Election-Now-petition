@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990527                                |
-| Last Updated      | 2025-03-05 15:19:29 UTC                                    |
+| Total Signatures   | 2990532                                |
+| Last Updated      | 2025-03-05 16:28:22 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5459 |
 | Dartford | Jim Dickson MP | 5730 |
 | Daventry | Rt Hon Stuart Andrew MP | 7277 |
-| Derby North | Catherine Atkinson MP | 4319 |
+| Derby North | Catherine Atkinson MP | 4320 |
 | Derby South | Baggy Shanker MP | 3604 |
 | Derbyshire Dales | John Whitby MP | 6776 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3173 |
@@ -172,7 +172,7 @@
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5170 |
 | Enfield North | Feryal Clark MP | 2885 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
-| Epsom and Ewell | Helen Maguire MP | 4922 |
+| Epsom and Ewell | Helen Maguire MP | 4923 |
 | Erewash | Adam Thompson MP | 5821 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4824 |
@@ -291,7 +291,7 @@
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7795 |
 | Lowestoft | Jess Asato MP | 5330 |
 | Luton North | Sarah Owen MP | 2471 |
-| Luton South and South Bedfordshire | Rachel Hopkins MP | 2943 |
+| Luton South and South Bedfordshire | Rachel Hopkins MP | 2944 |
 | Macclesfield | Tim Roca MP | 5400 |
 | Maidenhead | Mr Joshua Reynolds MP | 5282 |
 | Maidstone and Malling | Helen Grant MP | 5841 |
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6284 |
 | Mid Sussex | Alison Bennett MP | 4697 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4226 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5703 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5704 |
 | Milton Keynes Central | Emily Darlington MP | 4940 |
 | Milton Keynes North | Chris Curtis MP | 4566 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2070 |
 | North Antrim | Jim Allister KC MP | 3089 |
 | North Down | Alex Easton MP | 3352 |
-| South Antrim | Robin Swann MP | 3086 |
+| South Antrim | Robin Swann MP | 3087 |
 | South Down | Chris Hazzard MP | 1840 |
 | Strangford | Jim Shannon MP | 3453 |
 | Upper Bann | Carla Lockhart MP | 3062 |
