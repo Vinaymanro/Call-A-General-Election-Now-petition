@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990459                                |
-| Last Updated      | 2025-03-05 05:17:27 UTC                                    |
+| Total Signatures   | 2990462                                |
+| Last Updated      | 2025-03-05 06:25:45 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -351,7 +351,7 @@
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
 | North West Leicestershire | Amanda Hack MP | 6694 |
 | North West Norfolk | James Wild MP | 5752 |
-| Northampton North | Lucy Rigby KC MP | 4274 |
+| Northampton North | Lucy Rigby KC MP | 4275 |
 | Northampton South | Mike Reader MP | 4962 |
 | Norwich North | Alice Macdonald MP | 4396 |
 | Norwich South | Clive Lewis MP | 3384 |
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3026 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4446 |
-| Redcar | Anna Turley MP | 5449 |
+| Redcar | Anna Turley MP | 5450 |
 | Redditch | Chris Bloore MP | 6071 |
 | Reigate | Rebecca Paul MP | 5549 |
 | Ribble Valley | Maya Ellis MP | 6707 |
@@ -470,7 +470,7 @@
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5725 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6531 |
 | Stourbridge | Cat Eccles MP | 5154 |
-| Stratford and Bow | Uma Kumaran MP | 1764 |
+| Stratford and Bow | Uma Kumaran MP | 1765 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6710 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
 | Stretford and Urmston | Andrew Western MP | 3819 |
