@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990462                                |
-| Last Updated      | 2025-03-05 06:25:45 UTC                                    |
+| Total Signatures   | 2990469                                |
+| Last Updated      | 2025-03-05 07:16:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1725 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6154 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6128 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6129 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5047 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
 | Birkenhead | Alison McGovern MP | 4312 |
@@ -97,7 +97,7 @@
 | Cambridge | Daniel Zeichner MP | 2211 |
 | Cannock Chase | Josh Newbury MP | 6876 |
 | Canterbury | Rosie Duffield MP | 4470 |
-| Carlisle | Ms Julie Minns MP | 6524 |
+| Carlisle | Ms Julie Minns MP | 6525 |
 | Carshalton and Wallington | Bobby Dean MP | 4266 |
 | Castle Point | Rebecca Harris MP | 7523 |
 | Central Devon | Rt Hon Mel Stride MP | 5799 |
@@ -146,7 +146,7 @@
 | Doncaster Central | Sally Jameson MP | 4933 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6073 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5558 |
-| Dorking and Horley | Chris Coghlan MP | 5553 |
+| Dorking and Horley | Chris Coghlan MP | 5554 |
 | Dover and Deal | Mike Tapp MP | 5922 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6557 |
 | Dudley | Sonia Kumar MP | 5384 |
@@ -275,7 +275,7 @@
 | Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3459 |
 | Leigh and Atherton | Jo Platt MP | 6068 |
-| Lewes | James MacCleary MP | 4897 |
+| Lewes | James MacCleary MP | 4898 |
 | Lewisham East | Janet Daby MP | 2145 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1586 |
@@ -509,7 +509,7 @@
 | Wallasey | Dame Angela Eagle MP | 4064 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4002 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
-| Warrington North | Charlotte Nichols MP | 5146 |
+| Warrington North | Charlotte Nichols MP | 5147 |
 | Warrington South | Sarah Hall MP | 5561 |
 | Warwick and Leamington | Matt Western MP | 4471 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5309 |
@@ -576,7 +576,7 @@
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1440 |
 | Aberdeen North | Kirsty Blackman MP | 3548 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3839 |
-| Aberdeenshire North and Moray East | Seamus Logan MP | 4668 |
+| Aberdeenshire North and Moray East | Seamus Logan MP | 4669 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2811 |
 | Alloa and Grangemouth | Brian Leishman MP | 3014 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4045 |
@@ -631,7 +631,7 @@
 | Bangor Aberconwy | Claire Hughes MP | 4514 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3637 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
-| Bridgend | Chris Elmore MP | 4232 |
+| Bridgend | Chris Elmore MP | 4233 |
 | Caerfyrddin | Ann Davies MP | 5199 |
 | Caerphilly | Chris Evans MP | 3980 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2891 |
