@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990474                                |
-| Last Updated      | 2025-03-05 08:23:20 UTC                                    |
+| Total Signatures   | 2990478                                |
+| Last Updated      | 2025-03-05 09:19:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -55,7 +55,7 @@
 | Blyth and Ashington | Ian Lavery MP | 5849 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
-| Bolton North East | Kirith Entwistle MP | 5594 |
+| Bolton North East | Kirith Entwistle MP | 5595 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4407 |
 | Bolton West | Phil Brickell MP | 5576 |
 | Bootle | Peter Dowd MP | 3146 |
@@ -240,7 +240,7 @@
 | Hornchurch and Upminster | Julia Lopez MP | 6606 |
 | Hornsey and Friern Barnet | Catherine West MP | 1937 |
 | Horsham | John Milne MP | 5829 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6295 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6296 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3328 |
 | Huddersfield | Harpreet Uppal MP | 3678 |
 | Huntingdon | Ben Obese-Jecty MP | 5552 |
@@ -490,7 +490,7 @@
 | Tewkesbury | Cameron Thomas MP | 5010 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7429 |
-| Thornbury and Yate | Claire Young MP | 5691 |
+| Thornbury and Yate | Claire Young MP | 5692 |
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5952 |
@@ -509,7 +509,7 @@
 | Wallasey | Dame Angela Eagle MP | 4064 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4002 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
-| Warrington North | Charlotte Nichols MP | 5147 |
+| Warrington North | Charlotte Nichols MP | 5148 |
 | Warrington South | Sarah Hall MP | 5561 |
 | Warwick and Leamington | Matt Western MP | 4471 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5309 |
