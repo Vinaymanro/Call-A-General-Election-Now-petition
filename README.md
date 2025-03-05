@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990518                                |
-| Last Updated      | 2025-03-05 13:25:07 UTC                                    |
+| Total Signatures   | 2990522                                |
+| Last Updated      | 2025-03-05 14:16:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -198,7 +198,7 @@
 | Goole and Pocklington | Rt Hon David Davis MP | 6955 |
 | Gorton and Denton | Andrew Gwynne MP | 3273 |
 | Gosport | Dame Caroline Dinenage MP | 5470 |
-| Grantham and Bourne | Gareth Davies MP | 6323 |
+| Grantham and Bourne | Gareth Davies MP | 6324 |
 | Gravesham | Dr Lauren Sullivan MP | 5143 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5793 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
@@ -274,7 +274,7 @@
 | Leicester East | Shivani Raja MP | 1881 |
 | Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3459 |
-| Leigh and Atherton | Jo Platt MP | 6068 |
+| Leigh and Atherton | Jo Platt MP | 6069 |
 | Lewes | James MacCleary MP | 4898 |
 | Lewisham East | Janet Daby MP | 2145 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
@@ -320,7 +320,7 @@
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5762 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5416 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5247 |
-| Newark | Rt Hon Robert Jenrick MP | 7156 |
+| Newark | Rt Hon Robert Jenrick MP | 7158 |
 | Newbury | Mr Lee Dillon MP | 4886 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4496 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4749 |
