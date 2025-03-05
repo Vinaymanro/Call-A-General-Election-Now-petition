@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990522                                |
-| Last Updated      | 2025-03-05 14:16:46 UTC                                    |
+| Total Signatures   | 2990527                                |
+| Last Updated      | 2025-03-05 15:19:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -100,7 +100,7 @@
 | Carlisle | Ms Julie Minns MP | 6525 |
 | Carshalton and Wallington | Bobby Dean MP | 4266 |
 | Castle Point | Rebecca Harris MP | 7523 |
-| Central Devon | Rt Hon Mel Stride MP | 5799 |
+| Central Devon | Rt Hon Mel Stride MP | 5800 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5301 |
 | Chatham and Aylesford | Tristan Osborne MP | 5625 |
 | Cheadle | Tom Morrison MP | 4662 |
@@ -173,7 +173,7 @@
 | Enfield North | Feryal Clark MP | 2885 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
 | Epsom and Ewell | Helen Maguire MP | 4922 |
-| Erewash | Adam Thompson MP | 5820 |
+| Erewash | Adam Thompson MP | 5821 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4824 |
 | Exeter | Steve Race MP | 3172 |
@@ -380,7 +380,7 @@
 | Portsmouth South | Stephen Morgan MP | 3871 |
 | Preston | Sir Mark Hendrick MP | 3808 |
 | Putney | Fleur Anderson MP | 3516 |
-| Queen's Park and Maida Vale | Georgia Gould MP | 2150 |
+| Queen's Park and Maida Vale | Georgia Gould MP | 2151 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5112 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
 | Reading Central | Matt Rodda MP | 3026 |
@@ -471,7 +471,7 @@
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6531 |
 | Stourbridge | Cat Eccles MP | 5154 |
 | Stratford and Bow | Uma Kumaran MP | 1765 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6710 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6711 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
 | Stretford and Urmston | Andrew Western MP | 3820 |
 | Stroud | Dr Simon Opher MP | 4531 |
@@ -551,7 +551,7 @@
 | Yeovil | Adam Dance MP | 5599 |
 | York Central | Rachael Maskell MP | 3276 |
 | York Outer | Mr Luke Charters MP | 4345 |
-| Belfast East | Rt Hon Gavin Robinson MP | 2956 |
+| Belfast East | Rt Hon Gavin Robinson MP | 2957 |
 | Belfast North | John Finucane MP | 2486 |
 | Belfast South and Mid Down | Claire Hanna MP | 1939 |
 | Belfast West | Paul Maskey MP | 1409 |
