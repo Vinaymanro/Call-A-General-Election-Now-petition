@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990450                                |
-| Last Updated      | 2025-03-04 23:16:32 UTC                                    |
+| Total Signatures   | 2990456                                |
+| Last Updated      | 2025-03-05 01:21:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -71,7 +71,7 @@
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2990 |
 | Brentwood and Ongar | Alex Burghart MP | 8137 |
-| Bridgwater | Sir Ashley Fox MP | 5748 |
+| Bridgwater | Sir Ashley Fox MP | 5749 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6619 |
 | Brigg and Immingham | Martin Vickers MP | 6461 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3931 |
@@ -265,12 +265,12 @@
 | Knowsley | Anneliese Midgley MP | 3274 |
 | Lancaster and Wyre | Cat Smith MP | 5075 |
 | Leeds Central and Headingley | Alex Sobel MP | 1928 |
-| Leeds East | Richard Burgon MP | 4303 |
+| Leeds East | Richard Burgon MP | 4304 |
 | Leeds North East | Fabian Hamilton MP | 2631 |
 | Leeds North West | Katie White MP | 4384 |
 | Leeds South | Rt Hon Hilary Benn MP | 3871 |
 | Leeds South West and Morley | Mark Sewards MP | 5490 |
-| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3782 |
+| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3783 |
 | Leicester East | Shivani Raja MP | 1881 |
 | Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3459 |
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6364 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6663 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3418 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3419 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3532 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3911 |
 | Stockton North | Chris McDonald MP | 4836 |
 | Stockton West | Matt Vickers MP | 5987 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4726 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4727 |
 | Stoke-on-Trent North | David Williams MP | 5450 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5725 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6531 |
@@ -530,7 +530,7 @@
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6573 |
 | Whitehaven and Workington | Josh MacAlister MP | 5842 |
 | Widnes and Halewood | Derek Twigg MP | 4230 |
-| Wigan | Rt Hon Lisa Nandy MP | 5943 |
+| Wigan | Rt Hon Lisa Nandy MP | 5944 |
 | Wimbledon | Mr Paul Kohler MP | 3408 |
 | Winchester | Dr Danny Chambers MP | 4917 |
 | Windsor | Jack Rankin MP | 5111 |
