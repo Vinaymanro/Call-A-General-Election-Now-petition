@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990755                                |
-| Last Updated      | 2025-03-06 20:19:08 UTC                                    |
+| Total Signatures   | 2990764                                |
+| Last Updated      | 2025-03-06 21:16:34 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -12,7 +12,7 @@
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5799 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5499 |
 | Amber Valley | Linsey Farnsworth MP | 6081 |
-| Arundel and South Downs | Andrew Griffith MP | 6955 |
+| Arundel and South Downs | Andrew Griffith MP | 6956 |
 | Ashfield | Lee Anderson MP | 6158 |
 | Ashford | Sojan Joseph MP | 5888 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4585 |
@@ -85,11 +85,11 @@
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
 | Bromsgrove | Bradley Thomas MP | 6473 |
 | Broxbourne | Lewis Cocking MP | 6074 |
-| Broxtowe | Juliet Campbell MP | 4708 |
+| Broxtowe | Juliet Campbell MP | 4709 |
 | Buckingham and Bletchley | Callum Anderson MP | 5254 |
 | Burnley | Oliver Ryan MP | 5723 |
 | Burton and Uttoxeter | Jacob Collier MP | 5795 |
-| Bury North | Mr James Frith MP | 4973 |
+| Bury North | Mr James Frith MP | 4974 |
 | Bury South | Christian Wakeford MP | 5415 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5446 |
 | Calder Valley | Josh Fenton-Glynn MP | 5652 |
@@ -120,7 +120,7 @@
 | Cities of London and Westminster | Rachel Blake MP | 5172 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
 | Clacton | Nigel Farage MP | 8075 |
-| Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1739 |
+| Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5028 |
 | Congleton | Mrs Sarah Russell MP | 5972 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3950 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5066 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5527 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5528 |
 | Normanton and Hemsworth | Jon Trickett MP | 5487 |
 | North Bedfordshire | Richard Fuller MP | 6101 |
 | North Cornwall | Ben Maguire MP | 6398 |
@@ -339,9 +339,9 @@
 | North East Derbyshire | Louise Jones MP | 5794 |
 | North East Hampshire | Alex Brewer MP | 5954 |
 | North East Hertfordshire | Chris Hinchliff MP | 5844 |
-| North East Somerset and Hanham | Dan Norris MP | 5043 |
+| North East Somerset and Hanham | Dan Norris MP | 5044 |
 | North Herefordshire | Ellie Chowns MP | 6467 |
-| North Norfolk | Steff Aquarone MP | 5434 |
+| North Norfolk | Steff Aquarone MP | 5435 |
 | North Northumberland | David Smith MP | 6427 |
 | North Shropshire | Helen Morgan MP | 6877 |
 | North Somerset | Sadik Al-Hassan MP | 4581 |
@@ -520,7 +520,7 @@
 | Wells and Mendip Hills | Tessa Munt MP | 5252 |
 | Welwyn Hatfield | Andrew Lewin MP | 5057 |
 | West Bromwich | Sarah Coombes MP | 3782 |
-| West Dorset | Edward Morello MP | 5455 |
+| West Dorset | Edward Morello MP | 5456 |
 | West Ham and Beckton | James Asser MP | 2151 |
 | West Lancashire | Ashley Dalton MP | 5052 |
 | West Suffolk | Nick Timothy MP | 6034 |
@@ -537,7 +537,7 @@
 | Wirral West | Matthew Patrick MP | 4204 |
 | Witham | Rt Hon Priti Patel MP | 7007 |
 | Witney | Charlie Maynard MP | 5162 |
-| Woking | Mr Will Forster MP | 4392 |
+| Woking | Mr Will Forster MP | 4393 |
 | Wokingham | Clive Jones MP | 4865 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4401 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4309 |
