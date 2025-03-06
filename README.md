@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990778                                |
-| Last Updated      | 2025-03-06 22:16:25 UTC                                    |
+| Total Signatures   | 2990786                                |
+| Last Updated      | 2025-03-06 23:16:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -98,7 +98,7 @@
 | Cannock Chase | Josh Newbury MP | 6876 |
 | Canterbury | Rosie Duffield MP | 4470 |
 | Carlisle | Ms Julie Minns MP | 6525 |
-| Carshalton and Wallington | Bobby Dean MP | 4266 |
+| Carshalton and Wallington | Bobby Dean MP | 4267 |
 | Castle Point | Rebecca Harris MP | 7523 |
 | Central Devon | Rt Hon Mel Stride MP | 5801 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5301 |
@@ -141,7 +141,7 @@
 | Derby North | Catherine Atkinson MP | 4320 |
 | Derby South | Baggy Shanker MP | 3604 |
 | Derbyshire Dales | John Whitby MP | 6776 |
-| Dewsbury and Batley | Iqbal Mohamed MP | 3174 |
+| Dewsbury and Batley | Iqbal Mohamed MP | 3175 |
 | Didcot and Wantage | Olly Glover MP | 4879 |
 | Doncaster Central | Sally Jameson MP | 4934 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6074 |
@@ -196,7 +196,7 @@
 | Gloucester | Alex McIntyre MP | 4532 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6956 |
-| Gorton and Denton | Andrew Gwynne MP | 3273 |
+| Gorton and Denton | Andrew Gwynne MP | 3274 |
 | Gosport | Dame Caroline Dinenage MP | 5470 |
 | Grantham and Bourne | Gareth Davies MP | 6325 |
 | Gravesham | Dr Lauren Sullivan MP | 5143 |
@@ -261,8 +261,8 @@
 | Kingston upon Hull East | Karl Turner MP | 4991 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4636 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5489 |
-| Kingswinford and South Staffordshire | Mike Wood MP | 6388 |
-| Knowsley | Anneliese Midgley MP | 3274 |
+| Kingswinford and South Staffordshire | Mike Wood MP | 6389 |
+| Knowsley | Anneliese Midgley MP | 3275 |
 | Lancaster and Wyre | Cat Smith MP | 5075 |
 | Leeds Central and Headingley | Alex Sobel MP | 1928 |
 | Leeds East | Richard Burgon MP | 4305 |
@@ -332,7 +332,7 @@
 | North Bedfordshire | Richard Fuller MP | 6101 |
 | North Cornwall | Ben Maguire MP | 6398 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6045 |
-| North Devon | Ian Roome MP | 5856 |
+| North Devon | Ian Roome MP | 5857 |
 | North Dorset | Simon Hoare MP | 6312 |
 | North Durham | Luke Akehurst MP | 5381 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6066 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5441 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6185 |
 | Peterborough | Andrew Pakes MP | 4154 |
-| Plymouth Moor View | Fred Thomas MP | 5674 |
+| Plymouth Moor View | Fred Thomas MP | 5675 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4743 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5442 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
@@ -631,7 +631,7 @@
 | Bangor Aberconwy | Claire Hughes MP | 4514 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3637 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
-| Bridgend | Chris Elmore MP | 4233 |
+| Bridgend | Chris Elmore MP | 4234 |
 | Caerfyrddin | Ann Davies MP | 5199 |
 | Caerphilly | Chris Evans MP | 3981 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2893 |
