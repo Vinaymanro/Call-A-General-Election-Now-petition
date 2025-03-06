@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990594                                |
-| Last Updated      | 2025-03-05 23:17:02 UTC                                    |
+| Total Signatures   | 2990603                                |
+| Last Updated      | 2025-03-06 01:22:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3764 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6149 |
-| Blackpool South | Chris Webb MP | 5804 |
+| Blackpool South | Chris Webb MP | 5805 |
 | Blaydon and Consett | Liz Twist MP | 5244 |
 | Blyth and Ashington | Ian Lavery MP | 5849 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
@@ -300,7 +300,7 @@
 | Manchester Central | Rt Hon Lucy Powell MP | 3992 |
 | Manchester Rusholme | Afzal Khan MP | 1216 |
 | Manchester Withington | Jeff Smith MP | 1670 |
-| Mansfield | Steve Yemm MP | 6192 |
+| Mansfield | Steve Yemm MP | 6193 |
 | Melksham and Devizes | Brian Mathew MP | 5010 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6108 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6075 |
@@ -320,7 +320,7 @@
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5762 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5416 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5247 |
-| Newark | Rt Hon Robert Jenrick MP | 7158 |
+| Newark | Rt Hon Robert Jenrick MP | 7159 |
 | Newbury | Mr Lee Dillon MP | 4886 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4496 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4749 |
@@ -360,7 +360,7 @@
 | Nottingham South | Lilian Greenwood MP | 3051 |
 | Nuneaton | Jodie Gosling MP | 5547 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
-| Oldham East and Saddleworth | Debbie Abrahams MP | 5226 |
+| Oldham East and Saddleworth | Debbie Abrahams MP | 5227 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4079 |
 | Orpington | Gareth Bacon MP | 5307 |
 | Ossett and Denby Dale | Jade Botterill MP | 5793 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5149 |
 | Warrington South | Sarah Hall MP | 5561 |
 | Warwick and Leamington | Matt Western MP | 4471 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5309 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5310 |
 | Watford | Matt Turmaine MP | 3740 |
 | Waveney Valley | Adrian Ramsay MP | 5850 |
 | Weald of Kent | Katie Lam MP | 7224 |
@@ -590,7 +590,7 @@
 | Dumfries and Galloway | John Cooper MP | 4040 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3856 |
 | Dundee Central | Chris Law MP | 2542 |
-| Dunfermline and Dollar | Graeme Downie MP | 2928 |
+| Dunfermline and Dollar | Graeme Downie MP | 2929 |
 | East Kilbride and Strathaven | Joani Reid MP | 3151 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2082 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2406 |
@@ -621,7 +621,7 @@
 | Rutherglen | Michael Shanks MP | 2570 |
 | Stirling and Strathallan | Chris Kane MP | 3217 |
 | West Dunbartonshire | Douglas McAllister MP | 2723 |
-| Ayr, Carrick and Cumnock | Elaine Stewart MP | 3549 |
+| Ayr, Carrick and Cumnock | Elaine Stewart MP | 3550 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4022 |
 | Central Ayrshire | Alan Gemmell MP | 3131 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3249 |
@@ -636,7 +636,7 @@
 | Caerphilly | Chris Evans MP | 3981 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2892 |
 | Cardiff North | Anna McMorrin MP | 3291 |
-| Cardiff South and Penarth | Stephen Doughty MP | 2798 |
+| Cardiff South and Penarth | Stephen Doughty MP | 2799 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3140 |
 | Ceredigion Preseli | Ben Lake MP | 4735 |
 | Clwyd East | Becky Gittins MP | 6034 |
@@ -653,7 +653,7 @@
 | Newport West and Islwyn | Ruth Jones MP | 4045 |
 | Pontypridd | Alex Davies-Jones MP | 3901 |
 | Rhondda and Ogmore | Chris Bryant MP | 4027 |
-| Swansea West | Torsten Bell MP | 3649 |
+| Swansea West | Torsten Bell MP | 3650 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4611 |
 | Wrexham | Andrew Ranger MP | 4794 |
