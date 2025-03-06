@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990676                                |
-| Last Updated      | 2025-03-06 12:35:48 UTC                                    |
+| Total Signatures   | 2990684                                |
+| Last Updated      | 2025-03-06 13:24:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -143,7 +143,7 @@
 | Derbyshire Dales | John Whitby MP | 6776 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3173 |
 | Didcot and Wantage | Olly Glover MP | 4879 |
-| Doncaster Central | Sally Jameson MP | 4933 |
+| Doncaster Central | Sally Jameson MP | 4934 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6074 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5558 |
 | Dorking and Horley | Chris Coghlan MP | 5554 |
@@ -252,7 +252,7 @@
 | Isle of Wight West | Mr Richard Quigley MP | 4069 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
-| Jarrow and Gateshead East | Kate Osborne MP | 5079 |
+| Jarrow and Gateshead East | Kate Osborne MP | 5080 |
 | Keighley and Ilkley | Robbie Moore MP | 4690 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6100 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
@@ -394,7 +394,7 @@
 | Rochdale | Paul Waugh MP | 3950 |
 | Rochester and Strood | Lauren Edwards MP | 6019 |
 | Romford | Andrew Rosindell MP | 5785 |
-| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5067 |
+| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5068 |
 | Rossendale and Darwen | Andy MacNae MP | 6487 |
 | Rother Valley | Jake Richards MP | 5852 |
 | Rotherham | Sarah Champion MP | 4945 |
@@ -441,7 +441,7 @@
 | South Shropshire | Stuart Anderson MP | 7320 |
 | South Suffolk | James Cartlidge MP | 6147 |
 | South West Devon | Rebecca Smith MP | 5971 |
-| South West Hertfordshire | Mr Gagan Mohindra MP | 5202 |
+| South West Hertfordshire | Mr Gagan Mohindra MP | 5203 |
 | South West Norfolk | Terry Jermy MP | 6522 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5200 |
 | Southampton Itchen | Darren Paffey MP | 4541 |
@@ -455,7 +455,7 @@
 | St Albans | Daisy Cooper MP | 3877 |
 | St Austell and Newquay | Noah Law MP | 5604 |
 | St Helens North | David Baines MP | 4691 |
-| St Helens South and Whiston | Ms Marie Rimmer MP | 4147 |
+| St Helens South and Whiston | Ms Marie Rimmer MP | 4148 |
 | St Ives | Andrew George MP | 5089 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4798 |
 | Stafford | Leigh Ingham MP | 5605 |
@@ -479,7 +479,7 @@
 | Sunderland Central | Lewis Atkinson MP | 5231 |
 | Surrey Heath | Dr Al Pinkerton MP | 5421 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6104 |
-| Sutton and Cheam | Luke Taylor MP | 4388 |
+| Sutton and Cheam | Luke Taylor MP | 4389 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5670 |
 | Swindon North | Will Stone MP | 4895 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4205 |
@@ -652,9 +652,9 @@
 | Newport East | Jessica Morden MP | 4004 |
 | Newport West and Islwyn | Ruth Jones MP | 4045 |
 | Pontypridd | Alex Davies-Jones MP | 3901 |
-| Rhondda and Ogmore | Chris Bryant MP | 4028 |
+| Rhondda and Ogmore | Chris Bryant MP | 4029 |
 | Swansea West | Torsten Bell MP | 3650 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4612 |
-| Wrexham | Andrew Ranger MP | 4795 |
+| Wrexham | Andrew Ranger MP | 4796 |
 | Ynys Môn | Llinos Medi MP | 3730 |
