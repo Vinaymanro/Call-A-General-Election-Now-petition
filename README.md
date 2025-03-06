@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990656                                |
-| Last Updated      | 2025-03-06 10:18:53 UTC                                    |
+| Total Signatures   | 2990662                                |
+| Last Updated      | 2025-03-06 11:14:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -77,7 +77,7 @@
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3931 |
 | Brighton Pavilion | Siân Berry MP | 2732 |
 | Bristol Central | Carla Denyer MP | 1615 |
-| Bristol East | Kerry McCarthy MP | 2976 |
+| Bristol East | Kerry McCarthy MP | 2977 |
 | Bristol North East | Damien Egan MP | 3080 |
 | Bristol North West | Rt Hon Darren Jones MP | 3205 |
 | Bristol South | Karin Smyth MP | 3960 |
@@ -172,7 +172,7 @@
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5171 |
 | Enfield North | Feryal Clark MP | 2887 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
-| Epsom and Ewell | Helen Maguire MP | 4923 |
+| Epsom and Ewell | Helen Maguire MP | 4924 |
 | Erewash | Adam Thompson MP | 5821 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4824 |
@@ -283,7 +283,7 @@
 | Lichfield | Dave Robertson MP | 6473 |
 | Lincoln | Mr Hamish Falconer MP | 4643 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3125 |
-| Liverpool Riverside | Kim Johnson MP | 2633 |
+| Liverpool Riverside | Kim Johnson MP | 2634 |
 | Liverpool Walton | Dan Carden MP | 3352 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
 | Liverpool West Derby | Ian Byrne MP | 3049 |
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5400 |
 | Maidenhead | Mr Joshua Reynolds MP | 5282 |
 | Maidstone and Malling | Helen Grant MP | 5841 |
-| Makerfield | Josh Simons MP | 5871 |
+| Makerfield | Josh Simons MP | 5872 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8110 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3992 |
 | Manchester Rusholme | Afzal Khan MP | 1216 |
@@ -324,7 +324,7 @@
 | Newbury | Mr Lee Dillon MP | 4887 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4496 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4749 |
-| Newcastle upon Tyne North | Catherine McKinnell MP | 3949 |
+| Newcastle upon Tyne North | Catherine McKinnell MP | 3950 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5066 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5527 |
@@ -341,7 +341,7 @@
 | North East Hertfordshire | Chris Hinchliff MP | 5844 |
 | North East Somerset and Hanham | Dan Norris MP | 5042 |
 | North Herefordshire | Ellie Chowns MP | 6467 |
-| North Norfolk | Steff Aquarone MP | 5432 |
+| North Norfolk | Steff Aquarone MP | 5433 |
 | North Northumberland | David Smith MP | 6427 |
 | North Shropshire | Helen Morgan MP | 6877 |
 | North Somerset | Sadik Al-Hassan MP | 4581 |
