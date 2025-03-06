@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990608                                |
-| Last Updated      | 2025-03-06 03:26:36 UTC                                    |
+| Total Signatures   | 2990609                                |
+| Last Updated      | 2025-03-06 04:20:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5202 |
 | South West Norfolk | Terry Jermy MP | 6521 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5200 |
-| Southampton Itchen | Darren Paffey MP | 4540 |
+| Southampton Itchen | Darren Paffey MP | 4541 |
 | Southampton Test | Satvir Kaur MP | 3401 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5574 |
 | Southend West and Leigh | David Burton-Sampson MP | 5872 |
