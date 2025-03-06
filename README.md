@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990612                                |
-| Last Updated      | 2025-03-06 05:17:23 UTC                                    |
+| Total Signatures   | 2990614                                |
+| Last Updated      | 2025-03-06 06:25:27 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -497,7 +497,7 @@
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5947 |
 | Tooting | Dr Rosena Allin-Khan MP | 2690 |
 | Torbay | Steve Darling MP | 5822 |
-| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6575 |
+| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6576 |
 | Tottenham | Rt Hon David Lammy MP | 1683 |
 | Truro and Falmouth | Jayne Kirkham MP | 4603 |
 | Tunbridge Wells | Mike Martin MP | 5456 |
@@ -563,7 +563,7 @@
 | Mid Ulster | Mr Cathal Mallaghan MP | 1891 |
 | Newry and Armagh | Dáire Hughes MP | 2070 |
 | North Antrim | Jim Allister KC MP | 3089 |
-| North Down | Alex Easton MP | 3352 |
+| North Down | Alex Easton MP | 3353 |
 | South Antrim | Robin Swann MP | 3087 |
 | South Down | Chris Hazzard MP | 1840 |
 | Strangford | Jim Shannon MP | 3453 |
