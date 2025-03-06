@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990614                                |
-| Last Updated      | 2025-03-06 06:25:27 UTC                                    |
+| Total Signatures   | 2990622                                |
+| Last Updated      | 2025-03-06 07:18:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -131,13 +131,13 @@
 | Cramlington and Killingworth | Emma Foody MP | 5797 |
 | Crawley | Peter Lamb MP | 4712 |
 | Crewe and Nantwich | Connor Naismith MP | 5688 |
-| Croydon East | Natasha Irons MP | 3333 |
+| Croydon East | Natasha Irons MP | 3334 |
 | Croydon South | Rt Hon Chris Philp MP | 3955 |
 | Croydon West | Sarah Jones MP | 1743 |
 | Dagenham and Rainham | Margaret Mullane MP | 4232 |
 | Darlington | Lola McEvoy MP | 5459 |
 | Dartford | Jim Dickson MP | 5730 |
-| Daventry | Rt Hon Stuart Andrew MP | 7277 |
+| Daventry | Rt Hon Stuart Andrew MP | 7278 |
 | Derby North | Catherine Atkinson MP | 4320 |
 | Derby South | Baggy Shanker MP | 3604 |
 | Derbyshire Dales | John Whitby MP | 6776 |
@@ -202,7 +202,7 @@
 | Gravesham | Dr Lauren Sullivan MP | 5143 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5795 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
-| Greenwich and Woolwich | Matthew Pennycook MP | 2622 |
+| Greenwich and Woolwich | Matthew Pennycook MP | 2623 |
 | Guildford | Zöe Franklin MP | 3997 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1519 |
@@ -275,7 +275,7 @@
 | Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3459 |
 | Leigh and Atherton | Jo Platt MP | 6069 |
-| Lewes | James MacCleary MP | 4898 |
+| Lewes | James MacCleary MP | 4899 |
 | Lewisham East | Janet Daby MP | 2145 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1586 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5441 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6185 |
 | Peterborough | Andrew Pakes MP | 4154 |
-| Plymouth Moor View | Fred Thomas MP | 5673 |
+| Plymouth Moor View | Fred Thomas MP | 5674 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4743 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5442 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5066 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6573 |
-| Whitehaven and Workington | Josh MacAlister MP | 5842 |
+| Whitehaven and Workington | Josh MacAlister MP | 5843 |
 | Widnes and Halewood | Derek Twigg MP | 4230 |
 | Wigan | Rt Hon Lisa Nandy MP | 5944 |
 | Wimbledon | Mr Paul Kohler MP | 3408 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4598 |
 | Yeovil | Adam Dance MP | 5599 |
 | York Central | Rachael Maskell MP | 3276 |
-| York Outer | Mr Luke Charters MP | 4345 |
+| York Outer | Mr Luke Charters MP | 4346 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2957 |
 | Belfast North | John Finucane MP | 2486 |
 | Belfast South and Mid Down | Claire Hanna MP | 1939 |
@@ -574,7 +574,7 @@
 | Midlothian | Kirsty McNeill MP | 2793 |
 | North Ayrshire and Arran | Irene Campbell MP | 3290 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1440 |
-| Aberdeen North | Kirsty Blackman MP | 3548 |
+| Aberdeen North | Kirsty Blackman MP | 3549 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3840 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4669 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2811 |
