@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990637                                |
-| Last Updated      | 2025-03-06 08:22:42 UTC                                    |
+| Total Signatures   | 2990644                                |
+| Last Updated      | 2025-03-06 09:19:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -71,7 +71,7 @@
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2990 |
 | Brentwood and Ongar | Alex Burghart MP | 8137 |
-| Bridgwater | Sir Ashley Fox MP | 5750 |
+| Bridgwater | Sir Ashley Fox MP | 5751 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6620 |
 | Brigg and Immingham | Martin Vickers MP | 6461 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3931 |
@@ -167,9 +167,9 @@
 | Eastbourne | Josh Babarinde MP | 5038 |
 | Eastleigh | Liz Jarvis MP | 4326 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2222 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4437 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4438 |
 | Eltham and Chislehurst | Clive Efford MP | 4700 |
-| Ely and East Cambridgeshire | Charlotte Cane MP | 5170 |
+| Ely and East Cambridgeshire | Charlotte Cane MP | 5171 |
 | Enfield North | Feryal Clark MP | 2887 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
 | Epsom and Ewell | Helen Maguire MP | 4923 |
@@ -218,7 +218,7 @@
 | Harrow East | Bob Blackman MP | 3130 |
 | Harrow West | Gareth Thomas MP | 2402 |
 | Hartlepool | Mr Jonathan Brash MP | 5643 |
-| Harwich and North Essex | Sir Bernard Jenkin MP | 6271 |
+| Harwich and North Essex | Sir Bernard Jenkin MP | 6272 |
 | Hastings and Rye | Helena Dollimore MP | 5065 |
 | Havant | Alan Mak MP | 5651 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2592 |
@@ -430,7 +430,7 @@
 | South Cotswolds | Dr Roz Savage MP | 5715 |
 | South Derbyshire | Samantha Niblett MP | 6166 |
 | South Devon | Caroline Voaden MP | 5320 |
-| South Dorset | Lloyd Hatton MP | 5653 |
+| South Dorset | Lloyd Hatton MP | 5654 |
 | South East Cornwall | Anna Gelderd MP | 6236 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7130 |
 | South Leicestershire | Alberto Costa MP | 6984 |
@@ -463,7 +463,7 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5341 |
 | Stevenage | Kevin Bonavia MP | 4737 |
 | Stockport | Navendu Mishra MP | 3911 |
-| Stockton North | Chris McDonald MP | 4836 |
+| Stockton North | Chris McDonald MP | 4837 |
 | Stockton West | Matt Vickers MP | 5987 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4727 |
 | Stoke-on-Trent North | David Williams MP | 5450 |
@@ -640,7 +640,7 @@
 | Cardiff West | Mr Alex Barros-Curtis MP | 3140 |
 | Ceredigion Preseli | Ben Lake MP | 4735 |
 | Clwyd East | Becky Gittins MP | 6034 |
-| Clwyd North | Gill German MP | 5444 |
+| Clwyd North | Gill German MP | 5445 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4228 |
 | Gower | Tonia Antoniazzi MP | 4755 |
 | Llanelli | Dame Nia Griffith MP | 5245 |
