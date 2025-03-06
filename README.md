@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990609                                |
-| Last Updated      | 2025-03-06 04:20:59 UTC                                    |
+| Total Signatures   | 2990612                                |
+| Last Updated      | 2025-03-06 05:17:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -30,7 +30,7 @@
 | Beaconsfield | Joy Morrissey MP | 5211 |
 | Beckenham and Penge | Liam Conlon MP | 3839 |
 | Bedford | Mohammad Yasin MP | 3225 |
-| Bermondsey and Old Southwark | Neil Coyle MP | 2701 |
+| Bermondsey and Old Southwark | Neil Coyle MP | 2702 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1725 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6154 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6131 |
@@ -591,7 +591,7 @@
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3856 |
 | Dundee Central | Chris Law MP | 2542 |
 | Dunfermline and Dollar | Graeme Downie MP | 2929 |
-| East Kilbride and Strathaven | Joani Reid MP | 3151 |
+| East Kilbride and Strathaven | Joani Reid MP | 3152 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2082 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2406 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
@@ -634,7 +634,7 @@
 | Bridgend | Chris Elmore MP | 4233 |
 | Caerfyrddin | Ann Davies MP | 5199 |
 | Caerphilly | Chris Evans MP | 3981 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2892 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2893 |
 | Cardiff North | Anna McMorrin MP | 3291 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2799 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3140 |
