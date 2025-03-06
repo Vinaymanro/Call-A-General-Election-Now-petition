@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990731                                |
-| Last Updated      | 2025-03-06 18:24:27 UTC                                    |
+| Total Signatures   | 2990738                                |
+| Last Updated      | 2025-03-06 19:13:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -17,7 +17,7 @@
 | Ashford | Sojan Joseph MP | 5888 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4585 |
 | Aylesbury | Laura Kyrke-Smith MP | 4863 |
-| Banbury | Sean Woodcock MP | 5450 |
+| Banbury | Sean Woodcock MP | 5451 |
 | Barking | Nesil Caliskan MP | 2632 |
 | Barnsley North | Dan Jarvis MP | 5675 |
 | Barnsley South | Stephanie Peacock MP | 5766 |
@@ -56,7 +56,7 @@
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
 | Bolsover | Natalie Fleet MP | 6528 |
 | Bolton North East | Kirith Entwistle MP | 5595 |
-| Bolton South and Walkden | Yasmin Qureshi MP | 4407 |
+| Bolton South and Walkden | Yasmin Qureshi MP | 4408 |
 | Bolton West | Phil Brickell MP | 5577 |
 | Bootle | Peter Dowd MP | 3148 |
 | Boston and Skegness | Richard Tice MP | 7079 |
@@ -84,7 +84,7 @@
 | Broadland and Fakenham | Jerome Mayhew MP | 5829 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
 | Bromsgrove | Bradley Thomas MP | 6473 |
-| Broxbourne | Lewis Cocking MP | 6073 |
+| Broxbourne | Lewis Cocking MP | 6074 |
 | Broxtowe | Juliet Campbell MP | 4708 |
 | Buckingham and Bletchley | Callum Anderson MP | 5254 |
 | Burnley | Oliver Ryan MP | 5723 |
@@ -309,7 +309,7 @@
 | Mid Cheshire | Andrew Cooper MP | 5165 |
 | Mid Derbyshire | Jonathan Davies MP | 5228 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5878 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5590 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5591 |
 | Mid Norfolk | George Freeman MP | 6284 |
 | Mid Sussex | Alison Bennett MP | 4697 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4226 |
@@ -360,7 +360,7 @@
 | Nottingham South | Lilian Greenwood MP | 3051 |
 | Nuneaton | Jodie Gosling MP | 5547 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
-| Oldham East and Saddleworth | Debbie Abrahams MP | 5228 |
+| Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4080 |
 | Orpington | Gareth Bacon MP | 5307 |
 | Ossett and Denby Dale | Jade Botterill MP | 5793 |
@@ -424,7 +424,7 @@
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6288 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2582 |
 | Smethwick | Gurinder Singh Josan MP | 3056 |
-| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5440 |
+| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5441 |
 | South Basildon and East Thurrock | James McMurdock MP | 6603 |
 | South Cambridgeshire | Pippa Heylings MP | 4451 |
 | South Cotswolds | Dr Roz Savage MP | 5715 |
@@ -517,7 +517,7 @@
 | Waveney Valley | Adrian Ramsay MP | 5851 |
 | Weald of Kent | Katie Lam MP | 7224 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5082 |
-| Wells and Mendip Hills | Tessa Munt MP | 5251 |
+| Wells and Mendip Hills | Tessa Munt MP | 5252 |
 | Welwyn Hatfield | Andrew Lewin MP | 5057 |
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5455 |
