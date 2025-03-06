@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990603                                |
-| Last Updated      | 2025-03-06 01:22:01 UTC                                    |
+| Total Signatures   | 2990607                                |
+| Last Updated      | 2025-03-06 02:53:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -189,7 +189,7 @@
 | Frome and East Somerset | Anna Sabine MP | 4328 |
 | Fylde | Mr Andrew Snowden MP | 6770 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6649 |
-| Gateshead Central and Whickham | Mark Ferguson MP | 4519 |
+| Gateshead Central and Whickham | Mark Ferguson MP | 4520 |
 | Gedling | Michael Payne MP | 5053 |
 | Gillingham and Rainham | Naushabah Khan MP | 5049 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5588 |
@@ -253,7 +253,7 @@
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5079 |
-| Keighley and Ilkley | Robbie Moore MP | 4688 |
+| Keighley and Ilkley | Robbie Moore MP | 4689 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6100 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
 | Kettering | Rosie Wrighting MP | 5903 |
@@ -578,7 +578,7 @@
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3840 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4669 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2811 |
-| Alloa and Grangemouth | Brian Leishman MP | 3014 |
+| Alloa and Grangemouth | Brian Leishman MP | 3015 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4045 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3469 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3405 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4733 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6041 |
 | Neath and Swansea East | Carolyn Harris MP | 4435 |
-| Newport East | Jessica Morden MP | 4003 |
+| Newport East | Jessica Morden MP | 4004 |
 | Newport West and Islwyn | Ruth Jones MP | 4045 |
 | Pontypridd | Alex Davies-Jones MP | 3901 |
 | Rhondda and Ogmore | Chris Bryant MP | 4027 |
