@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990714                                |
-| Last Updated      | 2025-03-06 16:22:20 UTC                                    |
+| Total Signatures   | 2990718                                |
+| Last Updated      | 2025-03-06 17:15:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -132,7 +132,7 @@
 | Crawley | Peter Lamb MP | 4712 |
 | Crewe and Nantwich | Connor Naismith MP | 5688 |
 | Croydon East | Natasha Irons MP | 3334 |
-| Croydon South | Rt Hon Chris Philp MP | 3955 |
+| Croydon South | Rt Hon Chris Philp MP | 3956 |
 | Croydon West | Sarah Jones MP | 1743 |
 | Dagenham and Rainham | Margaret Mullane MP | 4232 |
 | Darlington | Lola McEvoy MP | 5460 |
@@ -309,7 +309,7 @@
 | Mid Cheshire | Andrew Cooper MP | 5165 |
 | Mid Derbyshire | Jonathan Davies MP | 5228 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5878 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5588 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5589 |
 | Mid Norfolk | George Freeman MP | 6284 |
 | Mid Sussex | Alison Bennett MP | 4697 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4226 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3911 |
 | Stockton North | Chris McDonald MP | 4837 |
 | Stockton West | Matt Vickers MP | 5987 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4727 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4728 |
 | Stoke-on-Trent North | David Williams MP | 5450 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5725 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6531 |
@@ -645,7 +645,7 @@
 | Gower | Tonia Antoniazzi MP | 4755 |
 | Llanelli | Dame Nia Griffith MP | 5245 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3706 |
-| Mid and South Pembrokeshire | Henry Tufnell MP | 5480 |
+| Mid and South Pembrokeshire | Henry Tufnell MP | 5481 |
 | Monmouthshire | Catherine Fookes MP | 4733 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6041 |
 | Neath and Swansea East | Carolyn Harris MP | 4436 |
