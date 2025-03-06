@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990704                                |
-| Last Updated      | 2025-03-06 15:19:06 UTC                                    |
+| Total Signatures   | 2990714                                |
+| Last Updated      | 2025-03-06 16:22:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -18,7 +18,7 @@
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4584 |
 | Aylesbury | Laura Kyrke-Smith MP | 4863 |
 | Banbury | Sean Woodcock MP | 5450 |
-| Barking | Nesil Caliskan MP | 2631 |
+| Barking | Nesil Caliskan MP | 2632 |
 | Barnsley North | Dan Jarvis MP | 5675 |
 | Barnsley South | Stephanie Peacock MP | 5766 |
 | Barrow and Furness | Michelle Scrogham MP | 5310 |
@@ -81,8 +81,8 @@
 | Bristol North East | Damien Egan MP | 3080 |
 | Bristol North West | Rt Hon Darren Jones MP | 3205 |
 | Bristol South | Karin Smyth MP | 3960 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5828 |
-| Bromley and Biggin Hill | Peter Fortune MP | 5238 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5829 |
+| Bromley and Biggin Hill | Peter Fortune MP | 5239 |
 | Bromsgrove | Bradley Thomas MP | 6473 |
 | Broxbourne | Lewis Cocking MP | 6073 |
 | Broxtowe | Juliet Campbell MP | 4708 |
@@ -339,7 +339,7 @@
 | North East Derbyshire | Louise Jones MP | 5794 |
 | North East Hampshire | Alex Brewer MP | 5954 |
 | North East Hertfordshire | Chris Hinchliff MP | 5844 |
-| North East Somerset and Hanham | Dan Norris MP | 5042 |
+| North East Somerset and Hanham | Dan Norris MP | 5043 |
 | North Herefordshire | Ellie Chowns MP | 6467 |
 | North Norfolk | Steff Aquarone MP | 5433 |
 | North Northumberland | David Smith MP | 6427 |
@@ -360,7 +360,7 @@
 | Nottingham South | Lilian Greenwood MP | 3051 |
 | Nuneaton | Jodie Gosling MP | 5547 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
-| Oldham East and Saddleworth | Debbie Abrahams MP | 5227 |
+| Oldham East and Saddleworth | Debbie Abrahams MP | 5228 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4080 |
 | Orpington | Gareth Bacon MP | 5307 |
 | Ossett and Denby Dale | Jade Botterill MP | 5793 |
@@ -447,10 +447,10 @@
 | Southampton Itchen | Darren Paffey MP | 4541 |
 | Southampton Test | Satvir Kaur MP | 3401 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5574 |
-| Southend West and Leigh | David Burton-Sampson MP | 5872 |
+| Southend West and Leigh | David Burton-Sampson MP | 5873 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2586 |
 | Southport | Patrick Hurley MP | 5948 |
-| Spelthorne | Lincoln Jopp MP | 5458 |
+| Spelthorne | Lincoln Jopp MP | 5459 |
 | Spen Valley | Kim Leadbeater MP | 5373 |
 | St Albans | Daisy Cooper MP | 3877 |
 | St Austell and Newquay | Noah Law MP | 5604 |
@@ -478,12 +478,12 @@
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5396 |
 | Sunderland Central | Lewis Atkinson MP | 5231 |
 | Surrey Heath | Dr Al Pinkerton MP | 5421 |
-| Sussex Weald | Ms Nusrat Ghani MP | 6104 |
+| Sussex Weald | Ms Nusrat Ghani MP | 6105 |
 | Sutton and Cheam | Luke Taylor MP | 4389 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5670 |
 | Swindon North | Will Stone MP | 4895 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4205 |
-| Tamworth | Sarah Edwards MP | 6941 |
+| Tamworth | Sarah Edwards MP | 6942 |
 | Tatton | Rt Hon Esther McVey MP | 6498 |
 | Taunton and Wellington | Gideon Amos MP | 5170 |
 | Telford | Shaun Davies MP | 5580 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5066 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6573 |
-| Whitehaven and Workington | Josh MacAlister MP | 5843 |
+| Whitehaven and Workington | Josh MacAlister MP | 5844 |
 | Widnes and Halewood | Derek Twigg MP | 4231 |
 | Wigan | Rt Hon Lisa Nandy MP | 5944 |
 | Wimbledon | Mr Paul Kohler MP | 3408 |
