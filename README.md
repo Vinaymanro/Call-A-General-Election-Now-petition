@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990684                                |
-| Last Updated      | 2025-03-06 13:24:55 UTC                                    |
+| Total Signatures   | 2990692                                |
+| Last Updated      | 2025-03-06 14:17:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -77,7 +77,7 @@
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3931 |
 | Brighton Pavilion | Siân Berry MP | 2732 |
 | Bristol Central | Carla Denyer MP | 1615 |
-| Bristol East | Kerry McCarthy MP | 2977 |
+| Bristol East | Kerry McCarthy MP | 2978 |
 | Bristol North East | Damien Egan MP | 3080 |
 | Bristol North West | Rt Hon Darren Jones MP | 3205 |
 | Bristol South | Karin Smyth MP | 3960 |
@@ -106,7 +106,7 @@
 | Cheadle | Tom Morrison MP | 4662 |
 | Chelmsford | Marie Goldman MP | 5265 |
 | Chelsea and Fulham | Ben Coleman MP | 5486 |
-| Cheltenham | Max Wilkinson MP | 4026 |
+| Cheltenham | Max Wilkinson MP | 4027 |
 | Chesham and Amersham | Sarah Green MP | 4939 |
 | Chester North and Neston | Samantha Dixon MP | 4051 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6386 |
@@ -172,7 +172,7 @@
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5171 |
 | Enfield North | Feryal Clark MP | 2887 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
-| Epsom and Ewell | Helen Maguire MP | 4924 |
+| Epsom and Ewell | Helen Maguire MP | 4925 |
 | Erewash | Adam Thompson MP | 5821 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4824 |
@@ -194,7 +194,7 @@
 | Gillingham and Rainham | Naushabah Khan MP | 5049 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5588 |
 | Gloucester | Alex McIntyre MP | 4532 |
-| Godalming and Ash | Rt Hon Jeremy Hunt MP | 5236 |
+| Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6956 |
 | Gorton and Denton | Andrew Gwynne MP | 3273 |
 | Gosport | Dame Caroline Dinenage MP | 5470 |
@@ -331,7 +331,7 @@
 | Normanton and Hemsworth | Jon Trickett MP | 5487 |
 | North Bedfordshire | Richard Fuller MP | 6101 |
 | North Cornwall | Ben Maguire MP | 6398 |
-| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6044 |
+| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6045 |
 | North Devon | Ian Roome MP | 5856 |
 | North Dorset | Simon Hoare MP | 6312 |
 | North Durham | Luke Akehurst MP | 5381 |
@@ -406,7 +406,7 @@
 | Rutland and Stamford | Alicia Kearns MP | 6258 |
 | Salford | Rebecca Long Bailey MP | 4660 |
 | Salisbury | Rt Hon John Glen MP | 4747 |
-| Scarborough and Whitby | Alison Hume MP | 5995 |
+| Scarborough and Whitby | Alison Hume MP | 5996 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5077 |
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6366 |
@@ -483,7 +483,7 @@
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5670 |
 | Swindon North | Will Stone MP | 4895 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4205 |
-| Tamworth | Sarah Edwards MP | 6940 |
+| Tamworth | Sarah Edwards MP | 6941 |
 | Tatton | Rt Hon Esther McVey MP | 6498 |
 | Taunton and Wellington | Gideon Amos MP | 5170 |
 | Telford | Shaun Davies MP | 5580 |
@@ -498,7 +498,7 @@
 | Tooting | Dr Rosena Allin-Khan MP | 2690 |
 | Torbay | Steve Darling MP | 5822 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6576 |
-| Tottenham | Rt Hon David Lammy MP | 1683 |
+| Tottenham | Rt Hon David Lammy MP | 1684 |
 | Truro and Falmouth | Jayne Kirkham MP | 4603 |
 | Tunbridge Wells | Mike Martin MP | 5456 |
 | Twickenham | Munira Wilson MP | 3651 |
