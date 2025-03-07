@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990806                                |
-| Last Updated      | 2025-03-07 04:21:12 UTC                                    |
+| Total Signatures   | 2990807                                |
+| Last Updated      | 2025-03-07 05:17:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -325,7 +325,7 @@
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4499 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4749 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3950 |
-| Newcastle-under-Lyme | Adam Jogee MP | 5066 |
+| Newcastle-under-Lyme | Adam Jogee MP | 5067 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5528 |
 | Normanton and Hemsworth | Jon Trickett MP | 5487 |
