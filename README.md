@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990807                                |
-| Last Updated      | 2025-03-07 05:17:28 UTC                                    |
+| Total Signatures   | 2990809                                |
+| Last Updated      | 2025-03-07 06:25:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6366 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6664 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3420 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3421 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3532 |
@@ -574,7 +574,7 @@
 | Midlothian | Kirsty McNeill MP | 2793 |
 | North Ayrshire and Arran | Irene Campbell MP | 3290 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1440 |
-| Aberdeen North | Kirsty Blackman MP | 3549 |
+| Aberdeen North | Kirsty Blackman MP | 3550 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3841 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4669 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2811 |
