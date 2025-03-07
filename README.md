@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990829                                |
-| Last Updated      | 2025-03-07 09:18:31 UTC                                    |
+| Total Signatures   | 2990839                                |
+| Last Updated      | 2025-03-07 10:18:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5449 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5799 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5800 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5499 |
 | Amber Valley | Linsey Farnsworth MP | 6081 |
 | Arundel and South Downs | Andrew Griffith MP | 6956 |
@@ -73,7 +73,7 @@
 | Brentwood and Ongar | Alex Burghart MP | 8137 |
 | Bridgwater | Sir Ashley Fox MP | 5751 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6621 |
-| Brigg and Immingham | Martin Vickers MP | 6461 |
+| Brigg and Immingham | Martin Vickers MP | 6462 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3931 |
 | Brighton Pavilion | Siân Berry MP | 2732 |
 | Bristol Central | Carla Denyer MP | 1615 |
@@ -111,7 +111,7 @@
 | Chester North and Neston | Samantha Dixon MP | 4051 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6386 |
 | Chesterfield | Mr Toby Perkins MP | 4874 |
-| Chichester | Jess Brown-Fuller MP | 5921 |
+| Chichester | Jess Brown-Fuller MP | 5922 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4163 |
 | Chippenham | Sarah Gibson MP | 4735 |
 | Chipping Barnet | Dan Tomlinson MP | 4334 |
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 6032 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5331 |
-| East Surrey | Rt Hon Claire Coutinho MP | 6023 |
+| East Surrey | Rt Hon Claire Coutinho MP | 6024 |
 | East Thanet | Ms Polly Billington MP | 5475 |
 | East Wiltshire | Danny Kruger MP | 6062 |
 | East Worthing and Shoreham | Tom Rutland MP | 4605 |
@@ -265,7 +265,7 @@
 | Knowsley | Anneliese Midgley MP | 3276 |
 | Lancaster and Wyre | Cat Smith MP | 5075 |
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
-| Leeds East | Richard Burgon MP | 4305 |
+| Leeds East | Richard Burgon MP | 4306 |
 | Leeds North East | Fabian Hamilton MP | 2631 |
 | Leeds North West | Katie White MP | 4386 |
 | Leeds South | Rt Hon Hilary Benn MP | 3871 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6877 |
 | North Somerset | Sadik Al-Hassan MP | 4582 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6265 |
-| North West Cambridgeshire | Sam Carling MP | 6013 |
+| North West Cambridgeshire | Sam Carling MP | 6014 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
 | North West Leicestershire | Amanda Hack MP | 6694 |
@@ -432,7 +432,7 @@
 | South Devon | Caroline Voaden MP | 5320 |
 | South Dorset | Lloyd Hatton MP | 5654 |
 | South East Cornwall | Anna Gelderd MP | 6236 |
-| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7131 |
+| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7132 |
 | South Leicestershire | Alberto Costa MP | 6984 |
 | South Norfolk | Ben Goldsborough MP | 5440 |
 | South Northamptonshire | Sarah Bool MP | 6669 |
@@ -494,7 +494,7 @@
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5952 |
-| Tonbridge | Rt Hon Tom Tugendhat MP | 5947 |
+| Tonbridge | Rt Hon Tom Tugendhat MP | 5948 |
 | Tooting | Dr Rosena Allin-Khan MP | 2690 |
 | Torbay | Steve Darling MP | 5822 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6576 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5456 |
 | West Ham and Beckton | James Asser MP | 2151 |
-| West Lancashire | Ashley Dalton MP | 5053 |
+| West Lancashire | Ashley Dalton MP | 5054 |
 | West Suffolk | Nick Timothy MP | 6034 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6258 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
@@ -642,7 +642,7 @@
 | Clwyd East | Becky Gittins MP | 6034 |
 | Clwyd North | Gill German MP | 5445 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4228 |
-| Gower | Tonia Antoniazzi MP | 4756 |
+| Gower | Tonia Antoniazzi MP | 4757 |
 | Llanelli | Dame Nia Griffith MP | 5245 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3706 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5481 |
