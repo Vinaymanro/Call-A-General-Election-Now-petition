@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990798                                |
-| Last Updated      | 2025-03-07 01:22:15 UTC                                    |
+| Total Signatures   | 2990804                                |
+| Last Updated      | 2025-03-07 02:54:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -97,7 +97,7 @@
 | Cambridge | Daniel Zeichner MP | 2211 |
 | Cannock Chase | Josh Newbury MP | 6876 |
 | Canterbury | Rosie Duffield MP | 4470 |
-| Carlisle | Ms Julie Minns MP | 6525 |
+| Carlisle | Ms Julie Minns MP | 6526 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
 | Castle Point | Rebecca Harris MP | 7523 |
 | Central Devon | Rt Hon Mel Stride MP | 5801 |
@@ -221,7 +221,7 @@
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6272 |
 | Hastings and Rye | Helena Dollimore MP | 5065 |
 | Havant | Alan Mak MP | 5651 |
-| Hayes and Harlington | Rt Hon John McDonnell MP | 2592 |
+| Hayes and Harlington | Rt Hon John McDonnell MP | 2593 |
 | Hazel Grove | Lisa Smart MP | 5099 |
 | Hemel Hempstead | David Taylor MP | 5072 |
 | Hendon | David Pinto-Duschinsky MP | 3797 |
@@ -240,7 +240,7 @@
 | Hornchurch and Upminster | Julia Lopez MP | 6606 |
 | Hornsey and Friern Barnet | Catherine West MP | 1938 |
 | Horsham | John Milne MP | 5829 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6297 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6298 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3328 |
 | Huddersfield | Harpreet Uppal MP | 3678 |
 | Huntingdon | Ben Obese-Jecty MP | 5553 |
@@ -260,7 +260,7 @@
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3745 |
 | Kingston upon Hull East | Karl Turner MP | 4991 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4636 |
-| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5489 |
+| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5490 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6389 |
 | Knowsley | Anneliese Midgley MP | 3275 |
 | Lancaster and Wyre | Cat Smith MP | 5075 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5077 |
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6366 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6663 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6664 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3419 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
@@ -545,7 +545,7 @@
 | Worcester | Tom Collins MP | 4322 |
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5246 |
-| Wycombe | Emma Reynolds MP | 3610 |
+| Wycombe | Emma Reynolds MP | 3611 |
 | Wyre Forest | Mark Garnier MP | 6480 |
 | Wythenshawe and Sale East | Mike Kane MP | 4598 |
 | Yeovil | Adam Dance MP | 5599 |
