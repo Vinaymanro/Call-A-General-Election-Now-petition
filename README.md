@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990816                                |
-| Last Updated      | 2025-03-07 07:16:36 UTC                                    |
+| Total Signatures   | 2990823                                |
+| Last Updated      | 2025-03-07 08:22:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -89,7 +89,7 @@
 | Buckingham and Bletchley | Callum Anderson MP | 5254 |
 | Burnley | Oliver Ryan MP | 5723 |
 | Burton and Uttoxeter | Jacob Collier MP | 5797 |
-| Bury North | Mr James Frith MP | 4974 |
+| Bury North | Mr James Frith MP | 4975 |
 | Bury South | Christian Wakeford MP | 5415 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5446 |
 | Calder Valley | Josh Fenton-Glynn MP | 5652 |
@@ -203,12 +203,12 @@
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5795 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2623 |
-| Guildford | Zöe Franklin MP | 3998 |
+| Guildford | Zöe Franklin MP | 3999 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1519 |
 | Halesowen | Alex Ballinger MP | 4990 |
 | Halifax | Kate Dearden MP | 4746 |
-| Hamble Valley | Paul Holmes MP | 6137 |
+| Hamble Valley | Paul Holmes MP | 6138 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3196 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4713 |
@@ -262,7 +262,7 @@
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4636 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5490 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6389 |
-| Knowsley | Anneliese Midgley MP | 3275 |
+| Knowsley | Anneliese Midgley MP | 3276 |
 | Lancaster and Wyre | Cat Smith MP | 5075 |
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
 | Leeds East | Richard Burgon MP | 4305 |
@@ -302,7 +302,7 @@
 | Manchester Withington | Jeff Smith MP | 1670 |
 | Mansfield | Steve Yemm MP | 6194 |
 | Melksham and Devizes | Brian Mathew MP | 5010 |
-| Melton and Syston | Rt Hon Edward Argar MP | 6110 |
+| Melton and Syston | Rt Hon Edward Argar MP | 6111 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6077 |
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
@@ -500,7 +500,7 @@
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6576 |
 | Tottenham | Rt Hon David Lammy MP | 1684 |
 | Truro and Falmouth | Jayne Kirkham MP | 4603 |
-| Tunbridge Wells | Mike Martin MP | 5456 |
+| Tunbridge Wells | Mike Martin MP | 5457 |
 | Twickenham | Munira Wilson MP | 3651 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4486 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4477 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3432 |
 | Glasgow East | John Grady MP | 2313 |
 | Glasgow North | Martin Rhodes MP | 2036 |
-| Glasgow North East | Maureen Burke MP | 2473 |
+| Glasgow North East | Maureen Burke MP | 2474 |
 | Glasgow South | Gordon McKee MP | 1845 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2257 |
 | Glasgow West | Patricia Ferguson MP | 2212 |
