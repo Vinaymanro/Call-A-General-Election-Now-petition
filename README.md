@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990865                                |
-| Last Updated      | 2025-03-07 12:34:24 UTC                                    |
+| Total Signatures   | 2990869                                |
+| Last Updated      | 2025-03-07 13:23:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -135,7 +135,7 @@
 | Croydon South | Rt Hon Chris Philp MP | 3956 |
 | Croydon West | Sarah Jones MP | 1743 |
 | Dagenham and Rainham | Margaret Mullane MP | 4232 |
-| Darlington | Lola McEvoy MP | 5460 |
+| Darlington | Lola McEvoy MP | 5461 |
 | Dartford | Jim Dickson MP | 5730 |
 | Daventry | Rt Hon Stuart Andrew MP | 7279 |
 | Derby North | Catherine Atkinson MP | 4320 |
@@ -213,7 +213,7 @@
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4713 |
 | Harlow | Chris Vince MP | 6065 |
-| Harpenden and Berkhamsted | Victoria Collins MP | 4536 |
+| Harpenden and Berkhamsted | Victoria Collins MP | 4537 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5113 |
 | Harrow East | Bob Blackman MP | 3130 |
 | Harrow West | Gareth Thomas MP | 2402 |
@@ -334,7 +334,7 @@
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6046 |
 | North Devon | Ian Roome MP | 5857 |
 | North Dorset | Simon Hoare MP | 6312 |
-| North Durham | Luke Akehurst MP | 5381 |
+| North Durham | Luke Akehurst MP | 5382 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6069 |
 | North East Derbyshire | Louise Jones MP | 5794 |
 | North East Hampshire | Alex Brewer MP | 5954 |
@@ -358,7 +358,7 @@
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
 | Nottingham South | Lilian Greenwood MP | 3051 |
-| Nuneaton | Jodie Gosling MP | 5547 |
+| Nuneaton | Jodie Gosling MP | 5548 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4080 |
