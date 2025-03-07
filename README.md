@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990944                                |
-| Last Updated      | 2025-03-07 20:18:54 UTC                                    |
+| Total Signatures   | 2990950                                |
+| Last Updated      | 2025-03-07 21:13:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -46,7 +46,7 @@
 | Birmingham Perry Barr | Ayoub Khan MP | 1719 |
 | Birmingham Selly Oak | Al Carns MP | 3291 |
 | Birmingham Yardley | Jess Phillips MP | 3080 |
-| Bishop Auckland | Sam Rushworth MP | 6161 |
+| Bishop Auckland | Sam Rushworth MP | 6162 |
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3765 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6149 |
@@ -91,7 +91,7 @@
 | Burton and Uttoxeter | Jacob Collier MP | 5797 |
 | Bury North | Mr James Frith MP | 4975 |
 | Bury South | Christian Wakeford MP | 5416 |
-| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5447 |
+| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5448 |
 | Calder Valley | Josh Fenton-Glynn MP | 5652 |
 | Camborne and Redruth | Perran Moon MP | 4963 |
 | Cambridge | Daniel Zeichner MP | 2211 |
@@ -114,7 +114,7 @@
 | Chichester | Jess Brown-Fuller MP | 5922 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4163 |
 | Chippenham | Sarah Gibson MP | 4735 |
-| Chipping Barnet | Dan Tomlinson MP | 4334 |
+| Chipping Barnet | Dan Tomlinson MP | 4335 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5497 |
 | Christchurch | Sir Christopher Chope MP | 5849 |
 | Cities of London and Westminster | Rachel Blake MP | 5172 |
@@ -300,7 +300,7 @@
 | Manchester Central | Rt Hon Lucy Powell MP | 3992 |
 | Manchester Rusholme | Afzal Khan MP | 1216 |
 | Manchester Withington | Jeff Smith MP | 1670 |
-| Mansfield | Steve Yemm MP | 6194 |
+| Mansfield | Steve Yemm MP | 6195 |
 | Melksham and Devizes | Brian Mathew MP | 5010 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6111 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6077 |
@@ -544,7 +544,7 @@
 | Wolverhampton West | Warinder Juss | 3819 |
 | Worcester | Tom Collins MP | 4322 |
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
-| Worthing West | Dr Beccy Cooper MP | 5246 |
+| Worthing West | Dr Beccy Cooper MP | 5247 |
 | Wycombe | Emma Reynolds MP | 3612 |
 | Wyre Forest | Mark Garnier MP | 6480 |
 | Wythenshawe and Sale East | Mike Kane MP | 4598 |
@@ -648,7 +648,7 @@
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5481 |
 | Monmouthshire | Catherine Fookes MP | 4733 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6041 |
-| Neath and Swansea East | Carolyn Harris MP | 4436 |
+| Neath and Swansea East | Carolyn Harris MP | 4437 |
 | Newport East | Jessica Morden MP | 4005 |
 | Newport West and Islwyn | Ruth Jones MP | 4045 |
 | Pontypridd | Alex Davies-Jones MP | 3901 |
