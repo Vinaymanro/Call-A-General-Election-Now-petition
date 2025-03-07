@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990823                                |
-| Last Updated      | 2025-03-07 08:22:33 UTC                                    |
+| Total Signatures   | 2990829                                |
+| Last Updated      | 2025-03-07 09:18:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -72,7 +72,7 @@
 | Brentford and Isleworth | Ruth Cadbury MP | 2990 |
 | Brentwood and Ongar | Alex Burghart MP | 8137 |
 | Bridgwater | Sir Ashley Fox MP | 5751 |
-| Bridlington and The Wolds | Charlie Dewhirst MP | 6620 |
+| Bridlington and The Wolds | Charlie Dewhirst MP | 6621 |
 | Brigg and Immingham | Martin Vickers MP | 6461 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3931 |
 | Brighton Pavilion | Siân Berry MP | 2732 |
@@ -96,7 +96,7 @@
 | Camborne and Redruth | Perran Moon MP | 4963 |
 | Cambridge | Daniel Zeichner MP | 2211 |
 | Cannock Chase | Josh Newbury MP | 6876 |
-| Canterbury | Rosie Duffield MP | 4470 |
+| Canterbury | Rosie Duffield MP | 4471 |
 | Carlisle | Ms Julie Minns MP | 6526 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
 | Castle Point | Rebecca Harris MP | 7523 |
@@ -115,7 +115,7 @@
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4163 |
 | Chippenham | Sarah Gibson MP | 4735 |
 | Chipping Barnet | Dan Tomlinson MP | 4334 |
-| Chorley | Rt Hon Sir Lindsay Hoyle MP | 5496 |
+| Chorley | Rt Hon Sir Lindsay Hoyle MP | 5497 |
 | Christchurch | Sir Christopher Chope MP | 5849 |
 | Cities of London and Westminster | Rachel Blake MP | 5172 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
@@ -197,7 +197,7 @@
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6956 |
 | Gorton and Denton | Andrew Gwynne MP | 3274 |
-| Gosport | Dame Caroline Dinenage MP | 5470 |
+| Gosport | Dame Caroline Dinenage MP | 5471 |
 | Grantham and Bourne | Gareth Davies MP | 6325 |
 | Gravesham | Dr Lauren Sullivan MP | 5143 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5795 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5857 |
 | North Dorset | Simon Hoare MP | 6312 |
 | North Durham | Luke Akehurst MP | 5381 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6066 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6067 |
 | North East Derbyshire | Louise Jones MP | 5794 |
 | North East Hampshire | Alex Brewer MP | 5954 |
 | North East Hertfordshire | Chris Hinchliff MP | 5844 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6877 |
 | North Somerset | Sadik Al-Hassan MP | 4582 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6265 |
-| North West Cambridgeshire | Sam Carling MP | 6012 |
+| North West Cambridgeshire | Sam Carling MP | 6013 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
 | North West Leicestershire | Amanda Hack MP | 6694 |
