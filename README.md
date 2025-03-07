@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990839                                |
-| Last Updated      | 2025-03-07 10:18:38 UTC                                    |
+| Total Signatures   | 2990848                                |
+| Last Updated      | 2025-03-07 11:14:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -97,7 +97,7 @@
 | Cambridge | Daniel Zeichner MP | 2211 |
 | Cannock Chase | Josh Newbury MP | 6876 |
 | Canterbury | Rosie Duffield MP | 4471 |
-| Carlisle | Ms Julie Minns MP | 6526 |
+| Carlisle | Ms Julie Minns MP | 6527 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
 | Castle Point | Rebecca Harris MP | 7523 |
 | Central Devon | Rt Hon Mel Stride MP | 5801 |
@@ -258,7 +258,7 @@
 | Kensington and Bayswater | Joe Powell MP | 4401 |
 | Kettering | Rosie Wrighting MP | 5903 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3745 |
-| Kingston upon Hull East | Karl Turner MP | 4991 |
+| Kingston upon Hull East | Karl Turner MP | 4992 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4636 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5490 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6389 |
@@ -290,7 +290,7 @@
 | Loughborough | Dr Jeevun Sandher MP | 4476 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7795 |
 | Lowestoft | Jess Asato MP | 5330 |
-| Luton North | Sarah Owen MP | 2471 |
+| Luton North | Sarah Owen MP | 2472 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2944 |
 | Macclesfield | Tim Roca MP | 5400 |
 | Maidenhead | Mr Joshua Reynolds MP | 5282 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3950 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5067 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5528 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5529 |
 | Normanton and Hemsworth | Jon Trickett MP | 5488 |
 | North Bedfordshire | Richard Fuller MP | 6101 |
 | North Cornwall | Ben Maguire MP | 6398 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5077 |
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6366 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6664 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6665 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3421 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
@@ -457,7 +457,7 @@
 | St Helens North | David Baines MP | 4691 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4149 |
 | St Ives | Andrew George MP | 5089 |
-| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4798 |
+| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4799 |
 | Stafford | Leigh Ingham MP | 5605 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6417 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5342 |
@@ -468,7 +468,7 @@
 | Stoke-on-Trent Central | Gareth Snell MP | 4728 |
 | Stoke-on-Trent North | David Williams MP | 5451 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5725 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6533 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6534 |
 | Stourbridge | Cat Eccles MP | 5155 |
 | Stratford and Bow | Uma Kumaran MP | 1766 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6711 |
@@ -526,7 +526,7 @@
 | West Suffolk | Nick Timothy MP | 6034 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6258 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
-| Weston-super-Mare | Dan Aldridge MP | 5066 |
+| Weston-super-Mare | Dan Aldridge MP | 5067 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6573 |
 | Whitehaven and Workington | Josh MacAlister MP | 5844 |
 | Widnes and Halewood | Derek Twigg MP | 4231 |
@@ -591,7 +591,7 @@
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3856 |
 | Dundee Central | Chris Law MP | 2542 |
 | Dunfermline and Dollar | Graeme Downie MP | 2929 |
-| East Kilbride and Strathaven | Joani Reid MP | 3152 |
+| East Kilbride and Strathaven | Joani Reid MP | 3153 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2082 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2406 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
