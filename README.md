@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990896                                |
-| Last Updated      | 2025-03-07 16:21:47 UTC                                    |
+| Total Signatures   | 2990901                                |
+| Last Updated      | 2025-03-07 17:15:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -44,7 +44,7 @@
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1897 |
 | Birmingham Northfield | Laurence Turner MP | 4888 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1719 |
-| Birmingham Selly Oak | Al Carns MP | 3290 |
+| Birmingham Selly Oak | Al Carns MP | 3291 |
 | Birmingham Yardley | Jess Phillips MP | 3080 |
 | Bishop Auckland | Sam Rushworth MP | 6161 |
 | Blackburn | Mr Adnan Hussain MP | 3125 |
@@ -91,7 +91,7 @@
 | Burton and Uttoxeter | Jacob Collier MP | 5797 |
 | Bury North | Mr James Frith MP | 4975 |
 | Bury South | Christian Wakeford MP | 5415 |
-| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5446 |
+| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5447 |
 | Calder Valley | Josh Fenton-Glynn MP | 5652 |
 | Camborne and Redruth | Perran Moon MP | 4963 |
 | Cambridge | Daniel Zeichner MP | 2211 |
@@ -274,7 +274,7 @@
 | Leicester East | Shivani Raja MP | 1881 |
 | Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3462 |
-| Leigh and Atherton | Jo Platt MP | 6069 |
+| Leigh and Atherton | Jo Platt MP | 6070 |
 | Lewes | James MacCleary MP | 4899 |
 | Lewisham East | Janet Daby MP | 2145 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
@@ -424,7 +424,7 @@
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6288 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2582 |
 | Smethwick | Gurinder Singh Josan MP | 3056 |
-| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5441 |
+| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5442 |
 | South Basildon and East Thurrock | James McMurdock MP | 6603 |
 | South Cambridgeshire | Pippa Heylings MP | 4451 |
 | South Cotswolds | Dr Roz Savage MP | 5715 |
@@ -607,7 +607,7 @@
 | Glenrothes and Mid Fife | Richard Baker MP | 2966 |
 | Gordon and Buchan | Harriet Cross MP | 4388 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3134 |
-| Inverclyde and Renfrewshire West | Martin McCluskey MP | 2747 |
+| Inverclyde and Renfrewshire West | Martin McCluskey MP | 2748 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3617 |
 | Livingston | Gregor Poynton MP | 3397 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2856 |
