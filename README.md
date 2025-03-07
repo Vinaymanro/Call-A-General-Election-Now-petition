@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990804                                |
-| Last Updated      | 2025-03-07 02:54:47 UTC                                    |
+| Total Signatures   | 2990805                                |
+| Last Updated      | 2025-03-07 03:27:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -382,7 +382,7 @@
 | Putney | Fleur Anderson MP | 3516 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2151 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5112 |
-| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7353 |
+| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7354 |
 | Reading Central | Matt Rodda MP | 3026 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4446 |
 | Redcar | Anna Turley MP | 5452 |
