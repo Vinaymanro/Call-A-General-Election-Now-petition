@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990966                                |
-| Last Updated      | 2025-03-07 22:14:07 UTC                                    |
+| Total Signatures   | 2990974                                |
+| Last Updated      | 2025-03-07 23:13:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5849 |
 | Cities of London and Westminster | Rachel Blake MP | 5172 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
-| Clacton | Nigel Farage MP | 8076 |
+| Clacton | Nigel Farage MP | 8077 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5028 |
@@ -274,7 +274,7 @@
 | Leicester East | Shivani Raja MP | 1881 |
 | Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3462 |
-| Leigh and Atherton | Jo Platt MP | 6070 |
+| Leigh and Atherton | Jo Platt MP | 6071 |
 | Lewes | James MacCleary MP | 4899 |
 | Lewisham East | Janet Daby MP | 2145 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
@@ -350,7 +350,7 @@
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
 | North West Leicestershire | Amanda Hack MP | 6695 |
-| North West Norfolk | James Wild MP | 5755 |
+| North West Norfolk | James Wild MP | 5756 |
 | Northampton North | Lucy Rigby KC MP | 4276 |
 | Northampton South | Mike Reader MP | 4963 |
 | Norwich North | Alice Macdonald MP | 4396 |
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7354 |
 | Reading Central | Matt Rodda MP | 3026 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4446 |
-| Redcar | Anna Turley MP | 5452 |
+| Redcar | Anna Turley MP | 5453 |
 | Redditch | Chris Bloore MP | 6071 |
 | Reigate | Rebecca Paul MP | 5550 |
 | Ribble Valley | Maya Ellis MP | 6707 |
@@ -477,7 +477,7 @@
 | Stroud | Dr Simon Opher MP | 4532 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5396 |
 | Sunderland Central | Lewis Atkinson MP | 5231 |
-| Surrey Heath | Dr Al Pinkerton MP | 5421 |
+| Surrey Heath | Dr Al Pinkerton MP | 5422 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6106 |
 | Sutton and Cheam | Luke Taylor MP | 4389 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5671 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5952 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5949 |
 | Tooting | Dr Rosena Allin-Khan MP | 2691 |
-| Torbay | Steve Darling MP | 5823 |
+| Torbay | Steve Darling MP | 5824 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6576 |
 | Tottenham | Rt Hon David Lammy MP | 1685 |
 | Truro and Falmouth | Jayne Kirkham MP | 4603 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5457 |
 | West Ham and Beckton | James Asser MP | 2151 |
-| West Lancashire | Ashley Dalton MP | 5054 |
+| West Lancashire | Ashley Dalton MP | 5055 |
 | West Suffolk | Nick Timothy MP | 6035 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6258 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
 | Bridgend | Chris Elmore MP | 4234 |
 | Caerfyrddin | Ann Davies MP | 5199 |
-| Caerphilly | Chris Evans MP | 3981 |
+| Caerphilly | Chris Evans MP | 3982 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2893 |
 | Cardiff North | Anna McMorrin MP | 3291 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2799 |
