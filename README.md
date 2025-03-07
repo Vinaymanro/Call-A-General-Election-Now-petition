@@ -3,14 +3,14 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990889                                |
-| Last Updated      | 2025-03-07 15:18:22 UTC                                    |
+| Total Signatures   | 2990896                                |
+| Last Updated      | 2025-03-07 16:21:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5449 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5800 |
-| Altrincham and Sale West | Mr Connor Rand MP | 5499 |
+| Altrincham and Sale West | Mr Connor Rand MP | 5500 |
 | Amber Valley | Linsey Farnsworth MP | 6081 |
 | Arundel and South Downs | Andrew Griffith MP | 6956 |
 | Ashfield | Lee Anderson MP | 6159 |
@@ -124,7 +124,7 @@
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5028 |
 | Congleton | Mrs Sarah Russell MP | 5973 |
-| Corby and East Northamptonshire | Lee Barron MP | 6000 |
+| Corby and East Northamptonshire | Lee Barron MP | 6001 |
 | Coventry East | Mary Creagh MP | 3588 |
 | Coventry North West | Taiwo Owatemi MP | 4250 |
 | Coventry South | Zarah Sultana MP | 3513 |
@@ -159,7 +159,7 @@
 | Easington | Grahame Morris MP | 5727 |
 | East Grinstead and Uckfield | Mims Davies MP | 6032 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
-| East Hampshire | Rt Hon Damian Hinds MP | 5331 |
+| East Hampshire | Rt Hon Damian Hinds MP | 5332 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6024 |
 | East Thanet | Ms Polly Billington MP | 5475 |
 | East Wiltshire | Danny Kruger MP | 6063 |
@@ -180,7 +180,7 @@
 | Exmouth and Exeter East | David Reed MP | 5204 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6120 |
 | Farnham and Bordon | Gregory Stafford MP | 5187 |
-| Faversham and Mid Kent | Helen Whately MP | 6221 |
+| Faversham and Mid Kent | Helen Whately MP | 6222 |
 | Feltham and Heston | Seema Malhotra MP | 2919 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4506 |
 | Finchley and Golders Green | Sarah Sackman MP | 4282 |
@@ -306,9 +306,9 @@
 | Meriden and Solihull East | Saqib Bhatti MP | 6077 |
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
-| Mid Cheshire | Andrew Cooper MP | 5165 |
+| Mid Cheshire | Andrew Cooper MP | 5166 |
 | Mid Derbyshire | Jonathan Davies MP | 5229 |
-| Mid Dorset and North Poole | Vikki Slade MP | 5878 |
+| Mid Dorset and North Poole | Vikki Slade MP | 5879 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5591 |
 | Mid Norfolk | George Freeman MP | 6284 |
 | Mid Sussex | Alison Bennett MP | 4697 |
@@ -470,7 +470,7 @@
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5725 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6534 |
 | Stourbridge | Cat Eccles MP | 5155 |
-| Stratford and Bow | Uma Kumaran MP | 1766 |
+| Stratford and Bow | Uma Kumaran MP | 1767 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6711 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
 | Stretford and Urmston | Andrew Western MP | 3820 |
