@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990809                                |
-| Last Updated      | 2025-03-07 06:25:04 UTC                                    |
+| Total Signatures   | 2990816                                |
+| Last Updated      | 2025-03-07 07:16:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -88,7 +88,7 @@
 | Broxtowe | Juliet Campbell MP | 4709 |
 | Buckingham and Bletchley | Callum Anderson MP | 5254 |
 | Burnley | Oliver Ryan MP | 5723 |
-| Burton and Uttoxeter | Jacob Collier MP | 5796 |
+| Burton and Uttoxeter | Jacob Collier MP | 5797 |
 | Bury North | Mr James Frith MP | 4974 |
 | Bury South | Christian Wakeford MP | 5415 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5446 |
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5028 |
-| Congleton | Mrs Sarah Russell MP | 5972 |
+| Congleton | Mrs Sarah Russell MP | 5973 |
 | Corby and East Northamptonshire | Lee Barron MP | 6000 |
 | Coventry East | Mary Creagh MP | 3588 |
 | Coventry North West | Taiwo Owatemi MP | 4250 |
@@ -328,7 +328,7 @@
 | Newcastle-under-Lyme | Adam Jogee MP | 5067 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5528 |
-| Normanton and Hemsworth | Jon Trickett MP | 5487 |
+| Normanton and Hemsworth | Jon Trickett MP | 5488 |
 | North Bedfordshire | Richard Fuller MP | 6101 |
 | North Cornwall | Ben Maguire MP | 6398 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6045 |
@@ -470,7 +470,7 @@
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5725 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6533 |
 | Stourbridge | Cat Eccles MP | 5155 |
-| Stratford and Bow | Uma Kumaran MP | 1765 |
+| Stratford and Bow | Uma Kumaran MP | 1766 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6711 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
 | Stretford and Urmston | Andrew Western MP | 3820 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5456 |
 | West Ham and Beckton | James Asser MP | 2151 |
-| West Lancashire | Ashley Dalton MP | 5052 |
+| West Lancashire | Ashley Dalton MP | 5053 |
 | West Suffolk | Nick Timothy MP | 6034 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6258 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
@@ -563,7 +563,7 @@
 | Mid Ulster | Mr Cathal Mallaghan MP | 1891 |
 | Newry and Armagh | Dáire Hughes MP | 2070 |
 | North Antrim | Jim Allister KC MP | 3089 |
-| North Down | Alex Easton MP | 3353 |
+| North Down | Alex Easton MP | 3354 |
 | South Antrim | Robin Swann MP | 3087 |
 | South Down | Chris Hazzard MP | 1840 |
 | Strangford | Jim Shannon MP | 3453 |
@@ -581,7 +581,7 @@
 | Alloa and Grangemouth | Brian Leishman MP | 3015 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4045 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3469 |
-| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3405 |
+| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3406 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3015 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4071 |
 | Coatbridge and Bellshill | Frank McNally MP | 2582 |
