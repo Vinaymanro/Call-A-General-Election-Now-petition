@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990901                                |
-| Last Updated      | 2025-03-07 17:15:14 UTC                                    |
+| Total Signatures   | 2990911                                |
+| Last Updated      | 2025-03-07 18:24:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -52,8 +52,8 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6149 |
 | Blackpool South | Chris Webb MP | 5805 |
 | Blaydon and Consett | Liz Twist MP | 5244 |
-| Blyth and Ashington | Ian Lavery MP | 5849 |
-| Bognor Regis and Littlehampton | Alison Griffiths MP | 6137 |
+| Blyth and Ashington | Ian Lavery MP | 5850 |
+| Bognor Regis and Littlehampton | Alison Griffiths MP | 6138 |
 | Bolsover | Natalie Fleet MP | 6528 |
 | Bolton North East | Kirith Entwistle MP | 5595 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4408 |
@@ -226,7 +226,7 @@
 | Hemel Hempstead | David Taylor MP | 5072 |
 | Hendon | David Pinto-Duschinsky MP | 3797 |
 | Henley and Thame | Freddie van Mierlo MP | 5403 |
-| Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5274 |
+| Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5275 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6297 |
 | Hertford and Stortford | Josh Dean MP | 5974 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5744 |
@@ -340,7 +340,7 @@
 | North East Hampshire | Alex Brewer MP | 5954 |
 | North East Hertfordshire | Chris Hinchliff MP | 5844 |
 | North East Somerset and Hanham | Dan Norris MP | 5044 |
-| North Herefordshire | Ellie Chowns MP | 6467 |
+| North Herefordshire | Ellie Chowns MP | 6468 |
 | North Norfolk | Steff Aquarone MP | 5435 |
 | North Northumberland | David Smith MP | 6427 |
 | North Shropshire | Helen Morgan MP | 6877 |
@@ -441,12 +441,12 @@
 | South Shropshire | Stuart Anderson MP | 7320 |
 | South Suffolk | James Cartlidge MP | 6147 |
 | South West Devon | Rebecca Smith MP | 5971 |
-| South West Hertfordshire | Mr Gagan Mohindra MP | 5203 |
+| South West Hertfordshire | Mr Gagan Mohindra MP | 5204 |
 | South West Norfolk | Terry Jermy MP | 6522 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5200 |
 | Southampton Itchen | Darren Paffey MP | 4541 |
 | Southampton Test | Satvir Kaur MP | 3401 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5574 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5575 |
 | Southend West and Leigh | David Burton-Sampson MP | 5873 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2586 |
 | Southport | Patrick Hurley MP | 5949 |
@@ -474,7 +474,7 @@
 | Stratford-on-Avon | Manuela Perteghella MP | 6711 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
 | Stretford and Urmston | Andrew Western MP | 3820 |
-| Stroud | Dr Simon Opher MP | 4531 |
+| Stroud | Dr Simon Opher MP | 4532 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5396 |
 | Sunderland Central | Lewis Atkinson MP | 5231 |
 | Surrey Heath | Dr Al Pinkerton MP | 5421 |
@@ -514,7 +514,7 @@
 | Warwick and Leamington | Matt Western MP | 4471 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5310 |
 | Watford | Matt Turmaine MP | 3740 |
-| Waveney Valley | Adrian Ramsay MP | 5851 |
+| Waveney Valley | Adrian Ramsay MP | 5852 |
 | Weald of Kent | Katie Lam MP | 7224 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5082 |
 | Wells and Mendip Hills | Tessa Munt MP | 5252 |
@@ -526,7 +526,7 @@
 | West Suffolk | Nick Timothy MP | 6034 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6258 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
-| Weston-super-Mare | Dan Aldridge MP | 5067 |
+| Weston-super-Mare | Dan Aldridge MP | 5068 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6573 |
 | Whitehaven and Workington | Josh MacAlister MP | 5844 |
 | Widnes and Halewood | Derek Twigg MP | 4231 |
@@ -538,7 +538,7 @@
 | Witham | Rt Hon Priti Patel MP | 7007 |
 | Witney | Charlie Maynard MP | 5162 |
 | Woking | Mr Will Forster MP | 4395 |
-| Wokingham | Clive Jones MP | 4865 |
+| Wokingham | Clive Jones MP | 4866 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4401 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4309 |
 | Wolverhampton West | Warinder Juss | 3819 |
