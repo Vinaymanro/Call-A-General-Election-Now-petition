@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990883                                |
-| Last Updated      | 2025-03-07 14:16:21 UTC                                    |
+| Total Signatures   | 2990889                                |
+| Last Updated      | 2025-03-07 15:18:22 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -45,10 +45,10 @@
 | Birmingham Northfield | Laurence Turner MP | 4888 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1719 |
 | Birmingham Selly Oak | Al Carns MP | 3290 |
-| Birmingham Yardley | Jess Phillips MP | 3079 |
+| Birmingham Yardley | Jess Phillips MP | 3080 |
 | Bishop Auckland | Sam Rushworth MP | 6161 |
 | Blackburn | Mr Adnan Hussain MP | 3125 |
-| Blackley and Middleton South | Graham Stringer MP | 3764 |
+| Blackley and Middleton South | Graham Stringer MP | 3765 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6149 |
 | Blackpool South | Chris Webb MP | 5805 |
 | Blaydon and Consett | Liz Twist MP | 5244 |
@@ -219,7 +219,7 @@
 | Harrow West | Gareth Thomas MP | 2402 |
 | Hartlepool | Mr Jonathan Brash MP | 5645 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6272 |
-| Hastings and Rye | Helena Dollimore MP | 5066 |
+| Hastings and Rye | Helena Dollimore MP | 5067 |
 | Havant | Alan Mak MP | 5651 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2593 |
 | Hazel Grove | Lisa Smart MP | 5099 |
@@ -268,7 +268,7 @@
 | Leeds East | Richard Burgon MP | 4306 |
 | Leeds North East | Fabian Hamilton MP | 2631 |
 | Leeds North West | Katie White MP | 4386 |
-| Leeds South | Rt Hon Hilary Benn MP | 3871 |
+| Leeds South | Rt Hon Hilary Benn MP | 3872 |
 | Leeds South West and Morley | Mark Sewards MP | 5490 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3783 |
 | Leicester East | Shivani Raja MP | 1881 |
@@ -506,7 +506,7 @@
 | Uxbridge and South Ruislip | Danny Beales MP | 4477 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1675 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4914 |
-| Wallasey | Dame Angela Eagle MP | 4064 |
+| Wallasey | Dame Angela Eagle MP | 4065 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4002 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
 | Warrington North | Charlotte Nichols MP | 5149 |
@@ -624,7 +624,7 @@
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3550 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4022 |
 | Central Ayrshire | Alan Gemmell MP | 3131 |
-| Kilmarnock and Loudoun | Lillian Jones MP | 3250 |
+| Kilmarnock and Loudoun | Lillian Jones MP | 3251 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3683 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5746 |
