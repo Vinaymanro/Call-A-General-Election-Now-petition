@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990805                                |
-| Last Updated      | 2025-03-07 03:27:06 UTC                                    |
+| Total Signatures   | 2990806                                |
+| Last Updated      | 2025-03-07 04:21:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6366 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6664 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3419 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3420 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3532 |
