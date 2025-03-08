@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991018                                |
-| Last Updated      | 2025-03-08 09:14:28 UTC                                    |
+| Total Signatures   | 2991025                                |
+| Last Updated      | 2025-03-08 10:14:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -128,7 +128,7 @@
 | Coventry East | Mary Creagh MP | 3588 |
 | Coventry North West | Taiwo Owatemi MP | 4250 |
 | Coventry South | Zarah Sultana MP | 3513 |
-| Cramlington and Killingworth | Emma Foody MP | 5797 |
+| Cramlington and Killingworth | Emma Foody MP | 5798 |
 | Crawley | Peter Lamb MP | 4712 |
 | Crewe and Nantwich | Connor Naismith MP | 5688 |
 | Croydon East | Natasha Irons MP | 3334 |
@@ -297,7 +297,7 @@
 | Maidstone and Malling | Helen Grant MP | 5841 |
 | Makerfield | Josh Simons MP | 5872 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8111 |
-| Manchester Central | Rt Hon Lucy Powell MP | 3993 |
+| Manchester Central | Rt Hon Lucy Powell MP | 3994 |
 | Manchester Rusholme | Afzal Khan MP | 1216 |
 | Manchester Withington | Jeff Smith MP | 1670 |
 | Mansfield | Steve Yemm MP | 6195 |
@@ -309,7 +309,7 @@
 | Mid Cheshire | Andrew Cooper MP | 5166 |
 | Mid Derbyshire | Jonathan Davies MP | 5229 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5879 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5591 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5592 |
 | Mid Norfolk | George Freeman MP | 6284 |
 | Mid Sussex | Alison Bennett MP | 4697 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4227 |
@@ -342,7 +342,7 @@
 | North East Somerset and Hanham | Dan Norris MP | 5045 |
 | North Herefordshire | Ellie Chowns MP | 6468 |
 | North Norfolk | Steff Aquarone MP | 5435 |
-| North Northumberland | David Smith MP | 6429 |
+| North Northumberland | David Smith MP | 6430 |
 | North Shropshire | Helen Morgan MP | 6877 |
 | North Somerset | Sadik Al-Hassan MP | 4582 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6265 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5441 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6185 |
 | Peterborough | Andrew Pakes MP | 4154 |
-| Plymouth Moor View | Fred Thomas MP | 5676 |
+| Plymouth Moor View | Fred Thomas MP | 5677 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4744 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5442 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
@@ -464,7 +464,7 @@
 | Stevenage | Kevin Bonavia MP | 4737 |
 | Stockport | Navendu Mishra MP | 3911 |
 | Stockton North | Chris McDonald MP | 4837 |
-| Stockton West | Matt Vickers MP | 5987 |
+| Stockton West | Matt Vickers MP | 5988 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4728 |
 | Stoke-on-Trent North | David Williams MP | 5451 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5727 |
@@ -474,7 +474,7 @@
 | Stratford-on-Avon | Manuela Perteghella MP | 6711 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1862 |
 | Stretford and Urmston | Andrew Western MP | 3821 |
-| Stroud | Dr Simon Opher MP | 4532 |
+| Stroud | Dr Simon Opher MP | 4533 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5396 |
 | Sunderland Central | Lewis Atkinson MP | 5231 |
 | Surrey Heath | Dr Al Pinkerton MP | 5422 |
