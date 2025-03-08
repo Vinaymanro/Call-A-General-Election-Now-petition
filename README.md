@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990986                                |
-| Last Updated      | 2025-03-08 03:16:31 UTC                                    |
+| Total Signatures   | 2990989                                |
+| Last Updated      | 2025-03-08 04:16:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4675 |
 | Birkenhead | Alison McGovern MP | 4314 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2949 |
-| Birmingham Erdington | Paulette Hamilton MP | 4233 |
+| Birmingham Erdington | Paulette Hamilton MP | 4234 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1577 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3481 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1897 |
@@ -226,7 +226,7 @@
 | Hemel Hempstead | David Taylor MP | 5073 |
 | Hendon | David Pinto-Duschinsky MP | 3797 |
 | Henley and Thame | Freddie van Mierlo MP | 5403 |
-| Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5276 |
+| Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5277 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6297 |
 | Hertford and Stortford | Josh Dean MP | 5974 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5744 |
@@ -297,7 +297,7 @@
 | Maidstone and Malling | Helen Grant MP | 5841 |
 | Makerfield | Josh Simons MP | 5872 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8111 |
-| Manchester Central | Rt Hon Lucy Powell MP | 3992 |
+| Manchester Central | Rt Hon Lucy Powell MP | 3993 |
 | Manchester Rusholme | Afzal Khan MP | 1216 |
 | Manchester Withington | Jeff Smith MP | 1670 |
 | Mansfield | Steve Yemm MP | 6195 |
