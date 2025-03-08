@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990989                                |
-| Last Updated      | 2025-03-08 04:16:49 UTC                                    |
+| Total Signatures   | 2990990                                |
+| Last Updated      | 2025-03-08 05:13:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -342,7 +342,7 @@
 | North East Somerset and Hanham | Dan Norris MP | 5045 |
 | North Herefordshire | Ellie Chowns MP | 6468 |
 | North Norfolk | Steff Aquarone MP | 5435 |
-| North Northumberland | David Smith MP | 6427 |
+| North Northumberland | David Smith MP | 6428 |
 | North Shropshire | Helen Morgan MP | 6877 |
 | North Somerset | Sadik Al-Hassan MP | 4582 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6265 |
