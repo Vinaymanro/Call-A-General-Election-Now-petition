@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991025                                |
-| Last Updated      | 2025-03-08 10:14:54 UTC                                    |
+| Total Signatures   | 2991028                                |
+| Last Updated      | 2025-03-08 11:12:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -176,7 +176,7 @@
 | Erewash | Adam Thompson MP | 5821 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4824 |
-| Exeter | Steve Race MP | 3172 |
+| Exeter | Steve Race MP | 3173 |
 | Exmouth and Exeter East | David Reed MP | 5204 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6120 |
 | Farnham and Bordon | Gregory Stafford MP | 5187 |
@@ -402,11 +402,11 @@
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4103 |
 | Runcorn and Helsby | Mike Amesbury MP | 5021 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5831 |
-| Rushcliffe | James Naish MP | 5073 |
+| Rushcliffe | James Naish MP | 5074 |
 | Rutland and Stamford | Alicia Kearns MP | 6258 |
 | Salford | Rebecca Long Bailey MP | 4660 |
 | Salisbury | Rt Hon John Glen MP | 4748 |
-| Scarborough and Whitby | Alison Hume MP | 5996 |
+| Scarborough and Whitby | Alison Hume MP | 5997 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5078 |
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6366 |
