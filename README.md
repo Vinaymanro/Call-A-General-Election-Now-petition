@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991063                                |
-| Last Updated      | 2025-03-08 17:52:58 UTC                                    |
+| Total Signatures   | 2991069                                |
+| Last Updated      | 2025-03-08 18:18:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5449 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5800 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5500 |
-| Amber Valley | Linsey Farnsworth MP | 6081 |
+| Amber Valley | Linsey Farnsworth MP | 6082 |
 | Arundel and South Downs | Andrew Griffith MP | 6956 |
 | Ashfield | Lee Anderson MP | 6159 |
 | Ashford | Sojan Joseph MP | 5888 |
@@ -61,7 +61,7 @@
 | Bootle | Peter Dowd MP | 3148 |
 | Boston and Skegness | Richard Tice MP | 7079 |
 | Bournemouth East | Tom Hayes MP | 4659 |
-| Bournemouth West | Jessica Toale MP | 4909 |
+| Bournemouth West | Jessica Toale MP | 4910 |
 | Bracknell | Peter Swallow MP | 4970 |
 | Bradford East | Imran Hussain MP | 2886 |
 | Bradford South | Judith Cummins MP | 4176 |
@@ -154,7 +154,7 @@
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5513 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3092 |
 | Ealing North | James Murray MP | 2579 |
-| Ealing Southall | Deirdre Costigan MP | 1954 |
+| Ealing Southall | Deirdre Costigan MP | 1955 |
 | Earley and Woodley | Yuan Yang MP | 3952 |
 | Easington | Grahame Morris MP | 5727 |
 | East Grinstead and Uckfield | Mims Davies MP | 6032 |
@@ -228,7 +228,7 @@
 | Henley and Thame | Freddie van Mierlo MP | 5403 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5277 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6297 |
-| Hertford and Stortford | Josh Dean MP | 5974 |
+| Hertford and Stortford | Josh Dean MP | 5975 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5744 |
 | Hexham | Joe Morris MP | 6407 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5258 |
@@ -336,7 +336,7 @@
 | North Dorset | Simon Hoare MP | 6314 |
 | North Durham | Luke Akehurst MP | 5384 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6071 |
-| North East Derbyshire | Louise Jones MP | 5795 |
+| North East Derbyshire | Louise Jones MP | 5796 |
 | North East Hampshire | Alex Brewer MP | 5955 |
 | North East Hertfordshire | Chris Hinchliff MP | 5844 |
 | North East Somerset and Hanham | Dan Norris MP | 5045 |
@@ -609,7 +609,7 @@
 | Hamilton and Clyde Valley | Imogen Walker MP | 3134 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2748 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3617 |
-| Livingston | Gregor Poynton MP | 3398 |
+| Livingston | Gregor Poynton MP | 3399 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2856 |
 | Mid Dunbartonshire | Susan Murray MP | 2523 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3935 |
