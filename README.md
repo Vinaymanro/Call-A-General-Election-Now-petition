@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991080                                |
-| Last Updated      | 2025-03-08 19:12:36 UTC                                    |
+| Total Signatures   | 2991086                                |
+| Last Updated      | 2025-03-08 20:14:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5559 |
 | Dorking and Horley | Chris Coghlan MP | 5554 |
 | Dover and Deal | Mike Tapp MP | 5922 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6557 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6558 |
 | Dudley | Sonia Kumar MP | 5384 |
 | Dulwich and West Norwood | Helen Hayes MP | 1558 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5513 |
@@ -291,11 +291,11 @@
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7795 |
 | Lowestoft | Jess Asato MP | 5330 |
 | Luton North | Sarah Owen MP | 2472 |
-| Luton South and South Bedfordshire | Rachel Hopkins MP | 2944 |
+| Luton South and South Bedfordshire | Rachel Hopkins MP | 2945 |
 | Macclesfield | Tim Roca MP | 5400 |
 | Maidenhead | Mr Joshua Reynolds MP | 5282 |
 | Maidstone and Malling | Helen Grant MP | 5842 |
-| Makerfield | Josh Simons MP | 5873 |
+| Makerfield | Josh Simons MP | 5874 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8112 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3994 |
 | Manchester Rusholme | Afzal Khan MP | 1216 |
@@ -400,7 +400,7 @@
 | Rotherham | Sarah Champion MP | 4945 |
 | Rugby | John Slinger MP | 5409 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4103 |
-| Runcorn and Helsby | Mike Amesbury MP | 5021 |
+| Runcorn and Helsby | Mike Amesbury MP | 5022 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5831 |
 | Rushcliffe | James Naish MP | 5074 |
 | Rutland and Stamford | Alicia Kearns MP | 6258 |
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5581 |
 | Tewkesbury | Cameron Thomas MP | 5011 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7429 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7430 |
 | Thornbury and Yate | Claire Young MP | 5692 |
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
@@ -515,7 +515,7 @@
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5310 |
 | Watford | Matt Turmaine MP | 3740 |
 | Waveney Valley | Adrian Ramsay MP | 5853 |
-| Weald of Kent | Katie Lam MP | 7224 |
+| Weald of Kent | Katie Lam MP | 7225 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5082 |
 | Wells and Mendip Hills | Tessa Munt MP | 5252 |
 | Welwyn Hatfield | Andrew Lewin MP | 5058 |
