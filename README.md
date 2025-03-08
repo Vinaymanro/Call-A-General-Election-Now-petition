@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991059                                |
-| Last Updated      | 2025-03-08 16:16:53 UTC                                    |
+| Total Signatures   | 2991063                                |
+| Last Updated      | 2025-03-08 17:52:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -83,7 +83,7 @@
 | Bristol South | Karin Smyth MP | 3961 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5829 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
-| Bromsgrove | Bradley Thomas MP | 6473 |
+| Bromsgrove | Bradley Thomas MP | 6474 |
 | Broxbourne | Lewis Cocking MP | 6074 |
 | Broxtowe | Juliet Campbell MP | 4710 |
 | Buckingham and Bletchley | Callum Anderson MP | 5254 |
@@ -108,7 +108,7 @@
 | Chelsea and Fulham | Ben Coleman MP | 5486 |
 | Cheltenham | Max Wilkinson MP | 4027 |
 | Chesham and Amersham | Sarah Green MP | 4940 |
-| Chester North and Neston | Samantha Dixon MP | 4051 |
+| Chester North and Neston | Samantha Dixon MP | 4052 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6386 |
 | Chesterfield | Mr Toby Perkins MP | 4875 |
 | Chichester | Jess Brown-Fuller MP | 5922 |
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5400 |
 | Maidenhead | Mr Joshua Reynolds MP | 5282 |
 | Maidstone and Malling | Helen Grant MP | 5841 |
-| Makerfield | Josh Simons MP | 5872 |
+| Makerfield | Josh Simons MP | 5873 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8112 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3994 |
 | Manchester Rusholme | Afzal Khan MP | 1216 |
@@ -571,7 +571,7 @@
 | West Tyrone | Órfhlaith Begley MP | 1664 |
 | East Renfrewshire | Blair McDougall MP | 2590 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
-| Midlothian | Kirsty McNeill MP | 2793 |
+| Midlothian | Kirsty McNeill MP | 2794 |
 | North Ayrshire and Arran | Irene Campbell MP | 3292 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1440 |
 | Aberdeen North | Kirsty Blackman MP | 3550 |
