@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991046                                |
-| Last Updated      | 2025-03-08 13:15:53 UTC                                    |
+| Total Signatures   | 2991050                                |
+| Last Updated      | 2025-03-08 14:11:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5849 |
 | Cities of London and Westminster | Rachel Blake MP | 5173 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
-| Clacton | Nigel Farage MP | 8077 |
+| Clacton | Nigel Farage MP | 8078 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5028 |
@@ -336,7 +336,7 @@
 | North Dorset | Simon Hoare MP | 6314 |
 | North Durham | Luke Akehurst MP | 5384 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6071 |
-| North East Derbyshire | Louise Jones MP | 5794 |
+| North East Derbyshire | Louise Jones MP | 5795 |
 | North East Hampshire | Alex Brewer MP | 5955 |
 | North East Hertfordshire | Chris Hinchliff MP | 5844 |
 | North East Somerset and Hanham | Dan Norris MP | 5045 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3808 |
 | Putney | Fleur Anderson MP | 3516 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2151 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5112 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5113 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7354 |
 | Reading Central | Matt Rodda MP | 3026 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4446 |
@@ -655,6 +655,6 @@
 | Rhondda and Ogmore | Chris Bryant MP | 4030 |
 | Swansea West | Torsten Bell MP | 3650 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
-| Vale of Glamorgan | Kanishka Narayan MP | 4613 |
+| Vale of Glamorgan | Kanishka Narayan MP | 4614 |
 | Wrexham | Andrew Ranger MP | 4796 |
 | Ynys Môn | Llinos Medi MP | 3730 |
