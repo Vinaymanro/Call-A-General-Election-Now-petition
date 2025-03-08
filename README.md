@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990998                                |
-| Last Updated      | 2025-03-08 07:13:53 UTC                                    |
+| Total Signatures   | 2991005                                |
+| Last Updated      | 2025-03-08 08:17:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -71,7 +71,7 @@
 | Brent West | Barry Gardiner MP | 2087 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2990 |
 | Brentwood and Ongar | Alex Burghart MP | 8137 |
-| Bridgwater | Sir Ashley Fox MP | 5751 |
+| Bridgwater | Sir Ashley Fox MP | 5752 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6622 |
 | Brigg and Immingham | Martin Vickers MP | 6462 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3931 |
@@ -117,7 +117,7 @@
 | Chipping Barnet | Dan Tomlinson MP | 4335 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5497 |
 | Christchurch | Sir Christopher Chope MP | 5849 |
-| Cities of London and Westminster | Rachel Blake MP | 5172 |
+| Cities of London and Westminster | Rachel Blake MP | 5173 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
 | Clacton | Nigel Farage MP | 8077 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
@@ -224,7 +224,7 @@
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2593 |
 | Hazel Grove | Lisa Smart MP | 5099 |
 | Hemel Hempstead | David Taylor MP | 5073 |
-| Hendon | David Pinto-Duschinsky MP | 3797 |
+| Hendon | David Pinto-Duschinsky MP | 3798 |
 | Henley and Thame | Freddie van Mierlo MP | 5403 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5277 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6297 |
@@ -247,7 +247,7 @@
 | Hyndburn | Sarah Smith MP | 4998 |
 | Ilford North | Rt Hon Wes Streeting MP | 2621 |
 | Ilford South | Jas Athwal MP | 1591 |
-| Ipswich | Jack Abbott MP | 4141 |
+| Ipswich | Jack Abbott MP | 4142 |
 | Isle of Wight East | Joe Robertson MP | 4380 |
 | Isle of Wight West | Mr Richard Quigley MP | 4072 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
@@ -257,7 +257,7 @@
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6100 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
 | Kettering | Rosie Wrighting MP | 5903 |
-| Kingston and Surbiton | Rt Hon Ed Davey MP | 3745 |
+| Kingston and Surbiton | Rt Hon Ed Davey MP | 3746 |
 | Kingston upon Hull East | Karl Turner MP | 4993 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4637 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5490 |
@@ -325,7 +325,7 @@
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4499 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4749 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3951 |
-| Newcastle-under-Lyme | Adam Jogee MP | 5067 |
+| Newcastle-under-Lyme | Adam Jogee MP | 5068 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5529 |
 | Normanton and Hemsworth | Jon Trickett MP | 5488 |
@@ -351,7 +351,7 @@
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5728 |
 | North West Leicestershire | Amanda Hack MP | 6695 |
 | North West Norfolk | James Wild MP | 5757 |
-| Northampton North | Lucy Rigby KC MP | 4276 |
+| Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4963 |
 | Norwich North | Alice Macdonald MP | 4396 |
 | Norwich South | Clive Lewis MP | 3385 |
