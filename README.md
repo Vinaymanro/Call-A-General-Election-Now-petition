@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990990                                |
-| Last Updated      | 2025-03-08 05:13:19 UTC                                    |
+| Total Signatures   | 2990995                                |
+| Last Updated      | 2025-03-08 06:19:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -189,7 +189,7 @@
 | Frome and East Somerset | Anna Sabine MP | 4328 |
 | Fylde | Mr Andrew Snowden MP | 6770 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6649 |
-| Gateshead Central and Whickham | Mark Ferguson MP | 4520 |
+| Gateshead Central and Whickham | Mark Ferguson MP | 4521 |
 | Gedling | Michael Payne MP | 5053 |
 | Gillingham and Rainham | Naushabah Khan MP | 5049 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5588 |
@@ -319,7 +319,7 @@
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5763 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5416 |
-| New Forest West | Rt Hon Sir Desmond Swayne MP | 5248 |
+| New Forest West | Rt Hon Sir Desmond Swayne MP | 5249 |
 | Newark | Rt Hon Robert Jenrick MP | 7159 |
 | Newbury | Mr Lee Dillon MP | 4888 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4499 |
@@ -350,7 +350,7 @@
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5728 |
 | North West Leicestershire | Amanda Hack MP | 6695 |
-| North West Norfolk | James Wild MP | 5756 |
+| North West Norfolk | James Wild MP | 5757 |
 | Northampton North | Lucy Rigby KC MP | 4276 |
 | Northampton South | Mike Reader MP | 4963 |
 | Norwich North | Alice Macdonald MP | 4396 |
@@ -627,7 +627,7 @@
 | Kilmarnock and Loudoun | Lillian Jones MP | 3251 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3683 |
-| Alyn and Deeside | Rt Hon Mark Tami MP | 5746 |
+| Alyn and Deeside | Rt Hon Mark Tami MP | 5748 |
 | Bangor Aberconwy | Claire Hughes MP | 4514 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3637 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
