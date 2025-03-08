@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990974                                |
-| Last Updated      | 2025-03-07 23:13:58 UTC                                    |
+| Total Signatures   | 2990981                                |
+| Last Updated      | 2025-03-08 01:05:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -55,7 +55,7 @@
 | Blyth and Ashington | Ian Lavery MP | 5850 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6138 |
 | Bolsover | Natalie Fleet MP | 6529 |
-| Bolton North East | Kirith Entwistle MP | 5595 |
+| Bolton North East | Kirith Entwistle MP | 5596 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4408 |
 | Bolton West | Phil Brickell MP | 5577 |
 | Bootle | Peter Dowd MP | 3148 |
@@ -231,7 +231,7 @@
 | Hertford and Stortford | Josh Dean MP | 5974 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5744 |
 | Hexham | Joe Morris MP | 6407 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5257 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5258 |
 | High Peak | Jon Pearce MP | 5448 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6484 |
 | Hitchin | Alistair Strathern MP | 4917 |
@@ -348,7 +348,7 @@
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6265 |
 | North West Cambridgeshire | Sam Carling MP | 6014 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
-| North West Hampshire | Rt Hon Kit Malthouse MP | 5727 |
+| North West Hampshire | Rt Hon Kit Malthouse MP | 5728 |
 | North West Leicestershire | Amanda Hack MP | 6695 |
 | North West Norfolk | James Wild MP | 5756 |
 | Northampton North | Lucy Rigby KC MP | 4276 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5441 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6185 |
 | Peterborough | Andrew Pakes MP | 4154 |
-| Plymouth Moor View | Fred Thomas MP | 5675 |
+| Plymouth Moor View | Fred Thomas MP | 5676 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4744 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5442 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
@@ -418,7 +418,7 @@
 | Sheffield South East | Mr Clive Betts MP | 4732 |
 | Sherwood Forest | Michelle Welsh MP | 6659 |
 | Shipley | Anna Dixon MP | 4891 |
-| Shrewsbury | Julia Buckley MP | 5323 |
+| Shrewsbury | Julia Buckley MP | 5324 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6861 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6669 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6288 |
@@ -506,7 +506,7 @@
 | Uxbridge and South Ruislip | Danny Beales MP | 4477 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1675 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4914 |
-| Wallasey | Dame Angela Eagle MP | 4065 |
+| Wallasey | Dame Angela Eagle MP | 4066 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4002 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
 | Warrington North | Charlotte Nichols MP | 5149 |
@@ -534,7 +534,7 @@
 | Wimbledon | Mr Paul Kohler MP | 3409 |
 | Winchester | Dr Danny Chambers MP | 4918 |
 | Windsor | Jack Rankin MP | 5111 |
-| Wirral West | Matthew Patrick MP | 4204 |
+| Wirral West | Matthew Patrick MP | 4205 |
 | Witham | Rt Hon Priti Patel MP | 7007 |
 | Witney | Charlie Maynard MP | 5162 |
 | Woking | Mr Will Forster MP | 4395 |
