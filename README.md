@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991028                                |
-| Last Updated      | 2025-03-08 11:12:05 UTC                                    |
+| Total Signatures   | 2991037                                |
+| Last Updated      | 2025-03-08 12:25:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -45,7 +45,7 @@
 | Birmingham Northfield | Laurence Turner MP | 4889 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1719 |
 | Birmingham Selly Oak | Al Carns MP | 3291 |
-| Birmingham Yardley | Jess Phillips MP | 3082 |
+| Birmingham Yardley | Jess Phillips MP | 3083 |
 | Bishop Auckland | Sam Rushworth MP | 6162 |
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3766 |
@@ -95,7 +95,7 @@
 | Calder Valley | Josh Fenton-Glynn MP | 5652 |
 | Camborne and Redruth | Perran Moon MP | 4963 |
 | Cambridge | Daniel Zeichner MP | 2211 |
-| Cannock Chase | Josh Newbury MP | 6876 |
+| Cannock Chase | Josh Newbury MP | 6877 |
 | Canterbury | Rosie Duffield MP | 4471 |
 | Carlisle | Ms Julie Minns MP | 6527 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
@@ -252,7 +252,7 @@
 | Isle of Wight West | Mr Richard Quigley MP | 4072 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
-| Jarrow and Gateshead East | Kate Osborne MP | 5081 |
+| Jarrow and Gateshead East | Kate Osborne MP | 5084 |
 | Keighley and Ilkley | Robbie Moore MP | 4690 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6100 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
@@ -296,7 +296,7 @@
 | Maidenhead | Mr Joshua Reynolds MP | 5282 |
 | Maidstone and Malling | Helen Grant MP | 5841 |
 | Makerfield | Josh Simons MP | 5872 |
-| Maldon | Rt Hon Sir John Whittingdale MP | 8111 |
+| Maldon | Rt Hon Sir John Whittingdale MP | 8112 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3994 |
 | Manchester Rusholme | Afzal Khan MP | 1216 |
 | Manchester Withington | Jeff Smith MP | 1670 |
@@ -322,7 +322,7 @@
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5249 |
 | Newark | Rt Hon Robert Jenrick MP | 7159 |
 | Newbury | Mr Lee Dillon MP | 4888 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4499 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4500 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4749 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3951 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5068 |
@@ -531,7 +531,7 @@
 | Whitehaven and Workington | Josh MacAlister MP | 5845 |
 | Widnes and Halewood | Derek Twigg MP | 4231 |
 | Wigan | Rt Hon Lisa Nandy MP | 5944 |
-| Wimbledon | Mr Paul Kohler MP | 3409 |
+| Wimbledon | Mr Paul Kohler MP | 3410 |
 | Winchester | Dr Danny Chambers MP | 4918 |
 | Windsor | Jack Rankin MP | 5111 |
 | Wirral West | Matthew Patrick MP | 4205 |
@@ -609,7 +609,7 @@
 | Hamilton and Clyde Valley | Imogen Walker MP | 3134 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2748 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3617 |
-| Livingston | Gregor Poynton MP | 3397 |
+| Livingston | Gregor Poynton MP | 3398 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2856 |
 | Mid Dunbartonshire | Susan Murray MP | 2523 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3934 |
