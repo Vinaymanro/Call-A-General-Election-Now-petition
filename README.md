@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991086                                |
-| Last Updated      | 2025-03-08 20:14:12 UTC                                    |
+| Total Signatures   | 2991092                                |
+| Last Updated      | 2025-03-08 21:14:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -124,7 +124,7 @@
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5028 |
 | Congleton | Mrs Sarah Russell MP | 5973 |
-| Corby and East Northamptonshire | Lee Barron MP | 6001 |
+| Corby and East Northamptonshire | Lee Barron MP | 6002 |
 | Coventry East | Mary Creagh MP | 3589 |
 | Coventry North West | Taiwo Owatemi MP | 4250 |
 | Coventry South | Zarah Sultana MP | 3513 |
@@ -146,7 +146,7 @@
 | Doncaster Central | Sally Jameson MP | 4934 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6074 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5559 |
-| Dorking and Horley | Chris Coghlan MP | 5554 |
+| Dorking and Horley | Chris Coghlan MP | 5555 |
 | Dover and Deal | Mike Tapp MP | 5922 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6558 |
 | Dudley | Sonia Kumar MP | 5384 |
@@ -257,7 +257,7 @@
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6100 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
 | Kettering | Rosie Wrighting MP | 5903 |
-| Kingston and Surbiton | Rt Hon Ed Davey MP | 3746 |
+| Kingston and Surbiton | Rt Hon Ed Davey MP | 3747 |
 | Kingston upon Hull East | Karl Turner MP | 4994 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4637 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5491 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5204 |
 | South West Norfolk | Terry Jermy MP | 6522 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5201 |
-| Southampton Itchen | Darren Paffey MP | 4541 |
+| Southampton Itchen | Darren Paffey MP | 4543 |
 | Southampton Test | Satvir Kaur MP | 3402 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5575 |
 | Southend West and Leigh | David Burton-Sampson MP | 5874 |
@@ -490,7 +490,7 @@
 | Tewkesbury | Cameron Thomas MP | 5011 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7430 |
-| Thornbury and Yate | Claire Young MP | 5692 |
+| Thornbury and Yate | Claire Young MP | 5693 |
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4910 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5952 |
