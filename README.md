@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991055                                |
-| Last Updated      | 2025-03-08 15:13:52 UTC                                    |
+| Total Signatures   | 2991059                                |
+| Last Updated      | 2025-03-08 16:16:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -104,7 +104,7 @@
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5301 |
 | Chatham and Aylesford | Tristan Osborne MP | 5626 |
 | Cheadle | Tom Morrison MP | 4662 |
-| Chelmsford | Marie Goldman MP | 5267 |
+| Chelmsford | Marie Goldman MP | 5268 |
 | Chelsea and Fulham | Ben Coleman MP | 5486 |
 | Cheltenham | Max Wilkinson MP | 4027 |
 | Chesham and Amersham | Sarah Green MP | 4940 |
@@ -284,7 +284,7 @@
 | Lincoln | Mr Hamish Falconer MP | 4643 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3125 |
 | Liverpool Riverside | Kim Johnson MP | 2634 |
-| Liverpool Walton | Dan Carden MP | 3352 |
+| Liverpool Walton | Dan Carden MP | 3353 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
 | Liverpool West Derby | Ian Byrne MP | 3049 |
 | Loughborough | Dr Jeevun Sandher MP | 4476 |
@@ -361,7 +361,7 @@
 | Nuneaton | Jodie Gosling MP | 5548 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4080 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4081 |
 | Orpington | Gareth Bacon MP | 5307 |
 | Ossett and Denby Dale | Jade Botterill MP | 5793 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
@@ -612,7 +612,7 @@
 | Livingston | Gregor Poynton MP | 3398 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2856 |
 | Mid Dunbartonshire | Susan Murray MP | 2523 |
-| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3934 |
+| Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3935 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2729 |
 | North East Fife | Wendy Chamberlain MP | 2902 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2856 |
