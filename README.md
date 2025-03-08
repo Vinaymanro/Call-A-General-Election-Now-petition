@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991102                                |
-| Last Updated      | 2025-03-08 22:13:11 UTC                                    |
+| Total Signatures   | 2991108                                |
+| Last Updated      | 2025-03-08 23:14:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5449 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5800 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5500 |
-| Amber Valley | Linsey Farnsworth MP | 6082 |
+| Amber Valley | Linsey Farnsworth MP | 6083 |
 | Arundel and South Downs | Andrew Griffith MP | 6956 |
 | Ashfield | Lee Anderson MP | 6159 |
 | Ashford | Sojan Joseph MP | 5888 |
@@ -130,7 +130,7 @@
 | Coventry South | Zarah Sultana MP | 3513 |
 | Cramlington and Killingworth | Emma Foody MP | 5798 |
 | Crawley | Peter Lamb MP | 4712 |
-| Crewe and Nantwich | Connor Naismith MP | 5688 |
+| Crewe and Nantwich | Connor Naismith MP | 5689 |
 | Croydon East | Natasha Irons MP | 3335 |
 | Croydon South | Rt Hon Chris Philp MP | 3956 |
 | Croydon West | Sarah Jones MP | 1743 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4154 |
 | Plymouth Moor View | Fred Thomas MP | 5677 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4744 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5442 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5443 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
 | Poplar and Limehouse | Apsana Begum MP | 2921 |
 | Portsmouth North | Amanda Martin MP | 5612 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6167 |
 | South Devon | Caroline Voaden MP | 5320 |
 | South Dorset | Lloyd Hatton MP | 5654 |
-| South East Cornwall | Anna Gelderd MP | 6237 |
+| South East Cornwall | Anna Gelderd MP | 6238 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7132 |
 | South Leicestershire | Alberto Costa MP | 6984 |
 | South Norfolk | Ben Goldsborough MP | 5440 |
@@ -616,7 +616,7 @@
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2729 |
 | North East Fife | Wendy Chamberlain MP | 2902 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2856 |
-| Paisley and Renfrewshire South | Johanna Baxter MP | 2643 |
+| Paisley and Renfrewshire South | Johanna Baxter MP | 2644 |
 | Perth and Kinross-shire | Pete Wishart MP | 3503 |
 | Rutherglen | Michael Shanks MP | 2573 |
 | Stirling and Strathallan | Chris Kane MP | 3219 |
@@ -629,7 +629,7 @@
 | Aberafan Maesteg | Stephen Kinnock MP | 3683 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5748 |
 | Bangor Aberconwy | Claire Hughes MP | 4514 |
-| Blaenau Gwent and Rhymney | Nick Smith MP | 3637 |
+| Blaenau Gwent and Rhymney | Nick Smith MP | 3638 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
 | Bridgend | Chris Elmore MP | 4234 |
 | Caerfyrddin | Ann Davies MP | 5199 |
