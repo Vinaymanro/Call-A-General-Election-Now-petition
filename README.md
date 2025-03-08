@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991050                                |
-| Last Updated      | 2025-03-08 14:11:57 UTC                                    |
+| Total Signatures   | 2991055                                |
+| Last Updated      | 2025-03-08 15:13:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -107,7 +107,7 @@
 | Chelmsford | Marie Goldman MP | 5267 |
 | Chelsea and Fulham | Ben Coleman MP | 5486 |
 | Cheltenham | Max Wilkinson MP | 4027 |
-| Chesham and Amersham | Sarah Green MP | 4939 |
+| Chesham and Amersham | Sarah Green MP | 4940 |
 | Chester North and Neston | Samantha Dixon MP | 4051 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6386 |
 | Chesterfield | Mr Toby Perkins MP | 4875 |
@@ -258,7 +258,7 @@
 | Kensington and Bayswater | Joe Powell MP | 4401 |
 | Kettering | Rosie Wrighting MP | 5903 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3746 |
-| Kingston upon Hull East | Karl Turner MP | 4993 |
+| Kingston upon Hull East | Karl Turner MP | 4994 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4637 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5491 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6390 |
@@ -331,7 +331,7 @@
 | Normanton and Hemsworth | Jon Trickett MP | 5488 |
 | North Bedfordshire | Richard Fuller MP | 6101 |
 | North Cornwall | Ben Maguire MP | 6399 |
-| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6046 |
+| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6047 |
 | North Devon | Ian Roome MP | 5857 |
 | North Dorset | Simon Hoare MP | 6314 |
 | North Durham | Luke Akehurst MP | 5384 |
@@ -354,7 +354,7 @@
 | Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4963 |
 | Norwich North | Alice Macdonald MP | 4396 |
-| Norwich South | Clive Lewis MP | 3385 |
+| Norwich South | Clive Lewis MP | 3386 |
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
 | Nottingham South | Lilian Greenwood MP | 3051 |
@@ -518,7 +518,7 @@
 | Weald of Kent | Katie Lam MP | 7224 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5082 |
 | Wells and Mendip Hills | Tessa Munt MP | 5252 |
-| Welwyn Hatfield | Andrew Lewin MP | 5057 |
+| Welwyn Hatfield | Andrew Lewin MP | 5058 |
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5457 |
 | West Ham and Beckton | James Asser MP | 2151 |
