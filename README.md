@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2990981                                |
-| Last Updated      | 2025-03-08 01:05:52 UTC                                    |
+| Total Signatures   | 2990986                                |
+| Last Updated      | 2025-03-08 02:27:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -100,11 +100,11 @@
 | Carlisle | Ms Julie Minns MP | 6527 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
 | Castle Point | Rebecca Harris MP | 7523 |
-| Central Devon | Rt Hon Mel Stride MP | 5801 |
+| Central Devon | Rt Hon Mel Stride MP | 5802 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5301 |
 | Chatham and Aylesford | Tristan Osborne MP | 5626 |
 | Cheadle | Tom Morrison MP | 4662 |
-| Chelmsford | Marie Goldman MP | 5266 |
+| Chelmsford | Marie Goldman MP | 5267 |
 | Chelsea and Fulham | Ben Coleman MP | 5486 |
 | Cheltenham | Max Wilkinson MP | 4027 |
 | Chesham and Amersham | Sarah Green MP | 4939 |
@@ -321,7 +321,7 @@
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5416 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5248 |
 | Newark | Rt Hon Robert Jenrick MP | 7159 |
-| Newbury | Mr Lee Dillon MP | 4887 |
+| Newbury | Mr Lee Dillon MP | 4888 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4499 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4749 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3951 |
@@ -393,7 +393,7 @@
 | Richmond Park | Sarah Olney MP | 4059 |
 | Rochdale | Paul Waugh MP | 3950 |
 | Rochester and Strood | Lauren Edwards MP | 6019 |
-| Romford | Andrew Rosindell MP | 5785 |
+| Romford | Andrew Rosindell MP | 5786 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5068 |
 | Rossendale and Darwen | Andy MacNae MP | 6487 |
 | Rother Valley | Jake Richards MP | 5852 |
@@ -572,7 +572,7 @@
 | East Renfrewshire | Blair McDougall MP | 2590 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
 | Midlothian | Kirsty McNeill MP | 2793 |
-| North Ayrshire and Arran | Irene Campbell MP | 3291 |
+| North Ayrshire and Arran | Irene Campbell MP | 3292 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1440 |
 | Aberdeen North | Kirsty Blackman MP | 3550 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3841 |
