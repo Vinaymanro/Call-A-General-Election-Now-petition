@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991069                                |
-| Last Updated      | 2025-03-08 18:18:35 UTC                                    |
+| Total Signatures   | 2991080                                |
+| Last Updated      | 2025-03-08 19:12:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -77,7 +77,7 @@
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3931 |
 | Brighton Pavilion | Siân Berry MP | 2732 |
 | Bristol Central | Carla Denyer MP | 1615 |
-| Bristol East | Kerry McCarthy MP | 2978 |
+| Bristol East | Kerry McCarthy MP | 2980 |
 | Bristol North East | Damien Egan MP | 3080 |
 | Bristol North West | Rt Hon Darren Jones MP | 3206 |
 | Bristol South | Karin Smyth MP | 3961 |
@@ -173,7 +173,7 @@
 | Enfield North | Feryal Clark MP | 2887 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
 | Epsom and Ewell | Helen Maguire MP | 4925 |
-| Erewash | Adam Thompson MP | 5821 |
+| Erewash | Adam Thompson MP | 5822 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4824 |
 | Exeter | Steve Race MP | 3173 |
@@ -275,13 +275,13 @@
 | Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3462 |
 | Leigh and Atherton | Jo Platt MP | 6071 |
-| Lewes | James MacCleary MP | 4899 |
+| Lewes | James MacCleary MP | 4900 |
 | Lewisham East | Janet Daby MP | 2146 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1586 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1879 |
 | Lichfield | Dave Robertson MP | 6474 |
-| Lincoln | Mr Hamish Falconer MP | 4643 |
+| Lincoln | Mr Hamish Falconer MP | 4644 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3125 |
 | Liverpool Riverside | Kim Johnson MP | 2634 |
 | Liverpool Walton | Dan Carden MP | 3353 |
@@ -294,7 +294,7 @@
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2944 |
 | Macclesfield | Tim Roca MP | 5400 |
 | Maidenhead | Mr Joshua Reynolds MP | 5282 |
-| Maidstone and Malling | Helen Grant MP | 5841 |
+| Maidstone and Malling | Helen Grant MP | 5842 |
 | Makerfield | Josh Simons MP | 5873 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8112 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3994 |
@@ -350,7 +350,7 @@
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5728 |
 | North West Leicestershire | Amanda Hack MP | 6695 |
-| North West Norfolk | James Wild MP | 5757 |
+| North West Norfolk | James Wild MP | 5759 |
 | Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4963 |
 | Norwich North | Alice Macdonald MP | 4396 |
@@ -463,8 +463,8 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5342 |
 | Stevenage | Kevin Bonavia MP | 4737 |
 | Stockport | Navendu Mishra MP | 3911 |
-| Stockton North | Chris McDonald MP | 4837 |
-| Stockton West | Matt Vickers MP | 5988 |
+| Stockton North | Chris McDonald MP | 4838 |
+| Stockton West | Matt Vickers MP | 5989 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4728 |
 | Stoke-on-Trent North | David Williams MP | 5451 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5727 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5457 |
 | West Ham and Beckton | James Asser MP | 2151 |
-| West Lancashire | Ashley Dalton MP | 5055 |
+| West Lancashire | Ashley Dalton MP | 5056 |
 | West Suffolk | Nick Timothy MP | 6035 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6258 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
