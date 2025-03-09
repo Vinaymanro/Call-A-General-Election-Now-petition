@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991195                                |
-| Last Updated      | 2025-03-09 17:11:55 UTC                                    |
+| Total Signatures   | 2991204                                |
+| Last Updated      | 2025-03-09 18:18:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -15,7 +15,7 @@
 | Arundel and South Downs | Andrew Griffith MP | 6956 |
 | Ashfield | Lee Anderson MP | 6159 |
 | Ashford | Sojan Joseph MP | 5889 |
-| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4586 |
+| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4587 |
 | Aylesbury | Laura Kyrke-Smith MP | 4864 |
 | Banbury | Sean Woodcock MP | 5452 |
 | Barking | Nesil Caliskan MP | 2632 |
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4408 |
 | Bolton West | Phil Brickell MP | 5577 |
 | Bootle | Peter Dowd MP | 3148 |
-| Boston and Skegness | Richard Tice MP | 7079 |
+| Boston and Skegness | Richard Tice MP | 7080 |
 | Bournemouth East | Tom Hayes MP | 4659 |
 | Bournemouth West | Jessica Toale MP | 4910 |
 | Bracknell | Peter Swallow MP | 4970 |
@@ -122,7 +122,7 @@
 | Clacton | Nigel Farage MP | 8079 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
-| Colne Valley | Paul Davies MP | 5028 |
+| Colne Valley | Paul Davies MP | 5029 |
 | Congleton | Mrs Sarah Russell MP | 5974 |
 | Corby and East Northamptonshire | Lee Barron MP | 6002 |
 | Coventry East | Mary Creagh MP | 3589 |
@@ -197,7 +197,7 @@
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6957 |
 | Gorton and Denton | Andrew Gwynne MP | 3274 |
-| Gosport | Dame Caroline Dinenage MP | 5472 |
+| Gosport | Dame Caroline Dinenage MP | 5473 |
 | Grantham and Bourne | Gareth Davies MP | 6325 |
 | Gravesham | Dr Lauren Sullivan MP | 5144 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5795 |
@@ -258,8 +258,8 @@
 | Kensington and Bayswater | Joe Powell MP | 4402 |
 | Kettering | Rosie Wrighting MP | 5905 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3747 |
-| Kingston upon Hull East | Karl Turner MP | 4994 |
-| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4637 |
+| Kingston upon Hull East | Karl Turner MP | 4995 |
+| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4638 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5491 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6390 |
 | Knowsley | Anneliese Midgley MP | 3276 |
@@ -302,7 +302,7 @@
 | Manchester Withington | Jeff Smith MP | 1670 |
 | Mansfield | Steve Yemm MP | 6195 |
 | Melksham and Devizes | Brian Mathew MP | 5011 |
-| Melton and Syston | Rt Hon Edward Argar MP | 6111 |
+| Melton and Syston | Rt Hon Edward Argar MP | 6112 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6077 |
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
@@ -332,7 +332,7 @@
 | North Bedfordshire | Richard Fuller MP | 6101 |
 | North Cornwall | Ben Maguire MP | 6399 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6047 |
-| North Devon | Ian Roome MP | 5857 |
+| North Devon | Ian Roome MP | 5858 |
 | North Dorset | Simon Hoare MP | 6314 |
 | North Durham | Luke Akehurst MP | 5384 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6071 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6193 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5441 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6186 |
-| Peterborough | Andrew Pakes MP | 4154 |
+| Peterborough | Andrew Pakes MP | 4155 |
 | Plymouth Moor View | Fred Thomas MP | 5677 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4744 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5443 |
