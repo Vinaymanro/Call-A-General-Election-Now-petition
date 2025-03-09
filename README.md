@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991184                                |
-| Last Updated      | 2025-03-09 15:15:47 UTC                                    |
+| Total Signatures   | 2991189                                |
+| Last Updated      | 2025-03-09 16:17:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -342,7 +342,7 @@
 | North East Somerset and Hanham | Dan Norris MP | 5045 |
 | North Herefordshire | Ellie Chowns MP | 6468 |
 | North Norfolk | Steff Aquarone MP | 5437 |
-| North Northumberland | David Smith MP | 6431 |
+| North Northumberland | David Smith MP | 6432 |
 | North Shropshire | Helen Morgan MP | 6877 |
 | North Somerset | Sadik Al-Hassan MP | 4582 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6266 |
@@ -430,7 +430,7 @@
 | South Cotswolds | Dr Roz Savage MP | 5715 |
 | South Derbyshire | Samantha Niblett MP | 6167 |
 | South Devon | Caroline Voaden MP | 5321 |
-| South Dorset | Lloyd Hatton MP | 5655 |
+| South Dorset | Lloyd Hatton MP | 5656 |
 | South East Cornwall | Anna Gelderd MP | 6238 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7132 |
 | South Leicestershire | Alberto Costa MP | 6985 |
@@ -482,7 +482,7 @@
 | Sutton and Cheam | Luke Taylor MP | 4389 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5671 |
 | Swindon North | Will Stone MP | 4895 |
-| Swindon South | Rt Hon Heidi Alexander MP | 4205 |
+| Swindon South | Rt Hon Heidi Alexander MP | 4206 |
 | Tamworth | Sarah Edwards MP | 6942 |
 | Tatton | Rt Hon Esther McVey MP | 6498 |
 | Taunton and Wellington | Gideon Amos MP | 5171 |
@@ -507,7 +507,7 @@
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1675 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4914 |
 | Wallasey | Dame Angela Eagle MP | 4066 |
-| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4002 |
+| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4003 |
 | Walthamstow | Ms Stella Creasy MP | 1317 |
 | Warrington North | Charlotte Nichols MP | 5149 |
 | Warrington South | Sarah Hall MP | 5561 |
@@ -650,7 +650,7 @@
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6041 |
 | Neath and Swansea East | Carolyn Harris MP | 4437 |
 | Newport East | Jessica Morden MP | 4005 |
-| Newport West and Islwyn | Ruth Jones MP | 4045 |
+| Newport West and Islwyn | Ruth Jones MP | 4046 |
 | Pontypridd | Alex Davies-Jones MP | 3902 |
 | Rhondda and Ogmore | Chris Bryant MP | 4030 |
 | Swansea West | Torsten Bell MP | 3650 |
