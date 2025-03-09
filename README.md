@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991118                                |
-| Last Updated      | 2025-03-09 03:16:31 UTC                                    |
+| Total Signatures   | 2991119                                |
+| Last Updated      | 2025-03-09 04:16:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -445,7 +445,7 @@
 | South West Norfolk | Terry Jermy MP | 6522 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5201 |
 | Southampton Itchen | Darren Paffey MP | 4543 |
-| Southampton Test | Satvir Kaur MP | 3402 |
+| Southampton Test | Satvir Kaur MP | 3403 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5575 |
 | Southend West and Leigh | David Burton-Sampson MP | 5874 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2586 |
