@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991214                                |
-| Last Updated      | 2025-03-09 20:16:58 UTC                                    |
+| Total Signatures   | 2991222                                |
+| Last Updated      | 2025-03-09 21:14:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -40,7 +40,7 @@
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2949 |
 | Birmingham Erdington | Paulette Hamilton MP | 4235 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1578 |
-| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3481 |
+| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3482 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1897 |
 | Birmingham Northfield | Laurence Turner MP | 4891 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1719 |
@@ -159,7 +159,7 @@
 | Easington | Grahame Morris MP | 5729 |
 | East Grinstead and Uckfield | Mims Davies MP | 6032 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
-| East Hampshire | Rt Hon Damian Hinds MP | 5332 |
+| East Hampshire | Rt Hon Damian Hinds MP | 5333 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6024 |
 | East Thanet | Ms Polly Billington MP | 5475 |
 | East Wiltshire | Danny Kruger MP | 6064 |
@@ -183,7 +183,7 @@
 | Faversham and Mid Kent | Helen Whately MP | 6222 |
 | Feltham and Heston | Seema Malhotra MP | 2919 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4506 |
-| Finchley and Golders Green | Sarah Sackman MP | 4282 |
+| Finchley and Golders Green | Sarah Sackman MP | 4283 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5390 |
 | Forest of Dean | Matt Bishop MP | 5267 |
 | Frome and East Somerset | Anna Sabine MP | 4328 |
@@ -303,10 +303,10 @@
 | Mansfield | Steve Yemm MP | 6195 |
 | Melksham and Devizes | Brian Mathew MP | 5011 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6112 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6077 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6078 |
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
-| Mid Cheshire | Andrew Cooper MP | 5166 |
+| Mid Cheshire | Andrew Cooper MP | 5167 |
 | Mid Derbyshire | Jonathan Davies MP | 5229 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5879 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5592 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4155 |
 | Plymouth Moor View | Fred Thomas MP | 5677 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4744 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5443 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5444 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
 | Poplar and Limehouse | Apsana Begum MP | 2921 |
 | Portsmouth North | Amanda Martin MP | 5612 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 5997 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5078 |
 | Sefton Central | Bill Esterson MP | 4014 |
-| Selby | Keir Mather MP | 6366 |
+| Selby | Keir Mather MP | 6367 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6665 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3422 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
@@ -597,7 +597,7 @@
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
 | Edinburgh South West | Dr Scott Arthur MP | 2258 |
 | Edinburgh West | Christine Jardine MP | 2712 |
-| Falkirk | Euan Stainbank MP | 3433 |
+| Falkirk | Euan Stainbank MP | 3434 |
 | Glasgow East | John Grady MP | 2313 |
 | Glasgow North | Martin Rhodes MP | 2036 |
 | Glasgow North East | Maureen Burke MP | 2475 |
