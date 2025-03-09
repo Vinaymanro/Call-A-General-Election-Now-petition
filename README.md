@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991222                                |
-| Last Updated      | 2025-03-09 21:14:28 UTC                                    |
+| Total Signatures   | 2991230                                |
+| Last Updated      | 2025-03-09 22:14:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2702 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1725 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6154 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6132 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6133 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5047 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
 | Birkenhead | Alison McGovern MP | 4314 |
@@ -178,7 +178,7 @@
 | Esher and Walton | Monica Harding MP | 4825 |
 | Exeter | Steve Race MP | 3173 |
 | Exmouth and Exeter East | David Reed MP | 5204 |
-| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6120 |
+| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6121 |
 | Farnham and Bordon | Gregory Stafford MP | 5187 |
 | Faversham and Mid Kent | Helen Whately MP | 6222 |
 | Feltham and Heston | Seema Malhotra MP | 2919 |
@@ -193,7 +193,7 @@
 | Gedling | Michael Payne MP | 5053 |
 | Gillingham and Rainham | Naushabah Khan MP | 5049 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5588 |
-| Gloucester | Alex McIntyre MP | 4535 |
+| Gloucester | Alex McIntyre MP | 4536 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6957 |
 | Gorton and Denton | Andrew Gwynne MP | 3274 |
@@ -271,7 +271,7 @@
 | Leeds South | Rt Hon Hilary Benn MP | 3872 |
 | Leeds South West and Morley | Mark Sewards MP | 5490 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3783 |
-| Leicester East | Shivani Raja MP | 1881 |
+| Leicester East | Shivani Raja MP | 1882 |
 | Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3462 |
 | Leigh and Atherton | Jo Platt MP | 6072 |
@@ -319,7 +319,7 @@
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5763 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5416 |
-| New Forest West | Rt Hon Sir Desmond Swayne MP | 5249 |
+| New Forest West | Rt Hon Sir Desmond Swayne MP | 5250 |
 | Newark | Rt Hon Robert Jenrick MP | 7159 |
 | Newbury | Mr Lee Dillon MP | 4888 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4500 |
@@ -368,7 +368,7 @@
 | Oxford West and Abingdon | Layla Moran MP | 2927 |
 | Peckham | Miatta Fahnbulleh MP | 1356 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6193 |
-| Penistone and Stocksbridge | Dr Marie Tidball MP | 5441 |
+| Penistone and Stocksbridge | Dr Marie Tidball MP | 5442 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6186 |
 | Peterborough | Andrew Pakes MP | 4155 |
 | Plymouth Moor View | Fred Thomas MP | 5677 |
@@ -494,7 +494,7 @@
 | Thurrock | Jen Craft MP | 5111 |
 | Tipton and Wednesbury | Antonia Bance MP | 4911 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5952 |
-| Tonbridge | Rt Hon Tom Tugendhat MP | 5950 |
+| Tonbridge | Rt Hon Tom Tugendhat MP | 5951 |
 | Tooting | Dr Rosena Allin-Khan MP | 2691 |
 | Torbay | Steve Darling MP | 5824 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6576 |
@@ -615,7 +615,7 @@
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3935 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2729 |
 | North East Fife | Wendy Chamberlain MP | 2902 |
-| Paisley and Renfrewshire North | Alison Taylor MP | 2856 |
+| Paisley and Renfrewshire North | Alison Taylor MP | 2857 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2644 |
 | Perth and Kinross-shire | Pete Wishart MP | 3503 |
 | Rutherglen | Michael Shanks MP | 2573 |
