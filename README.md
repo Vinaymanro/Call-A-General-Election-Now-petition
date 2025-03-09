@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991189                                |
-| Last Updated      | 2025-03-09 16:17:01 UTC                                    |
+| Total Signatures   | 2991195                                |
+| Last Updated      | 2025-03-09 17:11:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -118,7 +118,7 @@
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5497 |
 | Christchurch | Sir Christopher Chope MP | 5849 |
 | Cities of London and Westminster | Rachel Blake MP | 5173 |
-| City of Durham | Mary Kelly Foy MP | 4249 |
+| City of Durham | Mary Kelly Foy MP | 4250 |
 | Clacton | Nigel Farage MP | 8079 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
@@ -207,7 +207,7 @@
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1519 |
 | Halesowen | Alex Ballinger MP | 4990 |
-| Halifax | Kate Dearden MP | 4746 |
+| Halifax | Kate Dearden MP | 4748 |
 | Hamble Valley | Paul Holmes MP | 6138 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3196 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
@@ -236,7 +236,7 @@
 | Hinckley and Bosworth | Dr Luke Evans MP | 6484 |
 | Hitchin | Alistair Strathern MP | 4917 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2278 |
-| Honiton and Sidmouth | Richard Foord MP | 5251 |
+| Honiton and Sidmouth | Richard Foord MP | 5252 |
 | Hornchurch and Upminster | Julia Lopez MP | 6606 |
 | Hornsey and Friern Barnet | Catherine West MP | 1938 |
 | Horsham | John Milne MP | 5830 |
@@ -404,7 +404,7 @@
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5831 |
 | Rushcliffe | James Naish MP | 5074 |
 | Rutland and Stamford | Alicia Kearns MP | 6258 |
-| Salford | Rebecca Long Bailey MP | 4660 |
+| Salford | Rebecca Long Bailey MP | 4662 |
 | Salisbury | Rt Hon John Glen MP | 4748 |
 | Scarborough and Whitby | Alison Hume MP | 5997 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5078 |
