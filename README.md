@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991108                                |
-| Last Updated      | 2025-03-08 23:14:43 UTC                                    |
+| Total Signatures   | 2991113                                |
+| Last Updated      | 2025-03-09 01:11:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -216,9 +216,9 @@
 | Harpenden and Berkhamsted | Victoria Collins MP | 4537 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5113 |
 | Harrow East | Bob Blackman MP | 3130 |
-| Harrow West | Gareth Thomas MP | 2402 |
+| Harrow West | Gareth Thomas MP | 2403 |
 | Hartlepool | Mr Jonathan Brash MP | 5645 |
-| Harwich and North Essex | Sir Bernard Jenkin MP | 6272 |
+| Harwich and North Essex | Sir Bernard Jenkin MP | 6273 |
 | Hastings and Rye | Helena Dollimore MP | 5067 |
 | Havant | Alan Mak MP | 5651 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2593 |
@@ -274,14 +274,14 @@
 | Leicester East | Shivani Raja MP | 1881 |
 | Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3462 |
-| Leigh and Atherton | Jo Platt MP | 6071 |
+| Leigh and Atherton | Jo Platt MP | 6072 |
 | Lewes | James MacCleary MP | 4900 |
 | Lewisham East | Janet Daby MP | 2146 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1586 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1879 |
 | Lichfield | Dave Robertson MP | 6474 |
-| Lincoln | Mr Hamish Falconer MP | 4644 |
+| Lincoln | Mr Hamish Falconer MP | 4645 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3125 |
 | Liverpool Riverside | Kim Johnson MP | 2634 |
 | Liverpool Walton | Dan Carden MP | 3353 |
@@ -643,7 +643,7 @@
 | Clwyd North | Gill German MP | 5445 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4228 |
 | Gower | Tonia Antoniazzi MP | 4757 |
-| Llanelli | Dame Nia Griffith MP | 5245 |
+| Llanelli | Dame Nia Griffith MP | 5246 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3706 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5481 |
 | Monmouthshire | Catherine Fookes MP | 4733 |
