@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991125                                |
-| Last Updated      | 2025-03-09 08:18:07 UTC                                    |
+| Total Signatures   | 2991132                                |
+| Last Updated      | 2025-03-09 09:13:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1577 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3481 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1897 |
-| Birmingham Northfield | Laurence Turner MP | 4890 |
+| Birmingham Northfield | Laurence Turner MP | 4891 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1719 |
 | Birmingham Selly Oak | Al Carns MP | 3291 |
 | Birmingham Yardley | Jess Phillips MP | 3083 |
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5849 |
 | Cities of London and Westminster | Rachel Blake MP | 5173 |
 | City of Durham | Mary Kelly Foy MP | 4249 |
-| Clacton | Nigel Farage MP | 8078 |
+| Clacton | Nigel Farage MP | 8079 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5028 |
@@ -436,7 +436,7 @@
 | South Leicestershire | Alberto Costa MP | 6984 |
 | South Norfolk | Ben Goldsborough MP | 5440 |
 | South Northamptonshire | Sarah Bool MP | 6669 |
-| South Ribble | Mr Paul Foster MP | 5897 |
+| South Ribble | Mr Paul Foster MP | 5898 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4715 |
 | South Shropshire | Stuart Anderson MP | 7320 |
 | South Suffolk | James Cartlidge MP | 6147 |
@@ -485,7 +485,7 @@
 | Swindon South | Rt Hon Heidi Alexander MP | 4205 |
 | Tamworth | Sarah Edwards MP | 6942 |
 | Tatton | Rt Hon Esther McVey MP | 6498 |
-| Taunton and Wellington | Gideon Amos MP | 5170 |
+| Taunton and Wellington | Gideon Amos MP | 5171 |
 | Telford | Shaun Davies MP | 5581 |
 | Tewkesbury | Cameron Thomas MP | 5011 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5068 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6573 |
 | Whitehaven and Workington | Josh MacAlister MP | 5845 |
-| Widnes and Halewood | Derek Twigg MP | 4231 |
+| Widnes and Halewood | Derek Twigg MP | 4232 |
 | Wigan | Rt Hon Lisa Nandy MP | 5944 |
 | Wimbledon | Mr Paul Kohler MP | 3410 |
 | Winchester | Dr Danny Chambers MP | 4918 |
@@ -546,7 +546,7 @@
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5247 |
 | Wycombe | Emma Reynolds MP | 3612 |
-| Wyre Forest | Mark Garnier MP | 6480 |
+| Wyre Forest | Mark Garnier MP | 6481 |
 | Wythenshawe and Sale East | Mike Kane MP | 4599 |
 | Yeovil | Adam Dance MP | 5599 |
 | York Central | Rachael Maskell MP | 3276 |
@@ -624,7 +624,7 @@
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3550 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4022 |
 | Central Ayrshire | Alan Gemmell MP | 3131 |
-| Kilmarnock and Loudoun | Lillian Jones MP | 3251 |
+| Kilmarnock and Loudoun | Lillian Jones MP | 3252 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3683 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5748 |
