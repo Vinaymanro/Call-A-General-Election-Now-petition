@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991116                                |
-| Last Updated      | 2025-03-09 02:32:03 UTC                                    |
+| Total Signatures   | 2991118                                |
+| Last Updated      | 2025-03-09 03:16:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5113 |
 | Harrow East | Bob Blackman MP | 3130 |
 | Harrow West | Gareth Thomas MP | 2403 |
-| Hartlepool | Mr Jonathan Brash MP | 5645 |
+| Hartlepool | Mr Jonathan Brash MP | 5646 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6273 |
 | Hastings and Rye | Helena Dollimore MP | 5067 |
 | Havant | Alan Mak MP | 5651 |
@@ -547,7 +547,7 @@
 | Worthing West | Dr Beccy Cooper MP | 5247 |
 | Wycombe | Emma Reynolds MP | 3612 |
 | Wyre Forest | Mark Garnier MP | 6480 |
-| Wythenshawe and Sale East | Mike Kane MP | 4598 |
+| Wythenshawe and Sale East | Mike Kane MP | 4599 |
 | Yeovil | Adam Dance MP | 5599 |
 | York Central | Rachael Maskell MP | 3276 |
 | York Outer | Mr Luke Charters MP | 4346 |
