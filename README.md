@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991211                                |
-| Last Updated      | 2025-03-09 19:10:33 UTC                                    |
+| Total Signatures   | 2991214                                |
+| Last Updated      | 2025-03-09 20:16:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -324,7 +324,7 @@
 | Newbury | Mr Lee Dillon MP | 4888 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4500 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4749 |
-| Newcastle upon Tyne North | Catherine McKinnell MP | 3951 |
+| Newcastle upon Tyne North | Catherine McKinnell MP | 3952 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5068 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5530 |
@@ -390,7 +390,7 @@
 | Reigate | Rebecca Paul MP | 5550 |
 | Ribble Valley | Maya Ellis MP | 6707 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7102 |
-| Richmond Park | Sarah Olney MP | 4059 |
+| Richmond Park | Sarah Olney MP | 4060 |
 | Rochdale | Paul Waugh MP | 3950 |
 | Rochester and Strood | Lauren Edwards MP | 6019 |
 | Romford | Andrew Rosindell MP | 5786 |
@@ -518,7 +518,7 @@
 | Weald of Kent | Katie Lam MP | 7225 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5082 |
 | Wells and Mendip Hills | Tessa Munt MP | 5253 |
-| Welwyn Hatfield | Andrew Lewin MP | 5058 |
+| Welwyn Hatfield | Andrew Lewin MP | 5059 |
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5457 |
 | West Ham and Beckton | James Asser MP | 2151 |
