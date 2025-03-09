@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991120                                |
-| Last Updated      | 2025-03-09 07:12:59 UTC                                    |
+| Total Signatures   | 2991125                                |
+| Last Updated      | 2025-03-09 08:18:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5028 |
-| Congleton | Mrs Sarah Russell MP | 5973 |
+| Congleton | Mrs Sarah Russell MP | 5974 |
 | Corby and East Northamptonshire | Lee Barron MP | 6002 |
 | Coventry East | Mary Creagh MP | 3589 |
 | Coventry North West | Taiwo Owatemi MP | 4250 |
@@ -256,7 +256,7 @@
 | Keighley and Ilkley | Robbie Moore MP | 4690 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6100 |
 | Kensington and Bayswater | Joe Powell MP | 4401 |
-| Kettering | Rosie Wrighting MP | 5903 |
+| Kettering | Rosie Wrighting MP | 5905 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3747 |
 | Kingston upon Hull East | Karl Turner MP | 4994 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4637 |
@@ -443,7 +443,7 @@
 | South West Devon | Rebecca Smith MP | 5971 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5205 |
 | South West Norfolk | Terry Jermy MP | 6522 |
-| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5201 |
+| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5202 |
 | Southampton Itchen | Darren Paffey MP | 4543 |
 | Southampton Test | Satvir Kaur MP | 3403 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5575 |
@@ -500,7 +500,7 @@
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6576 |
 | Tottenham | Rt Hon David Lammy MP | 1685 |
 | Truro and Falmouth | Jayne Kirkham MP | 4603 |
-| Tunbridge Wells | Mike Martin MP | 5457 |
+| Tunbridge Wells | Mike Martin MP | 5458 |
 | Twickenham | Munira Wilson MP | 3652 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4486 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4477 |
