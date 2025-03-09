@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991149                                |
-| Last Updated      | 2025-03-09 11:12:26 UTC                                    |
+| Total Signatures   | 2991157                                |
+| Last Updated      | 2025-03-09 12:25:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -16,8 +16,8 @@
 | Ashfield | Lee Anderson MP | 6159 |
 | Ashford | Sojan Joseph MP | 5889 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4586 |
-| Aylesbury | Laura Kyrke-Smith MP | 4863 |
-| Banbury | Sean Woodcock MP | 5451 |
+| Aylesbury | Laura Kyrke-Smith MP | 4864 |
+| Banbury | Sean Woodcock MP | 5452 |
 | Barking | Nesil Caliskan MP | 2632 |
 | Barnsley North | Dan Jarvis MP | 5675 |
 | Barnsley South | Stephanie Peacock MP | 5766 |
@@ -46,11 +46,11 @@
 | Birmingham Perry Barr | Ayoub Khan MP | 1719 |
 | Birmingham Selly Oak | Al Carns MP | 3291 |
 | Birmingham Yardley | Jess Phillips MP | 3083 |
-| Bishop Auckland | Sam Rushworth MP | 6162 |
+| Bishop Auckland | Sam Rushworth MP | 6163 |
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3766 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6149 |
-| Blackpool South | Chris Webb MP | 5807 |
+| Blackpool South | Chris Webb MP | 5808 |
 | Blaydon and Consett | Liz Twist MP | 5245 |
 | Blyth and Ashington | Ian Lavery MP | 5850 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6138 |
@@ -85,7 +85,7 @@
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
 | Bromsgrove | Bradley Thomas MP | 6474 |
 | Broxbourne | Lewis Cocking MP | 6074 |
-| Broxtowe | Juliet Campbell MP | 4710 |
+| Broxtowe | Juliet Campbell MP | 4711 |
 | Buckingham and Bletchley | Callum Anderson MP | 5255 |
 | Burnley | Oliver Ryan MP | 5723 |
 | Burton and Uttoxeter | Jacob Collier MP | 5797 |
@@ -156,7 +156,7 @@
 | Ealing North | James Murray MP | 2579 |
 | Ealing Southall | Deirdre Costigan MP | 1955 |
 | Earley and Woodley | Yuan Yang MP | 3952 |
-| Easington | Grahame Morris MP | 5728 |
+| Easington | Grahame Morris MP | 5729 |
 | East Grinstead and Uckfield | Mims Davies MP | 6032 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5332 |
@@ -341,7 +341,7 @@
 | North East Hertfordshire | Chris Hinchliff MP | 5844 |
 | North East Somerset and Hanham | Dan Norris MP | 5045 |
 | North Herefordshire | Ellie Chowns MP | 6468 |
-| North Norfolk | Steff Aquarone MP | 5435 |
+| North Norfolk | Steff Aquarone MP | 5437 |
 | North Northumberland | David Smith MP | 6431 |
 | North Shropshire | Helen Morgan MP | 6877 |
 | North Somerset | Sadik Al-Hassan MP | 4582 |
