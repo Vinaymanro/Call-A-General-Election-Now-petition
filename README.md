@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991113                                |
-| Last Updated      | 2025-03-09 01:11:26 UTC                                    |
+| Total Signatures   | 2991116                                |
+| Last Updated      | 2025-03-09 02:32:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -14,7 +14,7 @@
 | Amber Valley | Linsey Farnsworth MP | 6083 |
 | Arundel and South Downs | Andrew Griffith MP | 6956 |
 | Ashfield | Lee Anderson MP | 6159 |
-| Ashford | Sojan Joseph MP | 5888 |
+| Ashford | Sojan Joseph MP | 5889 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4585 |
 | Aylesbury | Laura Kyrke-Smith MP | 4863 |
 | Banbury | Sean Woodcock MP | 5451 |
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3125 |
 | Blackley and Middleton South | Graham Stringer MP | 3766 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6149 |
-| Blackpool South | Chris Webb MP | 5805 |
+| Blackpool South | Chris Webb MP | 5806 |
 | Blaydon and Consett | Liz Twist MP | 5244 |
 | Blyth and Ashington | Ian Lavery MP | 5850 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6138 |
@@ -156,7 +156,7 @@
 | Ealing North | James Murray MP | 2579 |
 | Ealing Southall | Deirdre Costigan MP | 1955 |
 | Earley and Woodley | Yuan Yang MP | 3952 |
-| Easington | Grahame Morris MP | 5727 |
+| Easington | Grahame Morris MP | 5728 |
 | East Grinstead and Uckfield | Mims Davies MP | 6032 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5332 |
