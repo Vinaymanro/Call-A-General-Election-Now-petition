@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991119                                |
-| Last Updated      | 2025-03-09 05:13:54 UTC                                    |
+| Total Signatures   | 2991120                                |
+| Last Updated      | 2025-03-09 06:19:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -395,7 +395,7 @@
 | Rochester and Strood | Lauren Edwards MP | 6019 |
 | Romford | Andrew Rosindell MP | 5786 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5068 |
-| Rossendale and Darwen | Andy MacNae MP | 6487 |
+| Rossendale and Darwen | Andy MacNae MP | 6488 |
 | Rother Valley | Jake Richards MP | 5852 |
 | Rotherham | Sarah Champion MP | 4945 |
 | Rugby | John Slinger MP | 5409 |
