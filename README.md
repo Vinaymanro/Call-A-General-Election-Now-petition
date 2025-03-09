@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991157                                |
-| Last Updated      | 2025-03-09 12:25:42 UTC                                    |
+| Total Signatures   | 2991165                                |
+| Last Updated      | 2025-03-09 13:15:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -102,7 +102,7 @@
 | Castle Point | Rebecca Harris MP | 7523 |
 | Central Devon | Rt Hon Mel Stride MP | 5802 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5301 |
-| Chatham and Aylesford | Tristan Osborne MP | 5626 |
+| Chatham and Aylesford | Tristan Osborne MP | 5627 |
 | Cheadle | Tom Morrison MP | 4662 |
 | Chelmsford | Marie Goldman MP | 5268 |
 | Chelsea and Fulham | Ben Coleman MP | 5486 |
@@ -166,7 +166,7 @@
 | East Worthing and Shoreham | Tom Rutland MP | 4605 |
 | Eastbourne | Josh Babarinde MP | 5038 |
 | Eastleigh | Liz Jarvis MP | 4326 |
-| Edmonton and Winchmore Hill | Kate Osamor MP | 2222 |
+| Edmonton and Winchmore Hill | Kate Osamor MP | 2223 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4438 |
 | Eltham and Chislehurst | Clive Efford MP | 4700 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5171 |
@@ -175,7 +175,7 @@
 | Epsom and Ewell | Helen Maguire MP | 4925 |
 | Erewash | Adam Thompson MP | 5822 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
-| Esher and Walton | Monica Harding MP | 4824 |
+| Esher and Walton | Monica Harding MP | 4825 |
 | Exeter | Steve Race MP | 3173 |
 | Exmouth and Exeter East | David Reed MP | 5204 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6120 |
@@ -239,9 +239,9 @@
 | Honiton and Sidmouth | Richard Foord MP | 5251 |
 | Hornchurch and Upminster | Julia Lopez MP | 6606 |
 | Hornsey and Friern Barnet | Catherine West MP | 1938 |
-| Horsham | John Milne MP | 5829 |
+| Horsham | John Milne MP | 5830 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6299 |
-| Hove and Portslade | Rt Hon Peter Kyle MP | 3328 |
+| Hove and Portslade | Rt Hon Peter Kyle MP | 3329 |
 | Huddersfield | Harpreet Uppal MP | 3678 |
 | Huntingdon | Ben Obese-Jecty MP | 5553 |
 | Hyndburn | Sarah Smith MP | 4998 |
@@ -369,7 +369,7 @@
 | Peckham | Miatta Fahnbulleh MP | 1356 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6193 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5441 |
-| Penrith and Solway | Markus Campbell-Savours MP | 6185 |
+| Penrith and Solway | Markus Campbell-Savours MP | 6186 |
 | Peterborough | Andrew Pakes MP | 4154 |
 | Plymouth Moor View | Fred Thomas MP | 5677 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4744 |
@@ -430,10 +430,10 @@
 | South Cotswolds | Dr Roz Savage MP | 5715 |
 | South Derbyshire | Samantha Niblett MP | 6167 |
 | South Devon | Caroline Voaden MP | 5320 |
-| South Dorset | Lloyd Hatton MP | 5654 |
+| South Dorset | Lloyd Hatton MP | 5655 |
 | South East Cornwall | Anna Gelderd MP | 6238 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7132 |
-| South Leicestershire | Alberto Costa MP | 6984 |
+| South Leicestershire | Alberto Costa MP | 6985 |
 | South Norfolk | Ben Goldsborough MP | 5440 |
 | South Northamptonshire | Sarah Bool MP | 6669 |
 | South Ribble | Mr Paul Foster MP | 5898 |
