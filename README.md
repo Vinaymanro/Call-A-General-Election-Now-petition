@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991142                                |
-| Last Updated      | 2025-03-09 10:17:33 UTC                                    |
+| Total Signatures   | 2991149                                |
+| Last Updated      | 2025-03-09 11:12:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -15,7 +15,7 @@
 | Arundel and South Downs | Andrew Griffith MP | 6956 |
 | Ashfield | Lee Anderson MP | 6159 |
 | Ashford | Sojan Joseph MP | 5889 |
-| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4585 |
+| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4586 |
 | Aylesbury | Laura Kyrke-Smith MP | 4863 |
 | Banbury | Sean Woodcock MP | 5451 |
 | Barking | Nesil Caliskan MP | 2632 |
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3766 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6149 |
 | Blackpool South | Chris Webb MP | 5807 |
-| Blaydon and Consett | Liz Twist MP | 5244 |
+| Blaydon and Consett | Liz Twist MP | 5245 |
 | Blyth and Ashington | Ian Lavery MP | 5850 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6138 |
 | Bolsover | Natalie Fleet MP | 6530 |
@@ -135,7 +135,7 @@
 | Croydon South | Rt Hon Chris Philp MP | 3956 |
 | Croydon West | Sarah Jones MP | 1743 |
 | Dagenham and Rainham | Margaret Mullane MP | 4232 |
-| Darlington | Lola McEvoy MP | 5461 |
+| Darlington | Lola McEvoy MP | 5462 |
 | Dartford | Jim Dickson MP | 5730 |
 | Daventry | Rt Hon Stuart Andrew MP | 7279 |
 | Derby North | Catherine Atkinson MP | 4320 |
@@ -150,7 +150,7 @@
 | Dover and Deal | Mike Tapp MP | 5922 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6558 |
 | Dudley | Sonia Kumar MP | 5384 |
-| Dulwich and West Norwood | Helen Hayes MP | 1558 |
+| Dulwich and West Norwood | Helen Hayes MP | 1559 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5513 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3092 |
 | Ealing North | James Murray MP | 2579 |
@@ -211,7 +211,7 @@
 | Hamble Valley | Paul Holmes MP | 6138 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3196 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
-| Harborough, Oadby and Wigston | Neil O'Brien MP | 4713 |
+| Harborough, Oadby and Wigston | Neil O'Brien MP | 4714 |
 | Harlow | Chris Vince MP | 6065 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4537 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5113 |
@@ -446,7 +446,7 @@
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5202 |
 | Southampton Itchen | Darren Paffey MP | 4543 |
 | Southampton Test | Satvir Kaur MP | 3403 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5575 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5576 |
 | Southend West and Leigh | David Burton-Sampson MP | 5874 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2586 |
 | Southport | Patrick Hurley MP | 5950 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
 | Bridgend | Chris Elmore MP | 4234 |
 | Caerfyrddin | Ann Davies MP | 5199 |
-| Caerphilly | Chris Evans MP | 3982 |
+| Caerphilly | Chris Evans MP | 3983 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2893 |
 | Cardiff North | Anna McMorrin MP | 3291 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2799 |
