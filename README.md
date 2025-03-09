@@ -3,14 +3,14 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991204                                |
-| Last Updated      | 2025-03-09 18:18:05 UTC                                    |
+| Total Signatures   | 2991211                                |
+| Last Updated      | 2025-03-09 19:10:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5449 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5800 |
-| Altrincham and Sale West | Mr Connor Rand MP | 5500 |
+| Altrincham and Sale West | Mr Connor Rand MP | 5501 |
 | Amber Valley | Linsey Farnsworth MP | 6083 |
 | Arundel and South Downs | Andrew Griffith MP | 6956 |
 | Ashfield | Lee Anderson MP | 6159 |
@@ -253,14 +253,14 @@
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5084 |
-| Keighley and Ilkley | Robbie Moore MP | 4690 |
+| Keighley and Ilkley | Robbie Moore MP | 4691 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6100 |
 | Kensington and Bayswater | Joe Powell MP | 4402 |
 | Kettering | Rosie Wrighting MP | 5905 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3747 |
 | Kingston upon Hull East | Karl Turner MP | 4995 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4638 |
-| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5491 |
+| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5492 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6390 |
 | Knowsley | Anneliese Midgley MP | 3276 |
 | Lancaster and Wyre | Cat Smith MP | 5075 |
@@ -291,7 +291,7 @@
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7795 |
 | Lowestoft | Jess Asato MP | 5330 |
 | Luton North | Sarah Owen MP | 2472 |
-| Luton South and South Bedfordshire | Rachel Hopkins MP | 2945 |
+| Luton South and South Bedfordshire | Rachel Hopkins MP | 2946 |
 | Macclesfield | Tim Roca MP | 5400 |
 | Maidenhead | Mr Joshua Reynolds MP | 5282 |
 | Maidstone and Malling | Helen Grant MP | 5842 |
@@ -438,7 +438,7 @@
 | South Northamptonshire | Sarah Bool MP | 6669 |
 | South Ribble | Mr Paul Foster MP | 5898 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4715 |
-| South Shropshire | Stuart Anderson MP | 7320 |
+| South Shropshire | Stuart Anderson MP | 7321 |
 | South Suffolk | James Cartlidge MP | 6147 |
 | South West Devon | Rebecca Smith MP | 5971 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5205 |
@@ -517,7 +517,7 @@
 | Waveney Valley | Adrian Ramsay MP | 5853 |
 | Weald of Kent | Katie Lam MP | 7225 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5082 |
-| Wells and Mendip Hills | Tessa Munt MP | 5252 |
+| Wells and Mendip Hills | Tessa Munt MP | 5253 |
 | Welwyn Hatfield | Andrew Lewin MP | 5058 |
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5457 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
 | Bridgend | Chris Elmore MP | 4234 |
 | Caerfyrddin | Ann Davies MP | 5199 |
-| Caerphilly | Chris Evans MP | 3986 |
+| Caerphilly | Chris Evans MP | 3987 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2893 |
 | Cardiff North | Anna McMorrin MP | 3291 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2799 |
