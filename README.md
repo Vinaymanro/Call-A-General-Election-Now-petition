@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991479                                |
-| Last Updated      | 2025-03-10 21:16:28 UTC                                    |
+| Total Signatures   | 2991487                                |
+| Last Updated      | 2025-03-10 22:16:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -267,9 +267,9 @@
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
 | Leeds East | Richard Burgon MP | 4306 |
 | Leeds North East | Fabian Hamilton MP | 2631 |
-| Leeds North West | Katie White MP | 4386 |
+| Leeds North West | Katie White MP | 4387 |
 | Leeds South | Rt Hon Hilary Benn MP | 3872 |
-| Leeds South West and Morley | Mark Sewards MP | 5490 |
+| Leeds South West and Morley | Mark Sewards MP | 5491 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3783 |
 | Leicester East | Shivani Raja MP | 1883 |
 | Leicester South | Shockat Adam MP | 1842 |
@@ -314,7 +314,7 @@
 | Mid Sussex | Alison Bennett MP | 4697 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4227 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5708 |
-| Milton Keynes Central | Emily Darlington MP | 4940 |
+| Milton Keynes Central | Emily Darlington MP | 4941 |
 | Milton Keynes North | Chris Curtis MP | 4566 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5764 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3952 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5069 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5531 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5532 |
 | Normanton and Hemsworth | Jon Trickett MP | 5490 |
 | North Bedfordshire | Richard Fuller MP | 6102 |
 | North Cornwall | Ben Maguire MP | 6400 |
@@ -411,11 +411,11 @@
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6369 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6665 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3422 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3423 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3534 |
-| Sheffield South East | Mr Clive Betts MP | 4732 |
+| Sheffield South East | Mr Clive Betts MP | 4733 |
 | Sherwood Forest | Michelle Welsh MP | 6659 |
 | Shipley | Anna Dixon MP | 4891 |
 | Shrewsbury | Julia Buckley MP | 5324 |
@@ -444,9 +444,9 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5205 |
 | South West Norfolk | Terry Jermy MP | 6522 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5202 |
-| Southampton Itchen | Darren Paffey MP | 4544 |
+| Southampton Itchen | Darren Paffey MP | 4545 |
 | Southampton Test | Satvir Kaur MP | 3403 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5578 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5579 |
 | Southend West and Leigh | David Burton-Sampson MP | 5874 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2586 |
 | Southport | Patrick Hurley MP | 5950 |
