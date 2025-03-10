@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991262                                |
-| Last Updated      | 2025-03-10 06:21:00 UTC                                    |
+| Total Signatures   | 2991269                                |
+| Last Updated      | 2025-03-10 07:15:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -97,12 +97,12 @@
 | Cambridge | Daniel Zeichner MP | 2211 |
 | Cannock Chase | Josh Newbury MP | 6878 |
 | Canterbury | Rosie Duffield MP | 4471 |
-| Carlisle | Ms Julie Minns MP | 6527 |
+| Carlisle | Ms Julie Minns MP | 6528 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
 | Castle Point | Rebecca Harris MP | 7523 |
 | Central Devon | Rt Hon Mel Stride MP | 5802 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5301 |
-| Chatham and Aylesford | Tristan Osborne MP | 5627 |
+| Chatham and Aylesford | Tristan Osborne MP | 5628 |
 | Cheadle | Tom Morrison MP | 4662 |
 | Chelmsford | Marie Goldman MP | 5268 |
 | Chelsea and Fulham | Ben Coleman MP | 5486 |
@@ -320,7 +320,7 @@
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5764 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5416 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5250 |
-| Newark | Rt Hon Robert Jenrick MP | 7159 |
+| Newark | Rt Hon Robert Jenrick MP | 7161 |
 | Newbury | Mr Lee Dillon MP | 4888 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4500 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4749 |
@@ -353,7 +353,7 @@
 | North West Norfolk | James Wild MP | 5759 |
 | Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4963 |
-| Norwich North | Alice Macdonald MP | 4396 |
+| Norwich North | Alice Macdonald MP | 4397 |
 | Norwich South | Clive Lewis MP | 3386 |
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3724 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4838 |
 | Stockton West | Matt Vickers MP | 5990 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4728 |
-| Stoke-on-Trent North | David Williams MP | 5451 |
+| Stoke-on-Trent North | David Williams MP | 5452 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5727 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6534 |
 | Stourbridge | Cat Eccles MP | 5155 |
@@ -567,7 +567,7 @@
 | South Antrim | Robin Swann MP | 3087 |
 | South Down | Chris Hazzard MP | 1840 |
 | Strangford | Jim Shannon MP | 3453 |
-| Upper Bann | Carla Lockhart MP | 3063 |
+| Upper Bann | Carla Lockhart MP | 3064 |
 | West Tyrone | Órfhlaith Begley MP | 1664 |
 | East Renfrewshire | Blair McDougall MP | 2590 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
