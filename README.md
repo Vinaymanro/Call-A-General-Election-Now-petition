@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991274                                |
-| Last Updated      | 2025-03-10 08:19:29 UTC                                    |
+| Total Signatures   | 2991278                                |
+| Last Updated      | 2025-03-10 09:16:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4408 |
 | Bolton West | Phil Brickell MP | 5577 |
 | Bootle | Peter Dowd MP | 3148 |
-| Boston and Skegness | Richard Tice MP | 7080 |
+| Boston and Skegness | Richard Tice MP | 7081 |
 | Bournemouth East | Tom Hayes MP | 4659 |
 | Bournemouth West | Jessica Toale MP | 4910 |
 | Bracknell | Peter Swallow MP | 4970 |
@@ -457,7 +457,7 @@
 | St Helens North | David Baines MP | 4691 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4149 |
 | St Ives | Andrew George MP | 5089 |
-| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4799 |
+| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4800 |
 | Stafford | Leigh Ingham MP | 5605 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6417 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5342 |
@@ -563,7 +563,7 @@
 | Mid Ulster | Mr Cathal Mallaghan MP | 1891 |
 | Newry and Armagh | Dáire Hughes MP | 2070 |
 | North Antrim | Jim Allister KC MP | 3089 |
-| North Down | Alex Easton MP | 3354 |
+| North Down | Alex Easton MP | 3355 |
 | South Antrim | Robin Swann MP | 3087 |
 | South Down | Chris Hazzard MP | 1840 |
 | Strangford | Jim Shannon MP | 3453 |
@@ -644,7 +644,7 @@
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4229 |
 | Gower | Tonia Antoniazzi MP | 4757 |
 | Llanelli | Dame Nia Griffith MP | 5246 |
-| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3706 |
+| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3707 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5481 |
 | Monmouthshire | Catherine Fookes MP | 4733 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6041 |
