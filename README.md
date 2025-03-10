@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991269                                |
-| Last Updated      | 2025-03-10 07:15:44 UTC                                    |
+| Total Signatures   | 2991274                                |
+| Last Updated      | 2025-03-10 08:19:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -113,7 +113,7 @@
 | Chesterfield | Mr Toby Perkins MP | 4875 |
 | Chichester | Jess Brown-Fuller MP | 5922 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4163 |
-| Chippenham | Sarah Gibson MP | 4735 |
+| Chippenham | Sarah Gibson MP | 4736 |
 | Chipping Barnet | Dan Tomlinson MP | 4335 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5497 |
 | Christchurch | Sir Christopher Chope MP | 5849 |
@@ -189,7 +189,7 @@
 | Frome and East Somerset | Anna Sabine MP | 4328 |
 | Fylde | Mr Andrew Snowden MP | 6770 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6649 |
-| Gateshead Central and Whickham | Mark Ferguson MP | 4521 |
+| Gateshead Central and Whickham | Mark Ferguson MP | 4522 |
 | Gedling | Michael Payne MP | 5053 |
 | Gillingham and Rainham | Naushabah Khan MP | 5049 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5588 |
@@ -247,7 +247,7 @@
 | Hyndburn | Sarah Smith MP | 4999 |
 | Ilford North | Rt Hon Wes Streeting MP | 2622 |
 | Ilford South | Jas Athwal MP | 1591 |
-| Ipswich | Jack Abbott MP | 4142 |
+| Ipswich | Jack Abbott MP | 4143 |
 | Isle of Wight East | Joe Robertson MP | 4380 |
 | Isle of Wight West | Mr Richard Quigley MP | 4072 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
@@ -527,7 +527,7 @@
 | West Worcestershire | Dame Harriett Baldwin MP | 6258 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5069 |
-| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6573 |
+| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6574 |
 | Whitehaven and Workington | Josh MacAlister MP | 5845 |
 | Widnes and Halewood | Derek Twigg MP | 4233 |
 | Wigan | Rt Hon Lisa Nandy MP | 5944 |
@@ -545,7 +545,7 @@
 | Worcester | Tom Collins MP | 4323 |
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5247 |
-| Wycombe | Emma Reynolds MP | 3612 |
+| Wycombe | Emma Reynolds MP | 3613 |
 | Wyre Forest | Mark Garnier MP | 6482 |
 | Wythenshawe and Sale East | Mike Kane MP | 4599 |
 | Yeovil | Adam Dance MP | 5599 |
