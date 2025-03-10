@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991487                                |
-| Last Updated      | 2025-03-10 22:16:38 UTC                                    |
+| Total Signatures   | 2991493                                |
+| Last Updated      | 2025-03-10 23:16:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -166,7 +166,7 @@
 | East Worthing and Shoreham | Tom Rutland MP | 4605 |
 | Eastbourne | Josh Babarinde MP | 5038 |
 | Eastleigh | Liz Jarvis MP | 4326 |
-| Edmonton and Winchmore Hill | Kate Osamor MP | 2223 |
+| Edmonton and Winchmore Hill | Kate Osamor MP | 2224 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4438 |
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5171 |
@@ -219,7 +219,7 @@
 | Harrow West | Gareth Thomas MP | 2403 |
 | Hartlepool | Mr Jonathan Brash MP | 5647 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6273 |
-| Hastings and Rye | Helena Dollimore MP | 5067 |
+| Hastings and Rye | Helena Dollimore MP | 5068 |
 | Havant | Alan Mak MP | 5653 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2593 |
 | Hazel Grove | Lisa Smart MP | 5099 |
@@ -244,7 +244,7 @@
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3330 |
 | Huddersfield | Harpreet Uppal MP | 3678 |
 | Huntingdon | Ben Obese-Jecty MP | 5554 |
-| Hyndburn | Sarah Smith MP | 5000 |
+| Hyndburn | Sarah Smith MP | 5001 |
 | Ilford North | Rt Hon Wes Streeting MP | 2622 |
 | Ilford South | Jas Athwal MP | 1591 |
 | Ipswich | Jack Abbott MP | 4143 |
@@ -308,7 +308,7 @@
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
 | Mid Cheshire | Andrew Cooper MP | 5167 |
 | Mid Derbyshire | Jonathan Davies MP | 5229 |
-| Mid Dorset and North Poole | Vikki Slade MP | 5879 |
+| Mid Dorset and North Poole | Vikki Slade MP | 5880 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5593 |
 | Mid Norfolk | George Freeman MP | 6284 |
 | Mid Sussex | Alison Bennett MP | 4697 |
@@ -331,7 +331,7 @@
 | Normanton and Hemsworth | Jon Trickett MP | 5490 |
 | North Bedfordshire | Richard Fuller MP | 6102 |
 | North Cornwall | Ben Maguire MP | 6400 |
-| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6047 |
+| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6048 |
 | North Devon | Ian Roome MP | 5858 |
 | North Dorset | Simon Hoare MP | 6314 |
 | North Durham | Luke Akehurst MP | 5384 |
@@ -483,7 +483,7 @@
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5671 |
 | Swindon North | Will Stone MP | 4896 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4206 |
-| Tamworth | Sarah Edwards MP | 6942 |
+| Tamworth | Sarah Edwards MP | 6943 |
 | Tatton | Rt Hon Esther McVey MP | 6499 |
 | Taunton and Wellington | Gideon Amos MP | 5172 |
 | Telford | Shaun Davies MP | 5581 |
