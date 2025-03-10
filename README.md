@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991260                                |
-| Last Updated      | 2025-03-10 05:14:47 UTC                                    |
+| Total Signatures   | 2991262                                |
+| Last Updated      | 2025-03-10 06:21:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 6032 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5333 |
-| East Surrey | Rt Hon Claire Coutinho MP | 6024 |
+| East Surrey | Rt Hon Claire Coutinho MP | 6025 |
 | East Thanet | Ms Polly Billington MP | 5475 |
 | East Wiltshire | Danny Kruger MP | 6064 |
 | East Worthing and Shoreham | Tom Rutland MP | 4605 |
@@ -328,7 +328,7 @@
 | Newcastle-under-Lyme | Adam Jogee MP | 5068 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5530 |
-| Normanton and Hemsworth | Jon Trickett MP | 5488 |
+| Normanton and Hemsworth | Jon Trickett MP | 5489 |
 | North Bedfordshire | Richard Fuller MP | 6101 |
 | North Cornwall | Ben Maguire MP | 6399 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6047 |
