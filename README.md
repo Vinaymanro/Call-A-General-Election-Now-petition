@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991401                                |
-| Last Updated      | 2025-03-10 16:20:44 UTC                                    |
+| Total Signatures   | 2991409                                |
+| Last Updated      | 2025-03-10 17:16:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -57,7 +57,7 @@
 | Bolsover | Natalie Fleet MP | 6531 |
 | Bolton North East | Kirith Entwistle MP | 5596 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4408 |
-| Bolton West | Phil Brickell MP | 5577 |
+| Bolton West | Phil Brickell MP | 5578 |
 | Bootle | Peter Dowd MP | 3148 |
 | Boston and Skegness | Richard Tice MP | 7081 |
 | Bournemouth East | Tom Hayes MP | 4659 |
@@ -172,8 +172,8 @@
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5171 |
 | Enfield North | Feryal Clark MP | 2887 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
-| Epsom and Ewell | Helen Maguire MP | 4925 |
-| Erewash | Adam Thompson MP | 5822 |
+| Epsom and Ewell | Helen Maguire MP | 4926 |
+| Erewash | Adam Thompson MP | 5823 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4825 |
 | Exeter | Steve Race MP | 3173 |
@@ -244,7 +244,7 @@
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3330 |
 | Huddersfield | Harpreet Uppal MP | 3678 |
 | Huntingdon | Ben Obese-Jecty MP | 5553 |
-| Hyndburn | Sarah Smith MP | 4999 |
+| Hyndburn | Sarah Smith MP | 5000 |
 | Ilford North | Rt Hon Wes Streeting MP | 2622 |
 | Ilford South | Jas Athwal MP | 1591 |
 | Ipswich | Jack Abbott MP | 4143 |
@@ -377,7 +377,7 @@
 | Poole | Neil Duncan-Jordan MP | 5666 |
 | Poplar and Limehouse | Apsana Begum MP | 2921 |
 | Portsmouth North | Amanda Martin MP | 5613 |
-| Portsmouth South | Stephen Morgan MP | 3871 |
+| Portsmouth South | Stephen Morgan MP | 3872 |
 | Preston | Sir Mark Hendrick MP | 3808 |
 | Putney | Fleur Anderson MP | 3516 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2152 |
@@ -392,7 +392,7 @@
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7103 |
 | Richmond Park | Sarah Olney MP | 4060 |
 | Rochdale | Paul Waugh MP | 3950 |
-| Rochester and Strood | Lauren Edwards MP | 6019 |
+| Rochester and Strood | Lauren Edwards MP | 6020 |
 | Romford | Andrew Rosindell MP | 5786 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5068 |
 | Rossendale and Darwen | Andy MacNae MP | 6489 |
@@ -492,7 +492,7 @@
 | Thirsk and Malton | Kevin Hollinrake MP | 7430 |
 | Thornbury and Yate | Claire Young MP | 5693 |
 | Thurrock | Jen Craft MP | 5111 |
-| Tipton and Wednesbury | Antonia Bance MP | 4911 |
+| Tipton and Wednesbury | Antonia Bance MP | 4912 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5952 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5951 |
 | Tooting | Dr Rosena Allin-Khan MP | 2692 |
@@ -592,7 +592,7 @@
 | Dundee Central | Chris Law MP | 2542 |
 | Dunfermline and Dollar | Graeme Downie MP | 2929 |
 | East Kilbride and Strathaven | Joani Reid MP | 3153 |
-| Edinburgh East and Musselburgh | Chris Murray MP | 2082 |
+| Edinburgh East and Musselburgh | Chris Murray MP | 2083 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2406 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
 | Edinburgh South West | Dr Scott Arthur MP | 2258 |
