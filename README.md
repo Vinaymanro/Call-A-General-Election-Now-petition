@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991248                                |
-| Last Updated      | 2025-03-10 01:09:18 UTC                                    |
+| Total Signatures   | 2991257                                |
+| Last Updated      | 2025-03-10 02:32:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -52,7 +52,7 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6149 |
 | Blackpool South | Chris Webb MP | 5808 |
 | Blaydon and Consett | Liz Twist MP | 5245 |
-| Blyth and Ashington | Ian Lavery MP | 5850 |
+| Blyth and Ashington | Ian Lavery MP | 5851 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6138 |
 | Bolsover | Natalie Fleet MP | 6530 |
 | Bolton North East | Kirith Entwistle MP | 5596 |
@@ -125,7 +125,7 @@
 | Colne Valley | Paul Davies MP | 5029 |
 | Congleton | Mrs Sarah Russell MP | 5974 |
 | Corby and East Northamptonshire | Lee Barron MP | 6002 |
-| Coventry East | Mary Creagh MP | 3589 |
+| Coventry East | Mary Creagh MP | 3590 |
 | Coventry North West | Taiwo Owatemi MP | 4250 |
 | Coventry South | Zarah Sultana MP | 3513 |
 | Cramlington and Killingworth | Emma Foody MP | 5798 |
@@ -196,7 +196,7 @@
 | Gloucester | Alex McIntyre MP | 4536 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6957 |
-| Gorton and Denton | Andrew Gwynne MP | 3274 |
+| Gorton and Denton | Andrew Gwynne MP | 3275 |
 | Gosport | Dame Caroline Dinenage MP | 5473 |
 | Grantham and Bourne | Gareth Davies MP | 6325 |
 | Gravesham | Dr Lauren Sullivan MP | 5144 |
@@ -283,7 +283,7 @@
 | Lichfield | Dave Robertson MP | 6474 |
 | Lincoln | Mr Hamish Falconer MP | 4645 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3125 |
-| Liverpool Riverside | Kim Johnson MP | 2634 |
+| Liverpool Riverside | Kim Johnson MP | 2635 |
 | Liverpool Walton | Dan Carden MP | 3353 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
 | Liverpool West Derby | Ian Byrne MP | 3049 |
@@ -401,7 +401,7 @@
 | Rugby | John Slinger MP | 5409 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4104 |
 | Runcorn and Helsby | Mike Amesbury MP | 5022 |
-| Runnymede and Weybridge | Dr Ben Spencer MP | 5831 |
+| Runnymede and Weybridge | Dr Ben Spencer MP | 5833 |
 | Rushcliffe | James Naish MP | 5074 |
 | Rutland and Stamford | Alicia Kearns MP | 6258 |
 | Salford | Rebecca Long Bailey MP | 4662 |
@@ -523,13 +523,13 @@
 | West Dorset | Edward Morello MP | 5457 |
 | West Ham and Beckton | James Asser MP | 2151 |
 | West Lancashire | Ashley Dalton MP | 5056 |
-| West Suffolk | Nick Timothy MP | 6035 |
+| West Suffolk | Nick Timothy MP | 6036 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6258 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5069 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6573 |
 | Whitehaven and Workington | Josh MacAlister MP | 5845 |
-| Widnes and Halewood | Derek Twigg MP | 4232 |
+| Widnes and Halewood | Derek Twigg MP | 4233 |
 | Wigan | Rt Hon Lisa Nandy MP | 5944 |
 | Wimbledon | Mr Paul Kohler MP | 3410 |
 | Winchester | Dr Danny Chambers MP | 4918 |
@@ -623,7 +623,7 @@
 | West Dunbartonshire | Douglas McAllister MP | 2723 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3550 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4022 |
-| Central Ayrshire | Alan Gemmell MP | 3131 |
+| Central Ayrshire | Alan Gemmell MP | 3132 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3252 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3683 |
