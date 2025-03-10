@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991244                                |
-| Last Updated      | 2025-03-09 23:13:26 UTC                                    |
+| Total Signatures   | 2991248                                |
+| Last Updated      | 2025-03-10 01:09:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -340,7 +340,7 @@
 | North East Hampshire | Alex Brewer MP | 5955 |
 | North East Hertfordshire | Chris Hinchliff MP | 5844 |
 | North East Somerset and Hanham | Dan Norris MP | 5045 |
-| North Herefordshire | Ellie Chowns MP | 6468 |
+| North Herefordshire | Ellie Chowns MP | 6469 |
 | North Norfolk | Steff Aquarone MP | 5437 |
 | North Northumberland | David Smith MP | 6432 |
 | North Shropshire | Helen Morgan MP | 6877 |
@@ -361,7 +361,7 @@
 | Nuneaton | Jodie Gosling MP | 5548 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4081 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4082 |
 | Orpington | Gareth Bacon MP | 5307 |
 | Ossett and Denby Dale | Jade Botterill MP | 5793 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
@@ -604,7 +604,7 @@
 | Glasgow South | Gordon McKee MP | 1845 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
 | Glasgow West | Patricia Ferguson MP | 2214 |
-| Glenrothes and Mid Fife | Richard Baker MP | 2966 |
+| Glenrothes and Mid Fife | Richard Baker MP | 2967 |
 | Gordon and Buchan | Harriet Cross MP | 4388 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3134 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2748 |
@@ -627,7 +627,7 @@
 | Kilmarnock and Loudoun | Lillian Jones MP | 3252 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3683 |
-| Alyn and Deeside | Rt Hon Mark Tami MP | 5748 |
+| Alyn and Deeside | Rt Hon Mark Tami MP | 5749 |
 | Bangor Aberconwy | Claire Hughes MP | 4514 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3638 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
