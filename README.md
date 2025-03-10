@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991473                                |
-| Last Updated      | 2025-03-10 20:19:23 UTC                                    |
+| Total Signatures   | 2991479                                |
+| Last Updated      | 2025-03-10 21:16:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4408 |
 | Bolton West | Phil Brickell MP | 5578 |
 | Bootle | Peter Dowd MP | 3148 |
-| Boston and Skegness | Richard Tice MP | 7081 |
+| Boston and Skegness | Richard Tice MP | 7082 |
 | Bournemouth East | Tom Hayes MP | 4659 |
 | Bournemouth West | Jessica Toale MP | 4911 |
 | Bracknell | Peter Swallow MP | 4970 |
@@ -327,8 +327,8 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3952 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5069 |
 | Newton Abbot | Martin Wrigley MP | 5108 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5530 |
-| Normanton and Hemsworth | Jon Trickett MP | 5489 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5531 |
+| Normanton and Hemsworth | Jon Trickett MP | 5490 |
 | North Bedfordshire | Richard Fuller MP | 6102 |
 | North Cornwall | Ben Maguire MP | 6400 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6047 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4082 |
-| Orpington | Gareth Bacon MP | 5307 |
+| Orpington | Gareth Bacon MP | 5308 |
 | Ossett and Denby Dale | Jade Botterill MP | 5793 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
 | Oxford West and Abingdon | Layla Moran MP | 2927 |
@@ -446,7 +446,7 @@
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5202 |
 | Southampton Itchen | Darren Paffey MP | 4544 |
 | Southampton Test | Satvir Kaur MP | 3403 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5577 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5578 |
 | Southend West and Leigh | David Burton-Sampson MP | 5874 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2586 |
 | Southport | Patrick Hurley MP | 5950 |
@@ -456,7 +456,7 @@
 | St Austell and Newquay | Noah Law MP | 5605 |
 | St Helens North | David Baines MP | 4691 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4149 |
-| St Ives | Andrew George MP | 5089 |
+| St Ives | Andrew George MP | 5090 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4800 |
 | Stafford | Leigh Ingham MP | 5605 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6420 |
