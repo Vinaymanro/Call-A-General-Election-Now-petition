@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991257                                |
-| Last Updated      | 2025-03-10 03:17:51 UTC                                    |
+| Total Signatures   | 2991260                                |
+| Last Updated      | 2025-03-10 04:17:16 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -244,7 +244,7 @@
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3330 |
 | Huddersfield | Harpreet Uppal MP | 3678 |
 | Huntingdon | Ben Obese-Jecty MP | 5553 |
-| Hyndburn | Sarah Smith MP | 4998 |
+| Hyndburn | Sarah Smith MP | 4999 |
 | Ilford North | Rt Hon Wes Streeting MP | 2622 |
 | Ilford South | Jas Athwal MP | 1591 |
 | Ipswich | Jack Abbott MP | 4142 |
@@ -259,7 +259,7 @@
 | Kettering | Rosie Wrighting MP | 5905 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3747 |
 | Kingston upon Hull East | Karl Turner MP | 4995 |
-| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4638 |
+| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4639 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5492 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6390 |
 | Knowsley | Anneliese Midgley MP | 3276 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6193 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5442 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6186 |
-| Peterborough | Andrew Pakes MP | 4155 |
+| Peterborough | Andrew Pakes MP | 4156 |
 | Plymouth Moor View | Fred Thomas MP | 5677 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4744 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5444 |
