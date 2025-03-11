@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991514                                |
-| Last Updated      | 2025-03-11 07:17:09 UTC                                    |
+| Total Signatures   | 2991519                                |
+| Last Updated      | 2025-03-11 08:23:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -47,7 +47,7 @@
 | Birmingham Selly Oak | Al Carns MP | 3291 |
 | Birmingham Yardley | Jess Phillips MP | 3083 |
 | Bishop Auckland | Sam Rushworth MP | 6164 |
-| Blackburn | Mr Adnan Hussain MP | 3125 |
+| Blackburn | Mr Adnan Hussain MP | 3126 |
 | Blackley and Middleton South | Graham Stringer MP | 3766 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6150 |
 | Blackpool South | Chris Webb MP | 5809 |
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5849 |
 | Cities of London and Westminster | Rachel Blake MP | 5173 |
 | City of Durham | Mary Kelly Foy MP | 4250 |
-| Clacton | Nigel Farage MP | 8079 |
+| Clacton | Nigel Farage MP | 8080 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5029 |
@@ -214,7 +214,7 @@
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4715 |
 | Harlow | Chris Vince MP | 6065 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4537 |
-| Harrogate and Knaresborough | Tom Gordon MP | 5113 |
+| Harrogate and Knaresborough | Tom Gordon MP | 5114 |
 | Harrow East | Bob Blackman MP | 3130 |
 | Harrow West | Gareth Thomas MP | 2404 |
 | Hartlepool | Mr Jonathan Brash MP | 5647 |
@@ -376,8 +376,8 @@
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5446 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
 | Poplar and Limehouse | Apsana Begum MP | 2921 |
-| Portsmouth North | Amanda Martin MP | 5613 |
-| Portsmouth South | Stephen Morgan MP | 3872 |
+| Portsmouth North | Amanda Martin MP | 5614 |
+| Portsmouth South | Stephen Morgan MP | 3873 |
 | Preston | Sir Mark Hendrick MP | 3808 |
 | Putney | Fleur Anderson MP | 3516 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2152 |
