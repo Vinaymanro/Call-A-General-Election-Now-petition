@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991506                                |
-| Last Updated      | 2025-03-11 04:21:52 UTC                                    |
+| Total Signatures   | 2991507                                |
+| Last Updated      | 2025-03-11 05:17:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -290,7 +290,7 @@
 | Loughborough | Dr Jeevun Sandher MP | 4476 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7796 |
 | Lowestoft | Jess Asato MP | 5330 |
-| Luton North | Sarah Owen MP | 2472 |
+| Luton North | Sarah Owen MP | 2473 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2946 |
 | Macclesfield | Tim Roca MP | 5400 |
 | Maidenhead | Mr Joshua Reynolds MP | 5282 |
