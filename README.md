@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991594                                |
-| Last Updated      | 2025-03-11 16:23:51 UTC                                    |
+| Total Signatures   | 2991604                                |
+| Last Updated      | 2025-03-11 17:16:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -36,7 +36,7 @@
 | Bexhill and Battle | Dr Kieran Mullan MP | 6133 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
-| Birkenhead | Alison McGovern MP | 4314 |
+| Birkenhead | Alison McGovern MP | 4315 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2950 |
 | Birmingham Erdington | Paulette Hamilton MP | 4237 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1578 |
@@ -70,7 +70,7 @@
 | Brent East | Dawn Butler MP | 1863 |
 | Brent West | Barry Gardiner MP | 2088 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2990 |
-| Brentwood and Ongar | Alex Burghart MP | 8137 |
+| Brentwood and Ongar | Alex Burghart MP | 8138 |
 | Bridgwater | Sir Ashley Fox MP | 5753 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6623 |
 | Brigg and Immingham | Martin Vickers MP | 6462 |
@@ -101,7 +101,7 @@
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
 | Castle Point | Rebecca Harris MP | 7525 |
 | Central Devon | Rt Hon Mel Stride MP | 5802 |
-| Central Suffolk and North Ipswich | Patrick Spencer MP | 5301 |
+| Central Suffolk and North Ipswich | Patrick Spencer MP | 5302 |
 | Chatham and Aylesford | Tristan Osborne MP | 5628 |
 | Cheadle | Tom Morrison MP | 4662 |
 | Chelmsford | Marie Goldman MP | 5268 |
@@ -125,7 +125,7 @@
 | Colne Valley | Paul Davies MP | 5029 |
 | Congleton | Mrs Sarah Russell MP | 5976 |
 | Corby and East Northamptonshire | Lee Barron MP | 6002 |
-| Coventry East | Mary Creagh MP | 3590 |
+| Coventry East | Mary Creagh MP | 3591 |
 | Coventry North West | Taiwo Owatemi MP | 4250 |
 | Coventry South | Zarah Sultana MP | 3513 |
 | Cramlington and Killingworth | Emma Foody MP | 5799 |
@@ -166,8 +166,8 @@
 | East Worthing and Shoreham | Tom Rutland MP | 4605 |
 | Eastbourne | Josh Babarinde MP | 5038 |
 | Eastleigh | Liz Jarvis MP | 4326 |
-| Edmonton and Winchmore Hill | Kate Osamor MP | 2224 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4438 |
+| Edmonton and Winchmore Hill | Kate Osamor MP | 2225 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4439 |
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5171 |
 | Enfield North | Feryal Clark MP | 2888 |
@@ -177,7 +177,7 @@
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4825 |
 | Exeter | Steve Race MP | 3173 |
-| Exmouth and Exeter East | David Reed MP | 5205 |
+| Exmouth and Exeter East | David Reed MP | 5206 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6121 |
 | Farnham and Bordon | Gregory Stafford MP | 5187 |
 | Faversham and Mid Kent | Helen Whately MP | 6223 |
@@ -358,7 +358,7 @@
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3726 |
 | Nottingham South | Lilian Greenwood MP | 3052 |
-| Nuneaton | Jodie Gosling MP | 5549 |
+| Nuneaton | Jodie Gosling MP | 5552 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4082 |
