@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991493                                |
-| Last Updated      | 2025-03-10 23:16:46 UTC                                    |
+| Total Signatures   | 2991502                                |
+| Last Updated      | 2025-03-11 01:22:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -19,12 +19,12 @@
 | Aylesbury | Laura Kyrke-Smith MP | 4864 |
 | Banbury | Sean Woodcock MP | 5453 |
 | Barking | Nesil Caliskan MP | 2632 |
-| Barnsley North | Dan Jarvis MP | 5675 |
+| Barnsley North | Dan Jarvis MP | 5676 |
 | Barnsley South | Stephanie Peacock MP | 5766 |
 | Barrow and Furness | Michelle Scrogham MP | 5311 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6885 |
 | Basingstoke | Luke Murphy MP | 4812 |
-| Bassetlaw | Jo White MP | 6744 |
+| Bassetlaw | Jo White MP | 6745 |
 | Bath | Wera Hobhouse MP | 2979 |
 | Battersea | Marsha De Cordova MP | 3612 |
 | Beaconsfield | Joy Morrissey MP | 5212 |
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 6032 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5333 |
-| East Surrey | Rt Hon Claire Coutinho MP | 6025 |
+| East Surrey | Rt Hon Claire Coutinho MP | 6026 |
 | East Thanet | Ms Polly Billington MP | 5475 |
 | East Wiltshire | Danny Kruger MP | 6064 |
 | East Worthing and Shoreham | Tom Rutland MP | 4605 |
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1519 |
 | Halesowen | Alex Ballinger MP | 4992 |
 | Halifax | Kate Dearden MP | 4748 |
-| Hamble Valley | Paul Holmes MP | 6138 |
+| Hamble Valley | Paul Holmes MP | 6139 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3196 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4715 |
@@ -216,7 +216,7 @@
 | Harpenden and Berkhamsted | Victoria Collins MP | 4537 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5113 |
 | Harrow East | Bob Blackman MP | 3130 |
-| Harrow West | Gareth Thomas MP | 2403 |
+| Harrow West | Gareth Thomas MP | 2404 |
 | Hartlepool | Mr Jonathan Brash MP | 5647 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6273 |
 | Hastings and Rye | Helena Dollimore MP | 5068 |
@@ -249,7 +249,7 @@
 | Ilford South | Jas Athwal MP | 1591 |
 | Ipswich | Jack Abbott MP | 4143 |
 | Isle of Wight East | Joe Robertson MP | 4380 |
-| Isle of Wight West | Mr Richard Quigley MP | 4072 |
+| Isle of Wight West | Mr Richard Quigley MP | 4073 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5084 |
@@ -405,7 +405,7 @@
 | Rushcliffe | James Naish MP | 5074 |
 | Rutland and Stamford | Alicia Kearns MP | 6259 |
 | Salford | Rebecca Long Bailey MP | 4662 |
-| Salisbury | Rt Hon John Glen MP | 4748 |
+| Salisbury | Rt Hon John Glen MP | 4749 |
 | Scarborough and Whitby | Alison Hume MP | 5997 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5078 |
 | Sefton Central | Bill Esterson MP | 4014 |
@@ -426,7 +426,7 @@
 | Smethwick | Gurinder Singh Josan MP | 3056 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5443 |
 | South Basildon and East Thurrock | James McMurdock MP | 6605 |
-| South Cambridgeshire | Pippa Heylings MP | 4451 |
+| South Cambridgeshire | Pippa Heylings MP | 4452 |
 | South Cotswolds | Dr Roz Savage MP | 5716 |
 | South Derbyshire | Samantha Niblett MP | 6167 |
 | South Devon | Caroline Voaden MP | 5321 |
@@ -442,7 +442,7 @@
 | South Suffolk | James Cartlidge MP | 6147 |
 | South West Devon | Rebecca Smith MP | 5972 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5205 |
-| South West Norfolk | Terry Jermy MP | 6522 |
+| South West Norfolk | Terry Jermy MP | 6523 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5202 |
 | Southampton Itchen | Darren Paffey MP | 4545 |
 | Southampton Test | Satvir Kaur MP | 3403 |
