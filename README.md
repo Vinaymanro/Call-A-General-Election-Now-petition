@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991543                                |
-| Last Updated      | 2025-03-11 10:19:39 UTC                                    |
+| Total Signatures   | 2991550                                |
+| Last Updated      | 2025-03-11 11:14:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -21,7 +21,7 @@
 | Barking | Nesil Caliskan MP | 2632 |
 | Barnsley North | Dan Jarvis MP | 5676 |
 | Barnsley South | Stephanie Peacock MP | 5766 |
-| Barrow and Furness | Michelle Scrogham MP | 5311 |
+| Barrow and Furness | Michelle Scrogham MP | 5312 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6885 |
 | Basingstoke | Luke Murphy MP | 4812 |
 | Bassetlaw | Jo White MP | 6745 |
@@ -170,7 +170,7 @@
 | Ellesmere Port and Bromborough | Justin Madders MP | 4438 |
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5171 |
-| Enfield North | Feryal Clark MP | 2887 |
+| Enfield North | Feryal Clark MP | 2888 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
 | Epsom and Ewell | Helen Maguire MP | 4926 |
 | Erewash | Adam Thompson MP | 5823 |
@@ -250,7 +250,7 @@
 | Ipswich | Jack Abbott MP | 4143 |
 | Isle of Wight East | Joe Robertson MP | 4380 |
 | Isle of Wight West | Mr Richard Quigley MP | 4073 |
-| Islington North | Rt Hon Jeremy Corbyn MP | 1791 |
+| Islington North | Rt Hon Jeremy Corbyn MP | 1792 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5084 |
 | Keighley and Ilkley | Robbie Moore MP | 4691 |
@@ -262,7 +262,7 @@
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4639 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5492 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6390 |
-| Knowsley | Anneliese Midgley MP | 3276 |
+| Knowsley | Anneliese Midgley MP | 3277 |
 | Lancaster and Wyre | Cat Smith MP | 5077 |
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
 | Leeds East | Richard Burgon MP | 4307 |
@@ -517,7 +517,7 @@
 | Waveney Valley | Adrian Ramsay MP | 5853 |
 | Weald of Kent | Katie Lam MP | 7225 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5083 |
-| Wells and Mendip Hills | Tessa Munt MP | 5254 |
+| Wells and Mendip Hills | Tessa Munt MP | 5255 |
 | Welwyn Hatfield | Andrew Lewin MP | 5059 |
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5458 |
@@ -548,7 +548,7 @@
 | Wycombe | Emma Reynolds MP | 3613 |
 | Wyre Forest | Mark Garnier MP | 6483 |
 | Wythenshawe and Sale East | Mike Kane MP | 4599 |
-| Yeovil | Adam Dance MP | 5600 |
+| Yeovil | Adam Dance MP | 5601 |
 | York Central | Rachael Maskell MP | 3277 |
 | York Outer | Mr Luke Charters MP | 4346 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2957 |
@@ -624,7 +624,7 @@
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3550 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4023 |
 | Central Ayrshire | Alan Gemmell MP | 3132 |
-| Kilmarnock and Loudoun | Lillian Jones MP | 3252 |
+| Kilmarnock and Loudoun | Lillian Jones MP | 3253 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3683 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5749 |
