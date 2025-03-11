@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991507                                |
-| Last Updated      | 2025-03-11 05:17:21 UTC                                    |
+| Total Signatures   | 2991510                                |
+| Last Updated      | 2025-03-11 06:25:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3766 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6150 |
 | Blackpool South | Chris Webb MP | 5809 |
-| Blaydon and Consett | Liz Twist MP | 5245 |
+| Blaydon and Consett | Liz Twist MP | 5246 |
 | Blyth and Ashington | Ian Lavery MP | 5852 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
 | Bolsover | Natalie Fleet MP | 6532 |
@@ -461,7 +461,7 @@
 | Stafford | Leigh Ingham MP | 5605 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6420 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5342 |
-| Stevenage | Kevin Bonavia MP | 4738 |
+| Stevenage | Kevin Bonavia MP | 4739 |
 | Stockport | Navendu Mishra MP | 3911 |
 | Stockton North | Chris McDonald MP | 4839 |
 | Stockton West | Matt Vickers MP | 5990 |
@@ -601,7 +601,7 @@
 | Glasgow East | John Grady MP | 2313 |
 | Glasgow North | Martin Rhodes MP | 2037 |
 | Glasgow North East | Maureen Burke MP | 2475 |
-| Glasgow South | Gordon McKee MP | 1846 |
+| Glasgow South | Gordon McKee MP | 1847 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
 | Glasgow West | Patricia Ferguson MP | 2214 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2968 |
