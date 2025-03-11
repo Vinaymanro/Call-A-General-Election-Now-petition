@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991510                                |
-| Last Updated      | 2025-03-11 06:25:36 UTC                                    |
+| Total Signatures   | 2991514                                |
+| Last Updated      | 2025-03-11 07:17:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -81,7 +81,7 @@
 | Bristol North East | Damien Egan MP | 3080 |
 | Bristol North West | Rt Hon Darren Jones MP | 3207 |
 | Bristol South | Karin Smyth MP | 3961 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5829 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5830 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
 | Bromsgrove | Bradley Thomas MP | 6475 |
 | Broxbourne | Lewis Cocking MP | 6074 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2635 |
 | Liverpool Walton | Dan Carden MP | 3353 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
-| Liverpool West Derby | Ian Byrne MP | 3050 |
+| Liverpool West Derby | Ian Byrne MP | 3051 |
 | Loughborough | Dr Jeevun Sandher MP | 4476 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7796 |
 | Lowestoft | Jess Asato MP | 5330 |
@@ -354,7 +354,7 @@
 | Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4963 |
 | Norwich North | Alice Macdonald MP | 4397 |
-| Norwich South | Clive Lewis MP | 3386 |
+| Norwich South | Clive Lewis MP | 3387 |
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3726 |
 | Nottingham South | Lilian Greenwood MP | 3051 |
@@ -653,7 +653,7 @@
 | Newport West and Islwyn | Ruth Jones MP | 4047 |
 | Pontypridd | Alex Davies-Jones MP | 3903 |
 | Rhondda and Ogmore | Chris Bryant MP | 4030 |
-| Swansea West | Torsten Bell MP | 3651 |
+| Swansea West | Torsten Bell MP | 3652 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4616 |
 | Wrexham | Andrew Ranger MP | 4796 |
