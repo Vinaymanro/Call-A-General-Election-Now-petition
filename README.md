@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991579                                |
-| Last Updated      | 2025-03-11 14:18:07 UTC                                    |
+| Total Signatures   | 2991588                                |
+| Last Updated      | 2025-03-11 15:20:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3126 |
 | Blackley and Middleton South | Graham Stringer MP | 3766 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6150 |
-| Blackpool South | Chris Webb MP | 5810 |
+| Blackpool South | Chris Webb MP | 5811 |
 | Blaydon and Consett | Liz Twist MP | 5246 |
 | Blyth and Ashington | Ian Lavery MP | 5852 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
@@ -83,7 +83,7 @@
 | Bristol South | Karin Smyth MP | 3961 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5830 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
-| Bromsgrove | Bradley Thomas MP | 6475 |
+| Bromsgrove | Bradley Thomas MP | 6476 |
 | Broxbourne | Lewis Cocking MP | 6074 |
 | Broxtowe | Juliet Campbell MP | 4712 |
 | Buckingham and Bletchley | Callum Anderson MP | 5255 |
@@ -196,7 +196,7 @@
 | Gloucester | Alex McIntyre MP | 4537 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6957 |
-| Gorton and Denton | Andrew Gwynne MP | 3275 |
+| Gorton and Denton | Andrew Gwynne MP | 3276 |
 | Gosport | Dame Caroline Dinenage MP | 5475 |
 | Grantham and Bourne | Gareth Davies MP | 6326 |
 | Gravesham | Dr Lauren Sullivan MP | 5144 |
@@ -252,7 +252,7 @@
 | Isle of Wight West | Mr Richard Quigley MP | 4073 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1792 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
-| Jarrow and Gateshead East | Kate Osborne MP | 5084 |
+| Jarrow and Gateshead East | Kate Osborne MP | 5085 |
 | Keighley and Ilkley | Robbie Moore MP | 4691 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6101 |
 | Kensington and Bayswater | Joe Powell MP | 4403 |
@@ -266,7 +266,7 @@
 | Lancaster and Wyre | Cat Smith MP | 5077 |
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
 | Leeds East | Richard Burgon MP | 4307 |
-| Leeds North East | Fabian Hamilton MP | 2631 |
+| Leeds North East | Fabian Hamilton MP | 2632 |
 | Leeds North West | Katie White MP | 4387 |
 | Leeds South | Rt Hon Hilary Benn MP | 3872 |
 | Leeds South West and Morley | Mark Sewards MP | 5491 |
@@ -338,7 +338,7 @@
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6071 |
 | North East Derbyshire | Louise Jones MP | 5797 |
 | North East Hampshire | Alex Brewer MP | 5955 |
-| North East Hertfordshire | Chris Hinchliff MP | 5845 |
+| North East Hertfordshire | Chris Hinchliff MP | 5846 |
 | North East Somerset and Hanham | Dan Norris MP | 5046 |
 | North Herefordshire | Ellie Chowns MP | 6469 |
 | North Norfolk | Steff Aquarone MP | 5437 |
@@ -353,7 +353,7 @@
 | North West Norfolk | James Wild MP | 5759 |
 | Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4963 |
-| Norwich North | Alice Macdonald MP | 4397 |
+| Norwich North | Alice Macdonald MP | 4398 |
 | Norwich South | Clive Lewis MP | 3387 |
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3726 |
@@ -546,7 +546,7 @@
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5247 |
 | Wycombe | Emma Reynolds MP | 3613 |
-| Wyre Forest | Mark Garnier MP | 6483 |
+| Wyre Forest | Mark Garnier MP | 6484 |
 | Wythenshawe and Sale East | Mike Kane MP | 4599 |
 | Yeovil | Adam Dance MP | 5601 |
 | York Central | Rachael Maskell MP | 3277 |
@@ -593,7 +593,7 @@
 | Dunfermline and Dollar | Graeme Downie MP | 2929 |
 | East Kilbride and Strathaven | Joani Reid MP | 3153 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2083 |
-| Edinburgh North and Leith | Tracy Gilbert MP | 2406 |
+| Edinburgh North and Leith | Tracy Gilbert MP | 2407 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2059 |
 | Edinburgh South West | Dr Scott Arthur MP | 2258 |
 | Edinburgh West | Christine Jardine MP | 2713 |
