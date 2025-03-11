@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991505                                |
-| Last Updated      | 2025-03-11 03:27:46 UTC                                    |
+| Total Signatures   | 2991506                                |
+| Last Updated      | 2025-03-11 04:21:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -204,7 +204,7 @@
 | Great Yarmouth | Rupert Lowe MP | 6582 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2626 |
 | Guildford | Zöe Franklin MP | 4000 |
-| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
+| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2062 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1519 |
 | Halesowen | Alex Ballinger MP | 4992 |
 | Halifax | Kate Dearden MP | 4749 |
