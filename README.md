@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991588                                |
-| Last Updated      | 2025-03-11 15:20:06 UTC                                    |
+| Total Signatures   | 2991594                                |
+| Last Updated      | 2025-03-11 16:23:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -37,7 +37,7 @@
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
 | Birkenhead | Alison McGovern MP | 4314 |
-| Birmingham Edgbaston | Preet Kaur Gill MP | 2949 |
+| Birmingham Edgbaston | Preet Kaur Gill MP | 2950 |
 | Birmingham Erdington | Paulette Hamilton MP | 4237 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1578 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3482 |
@@ -246,7 +246,7 @@
 | Huntingdon | Ben Obese-Jecty MP | 5554 |
 | Hyndburn | Sarah Smith MP | 5001 |
 | Ilford North | Rt Hon Wes Streeting MP | 2622 |
-| Ilford South | Jas Athwal MP | 1591 |
+| Ilford South | Jas Athwal MP | 1592 |
 | Ipswich | Jack Abbott MP | 4143 |
 | Isle of Wight East | Joe Robertson MP | 4381 |
 | Isle of Wight West | Mr Richard Quigley MP | 4073 |
@@ -323,7 +323,7 @@
 | Newark | Rt Hon Robert Jenrick MP | 7162 |
 | Newbury | Mr Lee Dillon MP | 4889 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4501 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4750 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4751 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3952 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5069 |
 | Newton Abbot | Martin Wrigley MP | 5109 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3808 |
 | Putney | Fleur Anderson MP | 3516 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2152 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5114 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5115 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7354 |
 | Reading Central | Matt Rodda MP | 3026 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4447 |
@@ -415,7 +415,7 @@
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3534 |
-| Sheffield South East | Mr Clive Betts MP | 4733 |
+| Sheffield South East | Mr Clive Betts MP | 4734 |
 | Sherwood Forest | Michelle Welsh MP | 6659 |
 | Shipley | Anna Dixon MP | 4891 |
 | Shrewsbury | Julia Buckley MP | 5324 |
@@ -634,7 +634,7 @@
 | Bridgend | Chris Elmore MP | 4236 |
 | Caerfyrddin | Ann Davies MP | 5200 |
 | Caerphilly | Chris Evans MP | 3987 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2894 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2895 |
 | Cardiff North | Anna McMorrin MP | 3291 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2799 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3142 |
