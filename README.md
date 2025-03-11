@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991502                                |
-| Last Updated      | 2025-03-11 01:22:18 UTC                                    |
+| Total Signatures   | 2991504                                |
+| Last Updated      | 2025-03-11 02:54:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -207,7 +207,7 @@
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2061 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1519 |
 | Halesowen | Alex Ballinger MP | 4992 |
-| Halifax | Kate Dearden MP | 4748 |
+| Halifax | Kate Dearden MP | 4749 |
 | Hamble Valley | Paul Holmes MP | 6139 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3196 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2635 |
 | Liverpool Walton | Dan Carden MP | 3353 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
-| Liverpool West Derby | Ian Byrne MP | 3049 |
+| Liverpool West Derby | Ian Byrne MP | 3050 |
 | Loughborough | Dr Jeevun Sandher MP | 4476 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7796 |
 | Lowestoft | Jess Asato MP | 5330 |
