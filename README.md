@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991565                                |
-| Last Updated      | 2025-03-11 12:36:13 UTC                                    |
+| Total Signatures   | 2991571                                |
+| Last Updated      | 2025-03-11 13:26:16 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -85,7 +85,7 @@
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
 | Bromsgrove | Bradley Thomas MP | 6475 |
 | Broxbourne | Lewis Cocking MP | 6074 |
-| Broxtowe | Juliet Campbell MP | 4711 |
+| Broxtowe | Juliet Campbell MP | 4712 |
 | Buckingham and Bletchley | Callum Anderson MP | 5255 |
 | Burnley | Oliver Ryan MP | 5723 |
 | Burton and Uttoxeter | Jacob Collier MP | 5797 |
@@ -99,7 +99,7 @@
 | Canterbury | Rosie Duffield MP | 4471 |
 | Carlisle | Ms Julie Minns MP | 6529 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
-| Castle Point | Rebecca Harris MP | 7524 |
+| Castle Point | Rebecca Harris MP | 7525 |
 | Central Devon | Rt Hon Mel Stride MP | 5802 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5301 |
 | Chatham and Aylesford | Tristan Osborne MP | 5628 |
@@ -191,7 +191,7 @@
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6649 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4522 |
 | Gedling | Michael Payne MP | 5053 |
-| Gillingham and Rainham | Naushabah Khan MP | 5050 |
+| Gillingham and Rainham | Naushabah Khan MP | 5051 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5588 |
 | Gloucester | Alex McIntyre MP | 4537 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
@@ -209,7 +209,7 @@
 | Halesowen | Alex Ballinger MP | 4993 |
 | Halifax | Kate Dearden MP | 4749 |
 | Hamble Valley | Paul Holmes MP | 6139 |
-| Hammersmith and Chiswick | Andy Slaughter MP | 3196 |
+| Hammersmith and Chiswick | Andy Slaughter MP | 3197 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4715 |
 | Harlow | Chris Vince MP | 6065 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 5997 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5078 |
 | Sefton Central | Bill Esterson MP | 4014 |
-| Selby | Keir Mather MP | 6369 |
+| Selby | Keir Mather MP | 6370 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6665 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3423 |
 | Sheffield Central | Abtisam Mohamed MP | 1426 |
@@ -433,7 +433,7 @@
 | South Dorset | Lloyd Hatton MP | 5658 |
 | South East Cornwall | Anna Gelderd MP | 6238 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7132 |
-| South Leicestershire | Alberto Costa MP | 6986 |
+| South Leicestershire | Alberto Costa MP | 6987 |
 | South Norfolk | Ben Goldsborough MP | 5440 |
 | South Northamptonshire | Sarah Bool MP | 6669 |
 | South Ribble | Mr Paul Foster MP | 5898 |
