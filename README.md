@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991571                                |
-| Last Updated      | 2025-03-11 13:26:16 UTC                                    |
+| Total Signatures   | 2991579                                |
+| Last Updated      | 2025-03-11 14:18:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -116,7 +116,7 @@
 | Chippenham | Sarah Gibson MP | 4736 |
 | Chipping Barnet | Dan Tomlinson MP | 4335 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5497 |
-| Christchurch | Sir Christopher Chope MP | 5849 |
+| Christchurch | Sir Christopher Chope MP | 5850 |
 | Cities of London and Westminster | Rachel Blake MP | 5173 |
 | City of Durham | Mary Kelly Foy MP | 4250 |
 | Clacton | Nigel Farage MP | 8080 |
@@ -202,7 +202,7 @@
 | Gravesham | Dr Lauren Sullivan MP | 5144 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5795 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
-| Greenwich and Woolwich | Matthew Pennycook MP | 2626 |
+| Greenwich and Woolwich | Matthew Pennycook MP | 2627 |
 | Guildford | Zöe Franklin MP | 4000 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2062 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1519 |
@@ -233,7 +233,7 @@
 | Hexham | Joe Morris MP | 6407 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5259 |
 | High Peak | Jon Pearce MP | 5448 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6484 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6486 |
 | Hitchin | Alistair Strathern MP | 4917 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2278 |
 | Honiton and Sidmouth | Richard Foord MP | 5252 |
@@ -261,7 +261,7 @@
 | Kingston upon Hull East | Karl Turner MP | 4995 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4639 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5492 |
-| Kingswinford and South Staffordshire | Mike Wood MP | 6390 |
+| Kingswinford and South Staffordshire | Mike Wood MP | 6391 |
 | Knowsley | Anneliese Midgley MP | 3277 |
 | Lancaster and Wyre | Cat Smith MP | 5077 |
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5442 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6186 |
 | Peterborough | Andrew Pakes MP | 4157 |
-| Plymouth Moor View | Fred Thomas MP | 5678 |
+| Plymouth Moor View | Fred Thomas MP | 5679 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4744 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5447 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
@@ -515,7 +515,7 @@
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5310 |
 | Watford | Matt Turmaine MP | 3740 |
 | Waveney Valley | Adrian Ramsay MP | 5853 |
-| Weald of Kent | Katie Lam MP | 7226 |
+| Weald of Kent | Katie Lam MP | 7227 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5083 |
 | Wells and Mendip Hills | Tessa Munt MP | 5255 |
 | Welwyn Hatfield | Andrew Lewin MP | 5059 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4733 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6042 |
 | Neath and Swansea East | Carolyn Harris MP | 4438 |
-| Newport East | Jessica Morden MP | 4005 |
+| Newport East | Jessica Morden MP | 4006 |
 | Newport West and Islwyn | Ruth Jones MP | 4047 |
 | Pontypridd | Alex Davies-Jones MP | 3903 |
 | Rhondda and Ogmore | Chris Bryant MP | 4030 |
