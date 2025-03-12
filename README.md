@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991778                                |
-| Last Updated      | 2025-03-12 15:19:49 UTC                                    |
+| Total Signatures   | 2991787                                |
+| Last Updated      | 2025-03-12 16:23:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -32,11 +32,11 @@
 | Bedford | Mohammad Yasin MP | 3226 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2702 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1725 |
-| Beverley and Holderness | Rt Hon Graham Stuart MP | 6155 |
+| Beverley and Holderness | Rt Hon Graham Stuart MP | 6156 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6133 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
-| Birkenhead | Alison McGovern MP | 4316 |
+| Birkenhead | Alison McGovern MP | 4317 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2950 |
 | Birmingham Erdington | Paulette Hamilton MP | 4239 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1579 |
@@ -54,7 +54,7 @@
 | Blaydon and Consett | Liz Twist MP | 5246 |
 | Blyth and Ashington | Ian Lavery MP | 5853 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
-| Bolsover | Natalie Fleet MP | 6534 |
+| Bolsover | Natalie Fleet MP | 6535 |
 | Bolton North East | Kirith Entwistle MP | 5596 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4409 |
 | Bolton West | Phil Brickell MP | 5578 |
@@ -188,7 +188,7 @@
 | Forest of Dean | Matt Bishop MP | 5267 |
 | Frome and East Somerset | Anna Sabine MP | 4328 |
 | Fylde | Mr Andrew Snowden MP | 6770 |
-| Gainsborough | Rt Hon Sir Edward Leigh MP | 6649 |
+| Gainsborough | Rt Hon Sir Edward Leigh MP | 6650 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4523 |
 | Gedling | Michael Payne MP | 5053 |
 | Gillingham and Rainham | Naushabah Khan MP | 5051 |
@@ -240,7 +240,7 @@
 | Hornchurch and Upminster | Julia Lopez MP | 6607 |
 | Hornsey and Friern Barnet | Catherine West MP | 1940 |
 | Horsham | John Milne MP | 5830 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6301 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6302 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3330 |
 | Huddersfield | Harpreet Uppal MP | 3678 |
 | Huntingdon | Ben Obese-Jecty MP | 5556 |
@@ -283,7 +283,7 @@
 | Lichfield | Dave Robertson MP | 6474 |
 | Lincoln | Mr Hamish Falconer MP | 4646 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3126 |
-| Liverpool Riverside | Kim Johnson MP | 2635 |
+| Liverpool Riverside | Kim Johnson MP | 2636 |
 | Liverpool Walton | Dan Carden MP | 3353 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
 | Liverpool West Derby | Ian Byrne MP | 3051 |
@@ -353,7 +353,7 @@
 | North West Norfolk | James Wild MP | 5759 |
 | Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4963 |
-| Norwich North | Alice Macdonald MP | 4399 |
+| Norwich North | Alice Macdonald MP | 4400 |
 | Norwich South | Clive Lewis MP | 3389 |
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3727 |
@@ -369,7 +369,7 @@
 | Peckham | Miatta Fahnbulleh MP | 1356 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6194 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5442 |
-| Penrith and Solway | Markus Campbell-Savours MP | 6186 |
+| Penrith and Solway | Markus Campbell-Savours MP | 6187 |
 | Peterborough | Andrew Pakes MP | 4157 |
 | Plymouth Moor View | Fred Thomas MP | 5679 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4744 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3437 |
 | Glasgow East | John Grady MP | 2313 |
 | Glasgow North | Martin Rhodes MP | 2038 |
-| Glasgow North East | Maureen Burke MP | 2475 |
+| Glasgow North East | Maureen Burke MP | 2476 |
 | Glasgow South | Gordon McKee MP | 1847 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
 | Glasgow West | Patricia Ferguson MP | 2215 |
