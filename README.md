@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991713                                |
-| Last Updated      | 2025-03-12 06:25:32 UTC                                    |
+| Total Signatures   | 2991718                                |
+| Last Updated      | 2025-03-12 07:17:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -52,7 +52,7 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6150 |
 | Blackpool South | Chris Webb MP | 5812 |
 | Blaydon and Consett | Liz Twist MP | 5246 |
-| Blyth and Ashington | Ian Lavery MP | 5852 |
+| Blyth and Ashington | Ian Lavery MP | 5853 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
 | Bolsover | Natalie Fleet MP | 6534 |
 | Bolton North East | Kirith Entwistle MP | 5596 |
@@ -243,7 +243,7 @@
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6301 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3330 |
 | Huddersfield | Harpreet Uppal MP | 3678 |
-| Huntingdon | Ben Obese-Jecty MP | 5554 |
+| Huntingdon | Ben Obese-Jecty MP | 5555 |
 | Hyndburn | Sarah Smith MP | 5001 |
 | Ilford North | Rt Hon Wes Streeting MP | 2622 |
 | Ilford South | Jas Athwal MP | 1592 |
@@ -406,7 +406,7 @@
 | Rutland and Stamford | Alicia Kearns MP | 6260 |
 | Salford | Rebecca Long Bailey MP | 4662 |
 | Salisbury | Rt Hon John Glen MP | 4749 |
-| Scarborough and Whitby | Alison Hume MP | 5997 |
+| Scarborough and Whitby | Alison Hume MP | 5998 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5078 |
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6371 |
@@ -491,7 +491,7 @@
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7430 |
 | Thornbury and Yate | Claire Young MP | 5693 |
-| Thurrock | Jen Craft MP | 5111 |
+| Thurrock | Jen Craft MP | 5112 |
 | Tipton and Wednesbury | Antonia Bance MP | 4912 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5952 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5951 |
@@ -599,7 +599,7 @@
 | Edinburgh West | Christine Jardine MP | 2713 |
 | Falkirk | Euan Stainbank MP | 3437 |
 | Glasgow East | John Grady MP | 2313 |
-| Glasgow North | Martin Rhodes MP | 2037 |
+| Glasgow North | Martin Rhodes MP | 2038 |
 | Glasgow North East | Maureen Burke MP | 2475 |
 | Glasgow South | Gordon McKee MP | 1847 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
