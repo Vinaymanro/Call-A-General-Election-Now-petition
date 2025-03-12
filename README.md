@@ -3,12 +3,12 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991763                                |
-| Last Updated      | 2025-03-12 12:35:42 UTC                                    |
+| Total Signatures   | 2991769                                |
+| Last Updated      | 2025-03-12 13:26:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
-| Aldershot | Alex Baker MP | 5449 |
+| Aldershot | Alex Baker MP | 5450 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5804 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5501 |
 | Amber Valley | Linsey Farnsworth MP | 6084 |
@@ -68,7 +68,7 @@
 | Bradford West | Naz Shah MP | 1810 |
 | Braintree | Rt Hon James Cleverly MP | 7433 |
 | Brent East | Dawn Butler MP | 1863 |
-| Brent West | Barry Gardiner MP | 2088 |
+| Brent West | Barry Gardiner MP | 2089 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2990 |
 | Brentwood and Ongar | Alex Burghart MP | 8138 |
 | Bridgwater | Sir Ashley Fox MP | 5753 |
@@ -130,7 +130,7 @@
 | Coventry South | Zarah Sultana MP | 3513 |
 | Cramlington and Killingworth | Emma Foody MP | 5800 |
 | Crawley | Peter Lamb MP | 4713 |
-| Crewe and Nantwich | Connor Naismith MP | 5689 |
+| Crewe and Nantwich | Connor Naismith MP | 5690 |
 | Croydon East | Natasha Irons MP | 3335 |
 | Croydon South | Rt Hon Chris Philp MP | 3957 |
 | Croydon West | Sarah Jones MP | 1743 |
@@ -143,7 +143,7 @@
 | Derbyshire Dales | John Whitby MP | 6776 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3175 |
 | Didcot and Wantage | Olly Glover MP | 4879 |
-| Doncaster Central | Sally Jameson MP | 4936 |
+| Doncaster Central | Sally Jameson MP | 4937 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6075 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5561 |
 | Dorking and Horley | Chris Coghlan MP | 5555 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4082 |
-| Orpington | Gareth Bacon MP | 5308 |
+| Orpington | Gareth Bacon MP | 5309 |
 | Ossett and Denby Dale | Jade Botterill MP | 5793 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
 | Oxford West and Abingdon | Layla Moran MP | 2927 |
@@ -523,7 +523,7 @@
 | West Dorset | Edward Morello MP | 5458 |
 | West Ham and Beckton | James Asser MP | 2152 |
 | West Lancashire | Ashley Dalton MP | 5056 |
-| West Suffolk | Nick Timothy MP | 6037 |
+| West Suffolk | Nick Timothy MP | 6038 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6259 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5070 |
