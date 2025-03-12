@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991854                                |
-| Last Updated      | 2025-03-12 22:16:44 UTC                                    |
+| Total Signatures   | 2991866                                |
+| Last Updated      | 2025-03-12 23:16:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -48,10 +48,10 @@
 | Birmingham Yardley | Jess Phillips MP | 3083 |
 | Bishop Auckland | Sam Rushworth MP | 6165 |
 | Blackburn | Mr Adnan Hussain MP | 3126 |
-| Blackley and Middleton South | Graham Stringer MP | 3766 |
+| Blackley and Middleton South | Graham Stringer MP | 3767 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6150 |
 | Blackpool South | Chris Webb MP | 5813 |
-| Blaydon and Consett | Liz Twist MP | 5246 |
+| Blaydon and Consett | Liz Twist MP | 5248 |
 | Blyth and Ashington | Ian Lavery MP | 5853 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
 | Bolsover | Natalie Fleet MP | 6535 |
@@ -134,7 +134,7 @@
 | Croydon East | Natasha Irons MP | 3336 |
 | Croydon South | Rt Hon Chris Philp MP | 3957 |
 | Croydon West | Sarah Jones MP | 1743 |
-| Dagenham and Rainham | Margaret Mullane MP | 4233 |
+| Dagenham and Rainham | Margaret Mullane MP | 4234 |
 | Darlington | Lola McEvoy MP | 5463 |
 | Dartford | Jim Dickson MP | 5730 |
 | Daventry | Rt Hon Stuart Andrew MP | 7280 |
@@ -353,7 +353,7 @@
 | North West Norfolk | James Wild MP | 5759 |
 | Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4963 |
-| Norwich North | Alice Macdonald MP | 4401 |
+| Norwich North | Alice Macdonald MP | 4402 |
 | Norwich South | Clive Lewis MP | 3389 |
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3729 |
@@ -363,7 +363,7 @@
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4082 |
 | Orpington | Gareth Bacon MP | 5310 |
-| Ossett and Denby Dale | Jade Botterill MP | 5793 |
+| Ossett and Denby Dale | Jade Botterill MP | 5794 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
 | Oxford West and Abingdon | Layla Moran MP | 2927 |
 | Peckham | Miatta Fahnbulleh MP | 1356 |
@@ -383,7 +383,7 @@
 | Queen's Park and Maida Vale | Georgia Gould MP | 2152 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5115 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7355 |
-| Reading Central | Matt Rodda MP | 3026 |
+| Reading Central | Matt Rodda MP | 3027 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4447 |
 | Redcar | Anna Turley MP | 5453 |
 | Redditch | Chris Bloore MP | 6071 |
@@ -430,7 +430,7 @@
 | South Cotswolds | Dr Roz Savage MP | 5716 |
 | South Derbyshire | Samantha Niblett MP | 6167 |
 | South Devon | Caroline Voaden MP | 5321 |
-| South Dorset | Lloyd Hatton MP | 5659 |
+| South Dorset | Lloyd Hatton MP | 5660 |
 | South East Cornwall | Anna Gelderd MP | 6238 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7132 |
 | South Leicestershire | Alberto Costa MP | 6988 |
@@ -470,7 +470,7 @@
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5732 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6534 |
 | Stourbridge | Cat Eccles MP | 5156 |
-| Stratford and Bow | Uma Kumaran MP | 1767 |
+| Stratford and Bow | Uma Kumaran MP | 1768 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6713 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1863 |
 | Stretford and Urmston | Andrew Western MP | 3823 |
@@ -504,7 +504,7 @@
 | Twickenham | Munira Wilson MP | 3652 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4486 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4477 |
-| Vauxhall and Camberwell Green | Florence Eshalomi MP | 1675 |
+| Vauxhall and Camberwell Green | Florence Eshalomi MP | 1676 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4914 |
 | Wallasey | Dame Angela Eagle MP | 4067 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4004 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5149 |
 | Warrington South | Sarah Hall MP | 5562 |
 | Warwick and Leamington | Matt Western MP | 4473 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5310 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5312 |
 | Watford | Matt Turmaine MP | 3741 |
 | Waveney Valley | Adrian Ramsay MP | 5853 |
 | Weald of Kent | Katie Lam MP | 7228 |
