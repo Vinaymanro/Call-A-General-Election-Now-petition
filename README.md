@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991697                                |
-| Last Updated      | 2025-03-12 01:21:19 UTC                                    |
+| Total Signatures   | 2991705                                |
+| Last Updated      | 2025-03-12 02:53:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -14,7 +14,7 @@
 | Amber Valley | Linsey Farnsworth MP | 6084 |
 | Arundel and South Downs | Andrew Griffith MP | 6957 |
 | Ashfield | Lee Anderson MP | 6159 |
-| Ashford | Sojan Joseph MP | 5889 |
+| Ashford | Sojan Joseph MP | 5890 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4587 |
 | Aylesbury | Laura Kyrke-Smith MP | 4864 |
 | Banbury | Sean Woodcock MP | 5453 |
@@ -64,7 +64,7 @@
 | Bournemouth West | Jessica Toale MP | 4911 |
 | Bracknell | Peter Swallow MP | 4970 |
 | Bradford East | Imran Hussain MP | 2886 |
-| Bradford South | Judith Cummins MP | 4176 |
+| Bradford South | Judith Cummins MP | 4177 |
 | Bradford West | Naz Shah MP | 1810 |
 | Braintree | Rt Hon James Cleverly MP | 7433 |
 | Brent East | Dawn Butler MP | 1863 |
@@ -149,7 +149,7 @@
 | Dorking and Horley | Chris Coghlan MP | 5555 |
 | Dover and Deal | Mike Tapp MP | 5923 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6559 |
-| Dudley | Sonia Kumar MP | 5385 |
+| Dudley | Sonia Kumar MP | 5386 |
 | Dulwich and West Norwood | Helen Hayes MP | 1559 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5513 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3092 |
@@ -258,7 +258,7 @@
 | Kensington and Bayswater | Joe Powell MP | 4403 |
 | Kettering | Rosie Wrighting MP | 5906 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3747 |
-| Kingston upon Hull East | Karl Turner MP | 4996 |
+| Kingston upon Hull East | Karl Turner MP | 4997 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4640 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5492 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6391 |
@@ -353,7 +353,7 @@
 | North West Norfolk | James Wild MP | 5759 |
 | Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4963 |
-| Norwich North | Alice Macdonald MP | 4398 |
+| Norwich North | Alice Macdonald MP | 4399 |
 | Norwich South | Clive Lewis MP | 3388 |
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3727 |
@@ -454,7 +454,7 @@
 | Spen Valley | Kim Leadbeater MP | 5375 |
 | St Albans | Daisy Cooper MP | 3877 |
 | St Austell and Newquay | Noah Law MP | 5605 |
-| St Helens North | David Baines MP | 4691 |
+| St Helens North | David Baines MP | 4692 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4149 |
 | St Ives | Andrew George MP | 5090 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4800 |
@@ -581,7 +581,7 @@
 | Alloa and Grangemouth | Brian Leishman MP | 3015 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4046 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3469 |
-| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3409 |
+| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3410 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3016 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4071 |
 | Coatbridge and Bellshill | Frank McNally MP | 2582 |
@@ -603,7 +603,7 @@
 | Glasgow North East | Maureen Burke MP | 2475 |
 | Glasgow South | Gordon McKee MP | 1847 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
-| Glasgow West | Patricia Ferguson MP | 2214 |
+| Glasgow West | Patricia Ferguson MP | 2215 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2968 |
 | Gordon and Buchan | Harriet Cross MP | 4388 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3134 |
