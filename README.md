@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991809                                |
-| Last Updated      | 2025-03-12 18:25:32 UTC                                    |
+| Total Signatures   | 2991818                                |
+| Last Updated      | 2025-03-12 19:14:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -13,7 +13,7 @@
 | Altrincham and Sale West | Mr Connor Rand MP | 5501 |
 | Amber Valley | Linsey Farnsworth MP | 6084 |
 | Arundel and South Downs | Andrew Griffith MP | 6957 |
-| Ashfield | Lee Anderson MP | 6159 |
+| Ashfield | Lee Anderson MP | 6160 |
 | Ashford | Sojan Joseph MP | 5890 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4587 |
 | Aylesbury | Laura Kyrke-Smith MP | 4864 |
@@ -24,7 +24,7 @@
 | Barrow and Furness | Michelle Scrogham MP | 5313 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6887 |
 | Basingstoke | Luke Murphy MP | 4813 |
-| Bassetlaw | Jo White MP | 6745 |
+| Bassetlaw | Jo White MP | 6746 |
 | Bath | Wera Hobhouse MP | 2979 |
 | Battersea | Marsha De Cordova MP | 3612 |
 | Beaconsfield | Joy Morrissey MP | 5212 |
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2702 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1725 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6156 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6133 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6134 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
 | Birkenhead | Alison McGovern MP | 4317 |
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5115 |
 | Harrow East | Bob Blackman MP | 3130 |
 | Harrow West | Gareth Thomas MP | 2404 |
-| Hartlepool | Mr Jonathan Brash MP | 5648 |
+| Hartlepool | Mr Jonathan Brash MP | 5649 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6275 |
 | Hastings and Rye | Helena Dollimore MP | 5068 |
 | Havant | Alan Mak MP | 5654 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4082 |
-| Orpington | Gareth Bacon MP | 5309 |
+| Orpington | Gareth Bacon MP | 5310 |
 | Ossett and Denby Dale | Jade Botterill MP | 5793 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
 | Oxford West and Abingdon | Layla Moran MP | 2927 |
@@ -424,7 +424,7 @@
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6288 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2583 |
 | Smethwick | Gurinder Singh Josan MP | 3056 |
-| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5443 |
+| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5444 |
 | South Basildon and East Thurrock | James McMurdock MP | 6605 |
 | South Cambridgeshire | Pippa Heylings MP | 4453 |
 | South Cotswolds | Dr Roz Savage MP | 5716 |
@@ -451,7 +451,7 @@
 | Southgate and Wood Green | Bambos Charalambous MP | 2586 |
 | Southport | Patrick Hurley MP | 5950 |
 | Spelthorne | Lincoln Jopp MP | 5459 |
-| Spen Valley | Kim Leadbeater MP | 5376 |
+| Spen Valley | Kim Leadbeater MP | 5377 |
 | St Albans | Daisy Cooper MP | 3877 |
 | St Austell and Newquay | Noah Law MP | 5605 |
 | St Helens North | David Baines MP | 4693 |
@@ -469,7 +469,7 @@
 | Stoke-on-Trent North | David Williams MP | 5454 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5732 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6534 |
-| Stourbridge | Cat Eccles MP | 5155 |
+| Stourbridge | Cat Eccles MP | 5156 |
 | Stratford and Bow | Uma Kumaran MP | 1767 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6712 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1863 |
@@ -539,7 +539,7 @@
 | Witney | Charlie Maynard MP | 5162 |
 | Woking | Mr Will Forster MP | 4397 |
 | Wokingham | Clive Jones MP | 4868 |
-| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4401 |
+| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4402 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4311 |
 | Wolverhampton West | Warinder Juss | 3821 |
 | Worcester | Tom Collins MP | 4325 |
