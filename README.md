@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991711                                |
-| Last Updated      | 2025-03-12 05:17:12 UTC                                    |
+| Total Signatures   | 2991713                                |
+| Last Updated      | 2025-03-12 06:25:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -583,12 +583,12 @@
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3469 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3410 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3016 |
-| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4071 |
+| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4072 |
 | Coatbridge and Bellshill | Frank McNally MP | 2582 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2852 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2678 |
 | Dumfries and Galloway | John Cooper MP | 4040 |
-| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3856 |
+| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3857 |
 | Dundee Central | Chris Law MP | 2542 |
 | Dunfermline and Dollar | Graeme Downie MP | 2929 |
 | East Kilbride and Strathaven | Joani Reid MP | 3154 |
