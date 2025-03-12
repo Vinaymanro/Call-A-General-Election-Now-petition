@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991774                                |
-| Last Updated      | 2025-03-12 14:17:33 UTC                                    |
+| Total Signatures   | 2991778                                |
+| Last Updated      | 2025-03-12 15:19:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -36,7 +36,7 @@
 | Bexhill and Battle | Dr Kieran Mullan MP | 6133 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
-| Birkenhead | Alison McGovern MP | 4315 |
+| Birkenhead | Alison McGovern MP | 4316 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2950 |
 | Birmingham Erdington | Paulette Hamilton MP | 4239 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1579 |
@@ -430,7 +430,7 @@
 | South Cotswolds | Dr Roz Savage MP | 5716 |
 | South Derbyshire | Samantha Niblett MP | 6167 |
 | South Devon | Caroline Voaden MP | 5321 |
-| South Dorset | Lloyd Hatton MP | 5658 |
+| South Dorset | Lloyd Hatton MP | 5659 |
 | South East Cornwall | Anna Gelderd MP | 6238 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7132 |
 | South Leicestershire | Alberto Costa MP | 6988 |
@@ -581,7 +581,7 @@
 | Alloa and Grangemouth | Brian Leishman MP | 3015 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4046 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3469 |
-| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3410 |
+| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3411 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3016 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4072 |
 | Coatbridge and Bellshill | Frank McNally MP | 2582 |
@@ -657,4 +657,4 @@
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4070 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4616 |
 | Wrexham | Andrew Ranger MP | 4797 |
-| Ynys Môn | Llinos Medi MP | 3730 |
+| Ynys Môn | Llinos Medi MP | 3731 |
