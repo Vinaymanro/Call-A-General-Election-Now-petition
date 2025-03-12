@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991705                                |
-| Last Updated      | 2025-03-12 02:53:53 UTC                                    |
+| Total Signatures   | 2991707                                |
+| Last Updated      | 2025-03-12 03:26:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -267,7 +267,7 @@
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
 | Leeds East | Richard Burgon MP | 4307 |
 | Leeds North East | Fabian Hamilton MP | 2632 |
-| Leeds North West | Katie White MP | 4387 |
+| Leeds North West | Katie White MP | 4388 |
 | Leeds South | Rt Hon Hilary Benn MP | 3872 |
 | Leeds South West and Morley | Mark Sewards MP | 5491 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3783 |
@@ -573,7 +573,7 @@
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
 | Midlothian | Kirsty McNeill MP | 2796 |
 | North Ayrshire and Arran | Irene Campbell MP | 3292 |
-| Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1440 |
+| Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1441 |
 | Aberdeen North | Kirsty Blackman MP | 3551 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3841 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4669 |
