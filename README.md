@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991709                                |
-| Last Updated      | 2025-03-12 04:21:20 UTC                                    |
+| Total Signatures   | 2991711                                |
+| Last Updated      | 2025-03-12 05:17:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -44,7 +44,7 @@
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1897 |
 | Birmingham Northfield | Laurence Turner MP | 4891 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1719 |
-| Birmingham Selly Oak | Al Carns MP | 3292 |
+| Birmingham Selly Oak | Al Carns MP | 3293 |
 | Birmingham Yardley | Jess Phillips MP | 3083 |
 | Bishop Auckland | Sam Rushworth MP | 6164 |
 | Blackburn | Mr Adnan Hussain MP | 3126 |
@@ -527,7 +527,7 @@
 | West Worcestershire | Dame Harriett Baldwin MP | 6259 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5070 |
-| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6575 |
+| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6576 |
 | Whitehaven and Workington | Josh MacAlister MP | 5847 |
 | Widnes and Halewood | Derek Twigg MP | 4235 |
 | Wigan | Rt Hon Lisa Nandy MP | 5944 |
