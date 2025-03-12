@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991752                                |
-| Last Updated      | 2025-03-12 11:14:40 UTC                                    |
+| Total Signatures   | 2991763                                |
+| Last Updated      | 2025-03-12 12:35:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -19,7 +19,7 @@
 | Aylesbury | Laura Kyrke-Smith MP | 4864 |
 | Banbury | Sean Woodcock MP | 5453 |
 | Barking | Nesil Caliskan MP | 2632 |
-| Barnsley North | Dan Jarvis MP | 5676 |
+| Barnsley North | Dan Jarvis MP | 5677 |
 | Barnsley South | Stephanie Peacock MP | 5766 |
 | Barrow and Furness | Michelle Scrogham MP | 5312 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6887 |
@@ -108,7 +108,7 @@
 | Chelsea and Fulham | Ben Coleman MP | 5486 |
 | Cheltenham | Max Wilkinson MP | 4027 |
 | Chesham and Amersham | Sarah Green MP | 4940 |
-| Chester North and Neston | Samantha Dixon MP | 4052 |
+| Chester North and Neston | Samantha Dixon MP | 4053 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6386 |
 | Chesterfield | Mr Toby Perkins MP | 4875 |
 | Chichester | Jess Brown-Fuller MP | 5926 |
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5475 |
 | Grantham and Bourne | Gareth Davies MP | 6326 |
 | Gravesham | Dr Lauren Sullivan MP | 5144 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5796 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5797 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2627 |
 | Guildford | Zöe Franklin MP | 4000 |
@@ -282,7 +282,7 @@
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1879 |
 | Lichfield | Dave Robertson MP | 6474 |
 | Lincoln | Mr Hamish Falconer MP | 4646 |
-| Liverpool Garston | Rt Hon Maria Eagle MP | 3125 |
+| Liverpool Garston | Rt Hon Maria Eagle MP | 3126 |
 | Liverpool Riverside | Kim Johnson MP | 2635 |
 | Liverpool Walton | Dan Carden MP | 3353 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
@@ -330,7 +330,7 @@
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5532 |
 | Normanton and Hemsworth | Jon Trickett MP | 5490 |
 | North Bedfordshire | Richard Fuller MP | 6102 |
-| North Cornwall | Ben Maguire MP | 6401 |
+| North Cornwall | Ben Maguire MP | 6402 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6048 |
 | North Devon | Ian Roome MP | 5858 |
 | North Dorset | Simon Hoare MP | 6314 |
@@ -403,7 +403,7 @@
 | Runcorn and Helsby | Mike Amesbury MP | 5024 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5833 |
 | Rushcliffe | James Naish MP | 5074 |
-| Rutland and Stamford | Alicia Kearns MP | 6260 |
+| Rutland and Stamford | Alicia Kearns MP | 6261 |
 | Salford | Rebecca Long Bailey MP | 4662 |
 | Salisbury | Rt Hon John Glen MP | 4749 |
 | Scarborough and Whitby | Alison Hume MP | 5998 |
@@ -433,7 +433,7 @@
 | South Dorset | Lloyd Hatton MP | 5658 |
 | South East Cornwall | Anna Gelderd MP | 6238 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7132 |
-| South Leicestershire | Alberto Costa MP | 6987 |
+| South Leicestershire | Alberto Costa MP | 6988 |
 | South Norfolk | Ben Goldsborough MP | 5440 |
 | South Northamptonshire | Sarah Bool MP | 6669 |
 | South Ribble | Mr Paul Foster MP | 5898 |
@@ -513,7 +513,7 @@
 | Warrington South | Sarah Hall MP | 5562 |
 | Warwick and Leamington | Matt Western MP | 4473 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5310 |
-| Watford | Matt Turmaine MP | 3740 |
+| Watford | Matt Turmaine MP | 3741 |
 | Waveney Valley | Adrian Ramsay MP | 5853 |
 | Weald of Kent | Katie Lam MP | 7228 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5084 |
@@ -535,7 +535,7 @@
 | Winchester | Dr Danny Chambers MP | 4918 |
 | Windsor | Jack Rankin MP | 5111 |
 | Wirral West | Matthew Patrick MP | 4206 |
-| Witham | Rt Hon Priti Patel MP | 7007 |
+| Witham | Rt Hon Priti Patel MP | 7008 |
 | Witney | Charlie Maynard MP | 5162 |
 | Woking | Mr Will Forster MP | 4397 |
 | Wokingham | Clive Jones MP | 4868 |
@@ -621,7 +621,7 @@
 | Rutherglen | Michael Shanks MP | 2573 |
 | Stirling and Strathallan | Chris Kane MP | 3219 |
 | West Dunbartonshire | Douglas McAllister MP | 2723 |
-| Ayr, Carrick and Cumnock | Elaine Stewart MP | 3550 |
+| Ayr, Carrick and Cumnock | Elaine Stewart MP | 3552 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4024 |
 | Central Ayrshire | Alan Gemmell MP | 3133 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3253 |
