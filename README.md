@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991731                                |
-| Last Updated      | 2025-03-12 08:24:11 UTC                                    |
+| Total Signatures   | 2991740                                |
+| Last Updated      | 2025-03-12 09:19:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4675 |
 | Birkenhead | Alison McGovern MP | 4315 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2950 |
-| Birmingham Erdington | Paulette Hamilton MP | 4237 |
+| Birmingham Erdington | Paulette Hamilton MP | 4239 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1578 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3482 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1897 |
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5031 |
-| Congleton | Mrs Sarah Russell MP | 5976 |
+| Congleton | Mrs Sarah Russell MP | 5977 |
 | Corby and East Northamptonshire | Lee Barron MP | 6004 |
 | Coventry East | Mary Creagh MP | 3591 |
 | Coventry North West | Taiwo Owatemi MP | 4251 |
@@ -189,7 +189,7 @@
 | Frome and East Somerset | Anna Sabine MP | 4328 |
 | Fylde | Mr Andrew Snowden MP | 6770 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6649 |
-| Gateshead Central and Whickham | Mark Ferguson MP | 4522 |
+| Gateshead Central and Whickham | Mark Ferguson MP | 4523 |
 | Gedling | Michael Payne MP | 5053 |
 | Gillingham and Rainham | Naushabah Khan MP | 5051 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5588 |
@@ -250,7 +250,7 @@
 | Ipswich | Jack Abbott MP | 4143 |
 | Isle of Wight East | Joe Robertson MP | 4381 |
 | Isle of Wight West | Mr Richard Quigley MP | 4073 |
-| Islington North | Rt Hon Jeremy Corbyn MP | 1792 |
+| Islington North | Rt Hon Jeremy Corbyn MP | 1793 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5087 |
 | Keighley and Ilkley | Robbie Moore MP | 4691 |
@@ -267,7 +267,7 @@
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
 | Leeds East | Richard Burgon MP | 4307 |
 | Leeds North East | Fabian Hamilton MP | 2632 |
-| Leeds North West | Katie White MP | 4388 |
+| Leeds North West | Katie White MP | 4389 |
 | Leeds South | Rt Hon Hilary Benn MP | 3872 |
 | Leeds South West and Morley | Mark Sewards MP | 5491 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3783 |
@@ -523,7 +523,7 @@
 | West Dorset | Edward Morello MP | 5458 |
 | West Ham and Beckton | James Asser MP | 2152 |
 | West Lancashire | Ashley Dalton MP | 5056 |
-| West Suffolk | Nick Timothy MP | 6036 |
+| West Suffolk | Nick Timothy MP | 6037 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6259 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5070 |
@@ -604,13 +604,13 @@
 | Glasgow South | Gordon McKee MP | 1847 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
 | Glasgow West | Patricia Ferguson MP | 2215 |
-| Glenrothes and Mid Fife | Richard Baker MP | 2968 |
+| Glenrothes and Mid Fife | Richard Baker MP | 2969 |
 | Gordon and Buchan | Harriet Cross MP | 4388 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3134 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2749 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3617 |
 | Livingston | Gregor Poynton MP | 3400 |
-| Lothian East | Rt Hon Douglas Alexander MP | 2856 |
+| Lothian East | Rt Hon Douglas Alexander MP | 2857 |
 | Mid Dunbartonshire | Susan Murray MP | 2523 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3935 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2729 |
