@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991769                                |
-| Last Updated      | 2025-03-12 13:26:03 UTC                                    |
+| Total Signatures   | 2991774                                |
+| Last Updated      | 2025-03-12 14:17:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5766 |
 | Barrow and Furness | Michelle Scrogham MP | 5312 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6887 |
-| Basingstoke | Luke Murphy MP | 4812 |
+| Basingstoke | Luke Murphy MP | 4813 |
 | Bassetlaw | Jo White MP | 6745 |
 | Bath | Wera Hobhouse MP | 2979 |
 | Battersea | Marsha De Cordova MP | 3612 |
@@ -32,7 +32,7 @@
 | Bedford | Mohammad Yasin MP | 3226 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2702 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1725 |
-| Beverley and Holderness | Rt Hon Graham Stuart MP | 6154 |
+| Beverley and Holderness | Rt Hon Graham Stuart MP | 6155 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6133 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
 | Bicester and Woodstock | Calum Miller MP | 4675 |
@@ -467,7 +467,7 @@
 | Stockton West | Matt Vickers MP | 5990 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4729 |
 | Stoke-on-Trent North | David Williams MP | 5454 |
-| Stoke-on-Trent South | Dr Allison Gardner MP | 5731 |
+| Stoke-on-Trent South | Dr Allison Gardner MP | 5732 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6534 |
 | Stourbridge | Cat Eccles MP | 5155 |
 | Stratford and Bow | Uma Kumaran MP | 1767 |
@@ -524,7 +524,7 @@
 | West Ham and Beckton | James Asser MP | 2152 |
 | West Lancashire | Ashley Dalton MP | 5056 |
 | West Suffolk | Nick Timothy MP | 6038 |
-| West Worcestershire | Dame Harriett Baldwin MP | 6259 |
+| West Worcestershire | Dame Harriett Baldwin MP | 6260 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
 | Weston-super-Mare | Dan Aldridge MP | 5070 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6576 |
@@ -626,7 +626,7 @@
 | Central Ayrshire | Alan Gemmell MP | 3133 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3253 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3684 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3685 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5749 |
 | Bangor Aberconwy | Claire Hughes MP | 4515 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3639 |
