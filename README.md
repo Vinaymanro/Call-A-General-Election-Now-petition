@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991843                                |
-| Last Updated      | 2025-03-12 21:16:29 UTC                                    |
+| Total Signatures   | 2991854                                |
+| Last Updated      | 2025-03-12 22:16:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -16,7 +16,7 @@
 | Ashfield | Lee Anderson MP | 6161 |
 | Ashford | Sojan Joseph MP | 5890 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4587 |
-| Aylesbury | Laura Kyrke-Smith MP | 4864 |
+| Aylesbury | Laura Kyrke-Smith MP | 4865 |
 | Banbury | Sean Woodcock MP | 5454 |
 | Barking | Nesil Caliskan MP | 2632 |
 | Barnsley North | Dan Jarvis MP | 5677 |
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5561 |
 | Dorking and Horley | Chris Coghlan MP | 5555 |
 | Dover and Deal | Mike Tapp MP | 5923 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6559 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6560 |
 | Dudley | Sonia Kumar MP | 5386 |
 | Dulwich and West Norwood | Helen Hayes MP | 1559 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5513 |
@@ -213,7 +213,7 @@
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4715 |
 | Harlow | Chris Vince MP | 6065 |
-| Harpenden and Berkhamsted | Victoria Collins MP | 4537 |
+| Harpenden and Berkhamsted | Victoria Collins MP | 4538 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5115 |
 | Harrow East | Bob Blackman MP | 3130 |
 | Harrow West | Gareth Thomas MP | 2404 |
@@ -236,7 +236,7 @@
 | Hinckley and Bosworth | Dr Luke Evans MP | 6486 |
 | Hitchin | Alistair Strathern MP | 4917 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2278 |
-| Honiton and Sidmouth | Richard Foord MP | 5253 |
+| Honiton and Sidmouth | Richard Foord MP | 5254 |
 | Hornchurch and Upminster | Julia Lopez MP | 6607 |
 | Hornsey and Friern Barnet | Catherine West MP | 1940 |
 | Horsham | John Milne MP | 5830 |
@@ -244,7 +244,7 @@
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3330 |
 | Huddersfield | Harpreet Uppal MP | 3678 |
 | Huntingdon | Ben Obese-Jecty MP | 5556 |
-| Hyndburn | Sarah Smith MP | 5001 |
+| Hyndburn | Sarah Smith MP | 5002 |
 | Ilford North | Rt Hon Wes Streeting MP | 2622 |
 | Ilford South | Jas Athwal MP | 1592 |
 | Ipswich | Jack Abbott MP | 4143 |
@@ -281,8 +281,8 @@
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1586 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1880 |
 | Lichfield | Dave Robertson MP | 6474 |
-| Lincoln | Mr Hamish Falconer MP | 4646 |
-| Liverpool Garston | Rt Hon Maria Eagle MP | 3126 |
+| Lincoln | Mr Hamish Falconer MP | 4647 |
+| Liverpool Garston | Rt Hon Maria Eagle MP | 3127 |
 | Liverpool Riverside | Kim Johnson MP | 2636 |
 | Liverpool Walton | Dan Carden MP | 3353 |
 | Liverpool Wavertree | Paula Barker MP | 2219 |
@@ -320,7 +320,7 @@
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5764 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5418 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5252 |
-| Newark | Rt Hon Robert Jenrick MP | 7162 |
+| Newark | Rt Hon Robert Jenrick MP | 7163 |
 | Newbury | Mr Lee Dillon MP | 4889 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4501 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4752 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5442 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6187 |
 | Peterborough | Andrew Pakes MP | 4158 |
-| Plymouth Moor View | Fred Thomas MP | 5679 |
+| Plymouth Moor View | Fred Thomas MP | 5680 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4744 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5447 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
@@ -572,7 +572,7 @@
 | East Renfrewshire | Blair McDougall MP | 2590 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
 | Midlothian | Kirsty McNeill MP | 2796 |
-| North Ayrshire and Arran | Irene Campbell MP | 3293 |
+| North Ayrshire and Arran | Irene Campbell MP | 3294 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1441 |
 | Aberdeen North | Kirsty Blackman MP | 3551 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3841 |
@@ -623,7 +623,7 @@
 | West Dunbartonshire | Douglas McAllister MP | 2723 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3553 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4024 |
-| Central Ayrshire | Alan Gemmell MP | 3133 |
+| Central Ayrshire | Alan Gemmell MP | 3134 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3253 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3685 |
