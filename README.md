@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991684                                |
-| Last Updated      | 2025-03-11 23:16:31 UTC                                    |
+| Total Signatures   | 2991697                                |
+| Last Updated      | 2025-03-12 01:21:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -12,7 +12,7 @@
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5803 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5501 |
 | Amber Valley | Linsey Farnsworth MP | 6084 |
-| Arundel and South Downs | Andrew Griffith MP | 6956 |
+| Arundel and South Downs | Andrew Griffith MP | 6957 |
 | Ashfield | Lee Anderson MP | 6159 |
 | Ashford | Sojan Joseph MP | 5889 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4587 |
@@ -75,7 +75,7 @@
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6623 |
 | Brigg and Immingham | Martin Vickers MP | 6462 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3933 |
-| Brighton Pavilion | Siân Berry MP | 2733 |
+| Brighton Pavilion | Siân Berry MP | 2734 |
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2980 |
 | Bristol North East | Damien Egan MP | 3080 |
@@ -88,7 +88,7 @@
 | Broxtowe | Juliet Campbell MP | 4712 |
 | Buckingham and Bletchley | Callum Anderson MP | 5255 |
 | Burnley | Oliver Ryan MP | 5723 |
-| Burton and Uttoxeter | Jacob Collier MP | 5798 |
+| Burton and Uttoxeter | Jacob Collier MP | 5799 |
 | Bury North | Mr James Frith MP | 4975 |
 | Bury South | Christian Wakeford MP | 5418 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5448 |
@@ -153,7 +153,7 @@
 | Dulwich and West Norwood | Helen Hayes MP | 1559 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5513 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3092 |
-| Ealing North | James Murray MP | 2579 |
+| Ealing North | James Murray MP | 2580 |
 | Ealing Southall | Deirdre Costigan MP | 1957 |
 | Earley and Woodley | Yuan Yang MP | 3952 |
 | Easington | Grahame Morris MP | 5732 |
@@ -231,7 +231,7 @@
 | Hertford and Stortford | Josh Dean MP | 5976 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5744 |
 | Hexham | Joe Morris MP | 6407 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5259 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5260 |
 | High Peak | Jon Pearce MP | 5448 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6486 |
 | Hitchin | Alistair Strathern MP | 4917 |
@@ -254,7 +254,7 @@
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2768 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5087 |
 | Keighley and Ilkley | Robbie Moore MP | 4691 |
-| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6101 |
+| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6102 |
 | Kensington and Bayswater | Joe Powell MP | 4403 |
 | Kettering | Rosie Wrighting MP | 5906 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3747 |
@@ -356,7 +356,7 @@
 | Norwich North | Alice Macdonald MP | 4398 |
 | Norwich South | Clive Lewis MP | 3388 |
 | Nottingham East | Nadia Whittome MP | 2475 |
-| Nottingham North and Kimberley | Alex Norris MP | 3726 |
+| Nottingham North and Kimberley | Alex Norris MP | 3727 |
 | Nottingham South | Lilian Greenwood MP | 3052 |
 | Nuneaton | Jodie Gosling MP | 5554 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
@@ -461,13 +461,13 @@
 | Stafford | Leigh Ingham MP | 5605 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6420 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5342 |
-| Stevenage | Kevin Bonavia MP | 4740 |
+| Stevenage | Kevin Bonavia MP | 4741 |
 | Stockport | Navendu Mishra MP | 3911 |
 | Stockton North | Chris McDonald MP | 4841 |
 | Stockton West | Matt Vickers MP | 5990 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4729 |
 | Stoke-on-Trent North | David Williams MP | 5454 |
-| Stoke-on-Trent South | Dr Allison Gardner MP | 5730 |
+| Stoke-on-Trent South | Dr Allison Gardner MP | 5731 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6534 |
 | Stourbridge | Cat Eccles MP | 5155 |
 | Stratford and Bow | Uma Kumaran MP | 1767 |
@@ -540,7 +540,7 @@
 | Woking | Mr Will Forster MP | 4397 |
 | Wokingham | Clive Jones MP | 4868 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4401 |
-| Wolverhampton South East | Rt Hon Pat McFadden MP | 4310 |
+| Wolverhampton South East | Rt Hon Pat McFadden MP | 4311 |
 | Wolverhampton West | Warinder Juss | 3820 |
 | Worcester | Tom Collins MP | 4325 |
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
@@ -571,7 +571,7 @@
 | West Tyrone | Órfhlaith Begley MP | 1664 |
 | East Renfrewshire | Blair McDougall MP | 2590 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
-| Midlothian | Kirsty McNeill MP | 2795 |
+| Midlothian | Kirsty McNeill MP | 2796 |
 | North Ayrshire and Arran | Irene Campbell MP | 3292 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1440 |
 | Aberdeen North | Kirsty Blackman MP | 3551 |
@@ -626,7 +626,7 @@
 | Central Ayrshire | Alan Gemmell MP | 3132 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3253 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3683 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3684 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5749 |
 | Bangor Aberconwy | Claire Hughes MP | 4515 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3639 |
@@ -642,7 +642,7 @@
 | Clwyd East | Becky Gittins MP | 6035 |
 | Clwyd North | Gill German MP | 5446 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4229 |
-| Gower | Tonia Antoniazzi MP | 4758 |
+| Gower | Tonia Antoniazzi MP | 4759 |
 | Llanelli | Dame Nia Griffith MP | 5246 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3707 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5484 |
