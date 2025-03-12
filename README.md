@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991740                                |
-| Last Updated      | 2025-03-12 09:19:12 UTC                                    |
+| Total Signatures   | 2991745                                |
+| Last Updated      | 2025-03-12 10:18:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -354,7 +354,7 @@
 | Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4963 |
 | Norwich North | Alice Macdonald MP | 4399 |
-| Norwich South | Clive Lewis MP | 3388 |
+| Norwich South | Clive Lewis MP | 3389 |
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3727 |
 | Nottingham South | Lilian Greenwood MP | 3053 |
@@ -426,7 +426,7 @@
 | Smethwick | Gurinder Singh Josan MP | 3056 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5443 |
 | South Basildon and East Thurrock | James McMurdock MP | 6605 |
-| South Cambridgeshire | Pippa Heylings MP | 4452 |
+| South Cambridgeshire | Pippa Heylings MP | 4453 |
 | South Cotswolds | Dr Roz Savage MP | 5716 |
 | South Derbyshire | Samantha Niblett MP | 6167 |
 | South Devon | Caroline Voaden MP | 5321 |
@@ -515,7 +515,7 @@
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5310 |
 | Watford | Matt Turmaine MP | 3740 |
 | Waveney Valley | Adrian Ramsay MP | 5853 |
-| Weald of Kent | Katie Lam MP | 7227 |
+| Weald of Kent | Katie Lam MP | 7228 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5084 |
 | Wells and Mendip Hills | Tessa Munt MP | 5255 |
 | Welwyn Hatfield | Andrew Lewin MP | 5059 |
@@ -541,7 +541,7 @@
 | Wokingham | Clive Jones MP | 4868 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4401 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4311 |
-| Wolverhampton West | Warinder Juss | 3820 |
+| Wolverhampton West | Warinder Juss | 3821 |
 | Worcester | Tom Collins MP | 4325 |
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5248 |
@@ -615,7 +615,7 @@
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3935 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2729 |
 | North East Fife | Wendy Chamberlain MP | 2902 |
-| Paisley and Renfrewshire North | Alison Taylor MP | 2858 |
+| Paisley and Renfrewshire North | Alison Taylor MP | 2859 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2645 |
 | Perth and Kinross-shire | Pete Wishart MP | 3503 |
 | Rutherglen | Michael Shanks MP | 2573 |
