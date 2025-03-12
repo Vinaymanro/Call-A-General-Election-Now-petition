@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991707                                |
-| Last Updated      | 2025-03-12 03:26:37 UTC                                    |
+| Total Signatures   | 2991709                                |
+| Last Updated      | 2025-03-12 04:21:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5114 |
 | Harrow East | Bob Blackman MP | 3130 |
 | Harrow West | Gareth Thomas MP | 2404 |
-| Hartlepool | Mr Jonathan Brash MP | 5647 |
+| Hartlepool | Mr Jonathan Brash MP | 5648 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6274 |
 | Hastings and Rye | Helena Dollimore MP | 5068 |
 | Havant | Alan Mak MP | 5654 |
@@ -630,7 +630,7 @@
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5749 |
 | Bangor Aberconwy | Claire Hughes MP | 4515 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3639 |
-| Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5274 |
+| Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5275 |
 | Bridgend | Chris Elmore MP | 4236 |
 | Caerfyrddin | Ann Davies MP | 5200 |
 | Caerphilly | Chris Evans MP | 3987 |
