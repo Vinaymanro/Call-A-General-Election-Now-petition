@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991833                                |
-| Last Updated      | 2025-03-12 20:19:32 UTC                                    |
+| Total Signatures   | 2991843                                |
+| Last Updated      | 2025-03-12 21:16:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -88,7 +88,7 @@
 | Broxtowe | Juliet Campbell MP | 4712 |
 | Buckingham and Bletchley | Callum Anderson MP | 5255 |
 | Burnley | Oliver Ryan MP | 5723 |
-| Burton and Uttoxeter | Jacob Collier MP | 5799 |
+| Burton and Uttoxeter | Jacob Collier MP | 5800 |
 | Bury North | Mr James Frith MP | 4975 |
 | Bury South | Christian Wakeford MP | 5418 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5449 |
@@ -131,7 +131,7 @@
 | Cramlington and Killingworth | Emma Foody MP | 5800 |
 | Crawley | Peter Lamb MP | 4713 |
 | Crewe and Nantwich | Connor Naismith MP | 5690 |
-| Croydon East | Natasha Irons MP | 3335 |
+| Croydon East | Natasha Irons MP | 3336 |
 | Croydon South | Rt Hon Chris Philp MP | 3957 |
 | Croydon West | Sarah Jones MP | 1743 |
 | Dagenham and Rainham | Margaret Mullane MP | 4233 |
@@ -236,7 +236,7 @@
 | Hinckley and Bosworth | Dr Luke Evans MP | 6486 |
 | Hitchin | Alistair Strathern MP | 4917 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2278 |
-| Honiton and Sidmouth | Richard Foord MP | 5252 |
+| Honiton and Sidmouth | Richard Foord MP | 5253 |
 | Hornchurch and Upminster | Julia Lopez MP | 6607 |
 | Hornsey and Friern Barnet | Catherine West MP | 1940 |
 | Horsham | John Milne MP | 5830 |
@@ -261,7 +261,7 @@
 | Kingston upon Hull East | Karl Turner MP | 4997 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4640 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5492 |
-| Kingswinford and South Staffordshire | Mike Wood MP | 6391 |
+| Kingswinford and South Staffordshire | Mike Wood MP | 6392 |
 | Knowsley | Anneliese Midgley MP | 3277 |
 | Lancaster and Wyre | Cat Smith MP | 5077 |
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
@@ -311,7 +311,7 @@
 | Mid Dorset and North Poole | Vikki Slade MP | 5881 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5593 |
 | Mid Norfolk | George Freeman MP | 6284 |
-| Mid Sussex | Alison Bennett MP | 4697 |
+| Mid Sussex | Alison Bennett MP | 4698 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4227 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5709 |
 | Milton Keynes Central | Emily Darlington MP | 4941 |
@@ -356,9 +356,9 @@
 | Norwich North | Alice Macdonald MP | 4401 |
 | Norwich South | Clive Lewis MP | 3389 |
 | Nottingham East | Nadia Whittome MP | 2475 |
-| Nottingham North and Kimberley | Alex Norris MP | 3727 |
+| Nottingham North and Kimberley | Alex Norris MP | 3729 |
 | Nottingham South | Lilian Greenwood MP | 3053 |
-| Nuneaton | Jodie Gosling MP | 5554 |
+| Nuneaton | Jodie Gosling MP | 5555 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4082 |
@@ -471,7 +471,7 @@
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6534 |
 | Stourbridge | Cat Eccles MP | 5156 |
 | Stratford and Bow | Uma Kumaran MP | 1767 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6712 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6713 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1863 |
 | Stretford and Urmston | Andrew Western MP | 3823 |
 | Stroud | Dr Simon Opher MP | 4534 |
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4402 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4311 |
 | Wolverhampton West | Warinder Juss | 3821 |
-| Worcester | Tom Collins MP | 4325 |
+| Worcester | Tom Collins MP | 4326 |
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5248 |
 | Wycombe | Emma Reynolds MP | 3613 |
