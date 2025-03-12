@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991745                                |
-| Last Updated      | 2025-03-12 10:18:49 UTC                                    |
+| Total Signatures   | 2991752                                |
+| Last Updated      | 2025-03-12 11:14:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -39,7 +39,7 @@
 | Birkenhead | Alison McGovern MP | 4315 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2950 |
 | Birmingham Erdington | Paulette Hamilton MP | 4239 |
-| Birmingham Hall Green and Moseley | Tahir Ali MP | 1578 |
+| Birmingham Hall Green and Moseley | Tahir Ali MP | 1579 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3482 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1897 |
 | Birmingham Northfield | Laurence Turner MP | 4891 |
@@ -170,7 +170,7 @@
 | Ellesmere Port and Bromborough | Justin Madders MP | 4440 |
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5171 |
-| Enfield North | Feryal Clark MP | 2888 |
+| Enfield North | Feryal Clark MP | 2889 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
 | Epsom and Ewell | Helen Maguire MP | 4927 |
 | Erewash | Adam Thompson MP | 5823 |
@@ -412,7 +412,7 @@
 | Selby | Keir Mather MP | 6371 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6665 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3424 |
-| Sheffield Central | Abtisam Mohamed MP | 1426 |
+| Sheffield Central | Abtisam Mohamed MP | 1427 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3534 |
 | Sheffield South East | Mr Clive Betts MP | 4734 |
@@ -451,12 +451,12 @@
 | Southgate and Wood Green | Bambos Charalambous MP | 2586 |
 | Southport | Patrick Hurley MP | 5950 |
 | Spelthorne | Lincoln Jopp MP | 5459 |
-| Spen Valley | Kim Leadbeater MP | 5375 |
+| Spen Valley | Kim Leadbeater MP | 5376 |
 | St Albans | Daisy Cooper MP | 3877 |
 | St Austell and Newquay | Noah Law MP | 5605 |
 | St Helens North | David Baines MP | 4692 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4149 |
-| St Ives | Andrew George MP | 5090 |
+| St Ives | Andrew George MP | 5091 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4800 |
 | Stafford | Leigh Ingham MP | 5605 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6420 |
@@ -622,7 +622,7 @@
 | Stirling and Strathallan | Chris Kane MP | 3219 |
 | West Dunbartonshire | Douglas McAllister MP | 2723 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3550 |
-| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4023 |
+| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4024 |
 | Central Ayrshire | Alan Gemmell MP | 3133 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3253 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
@@ -646,7 +646,7 @@
 | Llanelli | Dame Nia Griffith MP | 5246 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3707 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5484 |
-| Monmouthshire | Catherine Fookes MP | 4733 |
+| Monmouthshire | Catherine Fookes MP | 4734 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6042 |
 | Neath and Swansea East | Carolyn Harris MP | 4438 |
 | Newport East | Jessica Morden MP | 4007 |
