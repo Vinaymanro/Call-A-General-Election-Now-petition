@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991883                                |
-| Last Updated      | 2025-03-13 04:21:40 UTC                                    |
+| Total Signatures   | 2991884                                |
+| Last Updated      | 2025-03-13 05:17:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -403,7 +403,7 @@
 | Runcorn and Helsby | Mike Amesbury MP | 5024 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5833 |
 | Rushcliffe | James Naish MP | 5074 |
-| Rutland and Stamford | Alicia Kearns MP | 6261 |
+| Rutland and Stamford | Alicia Kearns MP | 6262 |
 | Salford | Rebecca Long Bailey MP | 4662 |
 | Salisbury | Rt Hon John Glen MP | 4749 |
 | Scarborough and Whitby | Alison Hume MP | 5998 |
