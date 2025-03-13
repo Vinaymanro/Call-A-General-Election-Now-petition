@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991923                                |
-| Last Updated      | 2025-03-13 10:19:13 UTC                                    |
+| Total Signatures   | 2991930                                |
+| Last Updated      | 2025-03-13 11:15:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5850 |
 | Cities of London and Westminster | Rachel Blake MP | 5173 |
 | City of Durham | Mary Kelly Foy MP | 4252 |
-| Clacton | Nigel Farage MP | 8081 |
+| Clacton | Nigel Farage MP | 8082 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5031 |
@@ -130,7 +130,7 @@
 | Coventry South | Zarah Sultana MP | 3513 |
 | Cramlington and Killingworth | Emma Foody MP | 5800 |
 | Crawley | Peter Lamb MP | 4713 |
-| Crewe and Nantwich | Connor Naismith MP | 5690 |
+| Crewe and Nantwich | Connor Naismith MP | 5691 |
 | Croydon East | Natasha Irons MP | 3336 |
 | Croydon South | Rt Hon Chris Philp MP | 3957 |
 | Croydon West | Sarah Jones MP | 1743 |
@@ -193,7 +193,7 @@
 | Gedling | Michael Payne MP | 5053 |
 | Gillingham and Rainham | Naushabah Khan MP | 5051 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5588 |
-| Gloucester | Alex McIntyre MP | 4537 |
+| Gloucester | Alex McIntyre MP | 4538 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6957 |
 | Gorton and Denton | Andrew Gwynne MP | 3277 |
@@ -255,7 +255,7 @@
 | Jarrow and Gateshead East | Kate Osborne MP | 5087 |
 | Keighley and Ilkley | Robbie Moore MP | 4691 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6102 |
-| Kensington and Bayswater | Joe Powell MP | 4403 |
+| Kensington and Bayswater | Joe Powell MP | 4404 |
 | Kettering | Rosie Wrighting MP | 5906 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3748 |
 | Kingston upon Hull East | Karl Turner MP | 4997 |
@@ -285,7 +285,7 @@
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3127 |
 | Liverpool Riverside | Kim Johnson MP | 2636 |
 | Liverpool Walton | Dan Carden MP | 3353 |
-| Liverpool Wavertree | Paula Barker MP | 2219 |
+| Liverpool Wavertree | Paula Barker MP | 2220 |
 | Liverpool West Derby | Ian Byrne MP | 3051 |
 | Loughborough | Dr Jeevun Sandher MP | 4476 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7798 |
@@ -424,7 +424,7 @@
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6289 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2583 |
 | Smethwick | Gurinder Singh Josan MP | 3056 |
-| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5444 |
+| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5445 |
 | South Basildon and East Thurrock | James McMurdock MP | 6605 |
 | South Cambridgeshire | Pippa Heylings MP | 4453 |
 | South Cotswolds | Dr Roz Savage MP | 5716 |
@@ -499,7 +499,7 @@
 | Torbay | Steve Darling MP | 5825 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6576 |
 | Tottenham | Rt Hon David Lammy MP | 1685 |
-| Truro and Falmouth | Jayne Kirkham MP | 4603 |
+| Truro and Falmouth | Jayne Kirkham MP | 4604 |
 | Tunbridge Wells | Mike Martin MP | 5458 |
 | Twickenham | Munira Wilson MP | 3652 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4486 |
