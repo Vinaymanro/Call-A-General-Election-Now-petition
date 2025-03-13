@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991884                                |
-| Last Updated      | 2025-03-13 05:17:13 UTC                                    |
+| Total Signatures   | 2991888                                |
+| Last Updated      | 2025-03-13 06:25:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -140,7 +140,7 @@
 | Daventry | Rt Hon Stuart Andrew MP | 7280 |
 | Derby North | Catherine Atkinson MP | 4321 |
 | Derby South | Baggy Shanker MP | 3605 |
-| Derbyshire Dales | John Whitby MP | 6776 |
+| Derbyshire Dales | John Whitby MP | 6777 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3175 |
 | Didcot and Wantage | Olly Glover MP | 4880 |
 | Doncaster Central | Sally Jameson MP | 4937 |
@@ -257,7 +257,7 @@
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6102 |
 | Kensington and Bayswater | Joe Powell MP | 4403 |
 | Kettering | Rosie Wrighting MP | 5906 |
-| Kingston and Surbiton | Rt Hon Ed Davey MP | 3747 |
+| Kingston and Surbiton | Rt Hon Ed Davey MP | 3748 |
 | Kingston upon Hull East | Karl Turner MP | 4997 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4640 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5492 |
@@ -396,7 +396,7 @@
 | Romford | Andrew Rosindell MP | 5786 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5068 |
 | Rossendale and Darwen | Andy MacNae MP | 6489 |
-| Rother Valley | Jake Richards MP | 5853 |
+| Rother Valley | Jake Richards MP | 5854 |
 | Rotherham | Sarah Champion MP | 4945 |
 | Rugby | John Slinger MP | 5409 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4104 |
@@ -503,7 +503,7 @@
 | Tunbridge Wells | Mike Martin MP | 5458 |
 | Twickenham | Munira Wilson MP | 3652 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4486 |
-| Uxbridge and South Ruislip | Danny Beales MP | 4477 |
+| Uxbridge and South Ruislip | Danny Beales MP | 4478 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1676 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4914 |
 | Wallasey | Dame Angela Eagle MP | 4067 |
