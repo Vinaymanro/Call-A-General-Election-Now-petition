@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992025                                |
-| Last Updated      | 2025-03-13 18:25:06 UTC                                    |
+| Total Signatures   | 2992032                                |
+| Last Updated      | 2025-03-13 19:14:22 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -13,7 +13,7 @@
 | Altrincham and Sale West | Mr Connor Rand MP | 5501 |
 | Amber Valley | Linsey Farnsworth MP | 6085 |
 | Arundel and South Downs | Andrew Griffith MP | 6957 |
-| Ashfield | Lee Anderson MP | 6161 |
+| Ashfield | Lee Anderson MP | 6162 |
 | Ashford | Sojan Joseph MP | 5891 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4587 |
 | Aylesbury | Laura Kyrke-Smith MP | 4865 |
@@ -45,7 +45,7 @@
 | Birmingham Northfield | Laurence Turner MP | 4892 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1719 |
 | Birmingham Selly Oak | Al Carns MP | 3293 |
-| Birmingham Yardley | Jess Phillips MP | 3083 |
+| Birmingham Yardley | Jess Phillips MP | 3084 |
 | Bishop Auckland | Sam Rushworth MP | 6165 |
 | Blackburn | Mr Adnan Hussain MP | 3126 |
 | Blackley and Middleton South | Graham Stringer MP | 3767 |
@@ -54,10 +54,10 @@
 | Blaydon and Consett | Liz Twist MP | 5248 |
 | Blyth and Ashington | Ian Lavery MP | 5853 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
-| Bolsover | Natalie Fleet MP | 6535 |
+| Bolsover | Natalie Fleet MP | 6536 |
 | Bolton North East | Kirith Entwistle MP | 5597 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4410 |
-| Bolton West | Phil Brickell MP | 5578 |
+| Bolton West | Phil Brickell MP | 5579 |
 | Bootle | Peter Dowd MP | 3148 |
 | Boston and Skegness | Richard Tice MP | 7082 |
 | Bournemouth East | Tom Hayes MP | 4660 |
@@ -128,7 +128,7 @@
 | Coventry East | Mary Creagh MP | 3591 |
 | Coventry North West | Taiwo Owatemi MP | 4253 |
 | Coventry South | Zarah Sultana MP | 3513 |
-| Cramlington and Killingworth | Emma Foody MP | 5800 |
+| Cramlington and Killingworth | Emma Foody MP | 5801 |
 | Crawley | Peter Lamb MP | 4713 |
 | Crewe and Nantwich | Connor Naismith MP | 5691 |
 | Croydon East | Natasha Irons MP | 3336 |
@@ -258,7 +258,7 @@
 | Kensington and Bayswater | Joe Powell MP | 4404 |
 | Kettering | Rosie Wrighting MP | 5906 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3748 |
-| Kingston upon Hull East | Karl Turner MP | 4997 |
+| Kingston upon Hull East | Karl Turner MP | 4998 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4641 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5492 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6394 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6195 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5442 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6187 |
-| Peterborough | Andrew Pakes MP | 4160 |
+| Peterborough | Andrew Pakes MP | 4161 |
 | Plymouth Moor View | Fred Thomas MP | 5680 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4745 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5447 |
