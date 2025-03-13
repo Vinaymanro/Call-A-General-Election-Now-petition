@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991999                                |
-| Last Updated      | 2025-03-13 16:23:16 UTC                                    |
+| Total Signatures   | 2992009                                |
+| Last Updated      | 2025-03-13 17:14:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -150,7 +150,7 @@
 | Dover and Deal | Mike Tapp MP | 5923 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6560 |
 | Dudley | Sonia Kumar MP | 5386 |
-| Dulwich and West Norwood | Helen Hayes MP | 1559 |
+| Dulwich and West Norwood | Helen Hayes MP | 1560 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5513 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3092 |
 | Ealing North | James Murray MP | 2580 |
@@ -198,7 +198,7 @@
 | Goole and Pocklington | Rt Hon David Davis MP | 6957 |
 | Gorton and Denton | Andrew Gwynne MP | 3277 |
 | Gosport | Dame Caroline Dinenage MP | 5476 |
-| Grantham and Bourne | Gareth Davies MP | 6326 |
+| Grantham and Bourne | Gareth Davies MP | 6327 |
 | Gravesham | Dr Lauren Sullivan MP | 5144 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5797 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
@@ -287,7 +287,7 @@
 | Liverpool Walton | Dan Carden MP | 3354 |
 | Liverpool Wavertree | Paula Barker MP | 2220 |
 | Liverpool West Derby | Ian Byrne MP | 3051 |
-| Loughborough | Dr Jeevun Sandher MP | 4476 |
+| Loughborough | Dr Jeevun Sandher MP | 4477 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7798 |
 | Lowestoft | Jess Asato MP | 5333 |
 | Luton North | Sarah Owen MP | 2473 |
@@ -309,7 +309,7 @@
 | Mid Cheshire | Andrew Cooper MP | 5167 |
 | Mid Derbyshire | Jonathan Davies MP | 5229 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5881 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5594 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5595 |
 | Mid Norfolk | George Freeman MP | 6285 |
 | Mid Sussex | Alison Bennett MP | 4698 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4227 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6194 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5442 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6187 |
-| Peterborough | Andrew Pakes MP | 4158 |
+| Peterborough | Andrew Pakes MP | 4159 |
 | Plymouth Moor View | Fred Thomas MP | 5680 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4745 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5447 |
@@ -421,7 +421,7 @@
 | Shrewsbury | Julia Buckley MP | 5325 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6861 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6670 |
-| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6290 |
+| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6291 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2583 |
 | Smethwick | Gurinder Singh Josan MP | 3056 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5445 |
@@ -446,7 +446,7 @@
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5203 |
 | Southampton Itchen | Darren Paffey MP | 4548 |
 | Southampton Test | Satvir Kaur MP | 3404 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5580 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5581 |
 | Southend West and Leigh | David Burton-Sampson MP | 5874 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2586 |
 | Southport | Patrick Hurley MP | 5950 |
@@ -490,10 +490,10 @@
 | Tewkesbury | Cameron Thomas MP | 5011 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7430 |
-| Thornbury and Yate | Claire Young MP | 5694 |
+| Thornbury and Yate | Claire Young MP | 5695 |
 | Thurrock | Jen Craft MP | 5112 |
 | Tipton and Wednesbury | Antonia Bance MP | 4912 |
-| Tiverton and Minehead | Rachel Gilmour MP | 5953 |
+| Tiverton and Minehead | Rachel Gilmour MP | 5954 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5952 |
 | Tooting | Dr Rosena Allin-Khan MP | 2692 |
 | Torbay | Steve Darling MP | 5825 |
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4402 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4311 |
 | Wolverhampton West | Warinder Juss | 3821 |
-| Worcester | Tom Collins MP | 4327 |
+| Worcester | Tom Collins MP | 4328 |
 | Worsley and Eccles | Michael Wheeler MP | 5435 |
 | Worthing West | Dr Beccy Cooper MP | 5248 |
 | Wycombe | Emma Reynolds MP | 3613 |
