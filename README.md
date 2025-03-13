@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991913                                |
-| Last Updated      | 2025-03-13 09:19:02 UTC                                    |
+| Total Signatures   | 2991923                                |
+| Last Updated      | 2025-03-13 10:19:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -79,8 +79,8 @@
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2980 |
 | Bristol North East | Damien Egan MP | 3081 |
-| Bristol North West | Rt Hon Darren Jones MP | 3207 |
-| Bristol South | Karin Smyth MP | 3962 |
+| Bristol North West | Rt Hon Darren Jones MP | 3208 |
+| Bristol South | Karin Smyth MP | 3963 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5830 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
 | Bromsgrove | Bradley Thomas MP | 6476 |
@@ -95,7 +95,7 @@
 | Calder Valley | Josh Fenton-Glynn MP | 5652 |
 | Camborne and Redruth | Perran Moon MP | 4965 |
 | Cambridge | Daniel Zeichner MP | 2212 |
-| Cannock Chase | Josh Newbury MP | 6879 |
+| Cannock Chase | Josh Newbury MP | 6880 |
 | Canterbury | Rosie Duffield MP | 4471 |
 | Carlisle | Ms Julie Minns MP | 6531 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1740 |
 | Colchester | Pam Cox MP | 4991 |
 | Colne Valley | Paul Davies MP | 5031 |
-| Congleton | Mrs Sarah Russell MP | 5977 |
+| Congleton | Mrs Sarah Russell MP | 5978 |
 | Corby and East Northamptonshire | Lee Barron MP | 6004 |
 | Coventry East | Mary Creagh MP | 3591 |
 | Coventry North West | Taiwo Owatemi MP | 4252 |
@@ -363,7 +363,7 @@
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4082 |
 | Orpington | Gareth Bacon MP | 5310 |
-| Ossett and Denby Dale | Jade Botterill MP | 5794 |
+| Ossett and Denby Dale | Jade Botterill MP | 5795 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
 | Oxford West and Abingdon | Layla Moran MP | 2927 |
 | Peckham | Miatta Fahnbulleh MP | 1356 |
@@ -389,7 +389,7 @@
 | Redditch | Chris Bloore MP | 6071 |
 | Reigate | Rebecca Paul MP | 5550 |
 | Ribble Valley | Maya Ellis MP | 6711 |
-| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7103 |
+| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7104 |
 | Richmond Park | Sarah Olney MP | 4060 |
 | Rochdale | Paul Waugh MP | 3950 |
 | Rochester and Strood | Lauren Edwards MP | 6022 |
@@ -445,8 +445,8 @@
 | South West Norfolk | Terry Jermy MP | 6525 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5203 |
 | Southampton Itchen | Darren Paffey MP | 4548 |
-| Southampton Test | Satvir Kaur MP | 3403 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5579 |
+| Southampton Test | Satvir Kaur MP | 3404 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5580 |
 | Southend West and Leigh | David Burton-Sampson MP | 5874 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2586 |
 | Southport | Patrick Hurley MP | 5950 |
@@ -490,7 +490,7 @@
 | Tewkesbury | Cameron Thomas MP | 5011 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7430 |
-| Thornbury and Yate | Claire Young MP | 5693 |
+| Thornbury and Yate | Claire Young MP | 5694 |
 | Thurrock | Jen Craft MP | 5112 |
 | Tipton and Wednesbury | Antonia Bance MP | 4912 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5952 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5149 |
 | Warrington South | Sarah Hall MP | 5562 |
 | Warwick and Leamington | Matt Western MP | 4473 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5312 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5313 |
 | Watford | Matt Turmaine MP | 3741 |
 | Waveney Valley | Adrian Ramsay MP | 5853 |
 | Weald of Kent | Katie Lam MP | 7228 |
