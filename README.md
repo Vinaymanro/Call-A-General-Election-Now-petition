@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991902                                |
-| Last Updated      | 2025-03-13 08:23:55 UTC                                    |
+| Total Signatures   | 2991913                                |
+| Last Updated      | 2025-03-13 09:19:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -78,7 +78,7 @@
 | Brighton Pavilion | Siân Berry MP | 2734 |
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2980 |
-| Bristol North East | Damien Egan MP | 3080 |
+| Bristol North East | Damien Egan MP | 3081 |
 | Bristol North West | Rt Hon Darren Jones MP | 3207 |
 | Bristol South | Karin Smyth MP | 3962 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5830 |
@@ -275,10 +275,10 @@
 | Leicester South | Shockat Adam MP | 1842 |
 | Leicester West | Rt Hon Liz Kendall MP | 3463 |
 | Leigh and Atherton | Jo Platt MP | 6075 |
-| Lewes | James MacCleary MP | 4901 |
+| Lewes | James MacCleary MP | 4902 |
 | Lewisham East | Janet Daby MP | 2146 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
-| Lewisham West and East Dulwich | Ellie Reeves MP | 1586 |
+| Lewisham West and East Dulwich | Ellie Reeves MP | 1588 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1880 |
 | Lichfield | Dave Robertson MP | 6474 |
 | Lincoln | Mr Hamish Falconer MP | 4647 |
@@ -313,9 +313,9 @@
 | Mid Norfolk | George Freeman MP | 6285 |
 | Mid Sussex | Alison Bennett MP | 4698 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4227 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5709 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5710 |
 | Milton Keynes Central | Emily Darlington MP | 4941 |
-| Milton Keynes North | Chris Curtis MP | 4566 |
+| Milton Keynes North | Chris Curtis MP | 4567 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5764 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5418 |
@@ -438,13 +438,13 @@
 | South Northamptonshire | Sarah Bool MP | 6669 |
 | South Ribble | Mr Paul Foster MP | 5899 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4717 |
-| South Shropshire | Stuart Anderson MP | 7323 |
+| South Shropshire | Stuart Anderson MP | 7324 |
 | South Suffolk | James Cartlidge MP | 6147 |
 | South West Devon | Rebecca Smith MP | 5972 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5205 |
 | South West Norfolk | Terry Jermy MP | 6525 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5203 |
-| Southampton Itchen | Darren Paffey MP | 4545 |
+| Southampton Itchen | Darren Paffey MP | 4548 |
 | Southampton Test | Satvir Kaur MP | 3403 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5579 |
 | Southend West and Leigh | David Burton-Sampson MP | 5874 |
@@ -641,7 +641,7 @@
 | Ceredigion Preseli | Ben Lake MP | 4735 |
 | Clwyd East | Becky Gittins MP | 6035 |
 | Clwyd North | Gill German MP | 5446 |
-| Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4229 |
+| Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4230 |
 | Gower | Tonia Antoniazzi MP | 4759 |
 | Llanelli | Dame Nia Griffith MP | 5247 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3707 |
