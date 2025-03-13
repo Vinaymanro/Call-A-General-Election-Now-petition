@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992051                                |
-| Last Updated      | 2025-03-13 20:19:26 UTC                                    |
+| Total Signatures   | 2992061                                |
+| Last Updated      | 2025-03-13 21:16:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -19,7 +19,7 @@
 | Aylesbury | Laura Kyrke-Smith MP | 4865 |
 | Banbury | Sean Woodcock MP | 5454 |
 | Barking | Nesil Caliskan MP | 2632 |
-| Barnsley North | Dan Jarvis MP | 5677 |
+| Barnsley North | Dan Jarvis MP | 5678 |
 | Barnsley South | Stephanie Peacock MP | 5766 |
 | Barrow and Furness | Michelle Scrogham MP | 5314 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6887 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3808 |
 | Putney | Fleur Anderson MP | 3516 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2152 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5115 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5117 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7355 |
 | Reading Central | Matt Rodda MP | 3027 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4447 |
@@ -408,9 +408,9 @@
 | Salisbury | Rt Hon John Glen MP | 4749 |
 | Scarborough and Whitby | Alison Hume MP | 5999 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5079 |
-| Sefton Central | Bill Esterson MP | 4014 |
+| Sefton Central | Bill Esterson MP | 4015 |
 | Selby | Keir Mather MP | 6371 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6665 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6666 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3424 |
 | Sheffield Central | Abtisam Mohamed MP | 1428 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
@@ -420,7 +420,7 @@
 | Shipley | Anna Dixon MP | 4891 |
 | Shrewsbury | Julia Buckley MP | 5325 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6861 |
-| Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6670 |
+| Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6671 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6291 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2583 |
 | Smethwick | Gurinder Singh Josan MP | 3056 |
@@ -482,7 +482,7 @@
 | Sutton and Cheam | Luke Taylor MP | 4389 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5671 |
 | Swindon North | Will Stone MP | 4897 |
-| Swindon South | Rt Hon Heidi Alexander MP | 4206 |
+| Swindon South | Rt Hon Heidi Alexander MP | 4207 |
 | Tamworth | Sarah Edwards MP | 6943 |
 | Tatton | Rt Hon Esther McVey MP | 6500 |
 | Taunton and Wellington | Gideon Amos MP | 5174 |
@@ -495,9 +495,9 @@
 | Tipton and Wednesbury | Antonia Bance MP | 4912 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5954 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5952 |
-| Tooting | Dr Rosena Allin-Khan MP | 2692 |
+| Tooting | Dr Rosena Allin-Khan MP | 2693 |
 | Torbay | Steve Darling MP | 5825 |
-| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6576 |
+| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6577 |
 | Tottenham | Rt Hon David Lammy MP | 1685 |
 | Truro and Falmouth | Jayne Kirkham MP | 4604 |
 | Tunbridge Wells | Mike Martin MP | 5458 |
@@ -539,7 +539,7 @@
 | Witney | Charlie Maynard MP | 5162 |
 | Woking | Mr Will Forster MP | 4397 |
 | Wokingham | Clive Jones MP | 4868 |
-| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4402 |
+| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4403 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4311 |
 | Wolverhampton West | Warinder Juss | 3821 |
 | Worcester | Tom Collins MP | 4328 |
