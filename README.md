@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992073                                |
-| Last Updated      | 2025-03-13 22:16:03 UTC                                    |
+| Total Signatures   | 2992079                                |
+| Last Updated      | 2025-03-13 23:16:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -55,7 +55,7 @@
 | Blyth and Ashington | Ian Lavery MP | 5853 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
 | Bolsover | Natalie Fleet MP | 6536 |
-| Bolton North East | Kirith Entwistle MP | 5598 |
+| Bolton North East | Kirith Entwistle MP | 5600 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4410 |
 | Bolton West | Phil Brickell MP | 5579 |
 | Bootle | Peter Dowd MP | 3148 |
@@ -190,7 +190,7 @@
 | Fylde | Mr Andrew Snowden MP | 6770 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6651 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4525 |
-| Gedling | Michael Payne MP | 5053 |
+| Gedling | Michael Payne MP | 5054 |
 | Gillingham and Rainham | Naushabah Khan MP | 5053 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5588 |
 | Gloucester | Alex McIntyre MP | 4539 |
@@ -480,7 +480,7 @@
 | Surrey Heath | Dr Al Pinkerton MP | 5423 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6106 |
 | Sutton and Cheam | Luke Taylor MP | 4389 |
-| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5671 |
+| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5672 |
 | Swindon North | Will Stone MP | 4898 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4207 |
 | Tamworth | Sarah Edwards MP | 6943 |
@@ -535,7 +535,7 @@
 | Winchester | Dr Danny Chambers MP | 4918 |
 | Windsor | Jack Rankin MP | 5111 |
 | Wirral West | Matthew Patrick MP | 4206 |
-| Witham | Rt Hon Priti Patel MP | 7008 |
+| Witham | Rt Hon Priti Patel MP | 7009 |
 | Witney | Charlie Maynard MP | 5162 |
 | Woking | Mr Will Forster MP | 4397 |
 | Wokingham | Clive Jones MP | 4868 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2070 |
 | North Antrim | Jim Allister KC MP | 3089 |
 | North Down | Alex Easton MP | 3356 |
-| South Antrim | Robin Swann MP | 3087 |
+| South Antrim | Robin Swann MP | 3088 |
 | South Down | Chris Hazzard MP | 1840 |
 | Strangford | Jim Shannon MP | 3455 |
 | Upper Bann | Carla Lockhart MP | 3065 |
