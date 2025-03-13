@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991888                                |
-| Last Updated      | 2025-03-13 06:25:25 UTC                                    |
+| Total Signatures   | 2991893                                |
+| Last Updated      | 2025-03-13 07:17:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -74,7 +74,7 @@
 | Bridgwater | Sir Ashley Fox MP | 5753 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6623 |
 | Brigg and Immingham | Martin Vickers MP | 6462 |
-| Brighton Kemptown and Peacehaven | Chris Ward MP | 3933 |
+| Brighton Kemptown and Peacehaven | Chris Ward MP | 3934 |
 | Brighton Pavilion | Siân Berry MP | 2734 |
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2980 |
@@ -93,7 +93,7 @@
 | Bury South | Christian Wakeford MP | 5418 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5449 |
 | Calder Valley | Josh Fenton-Glynn MP | 5652 |
-| Camborne and Redruth | Perran Moon MP | 4964 |
+| Camborne and Redruth | Perran Moon MP | 4965 |
 | Cambridge | Daniel Zeichner MP | 2212 |
 | Cannock Chase | Josh Newbury MP | 6879 |
 | Canterbury | Rosie Duffield MP | 4471 |
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5334 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6026 |
-| East Thanet | Ms Polly Billington MP | 5475 |
+| East Thanet | Ms Polly Billington MP | 5476 |
 | East Wiltshire | Danny Kruger MP | 6064 |
 | East Worthing and Shoreham | Tom Rutland MP | 4606 |
 | Eastbourne | Josh Babarinde MP | 5038 |
@@ -189,7 +189,7 @@
 | Frome and East Somerset | Anna Sabine MP | 4328 |
 | Fylde | Mr Andrew Snowden MP | 6770 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6650 |
-| Gateshead Central and Whickham | Mark Ferguson MP | 4523 |
+| Gateshead Central and Whickham | Mark Ferguson MP | 4525 |
 | Gedling | Michael Payne MP | 5053 |
 | Gillingham and Rainham | Naushabah Khan MP | 5051 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5588 |
