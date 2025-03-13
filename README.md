@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991893                                |
-| Last Updated      | 2025-03-13 07:17:10 UTC                                    |
+| Total Signatures   | 2991902                                |
+| Last Updated      | 2025-03-13 08:23:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1579 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3482 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1897 |
-| Birmingham Northfield | Laurence Turner MP | 4891 |
+| Birmingham Northfield | Laurence Turner MP | 4892 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1719 |
 | Birmingham Selly Oak | Al Carns MP | 3293 |
 | Birmingham Yardley | Jess Phillips MP | 3083 |
@@ -80,7 +80,7 @@
 | Bristol East | Kerry McCarthy MP | 2980 |
 | Bristol North East | Damien Egan MP | 3080 |
 | Bristol North West | Rt Hon Darren Jones MP | 3207 |
-| Bristol South | Karin Smyth MP | 3961 |
+| Bristol South | Karin Smyth MP | 3962 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5830 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
 | Bromsgrove | Bradley Thomas MP | 6476 |
@@ -222,7 +222,7 @@
 | Hastings and Rye | Helena Dollimore MP | 5068 |
 | Havant | Alan Mak MP | 5654 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2593 |
-| Hazel Grove | Lisa Smart MP | 5099 |
+| Hazel Grove | Lisa Smart MP | 5100 |
 | Hemel Hempstead | David Taylor MP | 5073 |
 | Hendon | David Pinto-Duschinsky MP | 3798 |
 | Henley and Thame | Freddie van Mierlo MP | 5404 |
@@ -259,7 +259,7 @@
 | Kettering | Rosie Wrighting MP | 5906 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3748 |
 | Kingston upon Hull East | Karl Turner MP | 4997 |
-| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4640 |
+| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4641 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5492 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6392 |
 | Knowsley | Anneliese Midgley MP | 3277 |
@@ -310,7 +310,7 @@
 | Mid Derbyshire | Jonathan Davies MP | 5229 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5881 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5593 |
-| Mid Norfolk | George Freeman MP | 6284 |
+| Mid Norfolk | George Freeman MP | 6285 |
 | Mid Sussex | Alison Bennett MP | 4698 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4227 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5709 |
@@ -344,7 +344,7 @@
 | North Norfolk | Steff Aquarone MP | 5437 |
 | North Northumberland | David Smith MP | 6433 |
 | North Shropshire | Helen Morgan MP | 6877 |
-| North Somerset | Sadik Al-Hassan MP | 4583 |
+| North Somerset | Sadik Al-Hassan MP | 4584 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6266 |
 | North West Cambridgeshire | Sam Carling MP | 6015 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
@@ -418,7 +418,7 @@
 | Sheffield South East | Mr Clive Betts MP | 4734 |
 | Sherwood Forest | Michelle Welsh MP | 6659 |
 | Shipley | Anna Dixon MP | 4891 |
-| Shrewsbury | Julia Buckley MP | 5324 |
+| Shrewsbury | Julia Buckley MP | 5325 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6861 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6670 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6289 |
@@ -434,7 +434,7 @@
 | South East Cornwall | Anna Gelderd MP | 6238 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7132 |
 | South Leicestershire | Alberto Costa MP | 6988 |
-| South Norfolk | Ben Goldsborough MP | 5440 |
+| South Norfolk | Ben Goldsborough MP | 5441 |
 | South Northamptonshire | Sarah Bool MP | 6669 |
 | South Ribble | Mr Paul Foster MP | 5899 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4717 |
@@ -526,7 +526,7 @@
 | West Suffolk | Nick Timothy MP | 6038 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6260 |
 | Westmorland and Lonsdale | Tim Farron MP | 5193 |
-| Weston-super-Mare | Dan Aldridge MP | 5070 |
+| Weston-super-Mare | Dan Aldridge MP | 5071 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6576 |
 | Whitehaven and Workington | Josh MacAlister MP | 5847 |
 | Widnes and Halewood | Derek Twigg MP | 4235 |
