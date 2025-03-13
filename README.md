@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2991877                                |
-| Last Updated      | 2025-03-13 01:22:52 UTC                                    |
+| Total Signatures   | 2991882                                |
+| Last Updated      | 2025-03-13 02:55:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -126,7 +126,7 @@
 | Congleton | Mrs Sarah Russell MP | 5977 |
 | Corby and East Northamptonshire | Lee Barron MP | 6004 |
 | Coventry East | Mary Creagh MP | 3591 |
-| Coventry North West | Taiwo Owatemi MP | 4251 |
+| Coventry North West | Taiwo Owatemi MP | 4252 |
 | Coventry South | Zarah Sultana MP | 3513 |
 | Cramlington and Killingworth | Emma Foody MP | 5800 |
 | Crawley | Peter Lamb MP | 4713 |
@@ -407,7 +407,7 @@
 | Salford | Rebecca Long Bailey MP | 4662 |
 | Salisbury | Rt Hon John Glen MP | 4749 |
 | Scarborough and Whitby | Alison Hume MP | 5998 |
-| Scunthorpe | Sir Nicholas Dakin MP | 5078 |
+| Scunthorpe | Sir Nicholas Dakin MP | 5079 |
 | Sefton Central | Bill Esterson MP | 4014 |
 | Selby | Keir Mather MP | 6371 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6665 |
@@ -557,7 +557,7 @@
 | Belfast West | Paul Maskey MP | 1409 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3588 |
 | East Londonderry | Mr Gregory Campbell MP | 2524 |
-| Fermanagh and South Tyrone | Pat Cullen MP | 2264 |
+| Fermanagh and South Tyrone | Pat Cullen MP | 2265 |
 | Foyle | Colum Eastwood MP | 1057 |
 | Lagan Valley | Sorcha Eastwood MP | 3521 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1891 |
@@ -577,7 +577,7 @@
 | Aberdeen North | Kirsty Blackman MP | 3551 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3841 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4669 |
-| Airdrie and Shotts | Kenneth Stevenson MP | 2812 |
+| Airdrie and Shotts | Kenneth Stevenson MP | 2813 |
 | Alloa and Grangemouth | Brian Leishman MP | 3015 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4046 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3469 |
@@ -643,7 +643,7 @@
 | Clwyd North | Gill German MP | 5446 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4229 |
 | Gower | Tonia Antoniazzi MP | 4759 |
-| Llanelli | Dame Nia Griffith MP | 5246 |
+| Llanelli | Dame Nia Griffith MP | 5247 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3707 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5484 |
 | Monmouthshire | Catherine Fookes MP | 4734 |
