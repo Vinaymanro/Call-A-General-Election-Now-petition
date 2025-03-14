@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992111                                |
-| Last Updated      | 2025-03-14 07:16:48 UTC                                    |
+| Total Signatures   | 2992120                                |
+| Last Updated      | 2025-03-14 08:22:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -52,7 +52,7 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6151 |
 | Blackpool South | Chris Webb MP | 5813 |
 | Blaydon and Consett | Liz Twist MP | 5248 |
-| Blyth and Ashington | Ian Lavery MP | 5853 |
+| Blyth and Ashington | Ian Lavery MP | 5854 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
 | Bolsover | Natalie Fleet MP | 6536 |
 | Bolton North East | Kirith Entwistle MP | 5600 |
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 4975 |
 | Bury South | Christian Wakeford MP | 5419 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5450 |
-| Calder Valley | Josh Fenton-Glynn MP | 5652 |
+| Calder Valley | Josh Fenton-Glynn MP | 5653 |
 | Camborne and Redruth | Perran Moon MP | 4965 |
 | Cambridge | Daniel Zeichner MP | 2212 |
 | Cannock Chase | Josh Newbury MP | 6880 |
@@ -218,7 +218,7 @@
 | Harrow East | Bob Blackman MP | 3130 |
 | Harrow West | Gareth Thomas MP | 2404 |
 | Hartlepool | Mr Jonathan Brash MP | 5650 |
-| Harwich and North Essex | Sir Bernard Jenkin MP | 6275 |
+| Harwich and North Essex | Sir Bernard Jenkin MP | 6276 |
 | Hastings and Rye | Helena Dollimore MP | 5068 |
 | Havant | Alan Mak MP | 5654 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2593 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4161 |
 | Plymouth Moor View | Fred Thomas MP | 5681 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4745 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5447 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5448 |
 | Poole | Neil Duncan-Jordan MP | 5666 |
 | Poplar and Limehouse | Apsana Begum MP | 2922 |
 | Portsmouth North | Amanda Martin MP | 5615 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4843 |
 | Stockton West | Matt Vickers MP | 5990 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4729 |
-| Stoke-on-Trent North | David Williams MP | 5454 |
+| Stoke-on-Trent North | David Williams MP | 5455 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5732 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6535 |
 | Stourbridge | Cat Eccles MP | 5156 |
@@ -594,7 +594,7 @@
 | East Kilbride and Strathaven | Joani Reid MP | 3155 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2083 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2408 |
-| Edinburgh South | Rt Hon Ian Murray MP | 2059 |
+| Edinburgh South | Rt Hon Ian Murray MP | 2060 |
 | Edinburgh South West | Dr Scott Arthur MP | 2258 |
 | Edinburgh West | Christine Jardine MP | 2713 |
 | Falkirk | Euan Stainbank MP | 3439 |
@@ -605,7 +605,7 @@
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
 | Glasgow West | Patricia Ferguson MP | 2215 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2969 |
-| Gordon and Buchan | Harriet Cross MP | 4388 |
+| Gordon and Buchan | Harriet Cross MP | 4389 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3134 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2749 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3617 |
@@ -620,7 +620,7 @@
 | Perth and Kinross-shire | Pete Wishart MP | 3504 |
 | Rutherglen | Michael Shanks MP | 2573 |
 | Stirling and Strathallan | Chris Kane MP | 3220 |
-| West Dunbartonshire | Douglas McAllister MP | 2724 |
+| West Dunbartonshire | Douglas McAllister MP | 2725 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3553 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4024 |
 | Central Ayrshire | Alan Gemmell MP | 3134 |
@@ -632,7 +632,7 @@
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3639 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5276 |
 | Bridgend | Chris Elmore MP | 4236 |
-| Caerfyrddin | Ann Davies MP | 5201 |
+| Caerfyrddin | Ann Davies MP | 5202 |
 | Caerphilly | Chris Evans MP | 3987 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2895 |
 | Cardiff North | Anna McMorrin MP | 3291 |
