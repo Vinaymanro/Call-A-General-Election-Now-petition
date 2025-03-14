@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992225                                |
-| Last Updated      | 2025-03-14 18:23:58 UTC                                    |
+| Total Signatures   | 2992230                                |
+| Last Updated      | 2025-03-14 19:14:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -24,7 +24,7 @@
 | Barrow and Furness | Michelle Scrogham MP | 5314 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6888 |
 | Basingstoke | Luke Murphy MP | 4814 |
-| Bassetlaw | Jo White MP | 6746 |
+| Bassetlaw | Jo White MP | 6747 |
 | Bath | Wera Hobhouse MP | 2979 |
 | Battersea | Marsha De Cordova MP | 3612 |
 | Beaconsfield | Joy Morrissey MP | 5212 |
@@ -269,7 +269,7 @@
 | Leeds North East | Fabian Hamilton MP | 2632 |
 | Leeds North West | Katie White MP | 4389 |
 | Leeds South | Rt Hon Hilary Benn MP | 3872 |
-| Leeds South West and Morley | Mark Sewards MP | 5491 |
+| Leeds South West and Morley | Mark Sewards MP | 5492 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3784 |
 | Leicester East | Shivani Raja MP | 1883 |
 | Leicester South | Shockat Adam MP | 1842 |
@@ -476,7 +476,7 @@
 | Stretford and Urmston | Andrew Western MP | 3823 |
 | Stroud | Dr Simon Opher MP | 4534 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5396 |
-| Sunderland Central | Lewis Atkinson MP | 5231 |
+| Sunderland Central | Lewis Atkinson MP | 5232 |
 | Surrey Heath | Dr Al Pinkerton MP | 5423 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6106 |
 | Sutton and Cheam | Luke Taylor MP | 4389 |
@@ -526,7 +526,7 @@
 | West Suffolk | Nick Timothy MP | 6038 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6260 |
 | Westmorland and Lonsdale | Tim Farron MP | 5196 |
-| Weston-super-Mare | Dan Aldridge MP | 5071 |
+| Weston-super-Mare | Dan Aldridge MP | 5072 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6577 |
 | Whitehaven and Workington | Josh MacAlister MP | 5847 |
 | Widnes and Halewood | Derek Twigg MP | 4235 |
@@ -631,7 +631,7 @@
 | Bangor Aberconwy | Claire Hughes MP | 4515 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3639 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5276 |
-| Bridgend | Chris Elmore MP | 4236 |
+| Bridgend | Chris Elmore MP | 4237 |
 | Caerfyrddin | Ann Davies MP | 5202 |
 | Caerphilly | Chris Evans MP | 3988 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2895 |
