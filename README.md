@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992096                                |
-| Last Updated      | 2025-03-14 03:27:52 UTC                                    |
+| Total Signatures   | 2992101                                |
+| Last Updated      | 2025-03-14 04:20:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -125,7 +125,7 @@
 | Colne Valley | Paul Davies MP | 5031 |
 | Congleton | Mrs Sarah Russell MP | 5979 |
 | Corby and East Northamptonshire | Lee Barron MP | 6004 |
-| Coventry East | Mary Creagh MP | 3591 |
+| Coventry East | Mary Creagh MP | 3592 |
 | Coventry North West | Taiwo Owatemi MP | 4253 |
 | Coventry South | Zarah Sultana MP | 3513 |
 | Cramlington and Killingworth | Emma Foody MP | 5801 |
@@ -284,7 +284,7 @@
 | Lincoln | Mr Hamish Falconer MP | 4647 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3127 |
 | Liverpool Riverside | Kim Johnson MP | 2637 |
-| Liverpool Walton | Dan Carden MP | 3354 |
+| Liverpool Walton | Dan Carden MP | 3356 |
 | Liverpool Wavertree | Paula Barker MP | 2220 |
 | Liverpool West Derby | Ian Byrne MP | 3051 |
 | Loughborough | Dr Jeevun Sandher MP | 4477 |
@@ -307,7 +307,7 @@
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
 | Mid Cheshire | Andrew Cooper MP | 5167 |
-| Mid Derbyshire | Jonathan Davies MP | 5229 |
+| Mid Derbyshire | Jonathan Davies MP | 5230 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5882 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5596 |
 | Mid Norfolk | George Freeman MP | 6285 |
@@ -463,7 +463,7 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5342 |
 | Stevenage | Kevin Bonavia MP | 4743 |
 | Stockport | Navendu Mishra MP | 3911 |
-| Stockton North | Chris McDonald MP | 4842 |
+| Stockton North | Chris McDonald MP | 4843 |
 | Stockton West | Matt Vickers MP | 5990 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4729 |
 | Stoke-on-Trent North | David Williams MP | 5454 |
