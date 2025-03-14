@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992094                                |
-| Last Updated      | 2025-03-14 02:53:59 UTC                                    |
+| Total Signatures   | 2992096                                |
+| Last Updated      | 2025-03-14 03:27:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -503,7 +503,7 @@
 | Tunbridge Wells | Mike Martin MP | 5458 |
 | Twickenham | Munira Wilson MP | 3652 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4486 |
-| Uxbridge and South Ruislip | Danny Beales MP | 4478 |
+| Uxbridge and South Ruislip | Danny Beales MP | 4479 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1676 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4914 |
 | Wallasey | Dame Angela Eagle MP | 4067 |
@@ -565,7 +565,7 @@
 | North Antrim | Jim Allister KC MP | 3089 |
 | North Down | Alex Easton MP | 3357 |
 | South Antrim | Robin Swann MP | 3089 |
-| South Down | Chris Hazzard MP | 1840 |
+| South Down | Chris Hazzard MP | 1841 |
 | Strangford | Jim Shannon MP | 3455 |
 | Upper Bann | Carla Lockhart MP | 3065 |
 | West Tyrone | Órfhlaith Begley MP | 1664 |
