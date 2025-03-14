@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992205                                |
-| Last Updated      | 2025-03-14 16:21:50 UTC                                    |
+| Total Signatures   | 2992213                                |
+| Last Updated      | 2025-03-14 17:13:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3127 |
 | Blackley and Middleton South | Graham Stringer MP | 3767 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6151 |
-| Blackpool South | Chris Webb MP | 5814 |
+| Blackpool South | Chris Webb MP | 5815 |
 | Blaydon and Consett | Liz Twist MP | 5248 |
 | Blyth and Ashington | Ian Lavery MP | 5854 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
@@ -128,7 +128,7 @@
 | Coventry East | Mary Creagh MP | 3593 |
 | Coventry North West | Taiwo Owatemi MP | 4253 |
 | Coventry South | Zarah Sultana MP | 3514 |
-| Cramlington and Killingworth | Emma Foody MP | 5802 |
+| Cramlington and Killingworth | Emma Foody MP | 5803 |
 | Crawley | Peter Lamb MP | 4713 |
 | Crewe and Nantwich | Connor Naismith MP | 5691 |
 | Croydon East | Natasha Irons MP | 3336 |
@@ -382,7 +382,7 @@
 | Putney | Fleur Anderson MP | 3516 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2152 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5117 |
-| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7355 |
+| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7356 |
 | Reading Central | Matt Rodda MP | 3028 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4448 |
 | Redcar | Anna Turley MP | 5454 |
@@ -399,7 +399,7 @@
 | Rother Valley | Jake Richards MP | 5854 |
 | Rotherham | Sarah Champion MP | 4946 |
 | Rugby | John Slinger MP | 5411 |
-| Ruislip, Northwood and Pinner | David Simmonds MP | 4104 |
+| Ruislip, Northwood and Pinner | David Simmonds MP | 4105 |
 | Runcorn and Helsby | Mike Amesbury MP | 5024 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5833 |
 | Rushcliffe | James Naish MP | 5074 |
@@ -453,7 +453,7 @@
 | Spelthorne | Lincoln Jopp MP | 5460 |
 | Spen Valley | Kim Leadbeater MP | 5377 |
 | St Albans | Daisy Cooper MP | 3877 |
-| St Austell and Newquay | Noah Law MP | 5605 |
+| St Austell and Newquay | Noah Law MP | 5607 |
 | St Helens North | David Baines MP | 4693 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4150 |
 | St Ives | Andrew George MP | 5091 |
@@ -530,7 +530,7 @@
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6577 |
 | Whitehaven and Workington | Josh MacAlister MP | 5847 |
 | Widnes and Halewood | Derek Twigg MP | 4235 |
-| Wigan | Rt Hon Lisa Nandy MP | 5944 |
+| Wigan | Rt Hon Lisa Nandy MP | 5945 |
 | Wimbledon | Mr Paul Kohler MP | 3410 |
 | Winchester | Dr Danny Chambers MP | 4918 |
 | Windsor | Jack Rankin MP | 5111 |
@@ -566,7 +566,7 @@
 | North Down | Alex Easton MP | 3357 |
 | South Antrim | Robin Swann MP | 3089 |
 | South Down | Chris Hazzard MP | 1841 |
-| Strangford | Jim Shannon MP | 3455 |
+| Strangford | Jim Shannon MP | 3456 |
 | Upper Bann | Carla Lockhart MP | 3065 |
 | West Tyrone | Órfhlaith Begley MP | 1664 |
 | East Renfrewshire | Blair McDougall MP | 2591 |
