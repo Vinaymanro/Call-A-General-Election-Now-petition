@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992199                                |
-| Last Updated      | 2025-03-14 15:18:17 UTC                                    |
+| Total Signatures   | 2992205                                |
+| Last Updated      | 2025-03-14 16:21:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -127,7 +127,7 @@
 | Corby and East Northamptonshire | Lee Barron MP | 6004 |
 | Coventry East | Mary Creagh MP | 3593 |
 | Coventry North West | Taiwo Owatemi MP | 4253 |
-| Coventry South | Zarah Sultana MP | 3513 |
+| Coventry South | Zarah Sultana MP | 3514 |
 | Cramlington and Killingworth | Emma Foody MP | 5802 |
 | Crawley | Peter Lamb MP | 4713 |
 | Crewe and Nantwich | Connor Naismith MP | 5691 |
@@ -143,7 +143,7 @@
 | Derbyshire Dales | John Whitby MP | 6777 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3175 |
 | Didcot and Wantage | Olly Glover MP | 4880 |
-| Doncaster Central | Sally Jameson MP | 4937 |
+| Doncaster Central | Sally Jameson MP | 4938 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6075 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5562 |
 | Dorking and Horley | Chris Coghlan MP | 5555 |
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5334 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6026 |
-| East Thanet | Ms Polly Billington MP | 5477 |
+| East Thanet | Ms Polly Billington MP | 5479 |
 | East Wiltshire | Danny Kruger MP | 6064 |
 | East Worthing and Shoreham | Tom Rutland MP | 4606 |
 | Eastbourne | Josh Babarinde MP | 5040 |
@@ -240,7 +240,7 @@
 | Hornchurch and Upminster | Julia Lopez MP | 6607 |
 | Hornsey and Friern Barnet | Catherine West MP | 1940 |
 | Horsham | John Milne MP | 5830 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6303 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6304 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3331 |
 | Huddersfield | Harpreet Uppal MP | 3679 |
 | Huntingdon | Ben Obese-Jecty MP | 5557 |
@@ -582,7 +582,7 @@
 | Angus and Perthshire Glens | Dave Doogan MP | 4046 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3470 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3411 |
-| Bathgate and Linlithgow | Kirsteen Sullivan MP | 3016 |
+| Bathgate and Linlithgow | Kirsteen Sullivan MP | 3017 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4073 |
 | Coatbridge and Bellshill | Frank McNally MP | 2582 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2852 |
