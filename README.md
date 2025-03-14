@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992258                                |
-| Last Updated      | 2025-03-14 22:16:06 UTC                                    |
+| Total Signatures   | 2992264                                |
+| Last Updated      | 2025-03-14 23:17:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -137,7 +137,7 @@
 | Dagenham and Rainham | Margaret Mullane MP | 4234 |
 | Darlington | Lola McEvoy MP | 5463 |
 | Dartford | Jim Dickson MP | 5731 |
-| Daventry | Rt Hon Stuart Andrew MP | 7280 |
+| Daventry | Rt Hon Stuart Andrew MP | 7281 |
 | Derby North | Catherine Atkinson MP | 4321 |
 | Derby South | Baggy Shanker MP | 3605 |
 | Derbyshire Dales | John Whitby MP | 6777 |
@@ -145,7 +145,7 @@
 | Didcot and Wantage | Olly Glover MP | 4880 |
 | Doncaster Central | Sally Jameson MP | 4938 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6075 |
-| Doncaster North | Rt Hon Ed Miliband MP | 5562 |
+| Doncaster North | Rt Hon Ed Miliband MP | 5564 |
 | Dorking and Horley | Chris Coghlan MP | 5555 |
 | Dover and Deal | Mike Tapp MP | 5924 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6560 |
@@ -246,7 +246,7 @@
 | Huntingdon | Ben Obese-Jecty MP | 5557 |
 | Hyndburn | Sarah Smith MP | 5003 |
 | Ilford North | Rt Hon Wes Streeting MP | 2622 |
-| Ilford South | Jas Athwal MP | 1592 |
+| Ilford South | Jas Athwal MP | 1594 |
 | Ipswich | Jack Abbott MP | 4143 |
 | Isle of Wight East | Joe Robertson MP | 4382 |
 | Isle of Wight West | Mr Richard Quigley MP | 4073 |
@@ -318,7 +318,7 @@
 | Milton Keynes North | Chris Curtis MP | 4567 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5764 |
-| New Forest East | Rt Hon Sir Julian Lewis MP | 5418 |
+| New Forest East | Rt Hon Sir Julian Lewis MP | 5419 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5252 |
 | Newark | Rt Hon Robert Jenrick MP | 7163 |
 | Newbury | Mr Lee Dillon MP | 4889 |
