@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992250                                |
-| Last Updated      | 2025-03-14 21:16:53 UTC                                    |
+| Total Signatures   | 2992258                                |
+| Last Updated      | 2025-03-14 22:16:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5451 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5806 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5501 |
-| Amber Valley | Linsey Farnsworth MP | 6085 |
+| Amber Valley | Linsey Farnsworth MP | 6086 |
 | Arundel and South Downs | Andrew Griffith MP | 6958 |
 | Ashfield | Lee Anderson MP | 6162 |
 | Ashford | Sojan Joseph MP | 5891 |
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5766 |
 | Barrow and Furness | Michelle Scrogham MP | 5314 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6888 |
-| Basingstoke | Luke Murphy MP | 4814 |
+| Basingstoke | Luke Murphy MP | 4815 |
 | Bassetlaw | Jo White MP | 6748 |
 | Bath | Wera Hobhouse MP | 2979 |
 | Battersea | Marsha De Cordova MP | 3612 |
@@ -62,7 +62,7 @@
 | Boston and Skegness | Richard Tice MP | 7084 |
 | Bournemouth East | Tom Hayes MP | 4661 |
 | Bournemouth West | Jessica Toale MP | 4911 |
-| Bracknell | Peter Swallow MP | 4970 |
+| Bracknell | Peter Swallow MP | 4971 |
 | Bradford East | Imran Hussain MP | 2887 |
 | Bradford South | Judith Cummins MP | 4177 |
 | Bradford West | Naz Shah MP | 1810 |
@@ -149,7 +149,7 @@
 | Dorking and Horley | Chris Coghlan MP | 5555 |
 | Dover and Deal | Mike Tapp MP | 5924 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6560 |
-| Dudley | Sonia Kumar MP | 5388 |
+| Dudley | Sonia Kumar MP | 5389 |
 | Dulwich and West Norwood | Helen Hayes MP | 1560 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5513 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3092 |
@@ -259,7 +259,7 @@
 | Kettering | Rosie Wrighting MP | 5906 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3748 |
 | Kingston upon Hull East | Karl Turner MP | 4998 |
-| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4642 |
+| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4643 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5492 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6395 |
 | Knowsley | Anneliese Midgley MP | 3277 |
@@ -281,7 +281,7 @@
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1589 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1880 |
 | Lichfield | Dave Robertson MP | 6474 |
-| Lincoln | Mr Hamish Falconer MP | 4647 |
+| Lincoln | Mr Hamish Falconer MP | 4648 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3129 |
 | Liverpool Riverside | Kim Johnson MP | 2637 |
 | Liverpool Walton | Dan Carden MP | 3356 |
@@ -311,7 +311,7 @@
 | Mid Dorset and North Poole | Vikki Slade MP | 5882 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5596 |
 | Mid Norfolk | George Freeman MP | 6285 |
-| Mid Sussex | Alison Bennett MP | 4698 |
+| Mid Sussex | Alison Bennett MP | 4699 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4227 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5710 |
 | Milton Keynes Central | Emily Darlington MP | 4941 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3439 |
 | Glasgow East | John Grady MP | 2313 |
 | Glasgow North | Martin Rhodes MP | 2039 |
-| Glasgow North East | Maureen Burke MP | 2477 |
+| Glasgow North East | Maureen Burke MP | 2478 |
 | Glasgow South | Gordon McKee MP | 1847 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
 | Glasgow West | Patricia Ferguson MP | 2215 |
