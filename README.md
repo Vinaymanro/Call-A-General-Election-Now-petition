@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992103                                |
-| Last Updated      | 2025-03-14 05:16:50 UTC                                    |
+| Total Signatures   | 2992107                                |
+| Last Updated      | 2025-03-14 06:24:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1519 |
 | Halesowen | Alex Ballinger MP | 4993 |
 | Halifax | Kate Dearden MP | 4750 |
-| Hamble Valley | Paul Holmes MP | 6139 |
+| Hamble Valley | Paul Holmes MP | 6140 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3197 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4716 |
@@ -322,7 +322,7 @@
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5252 |
 | Newark | Rt Hon Robert Jenrick MP | 7163 |
 | Newbury | Mr Lee Dillon MP | 4889 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4504 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4505 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4753 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3953 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5070 |
@@ -423,7 +423,7 @@
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6671 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6291 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2583 |
-| Smethwick | Gurinder Singh Josan MP | 3057 |
+| Smethwick | Gurinder Singh Josan MP | 3058 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5445 |
 | South Basildon and East Thurrock | James McMurdock MP | 6605 |
 | South Cambridgeshire | Pippa Heylings MP | 4454 |
@@ -503,7 +503,7 @@
 | Tunbridge Wells | Mike Martin MP | 5458 |
 | Twickenham | Munira Wilson MP | 3652 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4486 |
-| Uxbridge and South Ruislip | Danny Beales MP | 4479 |
+| Uxbridge and South Ruislip | Danny Beales MP | 4480 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1676 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4914 |
 | Wallasey | Dame Angela Eagle MP | 4067 |
