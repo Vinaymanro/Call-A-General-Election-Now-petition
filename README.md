@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992107                                |
-| Last Updated      | 2025-03-14 06:24:52 UTC                                    |
+| Total Signatures   | 2992111                                |
+| Last Updated      | 2025-03-14 07:16:48 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -212,7 +212,7 @@
 | Hammersmith and Chiswick | Andy Slaughter MP | 3197 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4716 |
-| Harlow | Chris Vince MP | 6065 |
+| Harlow | Chris Vince MP | 6066 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4538 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5115 |
 | Harrow East | Bob Blackman MP | 3130 |
@@ -302,7 +302,7 @@
 | Manchester Withington | Jeff Smith MP | 1671 |
 | Mansfield | Steve Yemm MP | 6196 |
 | Melksham and Devizes | Brian Mathew MP | 5012 |
-| Melton and Syston | Rt Hon Edward Argar MP | 6112 |
+| Melton and Syston | Rt Hon Edward Argar MP | 6113 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6080 |
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
@@ -336,7 +336,7 @@
 | North Dorset | Simon Hoare MP | 6314 |
 | North Durham | Luke Akehurst MP | 5387 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6071 |
-| North East Derbyshire | Louise Jones MP | 5797 |
+| North East Derbyshire | Louise Jones MP | 5798 |
 | North East Hampshire | Alex Brewer MP | 5955 |
 | North East Hertfordshire | Chris Hinchliff MP | 5847 |
 | North East Somerset and Hanham | Dan Norris MP | 5046 |
@@ -632,7 +632,7 @@
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3639 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5276 |
 | Bridgend | Chris Elmore MP | 4236 |
-| Caerfyrddin | Ann Davies MP | 5200 |
+| Caerfyrddin | Ann Davies MP | 5201 |
 | Caerphilly | Chris Evans MP | 3987 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2895 |
 | Cardiff North | Anna McMorrin MP | 3291 |
