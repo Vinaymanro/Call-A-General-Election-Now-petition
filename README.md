@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992101                                |
-| Last Updated      | 2025-03-14 04:20:46 UTC                                    |
+| Total Signatures   | 2992103                                |
+| Last Updated      | 2025-03-14 05:16:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -322,7 +322,7 @@
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5252 |
 | Newark | Rt Hon Robert Jenrick MP | 7163 |
 | Newbury | Mr Lee Dillon MP | 4889 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4503 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4504 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4753 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3953 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5070 |
@@ -389,7 +389,7 @@
 | Redditch | Chris Bloore MP | 6071 |
 | Reigate | Rebecca Paul MP | 5550 |
 | Ribble Valley | Maya Ellis MP | 6711 |
-| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7104 |
+| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7105 |
 | Richmond Park | Sarah Olney MP | 4060 |
 | Rochdale | Paul Waugh MP | 3950 |
 | Rochester and Strood | Lauren Edwards MP | 6023 |
