@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992079                                |
-| Last Updated      | 2025-03-13 23:16:38 UTC                                    |
+| Total Signatures   | 2992090                                |
+| Last Updated      | 2025-03-14 01:21:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -90,7 +90,7 @@
 | Burnley | Oliver Ryan MP | 5723 |
 | Burton and Uttoxeter | Jacob Collier MP | 5800 |
 | Bury North | Mr James Frith MP | 4975 |
-| Bury South | Christian Wakeford MP | 5418 |
+| Bury South | Christian Wakeford MP | 5419 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5450 |
 | Calder Valley | Josh Fenton-Glynn MP | 5652 |
 | Camborne and Redruth | Perran Moon MP | 4965 |
@@ -350,7 +350,7 @@
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5729 |
 | North West Leicestershire | Amanda Hack MP | 6695 |
-| North West Norfolk | James Wild MP | 5759 |
+| North West Norfolk | James Wild MP | 5760 |
 | Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4965 |
 | Norwich North | Alice Macdonald MP | 4403 |
@@ -393,12 +393,12 @@
 | Richmond Park | Sarah Olney MP | 4060 |
 | Rochdale | Paul Waugh MP | 3950 |
 | Rochester and Strood | Lauren Edwards MP | 6023 |
-| Romford | Andrew Rosindell MP | 5786 |
+| Romford | Andrew Rosindell MP | 5787 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5068 |
 | Rossendale and Darwen | Andy MacNae MP | 6490 |
 | Rother Valley | Jake Richards MP | 5854 |
 | Rotherham | Sarah Champion MP | 4945 |
-| Rugby | John Slinger MP | 5409 |
+| Rugby | John Slinger MP | 5411 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4104 |
 | Runcorn and Helsby | Mike Amesbury MP | 5024 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5833 |
@@ -438,7 +438,7 @@
 | South Northamptonshire | Sarah Bool MP | 6670 |
 | South Ribble | Mr Paul Foster MP | 5899 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4717 |
-| South Shropshire | Stuart Anderson MP | 7324 |
+| South Shropshire | Stuart Anderson MP | 7325 |
 | South Suffolk | James Cartlidge MP | 6147 |
 | South West Devon | Rebecca Smith MP | 5972 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5205 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5149 |
 | Warrington South | Sarah Hall MP | 5562 |
 | Warwick and Leamington | Matt Western MP | 4473 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5313 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5314 |
 | Watford | Matt Turmaine MP | 3741 |
 | Waveney Valley | Adrian Ramsay MP | 5853 |
 | Weald of Kent | Katie Lam MP | 7228 |
@@ -525,7 +525,7 @@
 | West Lancashire | Ashley Dalton MP | 5056 |
 | West Suffolk | Nick Timothy MP | 6038 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6260 |
-| Westmorland and Lonsdale | Tim Farron MP | 5193 |
+| Westmorland and Lonsdale | Tim Farron MP | 5195 |
 | Weston-super-Mare | Dan Aldridge MP | 5071 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6577 |
 | Whitehaven and Workington | Josh MacAlister MP | 5847 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2070 |
 | North Antrim | Jim Allister KC MP | 3089 |
 | North Down | Alex Easton MP | 3356 |
-| South Antrim | Robin Swann MP | 3088 |
+| South Antrim | Robin Swann MP | 3089 |
 | South Down | Chris Hazzard MP | 1840 |
 | Strangford | Jim Shannon MP | 3455 |
 | Upper Bann | Carla Lockhart MP | 3065 |
@@ -599,7 +599,7 @@
 | Edinburgh West | Christine Jardine MP | 2713 |
 | Falkirk | Euan Stainbank MP | 3439 |
 | Glasgow East | John Grady MP | 2313 |
-| Glasgow North | Martin Rhodes MP | 2038 |
+| Glasgow North | Martin Rhodes MP | 2039 |
 | Glasgow North East | Maureen Burke MP | 2477 |
 | Glasgow South | Gordon McKee MP | 1847 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
