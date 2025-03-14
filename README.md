@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992090                                |
-| Last Updated      | 2025-03-14 01:21:14 UTC                                    |
+| Total Signatures   | 2992094                                |
+| Last Updated      | 2025-03-14 02:53:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -31,7 +31,7 @@
 | Beckenham and Penge | Liam Conlon MP | 3839 |
 | Bedford | Mohammad Yasin MP | 3226 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2702 |
-| Bethnal Green and Stepney | Rushanara Ali MP | 1725 |
+| Bethnal Green and Stepney | Rushanara Ali MP | 1726 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6156 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6135 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
@@ -136,7 +136,7 @@
 | Croydon West | Sarah Jones MP | 1743 |
 | Dagenham and Rainham | Margaret Mullane MP | 4234 |
 | Darlington | Lola McEvoy MP | 5463 |
-| Dartford | Jim Dickson MP | 5730 |
+| Dartford | Jim Dickson MP | 5731 |
 | Daventry | Rt Hon Stuart Andrew MP | 7280 |
 | Derby North | Catherine Atkinson MP | 4321 |
 | Derby South | Baggy Shanker MP | 3605 |
@@ -423,7 +423,7 @@
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6671 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6291 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2583 |
-| Smethwick | Gurinder Singh Josan MP | 3056 |
+| Smethwick | Gurinder Singh Josan MP | 3057 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5445 |
 | South Basildon and East Thurrock | James McMurdock MP | 6605 |
 | South Cambridgeshire | Pippa Heylings MP | 4454 |
@@ -563,7 +563,7 @@
 | Mid Ulster | Mr Cathal Mallaghan MP | 1891 |
 | Newry and Armagh | Dáire Hughes MP | 2070 |
 | North Antrim | Jim Allister KC MP | 3089 |
-| North Down | Alex Easton MP | 3356 |
+| North Down | Alex Easton MP | 3357 |
 | South Antrim | Robin Swann MP | 3089 |
 | South Down | Chris Hazzard MP | 1840 |
 | Strangford | Jim Shannon MP | 3455 |
