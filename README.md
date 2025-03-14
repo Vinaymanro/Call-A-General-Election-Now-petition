@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992132                                |
-| Last Updated      | 2025-03-14 09:18:51 UTC                                    |
+| Total Signatures   | 2992137                                |
+| Last Updated      | 2025-03-14 10:18:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -22,7 +22,7 @@
 | Barnsley North | Dan Jarvis MP | 5678 |
 | Barnsley South | Stephanie Peacock MP | 5766 |
 | Barrow and Furness | Michelle Scrogham MP | 5314 |
-| Basildon and Billericay | Rt Hon Richard Holden MP | 6887 |
+| Basildon and Billericay | Rt Hon Richard Holden MP | 6888 |
 | Basingstoke | Luke Murphy MP | 4813 |
 | Bassetlaw | Jo White MP | 6746 |
 | Bath | Wera Hobhouse MP | 2979 |
@@ -282,7 +282,7 @@
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1880 |
 | Lichfield | Dave Robertson MP | 6474 |
 | Lincoln | Mr Hamish Falconer MP | 4647 |
-| Liverpool Garston | Rt Hon Maria Eagle MP | 3127 |
+| Liverpool Garston | Rt Hon Maria Eagle MP | 3128 |
 | Liverpool Riverside | Kim Johnson MP | 2637 |
 | Liverpool Walton | Dan Carden MP | 3356 |
 | Liverpool Wavertree | Paula Barker MP | 2220 |
@@ -576,7 +576,7 @@
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1441 |
 | Aberdeen North | Kirsty Blackman MP | 3551 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3841 |
-| Aberdeenshire North and Moray East | Seamus Logan MP | 4669 |
+| Aberdeenshire North and Moray East | Seamus Logan MP | 4670 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2813 |
 | Alloa and Grangemouth | Brian Leishman MP | 3015 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4046 |
@@ -588,7 +588,7 @@
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2852 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2678 |
 | Dumfries and Galloway | John Cooper MP | 4040 |
-| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3857 |
+| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3859 |
 | Dundee Central | Chris Law MP | 2542 |
 | Dunfermline and Dollar | Graeme Downie MP | 2929 |
 | East Kilbride and Strathaven | Joani Reid MP | 3155 |
