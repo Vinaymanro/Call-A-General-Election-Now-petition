@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992230                                |
-| Last Updated      | 2025-03-14 19:14:41 UTC                                    |
+| Total Signatures   | 2992237                                |
+| Last Updated      | 2025-03-14 20:18:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -24,7 +24,7 @@
 | Barrow and Furness | Michelle Scrogham MP | 5314 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6888 |
 | Basingstoke | Luke Murphy MP | 4814 |
-| Bassetlaw | Jo White MP | 6747 |
+| Bassetlaw | Jo White MP | 6748 |
 | Bath | Wera Hobhouse MP | 2979 |
 | Battersea | Marsha De Cordova MP | 3612 |
 | Beaconsfield | Joy Morrissey MP | 5212 |
@@ -195,7 +195,7 @@
 | Glastonbury and Somerton | Sarah Dyke MP | 5588 |
 | Gloucester | Alex McIntyre MP | 4539 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
-| Goole and Pocklington | Rt Hon David Davis MP | 6957 |
+| Goole and Pocklington | Rt Hon David Davis MP | 6958 |
 | Gorton and Denton | Andrew Gwynne MP | 3277 |
 | Gosport | Dame Caroline Dinenage MP | 5476 |
 | Grantham and Bourne | Gareth Davies MP | 6327 |
@@ -349,7 +349,7 @@
 | North West Cambridgeshire | Sam Carling MP | 6015 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7132 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5729 |
-| North West Leicestershire | Amanda Hack MP | 6695 |
+| North West Leicestershire | Amanda Hack MP | 6696 |
 | North West Norfolk | James Wild MP | 5761 |
 | Northampton North | Lucy Rigby KC MP | 4277 |
 | Northampton South | Mike Reader MP | 4965 |
@@ -364,7 +364,7 @@
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4083 |
 | Orpington | Gareth Bacon MP | 5310 |
 | Ossett and Denby Dale | Jade Botterill MP | 5796 |
-| Oxford East | Rt Hon Anneliese Dodds MP | 2150 |
+| Oxford East | Rt Hon Anneliese Dodds MP | 2151 |
 | Oxford West and Abingdon | Layla Moran MP | 2928 |
 | Peckham | Miatta Fahnbulleh MP | 1356 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6195 |
@@ -454,7 +454,7 @@
 | Spen Valley | Kim Leadbeater MP | 5377 |
 | St Albans | Daisy Cooper MP | 3877 |
 | St Austell and Newquay | Noah Law MP | 5607 |
-| St Helens North | David Baines MP | 4693 |
+| St Helens North | David Baines MP | 4695 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4150 |
 | St Ives | Andrew George MP | 5091 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4801 |
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5582 |
 | Tewkesbury | Cameron Thomas MP | 5011 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7430 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7431 |
 | Thornbury and Yate | Claire Young MP | 5695 |
 | Thurrock | Jen Craft MP | 5112 |
 | Tipton and Wednesbury | Antonia Bance MP | 4912 |
