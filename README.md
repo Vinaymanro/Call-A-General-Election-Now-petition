@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992283                                |
-| Last Updated      | 2025-03-15 03:24:29 UTC                                    |
+| Total Signatures   | 2992286                                |
+| Last Updated      | 2025-03-15 04:20:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -169,7 +169,7 @@
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2225 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4440 |
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
-| Ely and East Cambridgeshire | Charlotte Cane MP | 5171 |
+| Ely and East Cambridgeshire | Charlotte Cane MP | 5172 |
 | Enfield North | Feryal Clark MP | 2889 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
 | Epsom and Ewell | Helen Maguire MP | 4927 |
@@ -301,7 +301,7 @@
 | Manchester Rusholme | Afzal Khan MP | 1218 |
 | Manchester Withington | Jeff Smith MP | 1671 |
 | Mansfield | Steve Yemm MP | 6196 |
-| Melksham and Devizes | Brian Mathew MP | 5012 |
+| Melksham and Devizes | Brian Mathew MP | 5013 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6113 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6080 |
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 4015 |
 | Selby | Keir Mather MP | 6372 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6666 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3425 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3426 |
 | Sheffield Central | Abtisam Mohamed MP | 1428 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3534 |
