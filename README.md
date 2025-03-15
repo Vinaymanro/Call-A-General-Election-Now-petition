@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992382                                |
-| Last Updated      | 2025-03-15 17:14:01 UTC                                    |
+| Total Signatures   | 2992391                                |
+| Last Updated      | 2025-03-15 18:22:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -81,7 +81,7 @@
 | Bristol North East | Damien Egan MP | 3081 |
 | Bristol North West | Rt Hon Darren Jones MP | 3209 |
 | Bristol South | Karin Smyth MP | 3963 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5831 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5832 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
 | Bromsgrove | Bradley Thomas MP | 6476 |
 | Broxbourne | Lewis Cocking MP | 6075 |
@@ -89,7 +89,7 @@
 | Buckingham and Bletchley | Callum Anderson MP | 5255 |
 | Burnley | Oliver Ryan MP | 5724 |
 | Burton and Uttoxeter | Jacob Collier MP | 5800 |
-| Bury North | Mr James Frith MP | 4975 |
+| Bury North | Mr James Frith MP | 4976 |
 | Bury South | Christian Wakeford MP | 5419 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5450 |
 | Calder Valley | Josh Fenton-Glynn MP | 5654 |
@@ -118,7 +118,7 @@
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5498 |
 | Christchurch | Sir Christopher Chope MP | 5851 |
 | Cities of London and Westminster | Rachel Blake MP | 5174 |
-| City of Durham | Mary Kelly Foy MP | 4253 |
+| City of Durham | Mary Kelly Foy MP | 4255 |
 | Clacton | Nigel Farage MP | 8084 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1741 |
 | Colchester | Pam Cox MP | 4992 |
@@ -206,7 +206,7 @@
 | Guildford | Zöe Franklin MP | 4000 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2064 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1519 |
-| Halesowen | Alex Ballinger MP | 4993 |
+| Halesowen | Alex Ballinger MP | 4994 |
 | Halifax | Kate Dearden MP | 4750 |
 | Hamble Valley | Paul Holmes MP | 6140 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3197 |
@@ -318,7 +318,7 @@
 | Milton Keynes North | Chris Curtis MP | 4567 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5764 |
-| New Forest East | Rt Hon Sir Julian Lewis MP | 5420 |
+| New Forest East | Rt Hon Sir Julian Lewis MP | 5421 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5252 |
 | Newark | Rt Hon Robert Jenrick MP | 7163 |
 | Newbury | Mr Lee Dillon MP | 4889 |
@@ -358,7 +358,7 @@
 | Nottingham East | Nadia Whittome MP | 2475 |
 | Nottingham North and Kimberley | Alex Norris MP | 3729 |
 | Nottingham South | Lilian Greenwood MP | 3055 |
-| Nuneaton | Jodie Gosling MP | 5555 |
+| Nuneaton | Jodie Gosling MP | 5556 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5229 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4084 |
@@ -541,7 +541,7 @@
 | Wokingham | Clive Jones MP | 4868 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4405 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4311 |
-| Wolverhampton West | Warinder Juss | 3822 |
+| Wolverhampton West | Warinder Juss | 3823 |
 | Worcester | Tom Collins MP | 4329 |
 | Worsley and Eccles | Michael Wheeler MP | 5437 |
 | Worthing West | Dr Beccy Cooper MP | 5248 |
@@ -599,7 +599,7 @@
 | Edinburgh West | Christine Jardine MP | 2713 |
 | Falkirk | Euan Stainbank MP | 3439 |
 | Glasgow East | John Grady MP | 2313 |
-| Glasgow North | Martin Rhodes MP | 2039 |
+| Glasgow North | Martin Rhodes MP | 2040 |
 | Glasgow North East | Maureen Burke MP | 2478 |
 | Glasgow South | Gordon McKee MP | 1847 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
