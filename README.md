@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992347                                |
-| Last Updated      | 2025-03-15 13:20:32 UTC                                    |
+| Total Signatures   | 2992353                                |
+| Last Updated      | 2025-03-15 14:16:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -118,7 +118,7 @@
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5498 |
 | Christchurch | Sir Christopher Chope MP | 5850 |
 | Cities of London and Westminster | Rachel Blake MP | 5174 |
-| City of Durham | Mary Kelly Foy MP | 4252 |
+| City of Durham | Mary Kelly Foy MP | 4253 |
 | Clacton | Nigel Farage MP | 8084 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1741 |
 | Colchester | Pam Cox MP | 4992 |
@@ -296,7 +296,7 @@
 | Maidenhead | Mr Joshua Reynolds MP | 5282 |
 | Maidstone and Malling | Helen Grant MP | 5843 |
 | Makerfield | Josh Simons MP | 5876 |
-| Maldon | Rt Hon Sir John Whittingdale MP | 8113 |
+| Maldon | Rt Hon Sir John Whittingdale MP | 8114 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3995 |
 | Manchester Rusholme | Afzal Khan MP | 1219 |
 | Manchester Withington | Jeff Smith MP | 1672 |
@@ -324,7 +324,7 @@
 | Newbury | Mr Lee Dillon MP | 4889 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4505 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4753 |
-| Newcastle upon Tyne North | Catherine McKinnell MP | 3953 |
+| Newcastle upon Tyne North | Catherine McKinnell MP | 3954 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5071 |
 | Newton Abbot | Martin Wrigley MP | 5110 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5532 |
@@ -390,7 +390,7 @@
 | Reigate | Rebecca Paul MP | 5552 |
 | Ribble Valley | Maya Ellis MP | 6711 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7105 |
-| Richmond Park | Sarah Olney MP | 4060 |
+| Richmond Park | Sarah Olney MP | 4061 |
 | Rochdale | Paul Waugh MP | 3951 |
 | Rochester and Strood | Lauren Edwards MP | 6024 |
 | Romford | Andrew Rosindell MP | 5787 |
@@ -414,7 +414,7 @@
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3426 |
 | Sheffield Central | Abtisam Mohamed MP | 1428 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
-| Sheffield Heeley | Rt Hon Louise Haigh MP | 3534 |
+| Sheffield Heeley | Rt Hon Louise Haigh MP | 3535 |
 | Sheffield South East | Mr Clive Betts MP | 4734 |
 | Sherwood Forest | Michelle Welsh MP | 6659 |
 | Shipley | Anna Dixon MP | 4891 |
@@ -518,7 +518,7 @@
 | Weald of Kent | Katie Lam MP | 7230 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5084 |
 | Wells and Mendip Hills | Tessa Munt MP | 5257 |
-| Welwyn Hatfield | Andrew Lewin MP | 5059 |
+| Welwyn Hatfield | Andrew Lewin MP | 5060 |
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5458 |
 | West Ham and Beckton | James Asser MP | 2153 |
