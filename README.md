@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992297                                |
-| Last Updated      | 2025-03-15 08:20:22 UTC                                    |
+| Total Signatures   | 2992305                                |
+| Last Updated      | 2025-03-15 09:16:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1579 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3483 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1897 |
-| Birmingham Northfield | Laurence Turner MP | 4893 |
+| Birmingham Northfield | Laurence Turner MP | 4895 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1720 |
 | Birmingham Selly Oak | Al Carns MP | 3293 |
 | Birmingham Yardley | Jess Phillips MP | 3086 |
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4410 |
 | Bolton West | Phil Brickell MP | 5579 |
 | Bootle | Peter Dowd MP | 3148 |
-| Boston and Skegness | Richard Tice MP | 7084 |
+| Boston and Skegness | Richard Tice MP | 7085 |
 | Bournemouth East | Tom Hayes MP | 4661 |
 | Bournemouth West | Jessica Toale MP | 4911 |
 | Bracknell | Peter Swallow MP | 4971 |
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5850 |
 | Cities of London and Westminster | Rachel Blake MP | 5174 |
 | City of Durham | Mary Kelly Foy MP | 4252 |
-| Clacton | Nigel Farage MP | 8082 |
+| Clacton | Nigel Farage MP | 8083 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1741 |
 | Colchester | Pam Cox MP | 4992 |
 | Colne Valley | Paul Davies MP | 5031 |
@@ -204,7 +204,7 @@
 | Great Yarmouth | Rupert Lowe MP | 6582 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2627 |
 | Guildford | Zöe Franklin MP | 4000 |
-| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2063 |
+| Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2064 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1519 |
 | Halesowen | Alex Ballinger MP | 4993 |
 | Halifax | Kate Dearden MP | 4750 |
@@ -325,8 +325,8 @@
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4505 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4753 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3953 |
-| Newcastle-under-Lyme | Adam Jogee MP | 5070 |
-| Newton Abbot | Martin Wrigley MP | 5109 |
+| Newcastle-under-Lyme | Adam Jogee MP | 5071 |
+| Newton Abbot | Martin Wrigley MP | 5110 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5532 |
 | Normanton and Hemsworth | Jon Trickett MP | 5490 |
 | North Bedfordshire | Richard Fuller MP | 6103 |
@@ -629,7 +629,7 @@
 | Aberafan Maesteg | Stephen Kinnock MP | 3685 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5749 |
 | Bangor Aberconwy | Claire Hughes MP | 4515 |
-| Blaenau Gwent and Rhymney | Nick Smith MP | 3639 |
+| Blaenau Gwent and Rhymney | Nick Smith MP | 3640 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5276 |
 | Bridgend | Chris Elmore MP | 4238 |
 | Caerfyrddin | Ann Davies MP | 5202 |
