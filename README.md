@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992318                                |
-| Last Updated      | 2025-03-15 10:17:38 UTC                                    |
+| Total Signatures   | 2992324                                |
+| Last Updated      | 2025-03-15 11:12:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -298,8 +298,8 @@
 | Makerfield | Josh Simons MP | 5876 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8113 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3995 |
-| Manchester Rusholme | Afzal Khan MP | 1218 |
-| Manchester Withington | Jeff Smith MP | 1671 |
+| Manchester Rusholme | Afzal Khan MP | 1219 |
+| Manchester Withington | Jeff Smith MP | 1672 |
 | Mansfield | Steve Yemm MP | 6196 |
 | Melksham and Devizes | Brian Mathew MP | 5013 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6113 |
@@ -391,17 +391,17 @@
 | Ribble Valley | Maya Ellis MP | 6711 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7105 |
 | Richmond Park | Sarah Olney MP | 4060 |
-| Rochdale | Paul Waugh MP | 3950 |
+| Rochdale | Paul Waugh MP | 3951 |
 | Rochester and Strood | Lauren Edwards MP | 6024 |
 | Romford | Andrew Rosindell MP | 5787 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5068 |
 | Rossendale and Darwen | Andy MacNae MP | 6491 |
 | Rother Valley | Jake Richards MP | 5855 |
-| Rotherham | Sarah Champion MP | 4946 |
+| Rotherham | Sarah Champion MP | 4947 |
 | Rugby | John Slinger MP | 5411 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4105 |
 | Runcorn and Helsby | Mike Amesbury MP | 5024 |
-| Runnymede and Weybridge | Dr Ben Spencer MP | 5833 |
+| Runnymede and Weybridge | Dr Ben Spencer MP | 5834 |
 | Rushcliffe | James Naish MP | 5074 |
 | Rutland and Stamford | Alicia Kearns MP | 6263 |
 | Salford | Rebecca Long Bailey MP | 4663 |
@@ -543,7 +543,7 @@
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4311 |
 | Wolverhampton West | Warinder Juss | 3822 |
 | Worcester | Tom Collins MP | 4328 |
-| Worsley and Eccles | Michael Wheeler MP | 5436 |
+| Worsley and Eccles | Michael Wheeler MP | 5437 |
 | Worthing West | Dr Beccy Cooper MP | 5248 |
 | Wycombe | Emma Reynolds MP | 3614 |
 | Wyre Forest | Mark Garnier MP | 6484 |
