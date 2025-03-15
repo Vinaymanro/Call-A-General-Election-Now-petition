@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992391                                |
-| Last Updated      | 2025-03-15 18:22:41 UTC                                    |
+| Total Signatures   | 2992396                                |
+| Last Updated      | 2025-03-15 19:12:39 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5334 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6026 |
-| East Thanet | Ms Polly Billington MP | 5479 |
+| East Thanet | Ms Polly Billington MP | 5480 |
 | East Wiltshire | Danny Kruger MP | 6064 |
 | East Worthing and Shoreham | Tom Rutland MP | 4606 |
 | Eastbourne | Josh Babarinde MP | 5040 |
@@ -170,7 +170,7 @@
 | Ellesmere Port and Bromborough | Justin Madders MP | 4440 |
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5173 |
-| Enfield North | Feryal Clark MP | 2889 |
+| Enfield North | Feryal Clark MP | 2890 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
 | Epsom and Ewell | Helen Maguire MP | 4928 |
 | Erewash | Adam Thompson MP | 5824 |
@@ -446,7 +446,7 @@
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5203 |
 | Southampton Itchen | Darren Paffey MP | 4548 |
 | Southampton Test | Satvir Kaur MP | 3405 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5581 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5582 |
 | Southend West and Leigh | David Burton-Sampson MP | 5874 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2587 |
 | Southport | Patrick Hurley MP | 5951 |
@@ -483,7 +483,7 @@
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5672 |
 | Swindon North | Will Stone MP | 4898 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4207 |
-| Tamworth | Sarah Edwards MP | 6943 |
+| Tamworth | Sarah Edwards MP | 6944 |
 | Tatton | Rt Hon Esther McVey MP | 6500 |
 | Taunton and Wellington | Gideon Amos MP | 5174 |
 | Telford | Shaun Davies MP | 5583 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5276 |
 | Bridgend | Chris Elmore MP | 4238 |
 | Caerfyrddin | Ann Davies MP | 5202 |
-| Caerphilly | Chris Evans MP | 3988 |
+| Caerphilly | Chris Evans MP | 3989 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2895 |
 | Cardiff North | Anna McMorrin MP | 3291 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2799 |
