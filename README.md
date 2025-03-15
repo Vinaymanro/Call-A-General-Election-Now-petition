@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992396                                |
-| Last Updated      | 2025-03-15 19:12:39 UTC                                    |
+| Total Signatures   | 2992405                                |
+| Last Updated      | 2025-03-15 20:17:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -15,7 +15,7 @@
 | Arundel and South Downs | Andrew Griffith MP | 6960 |
 | Ashfield | Lee Anderson MP | 6162 |
 | Ashford | Sojan Joseph MP | 5891 |
-| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4589 |
+| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4590 |
 | Aylesbury | Laura Kyrke-Smith MP | 4865 |
 | Banbury | Sean Woodcock MP | 5455 |
 | Barking | Nesil Caliskan MP | 2632 |
@@ -39,7 +39,7 @@
 | Birkenhead | Alison McGovern MP | 4318 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2950 |
 | Birmingham Erdington | Paulette Hamilton MP | 4243 |
-| Birmingham Hall Green and Moseley | Tahir Ali MP | 1579 |
+| Birmingham Hall Green and Moseley | Tahir Ali MP | 1580 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3483 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1897 |
 | Birmingham Northfield | Laurence Turner MP | 4895 |
@@ -231,7 +231,7 @@
 | Hertford and Stortford | Josh Dean MP | 5976 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5745 |
 | Hexham | Joe Morris MP | 6408 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5260 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5261 |
 | High Peak | Jon Pearce MP | 5449 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6486 |
 | Hitchin | Alistair Strathern MP | 4918 |
@@ -261,7 +261,7 @@
 | Kingston upon Hull East | Karl Turner MP | 4998 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4643 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5493 |
-| Kingswinford and South Staffordshire | Mike Wood MP | 6395 |
+| Kingswinford and South Staffordshire | Mike Wood MP | 6396 |
 | Knowsley | Anneliese Midgley MP | 3277 |
 | Lancaster and Wyre | Cat Smith MP | 5078 |
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
@@ -297,7 +297,7 @@
 | Maidstone and Malling | Helen Grant MP | 5843 |
 | Makerfield | Josh Simons MP | 5876 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8114 |
-| Manchester Central | Rt Hon Lucy Powell MP | 3995 |
+| Manchester Central | Rt Hon Lucy Powell MP | 3996 |
 | Manchester Rusholme | Afzal Khan MP | 1219 |
 | Manchester Withington | Jeff Smith MP | 1672 |
 | Mansfield | Steve Yemm MP | 6196 |
@@ -356,7 +356,7 @@
 | Norwich North | Alice Macdonald MP | 4403 |
 | Norwich South | Clive Lewis MP | 3391 |
 | Nottingham East | Nadia Whittome MP | 2475 |
-| Nottingham North and Kimberley | Alex Norris MP | 3729 |
+| Nottingham North and Kimberley | Alex Norris MP | 3730 |
 | Nottingham South | Lilian Greenwood MP | 3055 |
 | Nuneaton | Jodie Gosling MP | 5556 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6214 |
@@ -527,9 +527,9 @@
 | West Worcestershire | Dame Harriett Baldwin MP | 6260 |
 | Westmorland and Lonsdale | Tim Farron MP | 5197 |
 | Weston-super-Mare | Dan Aldridge MP | 5072 |
-| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6577 |
+| Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6578 |
 | Whitehaven and Workington | Josh MacAlister MP | 5847 |
-| Widnes and Halewood | Derek Twigg MP | 4235 |
+| Widnes and Halewood | Derek Twigg MP | 4236 |
 | Wigan | Rt Hon Lisa Nandy MP | 5945 |
 | Wimbledon | Mr Paul Kohler MP | 3411 |
 | Winchester | Dr Danny Chambers MP | 4918 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3439 |
 | Glasgow East | John Grady MP | 2313 |
 | Glasgow North | Martin Rhodes MP | 2040 |
-| Glasgow North East | Maureen Burke MP | 2478 |
+| Glasgow North East | Maureen Burke MP | 2479 |
 | Glasgow South | Gordon McKee MP | 1847 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
 | Glasgow West | Patricia Ferguson MP | 2215 |
