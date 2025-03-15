@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992286                                |
-| Last Updated      | 2025-03-15 04:20:04 UTC                                    |
+| Total Signatures   | 2992287                                |
+| Last Updated      | 2025-03-15 05:16:16 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4675 |
 | Birkenhead | Alison McGovern MP | 4318 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2950 |
-| Birmingham Erdington | Paulette Hamilton MP | 4242 |
+| Birmingham Erdington | Paulette Hamilton MP | 4243 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1579 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3483 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1897 |
