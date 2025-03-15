@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992282                                |
-| Last Updated      | 2025-03-15 02:51:30 UTC                                    |
+| Total Signatures   | 2992283                                |
+| Last Updated      | 2025-03-15 03:24:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -467,7 +467,7 @@
 | Stockton West | Matt Vickers MP | 5990 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4729 |
 | Stoke-on-Trent North | David Williams MP | 5455 |
-| Stoke-on-Trent South | Dr Allison Gardner MP | 5732 |
+| Stoke-on-Trent South | Dr Allison Gardner MP | 5733 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6536 |
 | Stourbridge | Cat Eccles MP | 5156 |
 | Stratford and Bow | Uma Kumaran MP | 1768 |
