@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992339                                |
-| Last Updated      | 2025-03-15 12:31:57 UTC                                    |
+| Total Signatures   | 2992347                                |
+| Last Updated      | 2025-03-15 13:20:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -12,7 +12,7 @@
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5806 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5501 |
 | Amber Valley | Linsey Farnsworth MP | 6086 |
-| Arundel and South Downs | Andrew Griffith MP | 6958 |
+| Arundel and South Downs | Andrew Griffith MP | 6959 |
 | Ashfield | Lee Anderson MP | 6162 |
 | Ashford | Sojan Joseph MP | 5891 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4588 |
@@ -81,7 +81,7 @@
 | Bristol North East | Damien Egan MP | 3081 |
 | Bristol North West | Rt Hon Darren Jones MP | 3209 |
 | Bristol South | Karin Smyth MP | 3963 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5830 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5831 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
 | Bromsgrove | Bradley Thomas MP | 6476 |
 | Broxbourne | Lewis Cocking MP | 6075 |
@@ -169,11 +169,11 @@
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2225 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4440 |
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
-| Ely and East Cambridgeshire | Charlotte Cane MP | 5172 |
+| Ely and East Cambridgeshire | Charlotte Cane MP | 5173 |
 | Enfield North | Feryal Clark MP | 2889 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
 | Epsom and Ewell | Helen Maguire MP | 4928 |
-| Erewash | Adam Thompson MP | 5823 |
+| Erewash | Adam Thompson MP | 5824 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4826 |
 | Exeter | Steve Race MP | 3174 |
@@ -451,7 +451,7 @@
 | Southgate and Wood Green | Bambos Charalambous MP | 2587 |
 | Southport | Patrick Hurley MP | 5951 |
 | Spelthorne | Lincoln Jopp MP | 5461 |
-| Spen Valley | Kim Leadbeater MP | 5377 |
+| Spen Valley | Kim Leadbeater MP | 5378 |
 | St Albans | Daisy Cooper MP | 3877 |
 | St Austell and Newquay | Noah Law MP | 5607 |
 | St Helens North | David Baines MP | 4695 |
@@ -531,7 +531,7 @@
 | Whitehaven and Workington | Josh MacAlister MP | 5847 |
 | Widnes and Halewood | Derek Twigg MP | 4235 |
 | Wigan | Rt Hon Lisa Nandy MP | 5945 |
-| Wimbledon | Mr Paul Kohler MP | 3410 |
+| Wimbledon | Mr Paul Kohler MP | 3411 |
 | Winchester | Dr Danny Chambers MP | 4918 |
 | Windsor | Jack Rankin MP | 5111 |
 | Wirral West | Matthew Patrick MP | 4206 |
@@ -639,13 +639,13 @@
 | Cardiff South and Penarth | Stephen Doughty MP | 2799 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3142 |
 | Ceredigion Preseli | Ben Lake MP | 4737 |
-| Clwyd East | Becky Gittins MP | 6036 |
+| Clwyd East | Becky Gittins MP | 6037 |
 | Clwyd North | Gill German MP | 5447 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4232 |
 | Gower | Tonia Antoniazzi MP | 4759 |
 | Llanelli | Dame Nia Griffith MP | 5247 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3708 |
-| Mid and South Pembrokeshire | Henry Tufnell MP | 5485 |
+| Mid and South Pembrokeshire | Henry Tufnell MP | 5486 |
 | Monmouthshire | Catherine Fookes MP | 4734 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6042 |
 | Neath and Swansea East | Carolyn Harris MP | 4438 |
