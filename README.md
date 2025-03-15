@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992287                                |
-| Last Updated      | 2025-03-15 05:16:16 UTC                                    |
+| Total Signatures   | 2992288                                |
+| Last Updated      | 2025-03-15 06:23:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6075 |
 | Broxtowe | Juliet Campbell MP | 4712 |
 | Buckingham and Bletchley | Callum Anderson MP | 5255 |
-| Burnley | Oliver Ryan MP | 5723 |
+| Burnley | Oliver Ryan MP | 5724 |
 | Burton and Uttoxeter | Jacob Collier MP | 5800 |
 | Bury North | Mr James Frith MP | 4975 |
 | Bury South | Christian Wakeford MP | 5419 |
