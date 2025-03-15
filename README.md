@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992374                                |
-| Last Updated      | 2025-03-15 16:19:22 UTC                                    |
+| Total Signatures   | 2992382                                |
+| Last Updated      | 2025-03-15 17:14:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -19,7 +19,7 @@
 | Aylesbury | Laura Kyrke-Smith MP | 4865 |
 | Banbury | Sean Woodcock MP | 5455 |
 | Barking | Nesil Caliskan MP | 2632 |
-| Barnsley North | Dan Jarvis MP | 5678 |
+| Barnsley North | Dan Jarvis MP | 5679 |
 | Barnsley South | Stephanie Peacock MP | 5766 |
 | Barrow and Furness | Michelle Scrogham MP | 5314 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6888 |
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3128 |
 | Blackley and Middleton South | Graham Stringer MP | 3767 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6151 |
-| Blackpool South | Chris Webb MP | 5815 |
+| Blackpool South | Chris Webb MP | 5816 |
 | Blaydon and Consett | Liz Twist MP | 5248 |
 | Blyth and Ashington | Ian Lavery MP | 5854 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
@@ -177,7 +177,7 @@
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4826 |
 | Exeter | Steve Race MP | 3174 |
-| Exmouth and Exeter East | David Reed MP | 5206 |
+| Exmouth and Exeter East | David Reed MP | 5207 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6121 |
 | Farnham and Bordon | Gregory Stafford MP | 5187 |
 | Faversham and Mid Kent | Helen Whately MP | 6223 |
@@ -475,7 +475,7 @@
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1863 |
 | Stretford and Urmston | Andrew Western MP | 3823 |
 | Stroud | Dr Simon Opher MP | 4534 |
-| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5396 |
+| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5397 |
 | Sunderland Central | Lewis Atkinson MP | 5233 |
 | Surrey Heath | Dr Al Pinkerton MP | 5424 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6107 |
@@ -576,7 +576,7 @@
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1441 |
 | Aberdeen North | Kirsty Blackman MP | 3551 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3841 |
-| Aberdeenshire North and Moray East | Seamus Logan MP | 4671 |
+| Aberdeenshire North and Moray East | Seamus Logan MP | 4672 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2814 |
 | Alloa and Grangemouth | Brian Leishman MP | 3015 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4046 |
@@ -622,7 +622,7 @@
 | Stirling and Strathallan | Chris Kane MP | 3220 |
 | West Dunbartonshire | Douglas McAllister MP | 2725 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3554 |
-| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4024 |
+| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4025 |
 | Central Ayrshire | Alan Gemmell MP | 3134 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3255 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
@@ -641,10 +641,10 @@
 | Ceredigion Preseli | Ben Lake MP | 4737 |
 | Clwyd East | Becky Gittins MP | 6037 |
 | Clwyd North | Gill German MP | 5448 |
-| Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4232 |
+| Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4233 |
 | Gower | Tonia Antoniazzi MP | 4759 |
 | Llanelli | Dame Nia Griffith MP | 5247 |
-| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3708 |
+| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3709 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5486 |
 | Monmouthshire | Catherine Fookes MP | 4734 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6042 |
