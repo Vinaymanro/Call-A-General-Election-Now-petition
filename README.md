@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992288                                |
-| Last Updated      | 2025-03-15 06:23:20 UTC                                    |
+| Total Signatures   | 2992290                                |
+| Last Updated      | 2025-03-15 07:16:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -423,7 +423,7 @@
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6671 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6292 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2583 |
-| Smethwick | Gurinder Singh Josan MP | 3058 |
+| Smethwick | Gurinder Singh Josan MP | 3059 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5445 |
 | South Basildon and East Thurrock | James McMurdock MP | 6605 |
 | South Cambridgeshire | Pippa Heylings MP | 4454 |
@@ -521,7 +521,7 @@
 | Welwyn Hatfield | Andrew Lewin MP | 5059 |
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5458 |
-| West Ham and Beckton | James Asser MP | 2152 |
+| West Ham and Beckton | James Asser MP | 2153 |
 | West Lancashire | Ashley Dalton MP | 5057 |
 | West Suffolk | Nick Timothy MP | 6038 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6260 |
