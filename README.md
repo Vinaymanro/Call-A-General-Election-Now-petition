@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992290                                |
-| Last Updated      | 2025-03-15 07:16:07 UTC                                    |
+| Total Signatures   | 2992297                                |
+| Last Updated      | 2025-03-15 08:20:22 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -260,7 +260,7 @@
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3748 |
 | Kingston upon Hull East | Karl Turner MP | 4998 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4643 |
-| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5492 |
+| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5493 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6395 |
 | Knowsley | Anneliese Midgley MP | 3277 |
 | Lancaster and Wyre | Cat Smith MP | 5078 |
@@ -334,7 +334,7 @@
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6049 |
 | North Devon | Ian Roome MP | 5859 |
 | North Dorset | Simon Hoare MP | 6314 |
-| North Durham | Luke Akehurst MP | 5387 |
+| North Durham | Luke Akehurst MP | 5388 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6071 |
 | North East Derbyshire | Louise Jones MP | 5798 |
 | North East Hampshire | Alex Brewer MP | 5956 |
@@ -386,7 +386,7 @@
 | Reading Central | Matt Rodda MP | 3028 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4448 |
 | Redcar | Anna Turley MP | 5454 |
-| Redditch | Chris Bloore MP | 6071 |
+| Redditch | Chris Bloore MP | 6072 |
 | Reigate | Rebecca Paul MP | 5552 |
 | Ribble Valley | Maya Ellis MP | 6711 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7105 |
@@ -450,7 +450,7 @@
 | Southend West and Leigh | David Burton-Sampson MP | 5874 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2587 |
 | Southport | Patrick Hurley MP | 5950 |
-| Spelthorne | Lincoln Jopp MP | 5460 |
+| Spelthorne | Lincoln Jopp MP | 5461 |
 | Spen Valley | Kim Leadbeater MP | 5377 |
 | St Albans | Daisy Cooper MP | 3877 |
 | St Austell and Newquay | Noah Law MP | 5607 |
@@ -478,7 +478,7 @@
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5396 |
 | Sunderland Central | Lewis Atkinson MP | 5233 |
 | Surrey Heath | Dr Al Pinkerton MP | 5423 |
-| Sussex Weald | Ms Nusrat Ghani MP | 6106 |
+| Sussex Weald | Ms Nusrat Ghani MP | 6107 |
 | Sutton and Cheam | Luke Taylor MP | 4389 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5672 |
 | Swindon North | Will Stone MP | 4898 |
@@ -617,7 +617,7 @@
 | North East Fife | Wendy Chamberlain MP | 2902 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2859 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2646 |
-| Perth and Kinross-shire | Pete Wishart MP | 3504 |
+| Perth and Kinross-shire | Pete Wishart MP | 3506 |
 | Rutherglen | Michael Shanks MP | 2573 |
 | Stirling and Strathallan | Chris Kane MP | 3220 |
 | West Dunbartonshire | Douglas McAllister MP | 2725 |
