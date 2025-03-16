@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992573                                |
-| Last Updated      | 2025-03-16 17:14:35 UTC                                    |
+| Total Signatures   | 2992580                                |
+| Last Updated      | 2025-03-16 18:23:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -49,7 +49,7 @@
 | Bishop Auckland | Sam Rushworth MP | 6165 |
 | Blackburn | Mr Adnan Hussain MP | 3128 |
 | Blackley and Middleton South | Graham Stringer MP | 3767 |
-| Blackpool North and Fleetwood | Lorraine Beavers MP | 6151 |
+| Blackpool North and Fleetwood | Lorraine Beavers MP | 6152 |
 | Blackpool South | Chris Webb MP | 5817 |
 | Blaydon and Consett | Liz Twist MP | 5248 |
 | Blyth and Ashington | Ian Lavery MP | 5854 |
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 4976 |
 | Bury South | Christian Wakeford MP | 5419 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5451 |
-| Calder Valley | Josh Fenton-Glynn MP | 5654 |
+| Calder Valley | Josh Fenton-Glynn MP | 5655 |
 | Camborne and Redruth | Perran Moon MP | 4965 |
 | Cambridge | Daniel Zeichner MP | 2212 |
 | Cannock Chase | Josh Newbury MP | 6881 |
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5115 |
 | Harrow East | Bob Blackman MP | 3130 |
 | Harrow West | Gareth Thomas MP | 2404 |
-| Hartlepool | Mr Jonathan Brash MP | 5650 |
+| Hartlepool | Mr Jonathan Brash MP | 5651 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6278 |
 | Hastings and Rye | Helena Dollimore MP | 5068 |
 | Havant | Alan Mak MP | 5656 |
@@ -440,7 +440,7 @@
 | South Shields | Mrs Emma Lewell-Buck MP | 4717 |
 | South Shropshire | Stuart Anderson MP | 7325 |
 | South Suffolk | James Cartlidge MP | 6147 |
-| South West Devon | Rebecca Smith MP | 5973 |
+| South West Devon | Rebecca Smith MP | 5974 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5206 |
 | South West Norfolk | Terry Jermy MP | 6527 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5204 |
@@ -539,7 +539,7 @@
 | Witney | Charlie Maynard MP | 5162 |
 | Woking | Mr Will Forster MP | 4397 |
 | Wokingham | Clive Jones MP | 4869 |
-| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4405 |
+| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4406 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4311 |
 | Wolverhampton West | Warinder Juss | 3823 |
 | Worcester | Tom Collins MP | 4329 |
@@ -563,7 +563,7 @@
 | Mid Ulster | Mr Cathal Mallaghan MP | 1891 |
 | Newry and Armagh | Dáire Hughes MP | 2070 |
 | North Antrim | Jim Allister KC MP | 3089 |
-| North Down | Alex Easton MP | 3357 |
+| North Down | Alex Easton MP | 3358 |
 | South Antrim | Robin Swann MP | 3089 |
 | South Down | Chris Hazzard MP | 1841 |
 | Strangford | Jim Shannon MP | 3456 |
@@ -652,7 +652,7 @@
 | Newport East | Jessica Morden MP | 4007 |
 | Newport West and Islwyn | Ruth Jones MP | 4048 |
 | Pontypridd | Alex Davies-Jones MP | 3904 |
-| Rhondda and Ogmore | Chris Bryant MP | 4030 |
+| Rhondda and Ogmore | Chris Bryant MP | 4031 |
 | Swansea West | Torsten Bell MP | 3658 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4071 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4617 |
