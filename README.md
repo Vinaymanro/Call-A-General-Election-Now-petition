@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992460                                |
-| Last Updated      | 2025-03-16 06:23:03 UTC                                    |
+| Total Signatures   | 2992462                                |
+| Last Updated      | 2025-03-16 07:15:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -31,7 +31,7 @@
 | Beckenham and Penge | Liam Conlon MP | 3839 |
 | Bedford | Mohammad Yasin MP | 3226 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2702 |
-| Bethnal Green and Stepney | Rushanara Ali MP | 1726 |
+| Bethnal Green and Stepney | Rushanara Ali MP | 1727 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6157 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6135 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
@@ -163,7 +163,7 @@
 | East Surrey | Rt Hon Claire Coutinho MP | 6026 |
 | East Thanet | Ms Polly Billington MP | 5480 |
 | East Wiltshire | Danny Kruger MP | 6064 |
-| East Worthing and Shoreham | Tom Rutland MP | 4606 |
+| East Worthing and Shoreham | Tom Rutland MP | 4607 |
 | Eastbourne | Josh Babarinde MP | 5040 |
 | Eastleigh | Liz Jarvis MP | 4327 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2225 |
