@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992629                                |
-| Last Updated      | 2025-03-16 22:15:48 UTC                                    |
+| Total Signatures   | 2992636                                |
+| Last Updated      | 2025-03-16 23:16:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -105,7 +105,7 @@
 | Chatham and Aylesford | Tristan Osborne MP | 5628 |
 | Cheadle | Tom Morrison MP | 4664 |
 | Chelmsford | Marie Goldman MP | 5268 |
-| Chelsea and Fulham | Ben Coleman MP | 5487 |
+| Chelsea and Fulham | Ben Coleman MP | 5488 |
 | Cheltenham | Max Wilkinson MP | 4027 |
 | Chesham and Amersham | Sarah Green MP | 4941 |
 | Chester North and Neston | Samantha Dixon MP | 4054 |
@@ -237,7 +237,7 @@
 | Hitchin | Alistair Strathern MP | 4918 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2279 |
 | Honiton and Sidmouth | Richard Foord MP | 5255 |
-| Hornchurch and Upminster | Julia Lopez MP | 6608 |
+| Hornchurch and Upminster | Julia Lopez MP | 6609 |
 | Hornsey and Friern Barnet | Catherine West MP | 1940 |
 | Horsham | John Milne MP | 5830 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6305 |
@@ -277,7 +277,7 @@
 | Leigh and Atherton | Jo Platt MP | 6076 |
 | Lewes | James MacCleary MP | 4902 |
 | Lewisham East | Janet Daby MP | 2146 |
-| Lewisham North | Vicky Foxcroft MP | 1651 |
+| Lewisham North | Vicky Foxcroft MP | 1652 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1589 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1881 |
 | Lichfield | Dave Robertson MP | 6474 |
@@ -292,7 +292,7 @@
 | Lowestoft | Jess Asato MP | 5333 |
 | Luton North | Sarah Owen MP | 2473 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2946 |
-| Macclesfield | Tim Roca MP | 5400 |
+| Macclesfield | Tim Roca MP | 5401 |
 | Maidenhead | Mr Joshua Reynolds MP | 5282 |
 | Maidstone and Malling | Helen Grant MP | 5843 |
 | Makerfield | Josh Simons MP | 5876 |
@@ -474,7 +474,7 @@
 | Stratford-on-Avon | Manuela Perteghella MP | 6714 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1863 |
 | Stretford and Urmston | Andrew Western MP | 3823 |
-| Stroud | Dr Simon Opher MP | 4535 |
+| Stroud | Dr Simon Opher MP | 4536 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5397 |
 | Sunderland Central | Lewis Atkinson MP | 5235 |
 | Surrey Heath | Dr Al Pinkerton MP | 5425 |
@@ -517,7 +517,7 @@
 | Waveney Valley | Adrian Ramsay MP | 5854 |
 | Weald of Kent | Katie Lam MP | 7231 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5084 |
-| Wells and Mendip Hills | Tessa Munt MP | 5257 |
+| Wells and Mendip Hills | Tessa Munt MP | 5258 |
 | Welwyn Hatfield | Andrew Lewin MP | 5060 |
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5458 |
@@ -629,7 +629,7 @@
 | Aberafan Maesteg | Stephen Kinnock MP | 3685 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5749 |
 | Bangor Aberconwy | Claire Hughes MP | 4515 |
-| Blaenau Gwent and Rhymney | Nick Smith MP | 3640 |
+| Blaenau Gwent and Rhymney | Nick Smith MP | 3641 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5276 |
 | Bridgend | Chris Elmore MP | 4238 |
 | Caerfyrddin | Ann Davies MP | 5202 |
