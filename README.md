@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992509                                |
-| Last Updated      | 2025-03-16 11:14:47 UTC                                    |
+| Total Signatures   | 2992514                                |
+| Last Updated      | 2025-03-16 12:31:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -18,7 +18,7 @@
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4590 |
 | Aylesbury | Laura Kyrke-Smith MP | 4866 |
 | Banbury | Sean Woodcock MP | 5455 |
-| Barking | Nesil Caliskan MP | 2634 |
+| Barking | Nesil Caliskan MP | 2635 |
 | Barnsley North | Dan Jarvis MP | 5679 |
 | Barnsley South | Stephanie Peacock MP | 5767 |
 | Barrow and Furness | Michelle Scrogham MP | 5314 |
@@ -155,7 +155,7 @@
 | Ealing Central and Acton | Dr Rupa Huq MP | 3093 |
 | Ealing North | James Murray MP | 2580 |
 | Ealing Southall | Deirdre Costigan MP | 1957 |
-| Earley and Woodley | Yuan Yang MP | 3953 |
+| Earley and Woodley | Yuan Yang MP | 3954 |
 | Easington | Grahame Morris MP | 5733 |
 | East Grinstead and Uckfield | Mims Davies MP | 6032 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1102 |
@@ -169,7 +169,7 @@
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2225 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4441 |
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
-| Ely and East Cambridgeshire | Charlotte Cane MP | 5173 |
+| Ely and East Cambridgeshire | Charlotte Cane MP | 5174 |
 | Enfield North | Feryal Clark MP | 2890 |
 | Epping Forest | Dr Neil Hudson MP | 6573 |
 | Epsom and Ewell | Helen Maguire MP | 4928 |
@@ -449,7 +449,7 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5582 |
 | Southend West and Leigh | David Burton-Sampson MP | 5875 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2587 |
-| Southport | Patrick Hurley MP | 5951 |
+| Southport | Patrick Hurley MP | 5952 |
 | Spelthorne | Lincoln Jopp MP | 5461 |
 | Spen Valley | Kim Leadbeater MP | 5379 |
 | St Albans | Daisy Cooper MP | 3877 |
@@ -585,7 +585,7 @@
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3017 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4073 |
 | Coatbridge and Bellshill | Frank McNally MP | 2582 |
-| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2852 |
+| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2853 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2679 |
 | Dumfries and Galloway | John Cooper MP | 4040 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3860 |
