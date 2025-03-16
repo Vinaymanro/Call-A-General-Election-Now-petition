@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992449                                |
-| Last Updated      | 2025-03-16 01:34:55 UTC                                    |
+| Total Signatures   | 2992452                                |
+| Last Updated      | 2025-03-16 02:59:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -18,7 +18,7 @@
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4590 |
 | Aylesbury | Laura Kyrke-Smith MP | 4865 |
 | Banbury | Sean Woodcock MP | 5455 |
-| Barking | Nesil Caliskan MP | 2633 |
+| Barking | Nesil Caliskan MP | 2634 |
 | Barnsley North | Dan Jarvis MP | 5679 |
 | Barnsley South | Stephanie Peacock MP | 5767 |
 | Barrow and Furness | Michelle Scrogham MP | 5314 |
@@ -308,7 +308,7 @@
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
 | Mid Cheshire | Andrew Cooper MP | 5167 |
 | Mid Derbyshire | Jonathan Davies MP | 5230 |
-| Mid Dorset and North Poole | Vikki Slade MP | 5882 |
+| Mid Dorset and North Poole | Vikki Slade MP | 5883 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5597 |
 | Mid Norfolk | George Freeman MP | 6285 |
 | Mid Sussex | Alison Bennett MP | 4699 |
@@ -579,7 +579,7 @@
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4672 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2814 |
 | Alloa and Grangemouth | Brian Leishman MP | 3015 |
-| Angus and Perthshire Glens | Dave Doogan MP | 4046 |
+| Angus and Perthshire Glens | Dave Doogan MP | 4047 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3470 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3411 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3017 |
