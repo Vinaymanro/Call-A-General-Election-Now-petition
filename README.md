@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992483                                |
-| Last Updated      | 2025-03-16 09:16:34 UTC                                    |
+| Total Signatures   | 2992492                                |
+| Last Updated      | 2025-03-16 10:17:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -31,7 +31,7 @@
 | Beckenham and Penge | Liam Conlon MP | 3839 |
 | Bedford | Mohammad Yasin MP | 3226 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2702 |
-| Bethnal Green and Stepney | Rushanara Ali MP | 1727 |
+| Bethnal Green and Stepney | Rushanara Ali MP | 1728 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6157 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6135 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
@@ -224,7 +224,7 @@
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2593 |
 | Hazel Grove | Lisa Smart MP | 5100 |
 | Hemel Hempstead | David Taylor MP | 5074 |
-| Hendon | David Pinto-Duschinsky MP | 3798 |
+| Hendon | David Pinto-Duschinsky MP | 3799 |
 | Henley and Thame | Freddie van Mierlo MP | 5404 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5277 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6297 |
@@ -236,7 +236,7 @@
 | Hinckley and Bosworth | Dr Luke Evans MP | 6486 |
 | Hitchin | Alistair Strathern MP | 4918 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2279 |
-| Honiton and Sidmouth | Richard Foord MP | 5254 |
+| Honiton and Sidmouth | Richard Foord MP | 5255 |
 | Hornchurch and Upminster | Julia Lopez MP | 6608 |
 | Hornsey and Friern Barnet | Catherine West MP | 1940 |
 | Horsham | John Milne MP | 5830 |
@@ -307,7 +307,7 @@
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
 | Mid Cheshire | Andrew Cooper MP | 5167 |
-| Mid Derbyshire | Jonathan Davies MP | 5230 |
+| Mid Derbyshire | Jonathan Davies MP | 5231 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5883 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5597 |
 | Mid Norfolk | George Freeman MP | 6285 |
@@ -321,7 +321,7 @@
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5422 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5252 |
 | Newark | Rt Hon Robert Jenrick MP | 7163 |
-| Newbury | Mr Lee Dillon MP | 4889 |
+| Newbury | Mr Lee Dillon MP | 4890 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4505 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4753 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3954 |
@@ -457,7 +457,7 @@
 | St Helens North | David Baines MP | 4695 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4150 |
 | St Ives | Andrew George MP | 5092 |
-| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4801 |
+| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4802 |
 | Stafford | Leigh Ingham MP | 5606 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6420 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5342 |
@@ -558,7 +558,7 @@
 | East Antrim | Rt Hon Sammy Wilson MP | 3588 |
 | East Londonderry | Mr Gregory Campbell MP | 2524 |
 | Fermanagh and South Tyrone | Pat Cullen MP | 2265 |
-| Foyle | Colum Eastwood MP | 1057 |
+| Foyle | Colum Eastwood MP | 1058 |
 | Lagan Valley | Sorcha Eastwood MP | 3521 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1891 |
 | Newry and Armagh | Dáire Hughes MP | 2070 |
@@ -579,7 +579,7 @@
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4672 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2814 |
 | Alloa and Grangemouth | Brian Leishman MP | 3015 |
-| Angus and Perthshire Glens | Dave Doogan MP | 4047 |
+| Angus and Perthshire Glens | Dave Doogan MP | 4048 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3470 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3412 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3017 |
@@ -641,7 +641,7 @@
 | Ceredigion Preseli | Ben Lake MP | 4737 |
 | Clwyd East | Becky Gittins MP | 6037 |
 | Clwyd North | Gill German MP | 5448 |
-| Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4233 |
+| Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4234 |
 | Gower | Tonia Antoniazzi MP | 4759 |
 | Llanelli | Dame Nia Griffith MP | 5247 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3709 |
