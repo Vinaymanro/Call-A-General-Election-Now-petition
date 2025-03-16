@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992564                                |
-| Last Updated      | 2025-03-16 16:19:49 UTC                                    |
+| Total Signatures   | 2992573                                |
+| Last Updated      | 2025-03-16 17:14:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6076 |
 | Broxtowe | Juliet Campbell MP | 4712 |
 | Buckingham and Bletchley | Callum Anderson MP | 5255 |
-| Burnley | Oliver Ryan MP | 5724 |
+| Burnley | Oliver Ryan MP | 5725 |
 | Burton and Uttoxeter | Jacob Collier MP | 5800 |
 | Bury North | Mr James Frith MP | 4976 |
 | Bury South | Christian Wakeford MP | 5419 |
@@ -171,7 +171,7 @@
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5175 |
 | Enfield North | Feryal Clark MP | 2890 |
-| Epping Forest | Dr Neil Hudson MP | 6573 |
+| Epping Forest | Dr Neil Hudson MP | 6574 |
 | Epsom and Ewell | Helen Maguire MP | 4928 |
 | Erewash | Adam Thompson MP | 5825 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
@@ -258,7 +258,7 @@
 | Kensington and Bayswater | Joe Powell MP | 4406 |
 | Kettering | Rosie Wrighting MP | 5906 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3749 |
-| Kingston upon Hull East | Karl Turner MP | 4999 |
+| Kingston upon Hull East | Karl Turner MP | 5000 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4643 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5493 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6396 |
@@ -269,7 +269,7 @@
 | Leeds North East | Fabian Hamilton MP | 2632 |
 | Leeds North West | Katie White MP | 4390 |
 | Leeds South | Rt Hon Hilary Benn MP | 3872 |
-| Leeds South West and Morley | Mark Sewards MP | 5492 |
+| Leeds South West and Morley | Mark Sewards MP | 5493 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3784 |
 | Leicester East | Shivani Raja MP | 1883 |
 | Leicester South | Shockat Adam MP | 1842 |
@@ -283,7 +283,7 @@
 | Lichfield | Dave Robertson MP | 6474 |
 | Lincoln | Mr Hamish Falconer MP | 4649 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3129 |
-| Liverpool Riverside | Kim Johnson MP | 2638 |
+| Liverpool Riverside | Kim Johnson MP | 2639 |
 | Liverpool Walton | Dan Carden MP | 3359 |
 | Liverpool Wavertree | Paula Barker MP | 2220 |
 | Liverpool West Derby | Ian Byrne MP | 3051 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3808 |
 | Putney | Fleur Anderson MP | 3516 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2152 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5117 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5118 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7356 |
 | Reading Central | Matt Rodda MP | 3028 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4449 |
@@ -393,7 +393,7 @@
 | Richmond Park | Sarah Olney MP | 4061 |
 | Rochdale | Paul Waugh MP | 3951 |
 | Rochester and Strood | Lauren Edwards MP | 6025 |
-| Romford | Andrew Rosindell MP | 5787 |
+| Romford | Andrew Rosindell MP | 5788 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5069 |
 | Rossendale and Darwen | Andy MacNae MP | 6491 |
 | Rother Valley | Jake Richards MP | 5855 |
@@ -423,7 +423,7 @@
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6671 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6292 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2583 |
-| Smethwick | Gurinder Singh Josan MP | 3059 |
+| Smethwick | Gurinder Singh Josan MP | 3060 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5446 |
 | South Basildon and East Thurrock | James McMurdock MP | 6605 |
 | South Cambridgeshire | Pippa Heylings MP | 4454 |
@@ -636,7 +636,7 @@
 | Caerphilly | Chris Evans MP | 3989 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2895 |
 | Cardiff North | Anna McMorrin MP | 3291 |
-| Cardiff South and Penarth | Stephen Doughty MP | 2799 |
+| Cardiff South and Penarth | Stephen Doughty MP | 2800 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3143 |
 | Ceredigion Preseli | Ben Lake MP | 4737 |
 | Clwyd East | Becky Gittins MP | 6037 |
