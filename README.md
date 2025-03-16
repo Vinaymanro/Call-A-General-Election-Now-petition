@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992452                                |
-| Last Updated      | 2025-03-16 02:59:04 UTC                                    |
+| Total Signatures   | 2992455                                |
+| Last Updated      | 2025-03-16 03:34:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3911 |
 | Stockton North | Chris McDonald MP | 4843 |
 | Stockton West | Matt Vickers MP | 5990 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4729 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4730 |
 | Stoke-on-Trent North | David Williams MP | 5455 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5733 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6536 |
@@ -498,7 +498,7 @@
 | Tooting | Dr Rosena Allin-Khan MP | 2694 |
 | Torbay | Steve Darling MP | 5826 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6578 |
-| Tottenham | Rt Hon David Lammy MP | 1685 |
+| Tottenham | Rt Hon David Lammy MP | 1686 |
 | Truro and Falmouth | Jayne Kirkham MP | 4604 |
 | Tunbridge Wells | Mike Martin MP | 5458 |
 | Twickenham | Munira Wilson MP | 3652 |
@@ -615,7 +615,7 @@
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3935 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2729 |
 | North East Fife | Wendy Chamberlain MP | 2902 |
-| Paisley and Renfrewshire North | Alison Taylor MP | 2860 |
+| Paisley and Renfrewshire North | Alison Taylor MP | 2861 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2646 |
 | Perth and Kinross-shire | Pete Wishart MP | 3508 |
 | Rutherglen | Michael Shanks MP | 2573 |
