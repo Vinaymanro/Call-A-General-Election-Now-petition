@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992601                                |
-| Last Updated      | 2025-03-16 20:18:41 UTC                                    |
+| Total Signatures   | 2992609                                |
+| Last Updated      | 2025-03-16 21:15:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -69,7 +69,7 @@
 | Braintree | Rt Hon James Cleverly MP | 7438 |
 | Brent East | Dawn Butler MP | 1863 |
 | Brent West | Barry Gardiner MP | 2089 |
-| Brentford and Isleworth | Ruth Cadbury MP | 2993 |
+| Brentford and Isleworth | Ruth Cadbury MP | 2994 |
 | Brentwood and Ongar | Alex Burghart MP | 8139 |
 | Bridgwater | Sir Ashley Fox MP | 5754 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6624 |
@@ -119,7 +119,7 @@
 | Christchurch | Sir Christopher Chope MP | 5851 |
 | Cities of London and Westminster | Rachel Blake MP | 5175 |
 | City of Durham | Mary Kelly Foy MP | 4255 |
-| Clacton | Nigel Farage MP | 8085 |
+| Clacton | Nigel Farage MP | 8086 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1741 |
 | Colchester | Pam Cox MP | 4992 |
 | Colne Valley | Paul Davies MP | 5031 |
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5463 |
 | Dartford | Jim Dickson MP | 5732 |
 | Daventry | Rt Hon Stuart Andrew MP | 7281 |
-| Derby North | Catherine Atkinson MP | 4321 |
+| Derby North | Catherine Atkinson MP | 4322 |
 | Derby South | Baggy Shanker MP | 3605 |
 | Derbyshire Dales | John Whitby MP | 6778 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3177 |
@@ -182,7 +182,7 @@
 | Farnham and Bordon | Gregory Stafford MP | 5187 |
 | Faversham and Mid Kent | Helen Whately MP | 6225 |
 | Feltham and Heston | Seema Malhotra MP | 2921 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4506 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4507 |
 | Finchley and Golders Green | Sarah Sackman MP | 4283 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5390 |
 | Forest of Dean | Matt Bishop MP | 5268 |
@@ -263,7 +263,7 @@
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5493 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6396 |
 | Knowsley | Anneliese Midgley MP | 3278 |
-| Lancaster and Wyre | Cat Smith MP | 5078 |
+| Lancaster and Wyre | Cat Smith MP | 5079 |
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
 | Leeds East | Richard Burgon MP | 4307 |
 | Leeds North East | Fabian Hamilton MP | 2632 |
@@ -428,7 +428,7 @@
 | South Basildon and East Thurrock | James McMurdock MP | 6605 |
 | South Cambridgeshire | Pippa Heylings MP | 4454 |
 | South Cotswolds | Dr Roz Savage MP | 5716 |
-| South Derbyshire | Samantha Niblett MP | 6172 |
+| South Derbyshire | Samantha Niblett MP | 6173 |
 | South Devon | Caroline Voaden MP | 5322 |
 | South Dorset | Lloyd Hatton MP | 5660 |
 | South East Cornwall | Anna Gelderd MP | 6238 |
@@ -469,7 +469,7 @@
 | Stoke-on-Trent North | David Williams MP | 5455 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5733 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6536 |
-| Stourbridge | Cat Eccles MP | 5156 |
+| Stourbridge | Cat Eccles MP | 5157 |
 | Stratford and Bow | Uma Kumaran MP | 1768 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6714 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1863 |
@@ -592,7 +592,7 @@
 | Dundee Central | Chris Law MP | 2542 |
 | Dunfermline and Dollar | Graeme Downie MP | 2929 |
 | East Kilbride and Strathaven | Joani Reid MP | 3156 |
-| Edinburgh East and Musselburgh | Chris Murray MP | 2083 |
+| Edinburgh East and Musselburgh | Chris Murray MP | 2084 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2408 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2060 |
 | Edinburgh South West | Dr Scott Arthur MP | 2259 |
