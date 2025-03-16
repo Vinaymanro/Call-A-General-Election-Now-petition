@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992514                                |
-| Last Updated      | 2025-03-16 12:31:58 UTC                                    |
+| Total Signatures   | 2992525                                |
+| Last Updated      | 2025-03-16 13:21:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4410 |
 | Bolton West | Phil Brickell MP | 5579 |
 | Bootle | Peter Dowd MP | 3148 |
-| Boston and Skegness | Richard Tice MP | 7085 |
+| Boston and Skegness | Richard Tice MP | 7086 |
 | Bournemouth East | Tom Hayes MP | 4662 |
 | Bournemouth West | Jessica Toale MP | 4911 |
 | Bracknell | Peter Swallow MP | 4971 |
@@ -176,7 +176,7 @@
 | Erewash | Adam Thompson MP | 5825 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
 | Esher and Walton | Monica Harding MP | 4826 |
-| Exeter | Steve Race MP | 3174 |
+| Exeter | Steve Race MP | 3175 |
 | Exmouth and Exeter East | David Reed MP | 5207 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6121 |
 | Farnham and Bordon | Gregory Stafford MP | 5187 |
@@ -188,7 +188,7 @@
 | Forest of Dean | Matt Bishop MP | 5268 |
 | Frome and East Somerset | Anna Sabine MP | 4328 |
 | Fylde | Mr Andrew Snowden MP | 6770 |
-| Gainsborough | Rt Hon Sir Edward Leigh MP | 6655 |
+| Gainsborough | Rt Hon Sir Edward Leigh MP | 6656 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4527 |
 | Gedling | Michael Payne MP | 5054 |
 | Gillingham and Rainham | Naushabah Khan MP | 5057 |
@@ -218,7 +218,7 @@
 | Harrow East | Bob Blackman MP | 3130 |
 | Harrow West | Gareth Thomas MP | 2404 |
 | Hartlepool | Mr Jonathan Brash MP | 5650 |
-| Harwich and North Essex | Sir Bernard Jenkin MP | 6276 |
+| Harwich and North Essex | Sir Bernard Jenkin MP | 6278 |
 | Hastings and Rye | Helena Dollimore MP | 5068 |
 | Havant | Alan Mak MP | 5656 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2593 |
@@ -262,7 +262,7 @@
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4643 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5493 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6396 |
-| Knowsley | Anneliese Midgley MP | 3277 |
+| Knowsley | Anneliese Midgley MP | 3278 |
 | Lancaster and Wyre | Cat Smith MP | 5078 |
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
 | Leeds East | Richard Burgon MP | 4307 |
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6285 |
 | Mid Sussex | Alison Bennett MP | 4699 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4228 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5710 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5711 |
 | Milton Keynes Central | Emily Darlington MP | 4941 |
 | Milton Keynes North | Chris Curtis MP | 4568 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
@@ -342,7 +342,7 @@
 | North East Somerset and Hanham | Dan Norris MP | 5046 |
 | North Herefordshire | Ellie Chowns MP | 6470 |
 | North Norfolk | Steff Aquarone MP | 5437 |
-| North Northumberland | David Smith MP | 6433 |
+| North Northumberland | David Smith MP | 6434 |
 | North Shropshire | Helen Morgan MP | 6877 |
 | North Somerset | Sadik Al-Hassan MP | 4585 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6267 |
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7356 |
 | Reading Central | Matt Rodda MP | 3028 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4449 |
-| Redcar | Anna Turley MP | 5455 |
+| Redcar | Anna Turley MP | 5457 |
 | Redditch | Chris Bloore MP | 6072 |
 | Reigate | Rebecca Paul MP | 5552 |
 | Ribble Valley | Maya Ellis MP | 6711 |
@@ -530,7 +530,7 @@
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6578 |
 | Whitehaven and Workington | Josh MacAlister MP | 5847 |
 | Widnes and Halewood | Derek Twigg MP | 4236 |
-| Wigan | Rt Hon Lisa Nandy MP | 5945 |
+| Wigan | Rt Hon Lisa Nandy MP | 5946 |
 | Wimbledon | Mr Paul Kohler MP | 3411 |
 | Winchester | Dr Danny Chambers MP | 4918 |
 | Windsor | Jack Rankin MP | 5111 |
