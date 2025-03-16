@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992471                                |
-| Last Updated      | 2025-03-16 08:20:28 UTC                                    |
+| Total Signatures   | 2992483                                |
+| Last Updated      | 2025-03-16 09:16:34 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -54,7 +54,7 @@
 | Blaydon and Consett | Liz Twist MP | 5248 |
 | Blyth and Ashington | Ian Lavery MP | 5854 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
-| Bolsover | Natalie Fleet MP | 6536 |
+| Bolsover | Natalie Fleet MP | 6537 |
 | Bolton North East | Kirith Entwistle MP | 5601 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4410 |
 | Bolton West | Phil Brickell MP | 5579 |
@@ -66,7 +66,7 @@
 | Bradford East | Imran Hussain MP | 2887 |
 | Bradford South | Judith Cummins MP | 4179 |
 | Bradford West | Naz Shah MP | 1810 |
-| Braintree | Rt Hon James Cleverly MP | 7436 |
+| Braintree | Rt Hon James Cleverly MP | 7437 |
 | Brent East | Dawn Butler MP | 1863 |
 | Brent West | Barry Gardiner MP | 2089 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2992 |
@@ -78,7 +78,7 @@
 | Brighton Pavilion | Siân Berry MP | 2737 |
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2980 |
-| Bristol North East | Damien Egan MP | 3081 |
+| Bristol North East | Damien Egan MP | 3083 |
 | Bristol North West | Rt Hon Darren Jones MP | 3209 |
 | Bristol South | Karin Smyth MP | 3963 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5832 |
@@ -136,7 +136,7 @@
 | Croydon West | Sarah Jones MP | 1743 |
 | Dagenham and Rainham | Margaret Mullane MP | 4234 |
 | Darlington | Lola McEvoy MP | 5463 |
-| Dartford | Jim Dickson MP | 5731 |
+| Dartford | Jim Dickson MP | 5732 |
 | Daventry | Rt Hon Stuart Andrew MP | 7281 |
 | Derby North | Catherine Atkinson MP | 4321 |
 | Derby South | Baggy Shanker MP | 3605 |
@@ -279,9 +279,9 @@
 | Lewisham East | Janet Daby MP | 2146 |
 | Lewisham North | Vicky Foxcroft MP | 1651 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1589 |
-| Leyton and Wanstead | Mr Calvin Bailey MP | 1880 |
+| Leyton and Wanstead | Mr Calvin Bailey MP | 1881 |
 | Lichfield | Dave Robertson MP | 6474 |
-| Lincoln | Mr Hamish Falconer MP | 4648 |
+| Lincoln | Mr Hamish Falconer MP | 4649 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3129 |
 | Liverpool Riverside | Kim Johnson MP | 2638 |
 | Liverpool Walton | Dan Carden MP | 3358 |
@@ -340,7 +340,7 @@
 | North East Hampshire | Alex Brewer MP | 5956 |
 | North East Hertfordshire | Chris Hinchliff MP | 5847 |
 | North East Somerset and Hanham | Dan Norris MP | 5046 |
-| North Herefordshire | Ellie Chowns MP | 6469 |
+| North Herefordshire | Ellie Chowns MP | 6470 |
 | North Norfolk | Steff Aquarone MP | 5437 |
 | North Northumberland | David Smith MP | 6433 |
 | North Shropshire | Helen Morgan MP | 6877 |
@@ -476,9 +476,9 @@
 | Stretford and Urmston | Andrew Western MP | 3823 |
 | Stroud | Dr Simon Opher MP | 4534 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5397 |
-| Sunderland Central | Lewis Atkinson MP | 5234 |
+| Sunderland Central | Lewis Atkinson MP | 5235 |
 | Surrey Heath | Dr Al Pinkerton MP | 5424 |
-| Sussex Weald | Ms Nusrat Ghani MP | 6107 |
+| Sussex Weald | Ms Nusrat Ghani MP | 6108 |
 | Sutton and Cheam | Luke Taylor MP | 4389 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5672 |
 | Swindon North | Will Stone MP | 4898 |
@@ -491,7 +491,7 @@
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7432 |
 | Thornbury and Yate | Claire Young MP | 5695 |
-| Thurrock | Jen Craft MP | 5112 |
+| Thurrock | Jen Craft MP | 5113 |
 | Tipton and Wednesbury | Antonia Bance MP | 4912 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5955 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5952 |
@@ -567,7 +567,7 @@
 | South Antrim | Robin Swann MP | 3089 |
 | South Down | Chris Hazzard MP | 1841 |
 | Strangford | Jim Shannon MP | 3456 |
-| Upper Bann | Carla Lockhart MP | 3065 |
+| Upper Bann | Carla Lockhart MP | 3066 |
 | West Tyrone | Órfhlaith Begley MP | 1664 |
 | East Renfrewshire | Blair McDougall MP | 2591 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
