@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992592                                |
-| Last Updated      | 2025-03-16 19:13:01 UTC                                    |
+| Total Signatures   | 2992601                                |
+| Last Updated      | 2025-03-16 20:18:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -17,7 +17,7 @@
 | Ashford | Sojan Joseph MP | 5893 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4590 |
 | Aylesbury | Laura Kyrke-Smith MP | 4866 |
-| Banbury | Sean Woodcock MP | 5456 |
+| Banbury | Sean Woodcock MP | 5457 |
 | Barking | Nesil Caliskan MP | 2635 |
 | Barnsley North | Dan Jarvis MP | 5679 |
 | Barnsley South | Stephanie Peacock MP | 5767 |
@@ -69,11 +69,11 @@
 | Braintree | Rt Hon James Cleverly MP | 7438 |
 | Brent East | Dawn Butler MP | 1863 |
 | Brent West | Barry Gardiner MP | 2089 |
-| Brentford and Isleworth | Ruth Cadbury MP | 2992 |
+| Brentford and Isleworth | Ruth Cadbury MP | 2993 |
 | Brentwood and Ongar | Alex Burghart MP | 8139 |
-| Bridgwater | Sir Ashley Fox MP | 5753 |
+| Bridgwater | Sir Ashley Fox MP | 5754 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6624 |
-| Brigg and Immingham | Martin Vickers MP | 6462 |
+| Brigg and Immingham | Martin Vickers MP | 6463 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3934 |
 | Brighton Pavilion | Siân Berry MP | 2737 |
 | Bristol Central | Carla Denyer MP | 1615 |
@@ -117,7 +117,7 @@
 | Chipping Barnet | Dan Tomlinson MP | 4336 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5498 |
 | Christchurch | Sir Christopher Chope MP | 5851 |
-| Cities of London and Westminster | Rachel Blake MP | 5174 |
+| Cities of London and Westminster | Rachel Blake MP | 5175 |
 | City of Durham | Mary Kelly Foy MP | 4255 |
 | Clacton | Nigel Farage MP | 8085 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1741 |
@@ -368,7 +368,7 @@
 | Oxford West and Abingdon | Layla Moran MP | 2929 |
 | Peckham | Miatta Fahnbulleh MP | 1356 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6195 |
-| Penistone and Stocksbridge | Dr Marie Tidball MP | 5442 |
+| Penistone and Stocksbridge | Dr Marie Tidball MP | 5443 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6188 |
 | Peterborough | Andrew Pakes MP | 4162 |
 | Plymouth Moor View | Fred Thomas MP | 5682 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5080 |
 | Sefton Central | Bill Esterson MP | 4015 |
 | Selby | Keir Mather MP | 6372 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6666 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6667 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3427 |
 | Sheffield Central | Abtisam Mohamed MP | 1428 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
@@ -428,7 +428,7 @@
 | South Basildon and East Thurrock | James McMurdock MP | 6605 |
 | South Cambridgeshire | Pippa Heylings MP | 4454 |
 | South Cotswolds | Dr Roz Savage MP | 5716 |
-| South Derbyshire | Samantha Niblett MP | 6171 |
+| South Derbyshire | Samantha Niblett MP | 6172 |
 | South Devon | Caroline Voaden MP | 5322 |
 | South Dorset | Lloyd Hatton MP | 5660 |
 | South East Cornwall | Anna Gelderd MP | 6238 |
@@ -438,7 +438,7 @@
 | South Northamptonshire | Sarah Bool MP | 6670 |
 | South Ribble | Mr Paul Foster MP | 5899 |
 | South Shields | Mrs Emma Lewell-Buck MP | 4717 |
-| South Shropshire | Stuart Anderson MP | 7325 |
+| South Shropshire | Stuart Anderson MP | 7326 |
 | South Suffolk | James Cartlidge MP | 6147 |
 | South West Devon | Rebecca Smith MP | 5974 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5206 |
