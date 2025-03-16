@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992455                                |
-| Last Updated      | 2025-03-16 03:34:40 UTC                                    |
+| Total Signatures   | 2992456                                |
+| Last Updated      | 2025-03-16 04:20:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5476 |
 | Grantham and Bourne | Gareth Davies MP | 6327 |
 | Gravesham | Dr Lauren Sullivan MP | 5146 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5798 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5799 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2627 |
 | Guildford | Zöe Franklin MP | 4000 |
