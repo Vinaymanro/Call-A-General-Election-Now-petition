@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992666                                |
-| Last Updated      | 2025-03-17 06:26:41 UTC                                    |
+| Total Signatures   | 2992676                                |
+| Last Updated      | 2025-03-17 07:18:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -50,7 +50,7 @@
 | Blackburn | Mr Adnan Hussain MP | 3128 |
 | Blackley and Middleton South | Graham Stringer MP | 3767 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6152 |
-| Blackpool South | Chris Webb MP | 5817 |
+| Blackpool South | Chris Webb MP | 5818 |
 | Blaydon and Consett | Liz Twist MP | 5248 |
 | Blyth and Ashington | Ian Lavery MP | 5854 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
@@ -74,7 +74,7 @@
 | Bridgwater | Sir Ashley Fox MP | 5754 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6624 |
 | Brigg and Immingham | Martin Vickers MP | 6463 |
-| Brighton Kemptown and Peacehaven | Chris Ward MP | 3934 |
+| Brighton Kemptown and Peacehaven | Chris Ward MP | 3935 |
 | Brighton Pavilion | Siân Berry MP | 2737 |
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2980 |
@@ -227,7 +227,7 @@
 | Hendon | David Pinto-Duschinsky MP | 3799 |
 | Henley and Thame | Freddie van Mierlo MP | 5404 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5277 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6298 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6299 |
 | Hertford and Stortford | Josh Dean MP | 5976 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5746 |
 | Hexham | Joe Morris MP | 6408 |
@@ -311,7 +311,7 @@
 | Mid Dorset and North Poole | Vikki Slade MP | 5883 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5597 |
 | Mid Norfolk | George Freeman MP | 6285 |
-| Mid Sussex | Alison Bennett MP | 4699 |
+| Mid Sussex | Alison Bennett MP | 4700 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4228 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5711 |
 | Milton Keynes Central | Emily Darlington MP | 4942 |
@@ -343,7 +343,7 @@
 | North Herefordshire | Ellie Chowns MP | 6470 |
 | North Norfolk | Steff Aquarone MP | 5437 |
 | North Northumberland | David Smith MP | 6434 |
-| North Shropshire | Helen Morgan MP | 6877 |
+| North Shropshire | Helen Morgan MP | 6878 |
 | North Somerset | Sadik Al-Hassan MP | 4585 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6268 |
 | North West Cambridgeshire | Sam Carling MP | 6016 |
@@ -371,14 +371,14 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5443 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6188 |
 | Peterborough | Andrew Pakes MP | 4162 |
-| Plymouth Moor View | Fred Thomas MP | 5682 |
+| Plymouth Moor View | Fred Thomas MP | 5683 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4746 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5448 |
 | Poole | Neil Duncan-Jordan MP | 5667 |
 | Poplar and Limehouse | Apsana Begum MP | 2922 |
 | Portsmouth North | Amanda Martin MP | 5615 |
 | Portsmouth South | Stephen Morgan MP | 3878 |
-| Preston | Sir Mark Hendrick MP | 3808 |
+| Preston | Sir Mark Hendrick MP | 3809 |
 | Putney | Fleur Anderson MP | 3516 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2152 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5118 |
@@ -417,7 +417,7 @@
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3535 |
 | Sheffield South East | Mr Clive Betts MP | 4734 |
 | Sherwood Forest | Michelle Welsh MP | 6660 |
-| Shipley | Anna Dixon MP | 4891 |
+| Shipley | Anna Dixon MP | 4892 |
 | Shrewsbury | Julia Buckley MP | 5326 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6861 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6671 |
@@ -446,7 +446,7 @@
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5204 |
 | Southampton Itchen | Darren Paffey MP | 4548 |
 | Southampton Test | Satvir Kaur MP | 3405 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5582 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5583 |
 | Southend West and Leigh | David Burton-Sampson MP | 5875 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2588 |
 | Southport | Patrick Hurley MP | 5952 |
@@ -645,7 +645,7 @@
 | Gower | Tonia Antoniazzi MP | 4759 |
 | Llanelli | Dame Nia Griffith MP | 5248 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3709 |
-| Mid and South Pembrokeshire | Henry Tufnell MP | 5486 |
+| Mid and South Pembrokeshire | Henry Tufnell MP | 5487 |
 | Monmouthshire | Catherine Fookes MP | 4734 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6042 |
 | Neath and Swansea East | Carolyn Harris MP | 4438 |
