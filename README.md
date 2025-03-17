@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992658                                |
-| Last Updated      | 2025-03-17 04:22:02 UTC                                    |
+| Total Signatures   | 2992663                                |
+| Last Updated      | 2025-03-17 05:18:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -128,7 +128,7 @@
 | Coventry East | Mary Creagh MP | 3593 |
 | Coventry North West | Taiwo Owatemi MP | 4254 |
 | Coventry South | Zarah Sultana MP | 3515 |
-| Cramlington and Killingworth | Emma Foody MP | 5804 |
+| Cramlington and Killingworth | Emma Foody MP | 5805 |
 | Crawley | Peter Lamb MP | 4713 |
 | Crewe and Nantwich | Connor Naismith MP | 5691 |
 | Croydon East | Natasha Irons MP | 3336 |
@@ -220,7 +220,7 @@
 | Hartlepool | Mr Jonathan Brash MP | 5651 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6278 |
 | Hastings and Rye | Helena Dollimore MP | 5070 |
-| Havant | Alan Mak MP | 5656 |
+| Havant | Alan Mak MP | 5657 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2593 |
 | Hazel Grove | Lisa Smart MP | 5100 |
 | Hemel Hempstead | David Taylor MP | 5074 |
@@ -397,7 +397,7 @@
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5069 |
 | Rossendale and Darwen | Andy MacNae MP | 6491 |
 | Rother Valley | Jake Richards MP | 5855 |
-| Rotherham | Sarah Champion MP | 4947 |
+| Rotherham | Sarah Champion MP | 4948 |
 | Rugby | John Slinger MP | 5411 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4105 |
 | Runcorn and Helsby | Mike Amesbury MP | 5024 |
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 4015 |
 | Selby | Keir Mather MP | 6372 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6667 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3427 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3428 |
 | Sheffield Central | Abtisam Mohamed MP | 1428 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3535 |
@@ -530,7 +530,7 @@
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6578 |
 | Whitehaven and Workington | Josh MacAlister MP | 5848 |
 | Widnes and Halewood | Derek Twigg MP | 4236 |
-| Wigan | Rt Hon Lisa Nandy MP | 5946 |
+| Wigan | Rt Hon Lisa Nandy MP | 5947 |
 | Wimbledon | Mr Paul Kohler MP | 3411 |
 | Winchester | Dr Danny Chambers MP | 4919 |
 | Windsor | Jack Rankin MP | 5111 |
