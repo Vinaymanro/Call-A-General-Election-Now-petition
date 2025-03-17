@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992694                                |
-| Last Updated      | 2025-03-17 08:24:37 UTC                                    |
+| Total Signatures   | 2992702                                |
+| Last Updated      | 2025-03-17 09:20:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -90,7 +90,7 @@
 | Burnley | Oliver Ryan MP | 5725 |
 | Burton and Uttoxeter | Jacob Collier MP | 5800 |
 | Bury North | Mr James Frith MP | 4976 |
-| Bury South | Christian Wakeford MP | 5419 |
+| Bury South | Christian Wakeford MP | 5420 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5451 |
 | Calder Valley | Josh Fenton-Glynn MP | 5655 |
 | Camborne and Redruth | Perran Moon MP | 4965 |
@@ -99,7 +99,7 @@
 | Canterbury | Rosie Duffield MP | 4471 |
 | Carlisle | Ms Julie Minns MP | 6532 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
-| Castle Point | Rebecca Harris MP | 7526 |
+| Castle Point | Rebecca Harris MP | 7527 |
 | Central Devon | Rt Hon Mel Stride MP | 5803 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5303 |
 | Chatham and Aylesford | Tristan Osborne MP | 5628 |
@@ -207,7 +207,7 @@
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2064 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1519 |
 | Halesowen | Alex Ballinger MP | 4994 |
-| Halifax | Kate Dearden MP | 4750 |
+| Halifax | Kate Dearden MP | 4751 |
 | Hamble Valley | Paul Holmes MP | 6140 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3197 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
@@ -303,7 +303,7 @@
 | Mansfield | Steve Yemm MP | 6196 |
 | Melksham and Devizes | Brian Mathew MP | 5014 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6113 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6080 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6081 |
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
 | Mid Cheshire | Andrew Cooper MP | 5169 |
@@ -336,7 +336,7 @@
 | North Dorset | Simon Hoare MP | 6316 |
 | North Durham | Luke Akehurst MP | 5389 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6071 |
-| North East Derbyshire | Louise Jones MP | 5798 |
+| North East Derbyshire | Louise Jones MP | 5799 |
 | North East Hampshire | Alex Brewer MP | 5956 |
 | North East Hertfordshire | Chris Hinchliff MP | 5847 |
 | North East Somerset and Hanham | Dan Norris MP | 5046 |
@@ -369,7 +369,7 @@
 | Peckham | Miatta Fahnbulleh MP | 1356 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6195 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5443 |
-| Penrith and Solway | Markus Campbell-Savours MP | 6188 |
+| Penrith and Solway | Markus Campbell-Savours MP | 6189 |
 | Peterborough | Andrew Pakes MP | 4162 |
 | Plymouth Moor View | Fred Thomas MP | 5684 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4746 |
@@ -391,7 +391,7 @@
 | Ribble Valley | Maya Ellis MP | 6711 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7105 |
 | Richmond Park | Sarah Olney MP | 4061 |
-| Rochdale | Paul Waugh MP | 3951 |
+| Rochdale | Paul Waugh MP | 3952 |
 | Rochester and Strood | Lauren Edwards MP | 6025 |
 | Romford | Andrew Rosindell MP | 5788 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5069 |
@@ -598,7 +598,7 @@
 | Edinburgh South West | Dr Scott Arthur MP | 2259 |
 | Edinburgh West | Christine Jardine MP | 2713 |
 | Falkirk | Euan Stainbank MP | 3440 |
-| Glasgow East | John Grady MP | 2313 |
+| Glasgow East | John Grady MP | 2314 |
 | Glasgow North | Martin Rhodes MP | 2040 |
 | Glasgow North East | Maureen Burke MP | 2479 |
 | Glasgow South | Gordon McKee MP | 1847 |
