@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992841                                |
-| Last Updated      | 2025-03-17 20:19:54 UTC                                    |
+| Total Signatures   | 2992850                                |
+| Last Updated      | 2025-03-17 21:16:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -32,7 +32,7 @@
 | Bedford | Mohammad Yasin MP | 3226 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2702 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1728 |
-| Beverley and Holderness | Rt Hon Graham Stuart MP | 6159 |
+| Beverley and Holderness | Rt Hon Graham Stuart MP | 6160 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6137 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
 | Bicester and Woodstock | Calum Miller MP | 4676 |
@@ -55,7 +55,7 @@
 | Blyth and Ashington | Ian Lavery MP | 5856 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6139 |
 | Bolsover | Natalie Fleet MP | 6537 |
-| Bolton North East | Kirith Entwistle MP | 5601 |
+| Bolton North East | Kirith Entwistle MP | 5603 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4411 |
 | Bolton West | Phil Brickell MP | 5579 |
 | Bootle | Peter Dowd MP | 3148 |
@@ -71,10 +71,10 @@
 | Brent West | Barry Gardiner MP | 2089 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2995 |
 | Brentwood and Ongar | Alex Burghart MP | 8139 |
-| Bridgwater | Sir Ashley Fox MP | 5754 |
+| Bridgwater | Sir Ashley Fox MP | 5755 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6624 |
 | Brigg and Immingham | Martin Vickers MP | 6464 |
-| Brighton Kemptown and Peacehaven | Chris Ward MP | 3935 |
+| Brighton Kemptown and Peacehaven | Chris Ward MP | 3936 |
 | Brighton Pavilion | Siân Berry MP | 2737 |
 | Bristol Central | Carla Denyer MP | 1615 |
 | Bristol East | Kerry McCarthy MP | 2980 |
@@ -110,7 +110,7 @@
 | Chesham and Amersham | Sarah Green MP | 4941 |
 | Chester North and Neston | Samantha Dixon MP | 4056 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6387 |
-| Chesterfield | Mr Toby Perkins MP | 4876 |
+| Chesterfield | Mr Toby Perkins MP | 4877 |
 | Chichester | Jess Brown-Fuller MP | 5926 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4164 |
 | Chippenham | Sarah Gibson MP | 4738 |
@@ -127,10 +127,10 @@
 | Corby and East Northamptonshire | Lee Barron MP | 6004 |
 | Coventry East | Mary Creagh MP | 3593 |
 | Coventry North West | Taiwo Owatemi MP | 4254 |
-| Coventry South | Zarah Sultana MP | 3516 |
+| Coventry South | Zarah Sultana MP | 3517 |
 | Cramlington and Killingworth | Emma Foody MP | 5805 |
 | Crawley | Peter Lamb MP | 4714 |
-| Crewe and Nantwich | Connor Naismith MP | 5691 |
+| Crewe and Nantwich | Connor Naismith MP | 5692 |
 | Croydon East | Natasha Irons MP | 3336 |
 | Croydon South | Rt Hon Chris Philp MP | 3957 |
 | Croydon West | Sarah Jones MP | 1743 |
@@ -479,7 +479,7 @@
 | Sunderland Central | Lewis Atkinson MP | 5235 |
 | Surrey Heath | Dr Al Pinkerton MP | 5425 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6109 |
-| Sutton and Cheam | Luke Taylor MP | 4389 |
+| Sutton and Cheam | Luke Taylor MP | 4390 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5672 |
 | Swindon North | Will Stone MP | 4898 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4208 |
