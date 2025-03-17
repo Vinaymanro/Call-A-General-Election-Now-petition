@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992663                                |
-| Last Updated      | 2025-03-17 05:18:10 UTC                                    |
+| Total Signatures   | 2992666                                |
+| Last Updated      | 2025-03-17 06:26:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -306,7 +306,7 @@
 | Meriden and Solihull East | Saqib Bhatti MP | 6080 |
 | Mid Bedfordshire | Blake Stephenson MP | 5842 |
 | Mid Buckinghamshire | Greg Smith MP | 5596 |
-| Mid Cheshire | Andrew Cooper MP | 5168 |
+| Mid Cheshire | Andrew Cooper MP | 5169 |
 | Mid Derbyshire | Jonathan Davies MP | 5231 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5883 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5597 |
@@ -405,7 +405,7 @@
 | Rushcliffe | James Naish MP | 5075 |
 | Rutland and Stamford | Alicia Kearns MP | 6263 |
 | Salford | Rebecca Long Bailey MP | 4665 |
-| Salisbury | Rt Hon John Glen MP | 4749 |
+| Salisbury | Rt Hon John Glen MP | 4750 |
 | Scarborough and Whitby | Alison Hume MP | 6000 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5081 |
 | Sefton Central | Bill Esterson MP | 4015 |
@@ -589,7 +589,7 @@
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2679 |
 | Dumfries and Galloway | John Cooper MP | 4040 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3860 |
-| Dundee Central | Chris Law MP | 2542 |
+| Dundee Central | Chris Law MP | 2543 |
 | Dunfermline and Dollar | Graeme Downie MP | 2929 |
 | East Kilbride and Strathaven | Joani Reid MP | 3156 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2084 |
