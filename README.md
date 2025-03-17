@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992756                                |
-| Last Updated      | 2025-03-17 13:27:31 UTC                                    |
+| Total Signatures   | 2992763                                |
+| Last Updated      | 2025-03-17 14:17:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5463 |
 | Dartford | Jim Dickson MP | 5733 |
 | Daventry | Rt Hon Stuart Andrew MP | 7281 |
-| Derby North | Catherine Atkinson MP | 4322 |
+| Derby North | Catherine Atkinson MP | 4323 |
 | Derby South | Baggy Shanker MP | 3605 |
 | Derbyshire Dales | John Whitby MP | 6778 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3178 |
@@ -165,7 +165,7 @@
 | East Wiltshire | Danny Kruger MP | 6064 |
 | East Worthing and Shoreham | Tom Rutland MP | 4607 |
 | Eastbourne | Josh Babarinde MP | 5040 |
-| Eastleigh | Liz Jarvis MP | 4327 |
+| Eastleigh | Liz Jarvis MP | 4328 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2226 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4442 |
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
@@ -213,7 +213,7 @@
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4716 |
 | Harlow | Chris Vince MP | 6066 |
-| Harpenden and Berkhamsted | Victoria Collins MP | 4538 |
+| Harpenden and Berkhamsted | Victoria Collins MP | 4539 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5115 |
 | Harrow East | Bob Blackman MP | 3131 |
 | Harrow West | Gareth Thomas MP | 2404 |
@@ -259,7 +259,7 @@
 | Kettering | Rosie Wrighting MP | 5906 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3749 |
 | Kingston upon Hull East | Karl Turner MP | 5000 |
-| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4643 |
+| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4644 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5493 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6398 |
 | Knowsley | Anneliese Midgley MP | 3278 |
@@ -374,7 +374,7 @@
 | Plymouth Moor View | Fred Thomas MP | 5684 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4746 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5449 |
-| Poole | Neil Duncan-Jordan MP | 5667 |
+| Poole | Neil Duncan-Jordan MP | 5668 |
 | Poplar and Limehouse | Apsana Begum MP | 2922 |
 | Portsmouth North | Amanda Martin MP | 5615 |
 | Portsmouth South | Stephen Morgan MP | 3878 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5206 |
 | South West Norfolk | Terry Jermy MP | 6528 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5204 |
-| Southampton Itchen | Darren Paffey MP | 4548 |
+| Southampton Itchen | Darren Paffey MP | 4549 |
 | Southampton Test | Satvir Kaur MP | 3405 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5583 |
 | Southend West and Leigh | David Burton-Sampson MP | 5875 |
@@ -517,7 +517,7 @@
 | Waveney Valley | Adrian Ramsay MP | 5854 |
 | Weald of Kent | Katie Lam MP | 7231 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5084 |
-| Wells and Mendip Hills | Tessa Munt MP | 5259 |
+| Wells and Mendip Hills | Tessa Munt MP | 5260 |
 | Welwyn Hatfield | Andrew Lewin MP | 5060 |
 | West Bromwich | Sarah Coombes MP | 3782 |
 | West Dorset | Edward Morello MP | 5458 |
