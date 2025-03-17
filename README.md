@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992655                                |
-| Last Updated      | 2025-03-17 03:33:38 UTC                                    |
+| Total Signatures   | 2992658                                |
+| Last Updated      | 2025-03-17 04:22:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -45,7 +45,7 @@
 | Birmingham Northfield | Laurence Turner MP | 4895 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1720 |
 | Birmingham Selly Oak | Al Carns MP | 3293 |
-| Birmingham Yardley | Jess Phillips MP | 3086 |
+| Birmingham Yardley | Jess Phillips MP | 3087 |
 | Bishop Auckland | Sam Rushworth MP | 6165 |
 | Blackburn | Mr Adnan Hussain MP | 3128 |
 | Blackley and Middleton South | Graham Stringer MP | 3767 |
@@ -227,7 +227,7 @@
 | Hendon | David Pinto-Duschinsky MP | 3799 |
 | Henley and Thame | Freddie van Mierlo MP | 5404 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5277 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6297 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6298 |
 | Hertford and Stortford | Josh Dean MP | 5976 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5746 |
 | Hexham | Joe Morris MP | 6408 |
@@ -511,7 +511,7 @@
 | Walthamstow | Ms Stella Creasy MP | 1318 |
 | Warrington North | Charlotte Nichols MP | 5151 |
 | Warrington South | Sarah Hall MP | 5562 |
-| Warwick and Leamington | Matt Western MP | 4473 |
+| Warwick and Leamington | Matt Western MP | 4474 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5316 |
 | Watford | Matt Turmaine MP | 3741 |
 | Waveney Valley | Adrian Ramsay MP | 5854 |
