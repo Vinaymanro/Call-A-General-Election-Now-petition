@@ -3,14 +3,14 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992714                                |
-| Last Updated      | 2025-03-17 10:20:11 UTC                                    |
+| Total Signatures   | 2992722                                |
+| Last Updated      | 2025-03-17 11:14:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5451 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5806 |
-| Altrincham and Sale West | Mr Connor Rand MP | 5501 |
+| Altrincham and Sale West | Mr Connor Rand MP | 5503 |
 | Amber Valley | Linsey Farnsworth MP | 6086 |
 | Arundel and South Downs | Andrew Griffith MP | 6960 |
 | Ashfield | Lee Anderson MP | 6162 |
@@ -85,7 +85,7 @@
 | Bromley and Biggin Hill | Peter Fortune MP | 5239 |
 | Bromsgrove | Bradley Thomas MP | 6476 |
 | Broxbourne | Lewis Cocking MP | 6076 |
-| Broxtowe | Juliet Campbell MP | 4712 |
+| Broxtowe | Juliet Campbell MP | 4713 |
 | Buckingham and Bletchley | Callum Anderson MP | 5255 |
 | Burnley | Oliver Ryan MP | 5725 |
 | Burton and Uttoxeter | Jacob Collier MP | 5800 |
@@ -170,7 +170,7 @@
 | Ellesmere Port and Bromborough | Justin Madders MP | 4442 |
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5175 |
-| Enfield North | Feryal Clark MP | 2890 |
+| Enfield North | Feryal Clark MP | 2891 |
 | Epping Forest | Dr Neil Hudson MP | 6574 |
 | Epsom and Ewell | Helen Maguire MP | 4928 |
 | Erewash | Adam Thompson MP | 5825 |
@@ -261,7 +261,7 @@
 | Kingston upon Hull East | Karl Turner MP | 5000 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4643 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5493 |
-| Kingswinford and South Staffordshire | Mike Wood MP | 6397 |
+| Kingswinford and South Staffordshire | Mike Wood MP | 6398 |
 | Knowsley | Anneliese Midgley MP | 3278 |
 | Lancaster and Wyre | Cat Smith MP | 5080 |
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
@@ -273,7 +273,7 @@
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3784 |
 | Leicester East | Shivani Raja MP | 1884 |
 | Leicester South | Shockat Adam MP | 1842 |
-| Leicester West | Rt Hon Liz Kendall MP | 3464 |
+| Leicester West | Rt Hon Liz Kendall MP | 3465 |
 | Leigh and Atherton | Jo Platt MP | 6076 |
 | Lewes | James MacCleary MP | 4902 |
 | Lewisham East | Janet Daby MP | 2146 |
@@ -426,7 +426,7 @@
 | Smethwick | Gurinder Singh Josan MP | 3060 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5446 |
 | South Basildon and East Thurrock | James McMurdock MP | 6605 |
-| South Cambridgeshire | Pippa Heylings MP | 4454 |
+| South Cambridgeshire | Pippa Heylings MP | 4455 |
 | South Cotswolds | Dr Roz Savage MP | 5716 |
 | South Derbyshire | Samantha Niblett MP | 6173 |
 | South Devon | Caroline Voaden MP | 5322 |
@@ -473,7 +473,7 @@
 | Stratford and Bow | Uma Kumaran MP | 1768 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6714 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1863 |
-| Stretford and Urmston | Andrew Western MP | 3823 |
+| Stretford and Urmston | Andrew Western MP | 3824 |
 | Stroud | Dr Simon Opher MP | 4536 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5397 |
 | Sunderland Central | Lewis Atkinson MP | 5235 |
