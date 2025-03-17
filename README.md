@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992776                                |
-| Last Updated      | 2025-03-17 15:19:10 UTC                                    |
+| Total Signatures   | 2992782                                |
+| Last Updated      | 2025-03-17 16:23:34 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -165,7 +165,7 @@
 | East Wiltshire | Danny Kruger MP | 6064 |
 | East Worthing and Shoreham | Tom Rutland MP | 4607 |
 | Eastbourne | Josh Babarinde MP | 5040 |
-| Eastleigh | Liz Jarvis MP | 4329 |
+| Eastleigh | Liz Jarvis MP | 4330 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2226 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4442 |
 | Eltham and Chislehurst | Clive Efford MP | 4702 |
@@ -376,7 +376,7 @@
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5449 |
 | Poole | Neil Duncan-Jordan MP | 5668 |
 | Poplar and Limehouse | Apsana Begum MP | 2922 |
-| Portsmouth North | Amanda Martin MP | 5615 |
+| Portsmouth North | Amanda Martin MP | 5616 |
 | Portsmouth South | Stephen Morgan MP | 3878 |
 | Preston | Sir Mark Hendrick MP | 3809 |
 | Putney | Fleur Anderson MP | 3516 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5457 |
 | Redditch | Chris Bloore MP | 6073 |
 | Reigate | Rebecca Paul MP | 5552 |
-| Ribble Valley | Maya Ellis MP | 6711 |
+| Ribble Valley | Maya Ellis MP | 6712 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7105 |
 | Richmond Park | Sarah Olney MP | 4061 |
 | Rochdale | Paul Waugh MP | 3952 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6173 |
 | South Devon | Caroline Voaden MP | 5322 |
 | South Dorset | Lloyd Hatton MP | 5660 |
-| South East Cornwall | Anna Gelderd MP | 6238 |
+| South East Cornwall | Anna Gelderd MP | 6239 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7134 |
 | South Leicestershire | Alberto Costa MP | 6990 |
 | South Norfolk | Ben Goldsborough MP | 5441 |
@@ -491,7 +491,7 @@
 | The Wrekin | Rt Hon Mark Pritchard MP | 6398 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7432 |
 | Thornbury and Yate | Claire Young MP | 5697 |
-| Thurrock | Jen Craft MP | 5113 |
+| Thurrock | Jen Craft MP | 5114 |
 | Tipton and Wednesbury | Antonia Bance MP | 4912 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5955 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5952 |
@@ -530,7 +530,7 @@
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6578 |
 | Whitehaven and Workington | Josh MacAlister MP | 5848 |
 | Widnes and Halewood | Derek Twigg MP | 4236 |
-| Wigan | Rt Hon Lisa Nandy MP | 5947 |
+| Wigan | Rt Hon Lisa Nandy MP | 5948 |
 | Wimbledon | Mr Paul Kohler MP | 3412 |
 | Winchester | Dr Danny Chambers MP | 4919 |
 | Windsor | Jack Rankin MP | 5111 |
