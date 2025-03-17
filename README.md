@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992817                                |
-| Last Updated      | 2025-03-17 18:24:20 UTC                                    |
+| Total Signatures   | 2992823                                |
+| Last Updated      | 2025-03-17 19:14:22 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5452 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5806 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5807 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5503 |
 | Amber Valley | Linsey Farnsworth MP | 6086 |
 | Arundel and South Downs | Andrew Griffith MP | 6960 |
@@ -95,7 +95,7 @@
 | Calder Valley | Josh Fenton-Glynn MP | 5655 |
 | Camborne and Redruth | Perran Moon MP | 4965 |
 | Cambridge | Daniel Zeichner MP | 2212 |
-| Cannock Chase | Josh Newbury MP | 6881 |
+| Cannock Chase | Josh Newbury MP | 6882 |
 | Canterbury | Rosie Duffield MP | 4471 |
 | Carlisle | Ms Julie Minns MP | 6532 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
@@ -178,7 +178,7 @@
 | Esher and Walton | Monica Harding MP | 4826 |
 | Exeter | Steve Race MP | 3176 |
 | Exmouth and Exeter East | David Reed MP | 5208 |
-| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6121 |
+| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6122 |
 | Farnham and Bordon | Gregory Stafford MP | 5187 |
 | Faversham and Mid Kent | Helen Whately MP | 6225 |
 | Feltham and Heston | Seema Malhotra MP | 2921 |
@@ -192,7 +192,7 @@
 | Gateshead Central and Whickham | Mark Ferguson MP | 4527 |
 | Gedling | Michael Payne MP | 5054 |
 | Gillingham and Rainham | Naushabah Khan MP | 5058 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5588 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5589 |
 | Gloucester | Alex McIntyre MP | 4541 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6958 |
@@ -363,7 +363,7 @@
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5230 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4085 |
 | Orpington | Gareth Bacon MP | 5311 |
-| Ossett and Denby Dale | Jade Botterill MP | 5797 |
+| Ossett and Denby Dale | Jade Botterill MP | 5798 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2151 |
 | Oxford West and Abingdon | Layla Moran MP | 2929 |
 | Peckham | Miatta Fahnbulleh MP | 1356 |
@@ -390,7 +390,7 @@
 | Reigate | Rebecca Paul MP | 5552 |
 | Ribble Valley | Maya Ellis MP | 6712 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7105 |
-| Richmond Park | Sarah Olney MP | 4061 |
+| Richmond Park | Sarah Olney MP | 4062 |
 | Rochdale | Paul Waugh MP | 3952 |
 | Rochester and Strood | Lauren Edwards MP | 6027 |
 | Romford | Andrew Rosindell MP | 5789 |
