@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992648                                |
-| Last Updated      | 2025-03-17 01:24:48 UTC                                    |
+| Total Signatures   | 2992655                                |
+| Last Updated      | 2025-03-17 02:57:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5476 |
 | Grantham and Bourne | Gareth Davies MP | 6327 |
 | Gravesham | Dr Lauren Sullivan MP | 5146 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5800 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5801 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2628 |
 | Guildford | Zöe Franklin MP | 4000 |
@@ -333,7 +333,7 @@
 | North Cornwall | Ben Maguire MP | 6402 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6050 |
 | North Devon | Ian Roome MP | 5860 |
-| North Dorset | Simon Hoare MP | 6315 |
+| North Dorset | Simon Hoare MP | 6316 |
 | North Durham | Luke Akehurst MP | 5389 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6071 |
 | North East Derbyshire | Louise Jones MP | 5798 |
@@ -442,7 +442,7 @@
 | South Suffolk | James Cartlidge MP | 6147 |
 | South West Devon | Rebecca Smith MP | 5974 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5206 |
-| South West Norfolk | Terry Jermy MP | 6527 |
+| South West Norfolk | Terry Jermy MP | 6528 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5204 |
 | Southampton Itchen | Darren Paffey MP | 4548 |
 | Southampton Test | Satvir Kaur MP | 3405 |
@@ -452,7 +452,7 @@
 | Southport | Patrick Hurley MP | 5952 |
 | Spelthorne | Lincoln Jopp MP | 5461 |
 | Spen Valley | Kim Leadbeater MP | 5379 |
-| St Albans | Daisy Cooper MP | 3877 |
+| St Albans | Daisy Cooper MP | 3878 |
 | St Austell and Newquay | Noah Law MP | 5607 |
 | St Helens North | David Baines MP | 4696 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4150 |
@@ -562,7 +562,7 @@
 | Lagan Valley | Sorcha Eastwood MP | 3521 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1891 |
 | Newry and Armagh | Dáire Hughes MP | 2070 |
-| North Antrim | Jim Allister KC MP | 3089 |
+| North Antrim | Jim Allister KC MP | 3090 |
 | North Down | Alex Easton MP | 3358 |
 | South Antrim | Robin Swann MP | 3089 |
 | South Down | Chris Hazzard MP | 1841 |
@@ -579,7 +579,7 @@
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4672 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2815 |
 | Alloa and Grangemouth | Brian Leishman MP | 3015 |
-| Angus and Perthshire Glens | Dave Doogan MP | 4050 |
+| Angus and Perthshire Glens | Dave Doogan MP | 4051 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3470 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3412 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3017 |
@@ -639,7 +639,7 @@
 | Cardiff South and Penarth | Stephen Doughty MP | 2800 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3143 |
 | Ceredigion Preseli | Ben Lake MP | 4737 |
-| Clwyd East | Becky Gittins MP | 6037 |
+| Clwyd East | Becky Gittins MP | 6038 |
 | Clwyd North | Gill German MP | 5448 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4235 |
 | Gower | Tonia Antoniazzi MP | 4759 |
