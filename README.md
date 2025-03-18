@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992900                                |
-| Last Updated      | 2025-03-18 02:57:27 UTC                                    |
+| Total Signatures   | 2992901                                |
+| Last Updated      | 2025-03-18 03:32:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -214,7 +214,7 @@
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4716 |
 | Harlow | Chris Vince MP | 6066 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4539 |
-| Harrogate and Knaresborough | Tom Gordon MP | 5115 |
+| Harrogate and Knaresborough | Tom Gordon MP | 5116 |
 | Harrow East | Bob Blackman MP | 3131 |
 | Harrow West | Gareth Thomas MP | 2404 |
 | Hartlepool | Mr Jonathan Brash MP | 5651 |
