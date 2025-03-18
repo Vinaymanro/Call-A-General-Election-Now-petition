@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992896                                |
-| Last Updated      | 2025-03-18 01:22:47 UTC                                    |
+| Total Signatures   | 2992900                                |
+| Last Updated      | 2025-03-18 02:57:27 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -169,7 +169,7 @@
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2226 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4442 |
 | Eltham and Chislehurst | Clive Efford MP | 4703 |
-| Ely and East Cambridgeshire | Charlotte Cane MP | 5175 |
+| Ely and East Cambridgeshire | Charlotte Cane MP | 5176 |
 | Enfield North | Feryal Clark MP | 2891 |
 | Epping Forest | Dr Neil Hudson MP | 6574 |
 | Epsom and Ewell | Helen Maguire MP | 4928 |
@@ -316,7 +316,7 @@
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5712 |
 | Milton Keynes Central | Emily Darlington MP | 4943 |
 | Milton Keynes North | Chris Curtis MP | 4568 |
-| Mitcham and Morden | Dame Siobhain McDonagh MP | 2669 |
+| Mitcham and Morden | Dame Siobhain McDonagh MP | 2670 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5764 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5424 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5252 |
@@ -386,7 +386,7 @@
 | Reading Central | Matt Rodda MP | 3028 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4449 |
 | Redcar | Anna Turley MP | 5459 |
-| Redditch | Chris Bloore MP | 6073 |
+| Redditch | Chris Bloore MP | 6074 |
 | Reigate | Rebecca Paul MP | 5552 |
 | Ribble Valley | Maya Ellis MP | 6712 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7107 |
@@ -607,7 +607,7 @@
 | Glenrothes and Mid Fife | Richard Baker MP | 2969 |
 | Gordon and Buchan | Harriet Cross MP | 4389 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3134 |
-| Inverclyde and Renfrewshire West | Martin McCluskey MP | 2751 |
+| Inverclyde and Renfrewshire West | Martin McCluskey MP | 2752 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3617 |
 | Livingston | Gregor Poynton MP | 3400 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2858 |
