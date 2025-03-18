@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2992938                                |
-| Last Updated      | 2025-03-18 09:19:43 UTC                                    |
+| Total Signatures   | 2992947                                |
+| Last Updated      | 2025-03-18 10:19:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -36,7 +36,7 @@
 | Bexhill and Battle | Dr Kieran Mullan MP | 6137 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
 | Bicester and Woodstock | Calum Miller MP | 4676 |
-| Birkenhead | Alison McGovern MP | 4318 |
+| Birkenhead | Alison McGovern MP | 4319 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2950 |
 | Birmingham Erdington | Paulette Hamilton MP | 4243 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1580 |
@@ -198,7 +198,7 @@
 | Goole and Pocklington | Rt Hon David Davis MP | 6958 |
 | Gorton and Denton | Andrew Gwynne MP | 3278 |
 | Gosport | Dame Caroline Dinenage MP | 5476 |
-| Grantham and Bourne | Gareth Davies MP | 6329 |
+| Grantham and Bourne | Gareth Davies MP | 6330 |
 | Gravesham | Dr Lauren Sullivan MP | 5146 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5801 |
 | Great Yarmouth | Rupert Lowe MP | 6582 |
@@ -268,7 +268,7 @@
 | Leeds East | Richard Burgon MP | 4307 |
 | Leeds North East | Fabian Hamilton MP | 2634 |
 | Leeds North West | Katie White MP | 4390 |
-| Leeds South | Rt Hon Hilary Benn MP | 3872 |
+| Leeds South | Rt Hon Hilary Benn MP | 3873 |
 | Leeds South West and Morley | Mark Sewards MP | 5493 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3784 |
 | Leicester East | Shivani Raja MP | 1884 |
@@ -297,7 +297,7 @@
 | Maidstone and Malling | Helen Grant MP | 5843 |
 | Makerfield | Josh Simons MP | 5876 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8114 |
-| Manchester Central | Rt Hon Lucy Powell MP | 3996 |
+| Manchester Central | Rt Hon Lucy Powell MP | 3997 |
 | Manchester Rusholme | Afzal Khan MP | 1219 |
 | Manchester Withington | Jeff Smith MP | 1672 |
 | Mansfield | Steve Yemm MP | 6196 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5860 |
 | North Dorset | Simon Hoare MP | 6317 |
 | North Durham | Luke Akehurst MP | 5389 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6071 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6072 |
 | North East Derbyshire | Louise Jones MP | 5799 |
 | North East Hampshire | Alex Brewer MP | 5956 |
 | North East Hertfordshire | Chris Hinchliff MP | 5848 |
@@ -352,7 +352,7 @@
 | North West Leicestershire | Amanda Hack MP | 6700 |
 | North West Norfolk | James Wild MP | 5763 |
 | Northampton North | Lucy Rigby KC MP | 4277 |
-| Northampton South | Mike Reader MP | 4965 |
+| Northampton South | Mike Reader MP | 4966 |
 | Norwich North | Alice Macdonald MP | 4404 |
 | Norwich South | Clive Lewis MP | 3392 |
 | Nottingham East | Nadia Whittome MP | 2476 |
@@ -549,7 +549,7 @@
 | Wyre Forest | Mark Garnier MP | 6485 |
 | Wythenshawe and Sale East | Mike Kane MP | 4600 |
 | Yeovil | Adam Dance MP | 5601 |
-| York Central | Rachael Maskell MP | 3279 |
+| York Central | Rachael Maskell MP | 3280 |
 | York Outer | Mr Luke Charters MP | 4346 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2957 |
 | Belfast North | John Finucane MP | 2487 |
@@ -573,7 +573,7 @@
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 881 |
 | Midlothian | Kirsty McNeill MP | 2797 |
 | North Ayrshire and Arran | Irene Campbell MP | 3295 |
-| Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1441 |
+| Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1442 |
 | Aberdeen North | Kirsty Blackman MP | 3552 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3841 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4672 |
@@ -620,7 +620,7 @@
 | Perth and Kinross-shire | Pete Wishart MP | 3508 |
 | Rutherglen | Michael Shanks MP | 2573 |
 | Stirling and Strathallan | Chris Kane MP | 3220 |
-| West Dunbartonshire | Douglas McAllister MP | 2726 |
+| West Dunbartonshire | Douglas McAllister MP | 2727 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3554 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4026 |
 | Central Ayrshire | Alan Gemmell MP | 3135 |
