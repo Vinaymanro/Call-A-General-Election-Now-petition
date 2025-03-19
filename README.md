@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993199                                |
-| Last Updated      | 2025-03-19 04:21:12 UTC                                    |
+| Total Signatures   | 2993205                                |
+| Last Updated      | 2025-03-19 05:17:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -35,7 +35,7 @@
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6162 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6137 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5048 |
-| Bicester and Woodstock | Calum Miller MP | 4676 |
+| Bicester and Woodstock | Calum Miller MP | 4677 |
 | Birkenhead | Alison McGovern MP | 4319 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2950 |
 | Birmingham Erdington | Paulette Hamilton MP | 4244 |
@@ -68,7 +68,7 @@
 | Bradford West | Naz Shah MP | 1810 |
 | Braintree | Rt Hon James Cleverly MP | 7439 |
 | Brent East | Dawn Butler MP | 1864 |
-| Brent West | Barry Gardiner MP | 2090 |
+| Brent West | Barry Gardiner MP | 2091 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2998 |
 | Brentwood and Ongar | Alex Burghart MP | 8140 |
 | Bridgwater | Sir Ashley Fox MP | 5755 |
@@ -238,7 +238,7 @@
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2280 |
 | Honiton and Sidmouth | Richard Foord MP | 5255 |
 | Hornchurch and Upminster | Julia Lopez MP | 6609 |
-| Hornsey and Friern Barnet | Catherine West MP | 1940 |
+| Hornsey and Friern Barnet | Catherine West MP | 1941 |
 | Horsham | John Milne MP | 5830 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6307 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3331 |
@@ -310,7 +310,7 @@
 | Mid Derbyshire | Jonathan Davies MP | 5231 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5884 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5597 |
-| Mid Norfolk | George Freeman MP | 6286 |
+| Mid Norfolk | George Freeman MP | 6287 |
 | Mid Sussex | Alison Bennett MP | 4701 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4230 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5712 |
@@ -491,7 +491,7 @@
 | The Wrekin | Rt Hon Mark Pritchard MP | 6399 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7433 |
 | Thornbury and Yate | Claire Young MP | 5699 |
-| Thurrock | Jen Craft MP | 5115 |
+| Thurrock | Jen Craft MP | 5116 |
 | Tipton and Wednesbury | Antonia Bance MP | 4912 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5955 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5953 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5074 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6579 |
 | Whitehaven and Workington | Josh MacAlister MP | 5848 |
-| Widnes and Halewood | Derek Twigg MP | 4236 |
+| Widnes and Halewood | Derek Twigg MP | 4237 |
 | Wigan | Rt Hon Lisa Nandy MP | 5949 |
 | Wimbledon | Mr Paul Kohler MP | 3412 |
 | Winchester | Dr Danny Chambers MP | 4919 |
