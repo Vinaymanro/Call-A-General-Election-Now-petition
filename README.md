@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993197                                |
-| Last Updated      | 2025-03-19 02:56:36 UTC                                    |
+| Total Signatures   | 2993198                                |
+| Last Updated      | 2025-03-19 03:31:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -69,7 +69,7 @@
 | Braintree | Rt Hon James Cleverly MP | 7439 |
 | Brent East | Dawn Butler MP | 1864 |
 | Brent West | Barry Gardiner MP | 2090 |
-| Brentford and Isleworth | Ruth Cadbury MP | 2997 |
+| Brentford and Isleworth | Ruth Cadbury MP | 2998 |
 | Brentwood and Ongar | Alex Burghart MP | 8140 |
 | Bridgwater | Sir Ashley Fox MP | 5755 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6627 |
