@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993208                                |
-| Last Updated      | 2025-03-19 06:25:47 UTC                                    |
+| Total Signatures   | 2993218                                |
+| Last Updated      | 2025-03-19 07:18:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -46,7 +46,7 @@
 | Birmingham Perry Barr | Ayoub Khan MP | 1720 |
 | Birmingham Selly Oak | Al Carns MP | 3294 |
 | Birmingham Yardley | Jess Phillips MP | 3087 |
-| Bishop Auckland | Sam Rushworth MP | 6166 |
+| Bishop Auckland | Sam Rushworth MP | 6167 |
 | Blackburn | Mr Adnan Hussain MP | 3128 |
 | Blackley and Middleton South | Graham Stringer MP | 3770 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6152 |
@@ -145,7 +145,7 @@
 | Didcot and Wantage | Olly Glover MP | 4881 |
 | Doncaster Central | Sally Jameson MP | 4941 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6077 |
-| Doncaster North | Rt Hon Ed Miliband MP | 5565 |
+| Doncaster North | Rt Hon Ed Miliband MP | 5566 |
 | Dorking and Horley | Chris Coghlan MP | 5557 |
 | Dover and Deal | Mike Tapp MP | 5924 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6562 |
@@ -191,7 +191,7 @@
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6657 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4529 |
 | Gedling | Michael Payne MP | 5055 |
-| Gillingham and Rainham | Naushabah Khan MP | 5058 |
+| Gillingham and Rainham | Naushabah Khan MP | 5059 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5589 |
 | Gloucester | Alex McIntyre MP | 4541 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5237 |
@@ -207,7 +207,7 @@
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2064 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1520 |
 | Halesowen | Alex Ballinger MP | 4994 |
-| Halifax | Kate Dearden MP | 4751 |
+| Halifax | Kate Dearden MP | 4752 |
 | Hamble Valley | Paul Holmes MP | 6142 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3197 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2962 |
@@ -263,7 +263,7 @@
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5493 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6400 |
 | Knowsley | Anneliese Midgley MP | 3278 |
-| Lancaster and Wyre | Cat Smith MP | 5081 |
+| Lancaster and Wyre | Cat Smith MP | 5082 |
 | Leeds Central and Headingley | Alex Sobel MP | 1929 |
 | Leeds East | Richard Burgon MP | 4307 |
 | Leeds North East | Fabian Hamilton MP | 2634 |
@@ -283,10 +283,10 @@
 | Lichfield | Dave Robertson MP | 6476 |
 | Lincoln | Mr Hamish Falconer MP | 4649 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3129 |
-| Liverpool Riverside | Kim Johnson MP | 2640 |
+| Liverpool Riverside | Kim Johnson MP | 2641 |
 | Liverpool Walton | Dan Carden MP | 3360 |
 | Liverpool Wavertree | Paula Barker MP | 2220 |
-| Liverpool West Derby | Ian Byrne MP | 3051 |
+| Liverpool West Derby | Ian Byrne MP | 3052 |
 | Loughborough | Dr Jeevun Sandher MP | 4477 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7799 |
 | Lowestoft | Jess Asato MP | 5334 |
@@ -353,7 +353,7 @@
 | North West Norfolk | James Wild MP | 5764 |
 | Northampton North | Lucy Rigby KC MP | 4278 |
 | Northampton South | Mike Reader MP | 4968 |
-| Norwich North | Alice Macdonald MP | 4405 |
+| Norwich North | Alice Macdonald MP | 4406 |
 | Norwich South | Clive Lewis MP | 3392 |
 | Nottingham East | Nadia Whittome MP | 2479 |
 | Nottingham North and Kimberley | Alex Norris MP | 3733 |
@@ -391,7 +391,7 @@
 | Ribble Valley | Maya Ellis MP | 6712 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7107 |
 | Richmond Park | Sarah Olney MP | 4062 |
-| Rochdale | Paul Waugh MP | 3953 |
+| Rochdale | Paul Waugh MP | 3954 |
 | Rochester and Strood | Lauren Edwards MP | 6027 |
 | Romford | Andrew Rosindell MP | 5789 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5070 |
@@ -433,7 +433,7 @@
 | South Dorset | Lloyd Hatton MP | 5661 |
 | South East Cornwall | Anna Gelderd MP | 6239 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7135 |
-| South Leicestershire | Alberto Costa MP | 6991 |
+| South Leicestershire | Alberto Costa MP | 6992 |
 | South Norfolk | Ben Goldsborough MP | 5441 |
 | South Northamptonshire | Sarah Bool MP | 6670 |
 | South Ribble | Mr Paul Foster MP | 5899 |
