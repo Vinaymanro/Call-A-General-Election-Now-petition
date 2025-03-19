@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993195                                |
-| Last Updated      | 2025-03-19 01:23:20 UTC                                    |
+| Total Signatures   | 2993197                                |
+| Last Updated      | 2025-03-19 02:56:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -76,7 +76,7 @@
 | Brigg and Immingham | Martin Vickers MP | 6464 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3936 |
 | Brighton Pavilion | Siân Berry MP | 2738 |
-| Bristol Central | Carla Denyer MP | 1615 |
+| Bristol Central | Carla Denyer MP | 1616 |
 | Bristol East | Kerry McCarthy MP | 2982 |
 | Bristol North East | Damien Egan MP | 3085 |
 | Bristol North West | Rt Hon Darren Jones MP | 3211 |
@@ -139,7 +139,7 @@
 | Dartford | Jim Dickson MP | 5733 |
 | Daventry | Rt Hon Stuart Andrew MP | 7281 |
 | Derby North | Catherine Atkinson MP | 4324 |
-| Derby South | Baggy Shanker MP | 3605 |
+| Derby South | Baggy Shanker MP | 3606 |
 | Derbyshire Dales | John Whitby MP | 6779 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3179 |
 | Didcot and Wantage | Olly Glover MP | 4881 |
