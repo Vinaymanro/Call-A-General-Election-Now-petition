@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993205                                |
-| Last Updated      | 2025-03-19 05:17:28 UTC                                    |
+| Total Signatures   | 2993208                                |
+| Last Updated      | 2025-03-19 06:25:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -24,7 +24,7 @@
 | Barrow and Furness | Michelle Scrogham MP | 5315 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6890 |
 | Basingstoke | Luke Murphy MP | 4816 |
-| Bassetlaw | Jo White MP | 6749 |
+| Bassetlaw | Jo White MP | 6750 |
 | Bath | Wera Hobhouse MP | 2979 |
 | Battersea | Marsha De Cordova MP | 3613 |
 | Beaconsfield | Joy Morrissey MP | 5213 |
@@ -355,7 +355,7 @@
 | Northampton South | Mike Reader MP | 4968 |
 | Norwich North | Alice Macdonald MP | 4405 |
 | Norwich South | Clive Lewis MP | 3392 |
-| Nottingham East | Nadia Whittome MP | 2478 |
+| Nottingham East | Nadia Whittome MP | 2479 |
 | Nottingham North and Kimberley | Alex Norris MP | 3733 |
 | Nottingham South | Lilian Greenwood MP | 3055 |
 | Nuneaton | Jodie Gosling MP | 5557 |
@@ -575,7 +575,7 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3295 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1442 |
 | Aberdeen North | Kirsty Blackman MP | 3553 |
-| Aberdeen South | Rt Hon Stephen Flynn MP | 3841 |
+| Aberdeen South | Rt Hon Stephen Flynn MP | 3842 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4672 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2817 |
 | Alloa and Grangemouth | Brian Leishman MP | 3015 |
