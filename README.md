@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993198                                |
-| Last Updated      | 2025-03-19 03:31:11 UTC                                    |
+| Total Signatures   | 2993199                                |
+| Last Updated      | 2025-03-19 04:21:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -244,7 +244,7 @@
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3331 |
 | Huddersfield | Harpreet Uppal MP | 3681 |
 | Huntingdon | Ben Obese-Jecty MP | 5560 |
-| Hyndburn | Sarah Smith MP | 5003 |
+| Hyndburn | Sarah Smith MP | 5004 |
 | Ilford North | Rt Hon Wes Streeting MP | 2622 |
 | Ilford South | Jas Athwal MP | 1594 |
 | Ipswich | Jack Abbott MP | 4144 |
