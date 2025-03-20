@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993642                                |
-| Last Updated      | 2025-03-20 06:25:35 UTC                                    |
+| Total Signatures   | 2993650                                |
+| Last Updated      | 2025-03-20 07:17:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -48,7 +48,7 @@
 | Birmingham Yardley | Jess Phillips MP | 3088 |
 | Bishop Auckland | Sam Rushworth MP | 6169 |
 | Blackburn | Mr Adnan Hussain MP | 3128 |
-| Blackley and Middleton South | Graham Stringer MP | 3770 |
+| Blackley and Middleton South | Graham Stringer MP | 3771 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6152 |
 | Blackpool South | Chris Webb MP | 5821 |
 | Blaydon and Consett | Liz Twist MP | 5249 |
@@ -68,7 +68,7 @@
 | Bradford West | Naz Shah MP | 1811 |
 | Braintree | Rt Hon James Cleverly MP | 7439 |
 | Brent East | Dawn Butler MP | 1864 |
-| Brent West | Barry Gardiner MP | 2092 |
+| Brent West | Barry Gardiner MP | 2093 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2998 |
 | Brentwood and Ongar | Alex Burghart MP | 8140 |
 | Bridgwater | Sir Ashley Fox MP | 5755 |
@@ -293,7 +293,7 @@
 | Luton North | Sarah Owen MP | 2473 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2947 |
 | Macclesfield | Tim Roca MP | 5402 |
-| Maidenhead | Mr Joshua Reynolds MP | 5282 |
+| Maidenhead | Mr Joshua Reynolds MP | 5283 |
 | Maidstone and Malling | Helen Grant MP | 5843 |
 | Makerfield | Josh Simons MP | 5876 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8115 |
@@ -396,7 +396,7 @@
 | Romford | Andrew Rosindell MP | 5789 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5070 |
 | Rossendale and Darwen | Andy MacNae MP | 6493 |
-| Rother Valley | Jake Richards MP | 5859 |
+| Rother Valley | Jake Richards MP | 5860 |
 | Rotherham | Sarah Champion MP | 4953 |
 | Rugby | John Slinger MP | 5412 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4105 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5955 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5953 |
 | Tooting | Dr Rosena Allin-Khan MP | 2696 |
-| Torbay | Steve Darling MP | 5828 |
+| Torbay | Steve Darling MP | 5829 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6580 |
 | Tottenham | Rt Hon David Lammy MP | 1686 |
 | Truro and Falmouth | Jayne Kirkham MP | 4606 |
@@ -565,7 +565,7 @@
 | North Antrim | Jim Allister KC MP | 3092 |
 | North Down | Alex Easton MP | 3361 |
 | South Antrim | Robin Swann MP | 3091 |
-| South Down | Chris Hazzard MP | 1841 |
+| South Down | Chris Hazzard MP | 1842 |
 | Strangford | Jim Shannon MP | 3457 |
 | Upper Bann | Carla Lockhart MP | 3069 |
 | West Tyrone | Órfhlaith Begley MP | 1664 |
@@ -588,7 +588,7 @@
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2853 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2680 |
 | Dumfries and Galloway | John Cooper MP | 4040 |
-| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3860 |
+| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3861 |
 | Dundee Central | Chris Law MP | 2544 |
 | Dunfermline and Dollar | Graeme Downie MP | 2930 |
 | East Kilbride and Strathaven | Joani Reid MP | 3156 |
@@ -597,7 +597,7 @@
 | Edinburgh South | Rt Hon Ian Murray MP | 2060 |
 | Edinburgh South West | Dr Scott Arthur MP | 2259 |
 | Edinburgh West | Christine Jardine MP | 2713 |
-| Falkirk | Euan Stainbank MP | 3441 |
+| Falkirk | Euan Stainbank MP | 3442 |
 | Glasgow East | John Grady MP | 2314 |
 | Glasgow North | Martin Rhodes MP | 2040 |
 | Glasgow North East | Maureen Burke MP | 2479 |
