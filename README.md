@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993620                                |
-| Last Updated      | 2025-03-20 01:22:10 UTC                                    |
+| Total Signatures   | 2993628                                |
+| Last Updated      | 2025-03-20 02:55:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -34,7 +34,7 @@
 | Bethnal Green and Stepney | Rushanara Ali MP | 1728 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6162 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6137 |
-| Bexleyheath and Crayford | Daniel Francis MP | 5048 |
+| Bexleyheath and Crayford | Daniel Francis MP | 5049 |
 | Bicester and Woodstock | Calum Miller MP | 4678 |
 | Birkenhead | Alison McGovern MP | 4319 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2951 |
@@ -68,7 +68,7 @@
 | Bradford West | Naz Shah MP | 1810 |
 | Braintree | Rt Hon James Cleverly MP | 7439 |
 | Brent East | Dawn Butler MP | 1864 |
-| Brent West | Barry Gardiner MP | 2091 |
+| Brent West | Barry Gardiner MP | 2092 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2998 |
 | Brentwood and Ongar | Alex Burghart MP | 8140 |
 | Bridgwater | Sir Ashley Fox MP | 5755 |
@@ -95,7 +95,7 @@
 | Calder Valley | Josh Fenton-Glynn MP | 5655 |
 | Camborne and Redruth | Perran Moon MP | 4966 |
 | Cambridge | Daniel Zeichner MP | 2212 |
-| Cannock Chase | Josh Newbury MP | 6883 |
+| Cannock Chase | Josh Newbury MP | 6884 |
 | Canterbury | Rosie Duffield MP | 4471 |
 | Carlisle | Ms Julie Minns MP | 6532 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
@@ -121,7 +121,7 @@
 | City of Durham | Mary Kelly Foy MP | 4255 |
 | Clacton | Nigel Farage MP | 8087 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1741 |
-| Colchester | Pam Cox MP | 4993 |
+| Colchester | Pam Cox MP | 4994 |
 | Colne Valley | Paul Davies MP | 5031 |
 | Congleton | Mrs Sarah Russell MP | 5982 |
 | Corby and East Northamptonshire | Lee Barron MP | 6005 |
@@ -216,7 +216,7 @@
 | Harpenden and Berkhamsted | Victoria Collins MP | 4540 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5117 |
 | Harrow East | Bob Blackman MP | 3131 |
-| Harrow West | Gareth Thomas MP | 2405 |
+| Harrow West | Gareth Thomas MP | 2406 |
 | Hartlepool | Mr Jonathan Brash MP | 5652 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6279 |
 | Hastings and Rye | Helena Dollimore MP | 5072 |
@@ -310,7 +310,7 @@
 | Mid Derbyshire | Jonathan Davies MP | 5236 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5884 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5597 |
-| Mid Norfolk | George Freeman MP | 6289 |
+| Mid Norfolk | George Freeman MP | 6290 |
 | Mid Sussex | Alison Bennett MP | 4701 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4230 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5713 |
@@ -470,7 +470,7 @@
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5734 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6541 |
 | Stourbridge | Cat Eccles MP | 5160 |
-| Stratford and Bow | Uma Kumaran MP | 1768 |
+| Stratford and Bow | Uma Kumaran MP | 1769 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6716 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1864 |
 | Stretford and Urmston | Andrew Western MP | 3824 |
@@ -541,7 +541,7 @@
 | Wokingham | Clive Jones MP | 4870 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4406 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4312 |
-| Wolverhampton West | Warinder Juss | 3825 |
+| Wolverhampton West | Warinder Juss | 3826 |
 | Worcester | Tom Collins MP | 4330 |
 | Worsley and Eccles | Michael Wheeler MP | 5437 |
 | Worthing West | Dr Beccy Cooper MP | 5252 |
