@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993628                                |
-| Last Updated      | 2025-03-20 02:55:24 UTC                                    |
+| Total Signatures   | 2993630                                |
+| Last Updated      | 2025-03-20 03:28:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -266,7 +266,7 @@
 | Lancaster and Wyre | Cat Smith MP | 5084 |
 | Leeds Central and Headingley | Alex Sobel MP | 1930 |
 | Leeds East | Richard Burgon MP | 4307 |
-| Leeds North East | Fabian Hamilton MP | 2634 |
+| Leeds North East | Fabian Hamilton MP | 2635 |
 | Leeds North West | Katie White MP | 4392 |
 | Leeds South | Rt Hon Hilary Benn MP | 3875 |
 | Leeds South West and Morley | Mark Sewards MP | 5496 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3744 |
 | Waveney Valley | Adrian Ramsay MP | 5855 |
 | Weald of Kent | Katie Lam MP | 7231 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5084 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5085 |
 | Wells and Mendip Hills | Tessa Munt MP | 5260 |
 | Welwyn Hatfield | Andrew Lewin MP | 5063 |
 | West Bromwich | Sarah Coombes MP | 3784 |
