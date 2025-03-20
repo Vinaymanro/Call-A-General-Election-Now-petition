@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993632                                |
-| Last Updated      | 2025-03-20 04:21:28 UTC                                    |
+| Total Signatures   | 2993635                                |
+| Last Updated      | 2025-03-20 05:17:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -101,7 +101,7 @@
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
 | Castle Point | Rebecca Harris MP | 7527 |
 | Central Devon | Rt Hon Mel Stride MP | 5806 |
-| Central Suffolk and North Ipswich | Patrick Spencer MP | 5304 |
+| Central Suffolk and North Ipswich | Patrick Spencer MP | 5305 |
 | Chatham and Aylesford | Tristan Osborne MP | 5638 |
 | Cheadle | Tom Morrison MP | 4665 |
 | Chelmsford | Marie Goldman MP | 5268 |
@@ -266,7 +266,7 @@
 | Lancaster and Wyre | Cat Smith MP | 5084 |
 | Leeds Central and Headingley | Alex Sobel MP | 1930 |
 | Leeds East | Richard Burgon MP | 4307 |
-| Leeds North East | Fabian Hamilton MP | 2635 |
+| Leeds North East | Fabian Hamilton MP | 2636 |
 | Leeds North West | Katie White MP | 4392 |
 | Leeds South | Rt Hon Hilary Benn MP | 3875 |
 | Leeds South West and Morley | Mark Sewards MP | 5496 |
@@ -386,7 +386,7 @@
 | Reading Central | Matt Rodda MP | 3029 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4449 |
 | Redcar | Anna Turley MP | 5460 |
-| Redditch | Chris Bloore MP | 6075 |
+| Redditch | Chris Bloore MP | 6076 |
 | Reigate | Rebecca Paul MP | 5552 |
 | Ribble Valley | Maya Ellis MP | 6712 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7108 |
