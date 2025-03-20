@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993630                                |
-| Last Updated      | 2025-03-20 03:28:26 UTC                                    |
+| Total Signatures   | 2993632                                |
+| Last Updated      | 2025-03-20 04:21:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -100,7 +100,7 @@
 | Carlisle | Ms Julie Minns MP | 6532 |
 | Carshalton and Wallington | Bobby Dean MP | 4267 |
 | Castle Point | Rebecca Harris MP | 7527 |
-| Central Devon | Rt Hon Mel Stride MP | 5805 |
+| Central Devon | Rt Hon Mel Stride MP | 5806 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5304 |
 | Chatham and Aylesford | Tristan Osborne MP | 5638 |
 | Cheadle | Tom Morrison MP | 4665 |
@@ -412,7 +412,7 @@
 | Selby | Keir Mather MP | 6372 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6667 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3434 |
-| Sheffield Central | Abtisam Mohamed MP | 1430 |
+| Sheffield Central | Abtisam Mohamed MP | 1431 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3538 |
 | Sheffield South East | Mr Clive Betts MP | 4737 |
