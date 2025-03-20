@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2993635                                |
-| Last Updated      | 2025-03-20 05:17:32 UTC                                    |
+| Total Signatures   | 2993642                                |
+| Last Updated      | 2025-03-20 06:25:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -46,7 +46,7 @@
 | Birmingham Perry Barr | Ayoub Khan MP | 1720 |
 | Birmingham Selly Oak | Al Carns MP | 3296 |
 | Birmingham Yardley | Jess Phillips MP | 3088 |
-| Bishop Auckland | Sam Rushworth MP | 6168 |
+| Bishop Auckland | Sam Rushworth MP | 6169 |
 | Blackburn | Mr Adnan Hussain MP | 3128 |
 | Blackley and Middleton South | Graham Stringer MP | 3770 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6152 |
@@ -65,7 +65,7 @@
 | Bracknell | Peter Swallow MP | 4972 |
 | Bradford East | Imran Hussain MP | 2887 |
 | Bradford South | Judith Cummins MP | 4186 |
-| Bradford West | Naz Shah MP | 1810 |
+| Bradford West | Naz Shah MP | 1811 |
 | Braintree | Rt Hon James Cleverly MP | 7439 |
 | Brent East | Dawn Butler MP | 1864 |
 | Brent West | Barry Gardiner MP | 2092 |
@@ -171,7 +171,7 @@
 | Eltham and Chislehurst | Clive Efford MP | 4705 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5176 |
 | Enfield North | Feryal Clark MP | 2891 |
-| Epping Forest | Dr Neil Hudson MP | 6577 |
+| Epping Forest | Dr Neil Hudson MP | 6578 |
 | Epsom and Ewell | Helen Maguire MP | 4928 |
 | Erewash | Adam Thompson MP | 5831 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3218 |
@@ -252,7 +252,7 @@
 | Isle of Wight West | Mr Richard Quigley MP | 4073 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1796 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2773 |
-| Jarrow and Gateshead East | Kate Osborne MP | 5092 |
+| Jarrow and Gateshead East | Kate Osborne MP | 5093 |
 | Keighley and Ilkley | Robbie Moore MP | 4694 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6103 |
 | Kensington and Bayswater | Joe Powell MP | 4406 |
@@ -264,7 +264,7 @@
 | Kingswinford and South Staffordshire | Mike Wood MP | 6400 |
 | Knowsley | Anneliese Midgley MP | 3278 |
 | Lancaster and Wyre | Cat Smith MP | 5084 |
-| Leeds Central and Headingley | Alex Sobel MP | 1930 |
+| Leeds Central and Headingley | Alex Sobel MP | 1931 |
 | Leeds East | Richard Burgon MP | 4307 |
 | Leeds North East | Fabian Hamilton MP | 2636 |
 | Leeds North West | Katie White MP | 4392 |
@@ -280,7 +280,7 @@
 | Lewisham North | Vicky Foxcroft MP | 1652 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1591 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1881 |
-| Lichfield | Dave Robertson MP | 6476 |
+| Lichfield | Dave Robertson MP | 6477 |
 | Lincoln | Mr Hamish Falconer MP | 4650 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3133 |
 | Liverpool Riverside | Kim Johnson MP | 2641 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5445 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6190 |
 | Peterborough | Andrew Pakes MP | 4164 |
-| Plymouth Moor View | Fred Thomas MP | 5689 |
+| Plymouth Moor View | Fred Thomas MP | 5690 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4748 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5450 |
 | Poole | Neil Duncan-Jordan MP | 5668 |
