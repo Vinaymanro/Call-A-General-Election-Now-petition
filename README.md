@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994117                                |
-| Last Updated      | 2025-03-21 06:27:26 UTC                                    |
+| Total Signatures   | 2994126                                |
+| Last Updated      | 2025-03-21 07:17:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -32,7 +32,7 @@
 | Bedford | Mohammad Yasin MP | 3228 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2704 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1728 |
-| Beverley and Holderness | Rt Hon Graham Stuart MP | 6162 |
+| Beverley and Holderness | Rt Hon Graham Stuart MP | 6163 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6138 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5049 |
 | Bicester and Woodstock | Calum Miller MP | 4678 |
@@ -185,7 +185,7 @@
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4509 |
 | Finchley and Golders Green | Sarah Sackman MP | 4284 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5392 |
-| Forest of Dean | Matt Bishop MP | 5269 |
+| Forest of Dean | Matt Bishop MP | 5270 |
 | Frome and East Somerset | Anna Sabine MP | 4330 |
 | Fylde | Mr Andrew Snowden MP | 6772 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6660 |
@@ -311,11 +311,11 @@
 | Mid Dorset and North Poole | Vikki Slade MP | 5884 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5597 |
 | Mid Norfolk | George Freeman MP | 6290 |
-| Mid Sussex | Alison Bennett MP | 4701 |
+| Mid Sussex | Alison Bennett MP | 4702 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4230 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5713 |
 | Milton Keynes Central | Emily Darlington MP | 4943 |
-| Milton Keynes North | Chris Curtis MP | 4569 |
+| Milton Keynes North | Chris Curtis MP | 4570 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2671 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5767 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5427 |
@@ -490,7 +490,7 @@
 | Tewkesbury | Cameron Thomas MP | 5013 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6399 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7435 |
-| Thornbury and Yate | Claire Young MP | 5699 |
+| Thornbury and Yate | Claire Young MP | 5700 |
 | Thurrock | Jen Craft MP | 5116 |
 | Tipton and Wednesbury | Antonia Bance MP | 4913 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5956 |
@@ -601,7 +601,7 @@
 | Glasgow East | John Grady MP | 2314 |
 | Glasgow North | Martin Rhodes MP | 2043 |
 | Glasgow North East | Maureen Burke MP | 2480 |
-| Glasgow South | Gordon McKee MP | 1848 |
+| Glasgow South | Gordon McKee MP | 1849 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
 | Glasgow West | Patricia Ferguson MP | 2216 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2969 |
@@ -626,14 +626,14 @@
 | Central Ayrshire | Alan Gemmell MP | 3135 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3257 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4552 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3687 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3688 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5751 |
 | Bangor Aberconwy | Claire Hughes MP | 4516 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3645 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5279 |
 | Bridgend | Chris Elmore MP | 4240 |
 | Caerfyrddin | Ann Davies MP | 5203 |
-| Caerphilly | Chris Evans MP | 3992 |
+| Caerphilly | Chris Evans MP | 3993 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2895 |
 | Cardiff North | Anna McMorrin MP | 3294 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2803 |
@@ -646,7 +646,7 @@
 | Llanelli | Dame Nia Griffith MP | 5252 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3715 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5491 |
-| Monmouthshire | Catherine Fookes MP | 4738 |
+| Monmouthshire | Catherine Fookes MP | 4739 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6044 |
 | Neath and Swansea East | Carolyn Harris MP | 4443 |
 | Newport East | Jessica Morden MP | 4011 |
