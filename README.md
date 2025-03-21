@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994112                                |
-| Last Updated      | 2025-03-21 04:21:10 UTC                                    |
+| Total Signatures   | 2994113                                |
+| Last Updated      | 2025-03-21 05:17:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -518,7 +518,7 @@
 | Weald of Kent | Katie Lam MP | 7231 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5085 |
 | Wells and Mendip Hills | Tessa Munt MP | 5261 |
-| Welwyn Hatfield | Andrew Lewin MP | 5063 |
+| Welwyn Hatfield | Andrew Lewin MP | 5064 |
 | West Bromwich | Sarah Coombes MP | 3784 |
 | West Dorset | Edward Morello MP | 5460 |
 | West Ham and Beckton | James Asser MP | 2155 |
