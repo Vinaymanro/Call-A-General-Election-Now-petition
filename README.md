@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994107                                |
-| Last Updated      | 2025-03-21 02:57:31 UTC                                    |
+| Total Signatures   | 2994108                                |
+| Last Updated      | 2025-03-21 03:32:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -117,7 +117,7 @@
 | Chipping Barnet | Dan Tomlinson MP | 4338 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5500 |
 | Christchurch | Sir Christopher Chope MP | 5853 |
-| Cities of London and Westminster | Rachel Blake MP | 5175 |
+| Cities of London and Westminster | Rachel Blake MP | 5176 |
 | City of Durham | Mary Kelly Foy MP | 4259 |
 | Clacton | Nigel Farage MP | 8090 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1741 |
