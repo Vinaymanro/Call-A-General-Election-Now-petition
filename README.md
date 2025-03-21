@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994113                                |
-| Last Updated      | 2025-03-21 05:17:02 UTC                                    |
+| Total Signatures   | 2994117                                |
+| Last Updated      | 2025-03-21 06:27:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4414 |
 | Bolton West | Phil Brickell MP | 5580 |
 | Bootle | Peter Dowd MP | 3153 |
-| Boston and Skegness | Richard Tice MP | 7089 |
+| Boston and Skegness | Richard Tice MP | 7090 |
 | Bournemouth East | Tom Hayes MP | 4665 |
 | Bournemouth West | Jessica Toale MP | 4917 |
 | Bracknell | Peter Swallow MP | 4972 |
@@ -108,7 +108,7 @@
 | Chelsea and Fulham | Ben Coleman MP | 5489 |
 | Cheltenham | Max Wilkinson MP | 4030 |
 | Chesham and Amersham | Sarah Green MP | 4943 |
-| Chester North and Neston | Samantha Dixon MP | 4058 |
+| Chester North and Neston | Samantha Dixon MP | 4059 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6387 |
 | Chesterfield | Mr Toby Perkins MP | 4883 |
 | Chichester | Jess Brown-Fuller MP | 5926 |
@@ -121,7 +121,7 @@
 | City of Durham | Mary Kelly Foy MP | 4259 |
 | Clacton | Nigel Farage MP | 8090 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1741 |
-| Colchester | Pam Cox MP | 4994 |
+| Colchester | Pam Cox MP | 4995 |
 | Colne Valley | Paul Davies MP | 5032 |
 | Congleton | Mrs Sarah Russell MP | 5984 |
 | Corby and East Northamptonshire | Lee Barron MP | 6007 |
@@ -156,7 +156,7 @@
 | Ealing North | James Murray MP | 2581 |
 | Ealing Southall | Deirdre Costigan MP | 1958 |
 | Earley and Woodley | Yuan Yang MP | 3957 |
-| Easington | Grahame Morris MP | 5739 |
+| Easington | Grahame Morris MP | 5740 |
 | East Grinstead and Uckfield | Mims Davies MP | 6035 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1103 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5336 |
