@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994508                                |
-| Last Updated      | 2025-03-22 05:16:46 UTC                                    |
+| Total Signatures   | 2994517                                |
+| Last Updated      | 2025-03-22 06:23:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -41,7 +41,7 @@
 | Birmingham Erdington | Paulette Hamilton MP | 4249 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1581 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3489 |
-| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1898 |
+| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1899 |
 | Birmingham Northfield | Laurence Turner MP | 4897 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1724 |
 | Birmingham Selly Oak | Al Carns MP | 3298 |
@@ -52,7 +52,7 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6153 |
 | Blackpool South | Chris Webb MP | 5823 |
 | Blaydon and Consett | Liz Twist MP | 5251 |
-| Blyth and Ashington | Ian Lavery MP | 5861 |
+| Blyth and Ashington | Ian Lavery MP | 5862 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6140 |
 | Bolsover | Natalie Fleet MP | 6539 |
 | Bolton North East | Kirith Entwistle MP | 5608 |
@@ -128,7 +128,7 @@
 | Coventry East | Mary Creagh MP | 3594 |
 | Coventry North West | Taiwo Owatemi MP | 4257 |
 | Coventry South | Zarah Sultana MP | 3518 |
-| Cramlington and Killingworth | Emma Foody MP | 5807 |
+| Cramlington and Killingworth | Emma Foody MP | 5808 |
 | Crawley | Peter Lamb MP | 4718 |
 | Crewe and Nantwich | Connor Naismith MP | 5693 |
 | Croydon East | Natasha Irons MP | 3338 |
@@ -272,7 +272,7 @@
 | Leeds South West and Morley | Mark Sewards MP | 5500 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3786 |
 | Leicester East | Shivani Raja MP | 1886 |
-| Leicester South | Shockat Adam MP | 1846 |
+| Leicester South | Shockat Adam MP | 1847 |
 | Leicester West | Rt Hon Liz Kendall MP | 3469 |
 | Leigh and Atherton | Jo Platt MP | 6076 |
 | Lewes | James MacCleary MP | 4902 |
@@ -424,7 +424,7 @@
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6294 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2586 |
 | Smethwick | Gurinder Singh Josan MP | 3063 |
-| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5452 |
+| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5453 |
 | South Basildon and East Thurrock | James McMurdock MP | 6607 |
 | South Cambridgeshire | Pippa Heylings MP | 4457 |
 | South Cotswolds | Dr Roz Savage MP | 5717 |
@@ -433,7 +433,7 @@
 | South Dorset | Lloyd Hatton MP | 5662 |
 | South East Cornwall | Anna Gelderd MP | 6241 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7136 |
-| South Leicestershire | Alberto Costa MP | 6992 |
+| South Leicestershire | Alberto Costa MP | 6993 |
 | South Norfolk | Ben Goldsborough MP | 5441 |
 | South Northamptonshire | Sarah Bool MP | 6671 |
 | South Ribble | Mr Paul Foster MP | 5900 |
@@ -480,7 +480,7 @@
 | Surrey Heath | Dr Al Pinkerton MP | 5426 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6110 |
 | Sutton and Cheam | Luke Taylor MP | 4390 |
-| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5674 |
+| Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5675 |
 | Swindon North | Will Stone MP | 4903 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4212 |
 | Tamworth | Sarah Edwards MP | 6950 |
@@ -503,7 +503,7 @@
 | Tunbridge Wells | Mike Martin MP | 5460 |
 | Twickenham | Munira Wilson MP | 3652 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4490 |
-| Uxbridge and South Ruislip | Danny Beales MP | 4480 |
+| Uxbridge and South Ruislip | Danny Beales MP | 4481 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1676 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4917 |
 | Wallasey | Dame Angela Eagle MP | 4073 |
@@ -581,7 +581,7 @@
 | Alloa and Grangemouth | Brian Leishman MP | 3015 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4052 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3471 |
-| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3418 |
+| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3419 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3018 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4074 |
 | Coatbridge and Bellshill | Frank McNally MP | 2585 |
