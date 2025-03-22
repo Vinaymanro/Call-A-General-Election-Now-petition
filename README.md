@@ -3,14 +3,14 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994517                                |
-| Last Updated      | 2025-03-22 06:23:31 UTC                                    |
+| Total Signatures   | 2994525                                |
+| Last Updated      | 2025-03-22 07:16:22 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5452 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5809 |
-| Altrincham and Sale West | Mr Connor Rand MP | 5504 |
+| Altrincham and Sale West | Mr Connor Rand MP | 5505 |
 | Amber Valley | Linsey Farnsworth MP | 6087 |
 | Arundel and South Downs | Andrew Griffith MP | 6960 |
 | Ashfield | Lee Anderson MP | 6165 |
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5567 |
 | Dorking and Horley | Chris Coghlan MP | 5557 |
 | Dover and Deal | Mike Tapp MP | 5932 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6564 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6565 |
 | Dudley | Sonia Kumar MP | 5394 |
 | Dulwich and West Norwood | Helen Hayes MP | 1561 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5516 |
@@ -349,7 +349,7 @@
 | North West Cambridgeshire | Sam Carling MP | 6020 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7133 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5730 |
-| North West Leicestershire | Amanda Hack MP | 6701 |
+| North West Leicestershire | Amanda Hack MP | 6702 |
 | North West Norfolk | James Wild MP | 5765 |
 | Northampton North | Lucy Rigby KC MP | 4281 |
 | Northampton South | Mike Reader MP | 4973 |
@@ -391,7 +391,7 @@
 | Ribble Valley | Maya Ellis MP | 6714 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7108 |
 | Richmond Park | Sarah Olney MP | 4062 |
-| Rochdale | Paul Waugh MP | 3956 |
+| Rochdale | Paul Waugh MP | 3957 |
 | Rochester and Strood | Lauren Edwards MP | 6029 |
 | Romford | Andrew Rosindell MP | 5790 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5070 |
@@ -456,7 +456,7 @@
 | St Austell and Newquay | Noah Law MP | 5613 |
 | St Helens North | David Baines MP | 4699 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4151 |
-| St Ives | Andrew George MP | 5097 |
+| St Ives | Andrew George MP | 5098 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4802 |
 | Stafford | Leigh Ingham MP | 5609 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6421 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4847 |
 | Stockton West | Matt Vickers MP | 5993 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4735 |
-| Stoke-on-Trent North | David Williams MP | 5459 |
+| Stoke-on-Trent North | David Williams MP | 5460 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5735 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6542 |
 | Stourbridge | Cat Eccles MP | 5161 |
@@ -599,7 +599,7 @@
 | Edinburgh West | Christine Jardine MP | 2716 |
 | Falkirk | Euan Stainbank MP | 3443 |
 | Glasgow East | John Grady MP | 2314 |
-| Glasgow North | Martin Rhodes MP | 2043 |
+| Glasgow North | Martin Rhodes MP | 2044 |
 | Glasgow North East | Maureen Burke MP | 2481 |
 | Glasgow South | Gordon McKee MP | 1850 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2258 |
@@ -639,7 +639,7 @@
 | Cardiff South and Penarth | Stephen Doughty MP | 2804 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3146 |
 | Ceredigion Preseli | Ben Lake MP | 4741 |
-| Clwyd East | Becky Gittins MP | 6042 |
+| Clwyd East | Becky Gittins MP | 6043 |
 | Clwyd North | Gill German MP | 5457 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4235 |
 | Gower | Tonia Antoniazzi MP | 4760 |
