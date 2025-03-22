@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994488                                |
-| Last Updated      | 2025-03-22 01:21:48 UTC                                    |
+| Total Signatures   | 2994497                                |
+| Last Updated      | 2025-03-22 02:53:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -22,7 +22,7 @@
 | Barnsley North | Dan Jarvis MP | 5683 |
 | Barnsley South | Stephanie Peacock MP | 5769 |
 | Barrow and Furness | Michelle Scrogham MP | 5320 |
-| Basildon and Billericay | Rt Hon Richard Holden MP | 6892 |
+| Basildon and Billericay | Rt Hon Richard Holden MP | 6893 |
 | Basingstoke | Luke Murphy MP | 4816 |
 | Bassetlaw | Jo White MP | 6755 |
 | Bath | Wera Hobhouse MP | 2980 |
@@ -35,7 +35,7 @@
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6163 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6139 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5049 |
-| Bicester and Woodstock | Calum Miller MP | 4679 |
+| Bicester and Woodstock | Calum Miller MP | 4680 |
 | Birkenhead | Alison McGovern MP | 4320 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2951 |
 | Birmingham Erdington | Paulette Hamilton MP | 4248 |
@@ -103,7 +103,7 @@
 | Central Devon | Rt Hon Mel Stride MP | 5806 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5307 |
 | Chatham and Aylesford | Tristan Osborne MP | 5639 |
-| Cheadle | Tom Morrison MP | 4665 |
+| Cheadle | Tom Morrison MP | 4666 |
 | Chelmsford | Marie Goldman MP | 5269 |
 | Chelsea and Fulham | Ben Coleman MP | 5491 |
 | Cheltenham | Max Wilkinson MP | 4030 |
@@ -271,7 +271,7 @@
 | Leeds South | Rt Hon Hilary Benn MP | 3876 |
 | Leeds South West and Morley | Mark Sewards MP | 5500 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3786 |
-| Leicester East | Shivani Raja MP | 1885 |
+| Leicester East | Shivani Raja MP | 1886 |
 | Leicester South | Shockat Adam MP | 1846 |
 | Leicester West | Rt Hon Liz Kendall MP | 3469 |
 | Leigh and Atherton | Jo Platt MP | 6076 |
@@ -291,7 +291,7 @@
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7799 |
 | Lowestoft | Jess Asato MP | 5337 |
 | Luton North | Sarah Owen MP | 2473 |
-| Luton South and South Bedfordshire | Rachel Hopkins MP | 2948 |
+| Luton South and South Bedfordshire | Rachel Hopkins MP | 2949 |
 | Macclesfield | Tim Roca MP | 5402 |
 | Maidenhead | Mr Joshua Reynolds MP | 5283 |
 | Maidstone and Malling | Helen Grant MP | 5843 |
@@ -404,7 +404,7 @@
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5834 |
 | Rushcliffe | James Naish MP | 5076 |
 | Rutland and Stamford | Alicia Kearns MP | 6265 |
-| Salford | Rebecca Long Bailey MP | 4667 |
+| Salford | Rebecca Long Bailey MP | 4668 |
 | Salisbury | Rt Hon John Glen MP | 4751 |
 | Scarborough and Whitby | Alison Hume MP | 6005 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5085 |
@@ -512,8 +512,8 @@
 | Warrington North | Charlotte Nichols MP | 5154 |
 | Warrington South | Sarah Hall MP | 5563 |
 | Warwick and Leamington | Matt Western MP | 4477 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5321 |
-| Watford | Matt Turmaine MP | 3744 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5322 |
+| Watford | Matt Turmaine MP | 3745 |
 | Waveney Valley | Adrian Ramsay MP | 5855 |
 | Weald of Kent | Katie Lam MP | 7231 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5085 |
@@ -524,7 +524,7 @@
 | West Ham and Beckton | James Asser MP | 2155 |
 | West Lancashire | Ashley Dalton MP | 5060 |
 | West Suffolk | Nick Timothy MP | 6040 |
-| West Worcestershire | Dame Harriett Baldwin MP | 6263 |
+| West Worcestershire | Dame Harriett Baldwin MP | 6264 |
 | Westmorland and Lonsdale | Tim Farron MP | 5198 |
 | Weston-super-Mare | Dan Aldridge MP | 5076 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6579 |
