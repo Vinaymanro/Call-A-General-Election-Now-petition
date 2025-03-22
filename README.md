@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994674                                |
-| Last Updated      | 2025-03-22 16:20:13 UTC                                    |
+| Total Signatures   | 2994693                                |
+| Last Updated      | 2025-03-22 17:13:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -41,13 +41,13 @@
 | Birmingham Erdington | Paulette Hamilton MP | 4249 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1581 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3489 |
-| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1899 |
+| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1900 |
 | Birmingham Northfield | Laurence Turner MP | 4897 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1724 |
 | Birmingham Selly Oak | Al Carns MP | 3298 |
 | Birmingham Yardley | Jess Phillips MP | 3088 |
 | Bishop Auckland | Sam Rushworth MP | 6169 |
-| Blackburn | Mr Adnan Hussain MP | 3129 |
+| Blackburn | Mr Adnan Hussain MP | 3130 |
 | Blackley and Middleton South | Graham Stringer MP | 3773 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6153 |
 | Blackpool South | Chris Webb MP | 5823 |
@@ -74,7 +74,7 @@
 | Bridgwater | Sir Ashley Fox MP | 5755 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6632 |
 | Brigg and Immingham | Martin Vickers MP | 6467 |
-| Brighton Kemptown and Peacehaven | Chris Ward MP | 3937 |
+| Brighton Kemptown and Peacehaven | Chris Ward MP | 3938 |
 | Brighton Pavilion | Siân Berry MP | 2743 |
 | Bristol Central | Carla Denyer MP | 1617 |
 | Bristol East | Kerry McCarthy MP | 2985 |
@@ -121,7 +121,7 @@
 | City of Durham | Mary Kelly Foy MP | 4259 |
 | Clacton | Nigel Farage MP | 8090 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1741 |
-| Colchester | Pam Cox MP | 4996 |
+| Colchester | Pam Cox MP | 4997 |
 | Colne Valley | Paul Davies MP | 5032 |
 | Congleton | Mrs Sarah Russell MP | 5985 |
 | Corby and East Northamptonshire | Lee Barron MP | 6009 |
@@ -215,12 +215,12 @@
 | Harlow | Chris Vince MP | 6071 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4542 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5117 |
-| Harrow East | Bob Blackman MP | 3131 |
+| Harrow East | Bob Blackman MP | 3132 |
 | Harrow West | Gareth Thomas MP | 2406 |
 | Hartlepool | Mr Jonathan Brash MP | 5653 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6280 |
 | Hastings and Rye | Helena Dollimore MP | 5074 |
-| Havant | Alan Mak MP | 5660 |
+| Havant | Alan Mak MP | 5661 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2596 |
 | Hazel Grove | Lisa Smart MP | 5104 |
 | Hemel Hempstead | David Taylor MP | 5081 |
@@ -233,9 +233,9 @@
 | Hexham | Joe Morris MP | 6408 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5264 |
 | High Peak | Jon Pearce MP | 5452 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6486 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6487 |
 | Hitchin | Alistair Strathern MP | 4919 |
-| Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2281 |
+| Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2282 |
 | Honiton and Sidmouth | Richard Foord MP | 5256 |
 | Hornchurch and Upminster | Julia Lopez MP | 6611 |
 | Hornsey and Friern Barnet | Catherine West MP | 1942 |
@@ -246,7 +246,7 @@
 | Huntingdon | Ben Obese-Jecty MP | 5561 |
 | Hyndburn | Sarah Smith MP | 5007 |
 | Ilford North | Rt Hon Wes Streeting MP | 2624 |
-| Ilford South | Jas Athwal MP | 1595 |
+| Ilford South | Jas Athwal MP | 1596 |
 | Ipswich | Jack Abbott MP | 4149 |
 | Isle of Wight East | Joe Robertson MP | 4384 |
 | Isle of Wight West | Mr Richard Quigley MP | 4074 |
@@ -322,7 +322,7 @@
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5253 |
 | Newark | Rt Hon Robert Jenrick MP | 7164 |
 | Newbury | Mr Lee Dillon MP | 4895 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4509 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4510 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4757 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3955 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5075 |
@@ -342,13 +342,13 @@
 | North East Somerset and Hanham | Dan Norris MP | 5050 |
 | North Herefordshire | Ellie Chowns MP | 6477 |
 | North Norfolk | Steff Aquarone MP | 5441 |
-| North Northumberland | David Smith MP | 6435 |
+| North Northumberland | David Smith MP | 6436 |
 | North Shropshire | Helen Morgan MP | 6881 |
 | North Somerset | Sadik Al-Hassan MP | 4586 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6274 |
 | North West Cambridgeshire | Sam Carling MP | 6020 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7134 |
-| North West Hampshire | Rt Hon Kit Malthouse MP | 5730 |
+| North West Hampshire | Rt Hon Kit Malthouse MP | 5731 |
 | North West Leicestershire | Amanda Hack MP | 6702 |
 | North West Norfolk | James Wild MP | 5765 |
 | Northampton North | Lucy Rigby KC MP | 4281 |
@@ -361,11 +361,11 @@
 | Nuneaton | Jodie Gosling MP | 5560 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6217 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5232 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4090 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4091 |
 | Orpington | Gareth Bacon MP | 5314 |
 | Ossett and Denby Dale | Jade Botterill MP | 5801 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2153 |
-| Oxford West and Abingdon | Layla Moran MP | 2932 |
+| Oxford West and Abingdon | Layla Moran MP | 2933 |
 | Peckham | Miatta Fahnbulleh MP | 1357 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6198 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5447 |
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 4017 |
 | Selby | Keir Mather MP | 6373 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6668 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3437 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3438 |
 | Sheffield Central | Abtisam Mohamed MP | 1434 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3540 |
@@ -452,7 +452,7 @@
 | Southport | Patrick Hurley MP | 5958 |
 | Spelthorne | Lincoln Jopp MP | 5464 |
 | Spen Valley | Kim Leadbeater MP | 5384 |
-| St Albans | Daisy Cooper MP | 3881 |
+| St Albans | Daisy Cooper MP | 3882 |
 | St Austell and Newquay | Noah Law MP | 5613 |
 | St Helens North | David Baines MP | 4700 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4152 |
@@ -505,14 +505,14 @@
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4491 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4483 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1676 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4918 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4919 |
 | Wallasey | Dame Angela Eagle MP | 4073 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4008 |
 | Walthamstow | Ms Stella Creasy MP | 1319 |
 | Warrington North | Charlotte Nichols MP | 5155 |
 | Warrington South | Sarah Hall MP | 5563 |
 | Warwick and Leamington | Matt Western MP | 4477 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5323 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5324 |
 | Watford | Matt Turmaine MP | 3745 |
 | Waveney Valley | Adrian Ramsay MP | 5855 |
 | Weald of Kent | Katie Lam MP | 7231 |
@@ -615,7 +615,7 @@
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3936 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2732 |
 | North East Fife | Wendy Chamberlain MP | 2905 |
-| Paisley and Renfrewshire North | Alison Taylor MP | 2865 |
+| Paisley and Renfrewshire North | Alison Taylor MP | 2866 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2648 |
 | Perth and Kinross-shire | Pete Wishart MP | 3509 |
 | Rutherglen | Michael Shanks MP | 2574 |
