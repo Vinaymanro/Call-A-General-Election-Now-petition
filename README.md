@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994629                                |
-| Last Updated      | 2025-03-22 12:32:10 UTC                                    |
+| Total Signatures   | 2994636                                |
+| Last Updated      | 2025-03-22 13:20:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5457 |
 | Barking | Nesil Caliskan MP | 2639 |
 | Barnsley North | Dan Jarvis MP | 5683 |
-| Barnsley South | Stephanie Peacock MP | 5770 |
+| Barnsley South | Stephanie Peacock MP | 5771 |
 | Barrow and Furness | Michelle Scrogham MP | 5320 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6893 |
 | Basingstoke | Luke Murphy MP | 4816 |
@@ -55,7 +55,7 @@
 | Blyth and Ashington | Ian Lavery MP | 5862 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6140 |
 | Bolsover | Natalie Fleet MP | 6539 |
-| Bolton North East | Kirith Entwistle MP | 5610 |
+| Bolton North East | Kirith Entwistle MP | 5611 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4417 |
 | Bolton West | Phil Brickell MP | 5580 |
 | Bootle | Peter Dowd MP | 3156 |
@@ -338,10 +338,10 @@
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6074 |
 | North East Derbyshire | Louise Jones MP | 5799 |
 | North East Hampshire | Alex Brewer MP | 5956 |
-| North East Hertfordshire | Chris Hinchliff MP | 5853 |
+| North East Hertfordshire | Chris Hinchliff MP | 5854 |
 | North East Somerset and Hanham | Dan Norris MP | 5050 |
 | North Herefordshire | Ellie Chowns MP | 6477 |
-| North Norfolk | Steff Aquarone MP | 5440 |
+| North Norfolk | Steff Aquarone MP | 5441 |
 | North Northumberland | David Smith MP | 6435 |
 | North Shropshire | Helen Morgan MP | 6881 |
 | North Somerset | Sadik Al-Hassan MP | 4586 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3810 |
 | Putney | Fleur Anderson MP | 3517 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2155 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5123 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5124 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7358 |
 | Reading Central | Matt Rodda MP | 3029 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4449 |
@@ -454,7 +454,7 @@
 | Spen Valley | Kim Leadbeater MP | 5384 |
 | St Albans | Daisy Cooper MP | 3881 |
 | St Austell and Newquay | Noah Law MP | 5613 |
-| St Helens North | David Baines MP | 4699 |
+| St Helens North | David Baines MP | 4700 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4152 |
 | St Ives | Andrew George MP | 5098 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4802 |
@@ -562,7 +562,7 @@
 | Lagan Valley | Sorcha Eastwood MP | 3522 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1892 |
 | Newry and Armagh | Dáire Hughes MP | 2072 |
-| North Antrim | Jim Allister KC MP | 3092 |
+| North Antrim | Jim Allister KC MP | 3093 |
 | North Down | Alex Easton MP | 3364 |
 | South Antrim | Robin Swann MP | 3091 |
 | South Down | Chris Hazzard MP | 1843 |
