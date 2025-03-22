@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994497                                |
-| Last Updated      | 2025-03-22 02:53:40 UTC                                    |
+| Total Signatures   | 2994499                                |
+| Last Updated      | 2025-03-22 03:30:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -264,7 +264,7 @@
 | Kingswinford and South Staffordshire | Mike Wood MP | 6403 |
 | Knowsley | Anneliese Midgley MP | 3279 |
 | Lancaster and Wyre | Cat Smith MP | 5086 |
-| Leeds Central and Headingley | Alex Sobel MP | 1931 |
+| Leeds Central and Headingley | Alex Sobel MP | 1932 |
 | Leeds East | Richard Burgon MP | 4307 |
 | Leeds North East | Fabian Hamilton MP | 2637 |
 | Leeds North West | Katie White MP | 4395 |
@@ -395,7 +395,7 @@
 | Rochester and Strood | Lauren Edwards MP | 6029 |
 | Romford | Andrew Rosindell MP | 5790 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5070 |
-| Rossendale and Darwen | Andy MacNae MP | 6493 |
+| Rossendale and Darwen | Andy MacNae MP | 6494 |
 | Rother Valley | Jake Richards MP | 5864 |
 | Rotherham | Sarah Champion MP | 4954 |
 | Rugby | John Slinger MP | 5414 |
