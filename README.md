@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994506                                |
-| Last Updated      | 2025-03-22 04:20:45 UTC                                    |
+| Total Signatures   | 2994508                                |
+| Last Updated      | 2025-03-22 05:16:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -124,7 +124,7 @@
 | Colchester | Pam Cox MP | 4996 |
 | Colne Valley | Paul Davies MP | 5032 |
 | Congleton | Mrs Sarah Russell MP | 5985 |
-| Corby and East Northamptonshire | Lee Barron MP | 6008 |
+| Corby and East Northamptonshire | Lee Barron MP | 6009 |
 | Coventry East | Mary Creagh MP | 3594 |
 | Coventry North West | Taiwo Owatemi MP | 4257 |
 | Coventry South | Zarah Sultana MP | 3518 |
@@ -584,7 +584,7 @@
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3418 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3018 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4074 |
-| Coatbridge and Bellshill | Frank McNally MP | 2584 |
+| Coatbridge and Bellshill | Frank McNally MP | 2585 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2855 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2681 |
 | Dumfries and Galloway | John Cooper MP | 4041 |
