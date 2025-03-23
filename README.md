@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994895                                |
-| Last Updated      | 2025-03-23 05:16:21 UTC                                    |
+| Total Signatures   | 2994900                                |
+| Last Updated      | 2025-03-23 06:23:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1103 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5337 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6028 |
-| East Thanet | Ms Polly Billington MP | 5484 |
+| East Thanet | Ms Polly Billington MP | 5486 |
 | East Wiltshire | Danny Kruger MP | 6065 |
 | East Worthing and Shoreham | Tom Rutland MP | 4610 |
 | Eastbourne | Josh Babarinde MP | 5042 |
@@ -180,7 +180,7 @@
 | Exmouth and Exeter East | David Reed MP | 5209 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6130 |
 | Farnham and Bordon | Gregory Stafford MP | 5193 |
-| Faversham and Mid Kent | Helen Whately MP | 6231 |
+| Faversham and Mid Kent | Helen Whately MP | 6232 |
 | Feltham and Heston | Seema Malhotra MP | 2921 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4509 |
 | Finchley and Golders Green | Sarah Sackman MP | 4284 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 6005 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5085 |
 | Sefton Central | Bill Esterson MP | 4018 |
-| Selby | Keir Mather MP | 6373 |
+| Selby | Keir Mather MP | 6374 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6668 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3438 |
 | Sheffield Central | Abtisam Mohamed MP | 1434 |
@@ -507,7 +507,7 @@
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1676 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4919 |
 | Wallasey | Dame Angela Eagle MP | 4073 |
-| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4009 |
+| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4010 |
 | Walthamstow | Ms Stella Creasy MP | 1319 |
 | Warrington North | Charlotte Nichols MP | 5157 |
 | Warrington South | Sarah Hall MP | 5563 |
