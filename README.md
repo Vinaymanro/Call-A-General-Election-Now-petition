@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994881                                |
-| Last Updated      | 2025-03-23 01:35:37 UTC                                    |
+| Total Signatures   | 2994889                                |
+| Last Updated      | 2025-03-23 03:02:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4680 |
 | Birkenhead | Alison McGovern MP | 4323 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2951 |
-| Birmingham Erdington | Paulette Hamilton MP | 4249 |
+| Birmingham Erdington | Paulette Hamilton MP | 4250 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1581 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3489 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1900 |
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3773 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6154 |
 | Blackpool South | Chris Webb MP | 5823 |
-| Blaydon and Consett | Liz Twist MP | 5251 |
+| Blaydon and Consett | Liz Twist MP | 5252 |
 | Blyth and Ashington | Ian Lavery MP | 5862 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6140 |
 | Bolsover | Natalie Fleet MP | 6539 |
@@ -113,7 +113,7 @@
 | Chesterfield | Mr Toby Perkins MP | 4884 |
 | Chichester | Jess Brown-Fuller MP | 5927 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4167 |
-| Chippenham | Sarah Gibson MP | 4743 |
+| Chippenham | Sarah Gibson MP | 4744 |
 | Chipping Barnet | Dan Tomlinson MP | 4340 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5503 |
 | Christchurch | Sir Christopher Chope MP | 5854 |
@@ -141,7 +141,7 @@
 | Derby North | Catherine Atkinson MP | 4327 |
 | Derby South | Baggy Shanker MP | 3610 |
 | Derbyshire Dales | John Whitby MP | 6781 |
-| Dewsbury and Batley | Iqbal Mohamed MP | 3180 |
+| Dewsbury and Batley | Iqbal Mohamed MP | 3181 |
 | Didcot and Wantage | Olly Glover MP | 4882 |
 | Doncaster Central | Sally Jameson MP | 4946 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6079 |
@@ -243,7 +243,7 @@
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6311 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3333 |
 | Huddersfield | Harpreet Uppal MP | 3684 |
-| Huntingdon | Ben Obese-Jecty MP | 5561 |
+| Huntingdon | Ben Obese-Jecty MP | 5562 |
 | Hyndburn | Sarah Smith MP | 5007 |
 | Ilford North | Rt Hon Wes Streeting MP | 2624 |
 | Ilford South | Jas Athwal MP | 1596 |
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5402 |
 | Maidenhead | Mr Joshua Reynolds MP | 5284 |
 | Maidstone and Malling | Helen Grant MP | 5845 |
-| Makerfield | Josh Simons MP | 5877 |
+| Makerfield | Josh Simons MP | 5878 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8118 |
 | Manchester Central | Rt Hon Lucy Powell MP | 3997 |
 | Manchester Rusholme | Afzal Khan MP | 1219 |
@@ -386,7 +386,7 @@
 | Reading Central | Matt Rodda MP | 3030 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4449 |
 | Redcar | Anna Turley MP | 5461 |
-| Redditch | Chris Bloore MP | 6091 |
+| Redditch | Chris Bloore MP | 6092 |
 | Reigate | Rebecca Paul MP | 5553 |
 | Ribble Valley | Maya Ellis MP | 6714 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7109 |
@@ -642,7 +642,7 @@
 | Clwyd East | Becky Gittins MP | 6045 |
 | Clwyd North | Gill German MP | 5461 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4235 |
-| Gower | Tonia Antoniazzi MP | 4760 |
+| Gower | Tonia Antoniazzi MP | 4761 |
 | Llanelli | Dame Nia Griffith MP | 5254 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3715 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5492 |
