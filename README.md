@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994893                                |
-| Last Updated      | 2025-03-23 04:20:22 UTC                                    |
+| Total Signatures   | 2994895                                |
+| Last Updated      | 2025-03-23 05:16:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -220,7 +220,7 @@
 | Hartlepool | Mr Jonathan Brash MP | 5653 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6280 |
 | Hastings and Rye | Helena Dollimore MP | 5074 |
-| Havant | Alan Mak MP | 5661 |
+| Havant | Alan Mak MP | 5662 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2596 |
 | Hazel Grove | Lisa Smart MP | 5104 |
 | Hemel Hempstead | David Taylor MP | 5081 |
@@ -543,7 +543,7 @@
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4314 |
 | Wolverhampton West | Warinder Juss | 3826 |
 | Worcester | Tom Collins MP | 4330 |
-| Worsley and Eccles | Michael Wheeler MP | 5439 |
+| Worsley and Eccles | Michael Wheeler MP | 5440 |
 | Worthing West | Dr Beccy Cooper MP | 5254 |
 | Wycombe | Emma Reynolds MP | 3615 |
 | Wyre Forest | Mark Garnier MP | 6487 |
