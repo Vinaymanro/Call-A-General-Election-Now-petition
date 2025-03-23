@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2994889                                |
-| Last Updated      | 2025-03-23 03:02:14 UTC                                    |
+| Total Signatures   | 2994893                                |
+| Last Updated      | 2025-03-23 04:20:22 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -216,7 +216,7 @@
 | Harpenden and Berkhamsted | Victoria Collins MP | 4542 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5117 |
 | Harrow East | Bob Blackman MP | 3132 |
-| Harrow West | Gareth Thomas MP | 2406 |
+| Harrow West | Gareth Thomas MP | 2407 |
 | Hartlepool | Mr Jonathan Brash MP | 5653 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6280 |
 | Hastings and Rye | Helena Dollimore MP | 5074 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5599 |
 | Mid Norfolk | George Freeman MP | 6290 |
 | Mid Sussex | Alison Bennett MP | 4703 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4230 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4231 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5713 |
 | Milton Keynes Central | Emily Darlington MP | 4946 |
 | Milton Keynes North | Chris Curtis MP | 4570 |
@@ -583,7 +583,7 @@
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3471 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3419 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3019 |
-| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4075 |
+| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4076 |
 | Coatbridge and Bellshill | Frank McNally MP | 2586 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2855 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2681 |
@@ -599,7 +599,7 @@
 | Edinburgh West | Christine Jardine MP | 2716 |
 | Falkirk | Euan Stainbank MP | 3443 |
 | Glasgow East | John Grady MP | 2314 |
-| Glasgow North | Martin Rhodes MP | 2044 |
+| Glasgow North | Martin Rhodes MP | 2045 |
 | Glasgow North East | Maureen Burke MP | 2481 |
 | Glasgow South | Gordon McKee MP | 1851 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2260 |
