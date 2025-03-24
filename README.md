@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2995329                                |
-| Last Updated      | 2025-03-24 05:17:58 UTC                                    |
+| Total Signatures   | 2995339                                |
+| Last Updated      | 2025-03-24 06:26:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -21,7 +21,7 @@
 | Barking | Nesil Caliskan MP | 2640 |
 | Barnsley North | Dan Jarvis MP | 5684 |
 | Barnsley South | Stephanie Peacock MP | 5772 |
-| Barrow and Furness | Michelle Scrogham MP | 5321 |
+| Barrow and Furness | Michelle Scrogham MP | 5322 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6894 |
 | Basingstoke | Luke Murphy MP | 4821 |
 | Bassetlaw | Jo White MP | 6758 |
@@ -49,7 +49,7 @@
 | Bishop Auckland | Sam Rushworth MP | 6172 |
 | Blackburn | Mr Adnan Hussain MP | 3132 |
 | Blackley and Middleton South | Graham Stringer MP | 3774 |
-| Blackpool North and Fleetwood | Lorraine Beavers MP | 6156 |
+| Blackpool North and Fleetwood | Lorraine Beavers MP | 6157 |
 | Blackpool South | Chris Webb MP | 5826 |
 | Blaydon and Consett | Liz Twist MP | 5252 |
 | Blyth and Ashington | Ian Lavery MP | 5863 |
@@ -66,7 +66,7 @@
 | Bradford East | Imran Hussain MP | 2888 |
 | Bradford South | Judith Cummins MP | 4189 |
 | Bradford West | Naz Shah MP | 1815 |
-| Braintree | Rt Hon James Cleverly MP | 7444 |
+| Braintree | Rt Hon James Cleverly MP | 7445 |
 | Brent East | Dawn Butler MP | 1864 |
 | Brent West | Barry Gardiner MP | 2095 |
 | Brentford and Isleworth | Ruth Cadbury MP | 2999 |
@@ -80,7 +80,7 @@
 | Bristol East | Kerry McCarthy MP | 2986 |
 | Bristol North East | Damien Egan MP | 3088 |
 | Bristol North West | Rt Hon Darren Jones MP | 3212 |
-| Bristol South | Karin Smyth MP | 3966 |
+| Bristol South | Karin Smyth MP | 3967 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5836 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5245 |
 | Bromsgrove | Bradley Thomas MP | 6479 |
@@ -126,7 +126,7 @@
 | Congleton | Mrs Sarah Russell MP | 5986 |
 | Corby and East Northamptonshire | Lee Barron MP | 6009 |
 | Coventry East | Mary Creagh MP | 3594 |
-| Coventry North West | Taiwo Owatemi MP | 4259 |
+| Coventry North West | Taiwo Owatemi MP | 4260 |
 | Coventry South | Zarah Sultana MP | 3518 |
 | Cramlington and Killingworth | Emma Foody MP | 5809 |
 | Crawley | Peter Lamb MP | 4719 |
@@ -149,7 +149,7 @@
 | Dorking and Horley | Chris Coghlan MP | 5559 |
 | Dover and Deal | Mike Tapp MP | 5933 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6566 |
-| Dudley | Sonia Kumar MP | 5394 |
+| Dudley | Sonia Kumar MP | 5395 |
 | Dulwich and West Norwood | Helen Hayes MP | 1561 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5516 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3094 |
@@ -241,7 +241,7 @@
 | Hornsey and Friern Barnet | Catherine West MP | 1942 |
 | Horsham | John Milne MP | 5832 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6312 |
-| Hove and Portslade | Rt Hon Peter Kyle MP | 3333 |
+| Hove and Portslade | Rt Hon Peter Kyle MP | 3334 |
 | Huddersfield | Harpreet Uppal MP | 3685 |
 | Huntingdon | Ben Obese-Jecty MP | 5562 |
 | Hyndburn | Sarah Smith MP | 5007 |
@@ -496,9 +496,9 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5958 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5953 |
 | Tooting | Dr Rosena Allin-Khan MP | 2696 |
-| Torbay | Steve Darling MP | 5834 |
+| Torbay | Steve Darling MP | 5835 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6581 |
-| Tottenham | Rt Hon David Lammy MP | 1688 |
+| Tottenham | Rt Hon David Lammy MP | 1689 |
 | Truro and Falmouth | Jayne Kirkham MP | 4609 |
 | Tunbridge Wells | Mike Martin MP | 5462 |
 | Twickenham | Munira Wilson MP | 3652 |
@@ -598,7 +598,7 @@
 | Edinburgh South West | Dr Scott Arthur MP | 2260 |
 | Edinburgh West | Christine Jardine MP | 2716 |
 | Falkirk | Euan Stainbank MP | 3443 |
-| Glasgow East | John Grady MP | 2315 |
+| Glasgow East | John Grady MP | 2316 |
 | Glasgow North | Martin Rhodes MP | 2046 |
 | Glasgow North East | Maureen Burke MP | 2483 |
 | Glasgow South | Gordon McKee MP | 1851 |
