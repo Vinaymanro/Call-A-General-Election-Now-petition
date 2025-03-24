@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2995322                                |
-| Last Updated      | 2025-03-24 03:01:56 UTC                                    |
+| Total Signatures   | 2995324                                |
+| Last Updated      | 2025-03-24 04:21:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -113,7 +113,7 @@
 | Chesterfield | Mr Toby Perkins MP | 4884 |
 | Chichester | Jess Brown-Fuller MP | 5927 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4167 |
-| Chippenham | Sarah Gibson MP | 4744 |
+| Chippenham | Sarah Gibson MP | 4745 |
 | Chipping Barnet | Dan Tomlinson MP | 4340 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5504 |
 | Christchurch | Sir Christopher Chope MP | 5855 |
@@ -591,7 +591,7 @@
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3861 |
 | Dundee Central | Chris Law MP | 2545 |
 | Dunfermline and Dollar | Graeme Downie MP | 2932 |
-| East Kilbride and Strathaven | Joani Reid MP | 3156 |
+| East Kilbride and Strathaven | Joani Reid MP | 3157 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2088 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2408 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2061 |
