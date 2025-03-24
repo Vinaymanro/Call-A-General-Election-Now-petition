@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2995324                                |
-| Last Updated      | 2025-03-24 04:21:59 UTC                                    |
+| Total Signatures   | 2995329                                |
+| Last Updated      | 2025-03-24 05:17:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -17,7 +17,7 @@
 | Ashford | Sojan Joseph MP | 5901 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4595 |
 | Aylesbury | Laura Kyrke-Smith MP | 4869 |
-| Banbury | Sean Woodcock MP | 5459 |
+| Banbury | Sean Woodcock MP | 5460 |
 | Barking | Nesil Caliskan MP | 2640 |
 | Barnsley North | Dan Jarvis MP | 5684 |
 | Barnsley South | Stephanie Peacock MP | 5772 |
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4680 |
 | Birkenhead | Alison McGovern MP | 4324 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2951 |
-| Birmingham Erdington | Paulette Hamilton MP | 4250 |
+| Birmingham Erdington | Paulette Hamilton MP | 4251 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1581 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3489 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1901 |
@@ -406,7 +406,7 @@
 | Rutland and Stamford | Alicia Kearns MP | 6265 |
 | Salford | Rebecca Long Bailey MP | 4669 |
 | Salisbury | Rt Hon John Glen MP | 4752 |
-| Scarborough and Whitby | Alison Hume MP | 6007 |
+| Scarborough and Whitby | Alison Hume MP | 6008 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5086 |
 | Sefton Central | Bill Esterson MP | 4019 |
 | Selby | Keir Mather MP | 6375 |
@@ -432,7 +432,7 @@
 | South Devon | Caroline Voaden MP | 5324 |
 | South Dorset | Lloyd Hatton MP | 5663 |
 | South East Cornwall | Anna Gelderd MP | 6241 |
-| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7136 |
+| South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7137 |
 | South Leicestershire | Alberto Costa MP | 6994 |
 | South Norfolk | Ben Goldsborough MP | 5442 |
 | South Northamptonshire | Sarah Bool MP | 6672 |
@@ -507,7 +507,7 @@
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1677 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4921 |
 | Wallasey | Dame Angela Eagle MP | 4073 |
-| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4013 |
+| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4014 |
 | Walthamstow | Ms Stella Creasy MP | 1320 |
 | Warrington North | Charlotte Nichols MP | 5157 |
 | Warrington South | Sarah Hall MP | 5563 |
