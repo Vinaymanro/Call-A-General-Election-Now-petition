@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2995856                                |
-| Last Updated      | 2025-03-25 02:58:26 UTC                                    |
+| Total Signatures   | 2995857                                |
+| Last Updated      | 2025-03-25 03:34:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3786 |
 | West Dorset | Edward Morello MP | 5461 |
 | West Ham and Beckton | James Asser MP | 2156 |
-| West Lancashire | Ashley Dalton MP | 5064 |
+| West Lancashire | Ashley Dalton MP | 5065 |
 | West Suffolk | Nick Timothy MP | 6041 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6265 |
 | Westmorland and Lonsdale | Tim Farron MP | 5200 |
