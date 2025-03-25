@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2995853                                |
-| Last Updated      | 2025-03-25 01:24:20 UTC                                    |
+| Total Signatures   | 2995856                                |
+| Last Updated      | 2025-03-25 02:58:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -196,7 +196,7 @@
 | Gloucester | Alex McIntyre MP | 4545 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5238 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6964 |
-| Gorton and Denton | Andrew Gwynne MP | 3282 |
+| Gorton and Denton | Andrew Gwynne MP | 3283 |
 | Gosport | Dame Caroline Dinenage MP | 5481 |
 | Grantham and Bourne | Gareth Davies MP | 6335 |
 | Gravesham | Dr Lauren Sullivan MP | 5151 |
@@ -306,7 +306,7 @@
 | Meriden and Solihull East | Saqib Bhatti MP | 6092 |
 | Mid Bedfordshire | Blake Stephenson MP | 5843 |
 | Mid Buckinghamshire | Greg Smith MP | 5599 |
-| Mid Cheshire | Andrew Cooper MP | 5183 |
+| Mid Cheshire | Andrew Cooper MP | 5184 |
 | Mid Derbyshire | Jonathan Davies MP | 5240 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5887 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5602 |
@@ -518,7 +518,7 @@
 | Weald of Kent | Katie Lam MP | 7232 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5086 |
 | Wells and Mendip Hills | Tessa Munt MP | 5264 |
-| Welwyn Hatfield | Andrew Lewin MP | 5067 |
+| Welwyn Hatfield | Andrew Lewin MP | 5068 |
 | West Bromwich | Sarah Coombes MP | 3786 |
 | West Dorset | Edward Morello MP | 5461 |
 | West Ham and Beckton | James Asser MP | 2156 |
