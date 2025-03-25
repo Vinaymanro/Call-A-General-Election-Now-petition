@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2995860                                |
-| Last Updated      | 2025-03-25 05:18:43 UTC                                    |
+| Total Signatures   | 2995869                                |
+| Last Updated      | 2025-03-25 06:26:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -88,7 +88,7 @@
 | Broxtowe | Juliet Campbell MP | 4716 |
 | Buckingham and Bletchley | Callum Anderson MP | 5258 |
 | Burnley | Oliver Ryan MP | 5727 |
-| Burton and Uttoxeter | Jacob Collier MP | 5806 |
+| Burton and Uttoxeter | Jacob Collier MP | 5807 |
 | Bury North | Mr James Frith MP | 4983 |
 | Bury South | Christian Wakeford MP | 5427 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5451 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6335 |
 | Gravesham | Dr Lauren Sullivan MP | 5151 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5812 |
-| Great Yarmouth | Rupert Lowe MP | 6586 |
+| Great Yarmouth | Rupert Lowe MP | 6587 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2632 |
 | Guildford | Zöe Franklin MP | 4004 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2064 |
@@ -407,15 +407,15 @@
 | Salford | Rebecca Long Bailey MP | 4669 |
 | Salisbury | Rt Hon John Glen MP | 4752 |
 | Scarborough and Whitby | Alison Hume MP | 6010 |
-| Scunthorpe | Sir Nicholas Dakin MP | 5091 |
-| Sefton Central | Bill Esterson MP | 4019 |
+| Scunthorpe | Sir Nicholas Dakin MP | 5092 |
+| Sefton Central | Bill Esterson MP | 4020 |
 | Selby | Keir Mather MP | 6375 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6670 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3438 |
 | Sheffield Central | Abtisam Mohamed MP | 1435 |
 | Sheffield Hallam | Olivia Blake MP | 3388 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3543 |
-| Sheffield South East | Mr Clive Betts MP | 4741 |
+| Sheffield South East | Mr Clive Betts MP | 4742 |
 | Sherwood Forest | Michelle Welsh MP | 6670 |
 | Shipley | Anna Dixon MP | 4895 |
 | Shrewsbury | Julia Buckley MP | 5330 |
@@ -530,7 +530,7 @@
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6580 |
 | Whitehaven and Workington | Josh MacAlister MP | 5854 |
 | Widnes and Halewood | Derek Twigg MP | 4241 |
-| Wigan | Rt Hon Lisa Nandy MP | 5961 |
+| Wigan | Rt Hon Lisa Nandy MP | 5962 |
 | Wimbledon | Mr Paul Kohler MP | 3414 |
 | Winchester | Dr Danny Chambers MP | 4924 |
 | Windsor | Jack Rankin MP | 5111 |
@@ -604,7 +604,7 @@
 | Glasgow South | Gordon McKee MP | 1852 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2260 |
 | Glasgow West | Patricia Ferguson MP | 2217 |
-| Glenrothes and Mid Fife | Richard Baker MP | 2970 |
+| Glenrothes and Mid Fife | Richard Baker MP | 2971 |
 | Gordon and Buchan | Harriet Cross MP | 4390 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3136 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2757 |
@@ -645,7 +645,7 @@
 | Gower | Tonia Antoniazzi MP | 4761 |
 | Llanelli | Dame Nia Griffith MP | 5258 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3716 |
-| Mid and South Pembrokeshire | Henry Tufnell MP | 5493 |
+| Mid and South Pembrokeshire | Henry Tufnell MP | 5495 |
 | Monmouthshire | Catherine Fookes MP | 4745 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6049 |
 | Neath and Swansea East | Carolyn Harris MP | 4457 |
