@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2995857                                |
-| Last Updated      | 2025-03-25 03:34:56 UTC                                    |
+| Total Signatures   | 2995859                                |
+| Last Updated      | 2025-03-25 04:21:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -328,7 +328,7 @@
 | Newcastle-under-Lyme | Adam Jogee MP | 5077 |
 | Newton Abbot | Martin Wrigley MP | 5114 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5538 |
-| Normanton and Hemsworth | Jon Trickett MP | 5505 |
+| Normanton and Hemsworth | Jon Trickett MP | 5506 |
 | North Bedfordshire | Richard Fuller MP | 6111 |
 | North Cornwall | Ben Maguire MP | 6405 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6054 |
@@ -351,7 +351,7 @@
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5731 |
 | North West Leicestershire | Amanda Hack MP | 6706 |
 | North West Norfolk | James Wild MP | 5765 |
-| Northampton North | Lucy Rigby KC MP | 4281 |
+| Northampton North | Lucy Rigby KC MP | 4282 |
 | Northampton South | Mike Reader MP | 4975 |
 | Norwich North | Alice Macdonald MP | 4410 |
 | Norwich South | Clive Lewis MP | 3397 |
