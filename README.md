@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2995859                                |
-| Last Updated      | 2025-03-25 04:21:17 UTC                                    |
+| Total Signatures   | 2995860                                |
+| Last Updated      | 2025-03-25 05:18:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -237,7 +237,7 @@
 | Hitchin | Alistair Strathern MP | 4919 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2284 |
 | Honiton and Sidmouth | Richard Foord MP | 5260 |
-| Hornchurch and Upminster | Julia Lopez MP | 6613 |
+| Hornchurch and Upminster | Julia Lopez MP | 6614 |
 | Hornsey and Friern Barnet | Catherine West MP | 1942 |
 | Horsham | John Milne MP | 5834 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6312 |
