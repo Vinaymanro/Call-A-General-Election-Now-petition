@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2996403                                |
-| Last Updated      | 2025-03-26 05:17:28 UTC                                    |
+| Total Signatures   | 2996411                                |
+| Last Updated      | 2025-03-26 06:25:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -54,7 +54,7 @@
 | Blaydon and Consett | Liz Twist MP | 5256 |
 | Blyth and Ashington | Ian Lavery MP | 5866 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6142 |
-| Bolsover | Natalie Fleet MP | 6540 |
+| Bolsover | Natalie Fleet MP | 6541 |
 | Bolton North East | Kirith Entwistle MP | 5615 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4419 |
 | Bolton West | Phil Brickell MP | 5581 |
@@ -146,8 +146,8 @@
 | Doncaster Central | Sally Jameson MP | 4946 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6082 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5572 |
-| Dorking and Horley | Chris Coghlan MP | 5560 |
-| Dover and Deal | Mike Tapp MP | 5940 |
+| Dorking and Horley | Chris Coghlan MP | 5561 |
+| Dover and Deal | Mike Tapp MP | 5941 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6568 |
 | Dudley | Sonia Kumar MP | 5398 |
 | Dulwich and West Norwood | Helen Hayes MP | 1562 |
@@ -265,7 +265,7 @@
 | Knowsley | Anneliese Midgley MP | 3283 |
 | Lancaster and Wyre | Cat Smith MP | 5088 |
 | Leeds Central and Headingley | Alex Sobel MP | 1933 |
-| Leeds East | Richard Burgon MP | 4312 |
+| Leeds East | Richard Burgon MP | 4313 |
 | Leeds North East | Fabian Hamilton MP | 2643 |
 | Leeds North West | Katie White MP | 4397 |
 | Leeds South | Rt Hon Hilary Benn MP | 3880 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5448 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6192 |
 | Peterborough | Andrew Pakes MP | 4168 |
-| Plymouth Moor View | Fred Thomas MP | 5698 |
+| Plymouth Moor View | Fred Thomas MP | 5699 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4753 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5456 |
 | Poole | Neil Duncan-Jordan MP | 5670 |
@@ -421,7 +421,7 @@
 | Shrewsbury | Julia Buckley MP | 5330 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6875 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6674 |
-| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6297 |
+| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6298 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2589 |
 | Smethwick | Gurinder Singh Josan MP | 3064 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5455 |
@@ -449,7 +449,7 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5589 |
 | Southend West and Leigh | David Burton-Sampson MP | 5879 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2593 |
-| Southport | Patrick Hurley MP | 5972 |
+| Southport | Patrick Hurley MP | 5973 |
 | Spelthorne | Lincoln Jopp MP | 5465 |
 | Spen Valley | Kim Leadbeater MP | 5384 |
 | St Albans | Daisy Cooper MP | 3882 |
@@ -525,7 +525,7 @@
 | West Lancashire | Ashley Dalton MP | 5068 |
 | West Suffolk | Nick Timothy MP | 6042 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6265 |
-| Westmorland and Lonsdale | Tim Farron MP | 5200 |
+| Westmorland and Lonsdale | Tim Farron MP | 5201 |
 | Weston-super-Mare | Dan Aldridge MP | 5080 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6582 |
 | Whitehaven and Workington | Josh MacAlister MP | 5857 |
