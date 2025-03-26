@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2996395                                |
-| Last Updated      | 2025-03-26 04:21:31 UTC                                    |
+| Total Signatures   | 2996403                                |
+| Last Updated      | 2025-03-26 05:17:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -221,7 +221,7 @@
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6281 |
 | Hastings and Rye | Helena Dollimore MP | 5079 |
 | Havant | Alan Mak MP | 5666 |
-| Hayes and Harlington | Rt Hon John McDonnell MP | 2596 |
+| Hayes and Harlington | Rt Hon John McDonnell MP | 2597 |
 | Hazel Grove | Lisa Smart MP | 5106 |
 | Hemel Hempstead | David Taylor MP | 5082 |
 | Hendon | David Pinto-Duschinsky MP | 3801 |
@@ -278,7 +278,7 @@
 | Lewes | James MacCleary MP | 4904 |
 | Lewisham East | Janet Daby MP | 2148 |
 | Lewisham North | Vicky Foxcroft MP | 1654 |
-| Lewisham West and East Dulwich | Ellie Reeves MP | 1593 |
+| Lewisham West and East Dulwich | Ellie Reeves MP | 1594 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1881 |
 | Lichfield | Dave Robertson MP | 6483 |
 | Lincoln | Mr Hamish Falconer MP | 4656 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2648 |
 | Liverpool Walton | Dan Carden MP | 3366 |
 | Liverpool Wavertree | Paula Barker MP | 2223 |
-| Liverpool West Derby | Ian Byrne MP | 3065 |
+| Liverpool West Derby | Ian Byrne MP | 3066 |
 | Loughborough | Dr Jeevun Sandher MP | 4484 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7803 |
 | Lowestoft | Jess Asato MP | 5339 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5603 |
 | Mid Norfolk | George Freeman MP | 6290 |
 | Mid Sussex | Alison Bennett MP | 4703 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4234 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4235 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5716 |
 | Milton Keynes Central | Emily Darlington MP | 4948 |
 | Milton Keynes North | Chris Curtis MP | 4574 |
@@ -408,7 +408,7 @@
 | Salisbury | Rt Hon John Glen MP | 4752 |
 | Scarborough and Whitby | Alison Hume MP | 6010 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5092 |
-| Sefton Central | Bill Esterson MP | 4024 |
+| Sefton Central | Bill Esterson MP | 4025 |
 | Selby | Keir Mather MP | 6376 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6671 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3438 |
@@ -500,7 +500,7 @@
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6582 |
 | Tottenham | Rt Hon David Lammy MP | 1690 |
 | Truro and Falmouth | Jayne Kirkham MP | 4610 |
-| Tunbridge Wells | Mike Martin MP | 5464 |
+| Tunbridge Wells | Mike Martin MP | 5465 |
 | Twickenham | Munira Wilson MP | 3653 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4495 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4485 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3787 |
 | West Dorset | Edward Morello MP | 5461 |
 | West Ham and Beckton | James Asser MP | 2156 |
-| West Lancashire | Ashley Dalton MP | 5067 |
+| West Lancashire | Ashley Dalton MP | 5068 |
 | West Suffolk | Nick Timothy MP | 6042 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6265 |
 | Westmorland and Lonsdale | Tim Farron MP | 5200 |
@@ -583,7 +583,7 @@
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3473 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3420 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3019 |
-| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4077 |
+| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4078 |
 | Coatbridge and Bellshill | Frank McNally MP | 2586 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2855 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2681 |
