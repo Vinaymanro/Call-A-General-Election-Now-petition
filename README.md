@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2996392                                |
-| Last Updated      | 2025-03-26 03:33:04 UTC                                    |
+| Total Signatures   | 2996395                                |
+| Last Updated      | 2025-03-26 04:21:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -69,7 +69,7 @@
 | Braintree | Rt Hon James Cleverly MP | 7447 |
 | Brent East | Dawn Butler MP | 1864 |
 | Brent West | Barry Gardiner MP | 2095 |
-| Brentford and Isleworth | Ruth Cadbury MP | 2999 |
+| Brentford and Isleworth | Ruth Cadbury MP | 3000 |
 | Brentwood and Ongar | Alex Burghart MP | 8144 |
 | Bridgwater | Sir Ashley Fox MP | 5759 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6636 |
@@ -258,7 +258,7 @@
 | Kensington and Bayswater | Joe Powell MP | 4407 |
 | Kettering | Rosie Wrighting MP | 5916 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3752 |
-| Kingston upon Hull East | Karl Turner MP | 5010 |
+| Kingston upon Hull East | Karl Turner MP | 5011 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4647 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5504 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6403 |
@@ -419,7 +419,7 @@
 | Sherwood Forest | Michelle Welsh MP | 6672 |
 | Shipley | Anna Dixon MP | 4896 |
 | Shrewsbury | Julia Buckley MP | 5330 |
-| Sittingbourne and Sheppey | Kevin McKenna MP | 6874 |
+| Sittingbourne and Sheppey | Kevin McKenna MP | 6875 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6674 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6297 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2589 |
