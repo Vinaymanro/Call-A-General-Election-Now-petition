@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2997133                                |
-| Last Updated      | 2025-03-27 02:57:36 UTC                                    |
+| Total Signatures   | 2997138                                |
+| Last Updated      | 2025-03-27 03:35:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3774 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6161 |
 | Blackpool South | Chris Webb MP | 5828 |
-| Blaydon and Consett | Liz Twist MP | 5257 |
+| Blaydon and Consett | Liz Twist MP | 5258 |
 | Blyth and Ashington | Ian Lavery MP | 5868 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6142 |
 | Bolsover | Natalie Fleet MP | 6544 |
@@ -339,7 +339,7 @@
 | North East Derbyshire | Louise Jones MP | 5802 |
 | North East Hampshire | Alex Brewer MP | 5960 |
 | North East Hertfordshire | Chris Hinchliff MP | 5857 |
-| North East Somerset and Hanham | Dan Norris MP | 5052 |
+| North East Somerset and Hanham | Dan Norris MP | 5053 |
 | North Herefordshire | Ellie Chowns MP | 6480 |
 | North Norfolk | Steff Aquarone MP | 5444 |
 | North Northumberland | David Smith MP | 6439 |
@@ -393,7 +393,7 @@
 | Richmond Park | Sarah Olney MP | 4062 |
 | Rochdale | Paul Waugh MP | 3962 |
 | Rochester and Strood | Lauren Edwards MP | 6033 |
-| Romford | Andrew Rosindell MP | 5792 |
+| Romford | Andrew Rosindell MP | 5793 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5072 |
 | Rossendale and Darwen | Andy MacNae MP | 6503 |
 | Rother Valley | Jake Richards MP | 5869 |
@@ -462,7 +462,7 @@
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6422 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5351 |
 | Stevenage | Kevin Bonavia MP | 4751 |
-| Stockport | Navendu Mishra MP | 3921 |
+| Stockport | Navendu Mishra MP | 3922 |
 | Stockton North | Chris McDonald MP | 4850 |
 | Stockton West | Matt Vickers MP | 5998 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4739 |
@@ -632,7 +632,7 @@
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3657 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5284 |
 | Bridgend | Chris Elmore MP | 4246 |
-| Caerfyrddin | Ann Davies MP | 5206 |
+| Caerfyrddin | Ann Davies MP | 5207 |
 | Caerphilly | Chris Evans MP | 3998 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2901 |
 | Cardiff North | Anna McMorrin MP | 3296 |
