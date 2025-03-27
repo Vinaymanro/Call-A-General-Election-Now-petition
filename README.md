@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2997140                                |
-| Last Updated      | 2025-03-27 04:21:19 UTC                                    |
+| Total Signatures   | 2997143                                |
+| Last Updated      | 2025-03-27 05:17:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -122,7 +122,7 @@
 | Clacton | Nigel Farage MP | 8094 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1743 |
 | Colchester | Pam Cox MP | 5004 |
-| Colne Valley | Paul Davies MP | 5040 |
+| Colne Valley | Paul Davies MP | 5041 |
 | Congleton | Mrs Sarah Russell MP | 5990 |
 | Corby and East Northamptonshire | Lee Barron MP | 6011 |
 | Coventry East | Mary Creagh MP | 3596 |
@@ -424,7 +424,7 @@
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6298 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2589 |
 | Smethwick | Gurinder Singh Josan MP | 3066 |
-| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5457 |
+| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5458 |
 | South Basildon and East Thurrock | James McMurdock MP | 6611 |
 | South Cambridgeshire | Pippa Heylings MP | 4459 |
 | South Cotswolds | Dr Roz Savage MP | 5720 |
@@ -486,7 +486,7 @@
 | Tamworth | Sarah Edwards MP | 6961 |
 | Tatton | Rt Hon Esther McVey MP | 6503 |
 | Taunton and Wellington | Gideon Amos MP | 5178 |
-| Telford | Shaun Davies MP | 5607 |
+| Telford | Shaun Davies MP | 5608 |
 | Tewkesbury | Cameron Thomas MP | 5016 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6412 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7439 |
