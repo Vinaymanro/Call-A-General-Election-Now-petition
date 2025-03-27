@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2997138                                |
-| Last Updated      | 2025-03-27 03:35:56 UTC                                    |
+| Total Signatures   | 2997140                                |
+| Last Updated      | 2025-03-27 04:21:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -253,7 +253,7 @@
 | Islington North | Rt Hon Jeremy Corbyn MP | 1800 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2778 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5097 |
-| Keighley and Ilkley | Robbie Moore MP | 4701 |
+| Keighley and Ilkley | Robbie Moore MP | 4702 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6105 |
 | Kensington and Bayswater | Joe Powell MP | 4407 |
 | Kettering | Rosie Wrighting MP | 5916 |
@@ -549,7 +549,7 @@
 | Wyre Forest | Mark Garnier MP | 6491 |
 | Wythenshawe and Sale East | Mike Kane MP | 4608 |
 | Yeovil | Adam Dance MP | 5603 |
-| York Central | Rachael Maskell MP | 3284 |
+| York Central | Rachael Maskell MP | 3285 |
 | York Outer | Mr Luke Charters MP | 4349 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2960 |
 | Belfast North | John Finucane MP | 2492 |
