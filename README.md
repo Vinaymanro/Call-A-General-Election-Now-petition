@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2997916                                |
-| Last Updated      | 2025-03-28 02:59:41 UTC                                    |
+| Total Signatures   | 2997920                                |
+| Last Updated      | 2025-03-28 03:36:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -167,7 +167,7 @@
 | Eastbourne | Josh Babarinde MP | 5045 |
 | Eastleigh | Liz Jarvis MP | 4332 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2227 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4451 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4452 |
 | Eltham and Chislehurst | Clive Efford MP | 4708 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5179 |
 | Enfield North | Feryal Clark MP | 2896 |
@@ -272,7 +272,7 @@
 | Leeds South West and Morley | Mark Sewards MP | 5506 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3798 |
 | Leicester East | Shivani Raja MP | 1888 |
-| Leicester South | Shockat Adam MP | 1851 |
+| Leicester South | Shockat Adam MP | 1852 |
 | Leicester West | Rt Hon Liz Kendall MP | 3477 |
 | Leigh and Atherton | Jo Platt MP | 6090 |
 | Lewes | James MacCleary MP | 4904 |
@@ -349,7 +349,7 @@
 | North West Cambridgeshire | Sam Carling MP | 6025 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7140 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5733 |
-| North West Leicestershire | Amanda Hack MP | 6708 |
+| North West Leicestershire | Amanda Hack MP | 6709 |
 | North West Norfolk | James Wild MP | 5769 |
 | Northampton North | Lucy Rigby KC MP | 4286 |
 | Northampton South | Mike Reader MP | 4976 |
@@ -379,7 +379,7 @@
 | Portsmouth North | Amanda Martin MP | 5629 |
 | Portsmouth South | Stephen Morgan MP | 3891 |
 | Preston | Sir Mark Hendrick MP | 3815 |
-| Putney | Fleur Anderson MP | 3517 |
+| Putney | Fleur Anderson MP | 3518 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2157 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5132 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7361 |
