@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2997925                                |
-| Last Updated      | 2025-03-28 04:21:41 UTC                                    |
+| Total Signatures   | 2997930                                |
+| Last Updated      | 2025-03-28 05:18:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -17,7 +17,7 @@
 | Ashford | Sojan Joseph MP | 5904 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4600 |
 | Aylesbury | Laura Kyrke-Smith MP | 4876 |
-| Banbury | Sean Woodcock MP | 5464 |
+| Banbury | Sean Woodcock MP | 5465 |
 | Barking | Nesil Caliskan MP | 2643 |
 | Barnsley North | Dan Jarvis MP | 5688 |
 | Barnsley South | Stephanie Peacock MP | 5782 |
@@ -70,7 +70,7 @@
 | Brent East | Dawn Butler MP | 1864 |
 | Brent West | Barry Gardiner MP | 2095 |
 | Brentford and Isleworth | Ruth Cadbury MP | 3002 |
-| Brentwood and Ongar | Alex Burghart MP | 8145 |
+| Brentwood and Ongar | Alex Burghart MP | 8146 |
 | Bridgwater | Sir Ashley Fox MP | 5761 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6642 |
 | Brigg and Immingham | Martin Vickers MP | 6475 |
@@ -256,7 +256,7 @@
 | Keighley and Ilkley | Robbie Moore MP | 4702 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6105 |
 | Kensington and Bayswater | Joe Powell MP | 4407 |
-| Kettering | Rosie Wrighting MP | 5917 |
+| Kettering | Rosie Wrighting MP | 5918 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3755 |
 | Kingston upon Hull East | Karl Turner MP | 5015 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4648 |
@@ -271,7 +271,7 @@
 | Leeds South | Rt Hon Hilary Benn MP | 3883 |
 | Leeds South West and Morley | Mark Sewards MP | 5506 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3798 |
-| Leicester East | Shivani Raja MP | 1888 |
+| Leicester East | Shivani Raja MP | 1889 |
 | Leicester South | Shockat Adam MP | 1852 |
 | Leicester West | Rt Hon Liz Kendall MP | 3477 |
 | Leigh and Atherton | Jo Platt MP | 6090 |
@@ -596,7 +596,7 @@
 | Edinburgh North and Leith | Tracy Gilbert MP | 2408 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2061 |
 | Edinburgh South West | Dr Scott Arthur MP | 2260 |
-| Edinburgh West | Christine Jardine MP | 2719 |
+| Edinburgh West | Christine Jardine MP | 2720 |
 | Falkirk | Euan Stainbank MP | 3444 |
 | Glasgow East | John Grady MP | 2328 |
 | Glasgow North | Martin Rhodes MP | 2050 |
