@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2997920                                |
-| Last Updated      | 2025-03-28 03:36:11 UTC                                    |
+| Total Signatures   | 2997925                                |
+| Last Updated      | 2025-03-28 04:21:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -94,7 +94,7 @@
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5453 |
 | Calder Valley | Josh Fenton-Glynn MP | 5666 |
 | Camborne and Redruth | Perran Moon MP | 4970 |
-| Cambridge | Daniel Zeichner MP | 2217 |
+| Cambridge | Daniel Zeichner MP | 2218 |
 | Cannock Chase | Josh Newbury MP | 6896 |
 | Canterbury | Rosie Duffield MP | 4475 |
 | Carlisle | Ms Julie Minns MP | 6544 |
@@ -124,7 +124,7 @@
 | Colchester | Pam Cox MP | 5004 |
 | Colne Valley | Paul Davies MP | 5043 |
 | Congleton | Mrs Sarah Russell MP | 5991 |
-| Corby and East Northamptonshire | Lee Barron MP | 6012 |
+| Corby and East Northamptonshire | Lee Barron MP | 6013 |
 | Coventry East | Mary Creagh MP | 3599 |
 | Coventry North West | Taiwo Owatemi MP | 4264 |
 | Coventry South | Zarah Sultana MP | 3519 |
@@ -483,7 +483,7 @@
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5678 |
 | Swindon North | Will Stone MP | 4908 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4219 |
-| Tamworth | Sarah Edwards MP | 6965 |
+| Tamworth | Sarah Edwards MP | 6966 |
 | Tatton | Rt Hon Esther McVey MP | 6504 |
 | Taunton and Wellington | Gideon Amos MP | 5179 |
 | Telford | Shaun Davies MP | 5610 |
@@ -501,7 +501,7 @@
 | Tottenham | Rt Hon David Lammy MP | 1690 |
 | Truro and Falmouth | Jayne Kirkham MP | 4611 |
 | Tunbridge Wells | Mike Martin MP | 5466 |
-| Twickenham | Munira Wilson MP | 3659 |
+| Twickenham | Munira Wilson MP | 3660 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4497 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4486 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1677 |
@@ -509,7 +509,7 @@
 | Wallasey | Dame Angela Eagle MP | 4081 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4025 |
 | Walthamstow | Ms Stella Creasy MP | 1321 |
-| Warrington North | Charlotte Nichols MP | 5161 |
+| Warrington North | Charlotte Nichols MP | 5162 |
 | Warrington South | Sarah Hall MP | 5568 |
 | Warwick and Leamington | Matt Western MP | 4479 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5333 |
