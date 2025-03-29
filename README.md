@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2999162                                |
-| Last Updated      | 2025-03-29 02:55:46 UTC                                    |
+| Total Signatures   | 2999167                                |
+| Last Updated      | 2025-03-29 03:29:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -67,7 +67,7 @@
 | Bradford South | Judith Cummins MP | 4197 |
 | Bradford West | Naz Shah MP | 1819 |
 | Braintree | Rt Hon James Cleverly MP | 7452 |
-| Brent East | Dawn Butler MP | 1864 |
+| Brent East | Dawn Butler MP | 1865 |
 | Brent West | Barry Gardiner MP | 2097 |
 | Brentford and Isleworth | Ruth Cadbury MP | 3003 |
 | Brentwood and Ongar | Alex Burghart MP | 8147 |
@@ -176,7 +176,7 @@
 | Erewash | Adam Thompson MP | 5850 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3223 |
 | Esher and Walton | Monica Harding MP | 4829 |
-| Exeter | Steve Race MP | 3180 |
+| Exeter | Steve Race MP | 3181 |
 | Exmouth and Exeter East | David Reed MP | 5215 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6136 |
 | Farnham and Bordon | Gregory Stafford MP | 5194 |
@@ -269,7 +269,7 @@
 | Leeds North East | Fabian Hamilton MP | 2646 |
 | Leeds North West | Katie White MP | 4398 |
 | Leeds South | Rt Hon Hilary Benn MP | 3886 |
-| Leeds South West and Morley | Mark Sewards MP | 5510 |
+| Leeds South West and Morley | Mark Sewards MP | 5511 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3799 |
 | Leicester East | Shivani Raja MP | 1889 |
 | Leicester South | Shockat Adam MP | 1854 |
@@ -308,7 +308,7 @@
 | Mid Buckinghamshire | Greg Smith MP | 5606 |
 | Mid Cheshire | Andrew Cooper MP | 5189 |
 | Mid Derbyshire | Jonathan Davies MP | 5246 |
-| Mid Dorset and North Poole | Vikki Slade MP | 5894 |
+| Mid Dorset and North Poole | Vikki Slade MP | 5895 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5605 |
 | Mid Norfolk | George Freeman MP | 6294 |
 | Mid Sussex | Alison Bennett MP | 4706 |
@@ -441,7 +441,7 @@
 | South Shropshire | Stuart Anderson MP | 7330 |
 | South Suffolk | James Cartlidge MP | 6153 |
 | South West Devon | Rebecca Smith MP | 5985 |
-| South West Hertfordshire | Mr Gagan Mohindra MP | 5210 |
+| South West Hertfordshire | Mr Gagan Mohindra MP | 5211 |
 | South West Norfolk | Terry Jermy MP | 6549 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5212 |
 | Southampton Itchen | Darren Paffey MP | 4565 |
