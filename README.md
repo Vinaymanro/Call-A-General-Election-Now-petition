@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 2999167                                |
-| Last Updated      | 2025-03-29 03:29:47 UTC                                    |
+| Total Signatures   | 2999170                                |
+| Last Updated      | 2025-03-29 04:22:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -102,7 +102,7 @@
 | Castle Point | Rebecca Harris MP | 7533 |
 | Central Devon | Rt Hon Mel Stride MP | 5814 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5312 |
-| Chatham and Aylesford | Tristan Osborne MP | 5646 |
+| Chatham and Aylesford | Tristan Osborne MP | 5647 |
 | Cheadle | Tom Morrison MP | 4670 |
 | Chelmsford | Marie Goldman MP | 5278 |
 | Chelsea and Fulham | Ben Coleman MP | 5493 |
@@ -280,7 +280,7 @@
 | Lewisham North | Vicky Foxcroft MP | 1657 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1595 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1881 |
-| Lichfield | Dave Robertson MP | 6486 |
+| Lichfield | Dave Robertson MP | 6487 |
 | Lincoln | Mr Hamish Falconer MP | 4661 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3142 |
 | Liverpool Riverside | Kim Johnson MP | 2654 |
@@ -374,7 +374,7 @@
 | Plymouth Moor View | Fred Thomas MP | 5709 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4766 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5462 |
-| Poole | Neil Duncan-Jordan MP | 5671 |
+| Poole | Neil Duncan-Jordan MP | 5672 |
 | Poplar and Limehouse | Apsana Begum MP | 2929 |
 | Portsmouth North | Amanda Martin MP | 5632 |
 | Portsmouth South | Stephen Morgan MP | 3896 |
