@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3000204                                |
-| Last Updated      | 2025-03-30 04:21:26 UTC                                    |
+| Total Signatures   | 3000208                                |
+| Last Updated      | 2025-03-30 05:16:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -156,7 +156,7 @@
 | Ealing North | James Murray MP | 2585 |
 | Ealing Southall | Deirdre Costigan MP | 1959 |
 | Earley and Woodley | Yuan Yang MP | 3966 |
-| Easington | Grahame Morris MP | 5774 |
+| Easington | Grahame Morris MP | 5775 |
 | East Grinstead and Uckfield | Mims Davies MP | 6045 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1104 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5343 |
@@ -294,7 +294,7 @@
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2953 |
 | Macclesfield | Tim Roca MP | 5410 |
 | Maidenhead | Mr Joshua Reynolds MP | 5290 |
-| Maidstone and Malling | Helen Grant MP | 5849 |
+| Maidstone and Malling | Helen Grant MP | 5850 |
 | Makerfield | Josh Simons MP | 5890 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8120 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4002 |
@@ -582,7 +582,7 @@
 | Angus and Perthshire Glens | Dave Doogan MP | 4058 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3477 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3424 |
-| Bathgate and Linlithgow | Kirsteen Sullivan MP | 3022 |
+| Bathgate and Linlithgow | Kirsteen Sullivan MP | 3023 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4083 |
 | Coatbridge and Bellshill | Frank McNally MP | 2593 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2866 |
@@ -592,7 +592,7 @@
 | Dundee Central | Chris Law MP | 2547 |
 | Dunfermline and Dollar | Graeme Downie MP | 2936 |
 | East Kilbride and Strathaven | Joani Reid MP | 3162 |
-| Edinburgh East and Musselburgh | Chris Murray MP | 2095 |
+| Edinburgh East and Musselburgh | Chris Murray MP | 2096 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2410 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2061 |
 | Edinburgh South West | Dr Scott Arthur MP | 2263 |
