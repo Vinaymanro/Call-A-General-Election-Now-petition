@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3000905                                |
-| Last Updated      | 2025-03-31 04:22:21 UTC                                    |
+| Total Signatures   | 3000913                                |
+| Last Updated      | 2025-03-31 05:18:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -19,7 +19,7 @@
 | Aylesbury | Laura Kyrke-Smith MP | 4877 |
 | Banbury | Sean Woodcock MP | 5471 |
 | Barking | Nesil Caliskan MP | 2649 |
-| Barnsley North | Dan Jarvis MP | 5699 |
+| Barnsley North | Dan Jarvis MP | 5700 |
 | Barnsley South | Stephanie Peacock MP | 5791 |
 | Barrow and Furness | Michelle Scrogham MP | 5338 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6898 |
@@ -47,7 +47,7 @@
 | Birmingham Selly Oak | Al Carns MP | 3307 |
 | Birmingham Yardley | Jess Phillips MP | 3105 |
 | Bishop Auckland | Sam Rushworth MP | 6181 |
-| Blackburn | Mr Adnan Hussain MP | 3146 |
+| Blackburn | Mr Adnan Hussain MP | 3149 |
 | Blackley and Middleton South | Graham Stringer MP | 3787 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6174 |
 | Blackpool South | Chris Webb MP | 5832 |
@@ -174,7 +174,7 @@
 | Epping Forest | Dr Neil Hudson MP | 6589 |
 | Epsom and Ewell | Helen Maguire MP | 4936 |
 | Erewash | Adam Thompson MP | 5857 |
-| Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3223 |
+| Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3224 |
 | Esher and Walton | Monica Harding MP | 4830 |
 | Exeter | Steve Race MP | 3182 |
 | Exmouth and Exeter East | David Reed MP | 5219 |
@@ -511,7 +511,7 @@
 | Walthamstow | Ms Stella Creasy MP | 1321 |
 | Warrington North | Charlotte Nichols MP | 5168 |
 | Warrington South | Sarah Hall MP | 5570 |
-| Warwick and Leamington | Matt Western MP | 4486 |
+| Warwick and Leamington | Matt Western MP | 4487 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5338 |
 | Watford | Matt Turmaine MP | 3751 |
 | Waveney Valley | Adrian Ramsay MP | 5866 |
@@ -577,7 +577,7 @@
 | Aberdeen North | Kirsty Blackman MP | 3559 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3848 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4680 |
-| Airdrie and Shotts | Kenneth Stevenson MP | 2827 |
+| Airdrie and Shotts | Kenneth Stevenson MP | 2828 |
 | Alloa and Grangemouth | Brian Leishman MP | 3026 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4059 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3477 |
@@ -618,7 +618,7 @@
 | Paisley and Renfrewshire North | Alison Taylor MP | 2881 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2654 |
 | Perth and Kinross-shire | Pete Wishart MP | 3516 |
-| Rutherglen | Michael Shanks MP | 2584 |
+| Rutherglen | Michael Shanks MP | 2585 |
 | Stirling and Strathallan | Chris Kane MP | 3228 |
 | West Dunbartonshire | Douglas McAllister MP | 2737 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3560 |
