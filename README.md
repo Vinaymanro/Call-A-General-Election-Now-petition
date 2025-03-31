@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3000897                                |
-| Last Updated      | 2025-03-31 03:04:53 UTC                                    |
+| Total Signatures   | 3000905                                |
+| Last Updated      | 2025-03-31 04:22:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -268,7 +268,7 @@
 | Leeds East | Richard Burgon MP | 4319 |
 | Leeds North East | Fabian Hamilton MP | 2648 |
 | Leeds North West | Katie White MP | 4402 |
-| Leeds South | Rt Hon Hilary Benn MP | 3891 |
+| Leeds South | Rt Hon Hilary Benn MP | 3892 |
 | Leeds South West and Morley | Mark Sewards MP | 5518 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3802 |
 | Leicester East | Shivani Raja MP | 1889 |
@@ -304,7 +304,7 @@
 | Melksham and Devizes | Brian Mathew MP | 5022 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6119 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6104 |
-| Mid Bedfordshire | Blake Stephenson MP | 5852 |
+| Mid Bedfordshire | Blake Stephenson MP | 5853 |
 | Mid Buckinghamshire | Greg Smith MP | 5608 |
 | Mid Cheshire | Andrew Cooper MP | 5191 |
 | Mid Derbyshire | Jonathan Davies MP | 5250 |
@@ -322,7 +322,7 @@
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5261 |
 | Newark | Rt Hon Robert Jenrick MP | 7171 |
 | Newbury | Mr Lee Dillon MP | 4903 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4532 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4533 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4770 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3961 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5091 |
@@ -546,16 +546,16 @@
 | Worsley and Eccles | Michael Wheeler MP | 5459 |
 | Worthing West | Dr Beccy Cooper MP | 5262 |
 | Wycombe | Emma Reynolds MP | 3623 |
-| Wyre Forest | Mark Garnier MP | 6501 |
+| Wyre Forest | Mark Garnier MP | 6502 |
 | Wythenshawe and Sale East | Mike Kane MP | 4618 |
 | Yeovil | Adam Dance MP | 5609 |
 | York Central | Rachael Maskell MP | 3289 |
 | York Outer | Mr Luke Charters MP | 4350 |
-| Belfast East | Rt Hon Gavin Robinson MP | 2962 |
+| Belfast East | Rt Hon Gavin Robinson MP | 2963 |
 | Belfast North | John Finucane MP | 2507 |
 | Belfast South and Mid Down | Claire Hanna MP | 1946 |
 | Belfast West | Paul Maskey MP | 1415 |
-| East Antrim | Rt Hon Sammy Wilson MP | 3598 |
+| East Antrim | Rt Hon Sammy Wilson MP | 3599 |
 | East Londonderry | Mr Gregory Campbell MP | 2534 |
 | Fermanagh and South Tyrone | Pat Cullen MP | 2267 |
 | Foyle | Colum Eastwood MP | 1068 |
@@ -598,7 +598,7 @@
 | Edinburgh South West | Dr Scott Arthur MP | 2263 |
 | Edinburgh West | Christine Jardine MP | 2720 |
 | Falkirk | Euan Stainbank MP | 3450 |
-| Glasgow East | John Grady MP | 2333 |
+| Glasgow East | John Grady MP | 2334 |
 | Glasgow North | Martin Rhodes MP | 2053 |
 | Glasgow North East | Maureen Burke MP | 2491 |
 | Glasgow South | Gordon McKee MP | 1855 |
@@ -648,7 +648,7 @@
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5503 |
 | Monmouthshire | Catherine Fookes MP | 4754 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6058 |
-| Neath and Swansea East | Carolyn Harris MP | 4468 |
+| Neath and Swansea East | Carolyn Harris MP | 4469 |
 | Newport East | Jessica Morden MP | 4030 |
 | Newport West and Islwyn | Ruth Jones MP | 4080 |
 | Pontypridd | Alex Davies-Jones MP | 3920 |
