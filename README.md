@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3001944                                |
-| Last Updated      | 2025-04-01 04:21:58 UTC                                    |
+| Total Signatures   | 3001952                                |
+| Last Updated      | 2025-04-01 05:18:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -290,7 +290,7 @@
 | Loughborough | Dr Jeevun Sandher MP | 4491 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7809 |
 | Lowestoft | Jess Asato MP | 5346 |
-| Luton North | Sarah Owen MP | 2481 |
+| Luton North | Sarah Owen MP | 2483 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2954 |
 | Macclesfield | Tim Roca MP | 5410 |
 | Maidenhead | Mr Joshua Reynolds MP | 5291 |
@@ -325,7 +325,7 @@
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4534 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4776 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3961 |
-| Newcastle-under-Lyme | Adam Jogee MP | 5092 |
+| Newcastle-under-Lyme | Adam Jogee MP | 5093 |
 | Newton Abbot | Martin Wrigley MP | 5124 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5549 |
 | Normanton and Hemsworth | Jon Trickett MP | 5518 |
@@ -361,7 +361,7 @@
 | Nuneaton | Jodie Gosling MP | 5578 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6224 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5252 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4105 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4106 |
 | Orpington | Gareth Bacon MP | 5321 |
 | Ossett and Denby Dale | Jade Botterill MP | 5817 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2156 |
@@ -394,7 +394,7 @@
 | Rochdale | Paul Waugh MP | 3966 |
 | Rochester and Strood | Lauren Edwards MP | 6046 |
 | Romford | Andrew Rosindell MP | 5799 |
-| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5077 |
+| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5078 |
 | Rossendale and Darwen | Andy MacNae MP | 6509 |
 | Rother Valley | Jake Richards MP | 5878 |
 | Rotherham | Sarah Champion MP | 4964 |
@@ -458,7 +458,7 @@
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4183 |
 | St Ives | Andrew George MP | 5104 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4819 |
-| Stafford | Leigh Ingham MP | 5626 |
+| Stafford | Leigh Ingham MP | 5627 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6427 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5362 |
 | Stevenage | Kevin Bonavia MP | 4760 |
@@ -545,7 +545,7 @@
 | Worcester | Tom Collins MP | 4343 |
 | Worsley and Eccles | Michael Wheeler MP | 5461 |
 | Worthing West | Dr Beccy Cooper MP | 5262 |
-| Wycombe | Emma Reynolds MP | 3623 |
+| Wycombe | Emma Reynolds MP | 3624 |
 | Wyre Forest | Mark Garnier MP | 6503 |
 | Wythenshawe and Sale East | Mike Kane MP | 4619 |
 | Yeovil | Adam Dance MP | 5610 |
@@ -584,7 +584,7 @@
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3425 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3031 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4087 |
-| Coatbridge and Bellshill | Frank McNally MP | 2598 |
+| Coatbridge and Bellshill | Frank McNally MP | 2599 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2871 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2687 |
 | Dumfries and Galloway | John Cooper MP | 4044 |
