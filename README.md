@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3001927                                |
-| Last Updated      | 2025-04-01 01:42:05 UTC                                    |
+| Total Signatures   | 3001936                                |
+| Last Updated      | 2025-04-01 03:11:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -80,7 +80,7 @@
 | Bristol East | Kerry McCarthy MP | 2994 |
 | Bristol North East | Damien Egan MP | 3095 |
 | Bristol North West | Rt Hon Darren Jones MP | 3220 |
-| Bristol South | Karin Smyth MP | 3989 |
+| Bristol South | Karin Smyth MP | 3990 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5844 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5252 |
 | Bromsgrove | Bradley Thomas MP | 6496 |
@@ -107,7 +107,7 @@
 | Chelmsford | Marie Goldman MP | 5283 |
 | Chelsea and Fulham | Ben Coleman MP | 5494 |
 | Cheltenham | Max Wilkinson MP | 4039 |
-| Chesham and Amersham | Sarah Green MP | 4947 |
+| Chesham and Amersham | Sarah Green MP | 4948 |
 | Chester North and Neston | Samantha Dixon MP | 4069 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6400 |
 | Chesterfield | Mr Toby Perkins MP | 4898 |
@@ -147,7 +147,7 @@
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6089 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5579 |
 | Dorking and Horley | Chris Coghlan MP | 5565 |
-| Dover and Deal | Mike Tapp MP | 5948 |
+| Dover and Deal | Mike Tapp MP | 5949 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6576 |
 | Dudley | Sonia Kumar MP | 5402 |
 | Dulwich and West Norwood | Helen Hayes MP | 1564 |
@@ -244,7 +244,7 @@
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3341 |
 | Huddersfield | Harpreet Uppal MP | 3697 |
 | Huntingdon | Ben Obese-Jecty MP | 5571 |
-| Hyndburn | Sarah Smith MP | 5026 |
+| Hyndburn | Sarah Smith MP | 5027 |
 | Ilford North | Rt Hon Wes Streeting MP | 2631 |
 | Ilford South | Jas Athwal MP | 1599 |
 | Ipswich | Jack Abbott MP | 4164 |
@@ -352,7 +352,7 @@
 | North West Leicestershire | Amanda Hack MP | 6718 |
 | North West Norfolk | James Wild MP | 5774 |
 | Northampton North | Lucy Rigby KC MP | 4298 |
-| Northampton South | Mike Reader MP | 4981 |
+| Northampton South | Mike Reader MP | 4982 |
 | Norwich North | Alice Macdonald MP | 4423 |
 | Norwich South | Clive Lewis MP | 3404 |
 | Nottingham East | Nadia Whittome MP | 2487 |
@@ -530,7 +530,7 @@
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6593 |
 | Whitehaven and Workington | Josh MacAlister MP | 5895 |
 | Widnes and Halewood | Derek Twigg MP | 4261 |
-| Wigan | Rt Hon Lisa Nandy MP | 5973 |
+| Wigan | Rt Hon Lisa Nandy MP | 5974 |
 | Wimbledon | Mr Paul Kohler MP | 3417 |
 | Winchester | Dr Danny Chambers MP | 4931 |
 | Windsor | Jack Rankin MP | 5113 |
@@ -570,13 +570,13 @@
 | Upper Bann | Carla Lockhart MP | 3080 |
 | West Tyrone | Órfhlaith Begley MP | 1670 |
 | East Renfrewshire | Blair McDougall MP | 2601 |
-| Na h-Eileanan an Iar | Torcuil Crichton MP | 882 |
+| Na h-Eileanan an Iar | Torcuil Crichton MP | 883 |
 | Midlothian | Kirsty McNeill MP | 2812 |
 | North Ayrshire and Arran | Irene Campbell MP | 3308 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1445 |
 | Aberdeen North | Kirsty Blackman MP | 3559 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3850 |
-| Aberdeenshire North and Moray East | Seamus Logan MP | 4682 |
+| Aberdeenshire North and Moray East | Seamus Logan MP | 4683 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2829 |
 | Alloa and Grangemouth | Brian Leishman MP | 3027 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4061 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3450 |
 | Glasgow East | John Grady MP | 2338 |
 | Glasgow North | Martin Rhodes MP | 2056 |
-| Glasgow North East | Maureen Burke MP | 2496 |
+| Glasgow North East | Maureen Burke MP | 2497 |
 | Glasgow South | Gordon McKee MP | 1855 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2266 |
 | Glasgow West | Patricia Ferguson MP | 2233 |
