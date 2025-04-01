@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3001936                                |
-| Last Updated      | 2025-04-01 03:11:47 UTC                                    |
+| Total Signatures   | 3001944                                |
+| Last Updated      | 2025-04-01 04:21:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -60,7 +60,7 @@
 | Bolton West | Phil Brickell MP | 5591 |
 | Bootle | Peter Dowd MP | 3171 |
 | Boston and Skegness | Richard Tice MP | 7102 |
-| Bournemouth East | Tom Hayes MP | 4677 |
+| Bournemouth East | Tom Hayes MP | 4678 |
 | Bournemouth West | Jessica Toale MP | 4930 |
 | Bracknell | Peter Swallow MP | 4982 |
 | Bradford East | Imran Hussain MP | 2904 |
@@ -127,10 +127,10 @@
 | Corby and East Northamptonshire | Lee Barron MP | 6020 |
 | Coventry East | Mary Creagh MP | 3605 |
 | Coventry North West | Taiwo Owatemi MP | 4273 |
-| Coventry South | Zarah Sultana MP | 3527 |
+| Coventry South | Zarah Sultana MP | 3529 |
 | Cramlington and Killingworth | Emma Foody MP | 5828 |
 | Crawley | Peter Lamb MP | 4728 |
-| Crewe and Nantwich | Connor Naismith MP | 5704 |
+| Crewe and Nantwich | Connor Naismith MP | 5705 |
 | Croydon East | Natasha Irons MP | 3342 |
 | Croydon South | Rt Hon Chris Philp MP | 3961 |
 | Croydon West | Sarah Jones MP | 1751 |
@@ -386,7 +386,7 @@
 | Reading Central | Matt Rodda MP | 3036 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4458 |
 | Redcar | Anna Turley MP | 5478 |
-| Redditch | Chris Bloore MP | 6106 |
+| Redditch | Chris Bloore MP | 6107 |
 | Reigate | Rebecca Paul MP | 5556 |
 | Ribble Valley | Maya Ellis MP | 6730 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7118 |
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3932 |
 | Stockton North | Chris McDonald MP | 4852 |
 | Stockton West | Matt Vickers MP | 6003 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4763 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4764 |
 | Stoke-on-Trent North | David Williams MP | 5478 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5744 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6548 |
@@ -509,7 +509,7 @@
 | Wallasey | Dame Angela Eagle MP | 4096 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4035 |
 | Walthamstow | Ms Stella Creasy MP | 1321 |
-| Warrington North | Charlotte Nichols MP | 5170 |
+| Warrington North | Charlotte Nichols MP | 5171 |
 | Warrington South | Sarah Hall MP | 5570 |
 | Warwick and Leamington | Matt Western MP | 4490 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5344 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5096 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6593 |
 | Whitehaven and Workington | Josh MacAlister MP | 5895 |
-| Widnes and Halewood | Derek Twigg MP | 4261 |
+| Widnes and Halewood | Derek Twigg MP | 4262 |
 | Wigan | Rt Hon Lisa Nandy MP | 5974 |
 | Wimbledon | Mr Paul Kohler MP | 3417 |
 | Winchester | Dr Danny Chambers MP | 4931 |
