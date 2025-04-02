@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3003243                                |
-| Last Updated      | 2025-04-02 03:00:03 UTC                                    |
+| Total Signatures   | 3003247                                |
+| Last Updated      | 2025-04-02 03:38:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -43,7 +43,7 @@
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3510 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1910 |
 | Birmingham Northfield | Laurence Turner MP | 4917 |
-| Birmingham Perry Barr | Ayoub Khan MP | 1733 |
+| Birmingham Perry Barr | Ayoub Khan MP | 1734 |
 | Birmingham Selly Oak | Al Carns MP | 3310 |
 | Birmingham Yardley | Jess Phillips MP | 3107 |
 | Bishop Auckland | Sam Rushworth MP | 6185 |
@@ -61,7 +61,7 @@
 | Bootle | Peter Dowd MP | 3175 |
 | Boston and Skegness | Richard Tice MP | 7104 |
 | Bournemouth East | Tom Hayes MP | 4680 |
-| Bournemouth West | Jessica Toale MP | 4931 |
+| Bournemouth West | Jessica Toale MP | 4932 |
 | Bracknell | Peter Swallow MP | 4985 |
 | Bradford East | Imran Hussain MP | 2909 |
 | Bradford South | Judith Cummins MP | 4205 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3962 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5093 |
 | Newton Abbot | Martin Wrigley MP | 5125 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5550 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5551 |
 | Normanton and Hemsworth | Jon Trickett MP | 5522 |
 | North Bedfordshire | Richard Fuller MP | 6122 |
 | North Cornwall | Ben Maguire MP | 6415 |
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 4039 |
 | Selby | Keir Mather MP | 6390 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6677 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3455 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3456 |
 | Sheffield Central | Abtisam Mohamed MP | 1440 |
 | Sheffield Hallam | Olivia Blake MP | 3390 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3560 |
