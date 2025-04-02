@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3003235                                |
-| Last Updated      | 2025-04-02 01:25:33 UTC                                    |
+| Total Signatures   | 3003243                                |
+| Last Updated      | 2025-04-02 03:00:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -78,7 +78,7 @@
 | Brighton Pavilion | Siân Berry MP | 2750 |
 | Bristol Central | Carla Denyer MP | 1617 |
 | Bristol East | Kerry McCarthy MP | 2995 |
-| Bristol North East | Damien Egan MP | 3097 |
+| Bristol North East | Damien Egan MP | 3098 |
 | Bristol North West | Rt Hon Darren Jones MP | 3222 |
 | Bristol South | Karin Smyth MP | 3992 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5846 |
@@ -168,10 +168,10 @@
 | Eastleigh | Liz Jarvis MP | 4339 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2232 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4471 |
-| Eltham and Chislehurst | Clive Efford MP | 4716 |
+| Eltham and Chislehurst | Clive Efford MP | 4717 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5187 |
 | Enfield North | Feryal Clark MP | 2902 |
-| Epping Forest | Dr Neil Hudson MP | 6596 |
+| Epping Forest | Dr Neil Hudson MP | 6597 |
 | Epsom and Ewell | Helen Maguire MP | 4940 |
 | Erewash | Adam Thompson MP | 5863 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3231 |
@@ -198,7 +198,7 @@
 | Goole and Pocklington | Rt Hon David Davis MP | 6978 |
 | Gorton and Denton | Andrew Gwynne MP | 3295 |
 | Gosport | Dame Caroline Dinenage MP | 5493 |
-| Grantham and Bourne | Gareth Davies MP | 6342 |
+| Grantham and Bourne | Gareth Davies MP | 6343 |
 | Gravesham | Dr Lauren Sullivan MP | 5165 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5829 |
 | Great Yarmouth | Rupert Lowe MP | 6604 |
@@ -264,7 +264,7 @@
 | Kingswinford and South Staffordshire | Mike Wood MP | 6408 |
 | Knowsley | Anneliese Midgley MP | 3294 |
 | Lancaster and Wyre | Cat Smith MP | 5099 |
-| Leeds Central and Headingley | Alex Sobel MP | 1936 |
+| Leeds Central and Headingley | Alex Sobel MP | 1937 |
 | Leeds East | Richard Burgon MP | 4324 |
 | Leeds North East | Fabian Hamilton MP | 2651 |
 | Leeds North West | Katie White MP | 4406 |
@@ -366,7 +366,7 @@
 | Ossett and Denby Dale | Jade Botterill MP | 5818 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2156 |
 | Oxford West and Abingdon | Layla Moran MP | 2938 |
-| Peckham | Miatta Fahnbulleh MP | 1364 |
+| Peckham | Miatta Fahnbulleh MP | 1365 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6220 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5458 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6220 |
@@ -567,7 +567,7 @@
 | South Antrim | Robin Swann MP | 3103 |
 | South Down | Chris Hazzard MP | 1847 |
 | Strangford | Jim Shannon MP | 3470 |
-| Upper Bann | Carla Lockhart MP | 3084 |
+| Upper Bann | Carla Lockhart MP | 3085 |
 | West Tyrone | Órfhlaith Begley MP | 1671 |
 | East Renfrewshire | Blair McDougall MP | 2602 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 883 |
@@ -640,7 +640,7 @@
 | Cardiff West | Mr Alex Barros-Curtis MP | 3160 |
 | Ceredigion Preseli | Ben Lake MP | 4754 |
 | Clwyd East | Becky Gittins MP | 6063 |
-| Clwyd North | Gill German MP | 5497 |
+| Clwyd North | Gill German MP | 5498 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4248 |
 | Gower | Tonia Antoniazzi MP | 4776 |
 | Llanelli | Dame Nia Griffith MP | 5272 |
