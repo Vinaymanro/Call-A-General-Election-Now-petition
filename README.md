@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3003247                                |
-| Last Updated      | 2025-04-02 03:38:35 UTC                                    |
+| Total Signatures   | 3003253                                |
+| Last Updated      | 2025-04-02 04:21:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -112,7 +112,7 @@
 | Chester South and Eddisbury | Aphra Brandreth MP | 6401 |
 | Chesterfield | Mr Toby Perkins MP | 4899 |
 | Chichester | Jess Brown-Fuller MP | 5939 |
-| Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4179 |
+| Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4180 |
 | Chippenham | Sarah Gibson MP | 4756 |
 | Chipping Barnet | Dan Tomlinson MP | 4350 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5521 |
@@ -364,7 +364,7 @@
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4108 |
 | Orpington | Gareth Bacon MP | 5323 |
 | Ossett and Denby Dale | Jade Botterill MP | 5818 |
-| Oxford East | Rt Hon Anneliese Dodds MP | 2156 |
+| Oxford East | Rt Hon Anneliese Dodds MP | 2157 |
 | Oxford West and Abingdon | Layla Moran MP | 2938 |
 | Peckham | Miatta Fahnbulleh MP | 1365 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6220 |
@@ -455,7 +455,7 @@
 | St Albans | Daisy Cooper MP | 3884 |
 | St Austell and Newquay | Noah Law MP | 5636 |
 | St Helens North | David Baines MP | 4741 |
-| St Helens South and Whiston | Ms Marie Rimmer MP | 4183 |
+| St Helens South and Whiston | Ms Marie Rimmer MP | 4184 |
 | St Ives | Andrew George MP | 5105 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4820 |
 | Stafford | Leigh Ingham MP | 5627 |
@@ -503,7 +503,7 @@
 | Tunbridge Wells | Mike Martin MP | 5472 |
 | Twickenham | Munira Wilson MP | 3663 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4499 |
-| Uxbridge and South Ruislip | Danny Beales MP | 4494 |
+| Uxbridge and South Ruislip | Danny Beales MP | 4495 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1682 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4932 |
 | Wallasey | Dame Angela Eagle MP | 4097 |
@@ -587,7 +587,7 @@
 | Coatbridge and Bellshill | Frank McNally MP | 2600 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2873 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2688 |
-| Dumfries and Galloway | John Cooper MP | 4045 |
+| Dumfries and Galloway | John Cooper MP | 4046 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3872 |
 | Dundee Central | Chris Law MP | 2554 |
 | Dunfermline and Dollar | Graeme Downie MP | 2940 |
@@ -624,7 +624,7 @@
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3561 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4036 |
 | Central Ayrshire | Alan Gemmell MP | 3146 |
-| Kilmarnock and Loudoun | Lillian Jones MP | 3272 |
+| Kilmarnock and Loudoun | Lillian Jones MP | 3273 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4563 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3724 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5771 |
