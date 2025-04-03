@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3004206                                |
-| Last Updated      | 2025-04-03 02:58:47 UTC                                    |
+| Total Signatures   | 3004212                                |
+| Last Updated      | 2025-04-03 03:37:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -99,10 +99,10 @@
 | Canterbury | Rosie Duffield MP | 4480 |
 | Carlisle | Ms Julie Minns MP | 6562 |
 | Carshalton and Wallington | Bobby Dean MP | 4282 |
-| Castle Point | Rebecca Harris MP | 7543 |
+| Castle Point | Rebecca Harris MP | 7544 |
 | Central Devon | Rt Hon Mel Stride MP | 5815 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5316 |
-| Chatham and Aylesford | Tristan Osborne MP | 5656 |
+| Chatham and Aylesford | Tristan Osborne MP | 5657 |
 | Cheadle | Tom Morrison MP | 4677 |
 | Chelmsford | Marie Goldman MP | 5285 |
 | Chelsea and Fulham | Ben Coleman MP | 5500 |
@@ -112,7 +112,7 @@
 | Chester South and Eddisbury | Aphra Brandreth MP | 6403 |
 | Chesterfield | Mr Toby Perkins MP | 4904 |
 | Chichester | Jess Brown-Fuller MP | 5942 |
-| Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4180 |
+| Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4181 |
 | Chippenham | Sarah Gibson MP | 4757 |
 | Chipping Barnet | Dan Tomlinson MP | 4350 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5522 |
@@ -192,7 +192,7 @@
 | Gateshead Central and Whickham | Mark Ferguson MP | 4544 |
 | Gedling | Michael Payne MP | 5077 |
 | Gillingham and Rainham | Naushabah Khan MP | 5072 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5600 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5601 |
 | Gloucester | Alex McIntyre MP | 4560 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5244 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6979 |
@@ -206,7 +206,7 @@
 | Guildford | Zöe Franklin MP | 4009 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2065 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1534 |
-| Halesowen | Alex Ballinger MP | 5014 |
+| Halesowen | Alex Ballinger MP | 5015 |
 | Halifax | Kate Dearden MP | 4765 |
 | Hamble Valley | Paul Holmes MP | 6155 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3201 |
@@ -361,7 +361,7 @@
 | Nuneaton | Jodie Gosling MP | 5582 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6225 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5256 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4110 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4111 |
 | Orpington | Gareth Bacon MP | 5326 |
 | Ossett and Denby Dale | Jade Botterill MP | 5819 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2159 |
