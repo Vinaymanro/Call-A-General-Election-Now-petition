@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3004198                                |
-| Last Updated      | 2025-04-03 01:24:08 UTC                                    |
+| Total Signatures   | 3004206                                |
+| Last Updated      | 2025-04-03 02:58:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -98,7 +98,7 @@
 | Cannock Chase | Josh Newbury MP | 6911 |
 | Canterbury | Rosie Duffield MP | 4480 |
 | Carlisle | Ms Julie Minns MP | 6562 |
-| Carshalton and Wallington | Bobby Dean MP | 4281 |
+| Carshalton and Wallington | Bobby Dean MP | 4282 |
 | Castle Point | Rebecca Harris MP | 7543 |
 | Central Devon | Rt Hon Mel Stride MP | 5815 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5316 |
@@ -107,7 +107,7 @@
 | Chelmsford | Marie Goldman MP | 5285 |
 | Chelsea and Fulham | Ben Coleman MP | 5500 |
 | Cheltenham | Max Wilkinson MP | 4041 |
-| Chesham and Amersham | Sarah Green MP | 4948 |
+| Chesham and Amersham | Sarah Green MP | 4949 |
 | Chester North and Neston | Samantha Dixon MP | 4070 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6403 |
 | Chesterfield | Mr Toby Perkins MP | 4904 |
@@ -129,8 +129,8 @@
 | Coventry North West | Taiwo Owatemi MP | 4276 |
 | Coventry South | Zarah Sultana MP | 3533 |
 | Cramlington and Killingworth | Emma Foody MP | 5830 |
-| Crawley | Peter Lamb MP | 4733 |
-| Crewe and Nantwich | Connor Naismith MP | 5707 |
+| Crawley | Peter Lamb MP | 4734 |
+| Crewe and Nantwich | Connor Naismith MP | 5708 |
 | Croydon East | Natasha Irons MP | 3345 |
 | Croydon South | Rt Hon Chris Philp MP | 3963 |
 | Croydon West | Sarah Jones MP | 1756 |
@@ -321,7 +321,7 @@
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5441 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5266 |
 | Newark | Rt Hon Robert Jenrick MP | 7176 |
-| Newbury | Mr Lee Dillon MP | 4908 |
+| Newbury | Mr Lee Dillon MP | 4909 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4535 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4777 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3962 |
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7364 |
 | Reading Central | Matt Rodda MP | 3038 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4458 |
-| Redcar | Anna Turley MP | 5482 |
+| Redcar | Anna Turley MP | 5483 |
 | Redditch | Chris Bloore MP | 6110 |
 | Reigate | Rebecca Paul MP | 5558 |
 | Ribble Valley | Maya Ellis MP | 6731 |
@@ -485,7 +485,7 @@
 | Swindon South | Rt Hon Heidi Alexander MP | 4234 |
 | Tamworth | Sarah Edwards MP | 6977 |
 | Tatton | Rt Hon Esther McVey MP | 6509 |
-| Taunton and Wellington | Gideon Amos MP | 5187 |
+| Taunton and Wellington | Gideon Amos MP | 5188 |
 | Telford | Shaun Davies MP | 5629 |
 | Tewkesbury | Cameron Thomas MP | 5022 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6421 |
@@ -494,7 +494,7 @@
 | Thurrock | Jen Craft MP | 5134 |
 | Tipton and Wednesbury | Antonia Bance MP | 4945 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5970 |
-| Tonbridge | Rt Hon Tom Tugendhat MP | 5960 |
+| Tonbridge | Rt Hon Tom Tugendhat MP | 5961 |
 | Tooting | Dr Rosena Allin-Khan MP | 2701 |
 | Torbay | Steve Darling MP | 5856 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6595 |
