@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3004212                                |
-| Last Updated      | 2025-04-03 03:37:31 UTC                                    |
+| Total Signatures   | 3004215                                |
+| Last Updated      | 2025-04-03 04:23:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3962 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5094 |
 | Newton Abbot | Martin Wrigley MP | 5126 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5553 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5554 |
 | Normanton and Hemsworth | Jon Trickett MP | 5526 |
 | North Bedfordshire | Richard Fuller MP | 6122 |
 | North Cornwall | Ben Maguire MP | 6417 |
@@ -482,7 +482,7 @@
 | Sutton and Cheam | Luke Taylor MP | 4399 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5686 |
 | Swindon North | Will Stone MP | 4925 |
-| Swindon South | Rt Hon Heidi Alexander MP | 4234 |
+| Swindon South | Rt Hon Heidi Alexander MP | 4235 |
 | Tamworth | Sarah Edwards MP | 6977 |
 | Tatton | Rt Hon Esther McVey MP | 6509 |
 | Taunton and Wellington | Gideon Amos MP | 5188 |
@@ -494,7 +494,7 @@
 | Thurrock | Jen Craft MP | 5134 |
 | Tipton and Wednesbury | Antonia Bance MP | 4945 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5970 |
-| Tonbridge | Rt Hon Tom Tugendhat MP | 5961 |
+| Tonbridge | Rt Hon Tom Tugendhat MP | 5962 |
 | Tooting | Dr Rosena Allin-Khan MP | 2701 |
 | Torbay | Steve Darling MP | 5856 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6595 |
