@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3004901                                |
-| Last Updated      | 2025-04-04 04:21:37 UTC                                    |
+| Total Signatures   | 3004909                                |
+| Last Updated      | 2025-04-04 05:18:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -167,7 +167,7 @@
 | Eastbourne | Josh Babarinde MP | 5055 |
 | Eastleigh | Liz Jarvis MP | 4343 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2234 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4475 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4476 |
 | Eltham and Chislehurst | Clive Efford MP | 4719 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5188 |
 | Enfield North | Feryal Clark MP | 2903 |
@@ -195,7 +195,7 @@
 | Glastonbury and Somerton | Sarah Dyke MP | 5602 |
 | Gloucester | Alex McIntyre MP | 4562 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5244 |
-| Goole and Pocklington | Rt Hon David Davis MP | 6981 |
+| Goole and Pocklington | Rt Hon David Davis MP | 6982 |
 | Gorton and Denton | Andrew Gwynne MP | 3297 |
 | Gosport | Dame Caroline Dinenage MP | 5496 |
 | Grantham and Bourne | Gareth Davies MP | 6345 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6226 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5257 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4112 |
-| Orpington | Gareth Bacon MP | 5328 |
+| Orpington | Gareth Bacon MP | 5329 |
 | Ossett and Denby Dale | Jade Botterill MP | 5820 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2159 |
 | Oxford West and Abingdon | Layla Moran MP | 2939 |
@@ -449,7 +449,7 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5608 |
 | Southend West and Leigh | David Burton-Sampson MP | 5893 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2606 |
-| Southport | Patrick Hurley MP | 5995 |
+| Southport | Patrick Hurley MP | 5996 |
 | Spelthorne | Lincoln Jopp MP | 5481 |
 | Spen Valley | Kim Leadbeater MP | 5399 |
 | St Albans | Daisy Cooper MP | 3884 |
@@ -532,7 +532,7 @@
 | Widnes and Halewood | Derek Twigg MP | 4263 |
 | Wigan | Rt Hon Lisa Nandy MP | 5981 |
 | Wimbledon | Mr Paul Kohler MP | 3418 |
-| Winchester | Dr Danny Chambers MP | 4936 |
+| Winchester | Dr Danny Chambers MP | 4937 |
 | Windsor | Jack Rankin MP | 5113 |
 | Wirral West | Matthew Patrick MP | 4221 |
 | Witham | Rt Hon Priti Patel MP | 7031 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4625 |
 | Yeovil | Adam Dance MP | 5614 |
 | York Central | Rachael Maskell MP | 3290 |
-| York Outer | Mr Luke Charters MP | 4353 |
+| York Outer | Mr Luke Charters MP | 4354 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2965 |
 | Belfast North | John Finucane MP | 2515 |
 | Belfast South and Mid Down | Claire Hanna MP | 1948 |
@@ -596,7 +596,7 @@
 | Edinburgh North and Leith | Tracy Gilbert MP | 2416 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2061 |
 | Edinburgh South West | Dr Scott Arthur MP | 2263 |
-| Edinburgh West | Christine Jardine MP | 2724 |
+| Edinburgh West | Christine Jardine MP | 2725 |
 | Falkirk | Euan Stainbank MP | 3452 |
 | Glasgow East | John Grady MP | 2352 |
 | Glasgow North | Martin Rhodes MP | 2063 |
@@ -632,7 +632,7 @@
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3678 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5299 |
 | Bridgend | Chris Elmore MP | 4263 |
-| Caerfyrddin | Ann Davies MP | 5222 |
+| Caerfyrddin | Ann Davies MP | 5223 |
 | Caerphilly | Chris Evans MP | 4018 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2918 |
 | Cardiff North | Anna McMorrin MP | 3306 |
