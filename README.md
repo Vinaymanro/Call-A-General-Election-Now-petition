@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3004890                                |
-| Last Updated      | 2025-04-04 01:24:08 UTC                                    |
+| Total Signatures   | 3004898                                |
+| Last Updated      | 2025-04-04 02:58:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -86,7 +86,7 @@
 | Bromsgrove | Bradley Thomas MP | 6499 |
 | Broxbourne | Lewis Cocking MP | 6098 |
 | Broxtowe | Juliet Campbell MP | 4725 |
-| Buckingham and Bletchley | Callum Anderson MP | 5269 |
+| Buckingham and Bletchley | Callum Anderson MP | 5270 |
 | Burnley | Oliver Ryan MP | 5742 |
 | Burton and Uttoxeter | Jacob Collier MP | 5825 |
 | Bury North | Mr James Frith MP | 4997 |
@@ -125,7 +125,7 @@
 | Colne Valley | Paul Davies MP | 5054 |
 | Congleton | Mrs Sarah Russell MP | 6001 |
 | Corby and East Northamptonshire | Lee Barron MP | 6025 |
-| Coventry East | Mary Creagh MP | 3611 |
+| Coventry East | Mary Creagh MP | 3612 |
 | Coventry North West | Taiwo Owatemi MP | 4277 |
 | Coventry South | Zarah Sultana MP | 3534 |
 | Cramlington and Killingworth | Emma Foody MP | 5831 |
@@ -170,7 +170,7 @@
 | Ellesmere Port and Bromborough | Justin Madders MP | 4475 |
 | Eltham and Chislehurst | Clive Efford MP | 4719 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5188 |
-| Enfield North | Feryal Clark MP | 2902 |
+| Enfield North | Feryal Clark MP | 2903 |
 | Epping Forest | Dr Neil Hudson MP | 6598 |
 | Epsom and Ewell | Helen Maguire MP | 4941 |
 | Erewash | Adam Thompson MP | 5863 |
@@ -221,7 +221,7 @@
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6296 |
 | Hastings and Rye | Helena Dollimore MP | 5091 |
 | Havant | Alan Mak MP | 5685 |
-| Hayes and Harlington | Rt Hon John McDonnell MP | 2608 |
+| Hayes and Harlington | Rt Hon John McDonnell MP | 2609 |
 | Hazel Grove | Lisa Smart MP | 5120 |
 | Hemel Hempstead | David Taylor MP | 5097 |
 | Hendon | David Pinto-Duschinsky MP | 3813 |
@@ -282,7 +282,7 @@
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1886 |
 | Lichfield | Dave Robertson MP | 6497 |
 | Lincoln | Mr Hamish Falconer MP | 4667 |
-| Liverpool Garston | Rt Hon Maria Eagle MP | 3152 |
+| Liverpool Garston | Rt Hon Maria Eagle MP | 3153 |
 | Liverpool Riverside | Kim Johnson MP | 2659 |
 | Liverpool Walton | Dan Carden MP | 3383 |
 | Liverpool Wavertree | Paula Barker MP | 2240 |
@@ -526,7 +526,7 @@
 | West Suffolk | Nick Timothy MP | 6062 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6278 |
 | Westmorland and Lonsdale | Tim Farron MP | 5208 |
-| Weston-super-Mare | Dan Aldridge MP | 5102 |
+| Weston-super-Mare | Dan Aldridge MP | 5103 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6597 |
 | Whitehaven and Workington | Josh MacAlister MP | 5899 |
 | Widnes and Halewood | Derek Twigg MP | 4263 |
@@ -639,7 +639,7 @@
 | Cardiff South and Penarth | Stephen Doughty MP | 2810 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3164 |
 | Ceredigion Preseli | Ben Lake MP | 4757 |
-| Clwyd East | Becky Gittins MP | 6063 |
+| Clwyd East | Becky Gittins MP | 6064 |
 | Clwyd North | Gill German MP | 5504 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4250 |
 | Gower | Tonia Antoniazzi MP | 4780 |
@@ -651,7 +651,7 @@
 | Neath and Swansea East | Carolyn Harris MP | 4477 |
 | Newport East | Jessica Morden MP | 4037 |
 | Newport West and Islwyn | Ruth Jones MP | 4090 |
-| Pontypridd | Alex Davies-Jones MP | 3932 |
+| Pontypridd | Alex Davies-Jones MP | 3933 |
 | Rhondda and Ogmore | Chris Bryant MP | 4065 |
 | Swansea West | Torsten Bell MP | 3678 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4099 |
