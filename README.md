@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3004898                                |
-| Last Updated      | 2025-04-04 02:58:41 UTC                                    |
+| Total Signatures   | 3004899                                |
+| Last Updated      | 2025-04-04 03:35:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -40,7 +40,7 @@
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2969 |
 | Birmingham Erdington | Paulette Hamilton MP | 4269 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1587 |
-| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3512 |
+| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3513 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1913 |
 | Birmingham Northfield | Laurence Turner MP | 4922 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1735 |
