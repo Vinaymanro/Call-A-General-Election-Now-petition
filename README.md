@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3005571                                |
-| Last Updated      | 2025-04-05 02:56:31 UTC                                    |
+| Total Signatures   | 3005572                                |
+| Last Updated      | 2025-04-05 03:31:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -226,7 +226,7 @@
 | Hemel Hempstead | David Taylor MP | 5098 |
 | Hendon | David Pinto-Duschinsky MP | 3813 |
 | Henley and Thame | Freddie van Mierlo MP | 5418 |
-| Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5292 |
+| Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5293 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6326 |
 | Hertford and Stortford | Josh Dean MP | 5996 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5760 |
