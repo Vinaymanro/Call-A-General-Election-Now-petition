@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3005572                                |
-| Last Updated      | 2025-04-05 03:31:36 UTC                                    |
+| Total Signatures   | 3005577                                |
+| Last Updated      | 2025-04-05 04:21:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1109 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5352 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6038 |
-| East Thanet | Ms Polly Billington MP | 5505 |
+| East Thanet | Ms Polly Billington MP | 5506 |
 | East Wiltshire | Danny Kruger MP | 6085 |
 | East Worthing and Shoreham | Tom Rutland MP | 4619 |
 | Eastbourne | Josh Babarinde MP | 5055 |
@@ -198,7 +198,7 @@
 | Goole and Pocklington | Rt Hon David Davis MP | 6989 |
 | Gorton and Denton | Andrew Gwynne MP | 3300 |
 | Gosport | Dame Caroline Dinenage MP | 5496 |
-| Grantham and Bourne | Gareth Davies MP | 6348 |
+| Grantham and Bourne | Gareth Davies MP | 6349 |
 | Gravesham | Dr Lauren Sullivan MP | 5171 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5835 |
 | Great Yarmouth | Rupert Lowe MP | 6611 |
@@ -212,7 +212,7 @@
 | Hammersmith and Chiswick | Andy Slaughter MP | 3202 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2980 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4725 |
-| Harlow | Chris Vince MP | 6084 |
+| Harlow | Chris Vince MP | 6085 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4549 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5130 |
 | Harrow East | Bob Blackman MP | 3140 |
@@ -304,7 +304,7 @@
 | Melksham and Devizes | Brian Mathew MP | 5028 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6128 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6113 |
-| Mid Bedfordshire | Blake Stephenson MP | 5859 |
+| Mid Bedfordshire | Blake Stephenson MP | 5860 |
 | Mid Buckinghamshire | Greg Smith MP | 5613 |
 | Mid Cheshire | Andrew Cooper MP | 5194 |
 | Mid Derbyshire | Jonathan Davies MP | 5257 |
@@ -597,7 +597,7 @@
 | Edinburgh South | Rt Hon Ian Murray MP | 2061 |
 | Edinburgh South West | Dr Scott Arthur MP | 2264 |
 | Edinburgh West | Christine Jardine MP | 2725 |
-| Falkirk | Euan Stainbank MP | 3452 |
+| Falkirk | Euan Stainbank MP | 3453 |
 | Glasgow East | John Grady MP | 2353 |
 | Glasgow North | Martin Rhodes MP | 2064 |
 | Glasgow North East | Maureen Burke MP | 2506 |
