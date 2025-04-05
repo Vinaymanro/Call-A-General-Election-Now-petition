@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3005577                                |
-| Last Updated      | 2025-04-05 04:21:10 UTC                                    |
+| Total Signatures   | 3005582                                |
+| Last Updated      | 2025-04-05 05:18:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 4998 |
 | Bury South | Christian Wakeford MP | 5439 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5460 |
-| Calder Valley | Josh Fenton-Glynn MP | 5674 |
+| Calder Valley | Josh Fenton-Glynn MP | 5675 |
 | Camborne and Redruth | Perran Moon MP | 4985 |
 | Cambridge | Daniel Zeichner MP | 2227 |
 | Cannock Chase | Josh Newbury MP | 6916 |
@@ -214,7 +214,7 @@
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4725 |
 | Harlow | Chris Vince MP | 6085 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4549 |
-| Harrogate and Knaresborough | Tom Gordon MP | 5130 |
+| Harrogate and Knaresborough | Tom Gordon MP | 5131 |
 | Harrow East | Bob Blackman MP | 3140 |
 | Harrow West | Gareth Thomas MP | 2409 |
 | Hartlepool | Mr Jonathan Brash MP | 5679 |
@@ -401,7 +401,7 @@
 | Rugby | John Slinger MP | 5437 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4110 |
 | Runcorn and Helsby | null | 5053 |
-| Runnymede and Weybridge | Dr Ben Spencer MP | 5850 |
+| Runnymede and Weybridge | Dr Ben Spencer MP | 5852 |
 | Rushcliffe | James Naish MP | 5088 |
 | Rutland and Stamford | Alicia Kearns MP | 6277 |
 | Salford | Rebecca Long Bailey MP | 4681 |
@@ -636,7 +636,7 @@
 | Caerphilly | Chris Evans MP | 4020 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2918 |
 | Cardiff North | Anna McMorrin MP | 3307 |
-| Cardiff South and Penarth | Stephen Doughty MP | 2811 |
+| Cardiff South and Penarth | Stephen Doughty MP | 2812 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3164 |
 | Ceredigion Preseli | Ben Lake MP | 4759 |
 | Clwyd East | Becky Gittins MP | 6067 |
