@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3006194                                |
-| Last Updated      | 2025-04-06 04:22:07 UTC                                    |
+| Total Signatures   | 3006200                                |
+| Last Updated      | 2025-04-06 05:16:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -13,7 +13,7 @@
 | Altrincham and Sale West | Mr Connor Rand MP | 5513 |
 | Amber Valley | Linsey Farnsworth MP | 6112 |
 | Arundel and South Downs | Andrew Griffith MP | 6969 |
-| Ashfield | Lee Anderson MP | 6188 |
+| Ashfield | Lee Anderson MP | 6189 |
 | Ashford | Sojan Joseph MP | 5913 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4625 |
 | Aylesbury | Laura Kyrke-Smith MP | 4881 |
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4688 |
 | Birkenhead | Alison McGovern MP | 4358 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2971 |
-| Birmingham Erdington | Paulette Hamilton MP | 4271 |
+| Birmingham Erdington | Paulette Hamilton MP | 4272 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1587 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3515 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1915 |
@@ -99,7 +99,7 @@
 | Canterbury | Rosie Duffield MP | 4482 |
 | Carlisle | Ms Julie Minns MP | 6564 |
 | Carshalton and Wallington | Bobby Dean MP | 4284 |
-| Castle Point | Rebecca Harris MP | 7550 |
+| Castle Point | Rebecca Harris MP | 7551 |
 | Central Devon | Rt Hon Mel Stride MP | 5819 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5317 |
 | Chatham and Aylesford | Tristan Osborne MP | 5662 |
@@ -269,12 +269,12 @@
 | Leeds North East | Fabian Hamilton MP | 2651 |
 | Leeds North West | Katie White MP | 4410 |
 | Leeds South | Rt Hon Hilary Benn MP | 3899 |
-| Leeds South West and Morley | Mark Sewards MP | 5531 |
+| Leeds South West and Morley | Mark Sewards MP | 5532 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3807 |
 | Leicester East | Shivani Raja MP | 1892 |
 | Leicester South | Shockat Adam MP | 1866 |
 | Leicester West | Rt Hon Liz Kendall MP | 3495 |
-| Leigh and Atherton | Jo Platt MP | 6108 |
+| Leigh and Atherton | Jo Platt MP | 6109 |
 | Lewes | James MacCleary MP | 4912 |
 | Lewisham East | Janet Daby MP | 2159 |
 | Lewisham North | Vicky Foxcroft MP | 1661 |
@@ -341,7 +341,7 @@
 | North East Hertfordshire | Chris Hinchliff MP | 5865 |
 | North East Somerset and Hanham | Dan Norris MP | 5067 |
 | North Herefordshire | Ellie Chowns MP | 6484 |
-| North Norfolk | Steff Aquarone MP | 5453 |
+| North Norfolk | Steff Aquarone MP | 5454 |
 | North Northumberland | David Smith MP | 6459 |
 | North Shropshire | Helen Morgan MP | 6902 |
 | North Somerset | Sadik Al-Hassan MP | 4597 |
