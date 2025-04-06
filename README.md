@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3006179                                |
-| Last Updated      | 2025-04-06 01:36:41 UTC                                    |
+| Total Signatures   | 3006185                                |
+| Last Updated      | 2025-04-06 03:03:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -47,7 +47,7 @@
 | Birmingham Selly Oak | Al Carns MP | 3312 |
 | Birmingham Yardley | Jess Phillips MP | 3111 |
 | Bishop Auckland | Sam Rushworth MP | 6190 |
-| Blackburn | Mr Adnan Hussain MP | 3158 |
+| Blackburn | Mr Adnan Hussain MP | 3159 |
 | Blackley and Middleton South | Graham Stringer MP | 3798 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6192 |
 | Blackpool South | Chris Webb MP | 5851 |
@@ -130,7 +130,7 @@
 | Coventry South | Zarah Sultana MP | 3534 |
 | Cramlington and Killingworth | Emma Foody MP | 5832 |
 | Crawley | Peter Lamb MP | 4738 |
-| Crewe and Nantwich | Connor Naismith MP | 5710 |
+| Crewe and Nantwich | Connor Naismith MP | 5711 |
 | Croydon East | Natasha Irons MP | 3345 |
 | Croydon South | Rt Hon Chris Philp MP | 3964 |
 | Croydon West | Sarah Jones MP | 1757 |
@@ -242,7 +242,7 @@
 | Horsham | John Milne MP | 5847 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6352 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3346 |
-| Huddersfield | Harpreet Uppal MP | 3702 |
+| Huddersfield | Harpreet Uppal MP | 3703 |
 | Huntingdon | Ben Obese-Jecty MP | 5574 |
 | Hyndburn | Sarah Smith MP | 5035 |
 | Ilford North | Rt Hon Wes Streeting MP | 2634 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5883 |
 | North Dorset | Simon Hoare MP | 6330 |
 | North Durham | Luke Akehurst MP | 5414 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6100 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6101 |
 | North East Derbyshire | Louise Jones MP | 5819 |
 | North East Hampshire | Alex Brewer MP | 5972 |
 | North East Hertfordshire | Chris Hinchliff MP | 5865 |
@@ -639,7 +639,7 @@
 | Cardiff South and Penarth | Stephen Doughty MP | 2812 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3164 |
 | Ceredigion Preseli | Ben Lake MP | 4760 |
-| Clwyd East | Becky Gittins MP | 6067 |
+| Clwyd East | Becky Gittins MP | 6068 |
 | Clwyd North | Gill German MP | 5507 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4252 |
 | Gower | Tonia Antoniazzi MP | 4782 |
@@ -651,7 +651,7 @@
 | Neath and Swansea East | Carolyn Harris MP | 4480 |
 | Newport East | Jessica Morden MP | 4039 |
 | Newport West and Islwyn | Ruth Jones MP | 4097 |
-| Pontypridd | Alex Davies-Jones MP | 3934 |
+| Pontypridd | Alex Davies-Jones MP | 3935 |
 | Rhondda and Ogmore | Chris Bryant MP | 4067 |
 | Swansea West | Torsten Bell MP | 3680 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4099 |
