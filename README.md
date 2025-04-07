@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3006752                                |
-| Last Updated      | 2025-04-07 03:03:21 UTC                                    |
+| Total Signatures   | 3006758                                |
+| Last Updated      | 2025-04-07 04:22:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -56,7 +56,7 @@
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6162 |
 | Bolsover | Natalie Fleet MP | 6562 |
 | Bolton North East | Kirith Entwistle MP | 5632 |
-| Bolton South and Walkden | Yasmin Qureshi MP | 4450 |
+| Bolton South and Walkden | Yasmin Qureshi MP | 4451 |
 | Bolton West | Phil Brickell MP | 5598 |
 | Bootle | Peter Dowd MP | 3175 |
 | Boston and Skegness | Richard Tice MP | 7109 |
@@ -81,7 +81,7 @@
 | Bristol North East | Damien Egan MP | 3102 |
 | Bristol North West | Rt Hon Darren Jones MP | 3231 |
 | Bristol South | Karin Smyth MP | 3995 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5849 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5850 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5262 |
 | Bromsgrove | Bradley Thomas MP | 6500 |
 | Broxbourne | Lewis Cocking MP | 6099 |
@@ -256,7 +256,7 @@
 | Keighley and Ilkley | Robbie Moore MP | 4716 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6118 |
 | Kensington and Bayswater | Joe Powell MP | 4415 |
-| Kettering | Rosie Wrighting MP | 5935 |
+| Kettering | Rosie Wrighting MP | 5936 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3768 |
 | Kingston upon Hull East | Karl Turner MP | 5036 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4669 |
@@ -302,7 +302,7 @@
 | Manchester Withington | Jeff Smith MP | 1682 |
 | Mansfield | Steve Yemm MP | 6227 |
 | Melksham and Devizes | Brian Mathew MP | 5031 |
-| Melton and Syston | Rt Hon Edward Argar MP | 6129 |
+| Melton and Syston | Rt Hon Edward Argar MP | 6130 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6114 |
 | Mid Bedfordshire | Blake Stephenson MP | 5860 |
 | Mid Buckinghamshire | Greg Smith MP | 5613 |
@@ -314,7 +314,7 @@
 | Mid Sussex | Alison Bennett MP | 4719 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4250 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5740 |
-| Milton Keynes Central | Emily Darlington MP | 4958 |
+| Milton Keynes Central | Emily Darlington MP | 4959 |
 | Milton Keynes North | Chris Curtis MP | 4588 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2680 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5790 |
@@ -348,7 +348,7 @@
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6298 |
 | North West Cambridgeshire | Sam Carling MP | 6037 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7153 |
-| North West Hampshire | Rt Hon Kit Malthouse MP | 5745 |
+| North West Hampshire | Rt Hon Kit Malthouse MP | 5746 |
 | North West Leicestershire | Amanda Hack MP | 6724 |
 | North West Norfolk | James Wild MP | 5780 |
 | Northampton North | Lucy Rigby KC MP | 4306 |
