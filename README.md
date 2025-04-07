@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3006758                                |
-| Last Updated      | 2025-04-07 04:22:25 UTC                                    |
+| Total Signatures   | 3006761                                |
+| Last Updated      | 2025-04-07 05:19:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6306 |
 | Mid Sussex | Alison Bennett MP | 4719 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4250 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5740 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5741 |
 | Milton Keynes Central | Emily Darlington MP | 4959 |
 | Milton Keynes North | Chris Curtis MP | 4588 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2680 |
@@ -352,7 +352,7 @@
 | North West Leicestershire | Amanda Hack MP | 6724 |
 | North West Norfolk | James Wild MP | 5780 |
 | Northampton North | Lucy Rigby KC MP | 4306 |
-| Northampton South | Mike Reader MP | 4983 |
+| Northampton South | Mike Reader MP | 4984 |
 | Norwich North | Alice Macdonald MP | 4433 |
 | Norwich South | Clive Lewis MP | 3410 |
 | Nottingham East | Nadia Whittome MP | 2494 |
@@ -463,7 +463,7 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5372 |
 | Stevenage | Kevin Bonavia MP | 4764 |
 | Stockport | Navendu Mishra MP | 3939 |
-| Stockton North | Chris McDonald MP | 4854 |
+| Stockton North | Chris McDonald MP | 4855 |
 | Stockton West | Matt Vickers MP | 6011 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4773 |
 | Stoke-on-Trent North | David Williams MP | 5486 |
