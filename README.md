@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3006745                                |
-| Last Updated      | 2025-04-07 01:26:53 UTC                                    |
+| Total Signatures   | 3006752                                |
+| Last Updated      | 2025-04-07 03:03:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -47,7 +47,7 @@
 | Birmingham Selly Oak | Al Carns MP | 3313 |
 | Birmingham Yardley | Jess Phillips MP | 3112 |
 | Bishop Auckland | Sam Rushworth MP | 6191 |
-| Blackburn | Mr Adnan Hussain MP | 3159 |
+| Blackburn | Mr Adnan Hussain MP | 3160 |
 | Blackley and Middleton South | Graham Stringer MP | 3799 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6194 |
 | Blackpool South | Chris Webb MP | 5851 |
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5484 |
 | Dartford | Jim Dickson MP | 5752 |
 | Daventry | Rt Hon Stuart Andrew MP | 7296 |
-| Derby North | Catherine Atkinson MP | 4344 |
+| Derby North | Catherine Atkinson MP | 4345 |
 | Derby South | Baggy Shanker MP | 3643 |
 | Derbyshire Dales | John Whitby MP | 6799 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3198 |
@@ -262,7 +262,7 @@
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4669 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5522 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6419 |
-| Knowsley | Anneliese Midgley MP | 3299 |
+| Knowsley | Anneliese Midgley MP | 3300 |
 | Lancaster and Wyre | Cat Smith MP | 5104 |
 | Leeds Central and Headingley | Alex Sobel MP | 1944 |
 | Leeds East | Richard Burgon MP | 4329 |
@@ -300,7 +300,7 @@
 | Manchester Central | Rt Hon Lucy Powell MP | 4013 |
 | Manchester Rusholme | Afzal Khan MP | 1228 |
 | Manchester Withington | Jeff Smith MP | 1682 |
-| Mansfield | Steve Yemm MP | 6226 |
+| Mansfield | Steve Yemm MP | 6227 |
 | Melksham and Devizes | Brian Mathew MP | 5031 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6129 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6114 |
@@ -397,7 +397,7 @@
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5086 |
 | Rossendale and Darwen | Andy MacNae MP | 6517 |
 | Rother Valley | Jake Richards MP | 5894 |
-| Rotherham | Sarah Champion MP | 4971 |
+| Rotherham | Sarah Champion MP | 4972 |
 | Rugby | John Slinger MP | 5437 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4112 |
 | Runcorn and Helsby | null | 5058 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5108 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6601 |
 | Whitehaven and Workington | Josh MacAlister MP | 5900 |
-| Widnes and Halewood | Derek Twigg MP | 4267 |
+| Widnes and Halewood | Derek Twigg MP | 4268 |
 | Wigan | Rt Hon Lisa Nandy MP | 5986 |
 | Wimbledon | Mr Paul Kohler MP | 3420 |
 | Winchester | Dr Danny Chambers MP | 4937 |
@@ -566,7 +566,7 @@
 | North Down | Alex Easton MP | 3376 |
 | South Antrim | Robin Swann MP | 3104 |
 | South Down | Chris Hazzard MP | 1848 |
-| Strangford | Jim Shannon MP | 3473 |
+| Strangford | Jim Shannon MP | 3474 |
 | Upper Bann | Carla Lockhart MP | 3087 |
 | West Tyrone | Órfhlaith Begley MP | 1674 |
 | East Renfrewshire | Blair McDougall MP | 2606 |
