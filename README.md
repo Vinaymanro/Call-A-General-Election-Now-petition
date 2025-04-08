@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3007194                                |
-| Last Updated      | 2025-04-08 03:36:04 UTC                                    |
+| Total Signatures   | 3007197                                |
+| Last Updated      | 2025-04-08 04:21:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -149,7 +149,7 @@
 | Dorking and Horley | Chris Coghlan MP | 5569 |
 | Dover and Deal | Mike Tapp MP | 5964 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6584 |
-| Dudley | Sonia Kumar MP | 5418 |
+| Dudley | Sonia Kumar MP | 5419 |
 | Dulwich and West Norwood | Helen Hayes MP | 1564 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5543 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3108 |
@@ -285,7 +285,7 @@
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3160 |
 | Liverpool Riverside | Kim Johnson MP | 2664 |
 | Liverpool Walton | Dan Carden MP | 3385 |
-| Liverpool Wavertree | Paula Barker MP | 2240 |
+| Liverpool Wavertree | Paula Barker MP | 2241 |
 | Liverpool West Derby | Ian Byrne MP | 3085 |
 | Loughborough | Dr Jeevun Sandher MP | 4497 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7816 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5619 |
 | Mid Norfolk | George Freeman MP | 6309 |
 | Mid Sussex | Alison Bennett MP | 4719 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4250 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4251 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5741 |
 | Milton Keynes Central | Emily Darlington MP | 4959 |
 | Milton Keynes North | Chris Curtis MP | 4588 |
