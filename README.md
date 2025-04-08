@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3007197                                |
-| Last Updated      | 2025-04-08 04:21:59 UTC                                    |
+| Total Signatures   | 3007198                                |
+| Last Updated      | 2025-04-08 05:17:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -243,7 +243,7 @@
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6353 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3346 |
 | Huddersfield | Harpreet Uppal MP | 3706 |
-| Huntingdon | Ben Obese-Jecty MP | 5576 |
+| Huntingdon | Ben Obese-Jecty MP | 5577 |
 | Hyndburn | Sarah Smith MP | 5036 |
 | Ilford North | Rt Hon Wes Streeting MP | 2634 |
 | Ilford South | Jas Athwal MP | 1603 |
