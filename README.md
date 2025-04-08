@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3007192                                |
-| Last Updated      | 2025-04-08 01:24:41 UTC                                    |
+| Total Signatures   | 3007194                                |
+| Last Updated      | 2025-04-08 02:59:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -593,7 +593,7 @@
 | Dunfermline and Dollar | Graeme Downie MP | 2945 |
 | East Kilbride and Strathaven | Joani Reid MP | 3171 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2105 |
-| Edinburgh North and Leith | Tracy Gilbert MP | 2420 |
+| Edinburgh North and Leith | Tracy Gilbert MP | 2421 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2062 |
 | Edinburgh South West | Dr Scott Arthur MP | 2269 |
 | Edinburgh West | Christine Jardine MP | 2727 |
@@ -648,7 +648,7 @@
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5513 |
 | Monmouthshire | Catherine Fookes MP | 4761 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6067 |
-| Neath and Swansea East | Carolyn Harris MP | 4480 |
+| Neath and Swansea East | Carolyn Harris MP | 4481 |
 | Newport East | Jessica Morden MP | 4040 |
 | Newport West and Islwyn | Ruth Jones MP | 4097 |
 | Pontypridd | Alex Davies-Jones MP | 3938 |
