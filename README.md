@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3007721                                |
-| Last Updated      | 2025-04-09 01:25:12 UTC                                    |
+| Total Signatures   | 3007723                                |
+| Last Updated      | 2025-04-09 03:00:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -289,8 +289,8 @@
 | Liverpool West Derby | Ian Byrne MP | 3086 |
 | Loughborough | Dr Jeevun Sandher MP | 4498 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7817 |
-| Lowestoft | Jess Asato MP | 5361 |
-| Luton North | Sarah Owen MP | 2490 |
+| Lowestoft | Jess Asato MP | 5362 |
+| Luton North | Sarah Owen MP | 2491 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2962 |
 | Macclesfield | Tim Roca MP | 5414 |
 | Maidenhead | Mr Joshua Reynolds MP | 5295 |
