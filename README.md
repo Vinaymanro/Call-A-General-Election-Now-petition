@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3007723                                |
-| Last Updated      | 2025-04-09 03:00:40 UTC                                    |
+| Total Signatures   | 3007726                                |
+| Last Updated      | 2025-04-09 04:22:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -182,7 +182,7 @@
 | Farnham and Bordon | Gregory Stafford MP | 5201 |
 | Faversham and Mid Kent | Helen Whately MP | 6251 |
 | Feltham and Heston | Seema Malhotra MP | 2939 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4528 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4529 |
 | Finchley and Golders Green | Sarah Sackman MP | 4288 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5416 |
 | Forest of Dean | Matt Bishop MP | 5294 |
@@ -284,7 +284,7 @@
 | Lincoln | Mr Hamish Falconer MP | 4672 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3163 |
 | Liverpool Riverside | Kim Johnson MP | 2664 |
-| Liverpool Walton | Dan Carden MP | 3386 |
+| Liverpool Walton | Dan Carden MP | 3387 |
 | Liverpool Wavertree | Paula Barker MP | 2241 |
 | Liverpool West Derby | Ian Byrne MP | 3086 |
 | Loughborough | Dr Jeevun Sandher MP | 4498 |
@@ -625,7 +625,7 @@
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4046 |
 | Central Ayrshire | Alan Gemmell MP | 3156 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3278 |
-| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4571 |
+| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4572 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3728 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5781 |
 | Bangor Aberconwy | Claire Hughes MP | 4534 |
