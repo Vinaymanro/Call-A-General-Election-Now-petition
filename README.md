@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3008530                                |
-| Last Updated      | 2025-04-10 01:24:44 UTC                                    |
+| Total Signatures   | 3008537                                |
+| Last Updated      | 2025-04-10 02:59:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1755 |
 | Colchester | Pam Cox MP | 5029 |
 | Colne Valley | Paul Davies MP | 5060 |
-| Congleton | Mrs Sarah Russell MP | 6004 |
+| Congleton | Mrs Sarah Russell MP | 6005 |
 | Corby and East Northamptonshire | Lee Barron MP | 6031 |
 | Coventry East | Mary Creagh MP | 3619 |
 | Coventry North West | Taiwo Owatemi MP | 4281 |
@@ -166,7 +166,7 @@
 | East Worthing and Shoreham | Tom Rutland MP | 4626 |
 | Eastbourne | Josh Babarinde MP | 5059 |
 | Eastleigh | Liz Jarvis MP | 4346 |
-| Edmonton and Winchmore Hill | Kate Osamor MP | 2239 |
+| Edmonton and Winchmore Hill | Kate Osamor MP | 2240 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4481 |
 | Eltham and Chislehurst | Clive Efford MP | 4726 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5190 |
@@ -271,7 +271,7 @@
 | Leeds South | Rt Hon Hilary Benn MP | 3903 |
 | Leeds South West and Morley | Mark Sewards MP | 5537 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3809 |
-| Leicester East | Shivani Raja MP | 1898 |
+| Leicester East | Shivani Raja MP | 1899 |
 | Leicester South | Shockat Adam MP | 1869 |
 | Leicester West | Rt Hon Liz Kendall MP | 3498 |
 | Leigh and Atherton | Jo Platt MP | 6114 |
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 4051 |
 | Selby | Keir Mather MP | 6397 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6681 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3466 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3467 |
 | Sheffield Central | Abtisam Mohamed MP | 1442 |
 | Sheffield Hallam | Olivia Blake MP | 3391 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3567 |
@@ -438,7 +438,7 @@
 | South Northamptonshire | Sarah Bool MP | 6690 |
 | South Ribble | Mr Paul Foster MP | 5917 |
 | South Shields | Emma Lewell MP | 4751 |
-| South Shropshire | Stuart Anderson MP | 7341 |
+| South Shropshire | Stuart Anderson MP | 7342 |
 | South Suffolk | James Cartlidge MP | 6168 |
 | South West Devon | Rebecca Smith MP | 5995 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5222 |
@@ -449,7 +449,7 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5616 |
 | Southend West and Leigh | David Burton-Sampson MP | 5899 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2607 |
-| Southport | Patrick Hurley MP | 6004 |
+| Southport | Patrick Hurley MP | 6005 |
 | Spelthorne | Lincoln Jopp MP | 5488 |
 | Spen Valley | Kim Leadbeater MP | 5403 |
 | St Albans | Daisy Cooper MP | 3885 |
@@ -575,7 +575,7 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3316 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1446 |
 | Aberdeen North | Kirsty Blackman MP | 3566 |
-| Aberdeen South | Rt Hon Stephen Flynn MP | 3861 |
+| Aberdeen South | Rt Hon Stephen Flynn MP | 3862 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4689 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2844 |
 | Alloa and Grangemouth | Brian Leishman MP | 3036 |
