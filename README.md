@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3008544                                |
-| Last Updated      | 2025-04-10 04:22:24 UTC                                    |
+| Total Signatures   | 3008549                                |
+| Last Updated      | 2025-04-10 05:18:16 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6105 |
 | Broxtowe | Juliet Campbell MP | 4729 |
 | Buckingham and Bletchley | Callum Anderson MP | 5274 |
-| Burnley | Oliver Ryan MP | 5750 |
+| Burnley | Oliver Ryan MP | 5751 |
 | Burton and Uttoxeter | Jacob Collier MP | 5835 |
 | Bury North | Mr James Frith MP | 5001 |
 | Bury South | Christian Wakeford MP | 5450 |
@@ -223,7 +223,7 @@
 | Havant | Alan Mak MP | 5704 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2614 |
 | Hazel Grove | Lisa Smart MP | 5125 |
-| Hemel Hempstead | David Taylor MP | 5100 |
+| Hemel Hempstead | David Taylor MP | 5101 |
 | Hendon | David Pinto-Duschinsky MP | 3813 |
 | Henley and Thame | Freddie van Mierlo MP | 5420 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5296 |
@@ -438,7 +438,7 @@
 | South Northamptonshire | Sarah Bool MP | 6690 |
 | South Ribble | Mr Paul Foster MP | 5917 |
 | South Shields | Emma Lewell MP | 4751 |
-| South Shropshire | Stuart Anderson MP | 7342 |
+| South Shropshire | Stuart Anderson MP | 7343 |
 | South Suffolk | James Cartlidge MP | 6168 |
 | South West Devon | Rebecca Smith MP | 5995 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5222 |
@@ -473,7 +473,7 @@
 | Stratford and Bow | Uma Kumaran MP | 1783 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6730 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1875 |
-| Stretford and Urmston | Andrew Western MP | 3849 |
+| Stretford and Urmston | Andrew Western MP | 3850 |
 | Stroud | Dr Simon Opher MP | 4552 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5414 |
 | Sunderland Central | Lewis Atkinson MP | 5272 |
@@ -543,7 +543,7 @@
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4350 |
 | Wolverhampton West | Warinder Juss | 3845 |
 | Worcester | Tom Collins MP | 4348 |
-| Worsley and Eccles | Michael Wheeler MP | 5481 |
+| Worsley and Eccles | Michael Wheeler MP | 5482 |
 | Worthing West | Dr Beccy Cooper MP | 5271 |
 | Wycombe | Emma Reynolds MP | 3630 |
 | Wyre Forest | Mark Garnier MP | 6521 |
