@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3008537                                |
-| Last Updated      | 2025-04-10 02:59:59 UTC                                    |
+| Total Signatures   | 3008539                                |
+| Last Updated      | 2025-04-10 03:37:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -218,7 +218,7 @@
 | Harrow East | Bob Blackman MP | 3140 |
 | Harrow West | Gareth Thomas MP | 2414 |
 | Hartlepool | Mr Jonathan Brash MP | 5684 |
-| Harwich and North Essex | Sir Bernard Jenkin MP | 6303 |
+| Harwich and North Essex | Sir Bernard Jenkin MP | 6304 |
 | Hastings and Rye | Helena Dollimore MP | 5097 |
 | Havant | Alan Mak MP | 5704 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2614 |
@@ -580,7 +580,7 @@
 | Airdrie and Shotts | Kenneth Stevenson MP | 2844 |
 | Alloa and Grangemouth | Brian Leishman MP | 3036 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4072 |
-| Arbroath and Broughty Ferry | Stephen Gethins MP | 3490 |
+| Arbroath and Broughty Ferry | Stephen Gethins MP | 3491 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3434 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3042 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4095 |
