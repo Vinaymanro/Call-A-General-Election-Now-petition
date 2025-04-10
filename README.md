@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3008539                                |
-| Last Updated      | 2025-04-10 03:37:29 UTC                                    |
+| Total Signatures   | 3008544                                |
+| Last Updated      | 2025-04-10 04:22:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -98,7 +98,7 @@
 | Cannock Chase | Josh Newbury MP | 6927 |
 | Canterbury | Rosie Duffield MP | 4485 |
 | Carlisle | Ms Julie Minns MP | 6570 |
-| Carshalton and Wallington | Bobby Dean MP | 4285 |
+| Carshalton and Wallington | Bobby Dean MP | 4286 |
 | Castle Point | Rebecca Harris MP | 7555 |
 | Central Devon | Rt Hon Mel Stride MP | 5825 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5321 |
@@ -363,7 +363,7 @@
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5265 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4120 |
 | Orpington | Gareth Bacon MP | 5332 |
-| Ossett and Denby Dale | Jade Botterill MP | 5827 |
+| Ossett and Denby Dale | Jade Botterill MP | 5828 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2162 |
 | Oxford West and Abingdon | Layla Moran MP | 2941 |
 | Peckham | Miatta Fahnbulleh MP | 1368 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4858 |
 | Stockton West | Matt Vickers MP | 6013 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4781 |
-| Stoke-on-Trent North | David Williams MP | 5489 |
+| Stoke-on-Trent North | David Williams MP | 5490 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5750 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6562 |
 | Stourbridge | Cat Eccles MP | 5172 |
@@ -602,7 +602,7 @@
 | Glasgow North | Martin Rhodes MP | 2066 |
 | Glasgow North East | Maureen Burke MP | 2510 |
 | Glasgow South | Gordon McKee MP | 1862 |
-| Glasgow South West | Dr Zubir Ahmed MP | 2277 |
+| Glasgow South West | Dr Zubir Ahmed MP | 2278 |
 | Glasgow West | Patricia Ferguson MP | 2243 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2997 |
 | Gordon and Buchan | Harriet Cross MP | 4408 |
@@ -657,4 +657,4 @@
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4111 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4649 |
 | Wrexham | Andrew Ranger MP | 4830 |
-| Ynys Môn | Llinos Medi MP | 3745 |
+| Ynys Môn | Llinos Medi MP | 3746 |
