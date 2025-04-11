@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009180                                |
-| Last Updated      | 2025-04-11 08:25:02 UTC                                    |
+| Total Signatures   | 3009187                                |
+| Last Updated      | 2025-04-11 09:19:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -63,7 +63,7 @@
 | Bournemouth East | Tom Hayes MP | 4686 |
 | Bournemouth West | Jessica Toale MP | 4941 |
 | Bracknell | Peter Swallow MP | 4994 |
-| Bradford East | Imran Hussain MP | 2921 |
+| Bradford East | Imran Hussain MP | 2922 |
 | Bradford South | Judith Cummins MP | 4222 |
 | Bradford West | Naz Shah MP | 1849 |
 | Braintree | Rt Hon James Cleverly MP | 7472 |
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1113 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5356 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6043 |
-| East Thanet | Ms Polly Billington MP | 5516 |
+| East Thanet | Ms Polly Billington MP | 5517 |
 | East Wiltshire | Danny Kruger MP | 6093 |
 | East Worthing and Shoreham | Tom Rutland MP | 4626 |
 | Eastbourne | Josh Babarinde MP | 5059 |
@@ -243,7 +243,7 @@
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6362 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3349 |
 | Huddersfield | Harpreet Uppal MP | 3710 |
-| Huntingdon | Ben Obese-Jecty MP | 5578 |
+| Huntingdon | Ben Obese-Jecty MP | 5579 |
 | Hyndburn | Sarah Smith MP | 5036 |
 | Ilford North | Rt Hon Wes Streeting MP | 2634 |
 | Ilford South | Jas Athwal MP | 1605 |
@@ -270,7 +270,7 @@
 | Leeds North West | Katie White MP | 4412 |
 | Leeds South | Rt Hon Hilary Benn MP | 3905 |
 | Leeds South West and Morley | Mark Sewards MP | 5539 |
-| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3810 |
+| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3811 |
 | Leicester East | Shivani Raja MP | 1899 |
 | Leicester South | Shockat Adam MP | 1869 |
 | Leicester West | Rt Hon Liz Kendall MP | 3498 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6909 |
 | North Somerset | Sadik Al-Hassan MP | 4602 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6302 |
-| North West Cambridgeshire | Sam Carling MP | 6038 |
+| North West Cambridgeshire | Sam Carling MP | 6039 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7156 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5748 |
 | North West Leicestershire | Amanda Hack MP | 6730 |
@@ -434,7 +434,7 @@
 | South East Cornwall | Anna Gelderd MP | 6268 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7163 |
 | South Leicestershire | Alberto Costa MP | 7018 |
-| South Norfolk | Ben Goldsborough MP | 5457 |
+| South Norfolk | Ben Goldsborough MP | 5458 |
 | South Northamptonshire | Sarah Bool MP | 6690 |
 | South Ribble | Mr Paul Foster MP | 5918 |
 | South Shields | Emma Lewell MP | 4753 |
@@ -487,7 +487,7 @@
 | Tatton | Rt Hon Esther McVey MP | 6513 |
 | Taunton and Wellington | Gideon Amos MP | 5201 |
 | Telford | Shaun Davies MP | 5637 |
-| Tewkesbury | Cameron Thomas MP | 5029 |
+| Tewkesbury | Cameron Thomas MP | 5030 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6431 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7458 |
 | Thornbury and Yate | Claire Young MP | 5720 |
