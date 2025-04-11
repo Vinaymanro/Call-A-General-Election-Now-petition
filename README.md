@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009355                                |
-| Last Updated      | 2025-04-11 20:19:54 UTC                                    |
+| Total Signatures   | 3009364                                |
+| Last Updated      | 2025-04-11 21:16:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -218,7 +218,7 @@
 | Harrow East | Bob Blackman MP | 3142 |
 | Harrow West | Gareth Thomas MP | 2415 |
 | Hartlepool | Mr Jonathan Brash MP | 5688 |
-| Harwich and North Essex | Sir Bernard Jenkin MP | 6305 |
+| Harwich and North Essex | Sir Bernard Jenkin MP | 6306 |
 | Hastings and Rye | Helena Dollimore MP | 5097 |
 | Havant | Alan Mak MP | 5706 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2614 |
@@ -352,7 +352,7 @@
 | North West Leicestershire | Amanda Hack MP | 6730 |
 | North West Norfolk | James Wild MP | 5785 |
 | Northampton North | Lucy Rigby KC MP | 4307 |
-| Northampton South | Mike Reader MP | 4985 |
+| Northampton South | Mike Reader MP | 4986 |
 | Norwich North | Alice Macdonald MP | 4438 |
 | Norwich South | Clive Lewis MP | 3415 |
 | Nottingham East | Nadia Whittome MP | 2496 |
@@ -360,7 +360,7 @@
 | Nottingham South | Lilian Greenwood MP | 3079 |
 | Nuneaton | Jodie Gosling MP | 5590 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6236 |
-| Oldham East and Saddleworth | Debbie Abrahams MP | 5269 |
+| Oldham East and Saddleworth | Debbie Abrahams MP | 5270 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4120 |
 | Orpington | Gareth Bacon MP | 5333 |
 | Ossett and Denby Dale | Jade Botterill MP | 5829 |
@@ -369,14 +369,14 @@
 | Peckham | Miatta Fahnbulleh MP | 1368 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6227 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5475 |
-| Penrith and Solway | Markus Campbell-Savours MP | 6228 |
+| Penrith and Solway | Markus Campbell-Savours MP | 6229 |
 | Peterborough | Andrew Pakes MP | 4188 |
 | Plymouth Moor View | Fred Thomas MP | 5735 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4790 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5492 |
 | Poole | Neil Duncan-Jordan MP | 5685 |
 | Poplar and Limehouse | Apsana Begum MP | 2934 |
-| Portsmouth North | Amanda Martin MP | 5654 |
+| Portsmouth North | Amanda Martin MP | 5655 |
 | Portsmouth South | Stephen Morgan MP | 3910 |
 | Preston | Sir Mark Hendrick MP | 3831 |
 | Putney | Fleur Anderson MP | 3528 |
@@ -462,7 +462,7 @@
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6437 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5381 |
 | Stevenage | Kevin Bonavia MP | 4764 |
-| Stockport | Navendu Mishra MP | 3946 |
+| Stockport | Navendu Mishra MP | 3947 |
 | Stockton North | Chris McDonald MP | 4858 |
 | Stockton West | Matt Vickers MP | 6013 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4782 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5983 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5967 |
 | Tooting | Dr Rosena Allin-Khan MP | 2703 |
-| Torbay | Steve Darling MP | 5870 |
+| Torbay | Steve Darling MP | 5871 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6605 |
 | Tottenham | Rt Hon David Lammy MP | 1702 |
 | Truro and Falmouth | Jayne Kirkham MP | 4621 |
@@ -656,5 +656,5 @@
 | Swansea West | Torsten Bell MP | 3692 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4113 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4651 |
-| Wrexham | Andrew Ranger MP | 4833 |
-| Ynys Môn | Llinos Medi MP | 3747 |
+| Wrexham | Andrew Ranger MP | 4834 |
+| Ynys Môn | Llinos Medi MP | 3748 |
