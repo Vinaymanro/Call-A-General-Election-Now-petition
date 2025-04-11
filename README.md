@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009377                                |
-| Last Updated      | 2025-04-11 22:18:01 UTC                                    |
+| Total Signatures   | 3009381                                |
+| Last Updated      | 2025-04-11 23:17:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -47,7 +47,7 @@
 | Birmingham Selly Oak | Al Carns MP | 3316 |
 | Birmingham Yardley | Jess Phillips MP | 3114 |
 | Bishop Auckland | Sam Rushworth MP | 6196 |
-| Blackburn | Mr Adnan Hussain MP | 3164 |
+| Blackburn | Mr Adnan Hussain MP | 3165 |
 | Blackley and Middleton South | Graham Stringer MP | 3803 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6196 |
 | Blackpool South | Chris Webb MP | 5862 |
@@ -210,7 +210,7 @@
 | Halifax | Kate Dearden MP | 4772 |
 | Hamble Valley | Paul Holmes MP | 6161 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3205 |
-| Hampstead and Highgate | Tulip Siddiq MP | 2982 |
+| Hampstead and Highgate | Tulip Siddiq MP | 2983 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4728 |
 | Harlow | Chris Vince MP | 6092 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4551 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6910 |
 | North Somerset | Sadik Al-Hassan MP | 4602 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6302 |
-| North West Cambridgeshire | Sam Carling MP | 6039 |
+| North West Cambridgeshire | Sam Carling MP | 6040 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7156 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5749 |
 | North West Leicestershire | Amanda Hack MP | 6730 |
@@ -517,7 +517,7 @@
 | Waveney Valley | Adrian Ramsay MP | 5885 |
 | Weald of Kent | Katie Lam MP | 7251 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5120 |
-| Wells and Mendip Hills | Tessa Munt MP | 5280 |
+| Wells and Mendip Hills | Tessa Munt MP | 5281 |
 | Welwyn Hatfield | Andrew Lewin MP | 5091 |
 | West Bromwich | Sarah Coombes MP | 3811 |
 | West Dorset | Edward Morello MP | 5481 |
