@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009133                                |
-| Last Updated      | 2025-04-11 04:23:07 UTC                                    |
+| Total Signatures   | 3009135                                |
+| Last Updated      | 2025-04-11 05:19:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -294,7 +294,7 @@
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2965 |
 | Macclesfield | Tim Roca MP | 5416 |
 | Maidenhead | Mr Joshua Reynolds MP | 5295 |
-| Maidstone and Malling | Helen Grant MP | 5866 |
+| Maidstone and Malling | Helen Grant MP | 5867 |
 | Makerfield | Josh Simons MP | 5918 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8134 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4015 |
@@ -543,7 +543,7 @@
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4351 |
 | Wolverhampton West | Warinder Juss | 3846 |
 | Worcester | Tom Collins MP | 4349 |
-| Worsley and Eccles | Michael Wheeler MP | 5482 |
+| Worsley and Eccles | Michael Wheeler MP | 5483 |
 | Worthing West | Dr Beccy Cooper MP | 5273 |
 | Wycombe | Emma Reynolds MP | 3631 |
 | Wyre Forest | Mark Garnier MP | 6523 |
