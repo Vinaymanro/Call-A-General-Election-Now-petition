@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009338                                |
-| Last Updated      | 2025-04-11 18:26:09 UTC                                    |
+| Total Signatures   | 3009344                                |
+| Last Updated      | 2025-04-11 19:15:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -263,7 +263,7 @@
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5529 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6420 |
 | Knowsley | Anneliese Midgley MP | 3304 |
-| Lancaster and Wyre | Cat Smith MP | 5108 |
+| Lancaster and Wyre | Cat Smith MP | 5109 |
 | Leeds Central and Headingley | Alex Sobel MP | 1944 |
 | Leeds East | Richard Burgon MP | 4329 |
 | Leeds North East | Fabian Hamilton MP | 2653 |
@@ -404,7 +404,7 @@
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5854 |
 | Rushcliffe | James Naish MP | 5094 |
 | Rutland and Stamford | Alicia Kearns MP | 6279 |
-| Salford | Rebecca Long Bailey MP | 4683 |
+| Salford | Rebecca Long Bailey MP | 4684 |
 | Salisbury | Rt Hon John Glen MP | 4762 |
 | Scarborough and Whitby | Alison Hume MP | 6039 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5113 |
@@ -430,7 +430,7 @@
 | South Cotswolds | Dr Roz Savage MP | 5734 |
 | South Derbyshire | Samantha Niblett MP | 6198 |
 | South Devon | Caroline Voaden MP | 5347 |
-| South Dorset | Lloyd Hatton MP | 5687 |
+| South Dorset | Lloyd Hatton MP | 5688 |
 | South East Cornwall | Anna Gelderd MP | 6268 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7163 |
 | South Leicestershire | Alberto Costa MP | 7018 |
@@ -468,7 +468,7 @@
 | Stoke-on-Trent Central | Gareth Snell MP | 4782 |
 | Stoke-on-Trent North | David Williams MP | 5492 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5752 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6562 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6563 |
 | Stourbridge | Cat Eccles MP | 5173 |
 | Stratford and Bow | Uma Kumaran MP | 1783 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6732 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5193 |
 | Warrington South | Sarah Hall MP | 5587 |
 | Warwick and Leamington | Matt Western MP | 4497 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5359 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5360 |
 | Watford | Matt Turmaine MP | 3756 |
 | Waveney Valley | Adrian Ramsay MP | 5885 |
 | Weald of Kent | Katie Lam MP | 7251 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4769 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6073 |
 | Neath and Swansea East | Carolyn Harris MP | 4491 |
-| Newport East | Jessica Morden MP | 4047 |
+| Newport East | Jessica Morden MP | 4048 |
 | Newport West and Islwyn | Ruth Jones MP | 4109 |
 | Pontypridd | Alex Davies-Jones MP | 3950 |
 | Rhondda and Ogmore | Chris Bryant MP | 4090 |
