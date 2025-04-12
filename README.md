@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009381                                |
-| Last Updated      | 2025-04-11 23:17:08 UTC                                    |
+| Total Signatures   | 3009384                                |
+| Last Updated      | 2025-04-12 01:23:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -171,7 +171,7 @@
 | Eltham and Chislehurst | Clive Efford MP | 4726 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5191 |
 | Enfield North | Feryal Clark MP | 2910 |
-| Epping Forest | Dr Neil Hudson MP | 6608 |
+| Epping Forest | Dr Neil Hudson MP | 6609 |
 | Epsom and Ewell | Helen Maguire MP | 4943 |
 | Erewash | Adam Thompson MP | 5870 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3236 |
@@ -190,7 +190,7 @@
 | Fylde | Mr Andrew Snowden MP | 6804 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6685 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4553 |
-| Gedling | Michael Payne MP | 5086 |
+| Gedling | Michael Payne MP | 5087 |
 | Gillingham and Rainham | Naushabah Khan MP | 5079 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5607 |
 | Gloucester | Alex McIntyre MP | 4569 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5307 |
 | Bridgend | Chris Elmore MP | 4277 |
 | Caerfyrddin | Ann Davies MP | 5237 |
-| Caerphilly | Chris Evans MP | 4038 |
+| Caerphilly | Chris Evans MP | 4039 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2930 |
 | Cardiff North | Anna McMorrin MP | 3314 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2820 |
