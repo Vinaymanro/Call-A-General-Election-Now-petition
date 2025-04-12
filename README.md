@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009592                                |
-| Last Updated      | 2025-04-12 22:16:17 UTC                                    |
+| Total Signatures   | 3009600                                |
+| Last Updated      | 2025-04-12 23:16:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -137,7 +137,7 @@
 | Dagenham and Rainham | Margaret Mullane MP | 4261 |
 | Darlington | Lola McEvoy MP | 5488 |
 | Dartford | Jim Dickson MP | 5760 |
-| Daventry | Rt Hon Stuart Andrew MP | 7300 |
+| Daventry | Rt Hon Stuart Andrew MP | 7301 |
 | Derby North | Catherine Atkinson MP | 4351 |
 | Derby South | Baggy Shanker MP | 3647 |
 | Derbyshire Dales | John Whitby MP | 6802 |
@@ -193,8 +193,8 @@
 | Gedling | Michael Payne MP | 5088 |
 | Gillingham and Rainham | Naushabah Khan MP | 5080 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5608 |
-| Gloucester | Alex McIntyre MP | 4569 |
-| Godalming and Ash | Rt Hon Jeremy Hunt MP | 5247 |
+| Gloucester | Alex McIntyre MP | 4570 |
+| Godalming and Ash | Rt Hon Jeremy Hunt MP | 5248 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6993 |
 | Gorton and Denton | Andrew Gwynne MP | 3306 |
 | Gosport | Dame Caroline Dinenage MP | 5504 |
@@ -319,7 +319,7 @@
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2682 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5794 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5456 |
-| New Forest West | Rt Hon Sir Desmond Swayne MP | 5283 |
+| New Forest West | Rt Hon Sir Desmond Swayne MP | 5285 |
 | Newark | Rt Hon Robert Jenrick MP | 7188 |
 | Newbury | Mr Lee Dillon MP | 4916 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4543 |
@@ -474,7 +474,7 @@
 | Stratford-on-Avon | Manuela Perteghella MP | 6733 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1875 |
 | Stretford and Urmston | Andrew Western MP | 3854 |
-| Stroud | Dr Simon Opher MP | 4556 |
+| Stroud | Dr Simon Opher MP | 4557 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5415 |
 | Sunderland Central | Lewis Atkinson MP | 5274 |
 | Surrey Heath | Dr Al Pinkerton MP | 5453 |
@@ -488,7 +488,7 @@
 | Taunton and Wellington | Gideon Amos MP | 5201 |
 | Telford | Shaun Davies MP | 5637 |
 | Tewkesbury | Cameron Thomas MP | 5032 |
-| The Wrekin | Rt Hon Mark Pritchard MP | 6432 |
+| The Wrekin | Rt Hon Mark Pritchard MP | 6433 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7458 |
 | Thornbury and Yate | Claire Young MP | 5721 |
 | Thurrock | Jen Craft MP | 5142 |
@@ -640,7 +640,7 @@
 | Cardiff West | Mr Alex Barros-Curtis MP | 3166 |
 | Ceredigion Preseli | Ben Lake MP | 4766 |
 | Clwyd East | Becky Gittins MP | 6085 |
-| Clwyd North | Gill German MP | 5513 |
+| Clwyd North | Gill German MP | 5514 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4260 |
 | Gower | Tonia Antoniazzi MP | 4796 |
 | Llanelli | Dame Nia Griffith MP | 5294 |
