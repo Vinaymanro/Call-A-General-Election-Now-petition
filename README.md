@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009577                                |
-| Last Updated      | 2025-04-12 20:18:08 UTC                                    |
+| Total Signatures   | 3009584                                |
+| Last Updated      | 2025-04-12 21:15:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -157,7 +157,7 @@
 | Ealing Southall | Deirdre Costigan MP | 1966 |
 | Earley and Woodley | Yuan Yang MP | 3972 |
 | Easington | Grahame Morris MP | 5792 |
-| East Grinstead and Uckfield | Mims Davies MP | 6062 |
+| East Grinstead and Uckfield | Mims Davies MP | 6063 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1113 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5357 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6044 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2668 |
 | Liverpool Walton | Dan Carden MP | 3390 |
 | Liverpool Wavertree | Paula Barker MP | 2243 |
-| Liverpool West Derby | Ian Byrne MP | 3089 |
+| Liverpool West Derby | Ian Byrne MP | 3090 |
 | Loughborough | Dr Jeevun Sandher MP | 4501 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7821 |
 | Lowestoft | Jess Asato MP | 5365 |
@@ -470,8 +470,8 @@
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5752 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6563 |
 | Stourbridge | Cat Eccles MP | 5173 |
-| Stratford and Bow | Uma Kumaran MP | 1783 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6732 |
+| Stratford and Bow | Uma Kumaran MP | 1784 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6733 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1875 |
 | Stretford and Urmston | Andrew Western MP | 3854 |
 | Stroud | Dr Simon Opher MP | 4556 |
@@ -505,10 +505,10 @@
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4507 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4500 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1686 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4944 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4945 |
 | Wallasey | Dame Angela Eagle MP | 4110 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4046 |
-| Walthamstow | Ms Stella Creasy MP | 1324 |
+| Walthamstow | Ms Stella Creasy MP | 1325 |
 | Warrington North | Charlotte Nichols MP | 5193 |
 | Warrington South | Sarah Hall MP | 5588 |
 | Warwick and Leamington | Matt Western MP | 4497 |
@@ -599,7 +599,7 @@
 | Edinburgh West | Christine Jardine MP | 2728 |
 | Falkirk | Euan Stainbank MP | 3458 |
 | Glasgow East | John Grady MP | 2355 |
-| Glasgow North | Martin Rhodes MP | 2068 |
+| Glasgow North | Martin Rhodes MP | 2069 |
 | Glasgow North East | Maureen Burke MP | 2510 |
 | Glasgow South | Gordon McKee MP | 1863 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2279 |
