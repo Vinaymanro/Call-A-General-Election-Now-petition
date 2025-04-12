@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009414                                |
-| Last Updated      | 2025-04-12 07:16:02 UTC                                    |
+| Total Signatures   | 3009424                                |
+| Last Updated      | 2025-04-12 08:21:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -61,7 +61,7 @@
 | Bootle | Peter Dowd MP | 3181 |
 | Boston and Skegness | Richard Tice MP | 7114 |
 | Bournemouth East | Tom Hayes MP | 4686 |
-| Bournemouth West | Jessica Toale MP | 4941 |
+| Bournemouth West | Jessica Toale MP | 4943 |
 | Bracknell | Peter Swallow MP | 4994 |
 | Bradford East | Imran Hussain MP | 2922 |
 | Bradford South | Judith Cummins MP | 4222 |
@@ -113,7 +113,7 @@
 | Chesterfield | Mr Toby Perkins MP | 4915 |
 | Chichester | Jess Brown-Fuller MP | 5953 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4186 |
-| Chippenham | Sarah Gibson MP | 4765 |
+| Chippenham | Sarah Gibson MP | 4766 |
 | Chipping Barnet | Dan Tomlinson MP | 4358 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5534 |
 | Christchurch | Sir Christopher Chope MP | 5873 |
@@ -163,7 +163,7 @@
 | East Surrey | Rt Hon Claire Coutinho MP | 6044 |
 | East Thanet | Ms Polly Billington MP | 5518 |
 | East Wiltshire | Danny Kruger MP | 6093 |
-| East Worthing and Shoreham | Tom Rutland MP | 4626 |
+| East Worthing and Shoreham | Tom Rutland MP | 4627 |
 | Eastbourne | Josh Babarinde MP | 5060 |
 | Eastleigh | Liz Jarvis MP | 4348 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2240 |
@@ -178,9 +178,9 @@
 | Esher and Walton | Monica Harding MP | 4836 |
 | Exeter | Steve Race MP | 3191 |
 | Exmouth and Exeter East | David Reed MP | 5230 |
-| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6154 |
+| Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6155 |
 | Farnham and Bordon | Gregory Stafford MP | 5202 |
-| Faversham and Mid Kent | Helen Whately MP | 6253 |
+| Faversham and Mid Kent | Helen Whately MP | 6254 |
 | Feltham and Heston | Seema Malhotra MP | 2943 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4532 |
 | Finchley and Golders Green | Sarah Sackman MP | 4288 |
@@ -191,7 +191,7 @@
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6685 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4554 |
 | Gedling | Michael Payne MP | 5087 |
-| Gillingham and Rainham | Naushabah Khan MP | 5079 |
+| Gillingham and Rainham | Naushabah Khan MP | 5080 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5607 |
 | Gloucester | Alex McIntyre MP | 4569 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5247 |
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1535 |
 | Halesowen | Alex Ballinger MP | 5029 |
 | Halifax | Kate Dearden MP | 4772 |
-| Hamble Valley | Paul Holmes MP | 6161 |
+| Hamble Valley | Paul Holmes MP | 6162 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3205 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2983 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4728 |
@@ -267,7 +267,7 @@
 | Leeds Central and Headingley | Alex Sobel MP | 1944 |
 | Leeds East | Richard Burgon MP | 4329 |
 | Leeds North East | Fabian Hamilton MP | 2653 |
-| Leeds North West | Katie White MP | 4412 |
+| Leeds North West | Katie White MP | 4414 |
 | Leeds South | Rt Hon Hilary Benn MP | 3905 |
 | Leeds South West and Morley | Mark Sewards MP | 5540 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3811 |
