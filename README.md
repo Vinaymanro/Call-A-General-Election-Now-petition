@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009388                                |
-| Last Updated      | 2025-04-12 04:21:07 UTC                                    |
+| Total Signatures   | 3009389                                |
+| Last Updated      | 2025-04-12 05:16:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -151,7 +151,7 @@
 | Droitwich and Evesham | Nigel Huddleston MP | 6588 |
 | Dudley | Sonia Kumar MP | 5421 |
 | Dulwich and West Norwood | Helen Hayes MP | 1565 |
-| Dunstable and Leighton Buzzard | Alex Mayer MP | 5547 |
+| Dunstable and Leighton Buzzard | Alex Mayer MP | 5548 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3108 |
 | Ealing North | James Murray MP | 2594 |
 | Ealing Southall | Deirdre Costigan MP | 1966 |
