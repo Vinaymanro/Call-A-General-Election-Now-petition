@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009389                                |
-| Last Updated      | 2025-04-12 05:16:52 UTC                                    |
+| Total Signatures   | 3009398                                |
+| Last Updated      | 2025-04-12 06:23:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -75,7 +75,7 @@
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6654 |
 | Brigg and Immingham | Martin Vickers MP | 6498 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3952 |
-| Brighton Pavilion | Siân Berry MP | 2758 |
+| Brighton Pavilion | Siân Berry MP | 2759 |
 | Bristol Central | Carla Denyer MP | 1619 |
 | Bristol East | Kerry McCarthy MP | 3003 |
 | Bristol North East | Damien Egan MP | 3105 |
@@ -91,7 +91,7 @@
 | Burton and Uttoxeter | Jacob Collier MP | 5837 |
 | Bury North | Mr James Frith MP | 5001 |
 | Bury South | Christian Wakeford MP | 5452 |
-| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5462 |
+| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5463 |
 | Calder Valley | Josh Fenton-Glynn MP | 5681 |
 | Camborne and Redruth | Perran Moon MP | 4996 |
 | Cambridge | Daniel Zeichner MP | 2229 |
@@ -139,7 +139,7 @@
 | Dartford | Jim Dickson MP | 5760 |
 | Daventry | Rt Hon Stuart Andrew MP | 7300 |
 | Derby North | Catherine Atkinson MP | 4351 |
-| Derby South | Baggy Shanker MP | 3646 |
+| Derby South | Baggy Shanker MP | 3647 |
 | Derbyshire Dales | John Whitby MP | 6802 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3201 |
 | Didcot and Wantage | Olly Glover MP | 4899 |
@@ -189,7 +189,7 @@
 | Frome and East Somerset | Anna Sabine MP | 4353 |
 | Fylde | Mr Andrew Snowden MP | 6804 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6685 |
-| Gateshead Central and Whickham | Mark Ferguson MP | 4553 |
+| Gateshead Central and Whickham | Mark Ferguson MP | 4554 |
 | Gedling | Michael Payne MP | 5087 |
 | Gillingham and Rainham | Naushabah Khan MP | 5079 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5607 |
@@ -291,7 +291,7 @@
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7821 |
 | Lowestoft | Jess Asato MP | 5365 |
 | Luton North | Sarah Owen MP | 2491 |
-| Luton South and South Bedfordshire | Rachel Hopkins MP | 2965 |
+| Luton South and South Bedfordshire | Rachel Hopkins MP | 2966 |
 | Macclesfield | Tim Roca MP | 5416 |
 | Maidenhead | Mr Joshua Reynolds MP | 5295 |
 | Maidstone and Malling | Helen Grant MP | 5868 |
@@ -376,7 +376,7 @@
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5492 |
 | Poole | Neil Duncan-Jordan MP | 5685 |
 | Poplar and Limehouse | Apsana Begum MP | 2934 |
-| Portsmouth North | Amanda Martin MP | 5655 |
+| Portsmouth North | Amanda Martin MP | 5656 |
 | Portsmouth South | Stephen Morgan MP | 3910 |
 | Preston | Sir Mark Hendrick MP | 3831 |
 | Putney | Fleur Anderson MP | 3528 |
@@ -401,7 +401,7 @@
 | Rugby | John Slinger MP | 5438 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4112 |
 | Runcorn and Helsby | null | 5064 |
-| Runnymede and Weybridge | Dr Ben Spencer MP | 5854 |
+| Runnymede and Weybridge | Dr Ben Spencer MP | 5855 |
 | Rushcliffe | James Naish MP | 5094 |
 | Rutland and Stamford | Alicia Kearns MP | 6279 |
 | Salford | Rebecca Long Bailey MP | 4684 |
@@ -608,7 +608,7 @@
 | Gordon and Buchan | Harriet Cross MP | 4410 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3159 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2769 |
-| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3636 |
+| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3638 |
 | Livingston | Gregor Poynton MP | 3428 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2875 |
 | Mid Dunbartonshire | Susan Murray MP | 2537 |
