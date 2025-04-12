@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009456                                |
-| Last Updated      | 2025-04-12 10:17:06 UTC                                    |
+| Total Signatures   | 3009465                                |
+| Last Updated      | 2025-04-12 11:13:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6107 |
 | Broxtowe | Juliet Campbell MP | 4731 |
 | Buckingham and Bletchley | Callum Anderson MP | 5275 |
-| Burnley | Oliver Ryan MP | 5751 |
+| Burnley | Oliver Ryan MP | 5752 |
 | Burton and Uttoxeter | Jacob Collier MP | 5837 |
 | Bury North | Mr James Frith MP | 5001 |
 | Bury South | Christian Wakeford MP | 5452 |
@@ -110,7 +110,7 @@
 | Chesham and Amersham | Sarah Green MP | 4951 |
 | Chester North and Neston | Samantha Dixon MP | 4078 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6414 |
-| Chesterfield | Mr Toby Perkins MP | 4915 |
+| Chesterfield | Mr Toby Perkins MP | 4916 |
 | Chichester | Jess Brown-Fuller MP | 5953 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4186 |
 | Chippenham | Sarah Gibson MP | 4766 |
@@ -121,7 +121,7 @@
 | City of Durham | Mary Kelly Foy MP | 4276 |
 | Clacton | Nigel Farage MP | 8123 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1755 |
-| Colchester | Pam Cox MP | 5033 |
+| Colchester | Pam Cox MP | 5034 |
 | Colne Valley | Paul Davies MP | 5061 |
 | Congleton | Mrs Sarah Russell MP | 6007 |
 | Corby and East Northamptonshire | Lee Barron MP | 6036 |
@@ -270,7 +270,7 @@
 | Leeds North West | Katie White MP | 4414 |
 | Leeds South | Rt Hon Hilary Benn MP | 3905 |
 | Leeds South West and Morley | Mark Sewards MP | 5540 |
-| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3811 |
+| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3812 |
 | Leicester East | Shivani Raja MP | 1899 |
 | Leicester South | Shockat Adam MP | 1869 |
 | Leicester West | Rt Hon Liz Kendall MP | 3498 |
@@ -316,7 +316,7 @@
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5745 |
 | Milton Keynes Central | Emily Darlington MP | 4963 |
 | Milton Keynes North | Chris Curtis MP | 4591 |
-| Mitcham and Morden | Dame Siobhain McDonagh MP | 2681 |
+| Mitcham and Morden | Dame Siobhain McDonagh MP | 2682 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5794 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5456 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5281 |
@@ -433,7 +433,7 @@
 | South Dorset | Lloyd Hatton MP | 5688 |
 | South East Cornwall | Anna Gelderd MP | 6268 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7163 |
-| South Leicestershire | Alberto Costa MP | 7018 |
+| South Leicestershire | Alberto Costa MP | 7020 |
 | South Norfolk | Ben Goldsborough MP | 5458 |
 | South Northamptonshire | Sarah Bool MP | 6692 |
 | South Ribble | Mr Paul Foster MP | 5920 |
@@ -633,8 +633,8 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5307 |
 | Bridgend | Chris Elmore MP | 4277 |
 | Caerfyrddin | Ann Davies MP | 5237 |
-| Caerphilly | Chris Evans MP | 4039 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2930 |
+| Caerphilly | Chris Evans MP | 4040 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2931 |
 | Cardiff North | Anna McMorrin MP | 3314 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2820 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3166 |
