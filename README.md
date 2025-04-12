@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009584                                |
-| Last Updated      | 2025-04-12 21:15:30 UTC                                    |
+| Total Signatures   | 3009592                                |
+| Last Updated      | 2025-04-12 22:16:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -225,7 +225,7 @@
 | Hazel Grove | Lisa Smart MP | 5130 |
 | Hemel Hempstead | David Taylor MP | 5102 |
 | Hendon | David Pinto-Duschinsky MP | 3815 |
-| Henley and Thame | Freddie van Mierlo MP | 5422 |
+| Henley and Thame | Freddie van Mierlo MP | 5423 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5299 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6329 |
 | Hertford and Stortford | Josh Dean MP | 6000 |
@@ -280,7 +280,7 @@
 | Lewisham North | Vicky Foxcroft MP | 1663 |
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1599 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1886 |
-| Lichfield | Dave Robertson MP | 6508 |
+| Lichfield | Dave Robertson MP | 6509 |
 | Lincoln | Mr Hamish Falconer MP | 4673 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3165 |
 | Liverpool Riverside | Kim Johnson MP | 2668 |
@@ -340,7 +340,7 @@
 | North East Hampshire | Alex Brewer MP | 5974 |
 | North East Hertfordshire | Chris Hinchliff MP | 5867 |
 | North East Somerset and Hanham | Dan Norris MP | 5072 |
-| North Herefordshire | Ellie Chowns MP | 6488 |
+| North Herefordshire | Ellie Chowns MP | 6489 |
 | North Norfolk | Steff Aquarone MP | 5458 |
 | North Northumberland | David Smith MP | 6464 |
 | North Shropshire | Helen Morgan MP | 6911 |
@@ -354,7 +354,7 @@
 | Northampton North | Lucy Rigby KC MP | 4307 |
 | Northampton South | Mike Reader MP | 4986 |
 | Norwich North | Alice Macdonald MP | 4438 |
-| Norwich South | Clive Lewis MP | 3417 |
+| Norwich South | Clive Lewis MP | 3418 |
 | Nottingham East | Nadia Whittome MP | 2496 |
 | Nottingham North and Kimberley | Alex Norris MP | 3760 |
 | Nottingham South | Lilian Greenwood MP | 3079 |
@@ -403,7 +403,7 @@
 | Runcorn and Helsby | null | 5064 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5855 |
 | Rushcliffe | James Naish MP | 5094 |
-| Rutland and Stamford | Alicia Kearns MP | 6279 |
+| Rutland and Stamford | Alicia Kearns MP | 6280 |
 | Salford | Rebecca Long Bailey MP | 4684 |
 | Salisbury | Rt Hon John Glen MP | 4762 |
 | Scarborough and Whitby | Alison Hume MP | 6039 |
@@ -519,7 +519,7 @@
 | Wellingborough and Rushden | Gen Kitchen MP | 5120 |
 | Wells and Mendip Hills | Tessa Munt MP | 5281 |
 | Welwyn Hatfield | Andrew Lewin MP | 5091 |
-| West Bromwich | Sarah Coombes MP | 3811 |
+| West Bromwich | Sarah Coombes MP | 3812 |
 | West Dorset | Edward Morello MP | 5481 |
 | West Ham and Beckton | James Asser MP | 2169 |
 | West Lancashire | Ashley Dalton MP | 5089 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2088 |
 | North Antrim | Jim Allister KC MP | 3105 |
 | North Down | Alex Easton MP | 3376 |
-| South Antrim | Robin Swann MP | 3104 |
+| South Antrim | Robin Swann MP | 3105 |
 | South Down | Chris Hazzard MP | 1848 |
 | Strangford | Jim Shannon MP | 3475 |
 | Upper Bann | Carla Lockhart MP | 3090 |
@@ -647,7 +647,7 @@
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3750 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5518 |
 | Monmouthshire | Catherine Fookes MP | 4769 |
-| Montgomeryshire and Glyndŵr | Steve Witherden MP | 6073 |
+| Montgomeryshire and Glyndŵr | Steve Witherden MP | 6074 |
 | Neath and Swansea East | Carolyn Harris MP | 4492 |
 | Newport East | Jessica Morden MP | 4051 |
 | Newport West and Islwyn | Ruth Jones MP | 4109 |
