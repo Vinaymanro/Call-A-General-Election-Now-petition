@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009387                                |
-| Last Updated      | 2025-04-12 02:57:30 UTC                                    |
+| Total Signatures   | 3009388                                |
+| Last Updated      | 2025-04-12 03:33:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4769 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6073 |
 | Neath and Swansea East | Carolyn Harris MP | 4492 |
-| Newport East | Jessica Morden MP | 4048 |
+| Newport East | Jessica Morden MP | 4049 |
 | Newport West and Islwyn | Ruth Jones MP | 4109 |
 | Pontypridd | Alex Davies-Jones MP | 3950 |
 | Rhondda and Ogmore | Chris Bryant MP | 4090 |
