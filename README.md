@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009384                                |
-| Last Updated      | 2025-04-12 01:23:33 UTC                                    |
+| Total Signatures   | 3009387                                |
+| Last Updated      | 2025-04-12 02:57:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -341,7 +341,7 @@
 | North East Hertfordshire | Chris Hinchliff MP | 5867 |
 | North East Somerset and Hanham | Dan Norris MP | 5072 |
 | North Herefordshire | Ellie Chowns MP | 6488 |
-| North Norfolk | Steff Aquarone MP | 5456 |
+| North Norfolk | Steff Aquarone MP | 5457 |
 | North Northumberland | David Smith MP | 6464 |
 | North Shropshire | Helen Morgan MP | 6910 |
 | North Somerset | Sadik Al-Hassan MP | 4602 |
@@ -461,7 +461,7 @@
 | Stafford | Leigh Ingham MP | 5642 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6437 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5381 |
-| Stevenage | Kevin Bonavia MP | 4764 |
+| Stevenage | Kevin Bonavia MP | 4766 |
 | Stockport | Navendu Mishra MP | 3947 |
 | Stockton North | Chris McDonald MP | 4858 |
 | Stockton West | Matt Vickers MP | 6013 |
