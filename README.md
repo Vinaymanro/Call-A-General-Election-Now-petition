@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009476                                |
-| Last Updated      | 2025-04-12 12:33:02 UTC                                    |
+| Total Signatures   | 3009480                                |
+| Last Updated      | 2025-04-12 13:21:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5473 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5838 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5839 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5513 |
 | Amber Valley | Linsey Farnsworth MP | 6119 |
 | Arundel and South Downs | Andrew Griffith MP | 6974 |
@@ -332,7 +332,7 @@
 | North Bedfordshire | Richard Fuller MP | 6130 |
 | North Cornwall | Ben Maguire MP | 6431 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6067 |
-| North Devon | Ian Roome MP | 5887 |
+| North Devon | Ian Roome MP | 5888 |
 | North Dorset | Simon Hoare MP | 6338 |
 | North Durham | Luke Akehurst MP | 5423 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6102 |
@@ -538,7 +538,7 @@
 | Witham | Rt Hon Priti Patel MP | 7035 |
 | Witney | Charlie Maynard MP | 5173 |
 | Woking | Mr Will Forster MP | 4405 |
-| Wokingham | Clive Jones MP | 4879 |
+| Wokingham | Clive Jones MP | 4880 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4438 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4352 |
 | Wolverhampton West | Warinder Juss | 3849 |
@@ -629,7 +629,7 @@
 | Aberafan Maesteg | Stephen Kinnock MP | 3737 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5787 |
 | Bangor Aberconwy | Claire Hughes MP | 4539 |
-| Blaenau Gwent and Rhymney | Nick Smith MP | 3692 |
+| Blaenau Gwent and Rhymney | Nick Smith MP | 3693 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5307 |
 | Bridgend | Chris Elmore MP | 4277 |
 | Caerfyrddin | Ann Davies MP | 5237 |
