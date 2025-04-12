@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009526                                |
-| Last Updated      | 2025-04-12 16:20:21 UTC                                    |
+| Total Signatures   | 3009532                                |
+| Last Updated      | 2025-04-12 17:15:27 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -118,7 +118,7 @@
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5534 |
 | Christchurch | Sir Christopher Chope MP | 5873 |
 | Cities of London and Westminster | Rachel Blake MP | 5188 |
-| City of Durham | Mary Kelly Foy MP | 4276 |
+| City of Durham | Mary Kelly Foy MP | 4277 |
 | Clacton | Nigel Farage MP | 8124 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1755 |
 | Colchester | Pam Cox MP | 5034 |
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1113 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5357 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6044 |
-| East Thanet | Ms Polly Billington MP | 5518 |
+| East Thanet | Ms Polly Billington MP | 5519 |
 | East Wiltshire | Danny Kruger MP | 6093 |
 | East Worthing and Shoreham | Tom Rutland MP | 4627 |
 | Eastbourne | Josh Babarinde MP | 5061 |
@@ -170,7 +170,7 @@
 | Ellesmere Port and Bromborough | Justin Madders MP | 4481 |
 | Eltham and Chislehurst | Clive Efford MP | 4727 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5191 |
-| Enfield North | Feryal Clark MP | 2910 |
+| Enfield North | Feryal Clark MP | 2911 |
 | Epping Forest | Dr Neil Hudson MP | 6609 |
 | Epsom and Ewell | Helen Maguire MP | 4943 |
 | Erewash | Adam Thompson MP | 5870 |
@@ -481,7 +481,7 @@
 | Sussex Weald | Ms Nusrat Ghani MP | 6132 |
 | Sutton and Cheam | Luke Taylor MP | 4402 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5693 |
-| Swindon North | Will Stone MP | 4938 |
+| Swindon North | Will Stone MP | 4939 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4243 |
 | Tamworth | Sarah Edwards MP | 6989 |
 | Tatton | Rt Hon Esther McVey MP | 6513 |
@@ -510,7 +510,7 @@
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4046 |
 | Walthamstow | Ms Stella Creasy MP | 1324 |
 | Warrington North | Charlotte Nichols MP | 5193 |
-| Warrington South | Sarah Hall MP | 5587 |
+| Warrington South | Sarah Hall MP | 5588 |
 | Warwick and Leamington | Matt Western MP | 4497 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5360 |
 | Watford | Matt Turmaine MP | 3756 |
@@ -596,7 +596,7 @@
 | Edinburgh North and Leith | Tracy Gilbert MP | 2424 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2062 |
 | Edinburgh South West | Dr Scott Arthur MP | 2269 |
-| Edinburgh West | Christine Jardine MP | 2727 |
+| Edinburgh West | Christine Jardine MP | 2728 |
 | Falkirk | Euan Stainbank MP | 3458 |
 | Glasgow East | John Grady MP | 2355 |
 | Glasgow North | Martin Rhodes MP | 2067 |
