@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009629                                |
-| Last Updated      | 2025-04-13 06:25:01 UTC                                    |
+| Total Signatures   | 3009638                                |
+| Last Updated      | 2025-04-13 07:16:39 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1589 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3522 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1917 |
-| Birmingham Northfield | Laurence Turner MP | 4932 |
+| Birmingham Northfield | Laurence Turner MP | 4933 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1736 |
 | Birmingham Selly Oak | Al Carns MP | 3316 |
 | Birmingham Yardley | Jess Phillips MP | 3115 |
@@ -100,7 +100,7 @@
 | Carlisle | Ms Julie Minns MP | 6573 |
 | Carshalton and Wallington | Bobby Dean MP | 4287 |
 | Castle Point | Rebecca Harris MP | 7557 |
-| Central Devon | Rt Hon Mel Stride MP | 5827 |
+| Central Devon | Rt Hon Mel Stride MP | 5828 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5321 |
 | Chatham and Aylesford | Tristan Osborne MP | 5668 |
 | Cheadle | Tom Morrison MP | 4682 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6911 |
 | North Somerset | Sadik Al-Hassan MP | 4602 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6302 |
-| North West Cambridgeshire | Sam Carling MP | 6040 |
+| North West Cambridgeshire | Sam Carling MP | 6041 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7156 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5749 |
 | North West Leicestershire | Amanda Hack MP | 6732 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6227 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5475 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6229 |
-| Peterborough | Andrew Pakes MP | 4188 |
+| Peterborough | Andrew Pakes MP | 4189 |
 | Plymouth Moor View | Fred Thomas MP | 5735 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4790 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5493 |
@@ -425,7 +425,7 @@
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2597 |
 | Smethwick | Gurinder Singh Josan MP | 3079 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5475 |
-| South Basildon and East Thurrock | James McMurdock MP | 6635 |
+| South Basildon and East Thurrock | James McMurdock MP | 6636 |
 | South Cambridgeshire | Pippa Heylings MP | 4467 |
 | South Cotswolds | Dr Roz Savage MP | 5734 |
 | South Derbyshire | Samantha Niblett MP | 6198 |
@@ -446,7 +446,7 @@
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5230 |
 | Southampton Itchen | Darren Paffey MP | 4575 |
 | Southampton Test | Satvir Kaur MP | 3429 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5617 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5618 |
 | Southend West and Leigh | David Burton-Sampson MP | 5899 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2608 |
 | Southport | Patrick Hurley MP | 6006 |
@@ -497,7 +497,7 @@
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5967 |
 | Tooting | Dr Rosena Allin-Khan MP | 2703 |
 | Torbay | Steve Darling MP | 5872 |
-| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6605 |
+| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6607 |
 | Tottenham | Rt Hon David Lammy MP | 1702 |
 | Truro and Falmouth | Jayne Kirkham MP | 4621 |
 | Tunbridge Wells | Mike Martin MP | 5479 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5307 |
 | Bridgend | Chris Elmore MP | 4278 |
 | Caerfyrddin | Ann Davies MP | 5237 |
-| Caerphilly | Chris Evans MP | 4041 |
+| Caerphilly | Chris Evans MP | 4042 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2931 |
 | Cardiff North | Anna McMorrin MP | 3314 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2820 |
