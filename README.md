@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009618                                |
-| Last Updated      | 2025-04-13 02:52:39 UTC                                    |
+| Total Signatures   | 3009623                                |
+| Last Updated      | 2025-04-13 04:25:34 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -147,7 +147,7 @@
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6102 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5598 |
 | Dorking and Horley | Chris Coghlan MP | 5571 |
-| Dover and Deal | Mike Tapp MP | 5968 |
+| Dover and Deal | Mike Tapp MP | 5969 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6589 |
 | Dudley | Sonia Kumar MP | 5421 |
 | Dulwich and West Norwood | Helen Hayes MP | 1566 |
@@ -309,7 +309,7 @@
 | Mid Cheshire | Andrew Cooper MP | 5204 |
 | Mid Derbyshire | Jonathan Davies MP | 5261 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5913 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5620 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5621 |
 | Mid Norfolk | George Freeman MP | 6309 |
 | Mid Sussex | Alison Bennett MP | 4722 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4257 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3831 |
 | Putney | Fleur Anderson MP | 3528 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2165 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5156 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5157 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7377 |
 | Reading Central | Matt Rodda MP | 3042 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4459 |
@@ -467,7 +467,7 @@
 | Stockton West | Matt Vickers MP | 6013 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4782 |
 | Stoke-on-Trent North | David Williams MP | 5493 |
-| Stoke-on-Trent South | Dr Allison Gardner MP | 5752 |
+| Stoke-on-Trent South | Dr Allison Gardner MP | 5753 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6563 |
 | Stourbridge | Cat Eccles MP | 5173 |
 | Stratford and Bow | Uma Kumaran MP | 1784 |
@@ -626,7 +626,7 @@
 | Central Ayrshire | Alan Gemmell MP | 3157 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3278 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4576 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3737 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3738 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5788 |
 | Bangor Aberconwy | Claire Hughes MP | 4539 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3693 |
