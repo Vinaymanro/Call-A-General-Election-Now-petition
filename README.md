@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009623                                |
-| Last Updated      | 2025-04-13 04:25:34 UTC                                    |
+| Total Signatures   | 3009625                                |
+| Last Updated      | 2025-04-13 05:22:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -60,7 +60,7 @@
 | Bolton West | Phil Brickell MP | 5606 |
 | Bootle | Peter Dowd MP | 3181 |
 | Boston and Skegness | Richard Tice MP | 7114 |
-| Bournemouth East | Tom Hayes MP | 4688 |
+| Bournemouth East | Tom Hayes MP | 4689 |
 | Bournemouth West | Jessica Toale MP | 4945 |
 | Bracknell | Peter Swallow MP | 4994 |
 | Bradford East | Imran Hussain MP | 2923 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2668 |
 | Liverpool Walton | Dan Carden MP | 3390 |
 | Liverpool Wavertree | Paula Barker MP | 2243 |
-| Liverpool West Derby | Ian Byrne MP | 3090 |
+| Liverpool West Derby | Ian Byrne MP | 3091 |
 | Loughborough | Dr Jeevun Sandher MP | 4501 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7821 |
 | Lowestoft | Jess Asato MP | 5365 |
