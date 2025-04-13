@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009701                                |
-| Last Updated      | 2025-04-13 12:33:52 UTC                                    |
+| Total Signatures   | 3009707                                |
+| Last Updated      | 2025-04-13 13:25:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -182,7 +182,7 @@
 | Farnham and Bordon | Gregory Stafford MP | 5202 |
 | Faversham and Mid Kent | Helen Whately MP | 6254 |
 | Feltham and Heston | Seema Malhotra MP | 2943 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4534 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4535 |
 | Finchley and Golders Green | Sarah Sackman MP | 4288 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5421 |
 | Forest of Dean | Matt Bishop MP | 5297 |
@@ -267,7 +267,7 @@
 | Leeds Central and Headingley | Alex Sobel MP | 1944 |
 | Leeds East | Richard Burgon MP | 4329 |
 | Leeds North East | Fabian Hamilton MP | 2653 |
-| Leeds North West | Katie White MP | 4414 |
+| Leeds North West | Katie White MP | 4415 |
 | Leeds South | Rt Hon Hilary Benn MP | 3905 |
 | Leeds South West and Morley | Mark Sewards MP | 5540 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3812 |
@@ -419,7 +419,7 @@
 | Sherwood Forest | Michelle Welsh MP | 6694 |
 | Shipley | Anna Dixon MP | 4911 |
 | Shrewsbury | Julia Buckley MP | 5344 |
-| Sittingbourne and Sheppey | Kevin McKenna MP | 6904 |
+| Sittingbourne and Sheppey | Kevin McKenna MP | 6905 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6695 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6315 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2597 |
@@ -482,7 +482,7 @@
 | Sutton and Cheam | Luke Taylor MP | 4402 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5693 |
 | Swindon North | Will Stone MP | 4940 |
-| Swindon South | Rt Hon Heidi Alexander MP | 4243 |
+| Swindon South | Rt Hon Heidi Alexander MP | 4244 |
 | Tamworth | Sarah Edwards MP | 6989 |
 | Tatton | Rt Hon Esther McVey MP | 6513 |
 | Taunton and Wellington | Gideon Amos MP | 5201 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3458 |
 | Glasgow East | John Grady MP | 2355 |
 | Glasgow North | Martin Rhodes MP | 2069 |
-| Glasgow North East | Maureen Burke MP | 2510 |
+| Glasgow North East | Maureen Burke MP | 2511 |
 | Glasgow South | Gordon McKee MP | 1863 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2279 |
 | Glasgow West | Patricia Ferguson MP | 2243 |
@@ -620,7 +620,7 @@
 | Perth and Kinross-shire | Pete Wishart MP | 3527 |
 | Rutherglen | Michael Shanks MP | 2600 |
 | Stirling and Strathallan | Chris Kane MP | 3237 |
-| West Dunbartonshire | Douglas McAllister MP | 2748 |
+| West Dunbartonshire | Douglas McAllister MP | 2749 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3567 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4049 |
 | Central Ayrshire | Alan Gemmell MP | 3157 |
