@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009660                                |
-| Last Updated      | 2025-04-13 08:21:57 UTC                                    |
+| Total Signatures   | 3009669                                |
+| Last Updated      | 2025-04-13 09:18:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -69,7 +69,7 @@
 | Braintree | Rt Hon James Cleverly MP | 7473 |
 | Brent East | Dawn Butler MP | 1882 |
 | Brent West | Barry Gardiner MP | 2107 |
-| Brentford and Isleworth | Ruth Cadbury MP | 3014 |
+| Brentford and Isleworth | Ruth Cadbury MP | 3015 |
 | Brentwood and Ongar | Alex Burghart MP | 8159 |
 | Bridgwater | Sir Ashley Fox MP | 5804 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6655 |
@@ -190,7 +190,7 @@
 | Fylde | Mr Andrew Snowden MP | 6804 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6686 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4554 |
-| Gedling | Michael Payne MP | 5088 |
+| Gedling | Michael Payne MP | 5089 |
 | Gillingham and Rainham | Naushabah Khan MP | 5080 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5608 |
 | Gloucester | Alex McIntyre MP | 4570 |
@@ -230,7 +230,7 @@
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6329 |
 | Hertford and Stortford | Josh Dean MP | 6000 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5769 |
-| Hexham | Joe Morris MP | 6434 |
+| Hexham | Joe Morris MP | 6435 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5288 |
 | High Peak | Jon Pearce MP | 5493 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6515 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4189 |
 | Plymouth Moor View | Fred Thomas MP | 5735 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4790 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5493 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5494 |
 | Poole | Neil Duncan-Jordan MP | 5685 |
 | Poplar and Limehouse | Apsana Begum MP | 2935 |
 | Portsmouth North | Amanda Martin MP | 5656 |
@@ -463,7 +463,7 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5381 |
 | Stevenage | Kevin Bonavia MP | 4766 |
 | Stockport | Navendu Mishra MP | 3947 |
-| Stockton North | Chris McDonald MP | 4859 |
+| Stockton North | Chris McDonald MP | 4860 |
 | Stockton West | Matt Vickers MP | 6013 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4782 |
 | Stoke-on-Trent North | David Williams MP | 5493 |
@@ -497,10 +497,10 @@
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5967 |
 | Tooting | Dr Rosena Allin-Khan MP | 2703 |
 | Torbay | Steve Darling MP | 5872 |
-| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6607 |
+| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6609 |
 | Tottenham | Rt Hon David Lammy MP | 1702 |
 | Truro and Falmouth | Jayne Kirkham MP | 4621 |
-| Tunbridge Wells | Mike Martin MP | 5480 |
+| Tunbridge Wells | Mike Martin MP | 5481 |
 | Twickenham | Munira Wilson MP | 3668 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4507 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4500 |
@@ -606,7 +606,7 @@
 | Glasgow West | Patricia Ferguson MP | 2243 |
 | Glenrothes and Mid Fife | Richard Baker MP | 2998 |
 | Gordon and Buchan | Harriet Cross MP | 4410 |
-| Hamilton and Clyde Valley | Imogen Walker MP | 3159 |
+| Hamilton and Clyde Valley | Imogen Walker MP | 3160 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2769 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3638 |
 | Livingston | Gregor Poynton MP | 3428 |
