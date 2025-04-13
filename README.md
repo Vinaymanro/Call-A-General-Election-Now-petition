@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009625                                |
-| Last Updated      | 2025-04-13 05:22:55 UTC                                    |
+| Total Signatures   | 3009629                                |
+| Last Updated      | 2025-04-13 06:25:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -302,7 +302,7 @@
 | Manchester Withington | Jeff Smith MP | 1685 |
 | Mansfield | Steve Yemm MP | 6234 |
 | Melksham and Devizes | Brian Mathew MP | 5032 |
-| Melton and Syston | Rt Hon Edward Argar MP | 6131 |
+| Melton and Syston | Rt Hon Edward Argar MP | 6132 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6119 |
 | Mid Bedfordshire | Blake Stephenson MP | 5864 |
 | Mid Buckinghamshire | Greg Smith MP | 5616 |
@@ -481,7 +481,7 @@
 | Sussex Weald | Ms Nusrat Ghani MP | 6132 |
 | Sutton and Cheam | Luke Taylor MP | 4402 |
 | Sutton Coldfield | Rt Hon Andrew Mitchell MP | 5693 |
-| Swindon North | Will Stone MP | 4939 |
+| Swindon North | Will Stone MP | 4940 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4243 |
 | Tamworth | Sarah Edwards MP | 6989 |
 | Tatton | Rt Hon Esther McVey MP | 6513 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5193 |
 | Warrington South | Sarah Hall MP | 5588 |
 | Warwick and Leamington | Matt Western MP | 4497 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5361 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5362 |
 | Watford | Matt Turmaine MP | 3756 |
 | Waveney Valley | Adrian Ramsay MP | 5885 |
 | Weald of Kent | Katie Lam MP | 7251 |
@@ -642,7 +642,7 @@
 | Clwyd East | Becky Gittins MP | 6085 |
 | Clwyd North | Gill German MP | 5515 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4260 |
-| Gower | Tonia Antoniazzi MP | 4796 |
+| Gower | Tonia Antoniazzi MP | 4797 |
 | Llanelli | Dame Nia Griffith MP | 5294 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3750 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5518 |
