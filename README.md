@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009690                                |
-| Last Updated      | 2025-04-13 11:13:37 UTC                                    |
+| Total Signatures   | 3009701                                |
+| Last Updated      | 2025-04-13 12:33:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -103,7 +103,7 @@
 | Central Devon | Rt Hon Mel Stride MP | 5828 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5321 |
 | Chatham and Aylesford | Tristan Osborne MP | 5668 |
-| Cheadle | Tom Morrison MP | 4682 |
+| Cheadle | Tom Morrison MP | 4683 |
 | Chelmsford | Marie Goldman MP | 5296 |
 | Chelsea and Fulham | Ben Coleman MP | 5506 |
 | Cheltenham | Max Wilkinson MP | 4046 |
@@ -151,7 +151,7 @@
 | Droitwich and Evesham | Nigel Huddleston MP | 6591 |
 | Dudley | Sonia Kumar MP | 5422 |
 | Dulwich and West Norwood | Helen Hayes MP | 1566 |
-| Dunstable and Leighton Buzzard | Alex Mayer MP | 5548 |
+| Dunstable and Leighton Buzzard | Alex Mayer MP | 5549 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3109 |
 | Ealing North | James Murray MP | 2594 |
 | Ealing Southall | Deirdre Costigan MP | 1967 |
@@ -227,7 +227,7 @@
 | Hendon | David Pinto-Duschinsky MP | 3815 |
 | Henley and Thame | Freddie van Mierlo MP | 5423 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5299 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6329 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6330 |
 | Hertford and Stortford | Josh Dean MP | 6000 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5769 |
 | Hexham | Joe Morris MP | 6435 |
@@ -333,7 +333,7 @@
 | North Cornwall | Ben Maguire MP | 6431 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6067 |
 | North Devon | Ian Roome MP | 5888 |
-| North Dorset | Simon Hoare MP | 6338 |
+| North Dorset | Simon Hoare MP | 6339 |
 | North Durham | Luke Akehurst MP | 5423 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6102 |
 | North East Derbyshire | Louise Jones MP | 5831 |
@@ -368,7 +368,7 @@
 | Oxford West and Abingdon | Layla Moran MP | 2941 |
 | Peckham | Miatta Fahnbulleh MP | 1368 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6227 |
-| Penistone and Stocksbridge | Dr Marie Tidball MP | 5475 |
+| Penistone and Stocksbridge | Dr Marie Tidball MP | 5476 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6229 |
 | Peterborough | Andrew Pakes MP | 4189 |
 | Plymouth Moor View | Fred Thomas MP | 5735 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4860 |
 | Stockton West | Matt Vickers MP | 6013 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4782 |
-| Stoke-on-Trent North | David Williams MP | 5493 |
+| Stoke-on-Trent North | David Williams MP | 5495 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5753 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6563 |
 | Stourbridge | Cat Eccles MP | 5173 |
@@ -511,7 +511,7 @@
 | Walthamstow | Ms Stella Creasy MP | 1325 |
 | Warrington North | Charlotte Nichols MP | 5193 |
 | Warrington South | Sarah Hall MP | 5588 |
-| Warwick and Leamington | Matt Western MP | 4497 |
+| Warwick and Leamington | Matt Western MP | 4500 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5363 |
 | Watford | Matt Turmaine MP | 3756 |
 | Waveney Valley | Adrian Ramsay MP | 5886 |
@@ -580,7 +580,7 @@
 | Airdrie and Shotts | Kenneth Stevenson MP | 2845 |
 | Alloa and Grangemouth | Brian Leishman MP | 3037 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4072 |
-| Arbroath and Broughty Ferry | Stephen Gethins MP | 3491 |
+| Arbroath and Broughty Ferry | Stephen Gethins MP | 3492 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3434 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3043 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4095 |
