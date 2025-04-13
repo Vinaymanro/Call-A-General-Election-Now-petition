@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009669                                |
-| Last Updated      | 2025-04-13 09:18:59 UTC                                    |
+| Total Signatures   | 3009677                                |
+| Last Updated      | 2025-04-13 10:19:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5473 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5839 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5513 |
-| Amber Valley | Linsey Farnsworth MP | 6119 |
+| Amber Valley | Linsey Farnsworth MP | 6120 |
 | Arundel and South Downs | Andrew Griffith MP | 6974 |
 | Ashfield | Lee Anderson MP | 6191 |
 | Ashford | Sojan Joseph MP | 5920 |
@@ -108,7 +108,7 @@
 | Chelsea and Fulham | Ben Coleman MP | 5506 |
 | Cheltenham | Max Wilkinson MP | 4046 |
 | Chesham and Amersham | Sarah Green MP | 4951 |
-| Chester North and Neston | Samantha Dixon MP | 4079 |
+| Chester North and Neston | Samantha Dixon MP | 4080 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6415 |
 | Chesterfield | Mr Toby Perkins MP | 4916 |
 | Chichester | Jess Brown-Fuller MP | 5954 |
@@ -262,7 +262,7 @@
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4675 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5530 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6420 |
-| Knowsley | Anneliese Midgley MP | 3305 |
+| Knowsley | Anneliese Midgley MP | 3306 |
 | Lancaster and Wyre | Cat Smith MP | 5109 |
 | Leeds Central and Headingley | Alex Sobel MP | 1944 |
 | Leeds East | Richard Burgon MP | 4329 |
@@ -284,7 +284,7 @@
 | Lincoln | Mr Hamish Falconer MP | 4673 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3165 |
 | Liverpool Riverside | Kim Johnson MP | 2668 |
-| Liverpool Walton | Dan Carden MP | 3390 |
+| Liverpool Walton | Dan Carden MP | 3391 |
 | Liverpool Wavertree | Paula Barker MP | 2243 |
 | Liverpool West Derby | Ian Byrne MP | 3091 |
 | Loughborough | Dr Jeevun Sandher MP | 4501 |
@@ -337,7 +337,7 @@
 | North Durham | Luke Akehurst MP | 5423 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6102 |
 | North East Derbyshire | Louise Jones MP | 5831 |
-| North East Hampshire | Alex Brewer MP | 5974 |
+| North East Hampshire | Alex Brewer MP | 5975 |
 | North East Hertfordshire | Chris Hinchliff MP | 5867 |
 | North East Somerset and Hanham | Dan Norris MP | 5073 |
 | North Herefordshire | Ellie Chowns MP | 6489 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4631 |
 | Yeovil | Adam Dance MP | 5619 |
 | York Central | Rachael Maskell MP | 3294 |
-| York Outer | Mr Luke Charters MP | 4359 |
+| York Outer | Mr Luke Charters MP | 4360 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2967 |
 | Belfast North | John Finucane MP | 2522 |
 | Belfast South and Mid Down | Claire Hanna MP | 1950 |
@@ -624,7 +624,7 @@
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3567 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4049 |
 | Central Ayrshire | Alan Gemmell MP | 3157 |
-| Kilmarnock and Loudoun | Lillian Jones MP | 3278 |
+| Kilmarnock and Loudoun | Lillian Jones MP | 3279 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4577 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3738 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5788 |
@@ -634,7 +634,7 @@
 | Bridgend | Chris Elmore MP | 4278 |
 | Caerfyrddin | Ann Davies MP | 5237 |
 | Caerphilly | Chris Evans MP | 4042 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2931 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2932 |
 | Cardiff North | Anna McMorrin MP | 3314 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2820 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3166 |
