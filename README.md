@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009886                                |
-| Last Updated      | 2025-04-14 04:21:51 UTC                                    |
+| Total Signatures   | 3009888                                |
+| Last Updated      | 2025-04-14 05:19:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4456 |
 | Bolton West | Phil Brickell MP | 5606 |
 | Bootle | Peter Dowd MP | 3181 |
-| Boston and Skegness | Richard Tice MP | 7115 |
+| Boston and Skegness | Richard Tice MP | 7116 |
 | Bournemouth East | Tom Hayes MP | 4690 |
 | Bournemouth West | Jessica Toale MP | 4946 |
 | Bracknell | Peter Swallow MP | 4994 |
@@ -309,7 +309,7 @@
 | Mid Cheshire | Andrew Cooper MP | 5205 |
 | Mid Derbyshire | Jonathan Davies MP | 5262 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5913 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5621 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5622 |
 | Mid Norfolk | George Freeman MP | 6309 |
 | Mid Sussex | Alison Bennett MP | 4722 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4257 |
