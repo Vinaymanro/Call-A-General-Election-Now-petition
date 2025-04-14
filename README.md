@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009899                                |
-| Last Updated      | 2025-04-14 06:28:32 UTC                                    |
+| Total Signatures   | 3009909                                |
+| Last Updated      | 2025-04-14 07:18:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -35,7 +35,7 @@
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6190 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6159 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5067 |
-| Bicester and Woodstock | Calum Miller MP | 4691 |
+| Bicester and Woodstock | Calum Miller MP | 4692 |
 | Birkenhead | Alison McGovern MP | 4363 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2978 |
 | Birmingham Erdington | Paulette Hamilton MP | 4284 |
@@ -116,7 +116,7 @@
 | Chippenham | Sarah Gibson MP | 4768 |
 | Chipping Barnet | Dan Tomlinson MP | 4360 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5535 |
-| Christchurch | Sir Christopher Chope MP | 5874 |
+| Christchurch | Sir Christopher Chope MP | 5875 |
 | Cities of London and Westminster | Rachel Blake MP | 5188 |
 | City of Durham | Mary Kelly Foy MP | 4277 |
 | Clacton | Nigel Farage MP | 8124 |
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 6063 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1113 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5357 |
-| East Surrey | Rt Hon Claire Coutinho MP | 6044 |
+| East Surrey | Rt Hon Claire Coutinho MP | 6045 |
 | East Thanet | Ms Polly Billington MP | 5519 |
 | East Wiltshire | Danny Kruger MP | 6093 |
 | East Worthing and Shoreham | Tom Rutland MP | 4629 |
@@ -182,7 +182,7 @@
 | Farnham and Bordon | Gregory Stafford MP | 5202 |
 | Faversham and Mid Kent | Helen Whately MP | 6254 |
 | Feltham and Heston | Seema Malhotra MP | 2943 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4537 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4538 |
 | Finchley and Golders Green | Sarah Sackman MP | 4288 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5421 |
 | Forest of Dean | Matt Bishop MP | 5297 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2668 |
 | Liverpool Walton | Dan Carden MP | 3392 |
 | Liverpool Wavertree | Paula Barker MP | 2243 |
-| Liverpool West Derby | Ian Byrne MP | 3091 |
+| Liverpool West Derby | Ian Byrne MP | 3092 |
 | Loughborough | Dr Jeevun Sandher MP | 4501 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7821 |
 | Lowestoft | Jess Asato MP | 5365 |
@@ -353,7 +353,7 @@
 | North West Norfolk | James Wild MP | 5785 |
 | Northampton North | Lucy Rigby KC MP | 4307 |
 | Northampton South | Mike Reader MP | 4986 |
-| Norwich North | Alice Macdonald MP | 4439 |
+| Norwich North | Alice Macdonald MP | 4440 |
 | Norwich South | Clive Lewis MP | 3418 |
 | Nottingham East | Nadia Whittome MP | 2496 |
 | Nottingham North and Kimberley | Alex Norris MP | 3760 |
@@ -374,9 +374,9 @@
 | Plymouth Moor View | Fred Thomas MP | 5736 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4790 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5495 |
-| Poole | Neil Duncan-Jordan MP | 5688 |
+| Poole | Neil Duncan-Jordan MP | 5689 |
 | Poplar and Limehouse | Apsana Begum MP | 2935 |
-| Portsmouth North | Amanda Martin MP | 5656 |
+| Portsmouth North | Amanda Martin MP | 5657 |
 | Portsmouth South | Stephen Morgan MP | 3910 |
 | Preston | Sir Mark Hendrick MP | 3831 |
 | Putney | Fleur Anderson MP | 3529 |
@@ -520,11 +520,11 @@
 | Wells and Mendip Hills | Tessa Munt MP | 5281 |
 | Welwyn Hatfield | Andrew Lewin MP | 5091 |
 | West Bromwich | Sarah Coombes MP | 3812 |
-| West Dorset | Edward Morello MP | 5481 |
+| West Dorset | Edward Morello MP | 5482 |
 | West Ham and Beckton | James Asser MP | 2170 |
 | West Lancashire | Ashley Dalton MP | 5091 |
 | West Suffolk | Nick Timothy MP | 6067 |
-| West Worcestershire | Dame Harriett Baldwin MP | 6284 |
+| West Worcestershire | Dame Harriett Baldwin MP | 6285 |
 | Westmorland and Lonsdale | Tim Farron MP | 5213 |
 | Weston-super-Mare | Dan Aldridge MP | 5114 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6605 |
