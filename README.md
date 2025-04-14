@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3009881                                |
-| Last Updated      | 2025-04-14 01:36:29 UTC                                    |
+| Total Signatures   | 3009886                                |
+| Last Updated      | 2025-04-14 03:06:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5473 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5839 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5513 |
-| Amber Valley | Linsey Farnsworth MP | 6120 |
+| Amber Valley | Linsey Farnsworth MP | 6121 |
 | Arundel and South Downs | Andrew Griffith MP | 6975 |
 | Ashfield | Lee Anderson MP | 6191 |
 | Ashford | Sojan Joseph MP | 5921 |
@@ -127,7 +127,7 @@
 | Corby and East Northamptonshire | Lee Barron MP | 6036 |
 | Coventry East | Mary Creagh MP | 3619 |
 | Coventry North West | Taiwo Owatemi MP | 4282 |
-| Coventry South | Zarah Sultana MP | 3538 |
+| Coventry South | Zarah Sultana MP | 3539 |
 | Cramlington and Killingworth | Emma Foody MP | 5841 |
 | Crawley | Peter Lamb MP | 4743 |
 | Crewe and Nantwich | Connor Naismith MP | 5713 |
@@ -281,7 +281,7 @@
 | Lewisham West and East Dulwich | Ellie Reeves MP | 1599 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1886 |
 | Lichfield | Dave Robertson MP | 6510 |
-| Lincoln | Mr Hamish Falconer MP | 4673 |
+| Lincoln | Mr Hamish Falconer MP | 4674 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3166 |
 | Liverpool Riverside | Kim Johnson MP | 2668 |
 | Liverpool Walton | Dan Carden MP | 3392 |
@@ -447,7 +447,7 @@
 | Southampton Itchen | Darren Paffey MP | 4575 |
 | Southampton Test | Satvir Kaur MP | 3429 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5618 |
-| Southend West and Leigh | David Burton-Sampson MP | 5899 |
+| Southend West and Leigh | David Burton-Sampson MP | 5900 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2608 |
 | Southport | Patrick Hurley MP | 6006 |
 | Spelthorne | Lincoln Jopp MP | 5490 |
@@ -493,7 +493,7 @@
 | Thornbury and Yate | Claire Young MP | 5722 |
 | Thurrock | Jen Craft MP | 5142 |
 | Tipton and Wednesbury | Antonia Bance MP | 4961 |
-| Tiverton and Minehead | Rachel Gilmour MP | 5983 |
+| Tiverton and Minehead | Rachel Gilmour MP | 5984 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5968 |
 | Tooting | Dr Rosena Allin-Khan MP | 2703 |
 | Torbay | Steve Darling MP | 5873 |
