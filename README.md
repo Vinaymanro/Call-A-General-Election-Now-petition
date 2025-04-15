@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3010207                                |
-| Last Updated      | 2025-04-15 05:18:25 UTC                                    |
+| Total Signatures   | 3010222                                |
+| Last Updated      | 2025-04-15 06:27:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5473 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5839 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5513 |
-| Amber Valley | Linsey Farnsworth MP | 6124 |
+| Amber Valley | Linsey Farnsworth MP | 6125 |
 | Arundel and South Downs | Andrew Griffith MP | 6975 |
 | Ashfield | Lee Anderson MP | 6192 |
 | Ashford | Sojan Joseph MP | 5921 |
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5483 |
 | Barking | Nesil Caliskan MP | 2658 |
 | Barnsley North | Dan Jarvis MP | 5722 |
-| Barnsley South | Stephanie Peacock MP | 5814 |
+| Barnsley South | Stephanie Peacock MP | 5815 |
 | Barrow and Furness | Michelle Scrogham MP | 5349 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6923 |
 | Basingstoke | Luke Murphy MP | 4843 |
@@ -78,7 +78,7 @@
 | Brighton Pavilion | Siân Berry MP | 2760 |
 | Bristol Central | Carla Denyer MP | 1619 |
 | Bristol East | Kerry McCarthy MP | 3003 |
-| Bristol North East | Damien Egan MP | 3106 |
+| Bristol North East | Damien Egan MP | 3107 |
 | Bristol North West | Rt Hon Darren Jones MP | 3233 |
 | Bristol South | Karin Smyth MP | 4001 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5858 |
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5489 |
 | Dartford | Jim Dickson MP | 5761 |
 | Daventry | Rt Hon Stuart Andrew MP | 7302 |
-| Derby North | Catherine Atkinson MP | 4353 |
+| Derby North | Catherine Atkinson MP | 4354 |
 | Derby South | Baggy Shanker MP | 3649 |
 | Derbyshire Dales | John Whitby MP | 6804 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3202 |
@@ -228,7 +228,7 @@
 | Henley and Thame | Freddie van Mierlo MP | 5423 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5299 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6332 |
-| Hertford and Stortford | Josh Dean MP | 6003 |
+| Hertford and Stortford | Josh Dean MP | 6004 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5770 |
 | Hexham | Joe Morris MP | 6435 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5291 |
@@ -283,7 +283,7 @@
 | Lichfield | Dave Robertson MP | 6511 |
 | Lincoln | Mr Hamish Falconer MP | 4674 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3166 |
-| Liverpool Riverside | Kim Johnson MP | 2669 |
+| Liverpool Riverside | Kim Johnson MP | 2670 |
 | Liverpool Walton | Dan Carden MP | 3392 |
 | Liverpool Wavertree | Paula Barker MP | 2243 |
 | Liverpool West Derby | Ian Byrne MP | 3093 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3973 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5104 |
 | Newton Abbot | Martin Wrigley MP | 5142 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5566 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5567 |
 | Normanton and Hemsworth | Jon Trickett MP | 5540 |
 | North Bedfordshire | Richard Fuller MP | 6130 |
 | North Cornwall | Ben Maguire MP | 6431 |
@@ -368,7 +368,7 @@
 | Oxford West and Abingdon | Layla Moran MP | 2941 |
 | Peckham | Miatta Fahnbulleh MP | 1368 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6229 |
-| Penistone and Stocksbridge | Dr Marie Tidball MP | 5476 |
+| Penistone and Stocksbridge | Dr Marie Tidball MP | 5477 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6230 |
 | Peterborough | Andrew Pakes MP | 4189 |
 | Plymouth Moor View | Fred Thomas MP | 5736 |
@@ -385,8 +385,8 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7379 |
 | Reading Central | Matt Rodda MP | 3042 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4459 |
-| Redcar | Anna Turley MP | 5494 |
-| Redditch | Chris Bloore MP | 6123 |
+| Redcar | Anna Turley MP | 5495 |
+| Redditch | Chris Bloore MP | 6124 |
 | Reigate | Rebecca Paul MP | 5559 |
 | Ribble Valley | Maya Ellis MP | 6742 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7131 |
@@ -401,7 +401,7 @@
 | Rugby | John Slinger MP | 5439 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4114 |
 | Runcorn and Helsby | null | 5065 |
-| Runnymede and Weybridge | Dr Ben Spencer MP | 5855 |
+| Runnymede and Weybridge | Dr Ben Spencer MP | 5856 |
 | Rushcliffe | James Naish MP | 5094 |
 | Rutland and Stamford | Alicia Kearns MP | 6280 |
 | Salford | Rebecca Long Bailey MP | 4686 |
@@ -488,10 +488,10 @@
 | Taunton and Wellington | Gideon Amos MP | 5203 |
 | Telford | Shaun Davies MP | 5640 |
 | Tewkesbury | Cameron Thomas MP | 5033 |
-| The Wrekin | Rt Hon Mark Pritchard MP | 6434 |
+| The Wrekin | Rt Hon Mark Pritchard MP | 6435 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7458 |
 | Thornbury and Yate | Claire Young MP | 5723 |
-| Thurrock | Jen Craft MP | 5143 |
+| Thurrock | Jen Craft MP | 5144 |
 | Tipton and Wednesbury | Antonia Bance MP | 4961 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5984 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5968 |
@@ -544,12 +544,12 @@
 | Wolverhampton West | Warinder Juss | 3853 |
 | Worcester | Tom Collins MP | 4351 |
 | Worsley and Eccles | Michael Wheeler MP | 5483 |
-| Worthing West | Dr Beccy Cooper MP | 5274 |
+| Worthing West | Dr Beccy Cooper MP | 5275 |
 | Wycombe | Emma Reynolds MP | 3631 |
 | Wyre Forest | Mark Garnier MP | 6524 |
 | Wythenshawe and Sale East | Mike Kane MP | 4631 |
 | Yeovil | Adam Dance MP | 5620 |
-| York Central | Rachael Maskell MP | 3294 |
+| York Central | Rachael Maskell MP | 3295 |
 | York Outer | Mr Luke Charters MP | 4360 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2968 |
 | Belfast North | John Finucane MP | 2524 |
