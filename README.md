@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3010202                                |
-| Last Updated      | 2025-04-15 01:27:29 UTC                                    |
+| Total Signatures   | 3010203                                |
+| Last Updated      | 2025-04-15 03:04:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -588,7 +588,7 @@
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2876 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2690 |
 | Dumfries and Galloway | John Cooper MP | 4053 |
-| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3879 |
+| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3880 |
 | Dundee Central | Chris Law MP | 2559 |
 | Dunfermline and Dollar | Graeme Downie MP | 2947 |
 | East Kilbride and Strathaven | Joani Reid MP | 3173 |
