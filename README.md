@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3010222                                |
-| Last Updated      | 2025-04-15 06:27:13 UTC                                    |
+| Total Signatures   | 3010236                                |
+| Last Updated      | 2025-04-15 07:19:22 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5473 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5839 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5513 |
-| Amber Valley | Linsey Farnsworth MP | 6125 |
+| Amber Valley | Linsey Farnsworth MP | 6126 |
 | Arundel and South Downs | Andrew Griffith MP | 6975 |
 | Ashfield | Lee Anderson MP | 6192 |
 | Ashford | Sojan Joseph MP | 5921 |
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4693 |
 | Birkenhead | Alison McGovern MP | 4364 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2979 |
-| Birmingham Erdington | Paulette Hamilton MP | 4284 |
+| Birmingham Erdington | Paulette Hamilton MP | 4285 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1590 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3523 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1918 |
@@ -50,11 +50,11 @@
 | Blackburn | Mr Adnan Hussain MP | 3165 |
 | Blackley and Middleton South | Graham Stringer MP | 3803 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6198 |
-| Blackpool South | Chris Webb MP | 5863 |
+| Blackpool South | Chris Webb MP | 5864 |
 | Blaydon and Consett | Liz Twist MP | 5271 |
 | Blyth and Ashington | Ian Lavery MP | 5904 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6167 |
-| Bolsover | Natalie Fleet MP | 6569 |
+| Bolsover | Natalie Fleet MP | 6570 |
 | Bolton North East | Kirith Entwistle MP | 5637 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4457 |
 | Bolton West | Phil Brickell MP | 5607 |
@@ -141,7 +141,7 @@
 | Derby North | Catherine Atkinson MP | 4354 |
 | Derby South | Baggy Shanker MP | 3649 |
 | Derbyshire Dales | John Whitby MP | 6804 |
-| Dewsbury and Batley | Iqbal Mohamed MP | 3202 |
+| Dewsbury and Batley | Iqbal Mohamed MP | 3203 |
 | Didcot and Wantage | Olly Glover MP | 4899 |
 | Doncaster Central | Sally Jameson MP | 4971 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6104 |
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 6063 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1113 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5357 |
-| East Surrey | Rt Hon Claire Coutinho MP | 6045 |
+| East Surrey | Rt Hon Claire Coutinho MP | 6047 |
 | East Thanet | Ms Polly Billington MP | 5519 |
 | East Wiltshire | Danny Kruger MP | 6093 |
 | East Worthing and Shoreham | Tom Rutland MP | 4629 |
@@ -213,7 +213,7 @@
 | Hampstead and Highgate | Tulip Siddiq MP | 2984 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4729 |
 | Harlow | Chris Vince MP | 6094 |
-| Harpenden and Berkhamsted | Victoria Collins MP | 4552 |
+| Harpenden and Berkhamsted | Victoria Collins MP | 4553 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5140 |
 | Harrow East | Bob Blackman MP | 3142 |
 | Harrow West | Gareth Thomas MP | 2415 |
@@ -307,7 +307,7 @@
 | Mid Bedfordshire | Blake Stephenson MP | 5865 |
 | Mid Buckinghamshire | Greg Smith MP | 5616 |
 | Mid Cheshire | Andrew Cooper MP | 5205 |
-| Mid Derbyshire | Jonathan Davies MP | 5262 |
+| Mid Derbyshire | Jonathan Davies MP | 5263 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5913 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5623 |
 | Mid Norfolk | George Freeman MP | 6310 |
@@ -323,7 +323,7 @@
 | Newark | Rt Hon Robert Jenrick MP | 7189 |
 | Newbury | Mr Lee Dillon MP | 4917 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4543 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4787 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4788 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3973 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5104 |
 | Newton Abbot | Martin Wrigley MP | 5142 |
@@ -405,7 +405,7 @@
 | Rushcliffe | James Naish MP | 5094 |
 | Rutland and Stamford | Alicia Kearns MP | 6280 |
 | Salford | Rebecca Long Bailey MP | 4686 |
-| Salisbury | Rt Hon John Glen MP | 4765 |
+| Salisbury | Rt Hon John Glen MP | 4766 |
 | Scarborough and Whitby | Alison Hume MP | 6039 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5113 |
 | Sefton Central | Bill Esterson MP | 4051 |
@@ -579,7 +579,7 @@
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4690 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2846 |
 | Alloa and Grangemouth | Brian Leishman MP | 3040 |
-| Angus and Perthshire Glens | Dave Doogan MP | 4072 |
+| Angus and Perthshire Glens | Dave Doogan MP | 4073 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3492 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3434 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3043 |
@@ -588,7 +588,7 @@
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2876 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2690 |
 | Dumfries and Galloway | John Cooper MP | 4053 |
-| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3880 |
+| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3881 |
 | Dundee Central | Chris Law MP | 2559 |
 | Dunfermline and Dollar | Graeme Downie MP | 2947 |
 | East Kilbride and Strathaven | Joani Reid MP | 3173 |
@@ -604,7 +604,7 @@
 | Glasgow South | Gordon McKee MP | 1863 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2280 |
 | Glasgow West | Patricia Ferguson MP | 2244 |
-| Glenrothes and Mid Fife | Richard Baker MP | 3000 |
+| Glenrothes and Mid Fife | Richard Baker MP | 3001 |
 | Gordon and Buchan | Harriet Cross MP | 4412 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3160 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2770 |
