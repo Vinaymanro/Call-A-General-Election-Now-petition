@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3010204                                |
-| Last Updated      | 2025-04-15 04:22:21 UTC                                    |
+| Total Signatures   | 3010207                                |
+| Last Updated      | 2025-04-15 05:18:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -138,9 +138,9 @@
 | Darlington | Lola McEvoy MP | 5489 |
 | Dartford | Jim Dickson MP | 5761 |
 | Daventry | Rt Hon Stuart Andrew MP | 7302 |
-| Derby North | Catherine Atkinson MP | 4352 |
+| Derby North | Catherine Atkinson MP | 4353 |
 | Derby South | Baggy Shanker MP | 3649 |
-| Derbyshire Dales | John Whitby MP | 6803 |
+| Derbyshire Dales | John Whitby MP | 6804 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3202 |
 | Didcot and Wantage | Olly Glover MP | 4899 |
 | Doncaster Central | Sally Jameson MP | 4971 |
@@ -231,7 +231,7 @@
 | Hertford and Stortford | Josh Dean MP | 6003 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5770 |
 | Hexham | Joe Morris MP | 6435 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5290 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5291 |
 | High Peak | Jon Pearce MP | 5494 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6515 |
 | Hitchin | Alistair Strathern MP | 4934 |
