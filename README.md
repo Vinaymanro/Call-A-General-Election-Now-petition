@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3010561                                |
-| Last Updated      | 2025-04-16 01:26:56 UTC                                    |
+| Total Signatures   | 3010564                                |
+| Last Updated      | 2025-04-16 03:03:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -57,7 +57,7 @@
 | Bolsover | Natalie Fleet MP | 6572 |
 | Bolton North East | Kirith Entwistle MP | 5638 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4457 |
-| Bolton West | Phil Brickell MP | 5608 |
+| Bolton West | Phil Brickell MP | 5609 |
 | Bootle | Peter Dowd MP | 3184 |
 | Boston and Skegness | Richard Tice MP | 7118 |
 | Bournemouth East | Tom Hayes MP | 4690 |
@@ -192,7 +192,7 @@
 | Gateshead Central and Whickham | Mark Ferguson MP | 4555 |
 | Gedling | Michael Payne MP | 5090 |
 | Gillingham and Rainham | Naushabah Khan MP | 5080 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5613 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5614 |
 | Gloucester | Alex McIntyre MP | 4571 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5250 |
 | Goole and Pocklington | Rt Hon David Davis MP | 6994 |
@@ -644,7 +644,7 @@
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4260 |
 | Gower | Tonia Antoniazzi MP | 4797 |
 | Llanelli | Dame Nia Griffith MP | 5294 |
-| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3754 |
+| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3755 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5518 |
 | Monmouthshire | Catherine Fookes MP | 4770 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6075 |
