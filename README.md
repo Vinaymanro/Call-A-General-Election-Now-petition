@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3010564                                |
-| Last Updated      | 2025-04-16 03:03:47 UTC                                    |
+| Total Signatures   | 3010567                                |
+| Last Updated      | 2025-04-16 04:22:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3758 |
 | Waveney Valley | Adrian Ramsay MP | 5886 |
 | Weald of Kent | Katie Lam MP | 7254 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5124 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5125 |
 | Wells and Mendip Hills | Tessa Munt MP | 5281 |
 | Welwyn Hatfield | Andrew Lewin MP | 5091 |
 | West Bromwich | Sarah Coombes MP | 3813 |
@@ -539,7 +539,7 @@
 | Witney | Charlie Maynard MP | 5173 |
 | Woking | Mr Will Forster MP | 4408 |
 | Wokingham | Clive Jones MP | 4882 |
-| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4442 |
+| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4443 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4354 |
 | Wolverhampton West | Warinder Juss | 3853 |
 | Worcester | Tom Collins MP | 4351 |
@@ -609,7 +609,7 @@
 | Hamilton and Clyde Valley | Imogen Walker MP | 3160 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2772 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3640 |
-| Livingston | Gregor Poynton MP | 3429 |
+| Livingston | Gregor Poynton MP | 3430 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2876 |
 | Mid Dunbartonshire | Susan Murray MP | 2537 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3958 |
