@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3010950                                |
-| Last Updated      | 2025-04-17 06:26:50 UTC                                    |
+| Total Signatures   | 3010961                                |
+| Last Updated      | 2025-04-17 07:19:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -54,7 +54,7 @@
 | Blaydon and Consett | Liz Twist MP | 5272 |
 | Blyth and Ashington | Ian Lavery MP | 5905 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6171 |
-| Bolsover | Natalie Fleet MP | 6573 |
+| Bolsover | Natalie Fleet MP | 6574 |
 | Bolton North East | Kirith Entwistle MP | 5638 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4459 |
 | Bolton West | Phil Brickell MP | 5610 |
@@ -86,7 +86,7 @@
 | Bromsgrove | Bradley Thomas MP | 6504 |
 | Broxbourne | Lewis Cocking MP | 6110 |
 | Broxtowe | Juliet Campbell MP | 4732 |
-| Buckingham and Bletchley | Callum Anderson MP | 5275 |
+| Buckingham and Bletchley | Callum Anderson MP | 5276 |
 | Burnley | Oliver Ryan MP | 5753 |
 | Burton and Uttoxeter | Jacob Collier MP | 5840 |
 | Bury North | Mr James Frith MP | 5003 |
@@ -191,7 +191,7 @@
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6688 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4555 |
 | Gedling | Michael Payne MP | 5092 |
-| Gillingham and Rainham | Naushabah Khan MP | 5081 |
+| Gillingham and Rainham | Naushabah Khan MP | 5082 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5615 |
 | Gloucester | Alex McIntyre MP | 4571 |
 | Godalming and Ash | Rt Hon Jeremy Hunt MP | 5250 |
@@ -213,7 +213,7 @@
 | Hampstead and Highgate | Tulip Siddiq MP | 2985 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4730 |
 | Harlow | Chris Vince MP | 6096 |
-| Harpenden and Berkhamsted | Victoria Collins MP | 4554 |
+| Harpenden and Berkhamsted | Victoria Collins MP | 4555 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5141 |
 | Harrow East | Bob Blackman MP | 3145 |
 | Harrow West | Gareth Thomas MP | 2417 |
@@ -254,7 +254,7 @@
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2803 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5125 |
 | Keighley and Ilkley | Robbie Moore MP | 4720 |
-| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6124 |
+| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6125 |
 | Kensington and Bayswater | Joe Powell MP | 4415 |
 | Kettering | Rosie Wrighting MP | 5941 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3772 |
@@ -300,7 +300,7 @@
 | Manchester Central | Rt Hon Lucy Powell MP | 4017 |
 | Manchester Rusholme | Afzal Khan MP | 1232 |
 | Manchester Withington | Jeff Smith MP | 1686 |
-| Mansfield | Steve Yemm MP | 6236 |
+| Mansfield | Steve Yemm MP | 6237 |
 | Melksham and Devizes | Brian Mathew MP | 5034 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6133 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6121 |
@@ -325,7 +325,7 @@
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4545 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4790 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3974 |
-| Newcastle-under-Lyme | Adam Jogee MP | 5107 |
+| Newcastle-under-Lyme | Adam Jogee MP | 5108 |
 | Newton Abbot | Martin Wrigley MP | 5145 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5567 |
 | Normanton and Hemsworth | Jon Trickett MP | 5545 |
@@ -500,7 +500,7 @@
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6611 |
 | Tottenham | Rt Hon David Lammy MP | 1702 |
 | Truro and Falmouth | Jayne Kirkham MP | 4621 |
-| Tunbridge Wells | Mike Martin MP | 5481 |
+| Tunbridge Wells | Mike Martin MP | 5482 |
 | Twickenham | Munira Wilson MP | 3668 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4508 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4501 |
@@ -544,7 +544,7 @@
 | Wolverhampton West | Warinder Juss | 3853 |
 | Worcester | Tom Collins MP | 4351 |
 | Worsley and Eccles | Michael Wheeler MP | 5484 |
-| Worthing West | Dr Beccy Cooper MP | 5275 |
+| Worthing West | Dr Beccy Cooper MP | 5276 |
 | Wycombe | Emma Reynolds MP | 3632 |
 | Wyre Forest | Mark Garnier MP | 6524 |
 | Wythenshawe and Sale East | Mike Kane MP | 4631 |
@@ -605,7 +605,7 @@
 | Glasgow South West | Dr Zubir Ahmed MP | 2284 |
 | Glasgow West | Patricia Ferguson MP | 2245 |
 | Glenrothes and Mid Fife | Richard Baker MP | 3002 |
-| Gordon and Buchan | Harriet Cross MP | 4412 |
+| Gordon and Buchan | Harriet Cross MP | 4413 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3160 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2774 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3640 |
@@ -620,7 +620,7 @@
 | Perth and Kinross-shire | Pete Wishart MP | 3527 |
 | Rutherglen | Michael Shanks MP | 2602 |
 | Stirling and Strathallan | Chris Kane MP | 3237 |
-| West Dunbartonshire | Douglas McAllister MP | 2751 |
+| West Dunbartonshire | Douglas McAllister MP | 2752 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3568 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4051 |
 | Central Ayrshire | Alan Gemmell MP | 3160 |
