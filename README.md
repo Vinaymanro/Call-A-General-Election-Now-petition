@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3010930                                |
-| Last Updated      | 2025-04-17 04:22:07 UTC                                    |
+| Total Signatures   | 3010933                                |
+| Last Updated      | 2025-04-17 05:18:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -133,7 +133,7 @@
 | Crewe and Nantwich | Connor Naismith MP | 5714 |
 | Croydon East | Natasha Irons MP | 3350 |
 | Croydon South | Rt Hon Chris Philp MP | 3965 |
-| Croydon West | Sarah Jones MP | 1758 |
+| Croydon West | Sarah Jones MP | 1759 |
 | Dagenham and Rainham | Margaret Mullane MP | 4261 |
 | Darlington | Lola McEvoy MP | 5490 |
 | Dartford | Jim Dickson MP | 5763 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6239 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5272 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4120 |
-| Orpington | Gareth Bacon MP | 5337 |
+| Orpington | Gareth Bacon MP | 5338 |
 | Ossett and Denby Dale | Jade Botterill MP | 5833 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2166 |
 | Oxford West and Abingdon | Layla Moran MP | 2941 |
@@ -377,7 +377,7 @@
 | Poole | Neil Duncan-Jordan MP | 5689 |
 | Poplar and Limehouse | Apsana Begum MP | 2936 |
 | Portsmouth North | Amanda Martin MP | 5659 |
-| Portsmouth South | Stephen Morgan MP | 3910 |
+| Portsmouth South | Stephen Morgan MP | 3911 |
 | Preston | Sir Mark Hendrick MP | 3833 |
 | Putney | Fleur Anderson MP | 3530 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2167 |
