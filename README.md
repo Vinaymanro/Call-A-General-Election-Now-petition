@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3010928                                |
-| Last Updated      | 2025-04-17 03:02:30 UTC                                    |
+| Total Signatures   | 3010930                                |
+| Last Updated      | 2025-04-17 04:22:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5226 |
 | South West Norfolk | Terry Jermy MP | 6565 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5233 |
-| Southampton Itchen | Darren Paffey MP | 4576 |
+| Southampton Itchen | Darren Paffey MP | 4577 |
 | Southampton Test | Satvir Kaur MP | 3429 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5619 |
 | Southend West and Leigh | David Burton-Sampson MP | 5902 |
@@ -505,7 +505,7 @@
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4508 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4501 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1688 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4946 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4947 |
 | Wallasey | Dame Angela Eagle MP | 4111 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4052 |
 | Walthamstow | Ms Stella Creasy MP | 1325 |
