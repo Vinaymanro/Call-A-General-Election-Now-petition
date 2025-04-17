@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3010925                                |
-| Last Updated      | 2025-04-17 01:25:53 UTC                                    |
+| Total Signatures   | 3010928                                |
+| Last Updated      | 2025-04-17 03:02:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 5003 |
 | Bury South | Christian Wakeford MP | 5452 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5463 |
-| Calder Valley | Josh Fenton-Glynn MP | 5682 |
+| Calder Valley | Josh Fenton-Glynn MP | 5683 |
 | Camborne and Redruth | Perran Moon MP | 5000 |
 | Cambridge | Daniel Zeichner MP | 2232 |
 | Cannock Chase | Josh Newbury MP | 6930 |
@@ -613,7 +613,7 @@
 | Lothian East | Rt Hon Douglas Alexander MP | 2877 |
 | Mid Dunbartonshire | Susan Murray MP | 2538 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3959 |
-| Motherwell, Wishaw and Carluke | Pamela Nash MP | 2761 |
+| Motherwell, Wishaw and Carluke | Pamela Nash MP | 2762 |
 | North East Fife | Wendy Chamberlain MP | 2918 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2891 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2665 |
@@ -648,7 +648,7 @@
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5519 |
 | Monmouthshire | Catherine Fookes MP | 4770 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6075 |
-| Neath and Swansea East | Carolyn Harris MP | 4496 |
+| Neath and Swansea East | Carolyn Harris MP | 4497 |
 | Newport East | Jessica Morden MP | 4053 |
 | Newport West and Islwyn | Ruth Jones MP | 4111 |
 | Pontypridd | Alex Davies-Jones MP | 3955 |
