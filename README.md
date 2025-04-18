@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3011920                                |
-| Last Updated      | 2025-04-18 03:36:43 UTC                                    |
+| Total Signatures   | 3011925                                |
+| Last Updated      | 2025-04-18 04:21:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -57,7 +57,7 @@
 | Bolsover | Natalie Fleet MP | 6576 |
 | Bolton North East | Kirith Entwistle MP | 5645 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4466 |
-| Bolton West | Phil Brickell MP | 5620 |
+| Bolton West | Phil Brickell MP | 5621 |
 | Bootle | Peter Dowd MP | 3189 |
 | Boston and Skegness | Richard Tice MP | 7123 |
 | Bournemouth East | Tom Hayes MP | 4691 |
@@ -397,7 +397,7 @@
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5089 |
 | Rossendale and Darwen | Andy MacNae MP | 6533 |
 | Rother Valley | Jake Richards MP | 5901 |
-| Rotherham | Sarah Champion MP | 4982 |
+| Rotherham | Sarah Champion MP | 4983 |
 | Rugby | John Slinger MP | 5442 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4119 |
 | Runcorn and Helsby | null | 5072 |
@@ -425,12 +425,12 @@
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2598 |
 | Smethwick | Gurinder Singh Josan MP | 3084 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5477 |
-| South Basildon and East Thurrock | James McMurdock MP | 6639 |
+| South Basildon and East Thurrock | James McMurdock MP | 6640 |
 | South Cambridgeshire | Pippa Heylings MP | 4468 |
 | South Cotswolds | Dr Roz Savage MP | 5734 |
 | South Derbyshire | Samantha Niblett MP | 6205 |
 | South Devon | Caroline Voaden MP | 5349 |
-| South Dorset | Lloyd Hatton MP | 5697 |
+| South Dorset | Lloyd Hatton MP | 5698 |
 | South East Cornwall | Anna Gelderd MP | 6276 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7169 |
 | South Leicestershire | Alberto Costa MP | 7025 |
@@ -589,7 +589,7 @@
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2690 |
 | Dumfries and Galloway | John Cooper MP | 4056 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3883 |
-| Dundee Central | Chris Law MP | 2563 |
+| Dundee Central | Chris Law MP | 2564 |
 | Dunfermline and Dollar | Graeme Downie MP | 2952 |
 | East Kilbride and Strathaven | Joani Reid MP | 3175 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2106 |
