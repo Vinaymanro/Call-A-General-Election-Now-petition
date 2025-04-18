@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3011925                                |
-| Last Updated      | 2025-04-18 04:21:54 UTC                                    |
+| Total Signatures   | 3011928                                |
+| Last Updated      | 2025-04-18 05:18:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -449,7 +449,7 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5620 |
 | Southend West and Leigh | David Burton-Sampson MP | 5904 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2608 |
-| Southport | Patrick Hurley MP | 6010 |
+| Southport | Patrick Hurley MP | 6011 |
 | Spelthorne | Lincoln Jopp MP | 5491 |
 | Spen Valley | Kim Leadbeater MP | 5409 |
 | St Albans | Daisy Cooper MP | 3889 |
@@ -460,7 +460,7 @@
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4827 |
 | Stafford | Leigh Ingham MP | 5644 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6443 |
-| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5386 |
+| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5387 |
 | Stevenage | Kevin Bonavia MP | 4772 |
 | Stockport | Navendu Mishra MP | 3951 |
 | Stockton North | Chris McDonald MP | 4864 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5986 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5970 |
 | Tooting | Dr Rosena Allin-Khan MP | 2705 |
-| Torbay | Steve Darling MP | 5876 |
+| Torbay | Steve Darling MP | 5877 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6614 |
 | Tottenham | Rt Hon David Lammy MP | 1702 |
 | Truro and Falmouth | Jayne Kirkham MP | 4627 |
