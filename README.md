@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3011919                                |
-| Last Updated      | 2025-04-18 02:59:42 UTC                                    |
+| Total Signatures   | 3011920                                |
+| Last Updated      | 2025-04-18 03:36:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5497 |
 | Redditch | Chris Bloore MP | 6128 |
 | Reigate | Rebecca Paul MP | 5561 |
-| Ribble Valley | Maya Ellis MP | 6747 |
+| Ribble Valley | Maya Ellis MP | 6748 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7136 |
 | Richmond Park | Sarah Olney MP | 4069 |
 | Rochdale | Paul Waugh MP | 3974 |
