@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3012409                                |
-| Last Updated      | 2025-04-19 04:21:04 UTC                                    |
+| Total Signatures   | 3012412                                |
+| Last Updated      | 2025-04-19 05:17:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -142,7 +142,7 @@
 | Derby South | Baggy Shanker MP | 3651 |
 | Derbyshire Dales | John Whitby MP | 6810 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3211 |
-| Didcot and Wantage | Olly Glover MP | 4901 |
+| Didcot and Wantage | Olly Glover MP | 4902 |
 | Doncaster Central | Sally Jameson MP | 4973 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6107 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5605 |
@@ -261,7 +261,7 @@
 | Kingston upon Hull East | Karl Turner MP | 5050 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4678 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5535 |
-| Kingswinford and South Staffordshire | Mike Wood MP | 6423 |
+| Kingswinford and South Staffordshire | Mike Wood MP | 6424 |
 | Knowsley | Anneliese Midgley MP | 3313 |
 | Lancaster and Wyre | Cat Smith MP | 5114 |
 | Leeds Central and Headingley | Alex Sobel MP | 1947 |
@@ -574,7 +574,7 @@
 | Midlothian | Kirsty McNeill MP | 2821 |
 | North Ayrshire and Arran | Irene Campbell MP | 3319 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1447 |
-| Aberdeen North | Kirsty Blackman MP | 3577 |
+| Aberdeen North | Kirsty Blackman MP | 3578 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3866 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4696 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2851 |
