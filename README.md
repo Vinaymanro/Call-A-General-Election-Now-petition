@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3012572                                |
-| Last Updated      | 2025-04-19 15:17:08 UTC                                    |
+| Total Signatures   | 3012580                                |
+| Last Updated      | 2025-04-19 16:21:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -99,7 +99,7 @@
 | Canterbury | Rosie Duffield MP | 4490 |
 | Carlisle | Ms Julie Minns MP | 6578 |
 | Carshalton and Wallington | Bobby Dean MP | 4292 |
-| Castle Point | Rebecca Harris MP | 7559 |
+| Castle Point | Rebecca Harris MP | 7561 |
 | Central Devon | Rt Hon Sir Mel Stride MP | 5835 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5322 |
 | Chatham and Aylesford | Tristan Osborne MP | 5674 |
@@ -153,7 +153,7 @@
 | Dulwich and West Norwood | Helen Hayes MP | 1566 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5551 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3111 |
-| Ealing North | James Murray MP | 2595 |
+| Ealing North | James Murray MP | 2596 |
 | Ealing Southall | Deirdre Costigan MP | 1967 |
 | Earley and Woodley | Yuan Yang MP | 3973 |
 | Easington | Grahame Morris MP | 5802 |
@@ -182,7 +182,7 @@
 | Farnham and Bordon | Gregory Stafford MP | 5206 |
 | Faversham and Mid Kent | Helen Whately MP | 6262 |
 | Feltham and Heston | Seema Malhotra MP | 2944 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4541 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4542 |
 | Finchley and Golders Green | Sarah Sackman MP | 4292 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5421 |
 | Forest of Dean | Matt Bishop MP | 5301 |
@@ -285,7 +285,7 @@
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3170 |
 | Liverpool Riverside | Kim Johnson MP | 2673 |
 | Liverpool Walton | Dan Carden MP | 3401 |
-| Liverpool Wavertree | Paula Barker MP | 2244 |
+| Liverpool Wavertree | Paula Barker MP | 2245 |
 | Liverpool West Derby | Ian Byrne MP | 3096 |
 | Loughborough | Dr Jeevun Sandher MP | 4502 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7829 |
@@ -300,7 +300,7 @@
 | Manchester Central | Rt Hon Lucy Powell MP | 4018 |
 | Manchester Rusholme | Afzal Khan MP | 1232 |
 | Manchester Withington | Jeff Smith MP | 1686 |
-| Mansfield | Steve Yemm MP | 6239 |
+| Mansfield | Steve Yemm MP | 6240 |
 | Melksham and Devizes | Brian Mathew MP | 5036 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6135 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6124 |
@@ -437,7 +437,7 @@
 | South Norfolk | Ben Goldsborough MP | 5465 |
 | South Northamptonshire | Sarah Bool MP | 6697 |
 | South Ribble | Mr Paul Foster MP | 5924 |
-| South Shields | Emma Lewell MP | 4768 |
+| South Shields | Emma Lewell MP | 4769 |
 | South Shropshire | Stuart Anderson MP | 7351 |
 | South Suffolk | James Cartlidge MP | 6174 |
 | South West Devon | Rebecca Smith MP | 6005 |
@@ -582,7 +582,7 @@
 | Angus and Perthshire Glens | Dave Doogan MP | 4074 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3492 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3437 |
-| Bathgate and Linlithgow | Kirsteen Sullivan MP | 3046 |
+| Bathgate and Linlithgow | Kirsteen Sullivan MP | 3047 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4099 |
 | Coatbridge and Bellshill | Frank McNally MP | 2613 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2879 |
