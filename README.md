@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3012403                                |
-| Last Updated      | 2025-04-19 01:22:53 UTC                                    |
+| Total Signatures   | 3012405                                |
+| Last Updated      | 2025-04-19 02:55:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -54,7 +54,7 @@
 | Blaydon and Consett | Liz Twist MP | 5276 |
 | Blyth and Ashington | Ian Lavery MP | 5907 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6171 |
-| Bolsover | Natalie Fleet MP | 6579 |
+| Bolsover | Natalie Fleet MP | 6580 |
 | Bolton North East | Kirith Entwistle MP | 5647 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4466 |
 | Bolton West | Phil Brickell MP | 5621 |
@@ -519,7 +519,7 @@
 | Wellingborough and Rushden | Gen Kitchen MP | 5129 |
 | Wells and Mendip Hills | Tessa Munt MP | 5283 |
 | Welwyn Hatfield | Andrew Lewin MP | 5091 |
-| West Bromwich | Sarah Coombes MP | 3814 |
+| West Bromwich | Sarah Coombes MP | 3815 |
 | West Dorset | Edward Morello MP | 5486 |
 | West Ham and Beckton | James Asser MP | 2172 |
 | West Lancashire | Ashley Dalton MP | 5091 |
