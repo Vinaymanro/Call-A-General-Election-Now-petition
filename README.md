@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3012405                                |
-| Last Updated      | 2025-04-19 03:30:17 UTC                                    |
+| Total Signatures   | 3012409                                |
+| Last Updated      | 2025-04-19 04:21:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5493 |
 | Dartford | Jim Dickson MP | 5765 |
 | Daventry | Rt Hon Stuart Andrew MP | 7304 |
-| Derby North | Catherine Atkinson MP | 4360 |
+| Derby North | Catherine Atkinson MP | 4361 |
 | Derby South | Baggy Shanker MP | 3651 |
 | Derbyshire Dales | John Whitby MP | 6810 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3211 |
@@ -367,12 +367,12 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2166 |
 | Oxford West and Abingdon | Layla Moran MP | 2942 |
 | Peckham | Miatta Fahnbulleh MP | 1370 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6233 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6234 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5482 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6235 |
 | Peterborough | Andrew Pakes MP | 4192 |
 | Plymouth Moor View | Fred Thomas MP | 5740 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4796 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4797 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5501 |
 | Poole | Neil Duncan-Jordan MP | 5692 |
 | Poplar and Limehouse | Apsana Begum MP | 2937 |
@@ -476,7 +476,7 @@
 | Stretford and Urmston | Andrew Western MP | 3859 |
 | Stroud | Dr Simon Opher MP | 4563 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5418 |
-| Sunderland Central | Lewis Atkinson MP | 5291 |
+| Sunderland Central | Lewis Atkinson MP | 5292 |
 | Surrey Heath | Dr Al Pinkerton MP | 5457 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6136 |
 | Sutton and Cheam | Luke Taylor MP | 4404 |
