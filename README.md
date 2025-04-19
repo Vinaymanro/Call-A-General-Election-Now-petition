@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3012412                                |
-| Last Updated      | 2025-04-19 05:17:44 UTC                                    |
+| Total Signatures   | 3012421                                |
+| Last Updated      | 2025-04-19 06:24:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -110,7 +110,7 @@
 | Chesham and Amersham | Sarah Green MP | 4954 |
 | Chester North and Neston | Samantha Dixon MP | 4080 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6419 |
-| Chesterfield | Mr Toby Perkins MP | 4921 |
+| Chesterfield | Mr Toby Perkins MP | 4922 |
 | Chichester | Jess Brown-Fuller MP | 5961 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4190 |
 | Chippenham | Sarah Gibson MP | 4769 |
@@ -257,7 +257,7 @@
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6126 |
 | Kensington and Bayswater | Joe Powell MP | 4416 |
 | Kettering | Rosie Wrighting MP | 5944 |
-| Kingston and Surbiton | Rt Hon Ed Davey MP | 3774 |
+| Kingston and Surbiton | Rt Hon Ed Davey MP | 3775 |
 | Kingston upon Hull East | Karl Turner MP | 5050 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4678 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5535 |
@@ -295,8 +295,8 @@
 | Macclesfield | Tim Roca MP | 5417 |
 | Maidenhead | Mr Joshua Reynolds MP | 5304 |
 | Maidstone and Malling | Helen Grant MP | 5871 |
-| Makerfield | Josh Simons MP | 5926 |
-| Maldon | Rt Hon Sir John Whittingdale MP | 8140 |
+| Makerfield | Josh Simons MP | 5927 |
+| Maldon | Rt Hon Sir John Whittingdale MP | 8141 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4018 |
 | Manchester Rusholme | Afzal Khan MP | 1232 |
 | Manchester Withington | Jeff Smith MP | 1686 |
@@ -350,7 +350,7 @@
 | North West Essex | Rt Hon Kemi Badenoch MP | 7158 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5755 |
 | North West Leicestershire | Amanda Hack MP | 6733 |
-| North West Norfolk | James Wild MP | 5788 |
+| North West Norfolk | James Wild MP | 5789 |
 | Northampton North | Lucy Rigby KC MP | 4308 |
 | Northampton South | Mike Reader MP | 4989 |
 | Norwich North | Alice Macdonald MP | 4444 |
@@ -397,7 +397,7 @@
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5089 |
 | Rossendale and Darwen | Andy MacNae MP | 6534 |
 | Rother Valley | Jake Richards MP | 5903 |
-| Rotherham | Sarah Champion MP | 4984 |
+| Rotherham | Sarah Champion MP | 4985 |
 | Rugby | John Slinger MP | 5443 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4120 |
 | Runcorn and Helsby | null | 5072 |
@@ -451,7 +451,7 @@
 | Southgate and Wood Green | Bambos Charalambous MP | 2608 |
 | Southport | Patrick Hurley MP | 6012 |
 | Spelthorne | Lincoln Jopp MP | 5492 |
-| Spen Valley | Kim Leadbeater MP | 5410 |
+| Spen Valley | Kim Leadbeater MP | 5411 |
 | St Albans | Daisy Cooper MP | 3889 |
 | St Austell and Newquay | Noah Law MP | 5664 |
 | St Helens North | David Baines MP | 4756 |
@@ -476,7 +476,7 @@
 | Stretford and Urmston | Andrew Western MP | 3859 |
 | Stroud | Dr Simon Opher MP | 4563 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5418 |
-| Sunderland Central | Lewis Atkinson MP | 5292 |
+| Sunderland Central | Lewis Atkinson MP | 5293 |
 | Surrey Heath | Dr Al Pinkerton MP | 5457 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6136 |
 | Sutton and Cheam | Luke Taylor MP | 4404 |
@@ -505,7 +505,7 @@
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4511 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4503 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1689 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4951 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4952 |
 | Wallasey | Dame Angela Eagle MP | 4111 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4053 |
 | Walthamstow | Ms Stella Creasy MP | 1325 |
