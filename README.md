@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3012805                                |
-| Last Updated      | 2025-04-20 01:39:17 UTC                                    |
+| Total Signatures   | 3012811                                |
+| Last Updated      | 2025-04-20 03:07:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5475 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5842 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5843 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5513 |
 | Amber Valley | Linsey Farnsworth MP | 6133 |
 | Arundel and South Downs | Andrew Griffith MP | 6979 |
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5487 |
 | Barking | Nesil Caliskan MP | 2658 |
 | Barnsley North | Dan Jarvis MP | 5730 |
-| Barnsley South | Stephanie Peacock MP | 5818 |
+| Barnsley South | Stephanie Peacock MP | 5819 |
 | Barrow and Furness | Michelle Scrogham MP | 5360 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6928 |
 | Basingstoke | Luke Murphy MP | 4852 |
@@ -463,7 +463,7 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5389 |
 | Stevenage | Kevin Bonavia MP | 4772 |
 | Stockport | Navendu Mishra MP | 3952 |
-| Stockton North | Chris McDonald MP | 4864 |
+| Stockton North | Chris McDonald MP | 4865 |
 | Stockton West | Matt Vickers MP | 6016 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4789 |
 | Stoke-on-Trent North | David Williams MP | 5501 |
@@ -569,7 +569,7 @@
 | Strangford | Jim Shannon MP | 3481 |
 | Upper Bann | Carla Lockhart MP | 3091 |
 | West Tyrone | Órfhlaith Begley MP | 1675 |
-| East Renfrewshire | Blair McDougall MP | 2613 |
+| East Renfrewshire | Blair McDougall MP | 2614 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 884 |
 | Midlothian | Kirsty McNeill MP | 2821 |
 | North Ayrshire and Arran | Irene Campbell MP | 3319 |
@@ -634,7 +634,7 @@
 | Bridgend | Chris Elmore MP | 4284 |
 | Caerfyrddin | Ann Davies MP | 5242 |
 | Caerphilly | Chris Evans MP | 4052 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2937 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2938 |
 | Cardiff North | Anna McMorrin MP | 3315 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2825 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3171 |
@@ -644,7 +644,7 @@
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4260 |
 | Gower | Tonia Antoniazzi MP | 4804 |
 | Llanelli | Dame Nia Griffith MP | 5299 |
-| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3759 |
+| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3760 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5528 |
 | Monmouthshire | Catherine Fookes MP | 4773 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6080 |
