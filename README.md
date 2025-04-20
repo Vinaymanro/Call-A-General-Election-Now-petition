@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3012816                                |
-| Last Updated      | 2025-04-20 04:20:24 UTC                                    |
+| Total Signatures   | 3012822                                |
+| Last Updated      | 2025-04-20 05:18:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -98,7 +98,7 @@
 | Cannock Chase | Josh Newbury MP | 6933 |
 | Canterbury | Rosie Duffield MP | 4491 |
 | Carlisle | Ms Julie Minns MP | 6579 |
-| Carshalton and Wallington | Bobby Dean MP | 4292 |
+| Carshalton and Wallington | Bobby Dean MP | 4293 |
 | Castle Point | Rebecca Harris MP | 7561 |
 | Central Devon | Rt Hon Sir Mel Stride MP | 5836 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5323 |
@@ -281,7 +281,7 @@
 | Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1600 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1886 |
 | Lichfield | Dave Robertson MP | 6515 |
-| Lincoln | Mr Hamish Falconer MP | 4674 |
+| Lincoln | Mr Hamish Falconer MP | 4675 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3170 |
 | Liverpool Riverside | Kim Johnson MP | 2673 |
 | Liverpool Walton | Dan Carden MP | 3401 |
@@ -317,7 +317,7 @@
 | Milton Keynes Central | Emily Darlington MP | 4968 |
 | Milton Keynes North | Chris Curtis MP | 4597 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2685 |
-| Morecambe and Lunesdale | Lizzi Collinge MP | 5796 |
+| Morecambe and Lunesdale | Lizzi Collinge MP | 5797 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5464 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5292 |
 | Newark | Rt Hon Robert Jenrick MP | 7192 |
@@ -372,7 +372,7 @@
 | Penrith and Solway | Markus Campbell-Savours MP | 6235 |
 | Peterborough | Andrew Pakes MP | 4192 |
 | Plymouth Moor View | Fred Thomas MP | 5743 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4798 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4799 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5502 |
 | Poole | Neil Duncan-Jordan MP | 5692 |
 | Poplar and Limehouse | Apsana Begum MP | 2938 |
@@ -559,7 +559,7 @@
 | East Londonderry | Mr Gregory Campbell MP | 2543 |
 | Fermanagh and South Tyrone | Pat Cullen MP | 2278 |
 | Foyle | Colum Eastwood MP | 1073 |
-| Lagan Valley | Sorcha Eastwood MP | 3536 |
+| Lagan Valley | Sorcha Eastwood MP | 3537 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1901 |
 | Newry and Armagh | Dáire Hughes MP | 2092 |
 | North Antrim | Jim Allister KC MP | 3109 |
@@ -639,7 +639,7 @@
 | Cardiff South and Penarth | Stephen Doughty MP | 2825 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3171 |
 | Ceredigion Preseli | Ben Lake MP | 4770 |
-| Clwyd East | Becky Gittins MP | 6091 |
+| Clwyd East | Becky Gittins MP | 6092 |
 | Clwyd North | Gill German MP | 5524 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4260 |
 | Gower | Tonia Antoniazzi MP | 4804 |
