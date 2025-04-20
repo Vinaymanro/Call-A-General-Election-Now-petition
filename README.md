@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3012796                                |
-| Last Updated      | 2025-04-19 23:18:34 UTC                                    |
+| Total Signatures   | 3012805                                |
+| Last Updated      | 2025-04-20 01:39:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -30,7 +30,7 @@
 | Beaconsfield | Joy Morrissey MP | 5233 |
 | Beckenham and Penge | Liam Conlon MP | 3857 |
 | Bedford | Mohammad Yasin MP | 3250 |
-| Bermondsey and Old Southwark | Neil Coyle MP | 2726 |
+| Bermondsey and Old Southwark | Neil Coyle MP | 2727 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1740 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6196 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6165 |
@@ -93,7 +93,7 @@
 | Bury South | Christian Wakeford MP | 5456 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5467 |
 | Calder Valley | Josh Fenton-Glynn MP | 5686 |
-| Camborne and Redruth | Perran Moon MP | 5004 |
+| Camborne and Redruth | Perran Moon MP | 5005 |
 | Cambridge | Daniel Zeichner MP | 2234 |
 | Cannock Chase | Josh Newbury MP | 6933 |
 | Canterbury | Rosie Duffield MP | 4491 |
@@ -117,7 +117,7 @@
 | Chipping Barnet | Dan Tomlinson MP | 4362 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5538 |
 | Christchurch | Sir Christopher Chope MP | 5876 |
-| Cities of London and Westminster | Rachel Blake MP | 5188 |
+| Cities of London and Westminster | Rachel Blake MP | 5189 |
 | City of Durham | Mary Kelly Foy MP | 4279 |
 | Clacton | Nigel Farage MP | 8131 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1756 |
@@ -221,7 +221,7 @@
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6310 |
 | Hastings and Rye | Helena Dollimore MP | 5100 |
 | Havant | Alan Mak MP | 5714 |
-| Hayes and Harlington | Rt Hon John McDonnell MP | 2618 |
+| Hayes and Harlington | Rt Hon John McDonnell MP | 2619 |
 | Hazel Grove | Lisa Smart MP | 5136 |
 | Hemel Hempstead | David Taylor MP | 5105 |
 | Hendon | David Pinto-Duschinsky MP | 3818 |
@@ -252,7 +252,7 @@
 | Isle of Wight West | Mr Richard Quigley MP | 4091 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1809 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2804 |
-| Jarrow and Gateshead East | Kate Osborne MP | 5128 |
+| Jarrow and Gateshead East | Kate Osborne MP | 5129 |
 | Keighley and Ilkley | Robbie Moore MP | 4720 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6126 |
 | Kensington and Bayswater | Joe Powell MP | 4416 |
@@ -271,7 +271,7 @@
 | Leeds South | Rt Hon Hilary Benn MP | 3909 |
 | Leeds South West and Morley | Mark Sewards MP | 5544 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3818 |
-| Leicester East | Shivani Raja MP | 1901 |
+| Leicester East | Shivani Raja MP | 1902 |
 | Leicester South | Shockat Adam MP | 1872 |
 | Leicester West | Rt Hon Liz Kendall MP | 3500 |
 | Leigh and Atherton | Jo Platt MP | 6125 |
@@ -315,7 +315,7 @@
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4262 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5753 |
 | Milton Keynes Central | Emily Darlington MP | 4968 |
-| Milton Keynes North | Chris Curtis MP | 4596 |
+| Milton Keynes North | Chris Curtis MP | 4597 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2685 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5796 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5464 |
@@ -601,7 +601,7 @@
 | Glasgow East | John Grady MP | 2357 |
 | Glasgow North | Martin Rhodes MP | 2072 |
 | Glasgow North East | Maureen Burke MP | 2517 |
-| Glasgow South | Gordon McKee MP | 1865 |
+| Glasgow South | Gordon McKee MP | 1866 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2285 |
 | Glasgow West | Patricia Ferguson MP | 2246 |
 | Glenrothes and Mid Fife | Richard Baker MP | 3005 |
@@ -650,7 +650,7 @@
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6080 |
 | Neath and Swansea East | Carolyn Harris MP | 4501 |
 | Newport East | Jessica Morden MP | 4060 |
-| Newport West and Islwyn | Ruth Jones MP | 4115 |
+| Newport West and Islwyn | Ruth Jones MP | 4116 |
 | Pontypridd | Alex Davies-Jones MP | 3965 |
 | Rhondda and Ogmore | Chris Bryant MP | 4102 |
 | Swansea West | Torsten Bell MP | 3699 |
