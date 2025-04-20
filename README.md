@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3012811                                |
-| Last Updated      | 2025-04-20 03:07:26 UTC                                    |
+| Total Signatures   | 3012816                                |
+| Last Updated      | 2025-04-20 04:20:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -58,7 +58,7 @@
 | Bolton North East | Kirith Entwistle MP | 5648 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4468 |
 | Bolton West | Phil Brickell MP | 5622 |
-| Bootle | Peter Dowd MP | 3192 |
+| Bootle | Peter Dowd MP | 3193 |
 | Boston and Skegness | Richard Tice MP | 7125 |
 | Bournemouth East | Tom Hayes MP | 4694 |
 | Bournemouth West | Jessica Toale MP | 4949 |
@@ -145,7 +145,7 @@
 | Didcot and Wantage | Olly Glover MP | 4904 |
 | Doncaster Central | Sally Jameson MP | 4974 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6108 |
-| Doncaster North | Rt Hon Ed Miliband MP | 5609 |
+| Doncaster North | Rt Hon Ed Miliband MP | 5610 |
 | Dorking and Horley | Chris Coghlan MP | 5573 |
 | Dover and Deal | Mike Tapp MP | 5976 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6592 |
@@ -337,8 +337,8 @@
 | North Durham | Luke Akehurst MP | 5431 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6106 |
 | North East Derbyshire | Louise Jones MP | 5840 |
-| North East Hampshire | Alex Brewer MP | 5977 |
-| North East Hertfordshire | Chris Hinchliff MP | 5875 |
+| North East Hampshire | Alex Brewer MP | 5978 |
+| North East Hertfordshire | Chris Hinchliff MP | 5876 |
 | North East Somerset and Hanham | Dan Norris MP | 5076 |
 | North Herefordshire | Ellie Chowns MP | 6495 |
 | North Norfolk | Steff Aquarone MP | 5458 |
@@ -607,7 +607,7 @@
 | Glenrothes and Mid Fife | Richard Baker MP | 3005 |
 | Gordon and Buchan | Harriet Cross MP | 4415 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3162 |
-| Inverclyde and Renfrewshire West | Martin McCluskey MP | 2776 |
+| Inverclyde and Renfrewshire West | Martin McCluskey MP | 2777 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3640 |
 | Livingston | Gregor Poynton MP | 3431 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2879 |
