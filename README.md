@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3013213                                |
-| Last Updated      | 2025-04-21 04:22:32 UTC                                    |
+| Total Signatures   | 3013223                                |
+| Last Updated      | 2025-04-21 05:19:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5475 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5843 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5844 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5513 |
 | Amber Valley | Linsey Farnsworth MP | 6133 |
 | Arundel and South Downs | Andrew Griffith MP | 6979 |
@@ -76,7 +76,7 @@
 | Brigg and Immingham | Martin Vickers MP | 6506 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3955 |
 | Brighton Pavilion | Siân Berry MP | 2760 |
-| Bristol Central | Carla Denyer MP | 1620 |
+| Bristol Central | Carla Denyer MP | 1621 |
 | Bristol East | Kerry McCarthy MP | 3008 |
 | Bristol North East | Damien Egan MP | 3109 |
 | Bristol North West | Rt Hon Darren Jones MP | 3235 |
@@ -117,7 +117,7 @@
 | Chipping Barnet | Dan Tomlinson MP | 4363 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5538 |
 | Christchurch | Sir Christopher Chope MP | 5878 |
-| Cities of London and Westminster | Rachel Blake MP | 5189 |
+| Cities of London and Westminster | Rachel Blake MP | 5191 |
 | City of Durham | Mary Kelly Foy MP | 4279 |
 | Clacton | Nigel Farage MP | 8131 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1757 |
@@ -139,7 +139,7 @@
 | Dartford | Jim Dickson MP | 5766 |
 | Daventry | Rt Hon Stuart Andrew MP | 7304 |
 | Derby North | Catherine Atkinson MP | 4364 |
-| Derby South | Baggy Shanker MP | 3651 |
+| Derby South | Baggy Shanker MP | 3652 |
 | Derbyshire Dales | John Whitby MP | 6810 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3213 |
 | Didcot and Wantage | Olly Glover MP | 4904 |
@@ -182,7 +182,7 @@
 | Farnham and Bordon | Gregory Stafford MP | 5207 |
 | Faversham and Mid Kent | Helen Whately MP | 6262 |
 | Feltham and Heston | Seema Malhotra MP | 2944 |
-| Filton and Bradley Stoke | Claire Hazelgrove MP | 4542 |
+| Filton and Bradley Stoke | Claire Hazelgrove MP | 4543 |
 | Finchley and Golders Green | Sarah Sackman MP | 4293 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5421 |
 | Forest of Dean | Matt Bishop MP | 5301 |
@@ -220,7 +220,7 @@
 | Hartlepool | Mr Jonathan Brash MP | 5698 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6310 |
 | Hastings and Rye | Helena Dollimore MP | 5100 |
-| Havant | Alan Mak MP | 5716 |
+| Havant | Alan Mak MP | 5717 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2619 |
 | Hazel Grove | Lisa Smart MP | 5137 |
 | Hemel Hempstead | David Taylor MP | 5106 |
@@ -394,7 +394,7 @@
 | Rochdale | Paul Waugh MP | 3980 |
 | Rochester and Strood | Lauren Edwards MP | 6074 |
 | Romford | Andrew Rosindell MP | 5824 |
-| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5090 |
+| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5091 |
 | Rossendale and Darwen | Andy MacNae MP | 6538 |
 | Rother Valley | Jake Richards MP | 5905 |
 | Rotherham | Sarah Champion MP | 4989 |
@@ -524,7 +524,7 @@
 | West Ham and Beckton | James Asser MP | 2174 |
 | West Lancashire | Ashley Dalton MP | 5091 |
 | West Suffolk | Nick Timothy MP | 6071 |
-| West Worcestershire | Dame Harriett Baldwin MP | 6289 |
+| West Worcestershire | Dame Harriett Baldwin MP | 6290 |
 | Westmorland and Lonsdale | Tim Farron MP | 5215 |
 | Weston-super-Mare | Dan Aldridge MP | 5119 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6611 |
@@ -550,7 +550,7 @@
 | Wythenshawe and Sale East | Mike Kane MP | 4640 |
 | Yeovil | Adam Dance MP | 5626 |
 | York Central | Rachael Maskell MP | 3298 |
-| York Outer | Mr Luke Charters MP | 4362 |
+| York Outer | Mr Luke Charters MP | 4363 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2971 |
 | Belfast North | John Finucane MP | 2529 |
 | Belfast South and Mid Down | Claire Hanna MP | 1950 |
