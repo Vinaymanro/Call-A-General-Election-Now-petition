@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3013223                                |
-| Last Updated      | 2025-04-21 05:19:08 UTC                                    |
+| Total Signatures   | 3013232                                |
+| Last Updated      | 2025-04-21 06:27:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -31,12 +31,12 @@
 | Beckenham and Penge | Liam Conlon MP | 3857 |
 | Bedford | Mohammad Yasin MP | 3250 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2727 |
-| Bethnal Green and Stepney | Rushanara Ali MP | 1740 |
+| Bethnal Green and Stepney | Rushanara Ali MP | 1741 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6196 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6166 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5068 |
 | Bicester and Woodstock | Calum Miller MP | 4697 |
-| Birkenhead | Alison McGovern MP | 4374 |
+| Birkenhead | Alison McGovern MP | 4375 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2982 |
 | Birmingham Erdington | Paulette Hamilton MP | 4289 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1593 |
@@ -83,7 +83,7 @@
 | Bristol South | Karin Smyth MP | 4006 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5862 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5271 |
-| Bromsgrove | Bradley Thomas MP | 6507 |
+| Bromsgrove | Bradley Thomas MP | 6508 |
 | Broxbourne | Lewis Cocking MP | 6118 |
 | Broxtowe | Juliet Campbell MP | 4732 |
 | Buckingham and Bletchley | Callum Anderson MP | 5281 |
@@ -104,7 +104,7 @@
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5323 |
 | Chatham and Aylesford | Tristan Osborne MP | 5676 |
 | Cheadle | Tom Morrison MP | 4686 |
-| Chelmsford | Marie Goldman MP | 5299 |
+| Chelmsford | Marie Goldman MP | 5300 |
 | Chelsea and Fulham | Ben Coleman MP | 5509 |
 | Cheltenham | Max Wilkinson MP | 4049 |
 | Chesham and Amersham | Sarah Green MP | 4957 |
@@ -361,8 +361,8 @@
 | Nuneaton | Jodie Gosling MP | 5598 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6244 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5275 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4123 |
-| Orpington | Gareth Bacon MP | 5342 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4124 |
+| Orpington | Gareth Bacon MP | 5343 |
 | Ossett and Denby Dale | Jade Botterill MP | 5837 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2167 |
 | Oxford West and Abingdon | Layla Moran MP | 2942 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6236 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5482 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6235 |
-| Peterborough | Andrew Pakes MP | 4192 |
+| Peterborough | Andrew Pakes MP | 4193 |
 | Plymouth Moor View | Fred Thomas MP | 5746 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4801 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5502 |
@@ -449,7 +449,7 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5621 |
 | Southend West and Leigh | David Burton-Sampson MP | 5904 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2608 |
-| Southport | Patrick Hurley MP | 6015 |
+| Southport | Patrick Hurley MP | 6016 |
 | Spelthorne | Lincoln Jopp MP | 5492 |
 | Spen Valley | Kim Leadbeater MP | 5414 |
 | St Albans | Daisy Cooper MP | 3890 |
@@ -469,7 +469,7 @@
 | Stoke-on-Trent North | David Williams MP | 5501 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5761 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6567 |
-| Stourbridge | Cat Eccles MP | 5180 |
+| Stourbridge | Cat Eccles MP | 5181 |
 | Stratford and Bow | Uma Kumaran MP | 1786 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6741 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1877 |
