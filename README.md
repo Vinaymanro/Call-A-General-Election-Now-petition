@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3013210                                |
-| Last Updated      | 2025-04-21 03:09:05 UTC                                    |
+| Total Signatures   | 3013213                                |
+| Last Updated      | 2025-04-21 04:22:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -100,7 +100,7 @@
 | Carlisle | Ms Julie Minns MP | 6579 |
 | Carshalton and Wallington | Bobby Dean MP | 4294 |
 | Castle Point | Rebecca Harris MP | 7561 |
-| Central Devon | Rt Hon Sir Mel Stride MP | 5837 |
+| Central Devon | Rt Hon Sir Mel Stride MP | 5838 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5323 |
 | Chatham and Aylesford | Tristan Osborne MP | 5676 |
 | Cheadle | Tom Morrison MP | 4686 |
@@ -198,7 +198,7 @@
 | Goole and Pocklington | Rt Hon David Davis MP | 7001 |
 | Gorton and Denton | Andrew Gwynne MP | 3311 |
 | Gosport | Dame Caroline Dinenage MP | 5510 |
-| Grantham and Bourne | Gareth Davies MP | 6354 |
+| Grantham and Bourne | Gareth Davies MP | 6355 |
 | Gravesham | Dr Lauren Sullivan MP | 5195 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5852 |
 | Great Yarmouth | Rupert Lowe MP | 6631 |
@@ -310,7 +310,7 @@
 | Mid Derbyshire | Jonathan Davies MP | 5269 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5915 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5626 |
-| Mid Norfolk | George Freeman MP | 6316 |
+| Mid Norfolk | George Freeman MP | 6317 |
 | Mid Sussex | Alison Bennett MP | 4723 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4264 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5753 |
