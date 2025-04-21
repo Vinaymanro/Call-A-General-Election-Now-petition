@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3013203                                |
-| Last Updated      | 2025-04-21 01:38:28 UTC                                    |
+| Total Signatures   | 3013210                                |
+| Last Updated      | 2025-04-21 03:09:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -22,7 +22,7 @@
 | Barnsley North | Dan Jarvis MP | 5732 |
 | Barnsley South | Stephanie Peacock MP | 5820 |
 | Barrow and Furness | Michelle Scrogham MP | 5360 |
-| Basildon and Billericay | Rt Hon Richard Holden MP | 6928 |
+| Basildon and Billericay | Rt Hon Richard Holden MP | 6929 |
 | Basingstoke | Luke Murphy MP | 4853 |
 | Bassetlaw | Jo White MP | 6796 |
 | Bath | Wera Hobhouse MP | 2985 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6354 |
 | Gravesham | Dr Lauren Sullivan MP | 5195 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5852 |
-| Great Yarmouth | Rupert Lowe MP | 6630 |
+| Great Yarmouth | Rupert Lowe MP | 6631 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2647 |
 | Guildford | Zöe Franklin MP | 4017 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2070 |
@@ -209,7 +209,7 @@
 | Halesowen | Alex Ballinger MP | 5039 |
 | Halifax | Kate Dearden MP | 4776 |
 | Hamble Valley | Paul Holmes MP | 6166 |
-| Hammersmith and Chiswick | Andy Slaughter MP | 3209 |
+| Hammersmith and Chiswick | Andy Slaughter MP | 3210 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2986 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4734 |
 | Harlow | Chris Vince MP | 6099 |
@@ -291,7 +291,7 @@
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7830 |
 | Lowestoft | Jess Asato MP | 5370 |
 | Luton North | Sarah Owen MP | 2492 |
-| Luton South and South Bedfordshire | Rachel Hopkins MP | 2969 |
+| Luton South and South Bedfordshire | Rachel Hopkins MP | 2970 |
 | Macclesfield | Tim Roca MP | 5417 |
 | Maidenhead | Mr Joshua Reynolds MP | 5306 |
 | Maidstone and Malling | Helen Grant MP | 5872 |
@@ -348,7 +348,7 @@
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6308 |
 | North West Cambridgeshire | Sam Carling MP | 6049 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7158 |
-| North West Hampshire | Rt Hon Kit Malthouse MP | 5756 |
+| North West Hampshire | Rt Hon Kit Malthouse MP | 5757 |
 | North West Leicestershire | Amanda Hack MP | 6737 |
 | North West Norfolk | James Wild MP | 5791 |
 | Northampton North | Lucy Rigby KC MP | 4309 |
@@ -587,7 +587,7 @@
 | Coatbridge and Bellshill | Frank McNally MP | 2614 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2879 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2690 |
-| Dumfries and Galloway | John Cooper MP | 4056 |
+| Dumfries and Galloway | John Cooper MP | 4057 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3884 |
 | Dundee Central | Chris Law MP | 2569 |
 | Dunfermline and Dollar | Graeme Downie MP | 2953 |
@@ -644,7 +644,7 @@
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4261 |
 | Gower | Tonia Antoniazzi MP | 4805 |
 | Llanelli | Dame Nia Griffith MP | 5299 |
-| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3763 |
+| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3764 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5528 |
 | Monmouthshire | Catherine Fookes MP | 4773 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6082 |
