@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3013753                                |
-| Last Updated      | 2025-04-22 04:21:43 UTC                                    |
+| Total Signatures   | 3013756                                |
+| Last Updated      | 2025-04-22 05:18:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3811 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6210 |
 | Blackpool South | Chris Webb MP | 5874 |
-| Blaydon and Consett | Liz Twist MP | 5277 |
+| Blaydon and Consett | Liz Twist MP | 5278 |
 | Blyth and Ashington | Ian Lavery MP | 5907 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6174 |
 | Bolsover | Natalie Fleet MP | 6583 |
@@ -107,7 +107,7 @@
 | Chelmsford | Marie Goldman MP | 5301 |
 | Chelsea and Fulham | Ben Coleman MP | 5509 |
 | Cheltenham | Max Wilkinson MP | 4049 |
-| Chesham and Amersham | Sarah Green MP | 4959 |
+| Chesham and Amersham | Sarah Green MP | 4960 |
 | Chester North and Neston | Samantha Dixon MP | 4082 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6419 |
 | Chesterfield | Mr Toby Perkins MP | 4924 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5309 |
 | Bridgend | Chris Elmore MP | 4285 |
 | Caerfyrddin | Ann Davies MP | 5243 |
-| Caerphilly | Chris Evans MP | 4054 |
+| Caerphilly | Chris Evans MP | 4055 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2938 |
 | Cardiff North | Anna McMorrin MP | 3316 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2825 |
