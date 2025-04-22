@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3013748                                |
-| Last Updated      | 2025-04-22 03:02:21 UTC                                    |
+| Total Signatures   | 3013753                                |
+| Last Updated      | 2025-04-22 04:21:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -17,7 +17,7 @@
 | Ashford | Sojan Joseph MP | 5928 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4637 |
 | Aylesbury | Laura Kyrke-Smith MP | 4899 |
-| Banbury | Sean Woodcock MP | 5487 |
+| Banbury | Sean Woodcock MP | 5488 |
 | Barking | Nesil Caliskan MP | 2659 |
 | Barnsley North | Dan Jarvis MP | 5732 |
 | Barnsley South | Stephanie Peacock MP | 5820 |
@@ -331,7 +331,7 @@
 | Normanton and Hemsworth | Jon Trickett MP | 5548 |
 | North Bedfordshire | Richard Fuller MP | 6135 |
 | North Cornwall | Ben Maguire MP | 6444 |
-| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6073 |
+| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6074 |
 | North Devon | Ian Roome MP | 5894 |
 | North Dorset | Simon Hoare MP | 6344 |
 | North Durham | Luke Akehurst MP | 5432 |
@@ -468,7 +468,7 @@
 | Stoke-on-Trent Central | Gareth Snell MP | 4791 |
 | Stoke-on-Trent North | David Williams MP | 5501 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5761 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6567 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6568 |
 | Stourbridge | Cat Eccles MP | 5184 |
 | Stratford and Bow | Uma Kumaran MP | 1787 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6742 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5215 |
 | Weston-super-Mare | Dan Aldridge MP | 5123 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6612 |
-| Whitehaven and Workington | Josh MacAlister MP | 5927 |
+| Whitehaven and Workington | Josh MacAlister MP | 5928 |
 | Widnes and Halewood | Derek Twigg MP | 4273 |
 | Wigan | Rt Hon Lisa Nandy MP | 6011 |
 | Wimbledon | Mr Paul Kohler MP | 3426 |
@@ -547,7 +547,7 @@
 | Worthing West | Dr Beccy Cooper MP | 5282 |
 | Wycombe | Emma Reynolds MP | 3641 |
 | Wyre Forest | Mark Garnier MP | 6529 |
-| Wythenshawe and Sale East | Mike Kane MP | 4641 |
+| Wythenshawe and Sale East | Mike Kane MP | 4642 |
 | Yeovil | Adam Dance MP | 5628 |
 | York Central | Rachael Maskell MP | 3299 |
 | York Outer | Mr Luke Charters MP | 4365 |
