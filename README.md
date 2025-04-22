@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3013743                                |
-| Last Updated      | 2025-04-22 01:26:18 UTC                                    |
+| Total Signatures   | 3013748                                |
+| Last Updated      | 2025-04-22 03:02:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -157,7 +157,7 @@
 | Ealing Southall | Deirdre Costigan MP | 1967 |
 | Earley and Woodley | Yuan Yang MP | 3974 |
 | Easington | Grahame Morris MP | 5804 |
-| East Grinstead and Uckfield | Mims Davies MP | 6072 |
+| East Grinstead and Uckfield | Mims Davies MP | 6073 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1116 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5360 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6049 |
@@ -325,7 +325,7 @@
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4549 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4803 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3977 |
-| Newcastle-under-Lyme | Adam Jogee MP | 5112 |
+| Newcastle-under-Lyme | Adam Jogee MP | 5114 |
 | Newton Abbot | Martin Wrigley MP | 5149 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5571 |
 | Normanton and Hemsworth | Jon Trickett MP | 5548 |
@@ -476,7 +476,7 @@
 | Stretford and Urmston | Andrew Western MP | 3863 |
 | Stroud | Dr Simon Opher MP | 4565 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5419 |
-| Sunderland Central | Lewis Atkinson MP | 5293 |
+| Sunderland Central | Lewis Atkinson MP | 5294 |
 | Surrey Heath | Dr Al Pinkerton MP | 5459 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6138 |
 | Sutton and Cheam | Luke Taylor MP | 4406 |
@@ -588,7 +588,7 @@
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2879 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2690 |
 | Dumfries and Galloway | John Cooper MP | 4058 |
-| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3884 |
+| Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3885 |
 | Dundee Central | Chris Law MP | 2569 |
 | Dunfermline and Dollar | Graeme Downie MP | 2953 |
 | East Kilbride and Strathaven | Joani Reid MP | 3178 |
