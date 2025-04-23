@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014438                                |
-| Last Updated      | 2025-04-23 20:20:51 UTC                                    |
+| Total Signatures   | 3014447                                |
+| Last Updated      | 2025-04-23 21:17:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -88,7 +88,7 @@
 | Broxtowe | Juliet Campbell MP | 4733 |
 | Buckingham and Bletchley | Callum Anderson MP | 5284 |
 | Burnley | Oliver Ryan MP | 5761 |
-| Burton and Uttoxeter | Jacob Collier MP | 5844 |
+| Burton and Uttoxeter | Jacob Collier MP | 5845 |
 | Bury North | Mr James Frith MP | 5008 |
 | Bury South | Christian Wakeford MP | 5459 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5470 |
@@ -102,7 +102,7 @@
 | Castle Point | Rebecca Harris MP | 7562 |
 | Central Devon | Rt Hon Sir Mel Stride MP | 5842 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5324 |
-| Chatham and Aylesford | Tristan Osborne MP | 5682 |
+| Chatham and Aylesford | Tristan Osborne MP | 5683 |
 | Cheadle | Tom Morrison MP | 4686 |
 | Chelmsford | Marie Goldman MP | 5302 |
 | Chelsea and Fulham | Ben Coleman MP | 5509 |
@@ -110,7 +110,7 @@
 | Chesham and Amersham | Sarah Green MP | 4960 |
 | Chester North and Neston | Samantha Dixon MP | 4083 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6419 |
-| Chesterfield | Mr Toby Perkins MP | 4924 |
+| Chesterfield | Mr Toby Perkins MP | 4925 |
 | Chichester | Jess Brown-Fuller MP | 5965 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4190 |
 | Chippenham | Sarah Gibson MP | 4773 |
@@ -253,7 +253,7 @@
 | Islington North | Rt Hon Jeremy Corbyn MP | 1809 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2806 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5131 |
-| Keighley and Ilkley | Robbie Moore MP | 4722 |
+| Keighley and Ilkley | Robbie Moore MP | 4723 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6127 |
 | Kensington and Bayswater | Joe Powell MP | 4416 |
 | Kettering | Rosie Wrighting MP | 5946 |
@@ -311,7 +311,7 @@
 | Mid Dorset and North Poole | Vikki Slade MP | 5917 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5628 |
 | Mid Norfolk | George Freeman MP | 6319 |
-| Mid Sussex | Alison Bennett MP | 4724 |
+| Mid Sussex | Alison Bennett MP | 4725 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4266 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5755 |
 | Milton Keynes Central | Emily Darlington MP | 4971 |
@@ -336,7 +336,7 @@
 | North Dorset | Simon Hoare MP | 6345 |
 | North Durham | Luke Akehurst MP | 5432 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6113 |
-| North East Derbyshire | Louise Jones MP | 5842 |
+| North East Derbyshire | Louise Jones MP | 5843 |
 | North East Hampshire | Alex Brewer MP | 5978 |
 | North East Hertfordshire | Chris Hinchliff MP | 5878 |
 | North East Somerset and Hanham | Dan Norris MP | 5077 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4193 |
 | Plymouth Moor View | Fred Thomas MP | 5751 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4804 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5504 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5505 |
 | Poole | Neil Duncan-Jordan MP | 5696 |
 | Poplar and Limehouse | Apsana Begum MP | 2940 |
 | Portsmouth North | Amanda Martin MP | 5669 |
@@ -435,7 +435,7 @@
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7171 |
 | South Leicestershire | Alberto Costa MP | 7028 |
 | South Norfolk | Ben Goldsborough MP | 5468 |
-| South Northamptonshire | Sarah Bool MP | 6700 |
+| South Northamptonshire | Sarah Bool MP | 6701 |
 | South Ribble | Mr Paul Foster MP | 5928 |
 | South Shields | Emma Lewell MP | 4772 |
 | South Shropshire | Stuart Anderson MP | 7354 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2092 |
 | North Antrim | Jim Allister KC MP | 3109 |
 | North Down | Alex Easton MP | 3384 |
-| South Antrim | Robin Swann MP | 3106 |
+| South Antrim | Robin Swann MP | 3107 |
 | South Down | Chris Hazzard MP | 1849 |
 | Strangford | Jim Shannon MP | 3482 |
 | Upper Bann | Carla Lockhart MP | 3091 |
