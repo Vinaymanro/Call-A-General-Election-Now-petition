@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014413                                |
-| Last Updated      | 2025-04-23 18:27:35 UTC                                    |
+| Total Signatures   | 3014421                                |
+| Last Updated      | 2025-04-23 19:15:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -22,7 +22,7 @@
 | Barnsley North | Dan Jarvis MP | 5736 |
 | Barnsley South | Stephanie Peacock MP | 5822 |
 | Barrow and Furness | Michelle Scrogham MP | 5363 |
-| Basildon and Billericay | Rt Hon Richard Holden MP | 6931 |
+| Basildon and Billericay | Rt Hon Richard Holden MP | 6932 |
 | Basingstoke | Luke Murphy MP | 4854 |
 | Bassetlaw | Jo White MP | 6798 |
 | Bath | Wera Hobhouse MP | 2986 |
@@ -198,7 +198,7 @@
 | Goole and Pocklington | Rt Hon David Davis MP | 7005 |
 | Gorton and Denton | Andrew Gwynne MP | 3313 |
 | Gosport | Dame Caroline Dinenage MP | 5513 |
-| Grantham and Bourne | Gareth Davies MP | 6356 |
+| Grantham and Bourne | Gareth Davies MP | 6357 |
 | Gravesham | Dr Lauren Sullivan MP | 5199 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5854 |
 | Great Yarmouth | Rupert Lowe MP | 6634 |
@@ -214,7 +214,7 @@
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4736 |
 | Harlow | Chris Vince MP | 6103 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4557 |
-| Harrogate and Knaresborough | Tom Gordon MP | 5145 |
+| Harrogate and Knaresborough | Tom Gordon MP | 5146 |
 | Harrow East | Bob Blackman MP | 3148 |
 | Harrow West | Gareth Thomas MP | 2418 |
 | Hartlepool | Mr Jonathan Brash MP | 5708 |
@@ -342,7 +342,7 @@
 | North East Somerset and Hanham | Dan Norris MP | 5077 |
 | North Herefordshire | Ellie Chowns MP | 6496 |
 | North Norfolk | Steff Aquarone MP | 5461 |
-| North Northumberland | David Smith MP | 6474 |
+| North Northumberland | David Smith MP | 6475 |
 | North Shropshire | Helen Morgan MP | 6919 |
 | North Somerset | Sadik Al-Hassan MP | 4608 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6310 |
@@ -401,7 +401,7 @@
 | Rugby | John Slinger MP | 5448 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4120 |
 | Runcorn and Helsby | null | 5077 |
-| Runnymede and Weybridge | Dr Ben Spencer MP | 5862 |
+| Runnymede and Weybridge | Dr Ben Spencer MP | 5863 |
 | Rushcliffe | James Naish MP | 5099 |
 | Rutland and Stamford | Alicia Kearns MP | 6285 |
 | Salford | Rebecca Long Bailey MP | 4693 |
@@ -419,7 +419,7 @@
 | Sherwood Forest | Michelle Welsh MP | 6700 |
 | Shipley | Anna Dixon MP | 4919 |
 | Shrewsbury | Julia Buckley MP | 5350 |
-| Sittingbourne and Sheppey | Kevin McKenna MP | 6914 |
+| Sittingbourne and Sheppey | Kevin McKenna MP | 6915 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6701 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6328 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2601 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5987 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5971 |
 | Tooting | Dr Rosena Allin-Khan MP | 2708 |
-| Torbay | Steve Darling MP | 5885 |
+| Torbay | Steve Darling MP | 5886 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6616 |
 | Tottenham | Rt Hon David Lammy MP | 1704 |
 | Truro and Falmouth | Jayne Kirkham MP | 4630 |
@@ -648,7 +648,7 @@
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5530 |
 | Monmouthshire | Catherine Fookes MP | 4773 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6088 |
-| Neath and Swansea East | Carolyn Harris MP | 4504 |
+| Neath and Swansea East | Carolyn Harris MP | 4505 |
 | Newport East | Jessica Morden MP | 4062 |
 | Newport West and Islwyn | Ruth Jones MP | 4118 |
 | Pontypridd | Alex Davies-Jones MP | 3969 |
