@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014177                                |
-| Last Updated      | 2025-04-23 04:22:32 UTC                                    |
+| Total Signatures   | 3014178                                |
+| Last Updated      | 2025-04-23 05:18:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -396,7 +396,7 @@
 | Romford | Andrew Rosindell MP | 5825 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5092 |
 | Rossendale and Darwen | Andy MacNae MP | 6544 |
-| Rother Valley | Jake Richards MP | 5906 |
+| Rother Valley | Jake Richards MP | 5907 |
 | Rotherham | Sarah Champion MP | 4989 |
 | Rugby | John Slinger MP | 5448 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4120 |
