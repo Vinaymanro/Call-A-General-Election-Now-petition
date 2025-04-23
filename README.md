@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014219                                |
-| Last Updated      | 2025-04-23 08:25:25 UTC                                    |
+| Total Signatures   | 3014225                                |
+| Last Updated      | 2025-04-23 09:20:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -164,7 +164,7 @@
 | East Thanet | Ms Polly Billington MP | 5530 |
 | East Wiltshire | Danny Kruger MP | 6100 |
 | East Worthing and Shoreham | Tom Rutland MP | 4639 |
-| Eastbourne | Josh Babarinde MP | 5068 |
+| Eastbourne | Josh Babarinde MP | 5069 |
 | Eastleigh | Liz Jarvis MP | 4351 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2241 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4489 |
@@ -372,7 +372,7 @@
 | Penrith and Solway | Markus Campbell-Savours MP | 6237 |
 | Peterborough | Andrew Pakes MP | 4193 |
 | Plymouth Moor View | Fred Thomas MP | 5751 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4803 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4804 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5504 |
 | Poole | Neil Duncan-Jordan MP | 5696 |
 | Poplar and Limehouse | Apsana Begum MP | 2940 |
@@ -428,7 +428,7 @@
 | South Basildon and East Thurrock | James McMurdock MP | 6644 |
 | South Cambridgeshire | Pippa Heylings MP | 4468 |
 | South Cotswolds | Dr Roz Savage MP | 5738 |
-| South Derbyshire | Samantha Niblett MP | 6206 |
+| South Derbyshire | Samantha Niblett MP | 6207 |
 | South Devon | Caroline Voaden MP | 5352 |
 | South Dorset | Lloyd Hatton MP | 5701 |
 | South East Cornwall | Anna Gelderd MP | 6280 |
@@ -502,7 +502,7 @@
 | Truro and Falmouth | Jayne Kirkham MP | 4630 |
 | Tunbridge Wells | Mike Martin MP | 5487 |
 | Twickenham | Munira Wilson MP | 3671 |
-| Tynemouth | Rt Hon Sir Alan Campbell MP | 4512 |
+| Tynemouth | Rt Hon Sir Alan Campbell MP | 4513 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4506 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1689 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4959 |
@@ -520,7 +520,7 @@
 | Wells and Mendip Hills | Tessa Munt MP | 5288 |
 | Welwyn Hatfield | Andrew Lewin MP | 5094 |
 | West Bromwich | Sarah Coombes MP | 3818 |
-| West Dorset | Edward Morello MP | 5489 |
+| West Dorset | Edward Morello MP | 5490 |
 | West Ham and Beckton | James Asser MP | 2174 |
 | West Lancashire | Ashley Dalton MP | 5093 |
 | West Suffolk | Nick Timothy MP | 6071 |
@@ -656,5 +656,5 @@
 | Swansea West | Torsten Bell MP | 3699 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4120 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4657 |
-| Wrexham | Andrew Ranger MP | 4842 |
+| Wrexham | Andrew Ranger MP | 4843 |
 | Ynys Môn | Llinos Medi MP | 3755 |
