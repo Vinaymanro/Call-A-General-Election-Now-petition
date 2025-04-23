@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014178                                |
-| Last Updated      | 2025-04-23 05:18:46 UTC                                    |
+| Total Signatures   | 3014187                                |
+| Last Updated      | 2025-04-23 06:27:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -15,7 +15,7 @@
 | Arundel and South Downs | Andrew Griffith MP | 6981 |
 | Ashfield | Lee Anderson MP | 6194 |
 | Ashford | Sojan Joseph MP | 5929 |
-| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4638 |
+| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4639 |
 | Aylesbury | Laura Kyrke-Smith MP | 4899 |
 | Banbury | Sean Woodcock MP | 5489 |
 | Barking | Nesil Caliskan MP | 2660 |
@@ -100,7 +100,7 @@
 | Carlisle | Ms Julie Minns MP | 6579 |
 | Carshalton and Wallington | Bobby Dean MP | 4295 |
 | Castle Point | Rebecca Harris MP | 7562 |
-| Central Devon | Rt Hon Sir Mel Stride MP | 5841 |
+| Central Devon | Rt Hon Sir Mel Stride MP | 5842 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5324 |
 | Chatham and Aylesford | Tristan Osborne MP | 5679 |
 | Cheadle | Tom Morrison MP | 4686 |
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1757 |
 | Colchester | Pam Cox MP | 5046 |
 | Colne Valley | Paul Davies MP | 5066 |
-| Congleton | Mrs Sarah Russell MP | 6013 |
+| Congleton | Mrs Sarah Russell MP | 6014 |
 | Corby and East Northamptonshire | Lee Barron MP | 6048 |
 | Coventry East | Mary Creagh MP | 3628 |
 | Coventry North West | Taiwo Owatemi MP | 4290 |
@@ -144,7 +144,7 @@
 | Dewsbury and Batley | Iqbal Mohamed MP | 3214 |
 | Didcot and Wantage | Olly Glover MP | 4908 |
 | Doncaster Central | Sally Jameson MP | 4977 |
-| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6114 |
+| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6115 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5614 |
 | Dorking and Horley | Chris Coghlan MP | 5573 |
 | Dover and Deal | Mike Tapp MP | 5976 |
@@ -167,11 +167,11 @@
 | Eastbourne | Josh Babarinde MP | 5068 |
 | Eastleigh | Liz Jarvis MP | 4351 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2241 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4488 |
-| Eltham and Chislehurst | Clive Efford MP | 4734 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4489 |
+| Eltham and Chislehurst | Clive Efford MP | 4735 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5199 |
 | Enfield North | Feryal Clark MP | 2919 |
-| Epping Forest | Dr Neil Hudson MP | 6620 |
+| Epping Forest | Dr Neil Hudson MP | 6621 |
 | Epsom and Ewell | Helen Maguire MP | 4950 |
 | Erewash | Adam Thompson MP | 5876 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3242 |
@@ -442,7 +442,7 @@
 | South Suffolk | James Cartlidge MP | 6175 |
 | South West Devon | Rebecca Smith MP | 6019 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5232 |
-| South West Norfolk | Terry Jermy MP | 6571 |
+| South West Norfolk | Terry Jermy MP | 6572 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5238 |
 | Southampton Itchen | Darren Paffey MP | 4584 |
 | Southampton Test | Satvir Kaur MP | 3434 |
@@ -483,7 +483,7 @@
 | Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5698 |
 | Swindon North | Will Stone MP | 4945 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4248 |
-| Tamworth | Sarah Edwards MP | 6995 |
+| Tamworth | Sarah Edwards MP | 6996 |
 | Tatton | Rt Hon Esther McVey MP | 6517 |
 | Taunton and Wellington | Gideon Amos MP | 5209 |
 | Telford | Shaun Davies MP | 5650 |
