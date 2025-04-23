@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014168                                |
-| Last Updated      | 2025-04-22 23:17:06 UTC                                    |
+| Total Signatures   | 3014176                                |
+| Last Updated      | 2025-04-23 01:26:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5476 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5844 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5845 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5514 |
 | Amber Valley | Linsey Farnsworth MP | 6135 |
 | Arundel and South Downs | Andrew Griffith MP | 6981 |
@@ -36,12 +36,12 @@
 | Bexhill and Battle | Dr Kieran Mullan MP | 6167 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5070 |
 | Bicester and Woodstock | Calum Miller MP | 4698 |
-| Birkenhead | Alison McGovern MP | 4384 |
+| Birkenhead | Alison McGovern MP | 4385 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2983 |
 | Birmingham Erdington | Paulette Hamilton MP | 4290 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1593 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3532 |
-| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1919 |
+| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1920 |
 | Birmingham Northfield | Laurence Turner MP | 4944 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1737 |
 | Birmingham Selly Oak | Al Carns MP | 3321 |
@@ -139,7 +139,7 @@
 | Dartford | Jim Dickson MP | 5769 |
 | Daventry | Rt Hon Stuart Andrew MP | 7304 |
 | Derby North | Catherine Atkinson MP | 4366 |
-| Derby South | Baggy Shanker MP | 3654 |
+| Derby South | Baggy Shanker MP | 3655 |
 | Derbyshire Dales | John Whitby MP | 6811 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3214 |
 | Didcot and Wantage | Olly Glover MP | 4908 |
@@ -171,7 +171,7 @@
 | Eltham and Chislehurst | Clive Efford MP | 4734 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5199 |
 | Enfield North | Feryal Clark MP | 2919 |
-| Epping Forest | Dr Neil Hudson MP | 6619 |
+| Epping Forest | Dr Neil Hudson MP | 6620 |
 | Epsom and Ewell | Helen Maguire MP | 4950 |
 | Erewash | Adam Thompson MP | 5876 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3242 |
@@ -260,7 +260,7 @@
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3775 |
 | Kingston upon Hull East | Karl Turner MP | 5056 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4679 |
-| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5543 |
+| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5544 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6429 |
 | Knowsley | Anneliese Midgley MP | 3316 |
 | Lancaster and Wyre | Cat Smith MP | 5117 |
@@ -434,7 +434,7 @@
 | South East Cornwall | Anna Gelderd MP | 6280 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7171 |
 | South Leicestershire | Alberto Costa MP | 7028 |
-| South Norfolk | Ben Goldsborough MP | 5467 |
+| South Norfolk | Ben Goldsborough MP | 5468 |
 | South Northamptonshire | Sarah Bool MP | 6700 |
 | South Ribble | Mr Paul Foster MP | 5926 |
 | South Shields | Emma Lewell MP | 4772 |
@@ -520,7 +520,7 @@
 | Wells and Mendip Hills | Tessa Munt MP | 5288 |
 | Welwyn Hatfield | Andrew Lewin MP | 5094 |
 | West Bromwich | Sarah Coombes MP | 3818 |
-| West Dorset | Edward Morello MP | 5488 |
+| West Dorset | Edward Morello MP | 5489 |
 | West Ham and Beckton | James Asser MP | 2174 |
 | West Lancashire | Ashley Dalton MP | 5093 |
 | West Suffolk | Nick Timothy MP | 6071 |
