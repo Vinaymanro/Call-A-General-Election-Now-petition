@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014255                                |
-| Last Updated      | 2025-04-23 10:21:41 UTC                                    |
+| Total Signatures   | 3014264                                |
+| Last Updated      | 2025-04-23 11:16:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -70,7 +70,7 @@
 | Brent East | Dawn Butler MP | 1883 |
 | Brent West | Barry Gardiner MP | 2110 |
 | Brentford and Isleworth | Ruth Cadbury MP | 3019 |
-| Brentwood and Ongar | Alex Burghart MP | 8165 |
+| Brentwood and Ongar | Alex Burghart MP | 8166 |
 | Bridgwater | Sir Ashley Fox MP | 5809 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6665 |
 | Brigg and Immingham | Martin Vickers MP | 6507 |
@@ -140,7 +140,7 @@
 | Daventry | Rt Hon Stuart Andrew MP | 7304 |
 | Derby North | Catherine Atkinson MP | 4366 |
 | Derby South | Baggy Shanker MP | 3655 |
-| Derbyshire Dales | John Whitby MP | 6811 |
+| Derbyshire Dales | John Whitby MP | 6812 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3214 |
 | Didcot and Wantage | Olly Glover MP | 4908 |
 | Doncaster Central | Sally Jameson MP | 4978 |
@@ -157,7 +157,7 @@
 | Ealing Southall | Deirdre Costigan MP | 1967 |
 | Earley and Woodley | Yuan Yang MP | 3974 |
 | Easington | Grahame Morris MP | 5805 |
-| East Grinstead and Uckfield | Mims Davies MP | 6074 |
+| East Grinstead and Uckfield | Mims Davies MP | 6075 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1117 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5362 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6052 |
@@ -294,7 +294,7 @@
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2970 |
 | Macclesfield | Tim Roca MP | 5417 |
 | Maidenhead | Mr Joshua Reynolds MP | 5306 |
-| Maidstone and Malling | Helen Grant MP | 5873 |
+| Maidstone and Malling | Helen Grant MP | 5876 |
 | Makerfield | Josh Simons MP | 5934 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8142 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4019 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5216 |
 | Weston-super-Mare | Dan Aldridge MP | 5124 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6614 |
-| Whitehaven and Workington | Josh MacAlister MP | 5932 |
+| Whitehaven and Workington | Josh MacAlister MP | 5933 |
 | Widnes and Halewood | Derek Twigg MP | 4274 |
 | Wigan | Rt Hon Lisa Nandy MP | 6012 |
 | Wimbledon | Mr Paul Kohler MP | 3426 |
@@ -596,7 +596,7 @@
 | Edinburgh North and Leith | Tracy Gilbert MP | 2426 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2069 |
 | Edinburgh South West | Dr Scott Arthur MP | 2270 |
-| Edinburgh West | Christine Jardine MP | 2728 |
+| Edinburgh West | Christine Jardine MP | 2729 |
 | Falkirk | Euan Stainbank MP | 3464 |
 | Glasgow East | John Grady MP | 2357 |
 | Glasgow North | Martin Rhodes MP | 2072 |
@@ -639,7 +639,7 @@
 | Cardiff South and Penarth | Stephen Doughty MP | 2825 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3171 |
 | Ceredigion Preseli | Ben Lake MP | 4771 |
-| Clwyd East | Becky Gittins MP | 6095 |
+| Clwyd East | Becky Gittins MP | 6096 |
 | Clwyd North | Gill German MP | 5525 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4263 |
 | Gower | Tonia Antoniazzi MP | 4806 |
