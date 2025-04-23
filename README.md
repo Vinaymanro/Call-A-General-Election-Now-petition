@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014466                                |
-| Last Updated      | 2025-04-23 22:18:18 UTC                                    |
+| Total Signatures   | 3014473                                |
+| Last Updated      | 2025-04-23 23:17:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -19,7 +19,7 @@
 | Aylesbury | Laura Kyrke-Smith MP | 4899 |
 | Banbury | Sean Woodcock MP | 5490 |
 | Barking | Nesil Caliskan MP | 2660 |
-| Barnsley North | Dan Jarvis MP | 5736 |
+| Barnsley North | Dan Jarvis MP | 5737 |
 | Barnsley South | Stephanie Peacock MP | 5823 |
 | Barrow and Furness | Michelle Scrogham MP | 5363 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6933 |
@@ -102,7 +102,7 @@
 | Castle Point | Rebecca Harris MP | 7562 |
 | Central Devon | Rt Hon Sir Mel Stride MP | 5842 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5324 |
-| Chatham and Aylesford | Tristan Osborne MP | 5683 |
+| Chatham and Aylesford | Tristan Osborne MP | 5684 |
 | Cheadle | Tom Morrison MP | 4686 |
 | Chelmsford | Marie Goldman MP | 5302 |
 | Chelsea and Fulham | Ben Coleman MP | 5509 |
@@ -116,10 +116,10 @@
 | Chippenham | Sarah Gibson MP | 4773 |
 | Chipping Barnet | Dan Tomlinson MP | 4363 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5541 |
-| Christchurch | Sir Christopher Chope MP | 5880 |
+| Christchurch | Sir Christopher Chope MP | 5881 |
 | Cities of London and Westminster | Rachel Blake MP | 5193 |
 | City of Durham | Mary Kelly Foy MP | 4282 |
-| Clacton | Nigel Farage MP | 8135 |
+| Clacton | Nigel Farage MP | 8136 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1757 |
 | Colchester | Pam Cox MP | 5046 |
 | Colne Valley | Paul Davies MP | 5066 |
@@ -164,7 +164,7 @@
 | East Thanet | Ms Polly Billington MP | 5530 |
 | East Wiltshire | Danny Kruger MP | 6100 |
 | East Worthing and Shoreham | Tom Rutland MP | 4639 |
-| Eastbourne | Josh Babarinde MP | 5069 |
+| Eastbourne | Josh Babarinde MP | 5070 |
 | Eastleigh | Liz Jarvis MP | 4351 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2242 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4489 |
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5418 |
 | Maidenhead | Mr Joshua Reynolds MP | 5306 |
 | Maidstone and Malling | Helen Grant MP | 5876 |
-| Makerfield | Josh Simons MP | 5934 |
+| Makerfield | Josh Simons MP | 5935 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8142 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4020 |
 | Manchester Rusholme | Afzal Khan MP | 1232 |
@@ -420,7 +420,7 @@
 | Shipley | Anna Dixon MP | 4921 |
 | Shrewsbury | Julia Buckley MP | 5350 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6915 |
-| Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6702 |
+| Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6703 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6328 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2601 |
 | Smethwick | Gurinder Singh Josan MP | 3086 |
