@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014564                                |
-| Last Updated      | 2025-04-24 12:38:50 UTC                                    |
+| Total Signatures   | 3014572                                |
+| Last Updated      | 2025-04-24 13:29:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5477 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5846 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5514 |
-| Amber Valley | Linsey Farnsworth MP | 6138 |
+| Amber Valley | Linsey Farnsworth MP | 6139 |
 | Arundel and South Downs | Andrew Griffith MP | 6981 |
 | Ashfield | Lee Anderson MP | 6194 |
 | Ashford | Sojan Joseph MP | 5931 |
@@ -99,7 +99,7 @@
 | Canterbury | Rosie Duffield MP | 4501 |
 | Carlisle | Ms Julie Minns MP | 6580 |
 | Carshalton and Wallington | Bobby Dean MP | 4295 |
-| Castle Point | Rebecca Harris MP | 7562 |
+| Castle Point | Rebecca Harris MP | 7563 |
 | Central Devon | Rt Hon Sir Mel Stride MP | 5842 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5324 |
 | Chatham and Aylesford | Tristan Osborne MP | 5685 |
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5429 |
 | Dulwich and West Norwood | Helen Hayes MP | 1567 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5553 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3113 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3114 |
 | Ealing North | James Murray MP | 2597 |
 | Ealing Southall | Deirdre Costigan MP | 1967 |
 | Earley and Woodley | Yuan Yang MP | 3974 |
@@ -193,7 +193,7 @@
 | Gedling | Michael Payne MP | 5096 |
 | Gillingham and Rainham | Naushabah Khan MP | 5088 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5623 |
-| Gloucester | Alex McIntyre MP | 4575 |
+| Gloucester | Alex McIntyre MP | 4576 |
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5253 |
 | Goole and Pocklington | Rt Hon David Davis MP | 7005 |
 | Gorton and Denton | Andrew Gwynne MP | 3313 |
@@ -236,7 +236,7 @@
 | Hinckley and Bosworth | Dr Luke Evans MP | 6519 |
 | Hitchin | Alistair Strathern MP | 4938 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2290 |
-| Honiton and Sidmouth | Richard Foord MP | 5303 |
+| Honiton and Sidmouth | Richard Foord MP | 5304 |
 | Hornchurch and Upminster | Julia Lopez MP | 6650 |
 | Hornsey and Friern Barnet | Catherine West MP | 1953 |
 | Horsham | John Milne MP | 5859 |
@@ -416,7 +416,7 @@
 | Sheffield Hallam | Olivia Blake MP | 3398 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3578 |
 | Sheffield South East | Mr Clive Betts MP | 4772 |
-| Sherwood Forest | Michelle Welsh MP | 6700 |
+| Sherwood Forest | Michelle Welsh MP | 6702 |
 | Shipley | Anna Dixon MP | 4921 |
 | Shrewsbury | Julia Buckley MP | 5350 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6915 |
@@ -624,7 +624,7 @@
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3569 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4054 |
 | Central Ayrshire | Alan Gemmell MP | 3163 |
-| Kilmarnock and Loudoun | Lillian Jones MP | 3285 |
+| Kilmarnock and Loudoun | Lillian Jones MP | 3286 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4587 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3747 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5794 |
