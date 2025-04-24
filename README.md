@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014498                                |
-| Last Updated      | 2025-04-24 07:19:00 UTC                                    |
+| Total Signatures   | 3014508                                |
+| Last Updated      | 2025-04-24 08:25:18 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -165,7 +165,7 @@
 | East Wiltshire | Danny Kruger MP | 6100 |
 | East Worthing and Shoreham | Tom Rutland MP | 4639 |
 | Eastbourne | Josh Babarinde MP | 5070 |
-| Eastleigh | Liz Jarvis MP | 4351 |
+| Eastleigh | Liz Jarvis MP | 4352 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2242 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4489 |
 | Eltham and Chislehurst | Clive Efford MP | 4735 |
@@ -231,7 +231,7 @@
 | Hertford and Stortford | Josh Dean MP | 6013 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5778 |
 | Hexham | Joe Morris MP | 6436 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5302 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5303 |
 | High Peak | Jon Pearce MP | 5502 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6519 |
 | Hitchin | Alistair Strathern MP | 4938 |
@@ -245,11 +245,11 @@
 | Huddersfield | Harpreet Uppal MP | 3716 |
 | Huntingdon | Ben Obese-Jecty MP | 5584 |
 | Hyndburn | Sarah Smith MP | 5044 |
-| Ilford North | Rt Hon Wes Streeting MP | 2634 |
+| Ilford North | Rt Hon Wes Streeting MP | 2635 |
 | Ilford South | Jas Athwal MP | 1609 |
 | Ipswich | Jack Abbott MP | 4186 |
 | Isle of Wight East | Joe Robertson MP | 4406 |
-| Isle of Wight West | Mr Richard Quigley MP | 4093 |
+| Isle of Wight West | Mr Richard Quigley MP | 4094 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1809 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2806 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5131 |
@@ -279,7 +279,7 @@
 | Lewisham East | Janet Daby MP | 2168 |
 | Lewisham North | Vicky Foxcroft MP | 1666 |
 | Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1602 |
-| Leyton and Wanstead | Mr Calvin Bailey MP | 1887 |
+| Leyton and Wanstead | Mr Calvin Bailey MP | 1888 |
 | Lichfield | Dave Robertson MP | 6518 |
 | Lincoln | Mr Hamish Falconer MP | 4680 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3175 |
@@ -333,7 +333,7 @@
 | North Cornwall | Ben Maguire MP | 6445 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6074 |
 | North Devon | Ian Roome MP | 5894 |
-| North Dorset | Simon Hoare MP | 6345 |
+| North Dorset | Simon Hoare MP | 6346 |
 | North Durham | Luke Akehurst MP | 5432 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6113 |
 | North East Derbyshire | Louise Jones MP | 5843 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6919 |
 | North Somerset | Sadik Al-Hassan MP | 4608 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6310 |
-| North West Cambridgeshire | Sam Carling MP | 6051 |
+| North West Cambridgeshire | Sam Carling MP | 6052 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7162 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5761 |
 | North West Leicestershire | Amanda Hack MP | 6739 |
@@ -406,7 +406,7 @@
 | Rutland and Stamford | Alicia Kearns MP | 6285 |
 | Salford | Rebecca Long Bailey MP | 4693 |
 | Salisbury | Rt Hon John Glen MP | 4771 |
-| Scarborough and Whitby | Alison Hume MP | 6047 |
+| Scarborough and Whitby | Alison Hume MP | 6048 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5122 |
 | Sefton Central | Bill Esterson MP | 4065 |
 | Selby | Keir Mather MP | 6412 |
@@ -445,7 +445,7 @@
 | South West Norfolk | Terry Jermy MP | 6572 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5238 |
 | Southampton Itchen | Darren Paffey MP | 4585 |
-| Southampton Test | Satvir Kaur MP | 3434 |
+| Southampton Test | Satvir Kaur MP | 3435 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5625 |
 | Southend West and Leigh | David Burton-Sampson MP | 5905 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2609 |
@@ -603,7 +603,7 @@
 | Glasgow North East | Maureen Burke MP | 2521 |
 | Glasgow South | Gordon McKee MP | 1866 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2286 |
-| Glasgow West | Patricia Ferguson MP | 2247 |
+| Glasgow West | Patricia Ferguson MP | 2248 |
 | Glenrothes and Mid Fife | Richard Baker MP | 3009 |
 | Gordon and Buchan | Harriet Cross MP | 4420 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3163 |
