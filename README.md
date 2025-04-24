@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014715                                |
-| Last Updated      | 2025-04-24 22:18:51 UTC                                    |
+| Total Signatures   | 3014723                                |
+| Last Updated      | 2025-04-24 23:17:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -44,7 +44,7 @@
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1922 |
 | Birmingham Northfield | Laurence Turner MP | 4947 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1737 |
-| Birmingham Selly Oak | Al Carns MP | 3322 |
+| Birmingham Selly Oak | Al Carns MP | 3323 |
 | Birmingham Yardley | Jess Phillips MP | 3116 |
 | Bishop Auckland | Sam Rushworth MP | 6207 |
 | Blackburn | Mr Adnan Hussain MP | 3174 |
@@ -140,7 +140,7 @@
 | Daventry | Rt Hon Stuart Andrew MP | 7304 |
 | Derby North | Catherine Atkinson MP | 4366 |
 | Derby South | Baggy Shanker MP | 3656 |
-| Derbyshire Dales | John Whitby MP | 6814 |
+| Derbyshire Dales | John Whitby MP | 6816 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3214 |
 | Didcot and Wantage | Olly Glover MP | 4908 |
 | Doncaster Central | Sally Jameson MP | 4978 |
@@ -180,7 +180,7 @@
 | Exmouth and Exeter East | David Reed MP | 5234 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6162 |
 | Farnham and Bordon | Gregory Stafford MP | 5208 |
-| Faversham and Mid Kent | Helen Whately MP | 6265 |
+| Faversham and Mid Kent | Helen Whately MP | 6266 |
 | Feltham and Heston | Seema Malhotra MP | 2948 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4545 |
 | Finchley and Golders Green | Sarah Sackman MP | 4293 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5483 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6237 |
 | Peterborough | Andrew Pakes MP | 4193 |
-| Plymouth Moor View | Fred Thomas MP | 5753 |
+| Plymouth Moor View | Fred Thomas MP | 5754 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4804 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5505 |
 | Poole | Neil Duncan-Jordan MP | 5697 |
@@ -459,10 +459,10 @@
 | St Ives | Andrew George MP | 5131 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4831 |
 | Stafford | Leigh Ingham MP | 5647 |
-| Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6449 |
+| Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6451 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5392 |
 | Stevenage | Kevin Bonavia MP | 4775 |
-| Stockport | Navendu Mishra MP | 3953 |
+| Stockport | Navendu Mishra MP | 3954 |
 | Stockton North | Chris McDonald MP | 4868 |
 | Stockton West | Matt Vickers MP | 6017 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4794 |
