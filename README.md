@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014495                                |
-| Last Updated      | 2025-04-24 06:27:36 UTC                                    |
+| Total Signatures   | 3014498                                |
+| Last Updated      | 2025-04-24 07:19:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5652 |
 | Tewkesbury | Cameron Thomas MP | 5040 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6442 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7466 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7467 |
 | Thornbury and Yate | Claire Young MP | 5729 |
 | Thurrock | Jen Craft MP | 5153 |
 | Tipton and Wednesbury | Antonia Bance MP | 4969 |
@@ -583,7 +583,7 @@
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3494 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3439 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3051 |
-| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4099 |
+| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4100 |
 | Coatbridge and Bellshill | Frank McNally MP | 2617 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2880 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2690 |
@@ -652,7 +652,7 @@
 | Newport East | Jessica Morden MP | 4062 |
 | Newport West and Islwyn | Ruth Jones MP | 4118 |
 | Pontypridd | Alex Davies-Jones MP | 3971 |
-| Rhondda and Ogmore | Chris Bryant MP | 4106 |
+| Rhondda and Ogmore | Chris Bryant MP | 4107 |
 | Swansea West | Torsten Bell MP | 3699 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4120 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4657 |
