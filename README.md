@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014473                                |
-| Last Updated      | 2025-04-23 23:17:57 UTC                                    |
+| Total Signatures   | 3014477                                |
+| Last Updated      | 2025-04-24 01:26:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -40,7 +40,7 @@
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2983 |
 | Birmingham Erdington | Paulette Hamilton MP | 4290 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1593 |
-| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3532 |
+| Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3533 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1922 |
 | Birmingham Northfield | Laurence Turner MP | 4947 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1737 |
@@ -181,7 +181,7 @@
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6161 |
 | Farnham and Bordon | Gregory Stafford MP | 5208 |
 | Faversham and Mid Kent | Helen Whately MP | 6265 |
-| Feltham and Heston | Seema Malhotra MP | 2946 |
+| Feltham and Heston | Seema Malhotra MP | 2947 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4545 |
 | Finchley and Golders Green | Sarah Sackman MP | 4293 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5423 |
@@ -486,7 +486,7 @@
 | Tamworth | Sarah Edwards MP | 6996 |
 | Tatton | Rt Hon Esther McVey MP | 6517 |
 | Taunton and Wellington | Gideon Amos MP | 5209 |
-| Telford | Shaun Davies MP | 5651 |
+| Telford | Shaun Davies MP | 5652 |
 | Tewkesbury | Cameron Thomas MP | 5040 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6442 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7465 |
@@ -549,7 +549,7 @@
 | Wyre Forest | Mark Garnier MP | 6531 |
 | Wythenshawe and Sale East | Mike Kane MP | 4643 |
 | Yeovil | Adam Dance MP | 5631 |
-| York Central | Rachael Maskell MP | 3300 |
+| York Central | Rachael Maskell MP | 3301 |
 | York Outer | Mr Luke Charters MP | 4365 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2971 |
 | Belfast North | John Finucane MP | 2529 |
