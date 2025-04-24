@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014478                                |
-| Last Updated      | 2025-04-24 03:05:12 UTC                                    |
+| Total Signatures   | 3014480                                |
+| Last Updated      | 2025-04-24 04:22:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -434,7 +434,7 @@
 | South East Cornwall | Anna Gelderd MP | 6281 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7171 |
 | South Leicestershire | Alberto Costa MP | 7028 |
-| South Norfolk | Ben Goldsborough MP | 5468 |
+| South Norfolk | Ben Goldsborough MP | 5469 |
 | South Northamptonshire | Sarah Bool MP | 6701 |
 | South Ribble | Mr Paul Foster MP | 5928 |
 | South Shields | Emma Lewell MP | 4772 |
@@ -504,7 +504,7 @@
 | Twickenham | Munira Wilson MP | 3671 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4513 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4506 |
-| Vauxhall and Camberwell Green | Florence Eshalomi MP | 1689 |
+| Vauxhall and Camberwell Green | Florence Eshalomi MP | 1690 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4960 |
 | Wallasey | Dame Angela Eagle MP | 4122 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4057 |
