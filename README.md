@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014572                                |
-| Last Updated      | 2025-04-24 13:29:30 UTC                                    |
+| Total Signatures   | 3014578                                |
+| Last Updated      | 2025-04-24 14:17:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -46,7 +46,7 @@
 | Birmingham Perry Barr | Ayoub Khan MP | 1737 |
 | Birmingham Selly Oak | Al Carns MP | 3322 |
 | Birmingham Yardley | Jess Phillips MP | 3116 |
-| Bishop Auckland | Sam Rushworth MP | 6206 |
+| Bishop Auckland | Sam Rushworth MP | 6207 |
 | Blackburn | Mr Adnan Hussain MP | 3174 |
 | Blackley and Middleton South | Graham Stringer MP | 3811 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6212 |
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6319 |
 | Mid Sussex | Alison Bennett MP | 4725 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4266 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5759 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5761 |
 | Milton Keynes Central | Emily Darlington MP | 4971 |
 | Milton Keynes North | Chris Curtis MP | 4599 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2688 |
@@ -406,7 +406,7 @@
 | Rutland and Stamford | Alicia Kearns MP | 6285 |
 | Salford | Rebecca Long Bailey MP | 4693 |
 | Salisbury | Rt Hon John Glen MP | 4771 |
-| Scarborough and Whitby | Alison Hume MP | 6048 |
+| Scarborough and Whitby | Alison Hume MP | 6049 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5122 |
 | Sefton Central | Bill Esterson MP | 4065 |
 | Selby | Keir Mather MP | 6412 |
@@ -523,7 +523,7 @@
 | West Dorset | Edward Morello MP | 5490 |
 | West Ham and Beckton | James Asser MP | 2175 |
 | West Lancashire | Ashley Dalton MP | 5094 |
-| West Suffolk | Nick Timothy MP | 6071 |
+| West Suffolk | Nick Timothy MP | 6072 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6292 |
 | Westmorland and Lonsdale | Tim Farron MP | 5217 |
 | Weston-super-Mare | Dan Aldridge MP | 5124 |
@@ -544,7 +544,7 @@
 | Wolverhampton West | Warinder Juss | 3857 |
 | Worcester | Tom Collins MP | 4352 |
 | Worsley and Eccles | Michael Wheeler MP | 5489 |
-| Worthing West | Dr Beccy Cooper MP | 5283 |
+| Worthing West | Dr Beccy Cooper MP | 5284 |
 | Wycombe | Emma Reynolds MP | 3645 |
 | Wyre Forest | Mark Garnier MP | 6531 |
 | Wythenshawe and Sale East | Mike Kane MP | 4643 |
