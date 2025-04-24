@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014480                                |
-| Last Updated      | 2025-04-24 04:22:03 UTC                                    |
+| Total Signatures   | 3014483                                |
+| Last Updated      | 2025-04-24 05:18:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -260,7 +260,7 @@
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3775 |
 | Kingston upon Hull East | Karl Turner MP | 5057 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4680 |
-| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5546 |
+| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5548 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6433 |
 | Knowsley | Anneliese Midgley MP | 3316 |
 | Lancaster and Wyre | Cat Smith MP | 5117 |
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5652 |
 | Tewkesbury | Cameron Thomas MP | 5040 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6442 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7465 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7466 |
 | Thornbury and Yate | Claire Young MP | 5729 |
 | Thurrock | Jen Craft MP | 5153 |
 | Tipton and Wednesbury | Antonia Bance MP | 4969 |
