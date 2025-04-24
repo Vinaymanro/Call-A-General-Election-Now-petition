@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014477                                |
-| Last Updated      | 2025-04-24 01:26:51 UTC                                    |
+| Total Signatures   | 3014478                                |
+| Last Updated      | 2025-04-24 03:05:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -620,7 +620,7 @@
 | Perth and Kinross-shire | Pete Wishart MP | 3529 |
 | Rutherglen | Michael Shanks MP | 2605 |
 | Stirling and Strathallan | Chris Kane MP | 3242 |
-| West Dunbartonshire | Douglas McAllister MP | 2756 |
+| West Dunbartonshire | Douglas McAllister MP | 2757 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3569 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4054 |
 | Central Ayrshire | Alan Gemmell MP | 3163 |
