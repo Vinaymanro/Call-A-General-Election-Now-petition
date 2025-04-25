@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014946                                |
-| Last Updated      | 2025-04-25 22:19:12 UTC                                    |
+| Total Signatures   | 3014950                                |
+| Last Updated      | 2025-04-25 23:17:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -287,7 +287,7 @@
 | Liverpool Walton | Dan Carden MP | 3403 |
 | Liverpool Wavertree | Paula Barker MP | 2248 |
 | Liverpool West Derby | Ian Byrne MP | 3101 |
-| Loughborough | Dr Jeevun Sandher MP | 4503 |
+| Loughborough | Dr Jeevun Sandher MP | 4504 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7831 |
 | Lowestoft | Jess Asato MP | 5371 |
 | Luton North | Sarah Owen MP | 2497 |
@@ -445,7 +445,7 @@
 | South West Norfolk | Terry Jermy MP | 6572 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5238 |
 | Southampton Itchen | Darren Paffey MP | 4587 |
-| Southampton Test | Satvir Kaur MP | 3435 |
+| Southampton Test | Satvir Kaur MP | 3436 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5625 |
 | Southend West and Leigh | David Burton-Sampson MP | 5906 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2609 |
@@ -576,7 +576,7 @@
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1447 |
 | Aberdeen North | Kirsty Blackman MP | 3579 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3869 |
-| Aberdeenshire North and Moray East | Seamus Logan MP | 4702 |
+| Aberdeenshire North and Moray East | Seamus Logan MP | 4703 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2852 |
 | Alloa and Grangemouth | Brian Leishman MP | 3046 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4076 |
@@ -594,7 +594,7 @@
 | East Kilbride and Strathaven | Joani Reid MP | 3179 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2111 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2426 |
-| Edinburgh South | Rt Hon Ian Murray MP | 2071 |
+| Edinburgh South | Rt Hon Ian Murray MP | 2072 |
 | Edinburgh South West | Dr Scott Arthur MP | 2271 |
 | Edinburgh West | Christine Jardine MP | 2730 |
 | Falkirk | Euan Stainbank MP | 3464 |
