@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014740                                |
-| Last Updated      | 2025-04-25 03:05:02 UTC                                    |
+| Total Signatures   | 3014742                                |
+| Last Updated      | 2025-04-25 04:22:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -332,7 +332,7 @@
 | North Bedfordshire | Richard Fuller MP | 6137 |
 | North Cornwall | Ben Maguire MP | 6445 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6074 |
-| North Devon | Ian Roome MP | 5895 |
+| North Devon | Ian Roome MP | 5896 |
 | North Dorset | Simon Hoare MP | 6346 |
 | North Durham | Luke Akehurst MP | 5432 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6114 |
@@ -404,7 +404,7 @@
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5863 |
 | Rushcliffe | James Naish MP | 5099 |
 | Rutland and Stamford | Alicia Kearns MP | 6285 |
-| Salford | Rebecca Long Bailey MP | 4694 |
+| Salford | Rebecca Long Bailey MP | 4695 |
 | Salisbury | Rt Hon John Glen MP | 4771 |
 | Scarborough and Whitby | Alison Hume MP | 6050 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5122 |
