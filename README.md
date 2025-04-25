@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014742                                |
-| Last Updated      | 2025-04-25 04:22:25 UTC                                    |
+| Total Signatures   | 3014745                                |
+| Last Updated      | 2025-04-25 05:18:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1757 |
 | Colchester | Pam Cox MP | 5046 |
 | Colne Valley | Paul Davies MP | 5066 |
-| Congleton | Sarah Russell MP | 6017 |
+| Congleton | Sarah Russell MP | 6018 |
 | Corby and East Northamptonshire | Lee Barron MP | 6049 |
 | Coventry East | Mary Creagh MP | 3629 |
 | Coventry North West | Taiwo Owatemi MP | 4291 |
@@ -330,7 +330,7 @@
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5572 |
 | Normanton and Hemsworth | Jon Trickett MP | 5548 |
 | North Bedfordshire | Richard Fuller MP | 6137 |
-| North Cornwall | Ben Maguire MP | 6445 |
+| North Cornwall | Ben Maguire MP | 6446 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6074 |
 | North Devon | Ian Roome MP | 5896 |
 | North Dorset | Simon Hoare MP | 6346 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5124 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6616 |
 | Whitehaven and Workington | Josh MacAlister MP | 5933 |
-| Widnes and Halewood | Derek Twigg MP | 4275 |
+| Widnes and Halewood | Derek Twigg MP | 4276 |
 | Wigan | Rt Hon Lisa Nandy MP | 6013 |
 | Wimbledon | Mr Paul Kohler MP | 3426 |
 | Winchester | Dr Danny Chambers MP | 4946 |
