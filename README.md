@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014921                                |
-| Last Updated      | 2025-04-25 20:20:42 UTC                                    |
+| Total Signatures   | 3014932                                |
+| Last Updated      | 2025-04-25 21:17:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -29,8 +29,8 @@
 | Battersea | Marsha De Cordova MP | 3623 |
 | Beaconsfield | Joy Morrissey MP | 5236 |
 | Beckenham and Penge | Liam Conlon MP | 3857 |
-| Bedford | Mohammad Yasin MP | 3252 |
-| Bermondsey and Old Southwark | Neil Coyle MP | 2733 |
+| Bedford | Mohammad Yasin MP | 3253 |
+| Bermondsey and Old Southwark | Neil Coyle MP | 2734 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1741 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6199 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6167 |
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5497 |
 | Dartford | Jim Dickson MP | 5771 |
 | Daventry | Rt Hon Stuart Andrew MP | 7305 |
-| Derby North | Catherine Atkinson MP | 4366 |
+| Derby North | Catherine Atkinson MP | 4367 |
 | Derby South | Baggy Shanker MP | 3656 |
 | Derbyshire Dales | John Whitby MP | 6817 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3214 |
@@ -192,7 +192,7 @@
 | Gateshead Central and Whickham | Mark Ferguson MP | 4563 |
 | Gedling | Michael Payne MP | 5096 |
 | Gillingham and Rainham | Naushabah Khan MP | 5088 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5623 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5624 |
 | Gloucester | Alex McIntyre MP | 4576 |
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5254 |
 | Goole and Pocklington | Rt Hon David Davis MP | 7005 |
@@ -218,7 +218,7 @@
 | Harrow East | Bob Blackman MP | 3148 |
 | Harrow West | Gareth Thomas MP | 2419 |
 | Hartlepool | Mr Jonathan Brash MP | 5709 |
-| Harwich and North Essex | Sir Bernard Jenkin MP | 6310 |
+| Harwich and North Essex | Sir Bernard Jenkin MP | 6311 |
 | Hastings and Rye | Helena Dollimore MP | 5101 |
 | Havant | Alan Mak MP | 5723 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2619 |
@@ -352,7 +352,7 @@
 | North West Leicestershire | Amanda Hack MP | 6739 |
 | North West Norfolk | James Wild MP | 5796 |
 | Northampton North | Lucy Rigby KC MP | 4309 |
-| Northampton South | Mike Reader MP | 4991 |
+| Northampton South | Mike Reader MP | 4992 |
 | Norwich North | Alice Macdonald MP | 4448 |
 | Norwich South | Clive Lewis MP | 3422 |
 | Nottingham East | Nadia Whittome MP | 2498 |
@@ -460,8 +460,8 @@
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4831 |
 | Stafford | Leigh Ingham MP | 5647 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6451 |
-| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5393 |
-| Stevenage | Kevin Bonavia MP | 4775 |
+| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5394 |
+| Stevenage | Kevin Bonavia MP | 4776 |
 | Stockport | Navendu Mishra MP | 3954 |
 | Stockton North | Chris McDonald MP | 4869 |
 | Stockton West | Matt Vickers MP | 6018 |
@@ -571,7 +571,7 @@
 | West Tyrone | Órfhlaith Begley MP | 1676 |
 | East Renfrewshire | Blair McDougall MP | 2616 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 884 |
-| Midlothian | Kirsty McNeill MP | 2824 |
+| Midlothian | Kirsty McNeill MP | 2825 |
 | North Ayrshire and Arran | Irene Campbell MP | 3322 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1447 |
 | Aberdeen North | Kirsty Blackman MP | 3579 |
@@ -592,7 +592,7 @@
 | Dundee Central | Chris Law MP | 2571 |
 | Dunfermline and Dollar | Graeme Downie MP | 2953 |
 | East Kilbride and Strathaven | Joani Reid MP | 3179 |
-| Edinburgh East and Musselburgh | Chris Murray MP | 2109 |
+| Edinburgh East and Musselburgh | Chris Murray MP | 2111 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2426 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2070 |
 | Edinburgh South West | Dr Scott Arthur MP | 2271 |
