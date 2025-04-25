@@ -3,12 +3,12 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014785                                |
-| Last Updated      | 2025-04-25 08:25:12 UTC                                    |
+| Total Signatures   | 3014791                                |
+| Last Updated      | 2025-04-25 09:19:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
-| Aldershot | Alex Baker MP | 5477 |
+| Aldershot | Alex Baker MP | 5478 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5847 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5515 |
 | Amber Valley | Linsey Farnsworth MP | 6139 |
@@ -62,7 +62,7 @@
 | Boston and Skegness | Richard Tice MP | 7126 |
 | Bournemouth East | Tom Hayes MP | 4702 |
 | Bournemouth West | Jessica Toale MP | 4951 |
-| Bracknell | Peter Swallow MP | 5005 |
+| Bracknell | Peter Swallow MP | 5006 |
 | Bradford East | Imran Hussain MP | 2934 |
 | Bradford South | Judith Cummins MP | 4231 |
 | Bradford West | Naz Shah MP | 1852 |
@@ -180,7 +180,7 @@
 | Exmouth and Exeter East | David Reed MP | 5234 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6163 |
 | Farnham and Bordon | Gregory Stafford MP | 5208 |
-| Faversham and Mid Kent | Helen Whately MP | 6266 |
+| Faversham and Mid Kent | Helen Whately MP | 6267 |
 | Feltham and Heston | Seema Malhotra MP | 2948 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4545 |
 | Finchley and Golders Green | Sarah Sackman MP | 4293 |
@@ -392,7 +392,7 @@
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7142 |
 | Richmond Park | Sarah Olney MP | 4073 |
 | Rochdale | Paul Waugh MP | 3983 |
-| Rochester and Strood | Lauren Edwards MP | 6075 |
+| Rochester and Strood | Lauren Edwards MP | 6076 |
 | Romford | Andrew Rosindell MP | 5826 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5098 |
 | Rossendale and Darwen | Andy MacNae MP | 6546 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5217 |
 | Weston-super-Mare | Dan Aldridge MP | 5124 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6616 |
-| Whitehaven and Workington | Josh MacAlister MP | 5933 |
+| Whitehaven and Workington | Josh MacAlister MP | 5935 |
 | Widnes and Halewood | Derek Twigg MP | 4276 |
 | Wigan | Rt Hon Lisa Nandy MP | 6014 |
 | Wimbledon | Mr Paul Kohler MP | 3426 |
