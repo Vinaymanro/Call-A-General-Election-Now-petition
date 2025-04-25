@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014880                                |
-| Last Updated      | 2025-04-25 16:22:58 UTC                                    |
+| Total Signatures   | 3014888                                |
+| Last Updated      | 2025-04-25 17:15:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -27,7 +27,7 @@
 | Bassetlaw | Jo White MP | 6799 |
 | Bath | Wera Hobhouse MP | 2986 |
 | Battersea | Marsha De Cordova MP | 3623 |
-| Beaconsfield | Joy Morrissey MP | 5234 |
+| Beaconsfield | Joy Morrissey MP | 5235 |
 | Beckenham and Penge | Liam Conlon MP | 3857 |
 | Bedford | Mohammad Yasin MP | 3252 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2733 |
@@ -240,7 +240,7 @@
 | Hornchurch and Upminster | Julia Lopez MP | 6652 |
 | Hornsey and Friern Barnet | Catherine West MP | 1953 |
 | Horsham | John Milne MP | 5860 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6373 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6374 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3354 |
 | Huddersfield | Harpreet Uppal MP | 3718 |
 | Huntingdon | Ben Obese-Jecty MP | 5585 |
@@ -298,7 +298,7 @@
 | Makerfield | Josh Simons MP | 5937 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8144 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4020 |
-| Manchester Rusholme | Afzal Khan MP | 1232 |
+| Manchester Rusholme | Afzal Khan MP | 1233 |
 | Manchester Withington | Jeff Smith MP | 1688 |
 | Mansfield | Steve Yemm MP | 6243 |
 | Melksham and Devizes | Brian Mathew MP | 5038 |
@@ -420,7 +420,7 @@
 | Shipley | Anna Dixon MP | 4922 |
 | Shrewsbury | Julia Buckley MP | 5350 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6916 |
-| Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6704 |
+| Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6705 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6330 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2601 |
 | Smethwick | Gurinder Singh Josan MP | 3086 |
@@ -428,7 +428,7 @@
 | South Basildon and East Thurrock | James McMurdock MP | 6644 |
 | South Cambridgeshire | Pippa Heylings MP | 4468 |
 | South Cotswolds | Dr Roz Savage MP | 5739 |
-| South Derbyshire | Samantha Niblett MP | 6208 |
+| South Derbyshire | Samantha Niblett MP | 6209 |
 | South Devon | Caroline Voaden MP | 5353 |
 | South Dorset | Lloyd Hatton MP | 5703 |
 | South East Cornwall | Anna Gelderd MP | 6281 |
@@ -555,7 +555,7 @@
 | Belfast North | John Finucane MP | 2532 |
 | Belfast South and Mid Down | Claire Hanna MP | 1952 |
 | Belfast West | Paul Maskey MP | 1424 |
-| East Antrim | Rt Hon Sammy Wilson MP | 3611 |
+| East Antrim | Rt Hon Sammy Wilson MP | 3612 |
 | East Londonderry | Mr Gregory Campbell MP | 2544 |
 | Fermanagh and South Tyrone | Pat Cullen MP | 2279 |
 | Foyle | Colum Eastwood MP | 1073 |
@@ -567,7 +567,7 @@
 | South Antrim | Robin Swann MP | 3107 |
 | South Down | Chris Hazzard MP | 1850 |
 | Strangford | Jim Shannon MP | 3482 |
-| Upper Bann | Carla Lockhart MP | 3091 |
+| Upper Bann | Carla Lockhart MP | 3092 |
 | West Tyrone | Órfhlaith Begley MP | 1676 |
 | East Renfrewshire | Blair McDougall MP | 2616 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 884 |
@@ -644,7 +644,7 @@
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4263 |
 | Gower | Tonia Antoniazzi MP | 4806 |
 | Llanelli | Dame Nia Griffith MP | 5300 |
-| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3768 |
+| Merthyr Tydfil and Aberdare | Gerald Jones MP | 3769 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5531 |
 | Monmouthshire | Catherine Fookes MP | 4773 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6088 |
