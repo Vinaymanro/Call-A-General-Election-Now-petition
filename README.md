@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014912                                |
-| Last Updated      | 2025-04-25 19:15:14 UTC                                    |
+| Total Signatures   | 3014921                                |
+| Last Updated      | 2025-04-25 20:20:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -211,7 +211,7 @@
 | Hamble Valley | Paul Holmes MP | 6169 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3212 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2988 |
-| Harborough, Oadby and Wigston | Neil O'Brien MP | 4736 |
+| Harborough, Oadby and Wigston | Neil O'Brien MP | 4737 |
 | Harlow | Chris Vince MP | 6104 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4557 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5146 |
@@ -288,7 +288,7 @@
 | Liverpool Wavertree | Paula Barker MP | 2248 |
 | Liverpool West Derby | Ian Byrne MP | 3101 |
 | Loughborough | Dr Jeevun Sandher MP | 4503 |
-| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7830 |
+| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7831 |
 | Lowestoft | Jess Asato MP | 5371 |
 | Luton North | Sarah Owen MP | 2497 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2970 |
@@ -384,7 +384,7 @@
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5173 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7382 |
 | Reading Central | Matt Rodda MP | 3046 |
-| Reading West and Mid Berkshire | Olivia Bailey MP | 4468 |
+| Reading West and Mid Berkshire | Olivia Bailey MP | 4469 |
 | Redcar | Anna Turley MP | 5501 |
 | Redditch | Chris Bloore MP | 6132 |
 | Reigate | Rebecca Paul MP | 5563 |
@@ -436,7 +436,7 @@
 | South Leicestershire | Alberto Costa MP | 7028 |
 | South Norfolk | Ben Goldsborough MP | 5469 |
 | South Northamptonshire | Sarah Bool MP | 6701 |
-| South Ribble | Mr Paul Foster MP | 5929 |
+| South Ribble | Mr Paul Foster MP | 5930 |
 | South Shields | Emma Lewell MP | 4773 |
 | South Shropshire | Stuart Anderson MP | 7354 |
 | South Suffolk | James Cartlidge MP | 6175 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5989 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5972 |
 | Tooting | Dr Rosena Allin-Khan MP | 2708 |
-| Torbay | Steve Darling MP | 5887 |
+| Torbay | Steve Darling MP | 5888 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6617 |
 | Tottenham | Rt Hon David Lammy MP | 1704 |
 | Truro and Falmouth | Jayne Kirkham MP | 4633 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5217 |
 | Weston-super-Mare | Dan Aldridge MP | 5125 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6616 |
-| Whitehaven and Workington | Josh MacAlister MP | 5939 |
+| Whitehaven and Workington | Josh MacAlister MP | 5940 |
 | Widnes and Halewood | Derek Twigg MP | 4277 |
 | Wigan | Rt Hon Lisa Nandy MP | 6015 |
 | Wimbledon | Mr Paul Kohler MP | 3426 |
@@ -555,10 +555,10 @@
 | Belfast North | John Finucane MP | 2532 |
 | Belfast South and Mid Down | Claire Hanna MP | 1952 |
 | Belfast West | Paul Maskey MP | 1424 |
-| East Antrim | Rt Hon Sammy Wilson MP | 3612 |
+| East Antrim | Rt Hon Sammy Wilson MP | 3613 |
 | East Londonderry | Mr Gregory Campbell MP | 2544 |
 | Fermanagh and South Tyrone | Pat Cullen MP | 2279 |
-| Foyle | Colum Eastwood MP | 1073 |
+| Foyle | Colum Eastwood MP | 1074 |
 | Lagan Valley | Sorcha Eastwood MP | 3539 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1901 |
 | Newry and Armagh | Dáire Hughes MP | 2092 |
@@ -617,7 +617,7 @@
 | North East Fife | Wendy Chamberlain MP | 2926 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2897 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2671 |
-| Perth and Kinross-shire | Pete Wishart MP | 3529 |
+| Perth and Kinross-shire | Pete Wishart MP | 3530 |
 | Rutherglen | Michael Shanks MP | 2605 |
 | Stirling and Strathallan | Chris Kane MP | 3242 |
 | West Dunbartonshire | Douglas McAllister MP | 2757 |
