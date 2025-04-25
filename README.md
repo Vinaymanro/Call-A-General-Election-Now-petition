@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014856                                |
-| Last Updated      | 2025-04-25 14:17:40 UTC                                    |
+| Total Signatures   | 3014864                                |
+| Last Updated      | 2025-04-25 15:19:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -205,7 +205,7 @@
 | Greenwich and Woolwich | Matthew Pennycook MP | 2648 |
 | Guildford | Zöe Franklin MP | 4017 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2070 |
-| Hackney South and Shoreditch | Dame Meg Hillier MP | 1536 |
+| Hackney South and Shoreditch | Dame Meg Hillier MP | 1537 |
 | Halesowen | Alex Ballinger MP | 5040 |
 | Halifax | Kate Dearden MP | 4780 |
 | Hamble Valley | Paul Holmes MP | 6169 |
@@ -232,7 +232,7 @@
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5778 |
 | Hexham | Joe Morris MP | 6437 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5304 |
-| High Peak | Jon Pearce MP | 5502 |
+| High Peak | Jon Pearce MP | 5503 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6519 |
 | Hitchin | Alistair Strathern MP | 4938 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2290 |
@@ -314,7 +314,7 @@
 | Mid Sussex | Alison Bennett MP | 4725 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4267 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5764 |
-| Milton Keynes Central | Emily Darlington MP | 4972 |
+| Milton Keynes Central | Emily Darlington MP | 4973 |
 | Milton Keynes North | Chris Curtis MP | 4599 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2689 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5797 |
@@ -544,7 +544,7 @@
 | Wolverhampton West | Warinder Juss | 3858 |
 | Worcester | Tom Collins MP | 4353 |
 | Worsley and Eccles | Michael Wheeler MP | 5489 |
-| Worthing West | Dr Beccy Cooper MP | 5284 |
+| Worthing West | Dr Beccy Cooper MP | 5285 |
 | Wycombe | Emma Reynolds MP | 3645 |
 | Wyre Forest | Mark Garnier MP | 6531 |
 | Wythenshawe and Sale East | Mike Kane MP | 4643 |
@@ -553,7 +553,7 @@
 | York Outer | Mr Luke Charters MP | 4367 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2971 |
 | Belfast North | John Finucane MP | 2532 |
-| Belfast South and Mid Down | Claire Hanna MP | 1951 |
+| Belfast South and Mid Down | Claire Hanna MP | 1952 |
 | Belfast West | Paul Maskey MP | 1424 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3611 |
 | East Londonderry | Mr Gregory Campbell MP | 2544 |
@@ -591,7 +591,7 @@
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3885 |
 | Dundee Central | Chris Law MP | 2571 |
 | Dunfermline and Dollar | Graeme Downie MP | 2953 |
-| East Kilbride and Strathaven | Joani Reid MP | 3178 |
+| East Kilbride and Strathaven | Joani Reid MP | 3179 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2109 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2426 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2070 |
@@ -626,7 +626,7 @@
 | Central Ayrshire | Alan Gemmell MP | 3163 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3286 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4587 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3747 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3748 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5795 |
 | Bangor Aberconwy | Claire Hughes MP | 4545 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3703 |
@@ -637,7 +637,7 @@
 | Cardiff East | Rt Hon Jo Stevens MP | 2939 |
 | Cardiff North | Anna McMorrin MP | 3317 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2825 |
-| Cardiff West | Mr Alex Barros-Curtis MP | 3171 |
+| Cardiff West | Mr Alex Barros-Curtis MP | 3172 |
 | Ceredigion Preseli | Ben Lake MP | 4775 |
 | Clwyd East | Becky Gittins MP | 6096 |
 | Clwyd North | Gill German MP | 5525 |
