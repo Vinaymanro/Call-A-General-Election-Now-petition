@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014904                                |
-| Last Updated      | 2025-04-25 18:26:03 UTC                                    |
+| Total Signatures   | 3014912                                |
+| Last Updated      | 2025-04-25 19:15:14 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -167,7 +167,7 @@
 | Eastbourne | Josh Babarinde MP | 5070 |
 | Eastleigh | Liz Jarvis MP | 4352 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2242 |
-| Ellesmere Port and Bromborough | Justin Madders MP | 4489 |
+| Ellesmere Port and Bromborough | Justin Madders MP | 4490 |
 | Eltham and Chislehurst | Clive Efford MP | 4736 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5199 |
 | Enfield North | Feryal Clark MP | 2919 |
@@ -260,7 +260,7 @@
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3775 |
 | Kingston upon Hull East | Karl Turner MP | 5057 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4681 |
-| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5549 |
+| Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5550 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6433 |
 | Knowsley | Anneliese Midgley MP | 3316 |
 | Lancaster and Wyre | Cat Smith MP | 5119 |
@@ -323,7 +323,7 @@
 | Newark | Rt Hon Robert Jenrick MP | 7193 |
 | Newbury | Mr Lee Dillon MP | 4921 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4552 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4808 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4810 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3978 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5115 |
 | Newton Abbot | Martin Wrigley MP | 5151 |
@@ -376,7 +376,7 @@
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5505 |
 | Poole | Neil Duncan-Jordan MP | 5697 |
 | Poplar and Limehouse | Apsana Begum MP | 2941 |
-| Portsmouth North | Amanda Martin MP | 5670 |
+| Portsmouth North | Amanda Martin MP | 5671 |
 | Portsmouth South | Stephen Morgan MP | 3918 |
 | Preston | Sir Mark Hendrick MP | 3838 |
 | Putney | Fleur Anderson MP | 3532 |
@@ -437,7 +437,7 @@
 | South Norfolk | Ben Goldsborough MP | 5469 |
 | South Northamptonshire | Sarah Bool MP | 6701 |
 | South Ribble | Mr Paul Foster MP | 5929 |
-| South Shields | Emma Lewell MP | 4772 |
+| South Shields | Emma Lewell MP | 4773 |
 | South Shropshire | Stuart Anderson MP | 7354 |
 | South Suffolk | James Cartlidge MP | 6175 |
 | South West Devon | Rebecca Smith MP | 6020 |
@@ -469,7 +469,7 @@
 | Stoke-on-Trent North | David Williams MP | 5504 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5762 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6569 |
-| Stourbridge | Cat Eccles MP | 5186 |
+| Stourbridge | Cat Eccles MP | 5187 |
 | Stratford and Bow | Uma Kumaran MP | 1788 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6745 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1879 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5125 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6616 |
 | Whitehaven and Workington | Josh MacAlister MP | 5939 |
-| Widnes and Halewood | Derek Twigg MP | 4276 |
+| Widnes and Halewood | Derek Twigg MP | 4277 |
 | Wigan | Rt Hon Lisa Nandy MP | 6015 |
 | Wimbledon | Mr Paul Kohler MP | 3426 |
 | Winchester | Dr Danny Chambers MP | 4946 |
