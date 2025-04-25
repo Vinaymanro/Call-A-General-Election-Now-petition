@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014791                                |
-| Last Updated      | 2025-04-25 09:19:41 UTC                                    |
+| Total Signatures   | 3014799                                |
+| Last Updated      | 2025-04-25 10:19:34 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -13,7 +13,7 @@
 | Altrincham and Sale West | Mr Connor Rand MP | 5515 |
 | Amber Valley | Linsey Farnsworth MP | 6139 |
 | Arundel and South Downs | Andrew Griffith MP | 6981 |
-| Ashfield | Lee Anderson MP | 6194 |
+| Ashfield | Lee Anderson MP | 6195 |
 | Ashford | Sojan Joseph MP | 5931 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4641 |
 | Aylesbury | Laura Kyrke-Smith MP | 4899 |
@@ -21,7 +21,7 @@
 | Barking | Nesil Caliskan MP | 2660 |
 | Barnsley North | Dan Jarvis MP | 5739 |
 | Barnsley South | Stephanie Peacock MP | 5824 |
-| Barrow and Furness | Michelle Scrogham MP | 5364 |
+| Barrow and Furness | Michelle Scrogham MP | 5365 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6934 |
 | Basingstoke | Luke Murphy MP | 4854 |
 | Bassetlaw | Jo White MP | 6799 |
@@ -72,7 +72,7 @@
 | Brentford and Isleworth | Ruth Cadbury MP | 3019 |
 | Brentwood and Ongar | Alex Burghart MP | 8166 |
 | Bridgwater | Sir Ashley Fox MP | 5812 |
-| Bridlington and The Wolds | Charlie Dewhirst MP | 6665 |
+| Bridlington and The Wolds | Charlie Dewhirst MP | 6666 |
 | Brigg and Immingham | Martin Vickers MP | 6508 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3955 |
 | Brighton Pavilion | Siân Berry MP | 2761 |
@@ -96,7 +96,7 @@
 | Camborne and Redruth | Perran Moon MP | 5008 |
 | Cambridge | Daniel Zeichner MP | 2238 |
 | Cannock Chase | Josh Newbury MP | 6935 |
-| Canterbury | Rosie Duffield MP | 4501 |
+| Canterbury | Rosie Duffield MP | 4502 |
 | Carlisle | Ms Julie Minns MP | 6580 |
 | Carshalton and Wallington | Bobby Dean MP | 4295 |
 | Castle Point | Rebecca Harris MP | 7563 |
@@ -108,7 +108,7 @@
 | Chelsea and Fulham | Ben Coleman MP | 5509 |
 | Cheltenham | Max Wilkinson MP | 4052 |
 | Chesham and Amersham | Sarah Green MP | 4960 |
-| Chester North and Neston | Samantha Dixon MP | 4083 |
+| Chester North and Neston | Samantha Dixon MP | 4084 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6419 |
 | Chesterfield | Mr Toby Perkins MP | 4925 |
 | Chichester | Jess Brown-Fuller MP | 5965 |
@@ -464,14 +464,14 @@
 | Stevenage | Kevin Bonavia MP | 4775 |
 | Stockport | Navendu Mishra MP | 3954 |
 | Stockton North | Chris McDonald MP | 4868 |
-| Stockton West | Matt Vickers MP | 6017 |
+| Stockton West | Matt Vickers MP | 6018 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4794 |
 | Stoke-on-Trent North | David Williams MP | 5504 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5762 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6569 |
 | Stourbridge | Cat Eccles MP | 5186 |
 | Stratford and Bow | Uma Kumaran MP | 1788 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6744 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6745 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1879 |
 | Stretford and Urmston | Andrew Western MP | 3865 |
 | Stroud | Dr Simon Opher MP | 4565 |
@@ -553,7 +553,7 @@
 | York Outer | Mr Luke Charters MP | 4367 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2971 |
 | Belfast North | John Finucane MP | 2531 |
-| Belfast South and Mid Down | Claire Hanna MP | 1950 |
+| Belfast South and Mid Down | Claire Hanna MP | 1951 |
 | Belfast West | Paul Maskey MP | 1424 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3611 |
 | East Londonderry | Mr Gregory Campbell MP | 2544 |
