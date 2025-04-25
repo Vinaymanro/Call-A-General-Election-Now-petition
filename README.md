@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014736                                |
-| Last Updated      | 2025-04-25 01:27:30 UTC                                    |
+| Total Signatures   | 3014740                                |
+| Last Updated      | 2025-04-25 03:05:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -19,10 +19,10 @@
 | Aylesbury | Laura Kyrke-Smith MP | 4899 |
 | Banbury | Sean Woodcock MP | 5491 |
 | Barking | Nesil Caliskan MP | 2660 |
-| Barnsley North | Dan Jarvis MP | 5738 |
+| Barnsley North | Dan Jarvis MP | 5739 |
 | Barnsley South | Stephanie Peacock MP | 5823 |
 | Barrow and Furness | Michelle Scrogham MP | 5364 |
-| Basildon and Billericay | Rt Hon Richard Holden MP | 6933 |
+| Basildon and Billericay | Rt Hon Richard Holden MP | 6934 |
 | Basingstoke | Luke Murphy MP | 4854 |
 | Bassetlaw | Jo White MP | 6799 |
 | Bath | Wera Hobhouse MP | 2986 |
@@ -243,7 +243,7 @@
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6373 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3354 |
 | Huddersfield | Harpreet Uppal MP | 3718 |
-| Huntingdon | Ben Obese-Jecty MP | 5584 |
+| Huntingdon | Ben Obese-Jecty MP | 5585 |
 | Hyndburn | Sarah Smith MP | 5044 |
 | Ilford North | Rt Hon Wes Streeting MP | 2635 |
 | Ilford South | Jas Athwal MP | 1609 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6246 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5483 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6237 |
-| Peterborough | Andrew Pakes MP | 4193 |
+| Peterborough | Andrew Pakes MP | 4194 |
 | Plymouth Moor View | Fred Thomas MP | 5754 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4804 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5505 |
