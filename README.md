@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3015177                                |
-| Last Updated      | 2025-04-26 22:16:17 UTC                                    |
+| Total Signatures   | 3015186                                |
+| Last Updated      | 2025-04-26 23:17:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -19,7 +19,7 @@
 | Aylesbury | Laura Kyrke-Smith MP | 4899 |
 | Banbury | Sean Woodcock MP | 5492 |
 | Barking | Nesil Caliskan MP | 2660 |
-| Barnsley North | Dan Jarvis MP | 5739 |
+| Barnsley North | Dan Jarvis MP | 5740 |
 | Barnsley South | Stephanie Peacock MP | 5825 |
 | Barrow and Furness | Michelle Scrogham MP | 5366 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6935 |
@@ -34,7 +34,7 @@
 | Bethnal Green and Stepney | Rushanara Ali MP | 1741 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6201 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6167 |
-| Bexleyheath and Crayford | Daniel Francis MP | 5071 |
+| Bexleyheath and Crayford | Daniel Francis MP | 5072 |
 | Bicester and Woodstock | Calum Miller MP | 4699 |
 | Birkenhead | Alison McGovern MP | 4386 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2983 |
@@ -137,7 +137,7 @@
 | Dagenham and Rainham | Margaret Mullane MP | 4267 |
 | Darlington | Lola McEvoy MP | 5498 |
 | Dartford | Jim Dickson MP | 5771 |
-| Daventry | Rt Hon Stuart Andrew MP | 7306 |
+| Daventry | Rt Hon Stuart Andrew MP | 7307 |
 | Derby North | Catherine Atkinson MP | 4368 |
 | Derby South | Baggy Shanker MP | 3656 |
 | Derbyshire Dales | John Whitby MP | 6817 |
@@ -214,7 +214,7 @@
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4737 |
 | Harlow | Chris Vince MP | 6104 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4557 |
-| Harrogate and Knaresborough | Tom Gordon MP | 5147 |
+| Harrogate and Knaresborough | Tom Gordon MP | 5148 |
 | Harrow East | Bob Blackman MP | 3148 |
 | Harrow West | Gareth Thomas MP | 2419 |
 | Hartlepool | Mr Jonathan Brash MP | 5709 |
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5418 |
 | Maidenhead | Mr Joshua Reynolds MP | 5307 |
 | Maidstone and Malling | Helen Grant MP | 5877 |
-| Makerfield | Josh Simons MP | 5937 |
+| Makerfield | Josh Simons MP | 5938 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8144 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4021 |
 | Manchester Rusholme | Afzal Khan MP | 1234 |
@@ -366,7 +366,7 @@
 | Ossett and Denby Dale | Jade Botterill MP | 5843 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2167 |
 | Oxford West and Abingdon | Layla Moran MP | 2944 |
-| Peckham | Miatta Fahnbulleh MP | 1370 |
+| Peckham | Miatta Fahnbulleh MP | 1371 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6246 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5483 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6238 |
@@ -392,7 +392,7 @@
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7144 |
 | Richmond Park | Sarah Olney MP | 4073 |
 | Rochdale | Paul Waugh MP | 3985 |
-| Rochester and Strood | Lauren Edwards MP | 6076 |
+| Rochester and Strood | Lauren Edwards MP | 6077 |
 | Romford | Andrew Rosindell MP | 5826 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5098 |
 | Rossendale and Darwen | Andy MacNae MP | 6548 |
@@ -418,7 +418,7 @@
 | Sheffield South East | Mr Clive Betts MP | 4773 |
 | Sherwood Forest | Michelle Welsh MP | 6702 |
 | Shipley | Anna Dixon MP | 4922 |
-| Shrewsbury | Julia Buckley MP | 5350 |
+| Shrewsbury | Julia Buckley MP | 5351 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6917 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6705 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6330 |
@@ -446,7 +446,7 @@
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5238 |
 | Southampton Itchen | Darren Paffey MP | 4587 |
 | Southampton Test | Satvir Kaur MP | 3436 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5627 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5628 |
 | Southend West and Leigh | David Burton-Sampson MP | 5906 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2609 |
 | Southport | Patrick Hurley MP | 6018 |
