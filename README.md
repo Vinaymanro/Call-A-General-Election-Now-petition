@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3015025                                |
-| Last Updated      | 2025-04-26 10:17:49 UTC                                    |
+| Total Signatures   | 3015029                                |
+| Last Updated      | 2025-04-26 11:13:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -157,7 +157,7 @@
 | Ealing Southall | Deirdre Costigan MP | 1968 |
 | Earley and Woodley | Yuan Yang MP | 3975 |
 | Easington | Grahame Morris MP | 5805 |
-| East Grinstead and Uckfield | Mims Davies MP | 6076 |
+| East Grinstead and Uckfield | Mims Davies MP | 6077 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1117 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5363 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6055 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5629 |
 | Mid Norfolk | George Freeman MP | 6319 |
 | Mid Sussex | Alison Bennett MP | 4725 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4267 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4268 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5764 |
 | Milton Keynes Central | Emily Darlington MP | 4973 |
 | Milton Keynes North | Chris Curtis MP | 4599 |
@@ -344,7 +344,7 @@
 | North Norfolk | Steff Aquarone MP | 5464 |
 | North Northumberland | David Smith MP | 6476 |
 | North Shropshire | Helen Morgan MP | 6919 |
-| North Somerset | Sadik Al-Hassan MP | 4609 |
+| North Somerset | Sadik Al-Hassan MP | 4610 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6312 |
 | North West Cambridgeshire | Sam Carling MP | 6054 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7163 |
@@ -652,7 +652,7 @@
 | Newport East | Jessica Morden MP | 4062 |
 | Newport West and Islwyn | Ruth Jones MP | 4119 |
 | Pontypridd | Alex Davies-Jones MP | 3971 |
-| Rhondda and Ogmore | Chris Bryant MP | 4108 |
+| Rhondda and Ogmore | Chris Bryant MP | 4109 |
 | Swansea West | Torsten Bell MP | 3699 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4120 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4658 |
