@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014959                                |
-| Last Updated      | 2025-04-26 02:58:47 UTC                                    |
+| Total Signatures   | 3014963                                |
+| Last Updated      | 2025-04-26 03:35:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -138,7 +138,7 @@
 | Darlington | Lola McEvoy MP | 5497 |
 | Dartford | Jim Dickson MP | 5771 |
 | Daventry | Rt Hon Stuart Andrew MP | 7305 |
-| Derby North | Catherine Atkinson MP | 4367 |
+| Derby North | Catherine Atkinson MP | 4368 |
 | Derby South | Baggy Shanker MP | 3656 |
 | Derbyshire Dales | John Whitby MP | 6817 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3214 |
@@ -333,7 +333,7 @@
 | North Cornwall | Ben Maguire MP | 6446 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6074 |
 | North Devon | Ian Roome MP | 5896 |
-| North Dorset | Simon Hoare MP | 6346 |
+| North Dorset | Simon Hoare MP | 6347 |
 | North Durham | Luke Akehurst MP | 5432 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6114 |
 | North East Derbyshire | Louise Jones MP | 5844 |
@@ -567,7 +567,7 @@
 | South Antrim | Robin Swann MP | 3107 |
 | South Down | Chris Hazzard MP | 1850 |
 | Strangford | Jim Shannon MP | 3482 |
-| Upper Bann | Carla Lockhart MP | 3092 |
+| Upper Bann | Carla Lockhart MP | 3093 |
 | West Tyrone | Órfhlaith Begley MP | 1676 |
 | East Renfrewshire | Blair McDougall MP | 2616 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 884 |
@@ -576,7 +576,7 @@
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1447 |
 | Aberdeen North | Kirsty Blackman MP | 3579 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3869 |
-| Aberdeenshire North and Moray East | Seamus Logan MP | 4703 |
+| Aberdeenshire North and Moray East | Seamus Logan MP | 4704 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2852 |
 | Alloa and Grangemouth | Brian Leishman MP | 3046 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4076 |
