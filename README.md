@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014967                                |
-| Last Updated      | 2025-04-26 05:17:15 UTC                                    |
+| Total Signatures   | 3014972                                |
+| Last Updated      | 2025-04-26 06:24:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -30,7 +30,7 @@
 | Beaconsfield | Joy Morrissey MP | 5236 |
 | Beckenham and Penge | Liam Conlon MP | 3857 |
 | Bedford | Mohammad Yasin MP | 3253 |
-| Bermondsey and Old Southwark | Neil Coyle MP | 2734 |
+| Bermondsey and Old Southwark | Neil Coyle MP | 2735 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1741 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6199 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6167 |
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1593 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3533 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1924 |
-| Birmingham Northfield | Laurence Turner MP | 4947 |
+| Birmingham Northfield | Laurence Turner MP | 4948 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1737 |
 | Birmingham Selly Oak | Al Carns MP | 3323 |
 | Birmingham Yardley | Jess Phillips MP | 3116 |
@@ -428,7 +428,7 @@
 | South Basildon and East Thurrock | James McMurdock MP | 6644 |
 | South Cambridgeshire | Pippa Heylings MP | 4468 |
 | South Cotswolds | Dr Roz Savage MP | 5739 |
-| South Derbyshire | Samantha Niblett MP | 6209 |
+| South Derbyshire | Samantha Niblett MP | 6210 |
 | South Devon | Caroline Voaden MP | 5353 |
 | South Dorset | Lloyd Hatton MP | 5704 |
 | South East Cornwall | Anna Gelderd MP | 6282 |
@@ -512,7 +512,7 @@
 | Warrington North | Charlotte Nichols MP | 5207 |
 | Warrington South | Sarah Hall MP | 5597 |
 | Warwick and Leamington | Matt Western MP | 4510 |
-| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5379 |
+| Washington and Gateshead South | Mrs Sharon Hodgson MP | 5380 |
 | Watford | Matt Turmaine MP | 3764 |
 | Waveney Valley | Adrian Ramsay MP | 5890 |
 | Weald of Kent | Katie Lam MP | 7264 |
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4443 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4368 |
 | Wolverhampton West | Warinder Juss | 3858 |
-| Worcester | Tom Collins MP | 4353 |
+| Worcester | Tom Collins MP | 4354 |
 | Worsley and Eccles | Michael Wheeler MP | 5489 |
 | Worthing West | Dr Beccy Cooper MP | 5285 |
 | Wycombe | Emma Reynolds MP | 3645 |
