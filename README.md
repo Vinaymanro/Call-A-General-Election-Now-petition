@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014956                                |
-| Last Updated      | 2025-04-26 01:24:30 UTC                                    |
+| Total Signatures   | 3014959                                |
+| Last Updated      | 2025-04-26 02:58:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -103,7 +103,7 @@
 | Central Devon | Rt Hon Sir Mel Stride MP | 5843 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5324 |
 | Chatham and Aylesford | Tristan Osborne MP | 5685 |
-| Cheadle | Tom Morrison MP | 4686 |
+| Cheadle | Tom Morrison MP | 4687 |
 | Chelmsford | Marie Goldman MP | 5302 |
 | Chelsea and Fulham | Ben Coleman MP | 5509 |
 | Cheltenham | Max Wilkinson MP | 4052 |
@@ -320,7 +320,7 @@
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5797 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5471 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5294 |
-| Newark | Rt Hon Robert Jenrick MP | 7193 |
+| Newark | Rt Hon Robert Jenrick MP | 7194 |
 | Newbury | Mr Lee Dillon MP | 4921 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4552 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4810 |
@@ -463,7 +463,7 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5394 |
 | Stevenage | Kevin Bonavia MP | 4776 |
 | Stockport | Navendu Mishra MP | 3954 |
-| Stockton North | Chris McDonald MP | 4869 |
+| Stockton North | Chris McDonald MP | 4870 |
 | Stockton West | Matt Vickers MP | 6018 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4794 |
 | Stoke-on-Trent North | David Williams MP | 5504 |
