@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014982                                |
-| Last Updated      | 2025-04-26 07:16:17 UTC                                    |
+| Total Signatures   | 3014993                                |
+| Last Updated      | 2025-04-26 08:22:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -32,7 +32,7 @@
 | Bedford | Mohammad Yasin MP | 3253 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2735 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1741 |
-| Beverley and Holderness | Rt Hon Graham Stuart MP | 6200 |
+| Beverley and Holderness | Rt Hon Graham Stuart MP | 6201 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6167 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5070 |
 | Bicester and Woodstock | Calum Miller MP | 4699 |
@@ -137,7 +137,7 @@
 | Dagenham and Rainham | Margaret Mullane MP | 4267 |
 | Darlington | Lola McEvoy MP | 5497 |
 | Dartford | Jim Dickson MP | 5771 |
-| Daventry | Rt Hon Stuart Andrew MP | 7305 |
+| Daventry | Rt Hon Stuart Andrew MP | 7306 |
 | Derby North | Catherine Atkinson MP | 4368 |
 | Derby South | Baggy Shanker MP | 3656 |
 | Derbyshire Dales | John Whitby MP | 6817 |
@@ -149,7 +149,7 @@
 | Dorking and Horley | Chris Coghlan MP | 5573 |
 | Dover and Deal | Mike Tapp MP | 5979 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6597 |
-| Dudley | Sonia Kumar MP | 5429 |
+| Dudley | Sonia Kumar MP | 5431 |
 | Dulwich and West Norwood | Helen Hayes MP | 1567 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5554 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3115 |
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1537 |
 | Halesowen | Alex Ballinger MP | 5040 |
 | Halifax | Kate Dearden MP | 4780 |
-| Hamble Valley | Paul Holmes MP | 6169 |
+| Hamble Valley | Paul Holmes MP | 6170 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3212 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2988 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4737 |
@@ -227,7 +227,7 @@
 | Hendon | David Pinto-Duschinsky MP | 3819 |
 | Henley and Thame | Freddie van Mierlo MP | 5430 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5303 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6343 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6344 |
 | Hertford and Stortford | Josh Dean MP | 6014 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5778 |
 | Hexham | Joe Morris MP | 6437 |
@@ -276,7 +276,7 @@
 | Leicester West | Rt Hon Liz Kendall MP | 3502 |
 | Leigh and Atherton | Jo Platt MP | 6130 |
 | Lewes | James MacCleary MP | 4929 |
-| Lewisham East | Janet Daby MP | 2168 |
+| Lewisham East | Janet Daby MP | 2169 |
 | Lewisham North | Vicky Foxcroft MP | 1666 |
 | Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1603 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1889 |
@@ -300,7 +300,7 @@
 | Manchester Central | Rt Hon Lucy Powell MP | 4020 |
 | Manchester Rusholme | Afzal Khan MP | 1234 |
 | Manchester Withington | Jeff Smith MP | 1688 |
-| Mansfield | Steve Yemm MP | 6243 |
+| Mansfield | Steve Yemm MP | 6244 |
 | Melksham and Devizes | Brian Mathew MP | 5038 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6137 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6132 |
@@ -428,14 +428,14 @@
 | South Basildon and East Thurrock | James McMurdock MP | 6644 |
 | South Cambridgeshire | Pippa Heylings MP | 4468 |
 | South Cotswolds | Dr Roz Savage MP | 5739 |
-| South Derbyshire | Samantha Niblett MP | 6210 |
+| South Derbyshire | Samantha Niblett MP | 6211 |
 | South Devon | Caroline Voaden MP | 5353 |
 | South Dorset | Lloyd Hatton MP | 5704 |
 | South East Cornwall | Anna Gelderd MP | 6282 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7171 |
 | South Leicestershire | Alberto Costa MP | 7028 |
 | South Norfolk | Ben Goldsborough MP | 5469 |
-| South Northamptonshire | Sarah Bool MP | 6701 |
+| South Northamptonshire | Sarah Bool MP | 6702 |
 | South Ribble | Mr Paul Foster MP | 5930 |
 | South Shields | Emma Lewell MP | 4773 |
 | South Shropshire | Stuart Anderson MP | 7354 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5989 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5972 |
 | Tooting | Dr Rosena Allin-Khan MP | 2708 |
-| Torbay | Steve Darling MP | 5889 |
+| Torbay | Steve Darling MP | 5890 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6617 |
 | Tottenham | Rt Hon David Lammy MP | 1704 |
 | Truro and Falmouth | Jayne Kirkham MP | 4633 |
