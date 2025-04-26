@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3015060                                |
-| Last Updated      | 2025-04-26 13:22:49 UTC                                    |
+| Total Signatures   | 3015070                                |
+| Last Updated      | 2025-04-26 14:15:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -26,7 +26,7 @@
 | Basingstoke | Luke Murphy MP | 4855 |
 | Bassetlaw | Jo White MP | 6799 |
 | Bath | Wera Hobhouse MP | 2986 |
-| Battersea | Marsha De Cordova MP | 3623 |
+| Battersea | Marsha De Cordova MP | 3624 |
 | Beaconsfield | Joy Morrissey MP | 5236 |
 | Beckenham and Penge | Liam Conlon MP | 3857 |
 | Bedford | Mohammad Yasin MP | 3253 |
@@ -42,7 +42,7 @@
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1593 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3533 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1924 |
-| Birmingham Northfield | Laurence Turner MP | 4948 |
+| Birmingham Northfield | Laurence Turner MP | 4949 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1737 |
 | Birmingham Selly Oak | Al Carns MP | 3323 |
 | Birmingham Yardley | Jess Phillips MP | 3116 |
@@ -93,7 +93,7 @@
 | Bury South | Christian Wakeford MP | 5460 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5470 |
 | Calder Valley | Josh Fenton-Glynn MP | 5688 |
-| Camborne and Redruth | Perran Moon MP | 5008 |
+| Camborne and Redruth | Perran Moon MP | 5010 |
 | Cambridge | Daniel Zeichner MP | 2239 |
 | Cannock Chase | Josh Newbury MP | 6935 |
 | Canterbury | Rosie Duffield MP | 4502 |
@@ -187,7 +187,7 @@
 | Folkestone and Hythe | Tony Vaughan KC MP | 5424 |
 | Forest of Dean | Matt Bishop MP | 5307 |
 | Frome and East Somerset | Anna Sabine MP | 4364 |
-| Fylde | Mr Andrew Snowden MP | 6814 |
+| Fylde | Mr Andrew Snowden MP | 6815 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6699 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4563 |
 | Gedling | Michael Payne MP | 5096 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6357 |
 | Gravesham | Dr Lauren Sullivan MP | 5200 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5854 |
-| Great Yarmouth | Rupert Lowe MP | 6634 |
+| Great Yarmouth | Rupert Lowe MP | 6635 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2648 |
 | Guildford | Zöe Franklin MP | 4017 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2070 |
@@ -341,7 +341,7 @@
 | North East Hertfordshire | Chris Hinchliff MP | 5878 |
 | North East Somerset and Hanham | Dan Norris MP | 5079 |
 | North Herefordshire | Ellie Chowns MP | 6496 |
-| North Norfolk | Steff Aquarone MP | 5464 |
+| North Norfolk | Steff Aquarone MP | 5465 |
 | North Northumberland | David Smith MP | 6476 |
 | North Shropshire | Helen Morgan MP | 6919 |
 | North Somerset | Sadik Al-Hassan MP | 4610 |
@@ -382,7 +382,7 @@
 | Putney | Fleur Anderson MP | 3532 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2168 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5173 |
-| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7382 |
+| Rayleigh and Wickford | Rt Hon Mark Francois MP | 7383 |
 | Reading Central | Matt Rodda MP | 3046 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4470 |
 | Redcar | Anna Turley MP | 5504 |
@@ -546,7 +546,7 @@
 | Worsley and Eccles | Michael Wheeler MP | 5489 |
 | Worthing West | Dr Beccy Cooper MP | 5285 |
 | Wycombe | Emma Reynolds MP | 3645 |
-| Wyre Forest | Mark Garnier MP | 6531 |
+| Wyre Forest | Mark Garnier MP | 6532 |
 | Wythenshawe and Sale East | Mike Kane MP | 4644 |
 | Yeovil | Adam Dance MP | 5631 |
 | York Central | Rachael Maskell MP | 3301 |
@@ -640,7 +640,7 @@
 | Cardiff West | Mr Alex Barros-Curtis MP | 3172 |
 | Ceredigion Preseli | Ben Lake MP | 4776 |
 | Clwyd East | Becky Gittins MP | 6096 |
-| Clwyd North | Gill German MP | 5526 |
+| Clwyd North | Gill German MP | 5527 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4263 |
 | Gower | Tonia Antoniazzi MP | 4806 |
 | Llanelli | Dame Nia Griffith MP | 5300 |
