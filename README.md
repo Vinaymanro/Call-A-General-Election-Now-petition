@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014972                                |
-| Last Updated      | 2025-04-26 06:24:24 UTC                                    |
+| Total Signatures   | 3014982                                |
+| Last Updated      | 2025-04-26 07:16:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -13,7 +13,7 @@
 | Altrincham and Sale West | Mr Connor Rand MP | 5515 |
 | Amber Valley | Linsey Farnsworth MP | 6139 |
 | Arundel and South Downs | Andrew Griffith MP | 6981 |
-| Ashfield | Lee Anderson MP | 6196 |
+| Ashfield | Lee Anderson MP | 6197 |
 | Ashford | Sojan Joseph MP | 5931 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4641 |
 | Aylesbury | Laura Kyrke-Smith MP | 4899 |
@@ -32,7 +32,7 @@
 | Bedford | Mohammad Yasin MP | 3253 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2735 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1741 |
-| Beverley and Holderness | Rt Hon Graham Stuart MP | 6199 |
+| Beverley and Holderness | Rt Hon Graham Stuart MP | 6200 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6167 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5070 |
 | Bicester and Woodstock | Calum Miller MP | 4699 |
@@ -122,7 +122,7 @@
 | Clacton | Nigel Farage MP | 8136 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1757 |
 | Colchester | Pam Cox MP | 5046 |
-| Colne Valley | Paul Davies MP | 5068 |
+| Colne Valley | Paul Davies MP | 5069 |
 | Congleton | Sarah Russell MP | 6018 |
 | Corby and East Northamptonshire | Lee Barron MP | 6049 |
 | Coventry East | Mary Creagh MP | 3629 |
@@ -184,7 +184,7 @@
 | Feltham and Heston | Seema Malhotra MP | 2948 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4545 |
 | Finchley and Golders Green | Sarah Sackman MP | 4293 |
-| Folkestone and Hythe | Tony Vaughan KC MP | 5423 |
+| Folkestone and Hythe | Tony Vaughan KC MP | 5424 |
 | Forest of Dean | Matt Bishop MP | 5306 |
 | Frome and East Somerset | Anna Sabine MP | 4364 |
 | Fylde | Mr Andrew Snowden MP | 6814 |
@@ -199,7 +199,7 @@
 | Gorton and Denton | Andrew Gwynne MP | 3314 |
 | Gosport | Dame Caroline Dinenage MP | 5514 |
 | Grantham and Bourne | Gareth Davies MP | 6357 |
-| Gravesham | Dr Lauren Sullivan MP | 5199 |
+| Gravesham | Dr Lauren Sullivan MP | 5200 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5854 |
 | Great Yarmouth | Rupert Lowe MP | 6634 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2648 |
@@ -256,7 +256,7 @@
 | Keighley and Ilkley | Robbie Moore MP | 4723 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6127 |
 | Kensington and Bayswater | Joe Powell MP | 4416 |
-| Kettering | Rosie Wrighting MP | 5946 |
+| Kettering | Rosie Wrighting MP | 5947 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3775 |
 | Kingston upon Hull East | Karl Turner MP | 5057 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4681 |
@@ -308,7 +308,7 @@
 | Mid Buckinghamshire | Greg Smith MP | 5617 |
 | Mid Cheshire | Andrew Cooper MP | 5208 |
 | Mid Derbyshire | Jonathan Davies MP | 5273 |
-| Mid Dorset and North Poole | Vikki Slade MP | 5917 |
+| Mid Dorset and North Poole | Vikki Slade MP | 5918 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5629 |
 | Mid Norfolk | George Freeman MP | 6319 |
 | Mid Sussex | Alison Bennett MP | 4725 |
@@ -385,13 +385,13 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7382 |
 | Reading Central | Matt Rodda MP | 3046 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4469 |
-| Redcar | Anna Turley MP | 5501 |
+| Redcar | Anna Turley MP | 5502 |
 | Redditch | Chris Bloore MP | 6132 |
 | Reigate | Rebecca Paul MP | 5563 |
 | Ribble Valley | Maya Ellis MP | 6755 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7142 |
 | Richmond Park | Sarah Olney MP | 4073 |
-| Rochdale | Paul Waugh MP | 3984 |
+| Rochdale | Paul Waugh MP | 3985 |
 | Rochester and Strood | Lauren Edwards MP | 6076 |
 | Romford | Andrew Rosindell MP | 5826 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5098 |
@@ -523,7 +523,7 @@
 | West Dorset | Edward Morello MP | 5490 |
 | West Ham and Beckton | James Asser MP | 2175 |
 | West Lancashire | Ashley Dalton MP | 5094 |
-| West Suffolk | Nick Timothy MP | 6073 |
+| West Suffolk | Nick Timothy MP | 6074 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6293 |
 | Westmorland and Lonsdale | Tim Farron MP | 5217 |
 | Weston-super-Mare | Dan Aldridge MP | 5125 |
