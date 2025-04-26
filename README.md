@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3015070                                |
-| Last Updated      | 2025-04-26 14:15:30 UTC                                    |
+| Total Signatures   | 3015079                                |
+| Last Updated      | 2025-04-26 15:17:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -116,12 +116,12 @@
 | Chippenham | Sarah Gibson MP | 4775 |
 | Chipping Barnet | Dan Tomlinson MP | 4364 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5543 |
-| Christchurch | Sir Christopher Chope MP | 5882 |
+| Christchurch | Sir Christopher Chope MP | 5883 |
 | Cities of London and Westminster | Rachel Blake MP | 5193 |
 | City of Durham | Mary Kelly Foy MP | 4283 |
 | Clacton | Nigel Farage MP | 8136 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1757 |
-| Colchester | Pam Cox MP | 5046 |
+| Colchester | Pam Cox MP | 5047 |
 | Colne Valley | Paul Davies MP | 5070 |
 | Congleton | Sarah Russell MP | 6018 |
 | Corby and East Northamptonshire | Lee Barron MP | 6049 |
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5431 |
 | Dulwich and West Norwood | Helen Hayes MP | 1567 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5554 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3115 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3116 |
 | Ealing North | James Murray MP | 2597 |
 | Ealing Southall | Deirdre Costigan MP | 1968 |
 | Earley and Woodley | Yuan Yang MP | 3975 |
@@ -187,7 +187,7 @@
 | Folkestone and Hythe | Tony Vaughan KC MP | 5424 |
 | Forest of Dean | Matt Bishop MP | 5307 |
 | Frome and East Somerset | Anna Sabine MP | 4364 |
-| Fylde | Mr Andrew Snowden MP | 6815 |
+| Fylde | Mr Andrew Snowden MP | 6817 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6699 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4563 |
 | Gedling | Michael Payne MP | 5096 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2677 |
 | Liverpool Walton | Dan Carden MP | 3403 |
 | Liverpool Wavertree | Paula Barker MP | 2248 |
-| Liverpool West Derby | Ian Byrne MP | 3101 |
+| Liverpool West Derby | Ian Byrne MP | 3102 |
 | Loughborough | Dr Jeevun Sandher MP | 4504 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7831 |
 | Lowestoft | Jess Asato MP | 5371 |
@@ -349,7 +349,7 @@
 | North West Cambridgeshire | Sam Carling MP | 6054 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7163 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5761 |
-| North West Leicestershire | Amanda Hack MP | 6739 |
+| North West Leicestershire | Amanda Hack MP | 6740 |
 | North West Norfolk | James Wild MP | 5796 |
 | Northampton North | Lucy Rigby KC MP | 4309 |
 | Northampton South | Mike Reader MP | 4992 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5483 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6238 |
 | Peterborough | Andrew Pakes MP | 4194 |
-| Plymouth Moor View | Fred Thomas MP | 5755 |
+| Plymouth Moor View | Fred Thomas MP | 5756 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4804 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5505 |
 | Poole | Neil Duncan-Jordan MP | 5697 |
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4443 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4368 |
 | Wolverhampton West | Warinder Juss | 3858 |
-| Worcester | Tom Collins MP | 4354 |
+| Worcester | Tom Collins MP | 4355 |
 | Worsley and Eccles | Michael Wheeler MP | 5489 |
 | Worthing West | Dr Beccy Cooper MP | 5285 |
 | Wycombe | Emma Reynolds MP | 3645 |
