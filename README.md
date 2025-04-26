@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014963                                |
-| Last Updated      | 2025-04-26 03:35:15 UTC                                    |
+| Total Signatures   | 3014966                                |
+| Last Updated      | 2025-04-26 04:20:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -51,7 +51,7 @@
 | Blackley and Middleton South | Graham Stringer MP | 3811 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6212 |
 | Blackpool South | Chris Webb MP | 5874 |
-| Blaydon and Consett | Liz Twist MP | 5280 |
+| Blaydon and Consett | Liz Twist MP | 5281 |
 | Blyth and Ashington | Ian Lavery MP | 5908 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6177 |
 | Bolsover | Natalie Fleet MP | 6585 |
@@ -264,7 +264,7 @@
 | Kingswinford and South Staffordshire | Mike Wood MP | 6433 |
 | Knowsley | Anneliese Midgley MP | 3317 |
 | Lancaster and Wyre | Cat Smith MP | 5119 |
-| Leeds Central and Headingley | Alex Sobel MP | 1949 |
+| Leeds Central and Headingley | Alex Sobel MP | 1950 |
 | Leeds East | Richard Burgon MP | 4337 |
 | Leeds North East | Fabian Hamilton MP | 2655 |
 | Leeds North West | Katie White MP | 4421 |
@@ -625,7 +625,7 @@
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4054 |
 | Central Ayrshire | Alan Gemmell MP | 3163 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3286 |
-| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4587 |
+| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4588 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3748 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5795 |
 | Bangor Aberconwy | Claire Hughes MP | 4545 |
