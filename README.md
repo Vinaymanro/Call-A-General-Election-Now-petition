@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3014950                                |
-| Last Updated      | 2025-04-25 23:17:09 UTC                                    |
+| Total Signatures   | 3014956                                |
+| Last Updated      | 2025-04-26 01:24:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5429 |
 | Dulwich and West Norwood | Helen Hayes MP | 1567 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5554 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3114 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3115 |
 | Ealing North | James Murray MP | 2597 |
 | Ealing Southall | Deirdre Costigan MP | 1968 |
 | Earley and Woodley | Yuan Yang MP | 3975 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6209 |
 | South Devon | Caroline Voaden MP | 5353 |
 | South Dorset | Lloyd Hatton MP | 5704 |
-| South East Cornwall | Anna Gelderd MP | 6281 |
+| South East Cornwall | Anna Gelderd MP | 6282 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7171 |
 | South Leicestershire | Alberto Costa MP | 7028 |
 | South Norfolk | Ben Goldsborough MP | 5469 |
@@ -487,7 +487,7 @@
 | Tatton | Rt Hon Esther McVey MP | 6517 |
 | Taunton and Wellington | Gideon Amos MP | 5210 |
 | Telford | Shaun Davies MP | 5652 |
-| Tewkesbury | Cameron Thomas MP | 5040 |
+| Tewkesbury | Cameron Thomas MP | 5041 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6442 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7467 |
 | Thornbury and Yate | Claire Young MP | 5729 |
@@ -505,8 +505,8 @@
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4513 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4507 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1691 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4961 |
-| Wallasey | Dame Angela Eagle MP | 4122 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4962 |
+| Wallasey | Dame Angela Eagle MP | 4123 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4057 |
 | Walthamstow | Ms Stella Creasy MP | 1325 |
 | Warrington North | Charlotte Nichols MP | 5207 |
@@ -555,7 +555,7 @@
 | Belfast North | John Finucane MP | 2532 |
 | Belfast South and Mid Down | Claire Hanna MP | 1952 |
 | Belfast West | Paul Maskey MP | 1424 |
-| East Antrim | Rt Hon Sammy Wilson MP | 3613 |
+| East Antrim | Rt Hon Sammy Wilson MP | 3614 |
 | East Londonderry | Mr Gregory Campbell MP | 2544 |
 | Fermanagh and South Tyrone | Pat Cullen MP | 2279 |
 | Foyle | Colum Eastwood MP | 1074 |
