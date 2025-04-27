@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3015227                                |
-| Last Updated      | 2025-04-27 03:08:03 UTC                                    |
+| Total Signatures   | 3015235                                |
+| Last Updated      | 2025-04-27 04:21:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -65,7 +65,7 @@
 | Bracknell | Peter Swallow MP | 5006 |
 | Bradford East | Imran Hussain MP | 2934 |
 | Bradford South | Judith Cummins MP | 4231 |
-| Bradford West | Naz Shah MP | 1852 |
+| Bradford West | Naz Shah MP | 1853 |
 | Braintree | Rt Hon Sir James Cleverly MP | 7479 |
 | Brent East | Dawn Butler MP | 1883 |
 | Brent West | Barry Gardiner MP | 2112 |
@@ -173,7 +173,7 @@
 | Enfield North | Feryal Clark MP | 2920 |
 | Epping Forest | Dr Neil Hudson MP | 6621 |
 | Epsom and Ewell | Helen Maguire MP | 4950 |
-| Erewash | Adam Thompson MP | 5879 |
+| Erewash | Adam Thompson MP | 5880 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3242 |
 | Esher and Walton | Monica Harding MP | 4841 |
 | Exeter | Steve Race MP | 3198 |
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1537 |
 | Halesowen | Alex Ballinger MP | 5040 |
 | Halifax | Kate Dearden MP | 4780 |
-| Hamble Valley | Paul Holmes MP | 6170 |
+| Hamble Valley | Paul Holmes MP | 6171 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3212 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2988 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4737 |
@@ -243,7 +243,7 @@
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6374 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3354 |
 | Huddersfield | Harpreet Uppal MP | 3719 |
-| Huntingdon | Ben Obese-Jecty MP | 5586 |
+| Huntingdon | Ben Obese-Jecty MP | 5587 |
 | Hyndburn | Sarah Smith MP | 5044 |
 | Ilford North | Rt Hon Wes Streeting MP | 2635 |
 | Ilford South | Jas Athwal MP | 1609 |
@@ -293,7 +293,7 @@
 | Luton North | Sarah Owen MP | 2497 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2970 |
 | Macclesfield | Tim Roca MP | 5418 |
-| Maidenhead | Mr Joshua Reynolds MP | 5307 |
+| Maidenhead | Mr Joshua Reynolds MP | 5308 |
 | Maidstone and Malling | Helen Grant MP | 5877 |
 | Makerfield | Josh Simons MP | 5938 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8144 |
@@ -321,7 +321,7 @@
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5471 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5294 |
 | Newark | Rt Hon Robert Jenrick MP | 7194 |
-| Newbury | Mr Lee Dillon MP | 4922 |
+| Newbury | Mr Lee Dillon MP | 4923 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4552 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4810 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3980 |
@@ -412,7 +412,7 @@
 | Selby | Keir Mather MP | 6413 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6696 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3473 |
-| Sheffield Central | Abtisam Mohamed MP | 1445 |
+| Sheffield Central | Abtisam Mohamed MP | 1446 |
 | Sheffield Hallam | Olivia Blake MP | 3398 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3578 |
 | Sheffield South East | Mr Clive Betts MP | 4773 |
@@ -455,7 +455,7 @@
 | St Albans | Daisy Cooper MP | 3892 |
 | St Austell and Newquay | Noah Law MP | 5670 |
 | St Helens North | David Baines MP | 4760 |
-| St Helens South and Whiston | Ms Marie Rimmer MP | 4211 |
+| St Helens South and Whiston | Ms Marie Rimmer MP | 4212 |
 | St Ives | Andrew George MP | 5132 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4831 |
 | Stafford | Leigh Ingham MP | 5648 |
