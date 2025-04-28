@@ -3,17 +3,17 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3015865                                |
-| Last Updated      | 2025-04-28 01:38:05 UTC                                    |
+| Total Signatures   | 3015873                                |
+| Last Updated      | 2025-04-28 03:09:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5484 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5849 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5515 |
-| Amber Valley | Linsey Farnsworth MP | 6140 |
+| Amber Valley | Linsey Farnsworth MP | 6141 |
 | Arundel and South Downs | Andrew Griffith MP | 6982 |
-| Ashfield | Lee Anderson MP | 6201 |
+| Ashfield | Lee Anderson MP | 6202 |
 | Ashford | Sojan Joseph MP | 5932 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4643 |
 | Aylesbury | Laura Kyrke-Smith MP | 4899 |
@@ -44,7 +44,7 @@
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1924 |
 | Birmingham Northfield | Laurence Turner MP | 4950 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1737 |
-| Birmingham Selly Oak | Al Carns MP | 3324 |
+| Birmingham Selly Oak | Al Carns MP | 3325 |
 | Birmingham Yardley | Jess Phillips MP | 3116 |
 | Bishop Auckland | Sam Rushworth MP | 6209 |
 | Blackburn | Mr Adnan Hussain MP | 3178 |
@@ -59,7 +59,7 @@
 | Bolton South and Walkden | Yasmin Qureshi MP | 4476 |
 | Bolton West | Phil Brickell MP | 5626 |
 | Bootle | Peter Dowd MP | 3202 |
-| Boston and Skegness | Richard Tice MP | 7128 |
+| Boston and Skegness | Richard Tice MP | 7129 |
 | Bournemouth East | Tom Hayes MP | 4703 |
 | Bournemouth West | Jessica Toale MP | 4951 |
 | Bracknell | Peter Swallow MP | 5007 |
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5617 |
 | Dorking and Horley | Chris Coghlan MP | 5573 |
 | Dover and Deal | Mike Tapp MP | 5979 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6601 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6602 |
 | Dudley | Sonia Kumar MP | 5431 |
 | Dulwich and West Norwood | Helen Hayes MP | 1568 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5556 |
@@ -289,7 +289,7 @@
 | Liverpool West Derby | Ian Byrne MP | 3103 |
 | Loughborough | Dr Jeevun Sandher MP | 4505 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7834 |
-| Lowestoft | Jess Asato MP | 5371 |
+| Lowestoft | Jess Asato MP | 5372 |
 | Luton North | Sarah Owen MP | 2498 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2971 |
 | Macclesfield | Tim Roca MP | 5418 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3980 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5117 |
 | Newton Abbot | Martin Wrigley MP | 5151 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5575 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5576 |
 | Normanton and Hemsworth | Jon Trickett MP | 5550 |
 | North Bedfordshire | Richard Fuller MP | 6138 |
 | North Cornwall | Ben Maguire MP | 6446 |
@@ -551,7 +551,7 @@
 | Yeovil | Adam Dance MP | 5631 |
 | York Central | Rachael Maskell MP | 3302 |
 | York Outer | Mr Luke Charters MP | 4367 |
-| Belfast East | Rt Hon Gavin Robinson MP | 2972 |
+| Belfast East | Rt Hon Gavin Robinson MP | 2973 |
 | Belfast North | John Finucane MP | 2533 |
 | Belfast South and Mid Down | Claire Hanna MP | 1954 |
 | Belfast West | Paul Maskey MP | 1425 |
