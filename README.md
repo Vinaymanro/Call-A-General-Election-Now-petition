@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3015876                                |
-| Last Updated      | 2025-04-28 04:22:41 UTC                                    |
+| Total Signatures   | 3015879                                |
+| Last Updated      | 2025-04-28 05:25:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -153,7 +153,7 @@
 | Dulwich and West Norwood | Helen Hayes MP | 1568 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5556 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3117 |
-| Ealing North | James Murray MP | 2598 |
+| Ealing North | James Murray MP | 2599 |
 | Ealing Southall | Deirdre Costigan MP | 1968 |
 | Earley and Woodley | Yuan Yang MP | 3975 |
 | Easington | Grahame Morris MP | 5806 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4872 |
 | Stockton West | Matt Vickers MP | 6019 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4794 |
-| Stoke-on-Trent North | David Williams MP | 5506 |
+| Stoke-on-Trent North | David Williams MP | 5507 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5764 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6569 |
 | Stourbridge | Cat Eccles MP | 5188 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5219 |
 | Weston-super-Mare | Dan Aldridge MP | 5129 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6617 |
-| Whitehaven and Workington | Josh MacAlister MP | 5941 |
+| Whitehaven and Workington | Josh MacAlister MP | 5942 |
 | Widnes and Halewood | Derek Twigg MP | 4278 |
 | Wigan | Rt Hon Lisa Nandy MP | 6017 |
 | Wimbledon | Mr Paul Kohler MP | 3426 |
