@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016348                                |
-| Last Updated      | 2025-04-29 10:21:07 UTC                                    |
+| Total Signatures   | 3016358                                |
+| Last Updated      | 2025-04-29 11:15:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -55,7 +55,7 @@
 | Blyth and Ashington | Ian Lavery MP | 5912 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6183 |
 | Bolsover | Natalie Fleet MP | 6587 |
-| Bolton North East | Kirith Entwistle MP | 5659 |
+| Bolton North East | Kirith Entwistle MP | 5660 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4477 |
 | Bolton West | Phil Brickell MP | 5626 |
 | Bootle | Peter Dowd MP | 3202 |
@@ -144,7 +144,7 @@
 | Dewsbury and Batley | Iqbal Mohamed MP | 3218 |
 | Didcot and Wantage | Olly Glover MP | 4911 |
 | Doncaster Central | Sally Jameson MP | 4981 |
-| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6120 |
+| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6121 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5618 |
 | Dorking and Horley | Chris Coghlan MP | 5575 |
 | Dover and Deal | Mike Tapp MP | 5980 |
@@ -247,7 +247,7 @@
 | Hyndburn | Sarah Smith MP | 5050 |
 | Ilford North | Rt Hon Wes Streeting MP | 2636 |
 | Ilford South | Jas Athwal MP | 1610 |
-| Ipswich | Jack Abbott MP | 4189 |
+| Ipswich | Jack Abbott MP | 4190 |
 | Isle of Wight East | Joe Robertson MP | 4406 |
 | Isle of Wight West | Mr Richard Quigley MP | 4098 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1811 |
@@ -263,7 +263,7 @@
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5552 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6433 |
 | Knowsley | Anneliese Midgley MP | 3320 |
-| Lancaster and Wyre | Cat Smith MP | 5124 |
+| Lancaster and Wyre | Cat Smith MP | 5125 |
 | Leeds Central and Headingley | Alex Sobel MP | 1950 |
 | Leeds East | Richard Burgon MP | 4339 |
 | Leeds North East | Fabian Hamilton MP | 2655 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4196 |
 | Plymouth Moor View | Fred Thomas MP | 5760 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4804 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5510 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5511 |
 | Poole | Neil Duncan-Jordan MP | 5698 |
 | Poplar and Limehouse | Apsana Begum MP | 2941 |
 | Portsmouth North | Amanda Martin MP | 5674 |
@@ -407,9 +407,9 @@
 | Salford | Rebecca Long Bailey MP | 4696 |
 | Salisbury | Rt Hon John Glen MP | 4773 |
 | Scarborough and Whitby | Alison Hume MP | 6052 |
-| Scunthorpe | Sir Nicholas Dakin MP | 5125 |
+| Scunthorpe | Sir Nicholas Dakin MP | 5126 |
 | Sefton Central | Bill Esterson MP | 4066 |
-| Selby | Keir Mather MP | 6418 |
+| Selby | Keir Mather MP | 6419 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6697 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3474 |
 | Sheffield Central | Abtisam Mohamed MP | 1447 |
@@ -472,12 +472,12 @@
 | Stourbridge | Cat Eccles MP | 5189 |
 | Stratford and Bow | Uma Kumaran MP | 1788 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6749 |
-| Streatham and Croydon North | Rt Hon Steve Reed MP | 1881 |
+| Streatham and Croydon North | Rt Hon Steve Reed MP | 1882 |
 | Stretford and Urmston | Andrew Western MP | 3866 |
 | Stroud | Dr Simon Opher MP | 4566 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5422 |
 | Sunderland Central | Lewis Atkinson MP | 5298 |
-| Surrey Heath | Dr Al Pinkerton MP | 5462 |
+| Surrey Heath | Dr Al Pinkerton MP | 5463 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6139 |
 | Sutton and Cheam | Luke Taylor MP | 4407 |
 | Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5698 |
@@ -590,7 +590,7 @@
 | Dumfries and Galloway | John Cooper MP | 4063 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3887 |
 | Dundee Central | Chris Law MP | 2574 |
-| Dunfermline and Dollar | Graeme Downie MP | 2954 |
+| Dunfermline and Dollar | Graeme Downie MP | 2955 |
 | East Kilbride and Strathaven | Joani Reid MP | 3180 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2111 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2428 |
