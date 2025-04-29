@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016261                                |
-| Last Updated      | 2025-04-29 04:21:36 UTC                                    |
+| Total Signatures   | 3016266                                |
+| Last Updated      | 2025-04-29 05:18:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2736 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1742 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6205 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6167 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6168 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5076 |
 | Bicester and Woodstock | Calum Miller MP | 4699 |
 | Birkenhead | Alison McGovern MP | 4388 |
@@ -538,7 +538,7 @@
 | Witham | Rt Hon Priti Patel MP | 7058 |
 | Witney | Charlie Maynard MP | 5179 |
 | Woking | Mr Will Forster MP | 4415 |
-| Wokingham | Clive Jones MP | 4887 |
+| Wokingham | Clive Jones MP | 4888 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4448 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4371 |
 | Wolverhampton West | Warinder Juss | 3862 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3465 |
 | Glasgow East | John Grady MP | 2358 |
 | Glasgow North | Martin Rhodes MP | 2073 |
-| Glasgow North East | Maureen Burke MP | 2527 |
+| Glasgow North East | Maureen Burke MP | 2528 |
 | Glasgow South | Gordon McKee MP | 1869 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2288 |
 | Glasgow West | Patricia Ferguson MP | 2252 |
@@ -616,13 +616,13 @@
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2771 |
 | North East Fife | Wendy Chamberlain MP | 2928 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2899 |
-| Paisley and Renfrewshire South | Johanna Baxter MP | 2671 |
+| Paisley and Renfrewshire South | Johanna Baxter MP | 2672 |
 | Perth and Kinross-shire | Pete Wishart MP | 3531 |
 | Rutherglen | Michael Shanks MP | 2606 |
 | Stirling and Strathallan | Chris Kane MP | 3244 |
 | West Dunbartonshire | Douglas McAllister MP | 2759 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3571 |
-| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4056 |
+| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4057 |
 | Central Ayrshire | Alan Gemmell MP | 3167 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3286 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4590 |
