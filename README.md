@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016634                                |
-| Last Updated      | 2025-04-30 06:27:28 UTC                                    |
+| Total Signatures   | 3016642                                |
+| Last Updated      | 2025-04-30 07:18:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -91,7 +91,7 @@
 | Burton and Uttoxeter | Jacob Collier MP | 5849 |
 | Bury North | Mr James Frith MP | 5010 |
 | Bury South | Christian Wakeford MP | 5465 |
-| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5473 |
+| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5474 |
 | Calder Valley | Josh Fenton-Glynn MP | 5689 |
 | Camborne and Redruth | Perran Moon MP | 5012 |
 | Cambridge | Daniel Zeichner MP | 2240 |
@@ -124,7 +124,7 @@
 | Colchester | Pam Cox MP | 5050 |
 | Colne Valley | Paul Davies MP | 5072 |
 | Congleton | Sarah Russell MP | 6020 |
-| Corby and East Northamptonshire | Lee Barron MP | 6050 |
+| Corby and East Northamptonshire | Lee Barron MP | 6051 |
 | Coventry East | Mary Creagh MP | 3635 |
 | Coventry North West | Taiwo Owatemi MP | 4294 |
 | Coventry South | Zarah Sultana MP | 3547 |
@@ -185,7 +185,7 @@
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4546 |
 | Finchley and Golders Green | Sarah Sackman MP | 4293 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5426 |
-| Forest of Dean | Matt Bishop MP | 5309 |
+| Forest of Dean | Matt Bishop MP | 5310 |
 | Frome and East Somerset | Anna Sabine MP | 4371 |
 | Fylde | Mr Andrew Snowden MP | 6819 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6701 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6359 |
 | Gravesham | Dr Lauren Sullivan MP | 5201 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5856 |
-| Great Yarmouth | Rupert Lowe MP | 6639 |
+| Great Yarmouth | Rupert Lowe MP | 6640 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2649 |
 | Guildford | Zöe Franklin MP | 4018 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2070 |
@@ -351,7 +351,7 @@
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5762 |
 | North West Leicestershire | Amanda Hack MP | 6745 |
 | North West Norfolk | James Wild MP | 5797 |
-| Northampton North | Lucy Rigby KC MP | 4312 |
+| Northampton North | Lucy Rigby KC MP | 4313 |
 | Northampton South | Mike Reader MP | 4994 |
 | Norwich North | Alice Macdonald MP | 4453 |
 | Norwich South | Clive Lewis MP | 3424 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6251 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5486 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6243 |
-| Peterborough | Andrew Pakes MP | 4196 |
+| Peterborough | Andrew Pakes MP | 4197 |
 | Plymouth Moor View | Fred Thomas MP | 5760 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4805 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5512 |
@@ -448,7 +448,7 @@
 | Southampton Test | Satvir Kaur MP | 3437 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5628 |
 | Southend West and Leigh | David Burton-Sampson MP | 5908 |
-| Southgate and Wood Green | Bambos Charalambous MP | 2609 |
+| Southgate and Wood Green | Bambos Charalambous MP | 2610 |
 | Southport | Patrick Hurley MP | 6019 |
 | Spelthorne | Lincoln Jopp MP | 5497 |
 | Spen Valley | Kim Leadbeater MP | 5420 |
@@ -639,7 +639,7 @@
 | Cardiff South and Penarth | Stephen Doughty MP | 2829 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3174 |
 | Ceredigion Preseli | Ben Lake MP | 4781 |
-| Clwyd East | Becky Gittins MP | 6100 |
+| Clwyd East | Becky Gittins MP | 6101 |
 | Clwyd North | Gill German MP | 5530 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4265 |
 | Gower | Tonia Antoniazzi MP | 4808 |
