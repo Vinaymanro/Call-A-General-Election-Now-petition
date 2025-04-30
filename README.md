@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016608                                |
-| Last Updated      | 2025-04-29 23:17:19 UTC                                    |
+| Total Signatures   | 3016616                                |
+| Last Updated      | 2025-04-30 01:27:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1537 |
 | Halesowen | Alex Ballinger MP | 5042 |
 | Halifax | Kate Dearden MP | 4780 |
-| Hamble Valley | Paul Holmes MP | 6173 |
+| Hamble Valley | Paul Holmes MP | 6174 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3212 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2988 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4737 |
@@ -289,7 +289,7 @@
 | Liverpool West Derby | Ian Byrne MP | 3103 |
 | Loughborough | Dr Jeevun Sandher MP | 4505 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7834 |
-| Lowestoft | Jess Asato MP | 5374 |
+| Lowestoft | Jess Asato MP | 5375 |
 | Luton North | Sarah Owen MP | 2499 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2971 |
 | Macclesfield | Tim Roca MP | 5420 |
@@ -307,7 +307,7 @@
 | Mid Bedfordshire | Blake Stephenson MP | 5874 |
 | Mid Buckinghamshire | Greg Smith MP | 5620 |
 | Mid Cheshire | Andrew Cooper MP | 5213 |
-| Mid Derbyshire | Jonathan Davies MP | 5277 |
+| Mid Derbyshire | Jonathan Davies MP | 5278 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5919 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5630 |
 | Mid Norfolk | George Freeman MP | 6322 |
@@ -479,7 +479,7 @@
 | Sunderland Central | Lewis Atkinson MP | 5300 |
 | Surrey Heath | Dr Al Pinkerton MP | 5463 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6141 |
-| Sutton and Cheam | Luke Taylor MP | 4408 |
+| Sutton and Cheam | Luke Taylor MP | 4409 |
 | Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5698 |
 | Swindon North | Will Stone MP | 4953 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4253 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5130 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6618 |
 | Whitehaven and Workington | Josh MacAlister MP | 5943 |
-| Widnes and Halewood | Derek Twigg MP | 4279 |
+| Widnes and Halewood | Derek Twigg MP | 4280 |
 | Wigan | Rt Hon Lisa Nandy MP | 6018 |
 | Wimbledon | Mr Paul Kohler MP | 3426 |
 | Winchester | Dr Danny Chambers MP | 4947 |
@@ -567,7 +567,7 @@
 | South Antrim | Robin Swann MP | 3107 |
 | South Down | Chris Hazzard MP | 1850 |
 | Strangford | Jim Shannon MP | 3484 |
-| Upper Bann | Carla Lockhart MP | 3093 |
+| Upper Bann | Carla Lockhart MP | 3094 |
 | West Tyrone | Órfhlaith Begley MP | 1678 |
 | East Renfrewshire | Blair McDougall MP | 2616 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 884 |
@@ -600,7 +600,7 @@
 | Falkirk | Euan Stainbank MP | 3465 |
 | Glasgow East | John Grady MP | 2358 |
 | Glasgow North | Martin Rhodes MP | 2073 |
-| Glasgow North East | Maureen Burke MP | 2528 |
+| Glasgow North East | Maureen Burke MP | 2529 |
 | Glasgow South | Gordon McKee MP | 1869 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2289 |
 | Glasgow West | Patricia Ferguson MP | 2252 |
@@ -634,7 +634,7 @@
 | Bridgend | Chris Elmore MP | 4287 |
 | Caerfyrddin | Ann Davies MP | 5249 |
 | Caerphilly | Chris Evans MP | 4059 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2942 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2943 |
 | Cardiff North | Anna McMorrin MP | 3317 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2829 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3174 |
