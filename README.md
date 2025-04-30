@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016925                                |
-| Last Updated      | 2025-04-30 21:17:05 UTC                                    |
+| Total Signatures   | 3016934                                |
+| Last Updated      | 2025-04-30 22:17:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -83,7 +83,7 @@
 | Bristol South | Karin Smyth MP | 4015 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5867 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5280 |
-| Bromsgrove | Bradley Thomas MP | 6514 |
+| Bromsgrove | Bradley Thomas MP | 6515 |
 | Broxbourne | Lewis Cocking MP | 6122 |
 | Broxtowe | Juliet Campbell MP | 4735 |
 | Buckingham and Bletchley | Callum Anderson MP | 5288 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2680 |
 | Liverpool Walton | Dan Carden MP | 3409 |
 | Liverpool Wavertree | Paula Barker MP | 2251 |
-| Liverpool West Derby | Ian Byrne MP | 3103 |
+| Liverpool West Derby | Ian Byrne MP | 3104 |
 | Loughborough | Dr Jeevun Sandher MP | 4505 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7835 |
 | Lowestoft | Jess Asato MP | 5375 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6249 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5282 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4127 |
-| Orpington | Gareth Bacon MP | 5348 |
+| Orpington | Gareth Bacon MP | 5349 |
 | Ossett and Denby Dale | Jade Botterill MP | 5843 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2169 |
 | Oxford West and Abingdon | Layla Moran MP | 2945 |
@@ -418,7 +418,7 @@
 | Sheffield South East | Mr Clive Betts MP | 4774 |
 | Sherwood Forest | Michelle Welsh MP | 6704 |
 | Shipley | Anna Dixon MP | 4924 |
-| Shrewsbury | Julia Buckley MP | 5352 |
+| Shrewsbury | Julia Buckley MP | 5353 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6922 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6712 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6330 |
@@ -428,7 +428,7 @@
 | South Basildon and East Thurrock | James McMurdock MP | 6648 |
 | South Cambridgeshire | Pippa Heylings MP | 4469 |
 | South Cotswolds | Dr Roz Savage MP | 5741 |
-| South Derbyshire | Samantha Niblett MP | 6213 |
+| South Derbyshire | Samantha Niblett MP | 6214 |
 | South Devon | Caroline Voaden MP | 5358 |
 | South Dorset | Lloyd Hatton MP | 5708 |
 | South East Cornwall | Anna Gelderd MP | 6283 |
@@ -589,14 +589,14 @@
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2692 |
 | Dumfries and Galloway | John Cooper MP | 4064 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3887 |
-| Dundee Central | Chris Law MP | 2575 |
+| Dundee Central | Chris Law MP | 2576 |
 | Dunfermline and Dollar | Graeme Downie MP | 2955 |
 | East Kilbride and Strathaven | Joani Reid MP | 3181 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2111 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2428 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2075 |
 | Edinburgh South West | Dr Scott Arthur MP | 2273 |
-| Edinburgh West | Christine Jardine MP | 2732 |
+| Edinburgh West | Christine Jardine MP | 2734 |
 | Falkirk | Euan Stainbank MP | 3465 |
 | Glasgow East | John Grady MP | 2358 |
 | Glasgow North | Martin Rhodes MP | 2073 |
@@ -626,7 +626,7 @@
 | Central Ayrshire | Alan Gemmell MP | 3167 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3287 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4590 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3753 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3754 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5805 |
 | Bangor Aberconwy | Claire Hughes MP | 4550 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3707 |
