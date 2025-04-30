@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016616                                |
-| Last Updated      | 2025-04-30 01:27:37 UTC                                    |
+| Total Signatures   | 3016619                                |
+| Last Updated      | 2025-04-30 03:05:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -107,7 +107,7 @@
 | Chelmsford | Marie Goldman MP | 5303 |
 | Chelsea and Fulham | Ben Coleman MP | 5515 |
 | Cheltenham | Max Wilkinson MP | 4053 |
-| Chesham and Amersham | Sarah Green MP | 4964 |
+| Chesham and Amersham | Sarah Green MP | 4965 |
 | Chester North and Neston | Samantha Dixon MP | 4088 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6423 |
 | Chesterfield | Mr Toby Perkins MP | 4927 |
@@ -269,7 +269,7 @@
 | Leeds North East | Fabian Hamilton MP | 2655 |
 | Leeds North West | Katie White MP | 4423 |
 | Leeds South | Rt Hon Hilary Benn MP | 3916 |
-| Leeds South West and Morley | Mark Sewards MP | 5547 |
+| Leeds South West and Morley | Mark Sewards MP | 5548 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3825 |
 | Leicester East | Shivani Raja MP | 1905 |
 | Leicester South | Shockat Adam MP | 1876 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6248 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5282 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4127 |
-| Orpington | Gareth Bacon MP | 5347 |
+| Orpington | Gareth Bacon MP | 5348 |
 | Ossett and Denby Dale | Jade Botterill MP | 5843 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2169 |
 | Oxford West and Abingdon | Layla Moran MP | 2944 |
