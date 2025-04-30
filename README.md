@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016619                                |
-| Last Updated      | 2025-04-30 03:05:19 UTC                                    |
+| Total Signatures   | 3016620                                |
+| Last Updated      | 2025-04-30 04:22:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -274,7 +274,7 @@
 | Leicester East | Shivani Raja MP | 1905 |
 | Leicester South | Shockat Adam MP | 1876 |
 | Leicester West | Rt Hon Liz Kendall MP | 3503 |
-| Leigh and Atherton | Jo Platt MP | 6136 |
+| Leigh and Atherton | Jo Platt MP | 6137 |
 | Lewes | James MacCleary MP | 4930 |
 | Lewisham East | Janet Daby MP | 2170 |
 | Lewisham North | Vicky Foxcroft MP | 1667 |
