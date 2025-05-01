@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016956                                |
-| Last Updated      | 2025-05-01 04:24:20 UTC                                    |
+| Total Signatures   | 3016962                                |
+| Last Updated      | 2025-05-01 05:19:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -162,7 +162,7 @@
 | East Hampshire | Rt Hon Damian Hinds MP | 5366 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6055 |
 | East Thanet | Ms Polly Billington MP | 5530 |
-| East Wiltshire | Danny Kruger MP | 6107 |
+| East Wiltshire | Danny Kruger MP | 6108 |
 | East Worthing and Shoreham | Tom Rutland MP | 4645 |
 | Eastbourne | Josh Babarinde MP | 5075 |
 | Eastleigh | Liz Jarvis MP | 4354 |
@@ -192,7 +192,7 @@
 | Gateshead Central and Whickham | Mark Ferguson MP | 4567 |
 | Gedling | Michael Payne MP | 5099 |
 | Gillingham and Rainham | Naushabah Khan MP | 5093 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5626 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5627 |
 | Gloucester | Alex McIntyre MP | 4578 |
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5260 |
 | Goole and Pocklington | Rt Hon David Davis MP | 7008 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6359 |
 | Gravesham | Dr Lauren Sullivan MP | 5201 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5856 |
-| Great Yarmouth | Rupert Lowe MP | 6640 |
+| Great Yarmouth | Rupert Lowe MP | 6641 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2649 |
 | Guildford | Zöe Franklin MP | 4018 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2070 |
@@ -343,7 +343,7 @@
 | North Herefordshire | Ellie Chowns MP | 6506 |
 | North Norfolk | Steff Aquarone MP | 5469 |
 | North Northumberland | David Smith MP | 6483 |
-| North Shropshire | Helen Morgan MP | 6921 |
+| North Shropshire | Helen Morgan MP | 6922 |
 | North Somerset | Sadik Al-Hassan MP | 4611 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6318 |
 | North West Cambridgeshire | Sam Carling MP | 6059 |
@@ -363,7 +363,7 @@
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5282 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4127 |
 | Orpington | Gareth Bacon MP | 5349 |
-| Ossett and Denby Dale | Jade Botterill MP | 5843 |
+| Ossett and Denby Dale | Jade Botterill MP | 5844 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2169 |
 | Oxford West and Abingdon | Layla Moran MP | 2945 |
 | Peckham | Miatta Fahnbulleh MP | 1372 |
@@ -625,7 +625,7 @@
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4057 |
 | Central Ayrshire | Alan Gemmell MP | 3167 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3287 |
-| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4590 |
+| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4591 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3754 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5805 |
 | Bangor Aberconwy | Claire Hughes MP | 4550 |
