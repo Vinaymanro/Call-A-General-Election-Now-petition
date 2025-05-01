@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3017063                                |
-| Last Updated      | 2025-05-01 13:26:51 UTC                                    |
+| Total Signatures   | 3017072                                |
+| Last Updated      | 2025-05-01 14:17:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5494 |
 | Barking | Nesil Caliskan MP | 2661 |
 | Barnsley North | Dan Jarvis MP | 5748 |
-| Barnsley South | Stephanie Peacock MP | 5829 |
+| Barnsley South | Stephanie Peacock MP | 5830 |
 | Barrow and Furness | Michelle Scrogham MP | 5371 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6937 |
 | Basingstoke | Luke Murphy MP | 4858 |
@@ -156,12 +156,12 @@
 | Ealing North | James Murray MP | 2599 |
 | Ealing Southall | Deirdre Costigan MP | 1969 |
 | Earley and Woodley | Yuan Yang MP | 3977 |
-| Easington | Grahame Morris MP | 5809 |
+| Easington | Grahame Morris MP | 5810 |
 | East Grinstead and Uckfield | Mims Davies MP | 6083 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1117 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5366 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6055 |
-| East Thanet | Ms Polly Billington MP | 5530 |
+| East Thanet | Ms Polly Billington MP | 5531 |
 | East Wiltshire | Danny Kruger MP | 6108 |
 | East Worthing and Shoreham | Tom Rutland MP | 4646 |
 | Eastbourne | Josh Babarinde MP | 5075 |
@@ -430,7 +430,7 @@
 | South Cotswolds | Dr Roz Savage MP | 5742 |
 | South Derbyshire | Samantha Niblett MP | 6215 |
 | South Devon | Caroline Voaden MP | 5358 |
-| South Dorset | Lloyd Hatton MP | 5708 |
+| South Dorset | Lloyd Hatton MP | 5709 |
 | South East Cornwall | Anna Gelderd MP | 6283 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7174 |
 | South Leicestershire | Alberto Costa MP | 7033 |
@@ -605,7 +605,7 @@
 | Glasgow South West | Dr Zubir Ahmed MP | 2289 |
 | Glasgow West | Patricia Ferguson MP | 2252 |
 | Glenrothes and Mid Fife | Richard Baker MP | 3014 |
-| Gordon and Buchan | Harriet Cross MP | 4423 |
+| Gordon and Buchan | Harriet Cross MP | 4424 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3166 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2780 |
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3647 |
@@ -633,12 +633,12 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5320 |
 | Bridgend | Chris Elmore MP | 4292 |
 | Caerfyrddin | Ann Davies MP | 5251 |
-| Caerphilly | Chris Evans MP | 4062 |
+| Caerphilly | Chris Evans MP | 4063 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2944 |
 | Cardiff North | Anna McMorrin MP | 3317 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2829 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3176 |
-| Ceredigion Preseli | Ben Lake MP | 4784 |
+| Ceredigion Preseli | Ben Lake MP | 4785 |
 | Clwyd East | Becky Gittins MP | 6102 |
 | Clwyd North | Gill German MP | 5530 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4265 |
@@ -646,9 +646,9 @@
 | Llanelli | Dame Nia Griffith MP | 5307 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3772 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5535 |
-| Monmouthshire | Catherine Fookes MP | 4781 |
+| Monmouthshire | Catherine Fookes MP | 4782 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6092 |
-| Neath and Swansea East | Carolyn Harris MP | 4519 |
+| Neath and Swansea East | Carolyn Harris MP | 4520 |
 | Newport East | Jessica Morden MP | 4067 |
 | Newport West and Islwyn | Ruth Jones MP | 4119 |
 | Pontypridd | Alex Davies-Jones MP | 3976 |
