@@ -3,14 +3,14 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016962                                |
-| Last Updated      | 2025-05-01 05:19:10 UTC                                    |
+| Total Signatures   | 3016976                                |
+| Last Updated      | 2025-05-01 06:27:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5485 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5850 |
-| Altrincham and Sale West | Mr Connor Rand MP | 5515 |
+| Altrincham and Sale West | Mr Connor Rand MP | 5516 |
 | Amber Valley | Linsey Farnsworth MP | 6143 |
 | Arundel and South Downs | Andrew Griffith MP | 6982 |
 | Ashfield | Lee Anderson MP | 6205 |
@@ -33,7 +33,7 @@
 | Bermondsey and Old Southwark | Neil Coyle MP | 2736 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1742 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6205 |
-| Bexhill and Battle | Dr Kieran Mullan MP | 6169 |
+| Bexhill and Battle | Dr Kieran Mullan MP | 6170 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5077 |
 | Bicester and Woodstock | Calum Miller MP | 4700 |
 | Birkenhead | Alison McGovern MP | 4388 |
@@ -179,14 +179,14 @@
 | Exeter | Steve Race MP | 3198 |
 | Exmouth and Exeter East | David Reed MP | 5236 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6170 |
-| Farnham and Bordon | Gregory Stafford MP | 5210 |
+| Farnham and Bordon | Gregory Stafford MP | 5211 |
 | Faversham and Mid Kent | Helen Whately MP | 6269 |
 | Feltham and Heston | Seema Malhotra MP | 2948 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4546 |
 | Finchley and Golders Green | Sarah Sackman MP | 4293 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5427 |
 | Forest of Dean | Matt Bishop MP | 5311 |
-| Frome and East Somerset | Anna Sabine MP | 4372 |
+| Frome and East Somerset | Anna Sabine MP | 4373 |
 | Fylde | Mr Andrew Snowden MP | 6820 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6701 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4567 |
@@ -341,7 +341,7 @@
 | North East Hertfordshire | Chris Hinchliff MP | 5880 |
 | North East Somerset and Hanham | Dan Norris MP | 5086 |
 | North Herefordshire | Ellie Chowns MP | 6506 |
-| North Norfolk | Steff Aquarone MP | 5469 |
+| North Norfolk | Steff Aquarone MP | 5470 |
 | North Northumberland | David Smith MP | 6483 |
 | North Shropshire | Helen Morgan MP | 6922 |
 | North Somerset | Sadik Al-Hassan MP | 4611 |
@@ -403,7 +403,7 @@
 | Runcorn and Helsby | null | 5081 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5867 |
 | Rushcliffe | James Naish MP | 5101 |
-| Rutland and Stamford | Alicia Kearns MP | 6286 |
+| Rutland and Stamford | Alicia Kearns MP | 6287 |
 | Salford | Rebecca Long Bailey MP | 4696 |
 | Salisbury | Rt Hon John Glen MP | 4773 |
 | Scarborough and Whitby | Alison Hume MP | 6053 |
@@ -467,7 +467,7 @@
 | Stockton West | Matt Vickers MP | 6020 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4795 |
 | Stoke-on-Trent North | David Williams MP | 5509 |
-| Stoke-on-Trent South | Dr Allison Gardner MP | 5767 |
+| Stoke-on-Trent South | Dr Allison Gardner MP | 5768 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6570 |
 | Stourbridge | Cat Eccles MP | 5190 |
 | Stratford and Bow | Uma Kumaran MP | 1788 |
@@ -501,7 +501,7 @@
 | Tottenham | Rt Hon David Lammy MP | 1704 |
 | Truro and Falmouth | Jayne Kirkham MP | 4634 |
 | Tunbridge Wells | Mike Martin MP | 5490 |
-| Twickenham | Munira Wilson MP | 3671 |
+| Twickenham | Munira Wilson MP | 3672 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4515 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4509 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1692 |
@@ -524,11 +524,11 @@
 | West Ham and Beckton | James Asser MP | 2178 |
 | West Lancashire | Ashley Dalton MP | 5102 |
 | West Suffolk | Nick Timothy MP | 6076 |
-| West Worcestershire | Dame Harriett Baldwin MP | 6296 |
+| West Worcestershire | Dame Harriett Baldwin MP | 6297 |
 | Westmorland and Lonsdale | Tim Farron MP | 5220 |
 | Weston-super-Mare | Dan Aldridge MP | 5130 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6618 |
-| Whitehaven and Workington | Josh MacAlister MP | 5946 |
+| Whitehaven and Workington | Josh MacAlister MP | 5947 |
 | Widnes and Halewood | Derek Twigg MP | 4283 |
 | Wigan | Rt Hon Lisa Nandy MP | 6019 |
 | Wimbledon | Mr Paul Kohler MP | 3426 |
@@ -622,7 +622,7 @@
 | Stirling and Strathallan | Chris Kane MP | 3246 |
 | West Dunbartonshire | Douglas McAllister MP | 2762 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3574 |
-| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4057 |
+| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4058 |
 | Central Ayrshire | Alan Gemmell MP | 3167 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3287 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4591 |
@@ -631,9 +631,9 @@
 | Bangor Aberconwy | Claire Hughes MP | 4550 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3707 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5320 |
-| Bridgend | Chris Elmore MP | 4290 |
+| Bridgend | Chris Elmore MP | 4291 |
 | Caerfyrddin | Ann Davies MP | 5251 |
-| Caerphilly | Chris Evans MP | 4060 |
+| Caerphilly | Chris Evans MP | 4061 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2944 |
 | Cardiff North | Anna McMorrin MP | 3317 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2829 |
@@ -652,7 +652,7 @@
 | Newport East | Jessica Morden MP | 4067 |
 | Newport West and Islwyn | Ruth Jones MP | 4119 |
 | Pontypridd | Alex Davies-Jones MP | 3976 |
-| Rhondda and Ogmore | Sir Chris Bryant MP | 4113 |
+| Rhondda and Ogmore | Sir Chris Bryant MP | 4114 |
 | Swansea West | Torsten Bell MP | 3703 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4124 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4664 |
