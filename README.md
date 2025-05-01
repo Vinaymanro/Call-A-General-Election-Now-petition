@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016945                                |
-| Last Updated      | 2025-04-30 23:17:31 UTC                                    |
+| Total Signatures   | 3016950                                |
+| Last Updated      | 2025-05-01 01:43:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5829 |
 | Barrow and Furness | Michelle Scrogham MP | 5371 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6937 |
-| Basingstoke | Luke Murphy MP | 4857 |
+| Basingstoke | Luke Murphy MP | 4858 |
 | Bassetlaw | Jo White MP | 6804 |
 | Bath | Wera Hobhouse MP | 2986 |
 | Battersea | Marsha De Cordova MP | 3625 |
@@ -193,8 +193,8 @@
 | Gedling | Michael Payne MP | 5099 |
 | Gillingham and Rainham | Naushabah Khan MP | 5093 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5626 |
-| Gloucester | Alex McIntyre MP | 4577 |
-| Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5259 |
+| Gloucester | Alex McIntyre MP | 4578 |
+| Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5260 |
 | Goole and Pocklington | Rt Hon David Davis MP | 7008 |
 | Gorton and Denton | Andrew Gwynne MP | 3316 |
 | Gosport | Dame Caroline Dinenage MP | 5520 |
@@ -242,7 +242,7 @@
 | Horsham | John Milne MP | 5861 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6377 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3354 |
-| Huddersfield | Harpreet Uppal MP | 3721 |
+| Huddersfield | Harpreet Uppal MP | 3722 |
 | Huntingdon | Ben Obese-Jecty MP | 5591 |
 | Hyndburn | Sarah Smith MP | 5052 |
 | Ilford North | Rt Hon Wes Streeting MP | 2636 |
@@ -637,7 +637,7 @@
 | Cardiff East | Rt Hon Jo Stevens MP | 2944 |
 | Cardiff North | Anna McMorrin MP | 3317 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2829 |
-| Cardiff West | Mr Alex Barros-Curtis MP | 3174 |
+| Cardiff West | Mr Alex Barros-Curtis MP | 3175 |
 | Ceredigion Preseli | Ben Lake MP | 4784 |
 | Clwyd East | Becky Gittins MP | 6102 |
 | Clwyd North | Gill German MP | 5530 |
