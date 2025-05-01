@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3017014                                |
-| Last Updated      | 2025-05-01 09:20:00 UTC                                    |
+| Total Signatures   | 3017023                                |
+| Last Updated      | 2025-05-01 10:20:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -126,7 +126,7 @@
 | Congleton | Sarah Russell MP | 6021 |
 | Corby and East Northamptonshire | Lee Barron MP | 6052 |
 | Coventry East | Mary Creagh MP | 3635 |
-| Coventry North West | Taiwo Owatemi MP | 4294 |
+| Coventry North West | Taiwo Owatemi MP | 4295 |
 | Coventry South | Zarah Sultana MP | 3547 |
 | Cramlington and Killingworth | Emma Foody MP | 5854 |
 | Crawley | Peter Lamb MP | 4761 |
@@ -240,7 +240,7 @@
 | Hornchurch and Upminster | Julia Lopez MP | 6653 |
 | Hornsey and Friern Barnet | Catherine West MP | 1955 |
 | Horsham | John Milne MP | 5861 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6377 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6379 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3354 |
 | Huddersfield | Harpreet Uppal MP | 3722 |
 | Huntingdon | Ben Obese-Jecty MP | 5591 |
@@ -445,7 +445,7 @@
 | South West Norfolk | Terry Jermy MP | 6574 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5242 |
 | Southampton Itchen | Darren Paffey MP | 4591 |
-| Southampton Test | Satvir Kaur MP | 3437 |
+| Southampton Test | Satvir Kaur MP | 3439 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5632 |
 | Southend West and Leigh | David Burton-Sampson MP | 5908 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2611 |
@@ -459,7 +459,7 @@
 | St Ives | Andrew George MP | 5135 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4835 |
 | Stafford | Leigh Ingham MP | 5652 |
-| Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6453 |
+| Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6454 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5402 |
 | Stevenage | Kevin Bonavia MP | 4779 |
 | Stockport | Navendu Mishra MP | 3960 |
@@ -589,8 +589,8 @@
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2692 |
 | Dumfries and Galloway | John Cooper MP | 4064 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3887 |
-| Dundee Central | Chris Law MP | 2576 |
-| Dunfermline and Dollar | Graeme Downie MP | 2955 |
+| Dundee Central | Chris Law MP | 2577 |
+| Dunfermline and Dollar | Graeme Downie MP | 2956 |
 | East Kilbride and Strathaven | Joani Reid MP | 3181 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2111 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2428 |
@@ -631,7 +631,7 @@
 | Bangor Aberconwy | Claire Hughes MP | 4550 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3707 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5320 |
-| Bridgend | Chris Elmore MP | 4291 |
+| Bridgend | Chris Elmore MP | 4292 |
 | Caerfyrddin | Ann Davies MP | 5251 |
 | Caerphilly | Chris Evans MP | 4062 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2944 |
