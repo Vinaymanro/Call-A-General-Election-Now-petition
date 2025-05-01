@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016976                                |
-| Last Updated      | 2025-05-01 06:27:57 UTC                                    |
+| Total Signatures   | 3016984                                |
+| Last Updated      | 2025-05-01 07:18:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6122 |
 | Broxtowe | Juliet Campbell MP | 4735 |
 | Buckingham and Bletchley | Callum Anderson MP | 5288 |
-| Burnley | Oliver Ryan MP | 5763 |
+| Burnley | Oliver Ryan MP | 5764 |
 | Burton and Uttoxeter | Jacob Collier MP | 5849 |
 | Bury North | Mr James Frith MP | 5010 |
 | Bury South | Christian Wakeford MP | 5465 |
@@ -292,7 +292,7 @@
 | Lowestoft | Jess Asato MP | 5375 |
 | Luton North | Sarah Owen MP | 2499 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2972 |
-| Macclesfield | Tim Roca MP | 5420 |
+| Macclesfield | Tim Roca MP | 5421 |
 | Maidenhead | Mr Joshua Reynolds MP | 5310 |
 | Maidstone and Malling | Helen Grant MP | 5879 |
 | Makerfield | Josh Simons MP | 5940 |
@@ -300,7 +300,7 @@
 | Manchester Central | Rt Hon Lucy Powell MP | 4022 |
 | Manchester Rusholme | Afzal Khan MP | 1234 |
 | Manchester Withington | Jeff Smith MP | 1688 |
-| Mansfield | Steve Yemm MP | 6248 |
+| Mansfield | Steve Yemm MP | 6249 |
 | Melksham and Devizes | Brian Mathew MP | 5038 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6138 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6137 |
@@ -323,7 +323,7 @@
 | Newark | Rt Hon Robert Jenrick MP | 7196 |
 | Newbury | Mr Lee Dillon MP | 4925 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4556 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4813 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4814 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3982 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5119 |
 | Newton Abbot | Martin Wrigley MP | 5152 |
@@ -428,7 +428,7 @@
 | South Basildon and East Thurrock | James McMurdock MP | 6648 |
 | South Cambridgeshire | Pippa Heylings MP | 4469 |
 | South Cotswolds | Dr Roz Savage MP | 5741 |
-| South Derbyshire | Samantha Niblett MP | 6214 |
+| South Derbyshire | Samantha Niblett MP | 6215 |
 | South Devon | Caroline Voaden MP | 5358 |
 | South Dorset | Lloyd Hatton MP | 5708 |
 | South East Cornwall | Anna Gelderd MP | 6283 |
@@ -458,7 +458,7 @@
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4219 |
 | St Ives | Andrew George MP | 5135 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4835 |
-| Stafford | Leigh Ingham MP | 5651 |
+| Stafford | Leigh Ingham MP | 5652 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6453 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5402 |
 | Stevenage | Kevin Bonavia MP | 4779 |
@@ -484,7 +484,7 @@
 | Swindon North | Will Stone MP | 4954 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4254 |
 | Tamworth | Sarah Edwards MP | 7001 |
-| Tatton | Rt Hon Esther McVey MP | 6519 |
+| Tatton | Rt Hon Esther McVey MP | 6520 |
 | Taunton and Wellington | Gideon Amos MP | 5214 |
 | Telford | Shaun Davies MP | 5655 |
 | Tewkesbury | Cameron Thomas MP | 5047 |
@@ -582,7 +582,7 @@
 | Angus and Perthshire Glens | Dave Doogan MP | 4078 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3495 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3442 |
-| Bathgate and Linlithgow | Kirsteen Sullivan MP | 3054 |
+| Bathgate and Linlithgow | Kirsteen Sullivan MP | 3055 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4101 |
 | Coatbridge and Bellshill | Frank McNally MP | 2619 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2883 |
