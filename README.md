@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016950                                |
-| Last Updated      | 2025-05-01 01:43:43 UTC                                    |
+| Total Signatures   | 3016952                                |
+| Last Updated      | 2025-05-01 03:15:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -387,7 +387,7 @@
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4470 |
 | Redcar | Anna Turley MP | 5506 |
 | Redditch | Chris Bloore MP | 6135 |
-| Reigate | Rebecca Paul MP | 5565 |
+| Reigate | Rebecca Paul MP | 5566 |
 | Ribble Valley | Maya Ellis MP | 6756 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7146 |
 | Richmond Park | Sarah Olney MP | 4074 |
@@ -479,7 +479,7 @@
 | Sunderland Central | Lewis Atkinson MP | 5301 |
 | Surrey Heath | Dr Al Pinkerton MP | 5463 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6142 |
-| Sutton and Cheam | Luke Taylor MP | 4409 |
+| Sutton and Cheam | Luke Taylor MP | 4410 |
 | Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5698 |
 | Swindon North | Will Stone MP | 4954 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4254 |
