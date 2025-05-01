@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3017072                                |
-| Last Updated      | 2025-05-01 14:17:05 UTC                                    |
+| Total Signatures   | 3017080                                |
+| Last Updated      | 2025-05-01 15:19:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5830 |
 | Barrow and Furness | Michelle Scrogham MP | 5371 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6937 |
-| Basingstoke | Luke Murphy MP | 4858 |
+| Basingstoke | Luke Murphy MP | 4859 |
 | Bassetlaw | Jo White MP | 6804 |
 | Bath | Wera Hobhouse MP | 2986 |
 | Battersea | Marsha De Cordova MP | 3625 |
@@ -317,8 +317,8 @@
 | Milton Keynes Central | Emily Darlington MP | 4975 |
 | Milton Keynes North | Chris Curtis MP | 4600 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2690 |
-| Morecambe and Lunesdale | Lizzi Collinge MP | 5803 |
-| New Forest East | Rt Hon Sir Julian Lewis MP | 5473 |
+| Morecambe and Lunesdale | Lizzi Collinge MP | 5804 |
+| New Forest East | Rt Hon Sir Julian Lewis MP | 5474 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5296 |
 | Newark | Rt Hon Robert Jenrick MP | 7196 |
 | Newbury | Mr Lee Dillon MP | 4925 |
@@ -406,7 +406,7 @@
 | Rutland and Stamford | Alicia Kearns MP | 6287 |
 | Salford | Rebecca Long Bailey MP | 4696 |
 | Salisbury | Rt Hon John Glen MP | 4773 |
-| Scarborough and Whitby | Alison Hume MP | 6053 |
+| Scarborough and Whitby | Alison Hume MP | 6054 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5126 |
 | Sefton Central | Bill Esterson MP | 4067 |
 | Selby | Keir Mather MP | 6420 |
@@ -415,7 +415,7 @@
 | Sheffield Central | Abtisam Mohamed MP | 1447 |
 | Sheffield Hallam | Olivia Blake MP | 3399 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3581 |
-| Sheffield South East | Mr Clive Betts MP | 4774 |
+| Sheffield South East | Mr Clive Betts MP | 4775 |
 | Sherwood Forest | Michelle Welsh MP | 6705 |
 | Shipley | Anna Dixon MP | 4924 |
 | Shrewsbury | Julia Buckley MP | 5353 |
@@ -578,7 +578,7 @@
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3872 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4709 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2854 |
-| Alloa and Grangemouth | Brian Leishman MP | 3049 |
+| Alloa and Grangemouth | Brian Leishman MP | 3050 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4078 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3495 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3442 |
@@ -593,7 +593,7 @@
 | Dunfermline and Dollar | Graeme Downie MP | 2956 |
 | East Kilbride and Strathaven | Joani Reid MP | 3181 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2111 |
-| Edinburgh North and Leith | Tracy Gilbert MP | 2428 |
+| Edinburgh North and Leith | Tracy Gilbert MP | 2429 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2075 |
 | Edinburgh South West | Dr Scott Arthur MP | 2273 |
 | Edinburgh West | Christine Jardine MP | 2734 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5320 |
 | Bridgend | Chris Elmore MP | 4292 |
 | Caerfyrddin | Ann Davies MP | 5251 |
-| Caerphilly | Chris Evans MP | 4063 |
+| Caerphilly | Chris Evans MP | 4064 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2944 |
 | Cardiff North | Anna McMorrin MP | 3317 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2829 |
