@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3017058                                |
-| Last Updated      | 2025-05-01 12:36:56 UTC                                    |
+| Total Signatures   | 3017063                                |
+| Last Updated      | 2025-05-01 13:26:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -322,7 +322,7 @@
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5296 |
 | Newark | Rt Hon Robert Jenrick MP | 7196 |
 | Newbury | Mr Lee Dillon MP | 4925 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4556 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4557 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4814 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3982 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5119 |
@@ -400,7 +400,7 @@
 | Rotherham | Sarah Champion MP | 4992 |
 | Rugby | John Slinger MP | 5452 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4122 |
-| Runcorn and Helsby | null | 5081 |
+| Runcorn and Helsby | null | 5082 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5868 |
 | Rushcliffe | James Naish MP | 5101 |
 | Rutland and Stamford | Alicia Kearns MP | 6287 |
@@ -424,7 +424,7 @@
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6330 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2602 |
 | Smethwick | Gurinder Singh Josan MP | 3089 |
-| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5483 |
+| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5484 |
 | South Basildon and East Thurrock | James McMurdock MP | 6648 |
 | South Cambridgeshire | Pippa Heylings MP | 4469 |
 | South Cotswolds | Dr Roz Savage MP | 5742 |
@@ -575,7 +575,7 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3322 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1448 |
 | Aberdeen North | Kirsty Blackman MP | 3581 |
-| Aberdeen South | Rt Hon Stephen Flynn MP | 3871 |
+| Aberdeen South | Rt Hon Stephen Flynn MP | 3872 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4709 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2854 |
 | Alloa and Grangemouth | Brian Leishman MP | 3049 |
@@ -620,7 +620,7 @@
 | Perth and Kinross-shire | Pete Wishart MP | 3533 |
 | Rutherglen | Michael Shanks MP | 2606 |
 | Stirling and Strathallan | Chris Kane MP | 3246 |
-| West Dunbartonshire | Douglas McAllister MP | 2762 |
+| West Dunbartonshire | Douglas McAllister MP | 2763 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3574 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4058 |
 | Central Ayrshire | Alan Gemmell MP | 3167 |
