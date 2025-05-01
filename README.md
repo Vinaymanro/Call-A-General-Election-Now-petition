@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3016952                                |
-| Last Updated      | 2025-05-01 03:15:51 UTC                                    |
+| Total Signatures   | 3016956                                |
+| Last Updated      | 2025-05-01 04:24:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -41,7 +41,7 @@
 | Birmingham Erdington | Paulette Hamilton MP | 4297 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1594 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3535 |
-| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1926 |
+| Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1927 |
 | Birmingham Northfield | Laurence Turner MP | 4954 |
 | Birmingham Perry Barr | Ayoub Khan MP | 1737 |
 | Birmingham Selly Oak | Al Carns MP | 3327 |
@@ -157,7 +157,7 @@
 | Ealing Southall | Deirdre Costigan MP | 1969 |
 | Earley and Woodley | Yuan Yang MP | 3977 |
 | Easington | Grahame Morris MP | 5808 |
-| East Grinstead and Uckfield | Mims Davies MP | 6082 |
+| East Grinstead and Uckfield | Mims Davies MP | 6083 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1117 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5366 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6055 |
@@ -310,7 +310,7 @@
 | Mid Derbyshire | Jonathan Davies MP | 5278 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5919 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5630 |
-| Mid Norfolk | George Freeman MP | 6322 |
+| Mid Norfolk | George Freeman MP | 6323 |
 | Mid Sussex | Alison Bennett MP | 4725 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4272 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5766 |
@@ -340,7 +340,7 @@
 | North East Hampshire | Alex Brewer MP | 5981 |
 | North East Hertfordshire | Chris Hinchliff MP | 5880 |
 | North East Somerset and Hanham | Dan Norris MP | 5086 |
-| North Herefordshire | Ellie Chowns MP | 6505 |
+| North Herefordshire | Ellie Chowns MP | 6506 |
 | North Norfolk | Steff Aquarone MP | 5469 |
 | North Northumberland | David Smith MP | 6483 |
 | North Shropshire | Helen Morgan MP | 6921 |
