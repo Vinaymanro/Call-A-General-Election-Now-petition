@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3017094                                |
-| Last Updated      | 2025-05-01 16:23:53 UTC                                    |
+| Total Signatures   | 3017103                                |
+| Last Updated      | 2025-05-01 17:16:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -24,7 +24,7 @@
 | Barrow and Furness | Michelle Scrogham MP | 5371 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6937 |
 | Basingstoke | Luke Murphy MP | 4859 |
-| Bassetlaw | Jo White MP | 6804 |
+| Bassetlaw | Jo White MP | 6805 |
 | Bath | Wera Hobhouse MP | 2986 |
 | Battersea | Marsha De Cordova MP | 3625 |
 | Beaconsfield | Joy Morrissey MP | 5236 |
@@ -58,7 +58,7 @@
 | Bolton North East | Kirith Entwistle MP | 5660 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4479 |
 | Bolton West | Phil Brickell MP | 5629 |
-| Bootle | Peter Dowd MP | 3203 |
+| Bootle | Peter Dowd MP | 3204 |
 | Boston and Skegness | Richard Tice MP | 7130 |
 | Bournemouth East | Tom Hayes MP | 4704 |
 | Bournemouth West | Jessica Toale MP | 4953 |
@@ -91,7 +91,7 @@
 | Burton and Uttoxeter | Jacob Collier MP | 5849 |
 | Bury North | Mr James Frith MP | 5010 |
 | Bury South | Christian Wakeford MP | 5466 |
-| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5475 |
+| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5476 |
 | Calder Valley | Josh Fenton-Glynn MP | 5690 |
 | Camborne and Redruth | Perran Moon MP | 5012 |
 | Cambridge | Daniel Zeichner MP | 2240 |
@@ -128,7 +128,7 @@
 | Coventry East | Mary Creagh MP | 3635 |
 | Coventry North West | Taiwo Owatemi MP | 4295 |
 | Coventry South | Zarah Sultana MP | 3547 |
-| Cramlington and Killingworth | Emma Foody MP | 5855 |
+| Cramlington and Killingworth | Emma Foody MP | 5856 |
 | Crawley | Peter Lamb MP | 4761 |
 | Crewe and Nantwich | Connor Naismith MP | 5726 |
 | Croydon East | Natasha Irons MP | 3353 |
@@ -145,7 +145,7 @@
 | Didcot and Wantage | Olly Glover MP | 4912 |
 | Doncaster Central | Sally Jameson MP | 4981 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6121 |
-| Doncaster North | Rt Hon Ed Miliband MP | 5619 |
+| Doncaster North | Rt Hon Ed Miliband MP | 5620 |
 | Dorking and Horley | Chris Coghlan MP | 5575 |
 | Dover and Deal | Mike Tapp MP | 5981 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6603 |
@@ -227,7 +227,7 @@
 | Hendon | David Pinto-Duschinsky MP | 3819 |
 | Henley and Thame | Freddie van Mierlo MP | 5430 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5310 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6346 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6347 |
 | Hertford and Stortford | Josh Dean MP | 6017 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5779 |
 | Hexham | Joe Morris MP | 6441 |
@@ -255,7 +255,7 @@
 | Jarrow and Gateshead East | Kate Osborne MP | 5134 |
 | Keighley and Ilkley | Robbie Moore MP | 4729 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6130 |
-| Kensington and Bayswater | Joe Powell MP | 4417 |
+| Kensington and Bayswater | Joe Powell MP | 4418 |
 | Kettering | Rosie Wrighting MP | 5951 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3777 |
 | Kingston upon Hull East | Karl Turner MP | 5061 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6215 |
 | South Devon | Caroline Voaden MP | 5358 |
 | South Dorset | Lloyd Hatton MP | 5709 |
-| South East Cornwall | Anna Gelderd MP | 6283 |
+| South East Cornwall | Anna Gelderd MP | 6284 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7174 |
 | South Leicestershire | Alberto Costa MP | 7033 |
 | South Norfolk | Ben Goldsborough MP | 5475 |
@@ -449,7 +449,7 @@
 | Southend East and Rochford | Mr Bayo Alaba MP | 5632 |
 | Southend West and Leigh | David Burton-Sampson MP | 5908 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2611 |
-| Southport | Patrick Hurley MP | 6021 |
+| Southport | Patrick Hurley MP | 6022 |
 | Spelthorne | Lincoln Jopp MP | 5498 |
 | Spen Valley | Kim Leadbeater MP | 5420 |
 | St Albans | Daisy Cooper MP | 3893 |
