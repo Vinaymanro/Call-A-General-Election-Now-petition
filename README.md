@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3017230                                |
-| Last Updated      | 2025-05-02 01:36:05 UTC                                    |
+| Total Signatures   | 3017234                                |
+| Last Updated      | 2025-05-02 03:07:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -37,7 +37,7 @@
 | Bexleyheath and Crayford | Daniel Francis MP | 5078 |
 | Bicester and Woodstock | Calum Miller MP | 4701 |
 | Birkenhead | Alison McGovern MP | 4388 |
-| Birmingham Edgbaston | Preet Kaur Gill MP | 2985 |
+| Birmingham Edgbaston | Preet Kaur Gill MP | 2986 |
 | Birmingham Erdington | Paulette Hamilton MP | 4298 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1594 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3535 |
@@ -164,7 +164,7 @@
 | East Thanet | Ms Polly Billington MP | 5531 |
 | East Wiltshire | Danny Kruger MP | 6108 |
 | East Worthing and Shoreham | Tom Rutland MP | 4646 |
-| Eastbourne | Josh Babarinde MP | 5075 |
+| Eastbourne | Josh Babarinde MP | 5076 |
 | Eastleigh | Liz Jarvis MP | 4355 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2244 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4496 |
@@ -184,7 +184,7 @@
 | Feltham and Heston | Seema Malhotra MP | 2948 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4546 |
 | Finchley and Golders Green | Sarah Sackman MP | 4293 |
-| Folkestone and Hythe | Tony Vaughan KC MP | 5429 |
+| Folkestone and Hythe | Tony Vaughan KC MP | 5430 |
 | Forest of Dean | Matt Bishop MP | 5311 |
 | Frome and East Somerset | Anna Sabine MP | 4374 |
 | Fylde | Mr Andrew Snowden MP | 6820 |
@@ -515,7 +515,7 @@
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5384 |
 | Watford | Matt Turmaine MP | 3764 |
 | Waveney Valley | Adrian Ramsay MP | 5895 |
-| Weald of Kent | Katie Lam MP | 7266 |
+| Weald of Kent | Katie Lam MP | 7267 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5136 |
 | Wells and Mendip Hills | Tessa Munt MP | 5291 |
 | Welwyn Hatfield | Andrew Lewin MP | 5094 |
