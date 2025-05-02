@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3017234                                |
-| Last Updated      | 2025-05-02 03:07:03 UTC                                    |
+| Total Signatures   | 3017238                                |
+| Last Updated      | 2025-05-02 04:21:43 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 6083 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1117 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5366 |
-| East Surrey | Rt Hon Claire Coutinho MP | 6055 |
+| East Surrey | Rt Hon Claire Coutinho MP | 6056 |
 | East Thanet | Ms Polly Billington MP | 5531 |
 | East Wiltshire | Danny Kruger MP | 6108 |
 | East Worthing and Shoreham | Tom Rutland MP | 4646 |
@@ -554,7 +554,7 @@
 | Belfast East | Rt Hon Gavin Robinson MP | 2973 |
 | Belfast North | John Finucane MP | 2538 |
 | Belfast South and Mid Down | Claire Hanna MP | 1954 |
-| Belfast West | Paul Maskey MP | 1426 |
+| Belfast West | Paul Maskey MP | 1427 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3617 |
 | East Londonderry | Mr Gregory Campbell MP | 2544 |
 | Fermanagh and South Tyrone | Pat Cullen MP | 2282 |
@@ -583,7 +583,7 @@
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3495 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3443 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3056 |
-| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4101 |
+| Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4102 |
 | Coatbridge and Bellshill | Frank McNally MP | 2620 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2884 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2692 |
@@ -633,7 +633,7 @@
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5322 |
 | Bridgend | Chris Elmore MP | 4293 |
 | Caerfyrddin | Ann Davies MP | 5251 |
-| Caerphilly | Chris Evans MP | 4064 |
+| Caerphilly | Chris Evans MP | 4065 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2944 |
 | Cardiff North | Anna McMorrin MP | 3317 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2829 |
