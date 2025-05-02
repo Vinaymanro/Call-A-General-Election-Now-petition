@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3017238                                |
-| Last Updated      | 2025-05-02 04:21:43 UTC                                    |
+| Total Signatures   | 3017242                                |
+| Last Updated      | 2025-05-02 05:18:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -117,7 +117,7 @@
 | Chipping Barnet | Dan Tomlinson MP | 4365 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5551 |
 | Christchurch | Sir Christopher Chope MP | 5886 |
-| Cities of London and Westminster | Rachel Blake MP | 5193 |
+| Cities of London and Westminster | Rachel Blake MP | 5194 |
 | City of Durham | Mary Kelly Foy MP | 4284 |
 | Clacton | Nigel Farage MP | 8140 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1757 |
@@ -162,7 +162,7 @@
 | East Hampshire | Rt Hon Damian Hinds MP | 5366 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6056 |
 | East Thanet | Ms Polly Billington MP | 5531 |
-| East Wiltshire | Danny Kruger MP | 6108 |
+| East Wiltshire | Danny Kruger MP | 6109 |
 | East Worthing and Shoreham | Tom Rutland MP | 4646 |
 | Eastbourne | Josh Babarinde MP | 5076 |
 | Eastleigh | Liz Jarvis MP | 4355 |
@@ -289,7 +289,7 @@
 | Liverpool West Derby | Ian Byrne MP | 3104 |
 | Loughborough | Dr Jeevun Sandher MP | 4505 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7835 |
-| Lowestoft | Jess Asato MP | 5375 |
+| Lowestoft | Jess Asato MP | 5376 |
 | Luton North | Sarah Owen MP | 2500 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2972 |
 | Macclesfield | Tim Roca MP | 5421 |
@@ -419,7 +419,7 @@
 | Sherwood Forest | Michelle Welsh MP | 6705 |
 | Shipley | Anna Dixon MP | 4924 |
 | Shrewsbury | Julia Buckley MP | 5353 |
-| Sittingbourne and Sheppey | Kevin McKenna MP | 6922 |
+| Sittingbourne and Sheppey | Kevin McKenna MP | 6923 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6712 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6330 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2602 |
