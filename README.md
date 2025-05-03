@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3017941                                |
-| Last Updated      | 2025-05-03 04:21:38 UTC                                    |
+| Total Signatures   | 3017949                                |
+| Last Updated      | 2025-05-03 05:18:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -39,7 +39,7 @@
 | Birkenhead | Alison McGovern MP | 4390 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2986 |
 | Birmingham Erdington | Paulette Hamilton MP | 4298 |
-| Birmingham Hall Green and Moseley | Tahir Ali MP | 1594 |
+| Birmingham Hall Green and Moseley | Tahir Ali MP | 1595 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3536 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1927 |
 | Birmingham Northfield | Laurence Turner MP | 4957 |
@@ -133,11 +133,11 @@
 | Crewe and Nantwich | Connor Naismith MP | 5726 |
 | Croydon East | Natasha Irons MP | 3353 |
 | Croydon South | Rt Hon Chris Philp MP | 3972 |
-| Croydon West | Sarah Jones MP | 1764 |
+| Croydon West | Sarah Jones MP | 1765 |
 | Dagenham and Rainham | Margaret Mullane MP | 4269 |
 | Darlington | Lola McEvoy MP | 5500 |
 | Dartford | Jim Dickson MP | 5775 |
-| Daventry | Rt Hon Stuart Andrew MP | 7319 |
+| Daventry | Rt Hon Stuart Andrew MP | 7320 |
 | Derby North | Catherine Atkinson MP | 4374 |
 | Derby South | Baggy Shanker MP | 3658 |
 | Derbyshire Dales | John Whitby MP | 6822 |
@@ -156,7 +156,7 @@
 | Ealing North | James Murray MP | 2599 |
 | Ealing Southall | Deirdre Costigan MP | 1970 |
 | Earley and Woodley | Yuan Yang MP | 3979 |
-| Easington | Grahame Morris MP | 5816 |
+| Easington | Grahame Morris MP | 5817 |
 | East Grinstead and Uckfield | Mims Davies MP | 6083 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1117 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5369 |
@@ -187,7 +187,7 @@
 | Folkestone and Hythe | Tony Vaughan KC MP | 5434 |
 | Forest of Dean | Matt Bishop MP | 5312 |
 | Frome and East Somerset | Anna Sabine MP | 4374 |
-| Fylde | Mr Andrew Snowden MP | 6822 |
+| Fylde | Mr Andrew Snowden MP | 6823 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6704 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4568 |
 | Gedling | Michael Payne MP | 5103 |
@@ -247,7 +247,7 @@
 | Hyndburn | Sarah Smith MP | 5061 |
 | Ilford North | Rt Hon Wes Streeting MP | 2636 |
 | Ilford South | Jas Athwal MP | 1610 |
-| Ipswich | Jack Abbott MP | 4191 |
+| Ipswich | Jack Abbott MP | 4192 |
 | Isle of Wight East | Joe Robertson MP | 4406 |
 | Isle of Wight West | Mr Richard Quigley MP | 4099 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1812 |
@@ -376,7 +376,7 @@
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5516 |
 | Poole | Neil Duncan-Jordan MP | 5703 |
 | Poplar and Limehouse | Apsana Begum MP | 2941 |
-| Portsmouth North | Amanda Martin MP | 5677 |
+| Portsmouth North | Amanda Martin MP | 5679 |
 | Portsmouth South | Stephen Morgan MP | 3925 |
 | Preston | Sir Mark Hendrick MP | 3843 |
 | Putney | Fleur Anderson MP | 3535 |
