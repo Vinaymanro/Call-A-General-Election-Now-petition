@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3017936                                |
-| Last Updated      | 2025-05-03 03:03:06 UTC                                    |
+| Total Signatures   | 3017941                                |
+| Last Updated      | 2025-05-03 04:21:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -275,7 +275,7 @@
 | Leicester South | Shockat Adam MP | 1876 |
 | Leicester West | Rt Hon Liz Kendall MP | 3505 |
 | Leigh and Atherton | Jo Platt MP | 6140 |
-| Lewes | James MacCleary MP | 4931 |
+| Lewes | James MacCleary MP | 4932 |
 | Lewisham East | Janet Daby MP | 2170 |
 | Lewisham North | Vicky Foxcroft MP | 1668 |
 | Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1603 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3982 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5128 |
 | Newton Abbot | Martin Wrigley MP | 5154 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5579 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5580 |
 | Normanton and Hemsworth | Jon Trickett MP | 5554 |
 | North Bedfordshire | Richard Fuller MP | 6140 |
 | North Cornwall | Ben Maguire MP | 6451 |
@@ -419,7 +419,7 @@
 | Sherwood Forest | Michelle Welsh MP | 6707 |
 | Shipley | Anna Dixon MP | 4924 |
 | Shrewsbury | Julia Buckley MP | 5356 |
-| Sittingbourne and Sheppey | Kevin McKenna MP | 6925 |
+| Sittingbourne and Sheppey | Kevin McKenna MP | 6926 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6713 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6333 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2602 |
@@ -447,7 +447,7 @@
 | Southampton Itchen | Darren Paffey MP | 4594 |
 | Southampton Test | Satvir Kaur MP | 3440 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5638 |
-| Southend West and Leigh | David Burton-Sampson MP | 5909 |
+| Southend West and Leigh | David Burton-Sampson MP | 5910 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2612 |
 | Southport | Patrick Hurley MP | 6031 |
 | Spelthorne | Lincoln Jopp MP | 5498 |
@@ -471,7 +471,7 @@
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6573 |
 | Stourbridge | Cat Eccles MP | 5193 |
 | Stratford and Bow | Uma Kumaran MP | 1788 |
-| Stratford-on-Avon | Manuela Perteghella MP | 6756 |
+| Stratford-on-Avon | Manuela Perteghella MP | 6757 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1882 |
 | Stretford and Urmston | Andrew Western MP | 3866 |
 | Stroud | Dr Simon Opher MP | 4566 |
