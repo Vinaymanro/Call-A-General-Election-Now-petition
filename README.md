@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3018577                                |
-| Last Updated      | 2025-05-04 01:44:08 UTC                                    |
+| Total Signatures   | 3018581                                |
+| Last Updated      | 2025-05-04 03:15:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -37,7 +37,7 @@
 | Bexleyheath and Crayford | Daniel Francis MP | 5079 |
 | Bicester and Woodstock | Calum Miller MP | 4702 |
 | Birkenhead | Alison McGovern MP | 4391 |
-| Birmingham Edgbaston | Preet Kaur Gill MP | 2986 |
+| Birmingham Edgbaston | Preet Kaur Gill MP | 2987 |
 | Birmingham Erdington | Paulette Hamilton MP | 4299 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1595 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3536 |
@@ -52,7 +52,7 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6223 |
 | Blackpool South | Chris Webb MP | 5883 |
 | Blaydon and Consett | Liz Twist MP | 5289 |
-| Blyth and Ashington | Ian Lavery MP | 5915 |
+| Blyth and Ashington | Ian Lavery MP | 5916 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6192 |
 | Bolsover | Natalie Fleet MP | 6603 |
 | Bolton North East | Kirith Entwistle MP | 5663 |
@@ -176,7 +176,7 @@
 | Erewash | Adam Thompson MP | 5892 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3244 |
 | Esher and Walton | Monica Harding MP | 4844 |
-| Exeter | Steve Race MP | 3202 |
+| Exeter | Steve Race MP | 3203 |
 | Exmouth and Exeter East | David Reed MP | 5243 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6177 |
 | Farnham and Bordon | Gregory Stafford MP | 5213 |
@@ -236,7 +236,7 @@
 | Hinckley and Bosworth | Dr Luke Evans MP | 6534 |
 | Hitchin | Alistair Strathern MP | 4941 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2294 |
-| Honiton and Sidmouth | Richard Foord MP | 5306 |
+| Honiton and Sidmouth | Richard Foord MP | 5307 |
 | Hornchurch and Upminster | Julia Lopez MP | 6656 |
 | Hornsey and Friern Barnet | Catherine West MP | 1956 |
 | Horsham | John Milne MP | 5862 |
