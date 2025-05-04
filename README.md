@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3018581                                |
-| Last Updated      | 2025-05-04 03:15:59 UTC                                    |
+| Total Signatures   | 3018584                                |
+| Last Updated      | 2025-05-04 04:22:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -352,7 +352,7 @@
 | North West Leicestershire | Amanda Hack MP | 6751 |
 | North West Norfolk | James Wild MP | 5799 |
 | Northampton North | Lucy Rigby KC MP | 4320 |
-| Northampton South | Mike Reader MP | 5000 |
+| Northampton South | Mike Reader MP | 5001 |
 | Norwich North | Alice Macdonald MP | 4456 |
 | Norwich South | Clive Lewis MP | 3425 |
 | Nottingham East | Nadia Whittome MP | 2506 |
@@ -468,7 +468,7 @@
 | Stoke-on-Trent Central | Gareth Snell MP | 4799 |
 | Stoke-on-Trent North | David Williams MP | 5510 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5775 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6577 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6578 |
 | Stourbridge | Cat Eccles MP | 5195 |
 | Stratford and Bow | Uma Kumaran MP | 1788 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6757 |
@@ -509,7 +509,7 @@
 | Wallasey | Dame Angela Eagle MP | 4128 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4064 |
 | Walthamstow | Ms Stella Creasy MP | 1325 |
-| Warrington North | Charlotte Nichols MP | 5212 |
+| Warrington North | Charlotte Nichols MP | 5213 |
 | Warrington South | Sarah Hall MP | 5602 |
 | Warwick and Leamington | Matt Western MP | 4512 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5388 |
