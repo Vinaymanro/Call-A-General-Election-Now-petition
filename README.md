@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3018588                                |
-| Last Updated      | 2025-05-04 05:18:08 UTC                                    |
+| Total Signatures   | 3018596                                |
+| Last Updated      | 2025-05-04 06:25:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -100,7 +100,7 @@
 | Carlisle | Ms Julie Minns MP | 6588 |
 | Carshalton and Wallington | Bobby Dean MP | 4297 |
 | Castle Point | Rebecca Harris MP | 7567 |
-| Central Devon | Rt Hon Sir Mel Stride MP | 5853 |
+| Central Devon | Rt Hon Sir Mel Stride MP | 5854 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5327 |
 | Chatham and Aylesford | Tristan Osborne MP | 5690 |
 | Cheadle | Tom Morrison MP | 4694 |
@@ -435,7 +435,7 @@
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7183 |
 | South Leicestershire | Alberto Costa MP | 7042 |
 | South Norfolk | Ben Goldsborough MP | 5475 |
-| South Northamptonshire | Sarah Bool MP | 6710 |
+| South Northamptonshire | Sarah Bool MP | 6711 |
 | South Ribble | Mr Paul Foster MP | 5940 |
 | South Shields | Emma Lewell MP | 4774 |
 | South Shropshire | Stuart Anderson MP | 7358 |
@@ -483,7 +483,7 @@
 | Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5701 |
 | Swindon North | Will Stone MP | 4956 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4255 |
-| Tamworth | Sarah Edwards MP | 7006 |
+| Tamworth | Sarah Edwards MP | 7007 |
 | Tatton | Rt Hon Esther McVey MP | 6521 |
 | Taunton and Wellington | Gideon Amos MP | 5216 |
 | Telford | Shaun Davies MP | 5656 |
@@ -496,10 +496,10 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5993 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5976 |
 | Tooting | Dr Rosena Allin-Khan MP | 2710 |
-| Torbay | Steve Darling MP | 5897 |
+| Torbay | Steve Darling MP | 5898 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6623 |
 | Tottenham | Rt Hon David Lammy MP | 1704 |
-| Truro and Falmouth | Jayne Kirkham MP | 4635 |
+| Truro and Falmouth | Jayne Kirkham MP | 4636 |
 | Tunbridge Wells | Mike Martin MP | 5491 |
 | Twickenham | Munira Wilson MP | 3674 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4516 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3765 |
 | Waveney Valley | Adrian Ramsay MP | 5896 |
 | Weald of Kent | Katie Lam MP | 7271 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5139 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5140 |
 | Wells and Mendip Hills | Tessa Munt MP | 5292 |
 | Welwyn Hatfield | Andrew Lewin MP | 5098 |
 | West Bromwich | Sarah Coombes MP | 3820 |
@@ -566,7 +566,7 @@
 | North Down | Alex Easton MP | 3388 |
 | South Antrim | Robin Swann MP | 3108 |
 | South Down | Chris Hazzard MP | 1851 |
-| Strangford | Jim Shannon MP | 3484 |
+| Strangford | Jim Shannon MP | 3485 |
 | Upper Bann | Carla Lockhart MP | 3096 |
 | West Tyrone | Órfhlaith Begley MP | 1679 |
 | East Renfrewshire | Blair McDougall MP | 2616 |
@@ -604,7 +604,7 @@
 | Glasgow South | Gordon McKee MP | 1871 |
 | Glasgow South West | Dr Zubir Ahmed MP | 2289 |
 | Glasgow West | Patricia Ferguson MP | 2252 |
-| Glenrothes and Mid Fife | Richard Baker MP | 3017 |
+| Glenrothes and Mid Fife | Richard Baker MP | 3018 |
 | Gordon and Buchan | Harriet Cross MP | 4427 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3168 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2781 |
