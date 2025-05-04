@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3018584                                |
-| Last Updated      | 2025-05-04 04:22:47 UTC                                    |
+| Total Signatures   | 3018588                                |
+| Last Updated      | 2025-05-04 05:18:08 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -24,13 +24,13 @@
 | Barrow and Furness | Michelle Scrogham MP | 5374 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6938 |
 | Basingstoke | Luke Murphy MP | 4861 |
-| Bassetlaw | Jo White MP | 6815 |
+| Bassetlaw | Jo White MP | 6816 |
 | Bath | Wera Hobhouse MP | 2987 |
 | Battersea | Marsha De Cordova MP | 3625 |
 | Beaconsfield | Joy Morrissey MP | 5236 |
 | Beckenham and Penge | Liam Conlon MP | 3857 |
 | Bedford | Mohammad Yasin MP | 3256 |
-| Bermondsey and Old Southwark | Neil Coyle MP | 2736 |
+| Bermondsey and Old Southwark | Neil Coyle MP | 2737 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1742 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6208 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6173 |
@@ -159,7 +159,7 @@
 | Easington | Grahame Morris MP | 5821 |
 | East Grinstead and Uckfield | Mims Davies MP | 6084 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1117 |
-| East Hampshire | Rt Hon Damian Hinds MP | 5369 |
+| East Hampshire | Rt Hon Damian Hinds MP | 5370 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6058 |
 | East Thanet | Ms Polly Billington MP | 5535 |
 | East Wiltshire | Danny Kruger MP | 6111 |
@@ -505,7 +505,7 @@
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4516 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4511 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1692 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4969 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4970 |
 | Wallasey | Dame Angela Eagle MP | 4128 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4064 |
 | Walthamstow | Ms Stella Creasy MP | 1325 |
