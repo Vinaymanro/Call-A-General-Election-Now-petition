@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3019040                                |
-| Last Updated      | 2025-05-05 04:23:21 UTC                                    |
+| Total Signatures   | 3019044                                |
+| Last Updated      | 2025-05-05 05:19:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -15,7 +15,7 @@
 | Arundel and South Downs | Andrew Griffith MP | 6989 |
 | Ashfield | Lee Anderson MP | 6216 |
 | Ashford | Sojan Joseph MP | 5944 |
-| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4648 |
+| Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4649 |
 | Aylesbury | Laura Kyrke-Smith MP | 4907 |
 | Banbury | Sean Woodcock MP | 5497 |
 | Barking | Nesil Caliskan MP | 2668 |
@@ -54,7 +54,7 @@
 | Blaydon and Consett | Liz Twist MP | 5290 |
 | Blyth and Ashington | Ian Lavery MP | 5917 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6193 |
-| Bolsover | Natalie Fleet MP | 6604 |
+| Bolsover | Natalie Fleet MP | 6605 |
 | Bolton North East | Kirith Entwistle MP | 5665 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4481 |
 | Bolton West | Phil Brickell MP | 5632 |
@@ -177,7 +177,7 @@
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3245 |
 | Esher and Walton | Monica Harding MP | 4845 |
 | Exeter | Steve Race MP | 3207 |
-| Exmouth and Exeter East | David Reed MP | 5244 |
+| Exmouth and Exeter East | David Reed MP | 5245 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6177 |
 | Farnham and Bordon | Gregory Stafford MP | 5213 |
 | Faversham and Mid Kent | Helen Whately MP | 6272 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6363 |
 | Gravesham | Dr Lauren Sullivan MP | 5204 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5863 |
-| Great Yarmouth | Rupert Lowe MP | 6646 |
+| Great Yarmouth | Rupert Lowe MP | 6647 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2649 |
 | Guildford | Zöe Franklin MP | 4018 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2071 |
