@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3019033                                |
-| Last Updated      | 2025-05-05 01:40:07 UTC                                    |
+| Total Signatures   | 3019035                                |
+| Last Updated      | 2025-05-05 03:12:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -290,7 +290,7 @@
 | Loughborough | Dr Jeevun Sandher MP | 4507 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7839 |
 | Lowestoft | Jess Asato MP | 5377 |
-| Luton North | Sarah Owen MP | 2500 |
+| Luton North | Sarah Owen MP | 2501 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2973 |
 | Macclesfield | Tim Roca MP | 5423 |
 | Maidenhead | Mr Joshua Reynolds MP | 5313 |
@@ -469,7 +469,7 @@
 | Stoke-on-Trent North | David Williams MP | 5511 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5775 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6578 |
-| Stourbridge | Cat Eccles MP | 5195 |
+| Stourbridge | Cat Eccles MP | 5196 |
 | Stratford and Bow | Uma Kumaran MP | 1788 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6757 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1882 |
