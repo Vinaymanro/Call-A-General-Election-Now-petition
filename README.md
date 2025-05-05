@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3019035                                |
-| Last Updated      | 2025-05-05 03:12:13 UTC                                    |
+| Total Signatures   | 3019040                                |
+| Last Updated      | 2025-05-05 04:23:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -303,7 +303,7 @@
 | Mansfield | Steve Yemm MP | 6259 |
 | Melksham and Devizes | Brian Mathew MP | 5038 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6141 |
-| Meriden and Solihull East | Saqib Bhatti MP | 6144 |
+| Meriden and Solihull East | Saqib Bhatti MP | 6145 |
 | Mid Bedfordshire | Blake Stephenson MP | 5875 |
 | Mid Buckinghamshire | Greg Smith MP | 5622 |
 | Mid Cheshire | Andrew Cooper MP | 5214 |
@@ -460,7 +460,7 @@
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4839 |
 | Stafford | Leigh Ingham MP | 5661 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6459 |
-| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5405 |
+| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5407 |
 | Stevenage | Kevin Bonavia MP | 4781 |
 | Stockport | Navendu Mishra MP | 3963 |
 | Stockton North | Chris McDonald MP | 4880 |
@@ -507,7 +507,7 @@
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1692 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4971 |
 | Wallasey | Dame Angela Eagle MP | 4129 |
-| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4065 |
+| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4067 |
 | Walthamstow | Ms Stella Creasy MP | 1325 |
 | Warrington North | Charlotte Nichols MP | 5214 |
 | Warrington South | Sarah Hall MP | 5604 |
