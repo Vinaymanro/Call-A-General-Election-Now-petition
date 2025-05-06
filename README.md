@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3019413                                |
-| Last Updated      | 2025-05-06 03:07:42 UTC                                    |
+| Total Signatures   | 3019415                                |
+| Last Updated      | 2025-05-06 04:22:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -374,7 +374,7 @@
 | Plymouth Moor View | Fred Thomas MP | 5765 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4812 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5517 |
-| Poole | Neil Duncan-Jordan MP | 5708 |
+| Poole | Neil Duncan-Jordan MP | 5709 |
 | Poplar and Limehouse | Apsana Begum MP | 2941 |
 | Portsmouth North | Amanda Martin MP | 5681 |
 | Portsmouth South | Stephen Morgan MP | 3926 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 5993 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5977 |
 | Tooting | Dr Rosena Allin-Khan MP | 2710 |
-| Torbay | Steve Darling MP | 5898 |
+| Torbay | Steve Darling MP | 5899 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6626 |
 | Tottenham | Rt Hon David Lammy MP | 1704 |
 | Truro and Falmouth | Jayne Kirkham MP | 4639 |
