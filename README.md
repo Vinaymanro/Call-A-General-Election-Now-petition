@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3019415                                |
-| Last Updated      | 2025-05-06 04:22:36 UTC                                    |
+| Total Signatures   | 3019418                                |
+| Last Updated      | 2025-05-06 05:19:03 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -112,7 +112,7 @@
 | Chester South and Eddisbury | Aphra Brandreth MP | 6425 |
 | Chesterfield | Mr Toby Perkins MP | 4936 |
 | Chichester | Jess Brown-Fuller MP | 5970 |
-| Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4196 |
+| Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4197 |
 | Chippenham | Sarah Gibson MP | 4785 |
 | Chipping Barnet | Dan Tomlinson MP | 4367 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5555 |
@@ -291,7 +291,7 @@
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7840 |
 | Lowestoft | Jess Asato MP | 5377 |
 | Luton North | Sarah Owen MP | 2501 |
-| Luton South and South Bedfordshire | Rachel Hopkins MP | 2973 |
+| Luton South and South Bedfordshire | Rachel Hopkins MP | 2974 |
 | Macclesfield | Tim Roca MP | 5423 |
 | Maidenhead | Mr Joshua Reynolds MP | 5314 |
 | Maidstone and Malling | Helen Grant MP | 5885 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3765 |
 | Waveney Valley | Adrian Ramsay MP | 5897 |
 | Weald of Kent | Katie Lam MP | 7271 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5141 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5142 |
 | Wells and Mendip Hills | Tessa Munt MP | 5292 |
 | Welwyn Hatfield | Andrew Lewin MP | 5099 |
 | West Bromwich | Sarah Coombes MP | 3820 |
