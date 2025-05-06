@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3019411                                |
-| Last Updated      | 2025-05-06 01:36:48 UTC                                    |
+| Total Signatures   | 3019413                                |
+| Last Updated      | 2025-05-06 03:07:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -345,7 +345,7 @@
 | North Northumberland | David Smith MP | 6484 |
 | North Shropshire | Helen Morgan MP | 6924 |
 | North Somerset | Sadik Al-Hassan MP | 4613 |
-| North Warwickshire and Bedworth | Rachel Taylor MP | 6325 |
+| North Warwickshire and Bedworth | Rachel Taylor MP | 6326 |
 | North West Cambridgeshire | Sam Carling MP | 6062 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7170 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5766 |
@@ -533,7 +533,7 @@
 | Wigan | Rt Hon Lisa Nandy MP | 6026 |
 | Wimbledon | Mr Paul Kohler MP | 3429 |
 | Winchester | Dr Danny Chambers MP | 4950 |
-| Windsor | Jack Rankin MP | 5136 |
+| Windsor | Jack Rankin MP | 5137 |
 | Wirral West | Matthew Patrick MP | 4235 |
 | Witham | Rt Hon Priti Patel MP | 7060 |
 | Witney | Charlie Maynard MP | 5183 |
