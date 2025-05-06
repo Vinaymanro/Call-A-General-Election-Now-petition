@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3019836                                |
-| Last Updated      | 2025-05-06 20:21:07 UTC                                    |
+| Total Signatures   | 3019877                                |
+| Last Updated      | 2025-05-06 21:17:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -13,10 +13,10 @@
 | Altrincham and Sale West | Mr Connor Rand MP | 5521 |
 | Amber Valley | Linsey Farnsworth MP | 6148 |
 | Arundel and South Downs | Andrew Griffith MP | 6989 |
-| Ashfield | Lee Anderson MP | 6217 |
+| Ashfield | Lee Anderson MP | 6218 |
 | Ashford | Sojan Joseph MP | 5946 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4651 |
-| Aylesbury | Laura Kyrke-Smith MP | 4908 |
+| Aylesbury | Laura Kyrke-Smith MP | 4909 |
 | Banbury | Sean Woodcock MP | 5497 |
 | Barking | Nesil Caliskan MP | 2669 |
 | Barnsley North | Dan Jarvis MP | 5756 |
@@ -62,7 +62,7 @@
 | Boston and Skegness | Richard Tice MP | 7145 |
 | Bournemouth East | Tom Hayes MP | 4708 |
 | Bournemouth West | Jessica Toale MP | 4958 |
-| Bracknell | Peter Swallow MP | 5014 |
+| Bracknell | Peter Swallow MP | 5015 |
 | Bradford East | Imran Hussain MP | 2939 |
 | Bradford South | Judith Cummins MP | 4236 |
 | Bradford West | Naz Shah MP | 1854 |
@@ -78,10 +78,10 @@
 | Brighton Pavilion | Siân Berry MP | 2764 |
 | Bristol Central | Carla Denyer MP | 1624 |
 | Bristol East | Kerry McCarthy MP | 3017 |
-| Bristol North East | Damien Egan MP | 3121 |
+| Bristol North East | Damien Egan MP | 3123 |
 | Bristol North West | Rt Hon Darren Jones MP | 3244 |
 | Bristol South | Karin Smyth MP | 4019 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5870 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5871 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5280 |
 | Bromsgrove | Bradley Thomas MP | 6519 |
 | Broxbourne | Lewis Cocking MP | 6127 |
@@ -90,15 +90,15 @@
 | Burnley | Oliver Ryan MP | 5776 |
 | Burton and Uttoxeter | Jacob Collier MP | 5859 |
 | Bury North | Mr James Frith MP | 5018 |
-| Bury South | Christian Wakeford MP | 5468 |
+| Bury South | Christian Wakeford MP | 5470 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5482 |
-| Calder Valley | Josh Fenton-Glynn MP | 5693 |
+| Calder Valley | Josh Fenton-Glynn MP | 5694 |
 | Camborne and Redruth | Perran Moon MP | 5017 |
 | Cambridge | Daniel Zeichner MP | 2241 |
 | Cannock Chase | Josh Newbury MP | 6955 |
 | Canterbury | Rosie Duffield MP | 4510 |
 | Carlisle | Ms Julie Minns MP | 6590 |
-| Carshalton and Wallington | Bobby Dean MP | 4298 |
+| Carshalton and Wallington | Bobby Dean MP | 4299 |
 | Castle Point | Rebecca Harris MP | 7570 |
 | Central Devon | Rt Hon Sir Mel Stride MP | 5855 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5328 |
@@ -110,7 +110,7 @@
 | Chesham and Amersham | Sarah Green MP | 4970 |
 | Chester North and Neston | Samantha Dixon MP | 4092 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6425 |
-| Chesterfield | Mr Toby Perkins MP | 4938 |
+| Chesterfield | Mr Toby Perkins MP | 4939 |
 | Chichester | Jess Brown-Fuller MP | 5971 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4197 |
 | Chippenham | Sarah Gibson MP | 4785 |
@@ -130,11 +130,11 @@
 | Coventry South | Zarah Sultana MP | 3550 |
 | Cramlington and Killingworth | Emma Foody MP | 5858 |
 | Crawley | Peter Lamb MP | 4764 |
-| Crewe and Nantwich | Connor Naismith MP | 5730 |
+| Crewe and Nantwich | Connor Naismith MP | 5731 |
 | Croydon East | Natasha Irons MP | 3354 |
 | Croydon South | Rt Hon Chris Philp MP | 3973 |
 | Croydon West | Sarah Jones MP | 1766 |
-| Dagenham and Rainham | Margaret Mullane MP | 4271 |
+| Dagenham and Rainham | Margaret Mullane MP | 4272 |
 | Darlington | Lola McEvoy MP | 5500 |
 | Dartford | Jim Dickson MP | 5777 |
 | Daventry | Rt Hon Stuart Andrew MP | 7324 |
@@ -144,7 +144,7 @@
 | Dewsbury and Batley | Iqbal Mohamed MP | 3220 |
 | Didcot and Wantage | Olly Glover MP | 4915 |
 | Doncaster Central | Sally Jameson MP | 4986 |
-| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6125 |
+| Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6126 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5627 |
 | Dorking and Horley | Chris Coghlan MP | 5576 |
 | Dover and Deal | Mike Tapp MP | 5990 |
@@ -181,7 +181,7 @@
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6178 |
 | Farnham and Bordon | Gregory Stafford MP | 5213 |
 | Faversham and Mid Kent | Helen Whately MP | 6273 |
-| Feltham and Heston | Seema Malhotra MP | 2951 |
+| Feltham and Heston | Seema Malhotra MP | 2952 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4550 |
 | Finchley and Golders Green | Sarah Sackman MP | 4293 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5439 |
@@ -191,7 +191,7 @@
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6705 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4570 |
 | Gedling | Michael Payne MP | 5115 |
-| Gillingham and Rainham | Naushabah Khan MP | 5094 |
+| Gillingham and Rainham | Naushabah Khan MP | 5095 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5629 |
 | Gloucester | Alex McIntyre MP | 4583 |
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5261 |
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5526 |
 | Grantham and Bourne | Gareth Davies MP | 6364 |
 | Gravesham | Dr Lauren Sullivan MP | 5208 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5867 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5868 |
 | Great Yarmouth | Rupert Lowe MP | 6651 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2651 |
 | Guildford | Zöe Franklin MP | 4018 |
@@ -226,7 +226,7 @@
 | Hemel Hempstead | David Taylor MP | 5114 |
 | Hendon | David Pinto-Duschinsky MP | 3819 |
 | Henley and Thame | Freddie van Mierlo MP | 5433 |
-| Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5310 |
+| Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5311 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6359 |
 | Hertford and Stortford | Josh Dean MP | 6020 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5782 |
@@ -294,7 +294,7 @@
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2974 |
 | Macclesfield | Tim Roca MP | 5424 |
 | Maidenhead | Mr Joshua Reynolds MP | 5314 |
-| Maidstone and Malling | Helen Grant MP | 5886 |
+| Maidstone and Malling | Helen Grant MP | 5887 |
 | Makerfield | Josh Simons MP | 5946 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8155 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4023 |
@@ -311,7 +311,7 @@
 | Mid Dorset and North Poole | Vikki Slade MP | 5921 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5636 |
 | Mid Norfolk | George Freeman MP | 6330 |
-| Mid Sussex | Alison Bennett MP | 4728 |
+| Mid Sussex | Alison Bennett MP | 4729 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4275 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5769 |
 | Milton Keynes Central | Emily Darlington MP | 4978 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3985 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5134 |
 | Newton Abbot | Martin Wrigley MP | 5157 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5587 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5588 |
 | Normanton and Hemsworth | Jon Trickett MP | 5561 |
 | North Bedfordshire | Richard Fuller MP | 6141 |
 | North Cornwall | Ben Maguire MP | 6458 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5906 |
 | North Dorset | Simon Hoare MP | 6356 |
 | North Durham | Luke Akehurst MP | 5441 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6130 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6131 |
 | North East Derbyshire | Louise Jones MP | 5854 |
 | North East Hampshire | Alex Brewer MP | 5984 |
 | North East Hertfordshire | Chris Hinchliff MP | 5885 |
@@ -359,7 +359,7 @@
 | Nottingham North and Kimberley | Alex Norris MP | 3773 |
 | Nottingham South | Lilian Greenwood MP | 3086 |
 | Nuneaton | Jodie Gosling MP | 5612 |
-| Old Bexley and Sidcup | Mr Louie French MP | 6251 |
+| Old Bexley and Sidcup | Mr Louie French MP | 6252 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5285 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4130 |
 | Orpington | Gareth Bacon MP | 5351 |
@@ -367,7 +367,7 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2173 |
 | Oxford West and Abingdon | Layla Moran MP | 2948 |
 | Peckham | Miatta Fahnbulleh MP | 1374 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6259 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6260 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5490 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6247 |
 | Peterborough | Andrew Pakes MP | 4199 |
@@ -388,7 +388,7 @@
 | Redcar | Anna Turley MP | 5512 |
 | Redditch | Chris Bloore MP | 6148 |
 | Reigate | Rebecca Paul MP | 5572 |
-| Ribble Valley | Maya Ellis MP | 6765 |
+| Ribble Valley | Maya Ellis MP | 6766 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7151 |
 | Richmond Park | Sarah Olney MP | 4076 |
 | Rochdale | Paul Waugh MP | 3992 |
@@ -410,15 +410,15 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5131 |
 | Sefton Central | Bill Esterson MP | 4071 |
 | Selby | Keir Mather MP | 6422 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6700 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6701 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3477 |
 | Sheffield Central | Abtisam Mohamed MP | 1447 |
 | Sheffield Hallam | Olivia Blake MP | 3401 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3583 |
-| Sheffield South East | Mr Clive Betts MP | 4778 |
+| Sheffield South East | Mr Clive Betts MP | 4779 |
 | Sherwood Forest | Michelle Welsh MP | 6715 |
 | Shipley | Anna Dixon MP | 4927 |
-| Shrewsbury | Julia Buckley MP | 5360 |
+| Shrewsbury | Julia Buckley MP | 5362 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6930 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6714 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6334 |
@@ -442,12 +442,12 @@
 | South Suffolk | James Cartlidge MP | 6184 |
 | South West Devon | Rebecca Smith MP | 6027 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5245 |
-| South West Norfolk | Terry Jermy MP | 6578 |
-| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5247 |
+| South West Norfolk | Terry Jermy MP | 6579 |
+| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5249 |
 | Southampton Itchen | Darren Paffey MP | 4599 |
 | Southampton Test | Satvir Kaur MP | 3443 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5645 |
-| Southend West and Leigh | David Burton-Sampson MP | 5914 |
+| Southend West and Leigh | David Burton-Sampson MP | 5915 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2613 |
 | Southport | Patrick Hurley MP | 6041 |
 | Spelthorne | Lincoln Jopp MP | 5500 |
@@ -455,7 +455,7 @@
 | St Albans | Daisy Cooper MP | 3893 |
 | St Austell and Newquay | Noah Law MP | 5683 |
 | St Helens North | David Baines MP | 4766 |
-| St Helens South and Whiston | Ms Marie Rimmer MP | 4225 |
+| St Helens South and Whiston | Ms Marie Rimmer MP | 4226 |
 | St Ives | Andrew George MP | 5137 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4840 |
 | Stafford | Leigh Ingham MP | 5662 |
@@ -479,7 +479,7 @@
 | Sunderland Central | Lewis Atkinson MP | 5306 |
 | Surrey Heath | Dr Al Pinkerton MP | 5463 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6146 |
-| Sutton and Cheam | Luke Taylor MP | 4414 |
+| Sutton and Cheam | Luke Taylor MP | 4415 |
 | Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5702 |
 | Swindon North | Will Stone MP | 4956 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4257 |
@@ -507,9 +507,9 @@
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1693 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4971 |
 | Wallasey | Dame Angela Eagle MP | 4132 |
-| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4070 |
+| Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4071 |
 | Walthamstow | Ms Stella Creasy MP | 1325 |
-| Warrington North | Charlotte Nichols MP | 5218 |
+| Warrington North | Charlotte Nichols MP | 5219 |
 | Warrington South | Sarah Hall MP | 5608 |
 | Warwick and Leamington | Matt Western MP | 4512 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5391 |
@@ -539,7 +539,7 @@
 | Witney | Charlie Maynard MP | 5183 |
 | Woking | Mr Will Forster MP | 4415 |
 | Wokingham | Clive Jones MP | 4891 |
-| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4456 |
+| Wolverhampton North East | Mrs Sureena Brackenridge MP | 4457 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4376 |
 | Wolverhampton West | Warinder Juss | 3871 |
 | Worcester | Tom Collins MP | 4370 |
@@ -602,7 +602,7 @@
 | Glasgow North | Martin Rhodes MP | 2074 |
 | Glasgow North East | Maureen Burke MP | 2532 |
 | Glasgow South | Gordon McKee MP | 1871 |
-| Glasgow South West | Dr Zubir Ahmed MP | 2291 |
+| Glasgow South West | Dr Zubir Ahmed MP | 2292 |
 | Glasgow West | Patricia Ferguson MP | 2254 |
 | Glenrothes and Mid Fife | Richard Baker MP | 3019 |
 | Gordon and Buchan | Harriet Cross MP | 4429 |
@@ -622,7 +622,7 @@
 | Stirling and Strathallan | Chris Kane MP | 3247 |
 | West Dunbartonshire | Douglas McAllister MP | 2766 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3574 |
-| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4061 |
+| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4062 |
 | Central Ayrshire | Alan Gemmell MP | 3169 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3291 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4593 |
@@ -631,7 +631,7 @@
 | Bangor Aberconwy | Claire Hughes MP | 4554 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3712 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5325 |
-| Bridgend | Chris Elmore MP | 4293 |
+| Bridgend | Chris Elmore MP | 4294 |
 | Caerfyrddin | Ann Davies MP | 5254 |
 | Caerphilly | Chris Evans MP | 4070 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2946 |
