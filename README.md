@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3019964                                |
-| Last Updated      | 2025-05-07 03:09:17 UTC                                    |
+| Total Signatures   | 3019972                                |
+| Last Updated      | 2025-05-07 04:22:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -48,11 +48,11 @@
 | Birmingham Yardley | Jess Phillips MP | 3121 |
 | Bishop Auckland | Sam Rushworth MP | 6218 |
 | Blackburn | Mr Adnan Hussain MP | 3183 |
-| Blackley and Middleton South | Graham Stringer MP | 3825 |
+| Blackley and Middleton South | Graham Stringer MP | 3826 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6225 |
 | Blackpool South | Chris Webb MP | 5884 |
 | Blaydon and Consett | Liz Twist MP | 5291 |
-| Blyth and Ashington | Ian Lavery MP | 5919 |
+| Blyth and Ashington | Ian Lavery MP | 5920 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6195 |
 | Bolsover | Natalie Fleet MP | 6608 |
 | Bolton North East | Kirith Entwistle MP | 5669 |
@@ -80,14 +80,14 @@
 | Bristol East | Kerry McCarthy MP | 3017 |
 | Bristol North East | Damien Egan MP | 3123 |
 | Bristol North West | Rt Hon Darren Jones MP | 3244 |
-| Bristol South | Karin Smyth MP | 4019 |
+| Bristol South | Karin Smyth MP | 4020 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5871 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5280 |
 | Bromsgrove | Bradley Thomas MP | 6519 |
 | Broxbourne | Lewis Cocking MP | 6127 |
 | Broxtowe | Juliet Campbell MP | 4741 |
 | Buckingham and Bletchley | Callum Anderson MP | 5290 |
-| Burnley | Oliver Ryan MP | 5777 |
+| Burnley | Oliver Ryan MP | 5778 |
 | Burton and Uttoxeter | Jacob Collier MP | 5859 |
 | Bury North | Mr James Frith MP | 5018 |
 | Bury South | Christian Wakeford MP | 5471 |
@@ -239,7 +239,7 @@
 | Honiton and Sidmouth | Richard Foord MP | 5310 |
 | Hornchurch and Upminster | Julia Lopez MP | 6656 |
 | Hornsey and Friern Barnet | Catherine West MP | 1957 |
-| Horsham | John Milne MP | 5867 |
+| Horsham | John Milne MP | 5868 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6389 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3356 |
 | Huddersfield | Harpreet Uppal MP | 3726 |
@@ -325,9 +325,9 @@
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4564 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4823 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3985 |
-| Newcastle-under-Lyme | Adam Jogee MP | 5134 |
+| Newcastle-under-Lyme | Adam Jogee MP | 5135 |
 | Newton Abbot | Martin Wrigley MP | 5157 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5588 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5589 |
 | Normanton and Hemsworth | Jon Trickett MP | 5561 |
 | North Bedfordshire | Richard Fuller MP | 6142 |
 | North Cornwall | Ben Maguire MP | 6458 |
@@ -554,7 +554,7 @@
 | Belfast East | Rt Hon Gavin Robinson MP | 2973 |
 | Belfast North | John Finucane MP | 2540 |
 | Belfast South and Mid Down | Claire Hanna MP | 1954 |
-| Belfast West | Paul Maskey MP | 1428 |
+| Belfast West | Paul Maskey MP | 1429 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3619 |
 | East Londonderry | Mr Gregory Campbell MP | 2546 |
 | Fermanagh and South Tyrone | Pat Cullen MP | 2282 |
