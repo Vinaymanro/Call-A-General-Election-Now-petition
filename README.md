@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3019959                                |
-| Last Updated      | 2025-05-07 01:37:50 UTC                                    |
+| Total Signatures   | 3019964                                |
+| Last Updated      | 2025-05-07 03:09:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -63,7 +63,7 @@
 | Bournemouth East | Tom Hayes MP | 4708 |
 | Bournemouth West | Jessica Toale MP | 4958 |
 | Bracknell | Peter Swallow MP | 5015 |
-| Bradford East | Imran Hussain MP | 2939 |
+| Bradford East | Imran Hussain MP | 2940 |
 | Bradford South | Judith Cummins MP | 4236 |
 | Bradford West | Naz Shah MP | 1854 |
 | Braintree | Rt Hon Sir James Cleverly MP | 7488 |
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5155 |
 | Harrow East | Bob Blackman MP | 3150 |
 | Harrow West | Gareth Thomas MP | 2419 |
-| Hartlepool | Mr Jonathan Brash MP | 5713 |
+| Hartlepool | Mr Jonathan Brash MP | 5714 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6319 |
 | Hastings and Rye | Helena Dollimore MP | 5109 |
 | Havant | Alan Mak MP | 5730 |
@@ -433,12 +433,12 @@
 | South Dorset | Lloyd Hatton MP | 5715 |
 | South East Cornwall | Anna Gelderd MP | 6292 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7186 |
-| South Leicestershire | Alberto Costa MP | 7042 |
+| South Leicestershire | Alberto Costa MP | 7043 |
 | South Norfolk | Ben Goldsborough MP | 5476 |
 | South Northamptonshire | Sarah Bool MP | 6717 |
 | South Ribble | Mr Paul Foster MP | 5943 |
 | South Shields | Emma Lewell MP | 4775 |
-| South Shropshire | Stuart Anderson MP | 7359 |
+| South Shropshire | Stuart Anderson MP | 7360 |
 | South Suffolk | James Cartlidge MP | 6184 |
 | South West Devon | Rebecca Smith MP | 6027 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5245 |
@@ -488,7 +488,7 @@
 | Taunton and Wellington | Gideon Amos MP | 5217 |
 | Telford | Shaun Davies MP | 5658 |
 | Tewkesbury | Cameron Thomas MP | 5051 |
-| The Wrekin | Rt Hon Mark Pritchard MP | 6453 |
+| The Wrekin | Rt Hon Mark Pritchard MP | 6454 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7480 |
 | Thornbury and Yate | Claire Young MP | 5734 |
 | Thurrock | Jen Craft MP | 5162 |
