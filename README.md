@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3020747                                |
-| Last Updated      | 2025-05-08 03:10:28 UTC                                    |
+| Total Signatures   | 3020754                                |
+| Last Updated      | 2025-05-08 04:23:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -129,7 +129,7 @@
 | Coventry North West | Taiwo Owatemi MP | 4306 |
 | Coventry South | Zarah Sultana MP | 3551 |
 | Cramlington and Killingworth | Emma Foody MP | 5858 |
-| Crawley | Peter Lamb MP | 4764 |
+| Crawley | Peter Lamb MP | 4765 |
 | Crewe and Nantwich | Connor Naismith MP | 5732 |
 | Croydon East | Natasha Irons MP | 3354 |
 | Croydon South | Rt Hon Chris Philp MP | 3973 |
@@ -138,11 +138,11 @@
 | Darlington | Lola McEvoy MP | 5501 |
 | Dartford | Jim Dickson MP | 5780 |
 | Daventry | Rt Hon Stuart Andrew MP | 7328 |
-| Derby North | Catherine Atkinson MP | 4377 |
+| Derby North | Catherine Atkinson MP | 4378 |
 | Derby South | Baggy Shanker MP | 3659 |
 | Derbyshire Dales | John Whitby MP | 6822 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3220 |
-| Didcot and Wantage | Olly Glover MP | 4917 |
+| Didcot and Wantage | Olly Glover MP | 4918 |
 | Doncaster Central | Sally Jameson MP | 4988 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6127 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5630 |
@@ -191,7 +191,7 @@
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6706 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4572 |
 | Gedling | Michael Payne MP | 5116 |
-| Gillingham and Rainham | Naushabah Khan MP | 5096 |
+| Gillingham and Rainham | Naushabah Khan MP | 5097 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5630 |
 | Gloucester | Alex McIntyre MP | 4584 |
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5262 |
@@ -537,7 +537,7 @@
 | Wirral West | Matthew Patrick MP | 4235 |
 | Witham | Rt Hon Priti Patel MP | 7064 |
 | Witney | Charlie Maynard MP | 5187 |
-| Woking | Mr Will Forster MP | 4417 |
+| Woking | Mr Will Forster MP | 4418 |
 | Wokingham | Clive Jones MP | 4893 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4461 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4378 |
@@ -626,7 +626,7 @@
 | Central Ayrshire | Alan Gemmell MP | 3169 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3291 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4595 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3759 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3760 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5814 |
 | Bangor Aberconwy | Claire Hughes MP | 4556 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3714 |
@@ -649,7 +649,7 @@
 | Monmouthshire | Catherine Fookes MP | 4784 |
 | Montgomeryshire and Glyndŵr | Steve Witherden MP | 6100 |
 | Neath and Swansea East | Carolyn Harris MP | 4528 |
-| Newport East | Jessica Morden MP | 4073 |
+| Newport East | Jessica Morden MP | 4074 |
 | Newport West and Islwyn | Ruth Jones MP | 4123 |
 | Pontypridd | Alex Davies-Jones MP | 3980 |
 | Rhondda and Ogmore | Sir Chris Bryant MP | 4117 |
