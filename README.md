@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3020742                                |
-| Last Updated      | 2025-05-08 01:37:58 UTC                                    |
+| Total Signatures   | 3020747                                |
+| Last Updated      | 2025-05-08 03:10:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -159,7 +159,7 @@
 | Easington | Grahame Morris MP | 5825 |
 | East Grinstead and Uckfield | Mims Davies MP | 6087 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1118 |
-| East Hampshire | Rt Hon Damian Hinds MP | 5372 |
+| East Hampshire | Rt Hon Damian Hinds MP | 5373 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6064 |
 | East Thanet | Ms Polly Billington MP | 5544 |
 | East Wiltshire | Danny Kruger MP | 6114 |
@@ -229,7 +229,7 @@
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5312 |
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6360 |
 | Hertford and Stortford | Josh Dean MP | 6022 |
-| Hertsmere | Rt Hon Sir Oliver Dowden MP | 5783 |
+| Hertsmere | Rt Hon Sir Oliver Dowden MP | 5784 |
 | Hexham | Joe Morris MP | 6443 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5319 |
 | High Peak | Jon Pearce MP | 5521 |
@@ -322,7 +322,7 @@
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5303 |
 | Newark | Rt Hon Robert Jenrick MP | 7201 |
 | Newbury | Mr Lee Dillon MP | 4933 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4568 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4569 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4825 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3985 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5136 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4883 |
 | Stockton West | Matt Vickers MP | 6028 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4805 |
-| Stoke-on-Trent North | David Williams MP | 5514 |
+| Stoke-on-Trent North | David Williams MP | 5515 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5776 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6583 |
 | Stourbridge | Cat Eccles MP | 5201 |
@@ -587,7 +587,7 @@
 | Coatbridge and Bellshill | Frank McNally MP | 2621 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2886 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2696 |
-| Dumfries and Galloway | John Cooper MP | 4069 |
+| Dumfries and Galloway | John Cooper MP | 4070 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3890 |
 | Dundee Central | Chris Law MP | 2578 |
 | Dunfermline and Dollar | Graeme Downie MP | 2959 |
