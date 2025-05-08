@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3020754                                |
-| Last Updated      | 2025-05-08 04:23:31 UTC                                    |
+| Total Signatures   | 3020760                                |
+| Last Updated      | 2025-05-08 05:19:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -55,7 +55,7 @@
 | Blyth and Ashington | Ian Lavery MP | 5923 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6197 |
 | Bolsover | Natalie Fleet MP | 6610 |
-| Bolton North East | Kirith Entwistle MP | 5670 |
+| Bolton North East | Kirith Entwistle MP | 5671 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4483 |
 | Bolton West | Phil Brickell MP | 5635 |
 | Bootle | Peter Dowd MP | 3207 |
@@ -234,9 +234,9 @@
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5319 |
 | High Peak | Jon Pearce MP | 5521 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6538 |
-| Hitchin | Alistair Strathern MP | 4944 |
+| Hitchin | Alistair Strathern MP | 4945 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2295 |
-| Honiton and Sidmouth | Richard Foord MP | 5311 |
+| Honiton and Sidmouth | Richard Foord MP | 5312 |
 | Hornchurch and Upminster | Julia Lopez MP | 6658 |
 | Hornsey and Friern Barnet | Catherine West MP | 1957 |
 | Horsham | John Milne MP | 5868 |
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5424 |
 | Maidenhead | Mr Joshua Reynolds MP | 5315 |
 | Maidstone and Malling | Helen Grant MP | 5889 |
-| Makerfield | Josh Simons MP | 5949 |
+| Makerfield | Josh Simons MP | 5950 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8157 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4024 |
 | Manchester Rusholme | Afzal Khan MP | 1236 |
@@ -323,7 +323,7 @@
 | Newark | Rt Hon Robert Jenrick MP | 7201 |
 | Newbury | Mr Lee Dillon MP | 4933 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4569 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4825 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4826 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3985 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5136 |
 | Newton Abbot | Martin Wrigley MP | 5157 |
@@ -608,7 +608,7 @@
 | Gordon and Buchan | Harriet Cross MP | 4429 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3173 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2784 |
-| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3649 |
+| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3650 |
 | Livingston | Gregor Poynton MP | 3447 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2886 |
 | Mid Dunbartonshire | Susan Murray MP | 2548 |
