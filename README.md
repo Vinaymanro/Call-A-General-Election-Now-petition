@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3021224                                |
-| Last Updated      | 2025-05-09 01:37:26 UTC                                    |
+| Total Signatures   | 3021231                                |
+| Last Updated      | 2025-05-09 03:09:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -35,7 +35,7 @@
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6211 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6178 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5082 |
-| Bicester and Woodstock | Calum Miller MP | 4709 |
+| Bicester and Woodstock | Calum Miller MP | 4710 |
 | Birkenhead | Alison McGovern MP | 4397 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2989 |
 | Birmingham Erdington | Paulette Hamilton MP | 4301 |
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1765 |
 | Colchester | Pam Cox MP | 5056 |
 | Colne Valley | Paul Davies MP | 5077 |
-| Congleton | Sarah Russell MP | 6027 |
+| Congleton | Sarah Russell MP | 6028 |
 | Corby and East Northamptonshire | Lee Barron MP | 6062 |
 | Coventry East | Mary Creagh MP | 3642 |
 | Coventry North West | Taiwo Owatemi MP | 4308 |
@@ -256,7 +256,7 @@
 | Keighley and Ilkley | Robbie Moore MP | 4743 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6136 |
 | Kensington and Bayswater | Joe Powell MP | 4420 |
-| Kettering | Rosie Wrighting MP | 5953 |
+| Kettering | Rosie Wrighting MP | 5954 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3780 |
 | Kingston upon Hull East | Karl Turner MP | 5070 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4692 |
@@ -358,7 +358,7 @@
 | Nottingham East | Nadia Whittome MP | 2509 |
 | Nottingham North and Kimberley | Alex Norris MP | 3773 |
 | Nottingham South | Lilian Greenwood MP | 3086 |
-| Nuneaton | Jodie Gosling MP | 5616 |
+| Nuneaton | Jodie Gosling MP | 5618 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6254 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5286 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4134 |
@@ -389,7 +389,7 @@
 | Redditch | Chris Bloore MP | 6152 |
 | Reigate | Rebecca Paul MP | 5573 |
 | Ribble Valley | Maya Ellis MP | 6769 |
-| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7155 |
+| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7156 |
 | Richmond Park | Sarah Olney MP | 4078 |
 | Rochdale | Paul Waugh MP | 3995 |
 | Rochester and Strood | Lauren Edwards MP | 6083 |
@@ -510,7 +510,7 @@
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4071 |
 | Walthamstow | Ms Stella Creasy MP | 1325 |
 | Warrington North | Charlotte Nichols MP | 5223 |
-| Warrington South | Sarah Hall MP | 5615 |
+| Warrington South | Sarah Hall MP | 5616 |
 | Warwick and Leamington | Matt Western MP | 4512 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5396 |
 | Watford | Matt Turmaine MP | 3768 |
