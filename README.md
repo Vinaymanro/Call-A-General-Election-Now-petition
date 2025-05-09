@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3021231                                |
-| Last Updated      | 2025-05-09 03:09:26 UTC                                    |
+| Total Signatures   | 3021239                                |
+| Last Updated      | 2025-05-09 04:23:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5839 |
 | Barrow and Furness | Michelle Scrogham MP | 5380 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6941 |
-| Basingstoke | Luke Murphy MP | 4864 |
+| Basingstoke | Luke Murphy MP | 4865 |
 | Bassetlaw | Jo White MP | 6824 |
 | Bath | Wera Hobhouse MP | 2987 |
 | Battersea | Marsha De Cordova MP | 3628 |
@@ -36,7 +36,7 @@
 | Bexhill and Battle | Dr Kieran Mullan MP | 6178 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5082 |
 | Bicester and Woodstock | Calum Miller MP | 4710 |
-| Birkenhead | Alison McGovern MP | 4397 |
+| Birkenhead | Alison McGovern MP | 4398 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2989 |
 | Birmingham Erdington | Paulette Hamilton MP | 4301 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1595 |
@@ -156,8 +156,8 @@
 | Ealing North | James Murray MP | 2601 |
 | Ealing Southall | Deirdre Costigan MP | 1972 |
 | Earley and Woodley | Yuan Yang MP | 3984 |
-| Easington | Grahame Morris MP | 5826 |
-| East Grinstead and Uckfield | Mims Davies MP | 6088 |
+| Easington | Grahame Morris MP | 5827 |
+| East Grinstead and Uckfield | Mims Davies MP | 6089 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1118 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5377 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6066 |
@@ -230,7 +230,7 @@
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6360 |
 | Hertford and Stortford | Josh Dean MP | 6026 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5785 |
-| Hexham | Joe Morris MP | 6443 |
+| Hexham | Joe Morris MP | 6444 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5321 |
 | High Peak | Jon Pearce MP | 5521 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6540 |
@@ -332,7 +332,7 @@
 | North Bedfordshire | Richard Fuller MP | 6144 |
 | North Cornwall | Ben Maguire MP | 6458 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6080 |
-| North Devon | Ian Roome MP | 5909 |
+| North Devon | Ian Roome MP | 5910 |
 | North Dorset | Simon Hoare MP | 6358 |
 | North Durham | Luke Akehurst MP | 5445 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6138 |
@@ -411,7 +411,7 @@
 | Sefton Central | Bill Esterson MP | 4072 |
 | Selby | Keir Mather MP | 6425 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6705 |
-| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3478 |
+| Sheffield Brightside and Hillsborough | Gill Furniss MP | 3479 |
 | Sheffield Central | Abtisam Mohamed MP | 1447 |
 | Sheffield Hallam | Olivia Blake MP | 3402 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3584 |
@@ -510,7 +510,7 @@
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4071 |
 | Walthamstow | Ms Stella Creasy MP | 1325 |
 | Warrington North | Charlotte Nichols MP | 5223 |
-| Warrington South | Sarah Hall MP | 5616 |
+| Warrington South | Sarah Hall MP | 5617 |
 | Warwick and Leamington | Matt Western MP | 4512 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5396 |
 | Watford | Matt Turmaine MP | 3768 |
