@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3021239                                |
-| Last Updated      | 2025-05-09 04:23:00 UTC                                    |
+| Total Signatures   | 3021244                                |
+| Last Updated      | 2025-05-09 05:18:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -195,7 +195,7 @@
 | Glastonbury and Somerton | Sarah Dyke MP | 5630 |
 | Gloucester | Alex McIntyre MP | 4584 |
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5262 |
-| Goole and Pocklington | Rt Hon David Davis MP | 7019 |
+| Goole and Pocklington | Rt Hon David Davis MP | 7020 |
 | Gorton and Denton | Andrew Gwynne MP | 3323 |
 | Gosport | Dame Caroline Dinenage MP | 5527 |
 | Grantham and Bourne | Gareth Davies MP | 6368 |
@@ -308,7 +308,7 @@
 | Mid Buckinghamshire | Greg Smith MP | 5626 |
 | Mid Cheshire | Andrew Cooper MP | 5216 |
 | Mid Derbyshire | Jonathan Davies MP | 5285 |
-| Mid Dorset and North Poole | Vikki Slade MP | 5926 |
+| Mid Dorset and North Poole | Vikki Slade MP | 5927 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5637 |
 | Mid Norfolk | George Freeman MP | 6330 |
 | Mid Sussex | Alison Bennett MP | 4732 |
@@ -421,7 +421,7 @@
 | Shrewsbury | Julia Buckley MP | 5364 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6932 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6720 |
-| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6336 |
+| Sleaford and North Hykeham | Dr Caroline Johnson MP | 6337 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2604 |
 | Smethwick | Gurinder Singh Josan MP | 3096 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5489 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6220 |
 | South Devon | Caroline Voaden MP | 5363 |
 | South Dorset | Lloyd Hatton MP | 5715 |
-| South East Cornwall | Anna Gelderd MP | 6294 |
+| South East Cornwall | Anna Gelderd MP | 6295 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7190 |
 | South Leicestershire | Alberto Costa MP | 7044 |
 | South Norfolk | Ben Goldsborough MP | 5477 |
@@ -536,7 +536,7 @@
 | Windsor | Jack Rankin MP | 5140 |
 | Wirral West | Matthew Patrick MP | 4235 |
 | Witham | Rt Hon Priti Patel MP | 7065 |
-| Witney | Charlie Maynard MP | 5189 |
+| Witney | Charlie Maynard MP | 5190 |
 | Woking | Mr Will Forster MP | 4418 |
 | Wokingham | Clive Jones MP | 4893 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4463 |
