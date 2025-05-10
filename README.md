@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3021859                                |
-| Last Updated      | 2025-05-10 12:34:29 UTC                                    |
+| Total Signatures   | 3021866                                |
+| Last Updated      | 2025-05-10 13:24:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -82,7 +82,7 @@
 | Bristol North West | Rt Hon Darren Jones MP | 3244 |
 | Bristol South | Karin Smyth MP | 4024 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5875 |
-| Bromley and Biggin Hill | Peter Fortune MP | 5282 |
+| Bromley and Biggin Hill | Peter Fortune MP | 5283 |
 | Bromsgrove | Bradley Thomas MP | 6522 |
 | Broxbourne | Lewis Cocking MP | 6132 |
 | Broxtowe | Juliet Campbell MP | 4744 |
@@ -102,7 +102,7 @@
 | Castle Point | Rebecca Harris MP | 7574 |
 | Central Devon | Rt Hon Sir Mel Stride MP | 5862 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5332 |
-| Chatham and Aylesford | Tristan Osborne MP | 5692 |
+| Chatham and Aylesford | Tristan Osborne MP | 5693 |
 | Cheadle | Tom Morrison MP | 4698 |
 | Chelmsford | Marie Goldman MP | 5308 |
 | Chelsea and Fulham | Ben Coleman MP | 5520 |
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 6090 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1119 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5378 |
-| East Surrey | Rt Hon Claire Coutinho MP | 6068 |
+| East Surrey | Rt Hon Claire Coutinho MP | 6069 |
 | East Thanet | Ms Polly Billington MP | 5545 |
 | East Wiltshire | Danny Kruger MP | 6114 |
 | East Worthing and Shoreham | Tom Rutland MP | 4653 |
@@ -447,7 +447,7 @@
 | Southampton Itchen | Darren Paffey MP | 4606 |
 | Southampton Test | Satvir Kaur MP | 3445 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5648 |
-| Southend West and Leigh | David Burton-Sampson MP | 5921 |
+| Southend West and Leigh | David Burton-Sampson MP | 5922 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2614 |
 | Southport | Patrick Hurley MP | 6044 |
 | Spelthorne | Lincoln Jopp MP | 5505 |
@@ -460,7 +460,7 @@
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4842 |
 | Stafford | Leigh Ingham MP | 5666 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6466 |
-| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5411 |
+| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5412 |
 | Stevenage | Kevin Bonavia MP | 4785 |
 | Stockport | Navendu Mishra MP | 3966 |
 | Stockton North | Chris McDonald MP | 4885 |
@@ -630,7 +630,7 @@
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5818 |
 | Bangor Aberconwy | Claire Hughes MP | 4561 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3715 |
-| Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5325 |
+| Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5326 |
 | Bridgend | Chris Elmore MP | 4305 |
 | Caerfyrddin | Ann Davies MP | 5261 |
 | Caerphilly | Chris Evans MP | 4077 |
@@ -654,7 +654,7 @@
 | Pontypridd | Alex Davies-Jones MP | 3982 |
 | Rhondda and Ogmore | Chris Bryant MP | 4123 |
 | Swansea West | Torsten Bell MP | 3717 |
-| Torfaen | Rt Hon Nick Thomas-Symonds MP | 4130 |
+| Torfaen | Rt Hon Nick Thomas-Symonds MP | 4131 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4676 |
 | Wrexham | Andrew Ranger MP | 4858 |
 | Ynys Môn | Llinos Medi MP | 3761 |
