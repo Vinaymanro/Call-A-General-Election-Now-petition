@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3021702                                |
-| Last Updated      | 2025-05-10 03:03:21 UTC                                    |
+| Total Signatures   | 3021711                                |
+| Last Updated      | 2025-05-10 04:21:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5633 |
 | Dorking and Horley | Chris Coghlan MP | 5576 |
 | Dover and Deal | Mike Tapp MP | 5997 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6609 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6610 |
 | Dudley | Sonia Kumar MP | 5453 |
 | Dulwich and West Norwood | Helen Hayes MP | 1573 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5570 |
@@ -179,7 +179,7 @@
 | Exeter | Steve Race MP | 3214 |
 | Exmouth and Exeter East | David Reed MP | 5251 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6187 |
-| Farnham and Bordon | Gregory Stafford MP | 5215 |
+| Farnham and Bordon | Gregory Stafford MP | 5216 |
 | Faversham and Mid Kent | Helen Whately MP | 6277 |
 | Feltham and Heston | Seema Malhotra MP | 2956 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4553 |
@@ -214,7 +214,7 @@
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4740 |
 | Harlow | Chris Vince MP | 6122 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4562 |
-| Harrogate and Knaresborough | Tom Gordon MP | 5158 |
+| Harrogate and Knaresborough | Tom Gordon MP | 5159 |
 | Harrow East | Bob Blackman MP | 3150 |
 | Harrow West | Gareth Thomas MP | 2419 |
 | Hartlepool | Mr Jonathan Brash MP | 5717 |
@@ -379,7 +379,7 @@
 | Portsmouth North | Amanda Martin MP | 5691 |
 | Portsmouth South | Stephen Morgan MP | 3930 |
 | Preston | Sir Mark Hendrick MP | 3852 |
-| Putney | Fleur Anderson MP | 3536 |
+| Putney | Fleur Anderson MP | 3537 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2172 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5185 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7393 |
@@ -402,7 +402,7 @@
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4123 |
 | Runcorn and Helsby | Sarah Pochin MP | 5087 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5872 |
-| Rushcliffe | James Naish MP | 5108 |
+| Rushcliffe | James Naish MP | 5110 |
 | Rutland and Stamford | Alicia Kearns MP | 6296 |
 | Salford | Rebecca Long Bailey MP | 4705 |
 | Salisbury | Rt Hon John Glen MP | 4785 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3771 |
 | Waveney Valley | Adrian Ramsay MP | 5898 |
 | Weald of Kent | Katie Lam MP | 7279 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5144 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5145 |
 | Wells and Mendip Hills | Tessa Munt MP | 5297 |
 | Welwyn Hatfield | Andrew Lewin MP | 5101 |
 | West Bromwich | Sarah Coombes MP | 3821 |
@@ -552,7 +552,7 @@
 | York Central | Rachael Maskell MP | 3306 |
 | York Outer | Mr Luke Charters MP | 4376 |
 | Belfast East | Rt Hon Gavin Robinson MP | 2974 |
-| Belfast North | John Finucane MP | 2540 |
+| Belfast North | John Finucane MP | 2541 |
 | Belfast South and Mid Down | Claire Hanna MP | 1954 |
 | Belfast West | Paul Maskey MP | 1429 |
 | East Antrim | Rt Hon Sammy Wilson MP | 3621 |
@@ -619,7 +619,7 @@
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2674 |
 | Perth and Kinross-shire | Pete Wishart MP | 3537 |
 | Rutherglen | Michael Shanks MP | 2606 |
-| Stirling and Strathallan | Chris Kane MP | 3248 |
+| Stirling and Strathallan | Chris Kane MP | 3249 |
 | West Dunbartonshire | Douglas McAllister MP | 2766 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3575 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4065 |
