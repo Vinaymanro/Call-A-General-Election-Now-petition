@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3021711                                |
-| Last Updated      | 2025-05-10 04:21:10 UTC                                    |
+| Total Signatures   | 3021718                                |
+| Last Updated      | 2025-05-10 05:17:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -116,7 +116,7 @@
 | Chippenham | Sarah Gibson MP | 4785 |
 | Chipping Barnet | Dan Tomlinson MP | 4369 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5559 |
-| Christchurch | Sir Christopher Chope MP | 5889 |
+| Christchurch | Sir Christopher Chope MP | 5890 |
 | Cities of London and Westminster | Rachel Blake MP | 5199 |
 | City of Durham | Mary Kelly Foy MP | 4290 |
 | Clacton | Nigel Farage MP | 8150 |
@@ -179,7 +179,7 @@
 | Exeter | Steve Race MP | 3214 |
 | Exmouth and Exeter East | David Reed MP | 5251 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6187 |
-| Farnham and Bordon | Gregory Stafford MP | 5216 |
+| Farnham and Bordon | Gregory Stafford MP | 5217 |
 | Faversham and Mid Kent | Helen Whately MP | 6277 |
 | Feltham and Heston | Seema Malhotra MP | 2956 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4553 |
@@ -312,8 +312,8 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5640 |
 | Mid Norfolk | George Freeman MP | 6330 |
 | Mid Sussex | Alison Bennett MP | 4732 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4279 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5771 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4280 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5772 |
 | Milton Keynes Central | Emily Darlington MP | 4981 |
 | Milton Keynes North | Chris Curtis MP | 4606 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2694 |
@@ -325,7 +325,7 @@
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4571 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4827 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3986 |
-| Newcastle-under-Lyme | Adam Jogee MP | 5137 |
+| Newcastle-under-Lyme | Adam Jogee MP | 5138 |
 | Newton Abbot | Martin Wrigley MP | 5158 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5593 |
 | Normanton and Hemsworth | Jon Trickett MP | 5565 |
@@ -392,7 +392,7 @@
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7157 |
 | Richmond Park | Sarah Olney MP | 4078 |
 | Rochdale | Paul Waugh MP | 3995 |
-| Rochester and Strood | Lauren Edwards MP | 6084 |
+| Rochester and Strood | Lauren Edwards MP | 6085 |
 | Romford | Andrew Rosindell MP | 5838 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5106 |
 | Rossendale and Darwen | Andy MacNae MP | 6565 |
@@ -414,7 +414,7 @@
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3479 |
 | Sheffield Central | Abtisam Mohamed MP | 1447 |
 | Sheffield Hallam | Olivia Blake MP | 3402 |
-| Sheffield Heeley | Rt Hon Louise Haigh MP | 3584 |
+| Sheffield Heeley | Rt Hon Louise Haigh MP | 3585 |
 | Sheffield South East | Mr Clive Betts MP | 4780 |
 | Sherwood Forest | Michelle Welsh MP | 6724 |
 | Shipley | Anna Dixon MP | 4930 |
