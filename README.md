@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3021696                                |
-| Last Updated      | 2025-05-10 01:26:10 UTC                                    |
+| Total Signatures   | 3021702                                |
+| Last Updated      | 2025-05-10 03:03:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -20,7 +20,7 @@
 | Banbury | Sean Woodcock MP | 5498 |
 | Barking | Nesil Caliskan MP | 2672 |
 | Barnsley North | Dan Jarvis MP | 5762 |
-| Barnsley South | Stephanie Peacock MP | 5840 |
+| Barnsley South | Stephanie Peacock MP | 5841 |
 | Barrow and Furness | Michelle Scrogham MP | 5382 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6942 |
 | Basingstoke | Luke Murphy MP | 4867 |
@@ -81,7 +81,7 @@
 | Bristol North East | Damien Egan MP | 3126 |
 | Bristol North West | Rt Hon Darren Jones MP | 3244 |
 | Bristol South | Karin Smyth MP | 4024 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5874 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5875 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5281 |
 | Bromsgrove | Bradley Thomas MP | 6522 |
 | Broxbourne | Lewis Cocking MP | 6132 |
@@ -309,7 +309,7 @@
 | Mid Cheshire | Andrew Cooper MP | 5216 |
 | Mid Derbyshire | Jonathan Davies MP | 5286 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5929 |
-| Mid Leicestershire | Mr Peter Bedford MP | 5639 |
+| Mid Leicestershire | Mr Peter Bedford MP | 5640 |
 | Mid Norfolk | George Freeman MP | 6330 |
 | Mid Sussex | Alison Bennett MP | 4732 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4279 |
@@ -467,7 +467,7 @@
 | Stockton West | Matt Vickers MP | 6029 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4806 |
 | Stoke-on-Trent North | David Williams MP | 5517 |
-| Stoke-on-Trent South | Dr Allison Gardner MP | 5778 |
+| Stoke-on-Trent South | Dr Allison Gardner MP | 5779 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6584 |
 | Stourbridge | Cat Eccles MP | 5201 |
 | Stratford and Bow | Uma Kumaran MP | 1788 |
@@ -497,7 +497,7 @@
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5979 |
 | Tooting | Dr Rosena Allin-Khan MP | 2710 |
 | Torbay | Steve Darling MP | 5902 |
-| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6632 |
+| Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6633 |
 | Tottenham | Rt Hon David Lammy MP | 1706 |
 | Truro and Falmouth | Jayne Kirkham MP | 4640 |
 | Tunbridge Wells | Mike Martin MP | 5495 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5136 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6621 |
 | Whitehaven and Workington | Josh MacAlister MP | 5952 |
-| Widnes and Halewood | Derek Twigg MP | 4297 |
+| Widnes and Halewood | Derek Twigg MP | 4298 |
 | Wigan | Rt Hon Lisa Nandy MP | 6031 |
 | Wimbledon | Mr Paul Kohler MP | 3429 |
 | Winchester | Dr Danny Chambers MP | 4951 |
