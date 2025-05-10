@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3021960                                |
-| Last Updated      | 2025-05-10 18:23:13 UTC                                    |
+| Total Signatures   | 3021973                                |
+| Last Updated      | 2025-05-10 19:13:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -114,7 +114,7 @@
 | Chichester | Jess Brown-Fuller MP | 5974 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4199 |
 | Chippenham | Sarah Gibson MP | 4786 |
-| Chipping Barnet | Dan Tomlinson MP | 4369 |
+| Chipping Barnet | Dan Tomlinson MP | 4370 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5559 |
 | Christchurch | Sir Christopher Chope MP | 5891 |
 | Cities of London and Westminster | Rachel Blake MP | 5199 |
@@ -122,7 +122,7 @@
 | Clacton | Nigel Farage MP | 8150 |
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1765 |
 | Colchester | Pam Cox MP | 5058 |
-| Colne Valley | Paul Davies MP | 5077 |
+| Colne Valley | Paul Davies MP | 5078 |
 | Congleton | Sarah Russell MP | 6029 |
 | Corby and East Northamptonshire | Lee Barron MP | 6064 |
 | Coventry East | Mary Creagh MP | 3642 |
@@ -165,7 +165,7 @@
 | East Wiltshire | Danny Kruger MP | 6114 |
 | East Worthing and Shoreham | Tom Rutland MP | 4653 |
 | Eastbourne | Josh Babarinde MP | 5082 |
-| Eastleigh | Liz Jarvis MP | 4367 |
+| Eastleigh | Liz Jarvis MP | 4368 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2246 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4499 |
 | Eltham and Chislehurst | Clive Efford MP | 4739 |
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1538 |
 | Halesowen | Alex Ballinger MP | 5050 |
 | Halifax | Kate Dearden MP | 4787 |
-| Hamble Valley | Paul Holmes MP | 6191 |
+| Hamble Valley | Paul Holmes MP | 6192 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3213 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2990 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4740 |
@@ -221,7 +221,7 @@
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6321 |
 | Hastings and Rye | Helena Dollimore MP | 5112 |
 | Havant | Alan Mak MP | 5730 |
-| Hayes and Harlington | Rt Hon John McDonnell MP | 2623 |
+| Hayes and Harlington | Rt Hon John McDonnell MP | 2624 |
 | Hazel Grove | Lisa Smart MP | 5160 |
 | Hemel Hempstead | David Taylor MP | 5114 |
 | Hendon | David Pinto-Duschinsky MP | 3819 |
@@ -310,7 +310,7 @@
 | Mid Derbyshire | Jonathan Davies MP | 5286 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5929 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5642 |
-| Mid Norfolk | George Freeman MP | 6331 |
+| Mid Norfolk | George Freeman MP | 6332 |
 | Mid Sussex | Alison Bennett MP | 4733 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4281 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5772 |
@@ -325,7 +325,7 @@
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4572 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4827 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3987 |
-| Newcastle-under-Lyme | Adam Jogee MP | 5138 |
+| Newcastle-under-Lyme | Adam Jogee MP | 5139 |
 | Newton Abbot | Martin Wrigley MP | 5159 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5595 |
 | Normanton and Hemsworth | Jon Trickett MP | 5565 |
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6255 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5286 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4135 |
-| Orpington | Gareth Bacon MP | 5354 |
+| Orpington | Gareth Bacon MP | 5355 |
 | Ossett and Denby Dale | Jade Botterill MP | 5852 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2176 |
 | Oxford West and Abingdon | Layla Moran MP | 2948 |
@@ -404,7 +404,7 @@
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5872 |
 | Rushcliffe | James Naish MP | 5110 |
 | Rutland and Stamford | Alicia Kearns MP | 6297 |
-| Salford | Rebecca Long Bailey MP | 4708 |
+| Salford | Rebecca Long Bailey MP | 4709 |
 | Salisbury | Rt Hon John Glen MP | 4785 |
 | Scarborough and Whitby | Alison Hume MP | 6071 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5136 |
@@ -415,7 +415,7 @@
 | Sheffield Central | Abtisam Mohamed MP | 1447 |
 | Sheffield Hallam | Olivia Blake MP | 3402 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3586 |
-| Sheffield South East | Mr Clive Betts MP | 4780 |
+| Sheffield South East | Mr Clive Betts MP | 4781 |
 | Sherwood Forest | Michelle Welsh MP | 6725 |
 | Shipley | Anna Dixon MP | 4930 |
 | Shrewsbury | Julia Buckley MP | 5368 |
@@ -455,7 +455,7 @@
 | St Albans | Daisy Cooper MP | 3893 |
 | St Austell and Newquay | Noah Law MP | 5685 |
 | St Helens North | David Baines MP | 4773 |
-| St Helens South and Whiston | Ms Marie Rimmer MP | 4232 |
+| St Helens South and Whiston | Ms Marie Rimmer MP | 4233 |
 | St Ives | Andrew George MP | 5139 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4842 |
 | Stafford | Leigh Ingham MP | 5667 |
@@ -491,7 +491,7 @@
 | The Wrekin | Rt Hon Mark Pritchard MP | 6457 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7484 |
 | Thornbury and Yate | Claire Young MP | 5737 |
-| Thurrock | Jen Craft MP | 5171 |
+| Thurrock | Jen Craft MP | 5172 |
 | Tipton and Wednesbury | Antonia Bance MP | 4986 |
 | Tiverton and Minehead | Rachel Gilmour MP | 5999 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5979 |
@@ -543,7 +543,7 @@
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4379 |
 | Wolverhampton West | Warinder Juss | 3874 |
 | Worcester | Tom Collins MP | 4370 |
-| Worsley and Eccles | Michael Wheeler MP | 5503 |
+| Worsley and Eccles | Michael Wheeler MP | 5504 |
 | Worthing West | Dr Beccy Cooper MP | 5297 |
 | Wycombe | Emma Reynolds MP | 3654 |
 | Wyre Forest | Mark Garnier MP | 6549 |
