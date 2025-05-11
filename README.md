@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022359                                |
-| Last Updated      | 2025-05-11 22:17:07 UTC                                    |
+| Total Signatures   | 3022368                                |
+| Last Updated      | 2025-05-11 23:16:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -218,7 +218,7 @@
 | Harrow East | Bob Blackman MP | 3151 |
 | Harrow West | Gareth Thomas MP | 2419 |
 | Hartlepool | Mr Jonathan Brash MP | 5718 |
-| Harwich and North Essex | Sir Bernard Jenkin MP | 6321 |
+| Harwich and North Essex | Sir Bernard Jenkin MP | 6322 |
 | Hastings and Rye | Helena Dollimore MP | 5112 |
 | Havant | Alan Mak MP | 5732 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2624 |
@@ -350,7 +350,7 @@
 | North West Essex | Rt Hon Kemi Badenoch MP | 7174 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5769 |
 | North West Leicestershire | Amanda Hack MP | 6766 |
-| North West Norfolk | James Wild MP | 5810 |
+| North West Norfolk | James Wild MP | 5811 |
 | Northampton North | Lucy Rigby KC MP | 4327 |
 | Northampton South | Mike Reader MP | 5007 |
 | Norwich North | Alice Macdonald MP | 4464 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5495 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6252 |
 | Peterborough | Andrew Pakes MP | 4205 |
-| Plymouth Moor View | Fred Thomas MP | 5770 |
+| Plymouth Moor View | Fred Thomas MP | 5772 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4823 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5527 |
 | Poole | Neil Duncan-Jordan MP | 5717 |
@@ -400,7 +400,7 @@
 | Rotherham | Sarah Champion MP | 5001 |
 | Rugby | John Slinger MP | 5467 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4127 |
-| Runcorn and Helsby | Sarah Pochin MP | 5088 |
+| Runcorn and Helsby | Sarah Pochin MP | 5089 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5873 |
 | Rushcliffe | James Naish MP | 5110 |
 | Rutland and Stamford | Alicia Kearns MP | 6297 |
@@ -440,7 +440,7 @@
 | South Shields | Emma Lewell MP | 4780 |
 | South Shropshire | Stuart Anderson MP | 7362 |
 | South Suffolk | James Cartlidge MP | 6192 |
-| South West Devon | Rebecca Smith MP | 6031 |
+| South West Devon | Rebecca Smith MP | 6032 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5248 |
 | South West Norfolk | Terry Jermy MP | 6585 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5256 |
@@ -522,7 +522,7 @@
 | West Bromwich | Sarah Coombes MP | 3821 |
 | West Dorset | Edward Morello MP | 5493 |
 | West Ham and Beckton | James Asser MP | 2181 |
-| West Lancashire | Ashley Dalton MP | 5114 |
+| West Lancashire | Ashley Dalton MP | 5115 |
 | West Suffolk | Nick Timothy MP | 6085 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6309 |
 | Westmorland and Lonsdale | Tim Farron MP | 5229 |
@@ -581,7 +581,7 @@
 | Alloa and Grangemouth | Brian Leishman MP | 3053 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4084 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3500 |
-| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3447 |
+| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3448 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3059 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4109 |
 | Coatbridge and Bellshill | Frank McNally MP | 2625 |
@@ -632,7 +632,7 @@
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3716 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5326 |
 | Bridgend | Chris Elmore MP | 4305 |
-| Caerfyrddin | Ann Davies MP | 5262 |
+| Caerfyrddin | Ann Davies MP | 5263 |
 | Caerphilly | Chris Evans MP | 4078 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2954 |
 | Cardiff North | Anna McMorrin MP | 3318 |
