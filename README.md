@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022069                                |
-| Last Updated      | 2025-05-11 06:25:46 UTC                                    |
+| Total Signatures   | 3022077                                |
+| Last Updated      | 2025-05-11 07:17:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -197,7 +197,7 @@
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5263 |
 | Goole and Pocklington | Rt Hon David Davis MP | 7020 |
 | Gorton and Denton | Andrew Gwynne MP | 3325 |
-| Gosport | Dame Caroline Dinenage MP | 5529 |
+| Gosport | Dame Caroline Dinenage MP | 5530 |
 | Grantham and Bourne | Gareth Davies MP | 6368 |
 | Gravesham | Dr Lauren Sullivan MP | 5210 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5873 |
@@ -233,7 +233,7 @@
 | Hexham | Joe Morris MP | 6444 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5323 |
 | High Peak | Jon Pearce MP | 5522 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6542 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6543 |
 | Hitchin | Alistair Strathern MP | 4949 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2296 |
 | Honiton and Sidmouth | Richard Foord MP | 5313 |
@@ -320,10 +320,10 @@
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5820 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5484 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5308 |
-| Newark | Rt Hon Robert Jenrick MP | 7204 |
+| Newark | Rt Hon Robert Jenrick MP | 7205 |
 | Newbury | Mr Lee Dillon MP | 4933 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4572 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4827 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4828 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3987 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5140 |
 | Newton Abbot | Martin Wrigley MP | 5159 |
@@ -389,7 +389,7 @@
 | Redditch | Chris Bloore MP | 6154 |
 | Reigate | Rebecca Paul MP | 5574 |
 | Ribble Valley | Maya Ellis MP | 6772 |
-| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7159 |
+| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7160 |
 | Richmond Park | Sarah Olney MP | 4078 |
 | Rochdale | Paul Waugh MP | 3995 |
 | Rochester and Strood | Lauren Edwards MP | 6086 |
@@ -477,7 +477,7 @@
 | Stroud | Dr Simon Opher MP | 4570 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5429 |
 | Sunderland Central | Lewis Atkinson MP | 5314 |
-| Surrey Heath | Dr Al Pinkerton MP | 5467 |
+| Surrey Heath | Dr Al Pinkerton MP | 5468 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6148 |
 | Sutton and Cheam | Luke Taylor MP | 4420 |
 | Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5702 |
@@ -575,7 +575,7 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3323 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1451 |
 | Aberdeen North | Kirsty Blackman MP | 3587 |
-| Aberdeen South | Rt Hon Stephen Flynn MP | 3876 |
+| Aberdeen South | Rt Hon Stephen Flynn MP | 3877 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4713 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2859 |
 | Alloa and Grangemouth | Brian Leishman MP | 3053 |
@@ -643,7 +643,7 @@
 | Clwyd North | Gill German MP | 5533 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4270 |
 | Gower | Tonia Antoniazzi MP | 4820 |
-| Llanelli | Dame Nia Griffith MP | 5311 |
+| Llanelli | Dame Nia Griffith MP | 5312 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3784 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5541 |
 | Monmouthshire | Catherine Fookes MP | 4786 |
