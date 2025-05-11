@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022050                                |
-| Last Updated      | 2025-05-11 01:42:20 UTC                                    |
+| Total Signatures   | 3022054                                |
+| Last Updated      | 2025-05-11 03:13:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -61,7 +61,7 @@
 | Bootle | Peter Dowd MP | 3210 |
 | Boston and Skegness | Richard Tice MP | 7149 |
 | Bournemouth East | Tom Hayes MP | 4708 |
-| Bournemouth West | Jessica Toale MP | 4958 |
+| Bournemouth West | Jessica Toale MP | 4959 |
 | Bracknell | Peter Swallow MP | 5019 |
 | Bradford East | Imran Hussain MP | 2943 |
 | Bradford South | Judith Cummins MP | 4239 |
@@ -307,7 +307,7 @@
 | Mid Bedfordshire | Blake Stephenson MP | 5878 |
 | Mid Buckinghamshire | Greg Smith MP | 5627 |
 | Mid Cheshire | Andrew Cooper MP | 5216 |
-| Mid Derbyshire | Jonathan Davies MP | 5286 |
+| Mid Derbyshire | Jonathan Davies MP | 5287 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5930 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5642 |
 | Mid Norfolk | George Freeman MP | 6333 |
@@ -498,11 +498,11 @@
 | Tooting | Dr Rosena Allin-Khan MP | 2710 |
 | Torbay | Steve Darling MP | 5903 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6633 |
-| Tottenham | Rt Hon David Lammy MP | 1706 |
+| Tottenham | Rt Hon David Lammy MP | 1707 |
 | Truro and Falmouth | Jayne Kirkham MP | 4641 |
 | Tunbridge Wells | Mike Martin MP | 5495 |
 | Twickenham | Munira Wilson MP | 3677 |
-| Tynemouth | Rt Hon Sir Alan Campbell MP | 4523 |
+| Tynemouth | Rt Hon Sir Alan Campbell MP | 4524 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4520 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1693 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4974 |
