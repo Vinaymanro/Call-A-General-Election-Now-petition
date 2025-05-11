@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022061                                |
-| Last Updated      | 2025-05-11 05:17:50 UTC                                    |
+| Total Signatures   | 3022069                                |
+| Last Updated      | 2025-05-11 06:25:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -162,7 +162,7 @@
 | East Hampshire | Rt Hon Damian Hinds MP | 5378 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6069 |
 | East Thanet | Ms Polly Billington MP | 5545 |
-| East Wiltshire | Danny Kruger MP | 6114 |
+| East Wiltshire | Danny Kruger MP | 6115 |
 | East Worthing and Shoreham | Tom Rutland MP | 4653 |
 | Eastbourne | Josh Babarinde MP | 5082 |
 | Eastleigh | Liz Jarvis MP | 4369 |
@@ -212,7 +212,7 @@
 | Hammersmith and Chiswick | Andy Slaughter MP | 3213 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2990 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4740 |
-| Harlow | Chris Vince MP | 6123 |
+| Harlow | Chris Vince MP | 6124 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4562 |
 | Harrogate and Knaresborough | Tom Gordon MP | 5161 |
 | Harrow East | Bob Blackman MP | 3150 |
@@ -331,7 +331,7 @@
 | Normanton and Hemsworth | Jon Trickett MP | 5565 |
 | North Bedfordshire | Richard Fuller MP | 6144 |
 | North Cornwall | Ben Maguire MP | 6459 |
-| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6084 |
+| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6085 |
 | North Devon | Ian Roome MP | 5910 |
 | North Dorset | Simon Hoare MP | 6360 |
 | North Durham | Luke Akehurst MP | 5447 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6936 |
 | North Somerset | Sadik Al-Hassan MP | 4614 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6329 |
-| North West Cambridgeshire | Sam Carling MP | 6068 |
+| North West Cambridgeshire | Sam Carling MP | 6069 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7174 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5769 |
 | North West Leicestershire | Amanda Hack MP | 6766 |
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7393 |
 | Reading Central | Matt Rodda MP | 3049 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4472 |
-| Redcar | Anna Turley MP | 5514 |
+| Redcar | Anna Turley MP | 5515 |
 | Redditch | Chris Bloore MP | 6154 |
 | Reigate | Rebecca Paul MP | 5574 |
 | Ribble Valley | Maya Ellis MP | 6772 |
@@ -502,7 +502,7 @@
 | Truro and Falmouth | Jayne Kirkham MP | 4641 |
 | Tunbridge Wells | Mike Martin MP | 5495 |
 | Twickenham | Munira Wilson MP | 3677 |
-| Tynemouth | Rt Hon Sir Alan Campbell MP | 4524 |
+| Tynemouth | Rt Hon Sir Alan Campbell MP | 4525 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4520 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1693 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4974 |
@@ -642,7 +642,7 @@
 | Clwyd East | Becky Gittins MP | 6106 |
 | Clwyd North | Gill German MP | 5533 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4270 |
-| Gower | Tonia Antoniazzi MP | 4819 |
+| Gower | Tonia Antoniazzi MP | 4820 |
 | Llanelli | Dame Nia Griffith MP | 5311 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3784 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5541 |
@@ -652,7 +652,7 @@
 | Newport East | Jessica Morden MP | 4077 |
 | Newport West and Islwyn | Ruth Jones MP | 4125 |
 | Pontypridd | Alex Davies-Jones MP | 3982 |
-| Rhondda and Ogmore | Chris Bryant MP | 4125 |
+| Rhondda and Ogmore | Chris Bryant MP | 4126 |
 | Swansea West | Torsten Bell MP | 3717 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4131 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4676 |
