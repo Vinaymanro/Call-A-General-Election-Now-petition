@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022058                                |
-| Last Updated      | 2025-05-11 04:22:05 UTC                                    |
+| Total Signatures   | 3022061                                |
+| Last Updated      | 2025-05-11 05:17:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -176,7 +176,7 @@
 | Erewash | Adam Thompson MP | 5897 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3246 |
 | Esher and Walton | Monica Harding MP | 4846 |
-| Exeter | Steve Race MP | 3214 |
+| Exeter | Steve Race MP | 3215 |
 | Exmouth and Exeter East | David Reed MP | 5252 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6187 |
 | Farnham and Bordon | Gregory Stafford MP | 5217 |
@@ -262,7 +262,7 @@
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4695 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5559 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6444 |
-| Knowsley | Anneliese Midgley MP | 3333 |
+| Knowsley | Anneliese Midgley MP | 3335 |
 | Lancaster and Wyre | Cat Smith MP | 5128 |
 | Leeds Central and Headingley | Alex Sobel MP | 1956 |
 | Leeds East | Richard Burgon MP | 4346 |
