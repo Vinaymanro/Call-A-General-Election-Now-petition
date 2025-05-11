@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022054                                |
-| Last Updated      | 2025-05-11 03:13:50 UTC                                    |
+| Total Signatures   | 3022058                                |
+| Last Updated      | 2025-05-11 04:22:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -158,7 +158,7 @@
 | Earley and Woodley | Yuan Yang MP | 3984 |
 | Easington | Grahame Morris MP | 5828 |
 | East Grinstead and Uckfield | Mims Davies MP | 6090 |
-| East Ham | Rt Hon Sir Stephen Timms MP | 1119 |
+| East Ham | Rt Hon Sir Stephen Timms MP | 1120 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5378 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6069 |
 | East Thanet | Ms Polly Billington MP | 5545 |
@@ -270,7 +270,7 @@
 | Leeds North West | Katie White MP | 4428 |
 | Leeds South | Rt Hon Hilary Benn MP | 3922 |
 | Leeds South West and Morley | Mark Sewards MP | 5561 |
-| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3835 |
+| Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3836 |
 | Leicester East | Shivani Raja MP | 1912 |
 | Leicester South | Shockat Adam MP | 1884 |
 | Leicester West | Rt Hon Liz Kendall MP | 3516 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 6071 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5136 |
 | Sefton Central | Bill Esterson MP | 4073 |
-| Selby | Keir Mather MP | 6427 |
+| Selby | Keir Mather MP | 6428 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6707 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3479 |
 | Sheffield Central | Abtisam Mohamed MP | 1447 |
@@ -626,7 +626,7 @@
 | Central Ayrshire | Alan Gemmell MP | 3169 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3292 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4595 |
-| Aberafan Maesteg | Stephen Kinnock MP | 3765 |
+| Aberafan Maesteg | Stephen Kinnock MP | 3766 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5818 |
 | Bangor Aberconwy | Claire Hughes MP | 4562 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3715 |
