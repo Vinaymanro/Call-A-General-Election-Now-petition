@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022531                                |
-| Last Updated      | 2025-05-12 13:31:21 UTC                                    |
+| Total Signatures   | 3022537                                |
+| Last Updated      | 2025-05-12 14:19:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -70,7 +70,7 @@
 | Brent East | Dawn Butler MP | 1886 |
 | Brent West | Barry Gardiner MP | 2115 |
 | Brentford and Isleworth | Ruth Cadbury MP | 3026 |
-| Brentwood and Ongar | Alex Burghart MP | 8178 |
+| Brentwood and Ongar | Alex Burghart MP | 8179 |
 | Bridgwater | Sir Ashley Fox MP | 5828 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6681 |
 | Brigg and Immingham | Martin Vickers MP | 6520 |
@@ -102,7 +102,7 @@
 | Castle Point | Rebecca Harris MP | 7574 |
 | Central Devon | Rt Hon Sir Mel Stride MP | 5864 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5332 |
-| Chatham and Aylesford | Tristan Osborne MP | 5697 |
+| Chatham and Aylesford | Tristan Osborne MP | 5698 |
 | Cheadle | Tom Morrison MP | 4699 |
 | Chelmsford | Marie Goldman MP | 5308 |
 | Chelsea and Fulham | Ben Coleman MP | 5520 |
@@ -331,7 +331,7 @@
 | Normanton and Hemsworth | Jon Trickett MP | 5576 |
 | North Bedfordshire | Richard Fuller MP | 6144 |
 | North Cornwall | Ben Maguire MP | 6460 |
-| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6086 |
+| North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6087 |
 | North Devon | Ian Roome MP | 5910 |
 | North Dorset | Simon Hoare MP | 6361 |
 | North Durham | Luke Akehurst MP | 5447 |
@@ -391,7 +391,7 @@
 | Ribble Valley | Maya Ellis MP | 6774 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7160 |
 | Richmond Park | Sarah Olney MP | 4078 |
-| Rochdale | Paul Waugh MP | 3995 |
+| Rochdale | Paul Waugh MP | 3996 |
 | Rochester and Strood | Lauren Edwards MP | 6087 |
 | Romford | Andrew Rosindell MP | 5840 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5106 |
@@ -403,7 +403,7 @@
 | Runcorn and Helsby | Sarah Pochin MP | 5090 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5873 |
 | Rushcliffe | James Naish MP | 5110 |
-| Rutland and Stamford | Alicia Kearns MP | 6297 |
+| Rutland and Stamford | Alicia Kearns MP | 6298 |
 | Salford | Rebecca Long Bailey MP | 4709 |
 | Salisbury | Rt Hon John Glen MP | 4788 |
 | Scarborough and Whitby | Alison Hume MP | 6072 |
@@ -575,7 +575,7 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3324 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1451 |
 | Aberdeen North | Kirsty Blackman MP | 3590 |
-| Aberdeen South | Rt Hon Stephen Flynn MP | 3877 |
+| Aberdeen South | Rt Hon Stephen Flynn MP | 3878 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4713 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2859 |
 | Alloa and Grangemouth | Brian Leishman MP | 3053 |
