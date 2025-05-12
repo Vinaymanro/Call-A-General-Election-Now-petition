@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022377                                |
-| Last Updated      | 2025-05-12 04:23:54 UTC                                    |
+| Total Signatures   | 3022379                                |
+| Last Updated      | 2025-05-12 05:19:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -465,7 +465,7 @@
 | Stockport | Navendu Mishra MP | 3966 |
 | Stockton North | Chris McDonald MP | 4886 |
 | Stockton West | Matt Vickers MP | 6031 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4808 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4809 |
 | Stoke-on-Trent North | David Williams MP | 5517 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5779 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6584 |
@@ -535,7 +535,7 @@
 | Winchester | Dr Danny Chambers MP | 4952 |
 | Windsor | Jack Rankin MP | 5140 |
 | Wirral West | Matthew Patrick MP | 4237 |
-| Witham | Rt Hon Priti Patel MP | 7066 |
+| Witham | Rt Hon Priti Patel MP | 7067 |
 | Witney | Charlie Maynard MP | 5195 |
 | Woking | Mr Will Forster MP | 4419 |
 | Wokingham | Clive Jones MP | 4894 |
