@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022375                                |
-| Last Updated      | 2025-05-12 03:13:23 UTC                                    |
+| Total Signatures   | 3022377                                |
+| Last Updated      | 2025-05-12 04:23:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -265,7 +265,7 @@
 | Knowsley | Anneliese Midgley MP | 3335 |
 | Lancaster and Wyre | Cat Smith MP | 5128 |
 | Leeds Central and Headingley | Alex Sobel MP | 1956 |
-| Leeds East | Richard Burgon MP | 4350 |
+| Leeds East | Richard Burgon MP | 4351 |
 | Leeds North East | Fabian Hamilton MP | 2659 |
 | Leeds North West | Katie White MP | 4428 |
 | Leeds South | Rt Hon Hilary Benn MP | 3922 |
@@ -378,7 +378,7 @@
 | Poplar and Limehouse | Apsana Begum MP | 2947 |
 | Portsmouth North | Amanda Martin MP | 5693 |
 | Portsmouth South | Stephen Morgan MP | 3931 |
-| Preston | Sir Mark Hendrick MP | 3852 |
+| Preston | Sir Mark Hendrick MP | 3853 |
 | Putney | Fleur Anderson MP | 3537 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2173 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5185 |
