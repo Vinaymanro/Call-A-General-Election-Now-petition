@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022368                                |
-| Last Updated      | 2025-05-11 23:16:53 UTC                                    |
+| Total Signatures   | 3022373                                |
+| Last Updated      | 2025-05-12 01:41:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -87,7 +87,7 @@
 | Broxbourne | Lewis Cocking MP | 6133 |
 | Broxtowe | Juliet Campbell MP | 4747 |
 | Buckingham and Bletchley | Callum Anderson MP | 5295 |
-| Burnley | Oliver Ryan MP | 5785 |
+| Burnley | Oliver Ryan MP | 5786 |
 | Burton and Uttoxeter | Jacob Collier MP | 5864 |
 | Bury North | Mr James Frith MP | 5022 |
 | Bury South | Christian Wakeford MP | 5474 |
@@ -100,7 +100,7 @@
 | Carlisle | Ms Julie Minns MP | 6603 |
 | Carshalton and Wallington | Bobby Dean MP | 4302 |
 | Castle Point | Rebecca Harris MP | 7574 |
-| Central Devon | Rt Hon Sir Mel Stride MP | 5863 |
+| Central Devon | Rt Hon Sir Mel Stride MP | 5864 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5332 |
 | Chatham and Aylesford | Tristan Osborne MP | 5695 |
 | Cheadle | Tom Morrison MP | 4699 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5495 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6252 |
 | Peterborough | Andrew Pakes MP | 4205 |
-| Plymouth Moor View | Fred Thomas MP | 5772 |
+| Plymouth Moor View | Fred Thomas MP | 5773 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4823 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5527 |
 | Poole | Neil Duncan-Jordan MP | 5717 |
@@ -473,7 +473,7 @@
 | Stratford and Bow | Uma Kumaran MP | 1788 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6762 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1884 |
-| Stretford and Urmston | Andrew Western MP | 3876 |
+| Stretford and Urmston | Andrew Western MP | 3877 |
 | Stroud | Dr Simon Opher MP | 4570 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5429 |
 | Sunderland Central | Lewis Atkinson MP | 5316 |
@@ -640,7 +640,7 @@
 | Cardiff West | Mr Alex Barros-Curtis MP | 3188 |
 | Ceredigion Preseli | Ben Lake MP | 4790 |
 | Clwyd East | Becky Gittins MP | 6107 |
-| Clwyd North | Gill German MP | 5534 |
+| Clwyd North | Gill German MP | 5535 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4270 |
 | Gower | Tonia Antoniazzi MP | 4820 |
 | Llanelli | Dame Nia Griffith MP | 5312 |
