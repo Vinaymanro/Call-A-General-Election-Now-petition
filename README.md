@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022373                                |
-| Last Updated      | 2025-05-12 01:41:19 UTC                                    |
+| Total Signatures   | 3022375                                |
+| Last Updated      | 2025-05-12 03:13:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5495 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6252 |
 | Peterborough | Andrew Pakes MP | 4205 |
-| Plymouth Moor View | Fred Thomas MP | 5773 |
+| Plymouth Moor View | Fred Thomas MP | 5774 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4823 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5527 |
 | Poole | Neil Duncan-Jordan MP | 5717 |
@@ -440,7 +440,7 @@
 | South Shields | Emma Lewell MP | 4780 |
 | South Shropshire | Stuart Anderson MP | 7362 |
 | South Suffolk | James Cartlidge MP | 6192 |
-| South West Devon | Rebecca Smith MP | 6032 |
+| South West Devon | Rebecca Smith MP | 6033 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5248 |
 | South West Norfolk | Terry Jermy MP | 6585 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5256 |
