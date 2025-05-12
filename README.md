@@ -3,14 +3,14 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022392                                |
-| Last Updated      | 2025-05-12 06:29:13 UTC                                    |
+| Total Signatures   | 3022400                                |
+| Last Updated      | 2025-05-12 07:19:16 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5498 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5860 |
-| Altrincham and Sale West | Mr Connor Rand MP | 5524 |
+| Altrincham and Sale West | Mr Connor Rand MP | 5525 |
 | Amber Valley | Linsey Farnsworth MP | 6152 |
 | Arundel and South Downs | Andrew Griffith MP | 6994 |
 | Ashfield | Lee Anderson MP | 6220 |
@@ -145,7 +145,7 @@
 | Didcot and Wantage | Olly Glover MP | 4924 |
 | Doncaster Central | Sally Jameson MP | 4989 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6128 |
-| Doncaster North | Rt Hon Ed Miliband MP | 5635 |
+| Doncaster North | Rt Hon Ed Miliband MP | 5636 |
 | Dorking and Horley | Chris Coghlan MP | 5576 |
 | Dover and Deal | Mike Tapp MP | 5998 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6612 |
@@ -207,7 +207,7 @@
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2071 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1538 |
 | Halesowen | Alex Ballinger MP | 5050 |
-| Halifax | Kate Dearden MP | 4789 |
+| Halifax | Kate Dearden MP | 4790 |
 | Hamble Valley | Paul Holmes MP | 6192 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3213 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2990 |
@@ -369,7 +369,7 @@
 | Peckham | Miatta Fahnbulleh MP | 1374 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6266 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5495 |
-| Penrith and Solway | Markus Campbell-Savours MP | 6252 |
+| Penrith and Solway | Markus Campbell-Savours MP | 6253 |
 | Peterborough | Andrew Pakes MP | 4205 |
 | Plymouth Moor View | Fred Thomas MP | 5774 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4823 |
@@ -405,7 +405,7 @@
 | Rushcliffe | James Naish MP | 5110 |
 | Rutland and Stamford | Alicia Kearns MP | 6297 |
 | Salford | Rebecca Long Bailey MP | 4709 |
-| Salisbury | Rt Hon John Glen MP | 4787 |
+| Salisbury | Rt Hon John Glen MP | 4788 |
 | Scarborough and Whitby | Alison Hume MP | 6072 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5136 |
 | Sefton Central | Bill Esterson MP | 4073 |
@@ -417,7 +417,7 @@
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3586 |
 | Sheffield South East | Mr Clive Betts MP | 4781 |
 | Sherwood Forest | Michelle Welsh MP | 6725 |
-| Shipley | Anna Dixon MP | 4930 |
+| Shipley | Anna Dixon MP | 4931 |
 | Shrewsbury | Julia Buckley MP | 5368 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6933 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6721 |
@@ -441,7 +441,7 @@
 | South Shropshire | Stuart Anderson MP | 7362 |
 | South Suffolk | James Cartlidge MP | 6192 |
 | South West Devon | Rebecca Smith MP | 6033 |
-| South West Hertfordshire | Mr Gagan Mohindra MP | 5248 |
+| South West Hertfordshire | Mr Gagan Mohindra MP | 5249 |
 | South West Norfolk | Terry Jermy MP | 6585 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5256 |
 | Southampton Itchen | Darren Paffey MP | 4606 |
@@ -585,7 +585,7 @@
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3059 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4109 |
 | Coatbridge and Bellshill | Frank McNally MP | 2625 |
-| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2890 |
+| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2891 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2698 |
 | Dumfries and Galloway | John Cooper MP | 4071 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3891 |
