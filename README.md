@@ -3,15 +3,15 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022843                                |
-| Last Updated      | 2025-05-13 14:19:46 UTC                                    |
+| Total Signatures   | 3022852                                |
+| Last Updated      | 2025-05-13 15:20:27 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5498 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5861 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5528 |
-| Amber Valley | Linsey Farnsworth MP | 6154 |
+| Amber Valley | Linsey Farnsworth MP | 6155 |
 | Arundel and South Downs | Andrew Griffith MP | 6995 |
 | Ashfield | Lee Anderson MP | 6221 |
 | Ashford | Sojan Joseph MP | 5956 |
@@ -141,7 +141,7 @@
 | Derby North | Catherine Atkinson MP | 4380 |
 | Derby South | Baggy Shanker MP | 3660 |
 | Derbyshire Dales | John Whitby MP | 6831 |
-| Dewsbury and Batley | Iqbal Mohamed MP | 3224 |
+| Dewsbury and Batley | Iqbal Mohamed MP | 3225 |
 | Didcot and Wantage | Olly Glover MP | 4924 |
 | Doncaster Central | Sally Jameson MP | 4989 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6128 |
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1538 |
 | Halesowen | Alex Ballinger MP | 5050 |
 | Halifax | Kate Dearden MP | 4791 |
-| Hamble Valley | Paul Holmes MP | 6192 |
+| Hamble Valley | Paul Holmes MP | 6193 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3213 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2990 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4741 |
@@ -217,13 +217,13 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5161 |
 | Harrow East | Bob Blackman MP | 3151 |
 | Harrow West | Gareth Thomas MP | 2419 |
-| Hartlepool | Mr Jonathan Brash MP | 5720 |
+| Hartlepool | Mr Jonathan Brash MP | 5721 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6323 |
 | Hastings and Rye | Helena Dollimore MP | 5113 |
 | Havant | Alan Mak MP | 5734 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2624 |
 | Hazel Grove | Lisa Smart MP | 5161 |
-| Hemel Hempstead | David Taylor MP | 5116 |
+| Hemel Hempstead | David Taylor MP | 5117 |
 | Hendon | David Pinto-Duschinsky MP | 3819 |
 | Henley and Thame | Freddie van Mierlo MP | 5438 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5314 |
@@ -351,8 +351,8 @@
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5769 |
 | North West Leicestershire | Amanda Hack MP | 6766 |
 | North West Norfolk | James Wild MP | 5813 |
-| Northampton North | Lucy Rigby KC MP | 4327 |
-| Northampton South | Mike Reader MP | 5008 |
+| Northampton North | Lucy Rigby KC MP | 4328 |
+| Northampton South | Mike Reader MP | 5009 |
 | Norwich North | Alice Macdonald MP | 4464 |
 | Norwich South | Clive Lewis MP | 3431 |
 | Nottingham East | Nadia Whittome MP | 2510 |
@@ -417,7 +417,7 @@
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3588 |
 | Sheffield South East | Mr Clive Betts MP | 4782 |
 | Sherwood Forest | Michelle Welsh MP | 6725 |
-| Shipley | Anna Dixon MP | 4931 |
+| Shipley | Anna Dixon MP | 4932 |
 | Shrewsbury | Julia Buckley MP | 5368 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6934 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6721 |
@@ -602,7 +602,7 @@
 | Glasgow North | Martin Rhodes MP | 2074 |
 | Glasgow North East | Maureen Burke MP | 2536 |
 | Glasgow South | Gordon McKee MP | 1871 |
-| Glasgow South West | Dr Zubir Ahmed MP | 2294 |
+| Glasgow South West | Dr Zubir Ahmed MP | 2295 |
 | Glasgow West | Patricia Ferguson MP | 2257 |
 | Glenrothes and Mid Fife | Richard Baker MP | 3021 |
 | Gordon and Buchan | Harriet Cross MP | 4430 |
