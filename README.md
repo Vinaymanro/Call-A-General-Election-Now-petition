@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022736                                |
-| Last Updated      | 2025-05-13 04:23:46 UTC                                    |
+| Total Signatures   | 3022737                                |
+| Last Updated      | 2025-05-13 05:18:59 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -423,7 +423,7 @@
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6721 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6341 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2607 |
-| Smethwick | Gurinder Singh Josan MP | 3097 |
+| Smethwick | Gurinder Singh Josan MP | 3098 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5495 |
 | South Basildon and East Thurrock | James McMurdock MP | 6653 |
 | South Cambridgeshire | Pippa Heylings MP | 4471 |
