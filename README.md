@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022734                                |
-| Last Updated      | 2025-05-13 03:11:11 UTC                                    |
+| Total Signatures   | 3022736                                |
+| Last Updated      | 2025-05-13 04:23:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -299,7 +299,7 @@
 | Maldon | Rt Hon Sir John Whittingdale MP | 8163 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4027 |
 | Manchester Rusholme | Afzal Khan MP | 1237 |
-| Manchester Withington | Jeff Smith MP | 1689 |
+| Manchester Withington | Jeff Smith MP | 1690 |
 | Mansfield | Steve Yemm MP | 6270 |
 | Melksham and Devizes | Brian Mathew MP | 5042 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6155 |
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4205 |
 | Plymouth Moor View | Fred Thomas MP | 5776 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4824 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5527 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5528 |
 | Poole | Neil Duncan-Jordan MP | 5717 |
 | Poplar and Limehouse | Apsana Begum MP | 2948 |
 | Portsmouth North | Amanda Martin MP | 5696 |
