@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022725                                |
-| Last Updated      | 2025-05-12 23:17:39 UTC                                    |
+| Total Signatures   | 3022730                                |
+| Last Updated      | 2025-05-13 01:38:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -219,7 +219,7 @@
 | Harrow West | Gareth Thomas MP | 2419 |
 | Hartlepool | Mr Jonathan Brash MP | 5720 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6323 |
-| Hastings and Rye | Helena Dollimore MP | 5112 |
+| Hastings and Rye | Helena Dollimore MP | 5113 |
 | Havant | Alan Mak MP | 5734 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2624 |
 | Hazel Grove | Lisa Smart MP | 5160 |
@@ -254,7 +254,7 @@
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2811 |
 | Jarrow and Gateshead East | Kate Osborne MP | 5146 |
 | Keighley and Ilkley | Robbie Moore MP | 4747 |
-| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6138 |
+| Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6139 |
 | Kensington and Bayswater | Joe Powell MP | 4420 |
 | Kettering | Rosie Wrighting MP | 5955 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3781 |
@@ -424,7 +424,7 @@
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6341 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2607 |
 | Smethwick | Gurinder Singh Josan MP | 3097 |
-| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5494 |
+| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5495 |
 | South Basildon and East Thurrock | James McMurdock MP | 6653 |
 | South Cambridgeshire | Pippa Heylings MP | 4471 |
 | South Cotswolds | Dr Roz Savage MP | 5749 |
@@ -460,7 +460,7 @@
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4842 |
 | Stafford | Leigh Ingham MP | 5667 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6469 |
-| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5413 |
+| Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5414 |
 | Stevenage | Kevin Bonavia MP | 4786 |
 | Stockport | Navendu Mishra MP | 3966 |
 | Stockton North | Chris McDonald MP | 4887 |
@@ -525,7 +525,7 @@
 | West Lancashire | Ashley Dalton MP | 5115 |
 | West Suffolk | Nick Timothy MP | 6086 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6309 |
-| Westmorland and Lonsdale | Tim Farron MP | 5229 |
+| Westmorland and Lonsdale | Tim Farron MP | 5230 |
 | Weston-super-Mare | Dan Aldridge MP | 5136 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6621 |
 | Whitehaven and Workington | Josh MacAlister MP | 5954 |
