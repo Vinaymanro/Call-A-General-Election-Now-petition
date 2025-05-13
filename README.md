@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022747                                |
-| Last Updated      | 2025-05-13 06:28:12 UTC                                    |
+| Total Signatures   | 3022752                                |
+| Last Updated      | 2025-05-13 07:19:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -46,7 +46,7 @@
 | Birmingham Perry Barr | Ayoub Khan MP | 1738 |
 | Birmingham Selly Oak | Al Carns MP | 3336 |
 | Birmingham Yardley | Jess Phillips MP | 3125 |
-| Bishop Auckland | Sam Rushworth MP | 6220 |
+| Bishop Auckland | Sam Rushworth MP | 6221 |
 | Blackburn | Mr Adnan Hussain MP | 3188 |
 | Blackley and Middleton South | Graham Stringer MP | 3836 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6232 |
@@ -62,7 +62,7 @@
 | Boston and Skegness | Richard Tice MP | 7154 |
 | Bournemouth East | Tom Hayes MP | 4710 |
 | Bournemouth West | Jessica Toale MP | 4961 |
-| Bracknell | Peter Swallow MP | 5021 |
+| Bracknell | Peter Swallow MP | 5022 |
 | Bradford East | Imran Hussain MP | 2944 |
 | Bradford South | Judith Cummins MP | 4240 |
 | Bradford West | Naz Shah MP | 1855 |
@@ -140,7 +140,7 @@
 | Daventry | Rt Hon Stuart Andrew MP | 7330 |
 | Derby North | Catherine Atkinson MP | 4380 |
 | Derby South | Baggy Shanker MP | 3660 |
-| Derbyshire Dales | John Whitby MP | 6830 |
+| Derbyshire Dales | John Whitby MP | 6831 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3224 |
 | Didcot and Wantage | Olly Glover MP | 4924 |
 | Doncaster Central | Sally Jameson MP | 4989 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2688 |
 | Liverpool Walton | Dan Carden MP | 3417 |
 | Liverpool Wavertree | Paula Barker MP | 2255 |
-| Liverpool West Derby | Ian Byrne MP | 3110 |
+| Liverpool West Derby | Ian Byrne MP | 3111 |
 | Loughborough | Dr Jeevun Sandher MP | 4519 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7846 |
 | Lowestoft | Jess Asato MP | 5381 |
@@ -586,7 +586,7 @@
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4110 |
 | Coatbridge and Bellshill | Frank McNally MP | 2625 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2891 |
-| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2698 |
+| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2699 |
 | Dumfries and Galloway | John Cooper MP | 4071 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3893 |
 | Dundee Central | Chris Law MP | 2584 |
