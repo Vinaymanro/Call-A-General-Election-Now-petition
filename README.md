@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022762                                |
-| Last Updated      | 2025-05-13 08:26:53 UTC                                    |
+| Total Signatures   | 3022766                                |
+| Last Updated      | 2025-05-13 09:20:58 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -240,7 +240,7 @@
 | Hornchurch and Upminster | Julia Lopez MP | 6662 |
 | Hornsey and Friern Barnet | Catherine West MP | 1957 |
 | Horsham | John Milne MP | 5871 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6394 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6395 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3359 |
 | Huddersfield | Harpreet Uppal MP | 3727 |
 | Huntingdon | Ben Obese-Jecty MP | 5602 |
@@ -336,7 +336,7 @@
 | North Dorset | Simon Hoare MP | 6361 |
 | North Durham | Luke Akehurst MP | 5447 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6140 |
-| North East Derbyshire | Louise Jones MP | 5856 |
+| North East Derbyshire | Louise Jones MP | 5857 |
 | North East Hampshire | Alex Brewer MP | 5988 |
 | North East Hertfordshire | Chris Hinchliff MP | 5890 |
 | North East Somerset and Hanham | Dan Norris MP | 5093 |
@@ -515,7 +515,7 @@
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5398 |
 | Watford | Matt Turmaine MP | 3772 |
 | Waveney Valley | Adrian Ramsay MP | 5902 |
-| Weald of Kent | Katie Lam MP | 7281 |
+| Weald of Kent | Katie Lam MP | 7282 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5145 |
 | Wells and Mendip Hills | Tessa Munt MP | 5298 |
 | Welwyn Hatfield | Andrew Lewin MP | 5101 |
@@ -532,7 +532,7 @@
 | Widnes and Halewood | Derek Twigg MP | 4299 |
 | Wigan | Rt Hon Lisa Nandy MP | 6035 |
 | Wimbledon | Mr Paul Kohler MP | 3429 |
-| Winchester | Dr Danny Chambers MP | 4954 |
+| Winchester | Dr Danny Chambers MP | 4955 |
 | Windsor | Jack Rankin MP | 5141 |
 | Wirral West | Matthew Patrick MP | 4237 |
 | Witham | Rt Hon Priti Patel MP | 7067 |
