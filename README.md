@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022730                                |
-| Last Updated      | 2025-05-13 01:38:40 UTC                                    |
+| Total Signatures   | 3022734                                |
+| Last Updated      | 2025-05-13 03:11:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -29,7 +29,7 @@
 | Battersea | Marsha De Cordova MP | 3630 |
 | Beaconsfield | Joy Morrissey MP | 5241 |
 | Beckenham and Penge | Liam Conlon MP | 3857 |
-| Bedford | Mohammad Yasin MP | 3261 |
+| Bedford | Mohammad Yasin MP | 3262 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2741 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1744 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6215 |
@@ -444,7 +444,7 @@
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5249 |
 | South West Norfolk | Terry Jermy MP | 6585 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5257 |
-| Southampton Itchen | Darren Paffey MP | 4608 |
+| Southampton Itchen | Darren Paffey MP | 4609 |
 | Southampton Test | Satvir Kaur MP | 3445 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5650 |
 | Southend West and Leigh | David Burton-Sampson MP | 5923 |
@@ -465,10 +465,10 @@
 | Stockport | Navendu Mishra MP | 3966 |
 | Stockton North | Chris McDonald MP | 4887 |
 | Stockton West | Matt Vickers MP | 6031 |
-| Stoke-on-Trent Central | Gareth Snell MP | 4809 |
+| Stoke-on-Trent Central | Gareth Snell MP | 4810 |
 | Stoke-on-Trent North | David Williams MP | 5519 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5779 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6584 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6585 |
 | Stourbridge | Cat Eccles MP | 5202 |
 | Stratford and Bow | Uma Kumaran MP | 1788 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6762 |
