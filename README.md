@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023112                                |
-| Last Updated      | 2025-05-14 13:30:31 UTC                                    |
+| Total Signatures   | 3023117                                |
+| Last Updated      | 2025-05-14 14:19:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -162,7 +162,7 @@
 | East Hampshire | Rt Hon Damian Hinds MP | 5378 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6070 |
 | East Thanet | Ms Polly Billington MP | 5548 |
-| East Wiltshire | Danny Kruger MP | 6116 |
+| East Wiltshire | Danny Kruger MP | 6117 |
 | East Worthing and Shoreham | Tom Rutland MP | 4654 |
 | Eastbourne | Josh Babarinde MP | 5083 |
 | Eastleigh | Liz Jarvis MP | 4370 |
@@ -287,7 +287,7 @@
 | Liverpool Walton | Dan Carden MP | 3418 |
 | Liverpool Wavertree | Paula Barker MP | 2255 |
 | Liverpool West Derby | Ian Byrne MP | 3111 |
-| Loughborough | Dr Jeevun Sandher MP | 4519 |
+| Loughborough | Dr Jeevun Sandher MP | 4520 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7846 |
 | Lowestoft | Jess Asato MP | 5381 |
 | Luton North | Sarah Owen MP | 2505 |
@@ -378,7 +378,7 @@
 | Poplar and Limehouse | Apsana Begum MP | 2950 |
 | Portsmouth North | Amanda Martin MP | 5696 |
 | Portsmouth South | Stephen Morgan MP | 3935 |
-| Preston | Sir Mark Hendrick MP | 3855 |
+| Preston | Sir Mark Hendrick MP | 3856 |
 | Putney | Fleur Anderson MP | 3538 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2173 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5186 |
@@ -425,7 +425,7 @@
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2607 |
 | Smethwick | Gurinder Singh Josan MP | 3098 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5497 |
-| South Basildon and East Thurrock | James McMurdock MP | 6655 |
+| South Basildon and East Thurrock | James McMurdock MP | 6656 |
 | South Cambridgeshire | Pippa Heylings MP | 4472 |
 | South Cotswolds | Dr Roz Savage MP | 5749 |
 | South Derbyshire | Samantha Niblett MP | 6222 |
@@ -596,7 +596,7 @@
 | Edinburgh North and Leith | Tracy Gilbert MP | 2433 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2078 |
 | Edinburgh South West | Dr Scott Arthur MP | 2276 |
-| Edinburgh West | Christine Jardine MP | 2737 |
+| Edinburgh West | Christine Jardine MP | 2738 |
 | Falkirk | Euan Stainbank MP | 3474 |
 | Glasgow East | John Grady MP | 2363 |
 | Glasgow North | Martin Rhodes MP | 2075 |
