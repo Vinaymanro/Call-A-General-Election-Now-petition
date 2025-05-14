@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023001                                |
-| Last Updated      | 2025-05-14 04:23:07 UTC                                    |
+| Total Signatures   | 3023005                                |
+| Last Updated      | 2025-05-14 05:18:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -261,7 +261,7 @@
 | Kingston upon Hull East | Karl Turner MP | 5071 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4696 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5561 |
-| Kingswinford and South Staffordshire | Mike Wood MP | 6445 |
+| Kingswinford and South Staffordshire | Mike Wood MP | 6446 |
 | Knowsley | Anneliese Midgley MP | 3335 |
 | Lancaster and Wyre | Cat Smith MP | 5128 |
 | Leeds Central and Headingley | Alex Sobel MP | 1956 |
@@ -390,7 +390,7 @@
 | Reigate | Rebecca Paul MP | 5574 |
 | Ribble Valley | Maya Ellis MP | 6774 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7164 |
-| Richmond Park | Sarah Olney MP | 4078 |
+| Richmond Park | Sarah Olney MP | 4079 |
 | Rochdale | Paul Waugh MP | 3996 |
 | Rochester and Strood | Lauren Edwards MP | 6088 |
 | Romford | Andrew Rosindell MP | 5841 |
@@ -446,14 +446,14 @@
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5257 |
 | Southampton Itchen | Darren Paffey MP | 4609 |
 | Southampton Test | Satvir Kaur MP | 3445 |
-| Southend East and Rochford | Mr Bayo Alaba MP | 5650 |
+| Southend East and Rochford | Mr Bayo Alaba MP | 5651 |
 | Southend West and Leigh | David Burton-Sampson MP | 5923 |
 | Southgate and Wood Green | Bambos Charalambous MP | 2614 |
 | Southport | Patrick Hurley MP | 6045 |
 | Spelthorne | Lincoln Jopp MP | 5505 |
 | Spen Valley | Kim Leadbeater MP | 5431 |
 | St Albans | Daisy Cooper MP | 3896 |
-| St Austell and Newquay | Noah Law MP | 5685 |
+| St Austell and Newquay | Noah Law MP | 5686 |
 | St Helens North | David Baines MP | 4777 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4235 |
 | St Ives | Andrew George MP | 5139 |
