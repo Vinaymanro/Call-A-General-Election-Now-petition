@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023171                                |
-| Last Updated      | 2025-05-14 18:24:58 UTC                                    |
+| Total Signatures   | 3023179                                |
+| Last Updated      | 2025-05-14 19:15:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -66,7 +66,7 @@
 | Bradford East | Imran Hussain MP | 2944 |
 | Bradford South | Judith Cummins MP | 4240 |
 | Bradford West | Naz Shah MP | 1855 |
-| Braintree | Rt Hon Sir James Cleverly MP | 7495 |
+| Braintree | Rt Hon Sir James Cleverly MP | 7496 |
 | Brent East | Dawn Butler MP | 1886 |
 | Brent West | Barry Gardiner MP | 2115 |
 | Brentford and Isleworth | Ruth Cadbury MP | 3027 |
@@ -81,7 +81,7 @@
 | Bristol North East | Damien Egan MP | 3129 |
 | Bristol North West | Rt Hon Darren Jones MP | 3246 |
 | Bristol South | Karin Smyth MP | 4025 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5877 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5878 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5289 |
 | Bromsgrove | Bradley Thomas MP | 6523 |
 | Broxbourne | Lewis Cocking MP | 6133 |
@@ -195,13 +195,13 @@
 | Glastonbury and Somerton | Sarah Dyke MP | 5632 |
 | Gloucester | Alex McIntyre MP | 4586 |
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5264 |
-| Goole and Pocklington | Rt Hon David Davis MP | 7023 |
+| Goole and Pocklington | Rt Hon David Davis MP | 7024 |
 | Gorton and Denton | Andrew Gwynne MP | 3326 |
 | Gosport | Dame Caroline Dinenage MP | 5530 |
 | Grantham and Bourne | Gareth Davies MP | 6369 |
 | Gravesham | Dr Lauren Sullivan MP | 5212 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5878 |
-| Great Yarmouth | Rupert Lowe MP | 6658 |
+| Great Yarmouth | Rupert Lowe MP | 6659 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2652 |
 | Guildford | Zöe Franklin MP | 4020 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2071 |
@@ -469,7 +469,7 @@
 | Stoke-on-Trent North | David Williams MP | 5522 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5779 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6585 |
-| Stourbridge | Cat Eccles MP | 5204 |
+| Stourbridge | Cat Eccles MP | 5205 |
 | Stratford and Bow | Uma Kumaran MP | 1789 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6763 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1884 |
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4463 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4381 |
 | Wolverhampton West | Warinder Juss | 3877 |
-| Worcester | Tom Collins MP | 4370 |
+| Worcester | Tom Collins MP | 4371 |
 | Worsley and Eccles | Michael Wheeler MP | 5505 |
 | Worthing West | Dr Beccy Cooper MP | 5298 |
 | Wycombe | Emma Reynolds MP | 3656 |
@@ -585,12 +585,12 @@
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3061 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4110 |
 | Coatbridge and Bellshill | Frank McNally MP | 2625 |
-| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2891 |
+| Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2892 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2699 |
 | Dumfries and Galloway | John Cooper MP | 4071 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3893 |
 | Dundee Central | Chris Law MP | 2584 |
-| Dunfermline and Dollar | Graeme Downie MP | 2960 |
+| Dunfermline and Dollar | Graeme Downie MP | 2961 |
 | East Kilbride and Strathaven | Joani Reid MP | 3193 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2123 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2433 |
