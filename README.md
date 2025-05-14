@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022999                                |
-| Last Updated      | 2025-05-14 03:09:32 UTC                                    |
+| Total Signatures   | 3023001                                |
+| Last Updated      | 2025-05-14 04:23:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -175,7 +175,7 @@
 | Epsom and Ewell | Helen Maguire MP | 4960 |
 | Erewash | Adam Thompson MP | 5901 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3248 |
-| Esher and Walton | Monica Harding MP | 4847 |
+| Esher and Walton | Monica Harding MP | 4848 |
 | Exeter | Steve Race MP | 3218 |
 | Exmouth and Exeter East | David Reed MP | 5253 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6191 |
@@ -636,7 +636,7 @@
 | Caerphilly | Chris Evans MP | 4082 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2955 |
 | Cardiff North | Anna McMorrin MP | 3319 |
-| Cardiff South and Penarth | Stephen Doughty MP | 2831 |
+| Cardiff South and Penarth | Stephen Doughty MP | 2832 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3193 |
 | Ceredigion Preseli | Ben Lake MP | 4790 |
 | Clwyd East | Becky Gittins MP | 6109 |
