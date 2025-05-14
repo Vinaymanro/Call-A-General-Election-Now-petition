@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023015                                |
-| Last Updated      | 2025-05-14 06:28:07 UTC                                    |
+| Total Signatures   | 3023024                                |
+| Last Updated      | 2025-05-14 07:18:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -34,8 +34,8 @@
 | Bethnal Green and Stepney | Rushanara Ali MP | 1744 |
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6215 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6185 |
-| Bexleyheath and Crayford | Daniel Francis MP | 5082 |
-| Bicester and Woodstock | Calum Miller MP | 4712 |
+| Bexleyheath and Crayford | Daniel Francis MP | 5083 |
+| Bicester and Woodstock | Calum Miller MP | 4713 |
 | Birkenhead | Alison McGovern MP | 4402 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2994 |
 | Birmingham Erdington | Paulette Hamilton MP | 4302 |
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1766 |
 | Colchester | Pam Cox MP | 5058 |
 | Colne Valley | Paul Davies MP | 5080 |
-| Congleton | Sarah Russell MP | 6031 |
+| Congleton | Sarah Russell MP | 6032 |
 | Corby and East Northamptonshire | Lee Barron MP | 6068 |
 | Coventry East | Mary Creagh MP | 3643 |
 | Coventry North West | Taiwo Owatemi MP | 4309 |
@@ -163,7 +163,7 @@
 | East Surrey | Rt Hon Claire Coutinho MP | 6070 |
 | East Thanet | Ms Polly Billington MP | 5548 |
 | East Wiltshire | Danny Kruger MP | 6116 |
-| East Worthing and Shoreham | Tom Rutland MP | 4653 |
+| East Worthing and Shoreham | Tom Rutland MP | 4654 |
 | Eastbourne | Josh Babarinde MP | 5083 |
 | Eastleigh | Liz Jarvis MP | 4370 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2247 |
@@ -174,7 +174,7 @@
 | Epping Forest | Dr Neil Hudson MP | 6633 |
 | Epsom and Ewell | Helen Maguire MP | 4960 |
 | Erewash | Adam Thompson MP | 5901 |
-| Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3248 |
+| Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3249 |
 | Esher and Walton | Monica Harding MP | 4848 |
 | Exeter | Steve Race MP | 3219 |
 | Exmouth and Exeter East | David Reed MP | 5253 |
@@ -310,11 +310,11 @@
 | Mid Derbyshire | Jonathan Davies MP | 5288 |
 | Mid Dorset and North Poole | Vikki Slade MP | 5930 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5642 |
-| Mid Norfolk | George Freeman MP | 6335 |
+| Mid Norfolk | George Freeman MP | 6336 |
 | Mid Sussex | Alison Bennett MP | 4735 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4283 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5775 |
-| Milton Keynes Central | Emily Darlington MP | 4982 |
+| Milton Keynes Central | Emily Darlington MP | 4983 |
 | Milton Keynes North | Chris Curtis MP | 4611 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2695 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5824 |
@@ -625,9 +625,9 @@
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4066 |
 | Central Ayrshire | Alan Gemmell MP | 3169 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3293 |
-| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4596 |
+| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4597 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3768 |
-| Alyn and Deeside | Rt Hon Mark Tami MP | 5819 |
+| Alyn and Deeside | Rt Hon Mark Tami MP | 5820 |
 | Bangor Aberconwy | Claire Hughes MP | 4563 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3717 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5326 |
