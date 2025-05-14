@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022988                                |
-| Last Updated      | 2025-05-13 23:17:51 UTC                                    |
+| Total Signatures   | 3022995                                |
+| Last Updated      | 2025-05-14 01:37:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -168,7 +168,7 @@
 | Eastleigh | Liz Jarvis MP | 4370 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2247 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4500 |
-| Eltham and Chislehurst | Clive Efford MP | 4740 |
+| Eltham and Chislehurst | Clive Efford MP | 4741 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5209 |
 | Enfield North | Feryal Clark MP | 2925 |
 | Epping Forest | Dr Neil Hudson MP | 6633 |
@@ -258,10 +258,10 @@
 | Kensington and Bayswater | Joe Powell MP | 4420 |
 | Kettering | Rosie Wrighting MP | 5955 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3781 |
-| Kingston upon Hull East | Karl Turner MP | 5070 |
+| Kingston upon Hull East | Karl Turner MP | 5071 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4696 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5561 |
-| Kingswinford and South Staffordshire | Mike Wood MP | 6444 |
+| Kingswinford and South Staffordshire | Mike Wood MP | 6445 |
 | Knowsley | Anneliese Midgley MP | 3335 |
 | Lancaster and Wyre | Cat Smith MP | 5128 |
 | Leeds Central and Headingley | Alex Sobel MP | 1956 |
@@ -358,7 +358,7 @@
 | Nottingham East | Nadia Whittome MP | 2510 |
 | Nottingham North and Kimberley | Alex Norris MP | 3775 |
 | Nottingham South | Lilian Greenwood MP | 3088 |
-| Nuneaton | Jodie Gosling MP | 5622 |
+| Nuneaton | Jodie Gosling MP | 5623 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6257 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5287 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4135 |
@@ -466,7 +466,7 @@
 | Stockton North | Chris McDonald MP | 4887 |
 | Stockton West | Matt Vickers MP | 6031 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4810 |
-| Stoke-on-Trent North | David Williams MP | 5519 |
+| Stoke-on-Trent North | David Williams MP | 5520 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5779 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6585 |
 | Stourbridge | Cat Eccles MP | 5202 |
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5661 |
 | Tewkesbury | Cameron Thomas MP | 5055 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6458 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7486 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7487 |
 | Thornbury and Yate | Claire Young MP | 5739 |
 | Thurrock | Jen Craft MP | 5174 |
 | Tipton and Wednesbury | Antonia Bance MP | 4986 |
@@ -643,7 +643,7 @@
 | Clwyd North | Gill German MP | 5538 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4271 |
 | Gower | Tonia Antoniazzi MP | 4821 |
-| Llanelli | Dame Nia Griffith MP | 5313 |
+| Llanelli | Dame Nia Griffith MP | 5314 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3785 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5541 |
 | Monmouthshire | Catherine Fookes MP | 4786 |
