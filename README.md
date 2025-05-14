@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3022995                                |
-| Last Updated      | 2025-05-14 01:37:40 UTC                                    |
+| Total Signatures   | 3022999                                |
+| Last Updated      | 2025-05-14 03:09:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -146,7 +146,7 @@
 | Doncaster Central | Sally Jameson MP | 4989 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6128 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5639 |
-| Dorking and Horley | Chris Coghlan MP | 5577 |
+| Dorking and Horley | Chris Coghlan MP | 5578 |
 | Dover and Deal | Mike Tapp MP | 5998 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6615 |
 | Dudley | Sonia Kumar MP | 5455 |
@@ -255,7 +255,7 @@
 | Jarrow and Gateshead East | Kate Osborne MP | 5147 |
 | Keighley and Ilkley | Robbie Moore MP | 4747 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6141 |
-| Kensington and Bayswater | Joe Powell MP | 4420 |
+| Kensington and Bayswater | Joe Powell MP | 4421 |
 | Kettering | Rosie Wrighting MP | 5955 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3781 |
 | Kingston upon Hull East | Karl Turner MP | 5071 |
@@ -369,7 +369,7 @@
 | Peckham | Miatta Fahnbulleh MP | 1374 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6266 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5499 |
-| Penrith and Solway | Markus Campbell-Savours MP | 6254 |
+| Penrith and Solway | Markus Campbell-Savours MP | 6255 |
 | Peterborough | Andrew Pakes MP | 4205 |
 | Plymouth Moor View | Fred Thomas MP | 5776 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4825 |
@@ -510,7 +510,7 @@
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4074 |
 | Walthamstow | Ms Stella Creasy MP | 1326 |
 | Warrington North | Charlotte Nichols MP | 5226 |
-| Warrington South | Sarah Hall MP | 5619 |
+| Warrington South | Sarah Hall MP | 5620 |
 | Warwick and Leamington | Matt Western MP | 4518 |
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5398 |
 | Watford | Matt Turmaine MP | 3772 |
