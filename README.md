@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023005                                |
-| Last Updated      | 2025-05-14 05:18:55 UTC                                    |
+| Total Signatures   | 3023015                                |
+| Last Updated      | 2025-05-14 06:28:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -66,7 +66,7 @@
 | Bradford East | Imran Hussain MP | 2944 |
 | Bradford South | Judith Cummins MP | 4240 |
 | Bradford West | Naz Shah MP | 1855 |
-| Braintree | Rt Hon Sir James Cleverly MP | 7494 |
+| Braintree | Rt Hon Sir James Cleverly MP | 7495 |
 | Brent East | Dawn Butler MP | 1886 |
 | Brent West | Barry Gardiner MP | 2115 |
 | Brentford and Isleworth | Ruth Cadbury MP | 3027 |
@@ -158,7 +158,7 @@
 | Earley and Woodley | Yuan Yang MP | 3984 |
 | Easington | Grahame Morris MP | 5831 |
 | East Grinstead and Uckfield | Mims Davies MP | 6091 |
-| East Ham | Rt Hon Sir Stephen Timms MP | 1120 |
+| East Ham | Rt Hon Sir Stephen Timms MP | 1121 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5378 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6070 |
 | East Thanet | Ms Polly Billington MP | 5548 |
@@ -176,7 +176,7 @@
 | Erewash | Adam Thompson MP | 5901 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3248 |
 | Esher and Walton | Monica Harding MP | 4848 |
-| Exeter | Steve Race MP | 3218 |
+| Exeter | Steve Race MP | 3219 |
 | Exmouth and Exeter East | David Reed MP | 5253 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6191 |
 | Farnham and Bordon | Gregory Stafford MP | 5218 |
@@ -223,7 +223,7 @@
 | Havant | Alan Mak MP | 5734 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2624 |
 | Hazel Grove | Lisa Smart MP | 5161 |
-| Hemel Hempstead | David Taylor MP | 5119 |
+| Hemel Hempstead | David Taylor MP | 5120 |
 | Hendon | David Pinto-Duschinsky MP | 3819 |
 | Henley and Thame | Freddie van Mierlo MP | 5438 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5315 |
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6335 |
 | Mid Sussex | Alison Bennett MP | 4735 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4283 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5774 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5775 |
 | Milton Keynes Central | Emily Darlington MP | 4982 |
 | Milton Keynes North | Chris Curtis MP | 4611 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2695 |
@@ -359,7 +359,7 @@
 | Nottingham North and Kimberley | Alex Norris MP | 3775 |
 | Nottingham South | Lilian Greenwood MP | 3088 |
 | Nuneaton | Jodie Gosling MP | 5623 |
-| Old Bexley and Sidcup | Mr Louie French MP | 6257 |
+| Old Bexley and Sidcup | Mr Louie French MP | 6258 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5287 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4135 |
 | Orpington | Gareth Bacon MP | 5356 |
@@ -475,7 +475,7 @@
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1884 |
 | Stretford and Urmston | Andrew Western MP | 3877 |
 | Stroud | Dr Simon Opher MP | 4570 |
-| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5429 |
+| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5430 |
 | Sunderland Central | Lewis Atkinson MP | 5316 |
 | Surrey Heath | Dr Al Pinkerton MP | 5468 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6149 |
@@ -574,7 +574,7 @@
 | Midlothian | Kirsty McNeill MP | 2833 |
 | North Ayrshire and Arran | Irene Campbell MP | 3324 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1452 |
-| Aberdeen North | Kirsty Blackman MP | 3592 |
+| Aberdeen North | Kirsty Blackman MP | 3594 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3880 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4718 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2859 |
@@ -625,7 +625,7 @@
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4066 |
 | Central Ayrshire | Alan Gemmell MP | 3169 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3293 |
-| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4595 |
+| West Aberdeenshire and Kincardine | Andrew Bowie MP | 4596 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3768 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5819 |
 | Bangor Aberconwy | Claire Hughes MP | 4563 |
