@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023147                                |
-| Last Updated      | 2025-05-14 16:24:34 UTC                                    |
+| Total Signatures   | 3023153                                |
+| Last Updated      | 2025-05-14 17:17:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -71,12 +71,12 @@
 | Brent West | Barry Gardiner MP | 2115 |
 | Brentford and Isleworth | Ruth Cadbury MP | 3027 |
 | Brentwood and Ongar | Alex Burghart MP | 8183 |
-| Bridgwater | Sir Ashley Fox MP | 5828 |
+| Bridgwater | Sir Ashley Fox MP | 5829 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6681 |
 | Brigg and Immingham | Martin Vickers MP | 6521 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3964 |
 | Brighton Pavilion | Siân Berry MP | 2765 |
-| Bristol Central | Carla Denyer MP | 1625 |
+| Bristol Central | Carla Denyer MP | 1626 |
 | Bristol East | Kerry McCarthy MP | 3018 |
 | Bristol North East | Damien Egan MP | 3129 |
 | Bristol North West | Rt Hon Darren Jones MP | 3246 |
@@ -101,7 +101,7 @@
 | Carshalton and Wallington | Bobby Dean MP | 4305 |
 | Castle Point | Rebecca Harris MP | 7576 |
 | Central Devon | Rt Hon Sir Mel Stride MP | 5865 |
-| Central Suffolk and North Ipswich | Patrick Spencer MP | 5333 |
+| Central Suffolk and North Ipswich | Patrick Spencer MP | 5334 |
 | Chatham and Aylesford | Tristan Osborne MP | 5698 |
 | Cheadle | Tom Morrison MP | 4700 |
 | Chelmsford | Marie Goldman MP | 5309 |
@@ -137,7 +137,7 @@
 | Dagenham and Rainham | Margaret Mullane MP | 4280 |
 | Darlington | Lola McEvoy MP | 5503 |
 | Dartford | Jim Dickson MP | 5781 |
-| Daventry | Rt Hon Stuart Andrew MP | 7331 |
+| Daventry | Rt Hon Stuart Andrew MP | 7332 |
 | Derby North | Catherine Atkinson MP | 4380 |
 | Derby South | Baggy Shanker MP | 3660 |
 | Derbyshire Dales | John Whitby MP | 6831 |
@@ -231,7 +231,7 @@
 | Hertford and Stortford | Josh Dean MP | 6030 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5785 |
 | Hexham | Joe Morris MP | 6448 |
-| Heywood and Middleton North | Mrs Elsie Blundell MP | 5324 |
+| Heywood and Middleton North | Mrs Elsie Blundell MP | 5325 |
 | High Peak | Jon Pearce MP | 5525 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6545 |
 | Hitchin | Alistair Strathern MP | 4949 |
@@ -616,7 +616,7 @@
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2776 |
 | North East Fife | Wendy Chamberlain MP | 2928 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2907 |
-| Paisley and Renfrewshire South | Johanna Baxter MP | 2676 |
+| Paisley and Renfrewshire South | Johanna Baxter MP | 2677 |
 | Perth and Kinross-shire | Pete Wishart MP | 3537 |
 | Rutherglen | Michael Shanks MP | 2607 |
 | Stirling and Strathallan | Chris Kane MP | 3250 |
