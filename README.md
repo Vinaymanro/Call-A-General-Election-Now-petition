@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023287                                |
-| Last Updated      | 2025-05-15 08:26:30 UTC                                    |
+| Total Signatures   | 3023294                                |
+| Last Updated      | 2025-05-15 09:20:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -95,7 +95,7 @@
 | Calder Valley | Josh Fenton-Glynn MP | 5701 |
 | Camborne and Redruth | Perran Moon MP | 5026 |
 | Cambridge | Daniel Zeichner MP | 2242 |
-| Cannock Chase | Josh Newbury MP | 6965 |
+| Cannock Chase | Josh Newbury MP | 6966 |
 | Canterbury | Rosie Duffield MP | 4511 |
 | Carlisle | Ms Julie Minns MP | 6604 |
 | Carshalton and Wallington | Bobby Dean MP | 4305 |
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 6091 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1121 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5378 |
-| East Surrey | Rt Hon Claire Coutinho MP | 6070 |
+| East Surrey | Rt Hon Claire Coutinho MP | 6071 |
 | East Thanet | Ms Polly Billington MP | 5548 |
 | East Wiltshire | Danny Kruger MP | 6117 |
 | East Worthing and Shoreham | Tom Rutland MP | 4655 |
@@ -230,7 +230,7 @@
 | Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6363 |
 | Hertford and Stortford | Josh Dean MP | 6030 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5785 |
-| Hexham | Joe Morris MP | 6448 |
+| Hexham | Joe Morris MP | 6449 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5325 |
 | High Peak | Jon Pearce MP | 5525 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6545 |
@@ -498,7 +498,7 @@
 | Tooting | Dr Rosena Allin-Khan MP | 2710 |
 | Torbay | Steve Darling MP | 5910 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6633 |
-| Tottenham | Rt Hon David Lammy MP | 1707 |
+| Tottenham | Rt Hon David Lammy MP | 1708 |
 | Truro and Falmouth | Jayne Kirkham MP | 4643 |
 | Tunbridge Wells | Mike Martin MP | 5497 |
 | Twickenham | Munira Wilson MP | 3679 |
@@ -508,7 +508,7 @@
 | Wakefield and Rothwell | Simon Lightwood MP | 4976 |
 | Wallasey | Dame Angela Eagle MP | 4139 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4074 |
-| Walthamstow | Ms Stella Creasy MP | 1326 |
+| Walthamstow | Ms Stella Creasy MP | 1327 |
 | Warrington North | Charlotte Nichols MP | 5226 |
 | Warrington South | Sarah Hall MP | 5620 |
 | Warwick and Leamington | Matt Western MP | 4518 |
@@ -547,7 +547,7 @@
 | Worthing West | Dr Beccy Cooper MP | 5298 |
 | Wycombe | Emma Reynolds MP | 3656 |
 | Wyre Forest | Mark Garnier MP | 6550 |
-| Wythenshawe and Sale East | Mike Kane MP | 4658 |
+| Wythenshawe and Sale East | Mike Kane MP | 4659 |
 | Yeovil | Adam Dance MP | 5647 |
 | York Central | Rachael Maskell MP | 3308 |
 | York Outer | Mr Luke Charters MP | 4377 |
@@ -624,7 +624,7 @@
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3579 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4067 |
 | Central Ayrshire | Alan Gemmell MP | 3169 |
-| Kilmarnock and Loudoun | Lillian Jones MP | 3293 |
+| Kilmarnock and Loudoun | Lillian Jones MP | 3294 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4599 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3770 |
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5820 |
