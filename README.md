@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023282                                |
-| Last Updated      | 2025-05-15 07:18:47 UTC                                    |
+| Total Signatures   | 3023287                                |
+| Last Updated      | 2025-05-15 08:26:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -12,7 +12,7 @@
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5861 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5529 |
 | Amber Valley | Linsey Farnsworth MP | 6155 |
-| Arundel and South Downs | Andrew Griffith MP | 6997 |
+| Arundel and South Downs | Andrew Griffith MP | 6998 |
 | Ashfield | Lee Anderson MP | 6222 |
 | Ashford | Sojan Joseph MP | 5956 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4655 |
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 5027 |
 | Bury South | Christian Wakeford MP | 5477 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5490 |
-| Calder Valley | Josh Fenton-Glynn MP | 5700 |
+| Calder Valley | Josh Fenton-Glynn MP | 5701 |
 | Camborne and Redruth | Perran Moon MP | 5026 |
 | Cambridge | Daniel Zeichner MP | 2242 |
 | Cannock Chase | Josh Newbury MP | 6965 |
@@ -148,7 +148,7 @@
 | Doncaster North | Rt Hon Ed Miliband MP | 5639 |
 | Dorking and Horley | Chris Coghlan MP | 5579 |
 | Dover and Deal | Mike Tapp MP | 5999 |
-| Droitwich and Evesham | Nigel Huddleston MP | 6615 |
+| Droitwich and Evesham | Nigel Huddleston MP | 6616 |
 | Dudley | Sonia Kumar MP | 5455 |
 | Dulwich and West Norwood | Helen Hayes MP | 1574 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5575 |
@@ -347,7 +347,7 @@
 | North Somerset | Sadik Al-Hassan MP | 4614 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6332 |
 | North West Cambridgeshire | Sam Carling MP | 6070 |
-| North West Essex | Rt Hon Kemi Badenoch MP | 7174 |
+| North West Essex | Rt Hon Kemi Badenoch MP | 7175 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5769 |
 | North West Leicestershire | Amanda Hack MP | 6766 |
 | North West Norfolk | James Wild MP | 5813 |
@@ -480,7 +480,7 @@
 | Surrey Heath | Dr Al Pinkerton MP | 5468 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6149 |
 | Sutton and Cheam | Luke Taylor MP | 4420 |
-| Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5702 |
+| Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5703 |
 | Swindon North | Will Stone MP | 4957 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4263 |
 | Tamworth | Sarah Edwards MP | 7025 |
