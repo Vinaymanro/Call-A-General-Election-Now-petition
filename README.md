@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023252                                |
-| Last Updated      | 2025-05-15 03:09:13 UTC                                    |
+| Total Signatures   | 3023254                                |
+| Last Updated      | 2025-05-15 04:22:53 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -163,7 +163,7 @@
 | East Surrey | Rt Hon Claire Coutinho MP | 6070 |
 | East Thanet | Ms Polly Billington MP | 5548 |
 | East Wiltshire | Danny Kruger MP | 6117 |
-| East Worthing and Shoreham | Tom Rutland MP | 4654 |
+| East Worthing and Shoreham | Tom Rutland MP | 4655 |
 | Eastbourne | Josh Babarinde MP | 5083 |
 | Eastleigh | Liz Jarvis MP | 4370 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2247 |
@@ -242,7 +242,7 @@
 | Horsham | John Milne MP | 5871 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6397 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3360 |
-| Huddersfield | Harpreet Uppal MP | 3728 |
+| Huddersfield | Harpreet Uppal MP | 3729 |
 | Huntingdon | Ben Obese-Jecty MP | 5602 |
 | Hyndburn | Sarah Smith MP | 5074 |
 | Ilford North | Rt Hon Wes Streeting MP | 2639 |
