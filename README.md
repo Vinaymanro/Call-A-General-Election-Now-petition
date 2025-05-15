@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023249                                |
-| Last Updated      | 2025-05-15 01:27:17 UTC                                    |
+| Total Signatures   | 3023252                                |
+| Last Updated      | 2025-05-15 03:09:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -373,7 +373,7 @@
 | Peterborough | Andrew Pakes MP | 4205 |
 | Plymouth Moor View | Fred Thomas MP | 5776 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4825 |
-| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5530 |
+| Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5531 |
 | Poole | Neil Duncan-Jordan MP | 5717 |
 | Poplar and Limehouse | Apsana Begum MP | 2950 |
 | Portsmouth North | Amanda Martin MP | 5696 |
@@ -404,7 +404,7 @@
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5875 |
 | Rushcliffe | James Naish MP | 5110 |
 | Rutland and Stamford | Alicia Kearns MP | 6300 |
-| Salford | Rebecca Long Bailey MP | 4709 |
+| Salford | Rebecca Long Bailey MP | 4710 |
 | Salisbury | Rt Hon John Glen MP | 4788 |
 | Scarborough and Whitby | Alison Hume MP | 6073 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5137 |
@@ -634,7 +634,7 @@
 | Bridgend | Chris Elmore MP | 4306 |
 | Caerfyrddin | Ann Davies MP | 5265 |
 | Caerphilly | Chris Evans MP | 4083 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2956 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2957 |
 | Cardiff North | Anna McMorrin MP | 3319 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2832 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3193 |
