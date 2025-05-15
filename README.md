@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023336                                |
-| Last Updated      | 2025-05-15 12:39:12 UTC                                    |
+| Total Signatures   | 3023343                                |
+| Last Updated      | 2025-05-15 13:29:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -21,7 +21,7 @@
 | Barking | Nesil Caliskan MP | 2673 |
 | Barnsley North | Dan Jarvis MP | 5767 |
 | Barnsley South | Stephanie Peacock MP | 5844 |
-| Barrow and Furness | Michelle Scrogham MP | 5384 |
+| Barrow and Furness | Michelle Scrogham MP | 5385 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6944 |
 | Basingstoke | Luke Murphy MP | 4872 |
 | Bassetlaw | Jo White MP | 6829 |
@@ -367,7 +367,7 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2178 |
 | Oxford West and Abingdon | Layla Moran MP | 2950 |
 | Peckham | Miatta Fahnbulleh MP | 1375 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6266 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6267 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5500 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6256 |
 | Peterborough | Andrew Pakes MP | 4206 |
@@ -391,10 +391,10 @@
 | Ribble Valley | Maya Ellis MP | 6774 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7165 |
 | Richmond Park | Sarah Olney MP | 4079 |
-| Rochdale | Paul Waugh MP | 3996 |
+| Rochdale | Paul Waugh MP | 3997 |
 | Rochester and Strood | Lauren Edwards MP | 6088 |
 | Romford | Andrew Rosindell MP | 5841 |
-| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5107 |
+| Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5108 |
 | Rossendale and Darwen | Andy MacNae MP | 6568 |
 | Rother Valley | Jake Richards MP | 5919 |
 | Rotherham | Sarah Champion MP | 5002 |
@@ -427,7 +427,7 @@
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5497 |
 | South Basildon and East Thurrock | James McMurdock MP | 6656 |
 | South Cambridgeshire | Pippa Heylings MP | 4474 |
-| South Cotswolds | Dr Roz Savage MP | 5749 |
+| South Cotswolds | Dr Roz Savage MP | 5750 |
 | South Derbyshire | Samantha Niblett MP | 6222 |
 | South Devon | Caroline Voaden MP | 5363 |
 | South Dorset | Lloyd Hatton MP | 5719 |
@@ -489,7 +489,7 @@
 | Telford | Shaun Davies MP | 5663 |
 | Tewkesbury | Cameron Thomas MP | 5056 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6461 |
-| Thirsk and Malton | Kevin Hollinrake MP | 7487 |
+| Thirsk and Malton | Kevin Hollinrake MP | 7488 |
 | Thornbury and Yate | Claire Young MP | 5740 |
 | Thurrock | Jen Craft MP | 5174 |
 | Tipton and Wednesbury | Antonia Bance MP | 4986 |
@@ -620,7 +620,7 @@
 | Perth and Kinross-shire | Pete Wishart MP | 3537 |
 | Rutherglen | Michael Shanks MP | 2607 |
 | Stirling and Strathallan | Chris Kane MP | 3250 |
-| West Dunbartonshire | Douglas McAllister MP | 2767 |
+| West Dunbartonshire | Douglas McAllister MP | 2768 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3579 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4067 |
 | Central Ayrshire | Alan Gemmell MP | 3170 |
