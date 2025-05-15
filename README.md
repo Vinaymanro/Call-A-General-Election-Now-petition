@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023427                                |
-| Last Updated      | 2025-05-15 18:27:20 UTC                                    |
+| Total Signatures   | 3023435                                |
+| Last Updated      | 2025-05-15 19:15:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -60,7 +60,7 @@
 | Bolton West | Phil Brickell MP | 5637 |
 | Bootle | Peter Dowd MP | 3214 |
 | Boston and Skegness | Richard Tice MP | 7156 |
-| Bournemouth East | Tom Hayes MP | 4711 |
+| Bournemouth East | Tom Hayes MP | 4712 |
 | Bournemouth West | Jessica Toale MP | 4963 |
 | Bracknell | Peter Swallow MP | 5023 |
 | Bradford East | Imran Hussain MP | 2945 |
@@ -76,14 +76,14 @@
 | Brigg and Immingham | Martin Vickers MP | 6521 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3964 |
 | Brighton Pavilion | Siân Berry MP | 2765 |
-| Bristol Central | Carla Denyer MP | 1626 |
+| Bristol Central | Carla Denyer MP | 1627 |
 | Bristol East | Kerry McCarthy MP | 3018 |
 | Bristol North East | Damien Egan MP | 3129 |
 | Bristol North West | Rt Hon Darren Jones MP | 3246 |
 | Bristol South | Karin Smyth MP | 4025 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5881 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5289 |
-| Bromsgrove | Bradley Thomas MP | 6527 |
+| Bromsgrove | Bradley Thomas MP | 6528 |
 | Broxbourne | Lewis Cocking MP | 6133 |
 | Broxtowe | Juliet Campbell MP | 4750 |
 | Buckingham and Bletchley | Callum Anderson MP | 5296 |
@@ -147,7 +147,7 @@
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6128 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5639 |
 | Dorking and Horley | Chris Coghlan MP | 5579 |
-| Dover and Deal | Mike Tapp MP | 5999 |
+| Dover and Deal | Mike Tapp MP | 6000 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6617 |
 | Dudley | Sonia Kumar MP | 5455 |
 | Dulwich and West Norwood | Helen Hayes MP | 1574 |
@@ -171,7 +171,7 @@
 | Eltham and Chislehurst | Clive Efford MP | 4741 |
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5209 |
 | Enfield North | Feryal Clark MP | 2925 |
-| Epping Forest | Dr Neil Hudson MP | 6633 |
+| Epping Forest | Dr Neil Hudson MP | 6634 |
 | Epsom and Ewell | Helen Maguire MP | 4960 |
 | Erewash | Adam Thompson MP | 5901 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3250 |
@@ -281,7 +281,7 @@
 | Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1608 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1893 |
 | Lichfield | Dave Robertson MP | 6539 |
-| Lincoln | Mr Hamish Falconer MP | 4694 |
+| Lincoln | Mr Hamish Falconer MP | 4695 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3189 |
 | Liverpool Riverside | Kim Johnson MP | 2688 |
 | Liverpool Walton | Dan Carden MP | 3418 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5642 |
 | Mid Norfolk | George Freeman MP | 6336 |
 | Mid Sussex | Alison Bennett MP | 4735 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4283 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4284 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5775 |
 | Milton Keynes Central | Emily Darlington MP | 4983 |
 | Milton Keynes North | Chris Curtis MP | 4613 |
@@ -656,5 +656,5 @@
 | Swansea West | Torsten Bell MP | 3721 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4131 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4677 |
-| Wrexham | Andrew Ranger MP | 4860 |
+| Wrexham | Andrew Ranger MP | 4861 |
 | Ynys Môn | Llinos Medi MP | 3761 |
