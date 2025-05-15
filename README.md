@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023479                                |
-| Last Updated      | 2025-05-15 22:17:51 UTC                                    |
+| Total Signatures   | 3023481                                |
+| Last Updated      | 2025-05-15 23:18:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -125,7 +125,7 @@
 | Colne Valley | Paul Davies MP | 5080 |
 | Congleton | Sarah Russell MP | 6032 |
 | Corby and East Northamptonshire | Lee Barron MP | 6068 |
-| Coventry East | Mary Creagh MP | 3645 |
+| Coventry East | Mary Creagh MP | 3646 |
 | Coventry North West | Taiwo Owatemi MP | 4309 |
 | Coventry South | Zarah Sultana MP | 3553 |
 | Cramlington and Killingworth | Emma Foody MP | 5862 |
@@ -232,7 +232,7 @@
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5785 |
 | Hexham | Joe Morris MP | 6449 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5327 |
-| High Peak | Jon Pearce MP | 5525 |
+| High Peak | Jon Pearce MP | 5526 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6545 |
 | Hitchin | Alistair Strathern MP | 4949 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2296 |
