@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023254                                |
-| Last Updated      | 2025-05-15 04:22:53 UTC                                    |
+| Total Signatures   | 3023259                                |
+| Last Updated      | 2025-05-15 05:19:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -63,7 +63,7 @@
 | Bournemouth East | Tom Hayes MP | 4711 |
 | Bournemouth West | Jessica Toale MP | 4961 |
 | Bracknell | Peter Swallow MP | 5023 |
-| Bradford East | Imran Hussain MP | 2944 |
+| Bradford East | Imran Hussain MP | 2945 |
 | Bradford South | Judith Cummins MP | 4240 |
 | Bradford West | Naz Shah MP | 1855 |
 | Braintree | Rt Hon Sir James Cleverly MP | 7496 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6266 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5500 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6256 |
-| Peterborough | Andrew Pakes MP | 4205 |
+| Peterborough | Andrew Pakes MP | 4206 |
 | Plymouth Moor View | Fred Thomas MP | 5776 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4825 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5531 |
@@ -499,7 +499,7 @@
 | Torbay | Steve Darling MP | 5910 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6633 |
 | Tottenham | Rt Hon David Lammy MP | 1707 |
-| Truro and Falmouth | Jayne Kirkham MP | 4642 |
+| Truro and Falmouth | Jayne Kirkham MP | 4643 |
 | Tunbridge Wells | Mike Martin MP | 5497 |
 | Twickenham | Munira Wilson MP | 3679 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4527 |
@@ -515,7 +515,7 @@
 | Washington and Gateshead South | Mrs Sharon Hodgson MP | 5398 |
 | Watford | Matt Turmaine MP | 3772 |
 | Waveney Valley | Adrian Ramsay MP | 5905 |
-| Weald of Kent | Katie Lam MP | 7282 |
+| Weald of Kent | Katie Lam MP | 7283 |
 | Wellingborough and Rushden | Gen Kitchen MP | 5145 |
 | Wells and Mendip Hills | Tessa Munt MP | 5299 |
 | Welwyn Hatfield | Andrew Lewin MP | 5101 |
@@ -536,7 +536,7 @@
 | Windsor | Jack Rankin MP | 5141 |
 | Wirral West | Matthew Patrick MP | 4237 |
 | Witham | Rt Hon Priti Patel MP | 7067 |
-| Witney | Charlie Maynard MP | 5199 |
+| Witney | Charlie Maynard MP | 5200 |
 | Woking | Mr Will Forster MP | 4420 |
 | Wokingham | Clive Jones MP | 4894 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4463 |
