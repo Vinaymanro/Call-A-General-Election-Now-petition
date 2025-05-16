@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023488                                |
-| Last Updated      | 2025-05-16 05:19:22 UTC                                    |
+| Total Signatures   | 3023495                                |
+| Last Updated      | 2025-05-16 06:28:26 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -24,7 +24,7 @@
 | Barrow and Furness | Michelle Scrogham MP | 5385 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6945 |
 | Basingstoke | Luke Murphy MP | 4873 |
-| Bassetlaw | Jo White MP | 6830 |
+| Bassetlaw | Jo White MP | 6831 |
 | Bath | Wera Hobhouse MP | 2987 |
 | Battersea | Marsha De Cordova MP | 3630 |
 | Beaconsfield | Joy Morrissey MP | 5242 |
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1766 |
 | Colchester | Pam Cox MP | 5058 |
 | Colne Valley | Paul Davies MP | 5080 |
-| Congleton | Sarah Russell MP | 6032 |
+| Congleton | Sarah Russell MP | 6033 |
 | Corby and East Northamptonshire | Lee Barron MP | 6068 |
 | Coventry East | Mary Creagh MP | 3647 |
 | Coventry North West | Taiwo Owatemi MP | 4309 |
@@ -155,7 +155,7 @@
 | Ealing Central and Acton | Dr Rupa Huq MP | 3123 |
 | Ealing North | James Murray MP | 2604 |
 | Ealing Southall | Deirdre Costigan MP | 1975 |
-| Earley and Woodley | Yuan Yang MP | 3984 |
+| Earley and Woodley | Yuan Yang MP | 3985 |
 | Easington | Grahame Morris MP | 5833 |
 | East Grinstead and Uckfield | Mims Davies MP | 6091 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1121 |
@@ -239,7 +239,7 @@
 | Honiton and Sidmouth | Richard Foord MP | 5314 |
 | Hornchurch and Upminster | Julia Lopez MP | 6663 |
 | Hornsey and Friern Barnet | Catherine West MP | 1957 |
-| Horsham | John Milne MP | 5872 |
+| Horsham | John Milne MP | 5873 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6397 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3360 |
 | Huddersfield | Harpreet Uppal MP | 3729 |
@@ -290,7 +290,7 @@
 | Loughborough | Dr Jeevun Sandher MP | 4521 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7847 |
 | Lowestoft | Jess Asato MP | 5382 |
-| Luton North | Sarah Owen MP | 2506 |
+| Luton North | Sarah Owen MP | 2507 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2978 |
 | Macclesfield | Tim Roca MP | 5429 |
 | Maidenhead | Mr Joshua Reynolds MP | 5322 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 6002 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5984 |
 | Tooting | Dr Rosena Allin-Khan MP | 2710 |
-| Torbay | Steve Darling MP | 5911 |
+| Torbay | Steve Darling MP | 5912 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6633 |
 | Tottenham | Rt Hon David Lammy MP | 1708 |
 | Truro and Falmouth | Jayne Kirkham MP | 4644 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3773 |
 | Waveney Valley | Adrian Ramsay MP | 5907 |
 | Weald of Kent | Katie Lam MP | 7283 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5145 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5146 |
 | Wells and Mendip Hills | Tessa Munt MP | 5299 |
 | Welwyn Hatfield | Andrew Lewin MP | 5101 |
 | West Bromwich | Sarah Coombes MP | 3823 |
