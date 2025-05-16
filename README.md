@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023540                                |
-| Last Updated      | 2025-05-16 11:16:02 UTC                                    |
+| Total Signatures   | 3023550                                |
+| Last Updated      | 2025-05-16 12:39:05 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -92,7 +92,7 @@
 | Bury North | Mr James Frith MP | 5027 |
 | Bury South | Christian Wakeford MP | 5478 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5490 |
-| Calder Valley | Josh Fenton-Glynn MP | 5703 |
+| Calder Valley | Josh Fenton-Glynn MP | 5705 |
 | Camborne and Redruth | Perran Moon MP | 5027 |
 | Cambridge | Daniel Zeichner MP | 2243 |
 | Cannock Chase | Josh Newbury MP | 6966 |
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5530 |
 | Grantham and Bourne | Gareth Davies MP | 6369 |
 | Gravesham | Dr Lauren Sullivan MP | 5213 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5878 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5879 |
 | Great Yarmouth | Rupert Lowe MP | 6659 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2652 |
 | Guildford | Zöe Franklin MP | 4020 |
@@ -232,7 +232,7 @@
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5785 |
 | Hexham | Joe Morris MP | 6449 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5327 |
-| High Peak | Jon Pearce MP | 5526 |
+| High Peak | Jon Pearce MP | 5527 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6545 |
 | Hitchin | Alistair Strathern MP | 4949 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2296 |
@@ -380,7 +380,7 @@
 | Portsmouth South | Stephen Morgan MP | 3936 |
 | Preston | Sir Mark Hendrick MP | 3858 |
 | Putney | Fleur Anderson MP | 3538 |
-| Queen's Park and Maida Vale | Georgia Gould MP | 2173 |
+| Queen's Park and Maida Vale | Georgia Gould MP | 2174 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5187 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7396 |
 | Reading Central | Matt Rodda MP | 3049 |
@@ -389,7 +389,7 @@
 | Redditch | Chris Bloore MP | 6162 |
 | Reigate | Rebecca Paul MP | 5575 |
 | Ribble Valley | Maya Ellis MP | 6774 |
-| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7165 |
+| Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7166 |
 | Richmond Park | Sarah Olney MP | 4079 |
 | Rochdale | Paul Waugh MP | 3997 |
 | Rochester and Strood | Lauren Edwards MP | 6088 |
@@ -483,7 +483,7 @@
 | Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5703 |
 | Swindon North | Will Stone MP | 4958 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4264 |
-| Tamworth | Sarah Edwards MP | 7025 |
+| Tamworth | Sarah Edwards MP | 7027 |
 | Tatton | Rt Hon Esther McVey MP | 6526 |
 | Taunton and Wellington | Gideon Amos MP | 5230 |
 | Telford | Shaun Davies MP | 5663 |
@@ -521,7 +521,7 @@
 | Welwyn Hatfield | Andrew Lewin MP | 5101 |
 | West Bromwich | Sarah Coombes MP | 3823 |
 | West Dorset | Edward Morello MP | 5494 |
-| West Ham and Beckton | James Asser MP | 2181 |
+| West Ham and Beckton | James Asser MP | 2182 |
 | West Lancashire | Ashley Dalton MP | 5115 |
 | West Suffolk | Nick Timothy MP | 6087 |
 | West Worcestershire | Dame Harriett Baldwin MP | 6310 |
@@ -621,7 +621,7 @@
 | Rutherglen | Michael Shanks MP | 2607 |
 | Stirling and Strathallan | Chris Kane MP | 3250 |
 | West Dunbartonshire | Douglas McAllister MP | 2768 |
-| Ayr, Carrick and Cumnock | Elaine Stewart MP | 3579 |
+| Ayr, Carrick and Cumnock | Elaine Stewart MP | 3580 |
 | Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4069 |
 | Central Ayrshire | Alan Gemmell MP | 3170 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3294 |
