@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023485                                |
-| Last Updated      | 2025-05-16 01:38:40 UTC                                    |
+| Total Signatures   | 3023487                                |
+| Last Updated      | 2025-05-16 03:11:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -436,7 +436,7 @@
 | South Leicestershire | Alberto Costa MP | 7049 |
 | South Norfolk | Ben Goldsborough MP | 5479 |
 | South Northamptonshire | Sarah Bool MP | 6723 |
-| South Ribble | Mr Paul Foster MP | 5952 |
+| South Ribble | Mr Paul Foster MP | 5953 |
 | South Shields | Emma Lewell MP | 4782 |
 | South Shropshire | Stuart Anderson MP | 7367 |
 | South Suffolk | James Cartlidge MP | 6199 |
@@ -578,7 +578,7 @@
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3881 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4718 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2859 |
-| Alloa and Grangemouth | Brian Leishman MP | 3053 |
+| Alloa and Grangemouth | Brian Leishman MP | 3054 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4084 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3500 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3449 |
