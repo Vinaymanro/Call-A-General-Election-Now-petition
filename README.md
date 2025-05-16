@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023529                                |
-| Last Updated      | 2025-05-16 10:20:24 UTC                                    |
+| Total Signatures   | 3023540                                |
+| Last Updated      | 2025-05-16 11:16:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -52,7 +52,7 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6232 |
 | Blackpool South | Chris Webb MP | 5891 |
 | Blaydon and Consett | Liz Twist MP | 5294 |
-| Blyth and Ashington | Ian Lavery MP | 5929 |
+| Blyth and Ashington | Ian Lavery MP | 5930 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6201 |
 | Bolsover | Natalie Fleet MP | 6617 |
 | Bolton North East | Kirith Entwistle MP | 5679 |
@@ -151,7 +151,7 @@
 | Droitwich and Evesham | Nigel Huddleston MP | 6618 |
 | Dudley | Sonia Kumar MP | 5455 |
 | Dulwich and West Norwood | Helen Hayes MP | 1574 |
-| Dunstable and Leighton Buzzard | Alex Mayer MP | 5575 |
+| Dunstable and Leighton Buzzard | Alex Mayer MP | 5576 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3123 |
 | Ealing North | James Murray MP | 2604 |
 | Ealing Southall | Deirdre Costigan MP | 1975 |
@@ -172,7 +172,7 @@
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5209 |
 | Enfield North | Feryal Clark MP | 2925 |
 | Epping Forest | Dr Neil Hudson MP | 6634 |
-| Epsom and Ewell | Helen Maguire MP | 4960 |
+| Epsom and Ewell | Helen Maguire MP | 4961 |
 | Erewash | Adam Thompson MP | 5901 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3250 |
 | Esher and Walton | Monica Harding MP | 4850 |
@@ -219,7 +219,7 @@
 | Harrow West | Gareth Thomas MP | 2419 |
 | Hartlepool | Mr Jonathan Brash MP | 5722 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6328 |
-| Hastings and Rye | Helena Dollimore MP | 5114 |
+| Hastings and Rye | Helena Dollimore MP | 5115 |
 | Havant | Alan Mak MP | 5735 |
 | Hayes and Harlington | Rt Hon John McDonnell MP | 2624 |
 | Hazel Grove | Lisa Smart MP | 5162 |
@@ -338,7 +338,7 @@
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6141 |
 | North East Derbyshire | Louise Jones MP | 5858 |
 | North East Hampshire | Alex Brewer MP | 5988 |
-| North East Hertfordshire | Chris Hinchliff MP | 5890 |
+| North East Hertfordshire | Chris Hinchliff MP | 5891 |
 | North East Somerset and Hanham | Dan Norris MP | 5093 |
 | North Herefordshire | Ellie Chowns MP | 6522 |
 | North Norfolk | Steff Aquarone MP | 5473 |
@@ -572,7 +572,7 @@
 | East Renfrewshire | Blair McDougall MP | 2617 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 886 |
 | Midlothian | Kirsty McNeill MP | 2833 |
-| North Ayrshire and Arran | Irene Campbell MP | 3324 |
+| North Ayrshire and Arran | Irene Campbell MP | 3325 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1452 |
 | Aberdeen North | Kirsty Blackman MP | 3599 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3881 |
@@ -590,7 +590,7 @@
 | Dumfries and Galloway | John Cooper MP | 4072 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3893 |
 | Dundee Central | Chris Law MP | 2584 |
-| Dunfermline and Dollar | Graeme Downie MP | 2961 |
+| Dunfermline and Dollar | Graeme Downie MP | 2962 |
 | East Kilbride and Strathaven | Joani Reid MP | 3193 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2124 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2434 |
@@ -638,7 +638,7 @@
 | Cardiff North | Anna McMorrin MP | 3319 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2832 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3193 |
-| Ceredigion Preseli | Ben Lake MP | 4791 |
+| Ceredigion Preseli | Ben Lake MP | 4794 |
 | Clwyd East | Becky Gittins MP | 6110 |
 | Clwyd North | Gill German MP | 5539 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4271 |
@@ -656,5 +656,5 @@
 | Swansea West | Torsten Bell MP | 3721 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4132 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4677 |
-| Wrexham | Andrew Ranger MP | 4861 |
+| Wrexham | Andrew Ranger MP | 4862 |
 | Ynys Môn | Llinos Medi MP | 3761 |
