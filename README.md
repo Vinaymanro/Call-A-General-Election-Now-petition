@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023495                                |
-| Last Updated      | 2025-05-16 06:28:26 UTC                                    |
+| Total Signatures   | 3023500                                |
+| Last Updated      | 2025-05-16 07:18:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -79,7 +79,7 @@
 | Bristol Central | Carla Denyer MP | 1627 |
 | Bristol East | Kerry McCarthy MP | 3018 |
 | Bristol North East | Damien Egan MP | 3129 |
-| Bristol North West | Rt Hon Darren Jones MP | 3246 |
+| Bristol North West | Rt Hon Darren Jones MP | 3247 |
 | Bristol South | Karin Smyth MP | 4025 |
 | Broadland and Fakenham | Jerome Mayhew MP | 5881 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5289 |
@@ -347,7 +347,7 @@
 | North Somerset | Sadik Al-Hassan MP | 4614 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6332 |
 | North West Cambridgeshire | Sam Carling MP | 6070 |
-| North West Essex | Rt Hon Kemi Badenoch MP | 7176 |
+| North West Essex | Rt Hon Kemi Badenoch MP | 7177 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5769 |
 | North West Leicestershire | Amanda Hack MP | 6766 |
 | North West Norfolk | James Wild MP | 5814 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 6073 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5139 |
 | Sefton Central | Bill Esterson MP | 4074 |
-| Selby | Keir Mather MP | 6433 |
+| Selby | Keir Mather MP | 6434 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6708 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3481 |
 | Sheffield Central | Abtisam Mohamed MP | 1447 |
@@ -425,7 +425,7 @@
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2609 |
 | Smethwick | Gurinder Singh Josan MP | 3098 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5498 |
-| South Basildon and East Thurrock | James McMurdock MP | 6656 |
+| South Basildon and East Thurrock | James McMurdock MP | 6657 |
 | South Cambridgeshire | Pippa Heylings MP | 4474 |
 | South Cotswolds | Dr Roz Savage MP | 5750 |
 | South Derbyshire | Samantha Niblett MP | 6222 |
@@ -485,7 +485,7 @@
 | Swindon South | Rt Hon Heidi Alexander MP | 4264 |
 | Tamworth | Sarah Edwards MP | 7025 |
 | Tatton | Rt Hon Esther McVey MP | 6526 |
-| Taunton and Wellington | Gideon Amos MP | 5229 |
+| Taunton and Wellington | Gideon Amos MP | 5230 |
 | Telford | Shaun Davies MP | 5663 |
 | Tewkesbury | Cameron Thomas MP | 5056 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6461 |
