@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023663                                |
-| Last Updated      | 2025-05-16 20:20:34 UTC                                    |
+| Total Signatures   | 3023671                                |
+| Last Updated      | 2025-05-16 21:17:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -64,7 +64,7 @@
 | Bournemouth West | Jessica Toale MP | 4963 |
 | Bracknell | Peter Swallow MP | 5025 |
 | Bradford East | Imran Hussain MP | 2946 |
-| Bradford South | Judith Cummins MP | 4240 |
+| Bradford South | Judith Cummins MP | 4241 |
 | Bradford West | Naz Shah MP | 1855 |
 | Braintree | Rt Hon Sir James Cleverly MP | 7497 |
 | Brent East | Dawn Butler MP | 1887 |
@@ -184,7 +184,7 @@
 | Feltham and Heston | Seema Malhotra MP | 2957 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4557 |
 | Finchley and Golders Green | Sarah Sackman MP | 4295 |
-| Folkestone and Hythe | Tony Vaughan KC MP | 5449 |
+| Folkestone and Hythe | Tony Vaughan KC MP | 5450 |
 | Forest of Dean | Matt Bishop MP | 5317 |
 | Frome and East Somerset | Anna Sabine MP | 4375 |
 | Fylde | Mr Andrew Snowden MP | 6834 |
@@ -344,7 +344,7 @@
 | North Norfolk | Steff Aquarone MP | 5473 |
 | North Northumberland | David Smith MP | 6487 |
 | North Shropshire | Helen Morgan MP | 6938 |
-| North Somerset | Sadik Al-Hassan MP | 4614 |
+| North Somerset | Sadik Al-Hassan MP | 4615 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6332 |
 | North West Cambridgeshire | Sam Carling MP | 6071 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7177 |
@@ -361,7 +361,7 @@
 | Nuneaton | Jodie Gosling MP | 5624 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6261 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5287 |
-| Oldham West, Chadderton and Royton | Jim McMahon MP | 4135 |
+| Oldham West, Chadderton and Royton | Jim McMahon MP | 4136 |
 | Orpington | Gareth Bacon MP | 5356 |
 | Ossett and Denby Dale | Jade Botterill MP | 5855 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2178 |
@@ -486,7 +486,7 @@
 | Tamworth | Sarah Edwards MP | 7027 |
 | Tatton | Rt Hon Esther McVey MP | 6526 |
 | Taunton and Wellington | Gideon Amos MP | 5230 |
-| Telford | Shaun Davies MP | 5663 |
+| Telford | Shaun Davies MP | 5665 |
 | Tewkesbury | Cameron Thomas MP | 5057 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6462 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7489 |
@@ -627,13 +627,13 @@
 | Kilmarnock and Loudoun | Lillian Jones MP | 3294 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4599 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3770 |
-| Alyn and Deeside | Rt Hon Mark Tami MP | 5821 |
+| Alyn and Deeside | Rt Hon Mark Tami MP | 5822 |
 | Bangor Aberconwy | Claire Hughes MP | 4563 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3717 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5326 |
 | Bridgend | Chris Elmore MP | 4306 |
 | Caerfyrddin | Ann Davies MP | 5265 |
-| Caerphilly | Chris Evans MP | 4083 |
+| Caerphilly | Chris Evans MP | 4084 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2957 |
 | Cardiff North | Anna McMorrin MP | 3319 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2832 |
