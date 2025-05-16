@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023481                                |
-| Last Updated      | 2025-05-15 23:18:05 UTC                                    |
+| Total Signatures   | 3023485                                |
+| Last Updated      | 2025-05-16 01:38:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -153,7 +153,7 @@
 | Dulwich and West Norwood | Helen Hayes MP | 1574 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5575 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3123 |
-| Ealing North | James Murray MP | 2603 |
+| Ealing North | James Murray MP | 2604 |
 | Ealing Southall | Deirdre Costigan MP | 1975 |
 | Earley and Woodley | Yuan Yang MP | 3984 |
 | Easington | Grahame Morris MP | 5833 |
@@ -161,7 +161,7 @@
 | East Ham | Rt Hon Sir Stephen Timms MP | 1121 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5378 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6071 |
-| East Thanet | Ms Polly Billington MP | 5548 |
+| East Thanet | Ms Polly Billington MP | 5549 |
 | East Wiltshire | Danny Kruger MP | 6117 |
 | East Worthing and Shoreham | Tom Rutland MP | 4655 |
 | Eastbourne | Josh Babarinde MP | 5083 |
@@ -189,7 +189,7 @@
 | Frome and East Somerset | Anna Sabine MP | 4375 |
 | Fylde | Mr Andrew Snowden MP | 6833 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6714 |
-| Gateshead Central and Whickham | Mark Ferguson MP | 4577 |
+| Gateshead Central and Whickham | Mark Ferguson MP | 4578 |
 | Gedling | Michael Payne MP | 5121 |
 | Gillingham and Rainham | Naushabah Khan MP | 5102 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5633 |
@@ -381,7 +381,7 @@
 | Preston | Sir Mark Hendrick MP | 3858 |
 | Putney | Fleur Anderson MP | 3538 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2173 |
-| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5186 |
+| Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5187 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7396 |
 | Reading Central | Matt Rodda MP | 3049 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4473 |
