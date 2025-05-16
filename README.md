@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023521                                |
-| Last Updated      | 2025-05-16 09:20:15 UTC                                    |
+| Total Signatures   | 3023529                                |
+| Last Updated      | 2025-05-16 10:20:24 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -108,7 +108,7 @@
 | Chelsea and Fulham | Ben Coleman MP | 5520 |
 | Cheltenham | Max Wilkinson MP | 4058 |
 | Chesham and Amersham | Sarah Green MP | 4973 |
-| Chester North and Neston | Samantha Dixon MP | 4096 |
+| Chester North and Neston | Samantha Dixon MP | 4097 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6432 |
 | Chesterfield | Mr Toby Perkins MP | 4945 |
 | Chichester | Jess Brown-Fuller MP | 5978 |
@@ -146,7 +146,7 @@
 | Doncaster Central | Sally Jameson MP | 4989 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6128 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5640 |
-| Dorking and Horley | Chris Coghlan MP | 5579 |
+| Dorking and Horley | Chris Coghlan MP | 5580 |
 | Dover and Deal | Mike Tapp MP | 6001 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6618 |
 | Dudley | Sonia Kumar MP | 5455 |
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5161 |
 | Harrow East | Bob Blackman MP | 3151 |
 | Harrow West | Gareth Thomas MP | 2419 |
-| Hartlepool | Mr Jonathan Brash MP | 5721 |
+| Hartlepool | Mr Jonathan Brash MP | 5722 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6328 |
 | Hastings and Rye | Helena Dollimore MP | 5114 |
 | Havant | Alan Mak MP | 5735 |
@@ -247,7 +247,7 @@
 | Hyndburn | Sarah Smith MP | 5074 |
 | Ilford North | Rt Hon Wes Streeting MP | 2640 |
 | Ilford South | Jas Athwal MP | 1613 |
-| Ipswich | Jack Abbott MP | 4200 |
+| Ipswich | Jack Abbott MP | 4201 |
 | Isle of Wight East | Joe Robertson MP | 4410 |
 | Isle of Wight West | Mr Richard Quigley MP | 4106 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1817 |
@@ -281,7 +281,7 @@
 | Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1608 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1893 |
 | Lichfield | Dave Robertson MP | 6539 |
-| Lincoln | Mr Hamish Falconer MP | 4695 |
+| Lincoln | Mr Hamish Falconer MP | 4696 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3189 |
 | Liverpool Riverside | Kim Johnson MP | 2688 |
 | Liverpool Walton | Dan Carden MP | 3418 |
@@ -534,7 +534,7 @@
 | Wimbledon | Mr Paul Kohler MP | 3430 |
 | Winchester | Dr Danny Chambers MP | 4956 |
 | Windsor | Jack Rankin MP | 5142 |
-| Wirral West | Matthew Patrick MP | 4237 |
+| Wirral West | Matthew Patrick MP | 4238 |
 | Witham | Rt Hon Priti Patel MP | 7067 |
 | Witney | Charlie Maynard MP | 5202 |
 | Woking | Mr Will Forster MP | 4420 |
@@ -622,7 +622,7 @@
 | Stirling and Strathallan | Chris Kane MP | 3250 |
 | West Dunbartonshire | Douglas McAllister MP | 2768 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3579 |
-| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4068 |
+| Berwickshire, Roxburgh and Selkirk | John Lamont MP | 4069 |
 | Central Ayrshire | Alan Gemmell MP | 3170 |
 | Kilmarnock and Loudoun | Lillian Jones MP | 3294 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4599 |
@@ -652,7 +652,7 @@
 | Newport East | Jessica Morden MP | 4079 |
 | Newport West and Islwyn | Ruth Jones MP | 4129 |
 | Pontypridd | Alex Davies-Jones MP | 3982 |
-| Rhondda and Ogmore | Chris Bryant MP | 4128 |
+| Rhondda and Ogmore | Chris Bryant MP | 4129 |
 | Swansea West | Torsten Bell MP | 3721 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4132 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4677 |
