@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023773                                |
-| Last Updated      | 2025-05-17 09:18:07 UTC                                    |
+| Total Signatures   | 3023783                                |
+| Last Updated      | 2025-05-17 10:18:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -23,7 +23,7 @@
 | Barnsley South | Stephanie Peacock MP | 5844 |
 | Barrow and Furness | Michelle Scrogham MP | 5386 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6946 |
-| Basingstoke | Luke Murphy MP | 4873 |
+| Basingstoke | Luke Murphy MP | 4874 |
 | Bassetlaw | Jo White MP | 6831 |
 | Bath | Wera Hobhouse MP | 2987 |
 | Battersea | Marsha De Cordova MP | 3630 |
@@ -137,7 +137,7 @@
 | Dagenham and Rainham | Margaret Mullane MP | 4280 |
 | Darlington | Lola McEvoy MP | 5504 |
 | Dartford | Jim Dickson MP | 5783 |
-| Daventry | Rt Hon Stuart Andrew MP | 7332 |
+| Daventry | Rt Hon Stuart Andrew MP | 7333 |
 | Derby North | Catherine Atkinson MP | 4380 |
 | Derby South | Baggy Shanker MP | 3660 |
 | Derbyshire Dales | John Whitby MP | 6831 |
@@ -152,7 +152,7 @@
 | Dudley | Sonia Kumar MP | 5455 |
 | Dulwich and West Norwood | Helen Hayes MP | 1574 |
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5576 |
-| Ealing Central and Acton | Dr Rupa Huq MP | 3123 |
+| Ealing Central and Acton | Dr Rupa Huq MP | 3124 |
 | Ealing North | James Murray MP | 2604 |
 | Ealing Southall | Deirdre Costigan MP | 1975 |
 | Earley and Woodley | Yuan Yang MP | 3985 |
@@ -180,8 +180,8 @@
 | Exmouth and Exeter East | David Reed MP | 5254 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6192 |
 | Farnham and Bordon | Gregory Stafford MP | 5218 |
-| Faversham and Mid Kent | Helen Whately MP | 6280 |
-| Feltham and Heston | Seema Malhotra MP | 2957 |
+| Faversham and Mid Kent | Helen Whately MP | 6281 |
+| Feltham and Heston | Seema Malhotra MP | 2958 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4557 |
 | Finchley and Golders Green | Sarah Sackman MP | 4295 |
 | Folkestone and Hythe | Tony Vaughan KC MP | 5451 |
@@ -196,7 +196,7 @@
 | Gloucester | Alex McIntyre MP | 4588 |
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5265 |
 | Goole and Pocklington | Rt Hon David Davis MP | 7025 |
-| Gorton and Denton | Andrew Gwynne MP | 3326 |
+| Gorton and Denton | Andrew Gwynne MP | 3327 |
 | Gosport | Dame Caroline Dinenage MP | 5532 |
 | Grantham and Bourne | Gareth Davies MP | 6370 |
 | Gravesham | Dr Lauren Sullivan MP | 5214 |
@@ -280,7 +280,7 @@
 | Lewisham North | Vicky Foxcroft MP | 1672 |
 | Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1608 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1893 |
-| Lichfield | Dave Robertson MP | 6539 |
+| Lichfield | Dave Robertson MP | 6540 |
 | Lincoln | Mr Hamish Falconer MP | 4696 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3189 |
 | Liverpool Riverside | Kim Johnson MP | 2689 |
@@ -332,7 +332,7 @@
 | North Bedfordshire | Richard Fuller MP | 6146 |
 | North Cornwall | Ben Maguire MP | 6460 |
 | North Cotswolds | Sir Geoffrey Clifton-Brown MP | 6089 |
-| North Devon | Ian Roome MP | 5910 |
+| North Devon | Ian Roome MP | 5911 |
 | North Dorset | Simon Hoare MP | 6361 |
 | North Durham | Luke Akehurst MP | 5449 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6141 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6222 |
 | South Devon | Caroline Voaden MP | 5363 |
 | South Dorset | Lloyd Hatton MP | 5719 |
-| South East Cornwall | Anna Gelderd MP | 6299 |
+| South East Cornwall | Anna Gelderd MP | 6300 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7197 |
 | South Leicestershire | Alberto Costa MP | 7049 |
 | South Norfolk | Ben Goldsborough MP | 5480 |
@@ -593,7 +593,7 @@
 | Dunfermline and Dollar | Graeme Downie MP | 2962 |
 | East Kilbride and Strathaven | Joani Reid MP | 3194 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2124 |
-| Edinburgh North and Leith | Tracy Gilbert MP | 2434 |
+| Edinburgh North and Leith | Tracy Gilbert MP | 2435 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2078 |
 | Edinburgh South West | Dr Scott Arthur MP | 2277 |
 | Edinburgh West | Christine Jardine MP | 2738 |
