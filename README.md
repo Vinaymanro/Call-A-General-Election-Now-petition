@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023783                                |
-| Last Updated      | 2025-05-17 10:18:36 UTC                                    |
+| Total Signatures   | 3023789                                |
+| Last Updated      | 2025-05-17 11:14:22 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -52,7 +52,7 @@
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6232 |
 | Blackpool South | Chris Webb MP | 5891 |
 | Blaydon and Consett | Liz Twist MP | 5295 |
-| Blyth and Ashington | Ian Lavery MP | 5931 |
+| Blyth and Ashington | Ian Lavery MP | 5932 |
 | Bognor Regis and Littlehampton | Alison Griffiths MP | 6202 |
 | Bolsover | Natalie Fleet MP | 6618 |
 | Bolton North East | Kirith Entwistle MP | 5679 |
@@ -311,7 +311,7 @@
 | Mid Dorset and North Poole | Vikki Slade MP | 5931 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5642 |
 | Mid Norfolk | George Freeman MP | 6336 |
-| Mid Sussex | Alison Bennett MP | 4735 |
+| Mid Sussex | Alison Bennett MP | 4736 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4285 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5777 |
 | Milton Keynes Central | Emily Darlington MP | 4983 |
@@ -336,7 +336,7 @@
 | North Dorset | Simon Hoare MP | 6361 |
 | North Durham | Luke Akehurst MP | 5449 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6141 |
-| North East Derbyshire | Louise Jones MP | 5858 |
+| North East Derbyshire | Louise Jones MP | 5859 |
 | North East Hampshire | Alex Brewer MP | 5988 |
 | North East Hertfordshire | Chris Hinchliff MP | 5892 |
 | North East Somerset and Hanham | Dan Norris MP | 5093 |
@@ -364,7 +364,7 @@
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4136 |
 | Orpington | Gareth Bacon MP | 5356 |
 | Ossett and Denby Dale | Jade Botterill MP | 5855 |
-| Oxford East | Rt Hon Anneliese Dodds MP | 2178 |
+| Oxford East | Rt Hon Anneliese Dodds MP | 2179 |
 | Oxford West and Abingdon | Layla Moran MP | 2950 |
 | Peckham | Miatta Fahnbulleh MP | 1376 |
 | Pendle and Clitheroe | Jonathan Hinder MP | 6267 |
@@ -417,7 +417,7 @@
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3588 |
 | Sheffield South East | Mr Clive Betts MP | 4785 |
 | Sherwood Forest | Michelle Welsh MP | 6727 |
-| Shipley | Anna Dixon MP | 4933 |
+| Shipley | Anna Dixon MP | 4934 |
 | Shrewsbury | Julia Buckley MP | 5369 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6935 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6723 |
@@ -594,7 +594,7 @@
 | East Kilbride and Strathaven | Joani Reid MP | 3194 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2124 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2435 |
-| Edinburgh South | Rt Hon Ian Murray MP | 2078 |
+| Edinburgh South | Rt Hon Ian Murray MP | 2079 |
 | Edinburgh South West | Dr Scott Arthur MP | 2277 |
 | Edinburgh West | Christine Jardine MP | 2738 |
 | Falkirk | Euan Stainbank MP | 3476 |
