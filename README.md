@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023816                                |
-| Last Updated      | 2025-05-17 14:15:55 UTC                                    |
+| Total Signatures   | 3023825                                |
+| Last Updated      | 2025-05-17 15:17:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -12,7 +12,7 @@
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5861 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5530 |
 | Amber Valley | Linsey Farnsworth MP | 6155 |
-| Arundel and South Downs | Andrew Griffith MP | 6998 |
+| Arundel and South Downs | Andrew Griffith MP | 6999 |
 | Ashfield | Lee Anderson MP | 6222 |
 | Ashford | Sojan Joseph MP | 5957 |
 | Ashton-under-Lyne | Rt Hon Angela Rayner MP | 4656 |
@@ -103,7 +103,7 @@
 | Central Devon | Rt Hon Sir Mel Stride MP | 5865 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5335 |
 | Chatham and Aylesford | Tristan Osborne MP | 5698 |
-| Cheadle | Tom Morrison MP | 4700 |
+| Cheadle | Tom Morrison MP | 4701 |
 | Chelmsford | Marie Goldman MP | 5309 |
 | Chelsea and Fulham | Ben Coleman MP | 5520 |
 | Cheltenham | Max Wilkinson MP | 4058 |
@@ -199,7 +199,7 @@
 | Gorton and Denton | Andrew Gwynne MP | 3327 |
 | Gosport | Dame Caroline Dinenage MP | 5532 |
 | Grantham and Bourne | Gareth Davies MP | 6370 |
-| Gravesham | Dr Lauren Sullivan MP | 5214 |
+| Gravesham | Dr Lauren Sullivan MP | 5215 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5881 |
 | Great Yarmouth | Rupert Lowe MP | 6662 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2652 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6222 |
 | South Devon | Caroline Voaden MP | 5363 |
 | South Dorset | Lloyd Hatton MP | 5719 |
-| South East Cornwall | Anna Gelderd MP | 6300 |
+| South East Cornwall | Anna Gelderd MP | 6301 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7197 |
 | South Leicestershire | Alberto Costa MP | 7049 |
 | South Norfolk | Ben Goldsborough MP | 5481 |
@@ -478,7 +478,7 @@
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5430 |
 | Sunderland Central | Lewis Atkinson MP | 5317 |
 | Surrey Heath | Dr Al Pinkerton MP | 5468 |
-| Sussex Weald | Ms Nusrat Ghani MP | 6149 |
+| Sussex Weald | Ms Nusrat Ghani MP | 6150 |
 | Sutton and Cheam | Luke Taylor MP | 4420 |
 | Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5703 |
 | Swindon North | Will Stone MP | 4958 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 6004 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5984 |
 | Tooting | Dr Rosena Allin-Khan MP | 2710 |
-| Torbay | Steve Darling MP | 5913 |
+| Torbay | Steve Darling MP | 5914 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6634 |
 | Tottenham | Rt Hon David Lammy MP | 1708 |
 | Truro and Falmouth | Jayne Kirkham MP | 4645 |
@@ -516,7 +516,7 @@
 | Watford | Matt Turmaine MP | 3773 |
 | Waveney Valley | Adrian Ramsay MP | 5908 |
 | Weald of Kent | Katie Lam MP | 7283 |
-| Wellingborough and Rushden | Gen Kitchen MP | 5147 |
+| Wellingborough and Rushden | Gen Kitchen MP | 5149 |
 | Wells and Mendip Hills | Tessa Munt MP | 5300 |
 | Welwyn Hatfield | Andrew Lewin MP | 5101 |
 | West Bromwich | Sarah Coombes MP | 3823 |
@@ -640,7 +640,7 @@
 | Cardiff West | Mr Alex Barros-Curtis MP | 3193 |
 | Ceredigion Preseli | Ben Lake MP | 4794 |
 | Clwyd East | Becky Gittins MP | 6110 |
-| Clwyd North | Gill German MP | 5539 |
+| Clwyd North | Gill German MP | 5540 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4271 |
 | Gower | Tonia Antoniazzi MP | 4823 |
 | Llanelli | Dame Nia Griffith MP | 5314 |
