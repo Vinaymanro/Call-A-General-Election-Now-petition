@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023807                                |
-| Last Updated      | 2025-05-17 13:24:29 UTC                                    |
+| Total Signatures   | 3023816                                |
+| Last Updated      | 2025-05-17 14:15:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -81,7 +81,7 @@
 | Bristol North East | Damien Egan MP | 3129 |
 | Bristol North West | Rt Hon Darren Jones MP | 3248 |
 | Bristol South | Karin Smyth MP | 4026 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5882 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5883 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5289 |
 | Bromsgrove | Bradley Thomas MP | 6529 |
 | Broxbourne | Lewis Cocking MP | 6133 |
@@ -283,7 +283,7 @@
 | Lichfield | Dave Robertson MP | 6540 |
 | Lincoln | Mr Hamish Falconer MP | 4696 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3189 |
-| Liverpool Riverside | Kim Johnson MP | 2689 |
+| Liverpool Riverside | Kim Johnson MP | 2691 |
 | Liverpool Walton | Dan Carden MP | 3418 |
 | Liverpool Wavertree | Paula Barker MP | 2255 |
 | Liverpool West Derby | Ian Byrne MP | 3112 |
@@ -292,7 +292,7 @@
 | Lowestoft | Jess Asato MP | 5383 |
 | Luton North | Sarah Owen MP | 2508 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2978 |
-| Macclesfield | Tim Roca MP | 5430 |
+| Macclesfield | Tim Roca MP | 5431 |
 | Maidenhead | Mr Joshua Reynolds MP | 5322 |
 | Maidstone and Malling | Helen Grant MP | 5893 |
 | Makerfield | Josh Simons MP | 5954 |
@@ -354,7 +354,7 @@
 | Northampton North | Lucy Rigby KC MP | 4329 |
 | Northampton South | Mike Reader MP | 5011 |
 | Norwich North | Alice Macdonald MP | 4465 |
-| Norwich South | Clive Lewis MP | 3432 |
+| Norwich South | Clive Lewis MP | 3433 |
 | Nottingham East | Nadia Whittome MP | 2511 |
 | Nottingham North and Kimberley | Alex Norris MP | 3778 |
 | Nottingham South | Lilian Greenwood MP | 3089 |
@@ -399,7 +399,7 @@
 | Rother Valley | Jake Richards MP | 5920 |
 | Rotherham | Sarah Champion MP | 5003 |
 | Rugby | John Slinger MP | 5468 |
-| Ruislip, Northwood and Pinner | David Simmonds MP | 4129 |
+| Ruislip, Northwood and Pinner | David Simmonds MP | 4130 |
 | Runcorn and Helsby | Sarah Pochin MP | 5093 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5876 |
 | Rushcliffe | James Naish MP | 5113 |
@@ -419,7 +419,7 @@
 | Sherwood Forest | Michelle Welsh MP | 6727 |
 | Shipley | Anna Dixon MP | 4935 |
 | Shrewsbury | Julia Buckley MP | 5369 |
-| Sittingbourne and Sheppey | Kevin McKenna MP | 6935 |
+| Sittingbourne and Sheppey | Kevin McKenna MP | 6936 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6723 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6343 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2609 |
@@ -453,7 +453,7 @@
 | Spelthorne | Lincoln Jopp MP | 5505 |
 | Spen Valley | Kim Leadbeater MP | 5432 |
 | St Albans | Daisy Cooper MP | 3897 |
-| St Austell and Newquay | Noah Law MP | 5688 |
+| St Austell and Newquay | Noah Law MP | 5689 |
 | St Helens North | David Baines MP | 4779 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4235 |
 | St Ives | Andrew George MP | 5139 |
@@ -473,7 +473,7 @@
 | Stratford and Bow | Uma Kumaran MP | 1789 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6764 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1885 |
-| Stretford and Urmston | Andrew Western MP | 3877 |
+| Stretford and Urmston | Andrew Western MP | 3878 |
 | Stroud | Dr Simon Opher MP | 4571 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5430 |
 | Sunderland Central | Lewis Atkinson MP | 5317 |
