@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023875                                |
-| Last Updated      | 2025-05-17 20:19:14 UTC                                    |
+| Total Signatures   | 3023882                                |
+| Last Updated      | 2025-05-17 21:16:17 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -154,7 +154,7 @@
 | Dunstable and Leighton Buzzard | Alex Mayer MP | 5576 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3124 |
 | Ealing North | James Murray MP | 2604 |
-| Ealing Southall | Deirdre Costigan MP | 1975 |
+| Ealing Southall | Deirdre Costigan MP | 1976 |
 | Earley and Woodley | Yuan Yang MP | 3985 |
 | Easington | Grahame Morris MP | 5835 |
 | East Grinstead and Uckfield | Mims Davies MP | 6091 |
@@ -240,7 +240,7 @@
 | Hornchurch and Upminster | Julia Lopez MP | 6663 |
 | Hornsey and Friern Barnet | Catherine West MP | 1957 |
 | Horsham | John Milne MP | 5874 |
-| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6397 |
+| Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6398 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3360 |
 | Huddersfield | Harpreet Uppal MP | 3729 |
 | Huntingdon | Ben Obese-Jecty MP | 5603 |
@@ -335,7 +335,7 @@
 | North Devon | Ian Roome MP | 5911 |
 | North Dorset | Simon Hoare MP | 6361 |
 | North Durham | Luke Akehurst MP | 5449 |
-| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6141 |
+| North East Cambridgeshire | Rt Hon Steve Barclay MP | 6142 |
 | North East Derbyshire | Louise Jones MP | 5859 |
 | North East Hampshire | Alex Brewer MP | 5988 |
 | North East Hertfordshire | Chris Hinchliff MP | 5892 |
@@ -387,7 +387,7 @@
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4473 |
 | Redcar | Anna Turley MP | 5517 |
 | Redditch | Chris Bloore MP | 6163 |
-| Reigate | Rebecca Paul MP | 5575 |
+| Reigate | Rebecca Paul MP | 5576 |
 | Ribble Valley | Maya Ellis MP | 6774 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7166 |
 | Richmond Park | Sarah Olney MP | 4079 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5139 |
 | Sefton Central | Bill Esterson MP | 4074 |
 | Selby | Keir Mather MP | 6434 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6708 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6709 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3482 |
 | Sheffield Central | Abtisam Mohamed MP | 1447 |
 | Sheffield Hallam | Olivia Blake MP | 3403 |
@@ -418,7 +418,7 @@
 | Sheffield South East | Mr Clive Betts MP | 4785 |
 | Sherwood Forest | Michelle Welsh MP | 6727 |
 | Shipley | Anna Dixon MP | 4935 |
-| Shrewsbury | Julia Buckley MP | 5369 |
+| Shrewsbury | Julia Buckley MP | 5370 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6936 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6723 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6343 |
@@ -496,7 +496,7 @@
 | Tiverton and Minehead | Rachel Gilmour MP | 6005 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5984 |
 | Tooting | Dr Rosena Allin-Khan MP | 2710 |
-| Torbay | Steve Darling MP | 5914 |
+| Torbay | Steve Darling MP | 5915 |
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6634 |
 | Tottenham | Rt Hon David Lammy MP | 1708 |
 | Truro and Falmouth | Jayne Kirkham MP | 4645 |
