@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023718                                |
-| Last Updated      | 2025-05-17 03:06:55 UTC                                    |
+| Total Signatures   | 3023720                                |
+| Last Updated      | 2025-05-17 04:22:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -107,7 +107,7 @@
 | Chelmsford | Marie Goldman MP | 5309 |
 | Chelsea and Fulham | Ben Coleman MP | 5520 |
 | Cheltenham | Max Wilkinson MP | 4058 |
-| Chesham and Amersham | Sarah Green MP | 4974 |
+| Chesham and Amersham | Sarah Green MP | 4975 |
 | Chester North and Neston | Samantha Dixon MP | 4099 |
 | Chester South and Eddisbury | Aphra Brandreth MP | 6432 |
 | Chesterfield | Mr Toby Perkins MP | 4945 |
@@ -172,7 +172,7 @@
 | Ely and East Cambridgeshire | Charlotte Cane MP | 5209 |
 | Enfield North | Feryal Clark MP | 2925 |
 | Epping Forest | Dr Neil Hudson MP | 6634 |
-| Epsom and Ewell | Helen Maguire MP | 4961 |
+| Epsom and Ewell | Helen Maguire MP | 4962 |
 | Erewash | Adam Thompson MP | 5901 |
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3250 |
 | Esher and Walton | Monica Harding MP | 4852 |
