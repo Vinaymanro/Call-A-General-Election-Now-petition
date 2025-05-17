@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023895                                |
-| Last Updated      | 2025-05-17 22:16:31 UTC                                    |
+| Total Signatures   | 3023906                                |
+| Last Updated      | 2025-05-17 23:17:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -135,7 +135,7 @@
 | Croydon South | Rt Hon Chris Philp MP | 3975 |
 | Croydon West | Sarah Jones MP | 1768 |
 | Dagenham and Rainham | Margaret Mullane MP | 4280 |
-| Darlington | Lola McEvoy MP | 5504 |
+| Darlington | Lola McEvoy MP | 5506 |
 | Dartford | Jim Dickson MP | 5783 |
 | Daventry | Rt Hon Stuart Andrew MP | 7333 |
 | Derby North | Catherine Atkinson MP | 4380 |
@@ -151,7 +151,7 @@
 | Droitwich and Evesham | Nigel Huddleston MP | 6618 |
 | Dudley | Sonia Kumar MP | 5455 |
 | Dulwich and West Norwood | Helen Hayes MP | 1574 |
-| Dunstable and Leighton Buzzard | Alex Mayer MP | 5576 |
+| Dunstable and Leighton Buzzard | Alex Mayer MP | 5577 |
 | Ealing Central and Acton | Dr Rupa Huq MP | 3124 |
 | Ealing North | James Murray MP | 2604 |
 | Ealing Southall | Deirdre Costigan MP | 1976 |
@@ -274,10 +274,10 @@
 | Leicester East | Shivani Raja MP | 1912 |
 | Leicester South | Shockat Adam MP | 1887 |
 | Leicester West | Rt Hon Liz Kendall MP | 3516 |
-| Leigh and Atherton | Jo Platt MP | 6149 |
+| Leigh and Atherton | Jo Platt MP | 6150 |
 | Lewes | James MacCleary MP | 4938 |
 | Lewisham East | Janet Daby MP | 2174 |
-| Lewisham North | Vicky Foxcroft MP | 1672 |
+| Lewisham North | Vicky Foxcroft MP | 1673 |
 | Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1608 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1893 |
 | Lichfield | Dave Robertson MP | 6540 |
@@ -378,7 +378,7 @@
 | Poplar and Limehouse | Apsana Begum MP | 2951 |
 | Portsmouth North | Amanda Martin MP | 5696 |
 | Portsmouth South | Stephen Morgan MP | 3936 |
-| Preston | Sir Mark Hendrick MP | 3860 |
+| Preston | Sir Mark Hendrick MP | 3861 |
 | Putney | Fleur Anderson MP | 3539 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2174 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5189 |
@@ -416,7 +416,7 @@
 | Sheffield Hallam | Olivia Blake MP | 3403 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3588 |
 | Sheffield South East | Mr Clive Betts MP | 4785 |
-| Sherwood Forest | Michelle Welsh MP | 6727 |
+| Sherwood Forest | Michelle Welsh MP | 6728 |
 | Shipley | Anna Dixon MP | 4935 |
 | Shrewsbury | Julia Buckley MP | 5370 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6936 |
@@ -431,7 +431,7 @@
 | South Derbyshire | Samantha Niblett MP | 6222 |
 | South Devon | Caroline Voaden MP | 5363 |
 | South Dorset | Lloyd Hatton MP | 5719 |
-| South East Cornwall | Anna Gelderd MP | 6301 |
+| South East Cornwall | Anna Gelderd MP | 6302 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7197 |
 | South Leicestershire | Alberto Costa MP | 7049 |
 | South Norfolk | Ben Goldsborough MP | 5481 |
@@ -581,7 +581,7 @@
 | Alloa and Grangemouth | Brian Leishman MP | 3054 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4084 |
 | Arbroath and Broughty Ferry | Stephen Gethins MP | 3501 |
-| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3451 |
+| Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3452 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3061 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4111 |
 | Coatbridge and Bellshill | Frank McNally MP | 2627 |
@@ -627,7 +627,7 @@
 | Kilmarnock and Loudoun | Lillian Jones MP | 3294 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4599 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3770 |
-| Alyn and Deeside | Rt Hon Mark Tami MP | 5822 |
+| Alyn and Deeside | Rt Hon Mark Tami MP | 5824 |
 | Bangor Aberconwy | Claire Hughes MP | 4563 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3718 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5326 |
