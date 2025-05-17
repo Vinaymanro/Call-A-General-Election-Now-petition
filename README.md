@@ -3,12 +3,12 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023731                                |
-| Last Updated      | 2025-05-17 06:25:30 UTC                                    |
+| Total Signatures   | 3023739                                |
+| Last Updated      | 2025-05-17 07:16:54 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
-| Aldershot | Alex Baker MP | 5499 |
+| Aldershot | Alex Baker MP | 5500 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5861 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5530 |
 | Amber Valley | Linsey Farnsworth MP | 6155 |
@@ -233,7 +233,7 @@
 | Hexham | Joe Morris MP | 6449 |
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5327 |
 | High Peak | Jon Pearce MP | 5528 |
-| Hinckley and Bosworth | Dr Luke Evans MP | 6545 |
+| Hinckley and Bosworth | Dr Luke Evans MP | 6546 |
 | Hitchin | Alistair Strathern MP | 4949 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2296 |
 | Honiton and Sidmouth | Richard Foord MP | 5316 |
@@ -259,7 +259,7 @@
 | Kettering | Rosie Wrighting MP | 5957 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3782 |
 | Kingston upon Hull East | Karl Turner MP | 5071 |
-| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4698 |
+| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4699 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5562 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6447 |
 | Knowsley | Anneliese Midgley MP | 3335 |
@@ -276,7 +276,7 @@
 | Leicester West | Rt Hon Liz Kendall MP | 3516 |
 | Leigh and Atherton | Jo Platt MP | 6149 |
 | Lewes | James MacCleary MP | 4938 |
-| Lewisham East | Janet Daby MP | 2173 |
+| Lewisham East | Janet Daby MP | 2174 |
 | Lewisham North | Vicky Foxcroft MP | 1672 |
 | Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1608 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1893 |
@@ -292,7 +292,7 @@
 | Lowestoft | Jess Asato MP | 5383 |
 | Luton North | Sarah Owen MP | 2508 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2978 |
-| Macclesfield | Tim Roca MP | 5429 |
+| Macclesfield | Tim Roca MP | 5430 |
 | Maidenhead | Mr Joshua Reynolds MP | 5322 |
 | Maidstone and Malling | Helen Grant MP | 5892 |
 | Makerfield | Josh Simons MP | 5954 |
@@ -313,7 +313,7 @@
 | Mid Norfolk | George Freeman MP | 6336 |
 | Mid Sussex | Alison Bennett MP | 4735 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4285 |
-| Middlesbrough South and East Cleveland | Luke Myer MP | 5776 |
+| Middlesbrough South and East Cleveland | Luke Myer MP | 5777 |
 | Milton Keynes Central | Emily Darlington MP | 4983 |
 | Milton Keynes North | Chris Curtis MP | 4615 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2697 |
@@ -463,7 +463,7 @@
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5416 |
 | Stevenage | Kevin Bonavia MP | 4787 |
 | Stockport | Navendu Mishra MP | 3966 |
-| Stockton North | Chris McDonald MP | 4888 |
+| Stockton North | Chris McDonald MP | 4889 |
 | Stockton West | Matt Vickers MP | 6032 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4811 |
 | Stoke-on-Trent North | David Williams MP | 5524 |
@@ -482,7 +482,7 @@
 | Sutton and Cheam | Luke Taylor MP | 4420 |
 | Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5703 |
 | Swindon North | Will Stone MP | 4958 |
-| Swindon South | Rt Hon Heidi Alexander MP | 4265 |
+| Swindon South | Rt Hon Heidi Alexander MP | 4266 |
 | Tamworth | Sarah Edwards MP | 7027 |
 | Tatton | Rt Hon Esther McVey MP | 6527 |
 | Taunton and Wellington | Gideon Amos MP | 5231 |
