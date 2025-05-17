@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023802                                |
-| Last Updated      | 2025-05-17 12:35:02 UTC                                    |
+| Total Signatures   | 3023807                                |
+| Last Updated      | 2025-05-17 13:24:29 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -98,7 +98,7 @@
 | Cannock Chase | Josh Newbury MP | 6967 |
 | Canterbury | Rosie Duffield MP | 4512 |
 | Carlisle | Ms Julie Minns MP | 6605 |
-| Carshalton and Wallington | Bobby Dean MP | 4307 |
+| Carshalton and Wallington | Bobby Dean MP | 4308 |
 | Castle Point | Rebecca Harris MP | 7578 |
 | Central Devon | Rt Hon Sir Mel Stride MP | 5865 |
 | Central Suffolk and North Ipswich | Patrick Spencer MP | 5335 |
@@ -146,7 +146,7 @@
 | Doncaster Central | Sally Jameson MP | 4990 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6129 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5640 |
-| Dorking and Horley | Chris Coghlan MP | 5581 |
+| Dorking and Horley | Chris Coghlan MP | 5582 |
 | Dover and Deal | Mike Tapp MP | 6001 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6618 |
 | Dudley | Sonia Kumar MP | 5455 |
@@ -227,7 +227,7 @@
 | Hendon | David Pinto-Duschinsky MP | 3819 |
 | Henley and Thame | Freddie van Mierlo MP | 5439 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5316 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6365 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6366 |
 | Hertford and Stortford | Josh Dean MP | 6030 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5785 |
 | Hexham | Joe Morris MP | 6449 |
@@ -370,7 +370,7 @@
 | Pendle and Clitheroe | Jonathan Hinder MP | 6267 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5500 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6257 |
-| Peterborough | Andrew Pakes MP | 4206 |
+| Peterborough | Andrew Pakes MP | 4207 |
 | Plymouth Moor View | Fred Thomas MP | 5777 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4825 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5534 |
@@ -406,7 +406,7 @@
 | Rutland and Stamford | Alicia Kearns MP | 6300 |
 | Salford | Rebecca Long Bailey MP | 4711 |
 | Salisbury | Rt Hon John Glen MP | 4789 |
-| Scarborough and Whitby | Alison Hume MP | 6074 |
+| Scarborough and Whitby | Alison Hume MP | 6075 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5139 |
 | Sefton Central | Bill Esterson MP | 4074 |
 | Selby | Keir Mather MP | 6434 |
