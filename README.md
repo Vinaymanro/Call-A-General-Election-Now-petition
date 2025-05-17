@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023789                                |
-| Last Updated      | 2025-05-17 11:14:22 UTC                                    |
+| Total Signatures   | 3023802                                |
+| Last Updated      | 2025-05-17 12:35:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -72,7 +72,7 @@
 | Brentford and Isleworth | Ruth Cadbury MP | 3027 |
 | Brentwood and Ongar | Alex Burghart MP | 8185 |
 | Bridgwater | Sir Ashley Fox MP | 5829 |
-| Bridlington and The Wolds | Charlie Dewhirst MP | 6682 |
+| Bridlington and The Wolds | Charlie Dewhirst MP | 6683 |
 | Brigg and Immingham | Martin Vickers MP | 6521 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3965 |
 | Brighton Pavilion | Siân Berry MP | 2765 |
@@ -124,7 +124,7 @@
 | Colchester | Pam Cox MP | 5058 |
 | Colne Valley | Paul Davies MP | 5080 |
 | Congleton | Sarah Russell MP | 6033 |
-| Corby and East Northamptonshire | Lee Barron MP | 6068 |
+| Corby and East Northamptonshire | Lee Barron MP | 6069 |
 | Coventry East | Mary Creagh MP | 3647 |
 | Coventry North West | Taiwo Owatemi MP | 4309 |
 | Coventry South | Zarah Sultana MP | 3554 |
@@ -201,7 +201,7 @@
 | Grantham and Bourne | Gareth Davies MP | 6370 |
 | Gravesham | Dr Lauren Sullivan MP | 5214 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5881 |
-| Great Yarmouth | Rupert Lowe MP | 6659 |
+| Great Yarmouth | Rupert Lowe MP | 6662 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2652 |
 | Guildford | Zöe Franklin MP | 4020 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2071 |
@@ -227,7 +227,7 @@
 | Hendon | David Pinto-Duschinsky MP | 3819 |
 | Henley and Thame | Freddie van Mierlo MP | 5439 |
 | Hereford and South Herefordshire | Rt Hon Jesse Norman MP | 5316 |
-| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6364 |
+| Herne Bay and Sandwich | Rt Hon Sir Roger Gale MP | 6365 |
 | Hertford and Stortford | Josh Dean MP | 6030 |
 | Hertsmere | Rt Hon Sir Oliver Dowden MP | 5785 |
 | Hexham | Joe Morris MP | 6449 |
@@ -259,7 +259,7 @@
 | Kettering | Rosie Wrighting MP | 5957 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3782 |
 | Kingston upon Hull East | Karl Turner MP | 5071 |
-| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4699 |
+| Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4700 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5562 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6447 |
 | Knowsley | Anneliese Midgley MP | 3335 |
@@ -385,8 +385,8 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7396 |
 | Reading Central | Matt Rodda MP | 3049 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4473 |
-| Redcar | Anna Turley MP | 5516 |
-| Redditch | Chris Bloore MP | 6162 |
+| Redcar | Anna Turley MP | 5517 |
+| Redditch | Chris Bloore MP | 6163 |
 | Reigate | Rebecca Paul MP | 5575 |
 | Ribble Valley | Maya Ellis MP | 6774 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7166 |
@@ -417,7 +417,7 @@
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3588 |
 | Sheffield South East | Mr Clive Betts MP | 4785 |
 | Sherwood Forest | Michelle Welsh MP | 6727 |
-| Shipley | Anna Dixon MP | 4934 |
+| Shipley | Anna Dixon MP | 4935 |
 | Shrewsbury | Julia Buckley MP | 5369 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6935 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6723 |
@@ -434,7 +434,7 @@
 | South East Cornwall | Anna Gelderd MP | 6300 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7197 |
 | South Leicestershire | Alberto Costa MP | 7049 |
-| South Norfolk | Ben Goldsborough MP | 5480 |
+| South Norfolk | Ben Goldsborough MP | 5481 |
 | South Northamptonshire | Sarah Bool MP | 6723 |
 | South Ribble | Mr Paul Foster MP | 5955 |
 | South Shields | Emma Lewell MP | 4782 |
@@ -443,7 +443,7 @@
 | South West Devon | Rebecca Smith MP | 6038 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5249 |
 | South West Norfolk | Terry Jermy MP | 6586 |
-| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5257 |
+| South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5258 |
 | Southampton Itchen | Darren Paffey MP | 4609 |
 | Southampton Test | Satvir Kaur MP | 3446 |
 | Southend East and Rochford | Mr Bayo Alaba MP | 5651 |
@@ -468,7 +468,7 @@
 | Stoke-on-Trent Central | Gareth Snell MP | 4811 |
 | Stoke-on-Trent North | David Williams MP | 5524 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5780 |
-| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6585 |
+| Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6586 |
 | Stourbridge | Cat Eccles MP | 5206 |
 | Stratford and Bow | Uma Kumaran MP | 1789 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6764 |
