@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023723                                |
-| Last Updated      | 2025-05-17 05:17:36 UTC                                    |
+| Total Signatures   | 3023731                                |
+| Last Updated      | 2025-05-17 06:25:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -51,10 +51,10 @@
 | Blackley and Middleton South | Graham Stringer MP | 3837 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6232 |
 | Blackpool South | Chris Webb MP | 5891 |
-| Blaydon and Consett | Liz Twist MP | 5294 |
+| Blaydon and Consett | Liz Twist MP | 5295 |
 | Blyth and Ashington | Ian Lavery MP | 5931 |
-| Bognor Regis and Littlehampton | Alison Griffiths MP | 6201 |
-| Bolsover | Natalie Fleet MP | 6617 |
+| Bognor Regis and Littlehampton | Alison Griffiths MP | 6202 |
+| Bolsover | Natalie Fleet MP | 6618 |
 | Bolton North East | Kirith Entwistle MP | 5679 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4488 |
 | Bolton West | Phil Brickell MP | 5637 |
@@ -91,7 +91,7 @@
 | Burton and Uttoxeter | Jacob Collier MP | 5867 |
 | Bury North | Mr James Frith MP | 5027 |
 | Bury South | Christian Wakeford MP | 5478 |
-| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5491 |
+| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5492 |
 | Calder Valley | Josh Fenton-Glynn MP | 5706 |
 | Camborne and Redruth | Perran Moon MP | 5027 |
 | Cambridge | Daniel Zeichner MP | 2243 |
@@ -114,7 +114,7 @@
 | Chichester | Jess Brown-Fuller MP | 5978 |
 | Chingford and Woodford Green | Rt Hon Sir Iain Duncan Smith MP | 4199 |
 | Chippenham | Sarah Gibson MP | 4791 |
-| Chipping Barnet | Dan Tomlinson MP | 4371 |
+| Chipping Barnet | Dan Tomlinson MP | 4372 |
 | Chorley | Rt Hon Sir Lindsay Hoyle MP | 5564 |
 | Christchurch | Sir Christopher Chope MP | 5891 |
 | Cities of London and Westminster | Rachel Blake MP | 5200 |
@@ -286,7 +286,7 @@
 | Liverpool Riverside | Kim Johnson MP | 2689 |
 | Liverpool Walton | Dan Carden MP | 3418 |
 | Liverpool Wavertree | Paula Barker MP | 2255 |
-| Liverpool West Derby | Ian Byrne MP | 3111 |
+| Liverpool West Derby | Ian Byrne MP | 3112 |
 | Loughborough | Dr Jeevun Sandher MP | 4522 |
 | Louth and Horncastle | Rt Hon Victoria Atkins MP | 7847 |
 | Lowestoft | Jess Asato MP | 5383 |
@@ -315,14 +315,14 @@
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4285 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5776 |
 | Milton Keynes Central | Emily Darlington MP | 4983 |
-| Milton Keynes North | Chris Curtis MP | 4614 |
+| Milton Keynes North | Chris Curtis MP | 4615 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2697 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5825 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5487 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5310 |
 | Newark | Rt Hon Robert Jenrick MP | 7208 |
 | Newbury | Mr Lee Dillon MP | 4933 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4573 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4574 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4831 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3989 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5141 |
