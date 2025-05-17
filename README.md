@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023717                                |
-| Last Updated      | 2025-05-17 01:35:56 UTC                                    |
+| Total Signatures   | 3023718                                |
+| Last Updated      | 2025-05-17 03:06:55 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -484,7 +484,7 @@
 | Swindon North | Will Stone MP | 4958 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4265 |
 | Tamworth | Sarah Edwards MP | 7027 |
-| Tatton | Rt Hon Esther McVey MP | 6526 |
+| Tatton | Rt Hon Esther McVey MP | 6527 |
 | Taunton and Wellington | Gideon Amos MP | 5231 |
 | Telford | Shaun Davies MP | 5665 |
 | Tewkesbury | Cameron Thomas MP | 5057 |
