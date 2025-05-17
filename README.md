@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023837                                |
-| Last Updated      | 2025-05-17 16:21:53 UTC                                    |
+| Total Signatures   | 3023844                                |
+| Last Updated      | 2025-05-17 17:15:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -130,7 +130,7 @@
 | Coventry South | Zarah Sultana MP | 3554 |
 | Cramlington and Killingworth | Emma Foody MP | 5862 |
 | Crawley | Peter Lamb MP | 4772 |
-| Crewe and Nantwich | Connor Naismith MP | 5735 |
+| Crewe and Nantwich | Connor Naismith MP | 5736 |
 | Croydon East | Natasha Irons MP | 3357 |
 | Croydon South | Rt Hon Chris Philp MP | 3974 |
 | Croydon West | Sarah Jones MP | 1768 |
@@ -320,8 +320,8 @@
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5825 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5489 |
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5310 |
-| Newark | Rt Hon Robert Jenrick MP | 7208 |
-| Newbury | Mr Lee Dillon MP | 4933 |
+| Newark | Rt Hon Robert Jenrick MP | 7209 |
+| Newbury | Mr Lee Dillon MP | 4934 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4574 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4831 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3990 |
@@ -393,7 +393,7 @@
 | Richmond Park | Sarah Olney MP | 4079 |
 | Rochdale | Paul Waugh MP | 3997 |
 | Rochester and Strood | Lauren Edwards MP | 6088 |
-| Romford | Andrew Rosindell MP | 5841 |
+| Romford | Andrew Rosindell MP | 5842 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5108 |
 | Rossendale and Darwen | Andy MacNae MP | 6568 |
 | Rother Valley | Jake Richards MP | 5920 |
@@ -440,7 +440,7 @@
 | South Shields | Emma Lewell MP | 4782 |
 | South Shropshire | Stuart Anderson MP | 7368 |
 | South Suffolk | James Cartlidge MP | 6200 |
-| South West Devon | Rebecca Smith MP | 6038 |
+| South West Devon | Rebecca Smith MP | 6039 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5249 |
 | South West Norfolk | Terry Jermy MP | 6586 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5258 |
@@ -480,7 +480,7 @@
 | Surrey Heath | Dr Al Pinkerton MP | 5468 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6150 |
 | Sutton and Cheam | Luke Taylor MP | 4420 |
-| Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5703 |
+| Sutton Coldfield | Rt Hon Sir Andrew Mitchell MP | 5704 |
 | Swindon North | Will Stone MP | 4958 |
 | Swindon South | Rt Hon Heidi Alexander MP | 4266 |
 | Tamworth | Sarah Edwards MP | 7027 |
@@ -611,7 +611,7 @@
 | Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3654 |
 | Livingston | Gregor Poynton MP | 3450 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2887 |
-| Mid Dunbartonshire | Susan Murray MP | 2550 |
+| Mid Dunbartonshire | Susan Murray MP | 2551 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3971 |
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2777 |
 | North East Fife | Wendy Chamberlain MP | 2929 |
