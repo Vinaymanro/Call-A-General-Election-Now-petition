@@ -3,12 +3,12 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023762                                |
-| Last Updated      | 2025-05-17 08:22:27 UTC                                    |
+| Total Signatures   | 3023773                                |
+| Last Updated      | 2025-05-17 09:18:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
-| Aldershot | Alex Baker MP | 5500 |
+| Aldershot | Alex Baker MP | 5501 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5861 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5530 |
 | Amber Valley | Linsey Farnsworth MP | 6155 |
@@ -57,10 +57,10 @@
 | Bolsover | Natalie Fleet MP | 6618 |
 | Bolton North East | Kirith Entwistle MP | 5679 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4489 |
-| Bolton West | Phil Brickell MP | 5637 |
+| Bolton West | Phil Brickell MP | 5638 |
 | Bootle | Peter Dowd MP | 3214 |
 | Boston and Skegness | Richard Tice MP | 7156 |
-| Bournemouth East | Tom Hayes MP | 4712 |
+| Bournemouth East | Tom Hayes MP | 4713 |
 | Bournemouth West | Jessica Toale MP | 4963 |
 | Bracknell | Peter Swallow MP | 5025 |
 | Bradford East | Imran Hussain MP | 2946 |
@@ -127,7 +127,7 @@
 | Corby and East Northamptonshire | Lee Barron MP | 6068 |
 | Coventry East | Mary Creagh MP | 3647 |
 | Coventry North West | Taiwo Owatemi MP | 4309 |
-| Coventry South | Zarah Sultana MP | 3553 |
+| Coventry South | Zarah Sultana MP | 3554 |
 | Cramlington and Killingworth | Emma Foody MP | 5862 |
 | Crawley | Peter Lamb MP | 4772 |
 | Crewe and Nantwich | Connor Naismith MP | 5735 |
@@ -371,7 +371,7 @@
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5500 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6257 |
 | Peterborough | Andrew Pakes MP | 4206 |
-| Plymouth Moor View | Fred Thomas MP | 5776 |
+| Plymouth Moor View | Fred Thomas MP | 5777 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4825 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5534 |
 | Poole | Neil Duncan-Jordan MP | 5718 |
@@ -379,7 +379,7 @@
 | Portsmouth North | Amanda Martin MP | 5696 |
 | Portsmouth South | Stephen Morgan MP | 3936 |
 | Preston | Sir Mark Hendrick MP | 3860 |
-| Putney | Fleur Anderson MP | 3538 |
+| Putney | Fleur Anderson MP | 3539 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2174 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5188 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7396 |
@@ -420,7 +420,7 @@
 | Shipley | Anna Dixon MP | 4933 |
 | Shrewsbury | Julia Buckley MP | 5369 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6935 |
-| Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6722 |
+| Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6723 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6343 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2609 |
 | Smethwick | Gurinder Singh Josan MP | 3098 |
@@ -438,7 +438,7 @@
 | South Northamptonshire | Sarah Bool MP | 6723 |
 | South Ribble | Mr Paul Foster MP | 5955 |
 | South Shields | Emma Lewell MP | 4782 |
-| South Shropshire | Stuart Anderson MP | 7367 |
+| South Shropshire | Stuart Anderson MP | 7368 |
 | South Suffolk | James Cartlidge MP | 6200 |
 | South West Devon | Rebecca Smith MP | 6038 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5249 |
@@ -476,7 +476,7 @@
 | Stretford and Urmston | Andrew Western MP | 3877 |
 | Stroud | Dr Simon Opher MP | 4571 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5430 |
-| Sunderland Central | Lewis Atkinson MP | 5316 |
+| Sunderland Central | Lewis Atkinson MP | 5317 |
 | Surrey Heath | Dr Al Pinkerton MP | 5468 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6149 |
 | Sutton and Cheam | Luke Taylor MP | 4420 |
@@ -500,7 +500,7 @@
 | Torridge and Tavistock | Rt Hon Sir Geoffrey Cox KC MP | 6634 |
 | Tottenham | Rt Hon David Lammy MP | 1708 |
 | Truro and Falmouth | Jayne Kirkham MP | 4645 |
-| Tunbridge Wells | Mike Martin MP | 5498 |
+| Tunbridge Wells | Mike Martin MP | 5499 |
 | Twickenham | Munira Wilson MP | 3680 |
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4527 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4522 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2095 |
 | North Antrim | Jim Allister KC MP | 3116 |
 | North Down | Alex Easton MP | 3393 |
-| South Antrim | Robin Swann MP | 3112 |
+| South Antrim | Robin Swann MP | 3113 |
 | South Down | Chris Hazzard MP | 1852 |
 | Strangford | Jim Shannon MP | 3488 |
 | Upper Bann | Carla Lockhart MP | 3101 |
