@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023720                                |
-| Last Updated      | 2025-05-17 04:22:02 UTC                                    |
+| Total Signatures   | 3023723                                |
+| Last Updated      | 2025-05-17 05:17:36 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -164,7 +164,7 @@
 | East Thanet | Ms Polly Billington MP | 5549 |
 | East Wiltshire | Danny Kruger MP | 6117 |
 | East Worthing and Shoreham | Tom Rutland MP | 4655 |
-| Eastbourne | Josh Babarinde MP | 5083 |
+| Eastbourne | Josh Babarinde MP | 5084 |
 | Eastleigh | Liz Jarvis MP | 4370 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2247 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4501 |
@@ -236,7 +236,7 @@
 | Hinckley and Bosworth | Dr Luke Evans MP | 6545 |
 | Hitchin | Alistair Strathern MP | 4949 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2296 |
-| Honiton and Sidmouth | Richard Foord MP | 5315 |
+| Honiton and Sidmouth | Richard Foord MP | 5316 |
 | Hornchurch and Upminster | Julia Lopez MP | 6663 |
 | Hornsey and Friern Barnet | Catherine West MP | 1957 |
 | Horsham | John Milne MP | 5874 |
@@ -584,7 +584,7 @@
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3451 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3061 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4111 |
-| Coatbridge and Bellshill | Frank McNally MP | 2626 |
+| Coatbridge and Bellshill | Frank McNally MP | 2627 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2892 |
 | Cumbernauld and Kirkintilloch | Katrina Murray MP | 2700 |
 | Dumfries and Galloway | John Cooper MP | 4072 |
