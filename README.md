@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023856                                |
-| Last Updated      | 2025-05-17 18:24:34 UTC                                    |
+| Total Signatures   | 3023863                                |
+| Last Updated      | 2025-05-17 19:15:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -32,7 +32,7 @@
 | Bedford | Mohammad Yasin MP | 3262 |
 | Bermondsey and Old Southwark | Neil Coyle MP | 2743 |
 | Bethnal Green and Stepney | Rushanara Ali MP | 1745 |
-| Beverley and Holderness | Rt Hon Graham Stuart MP | 6215 |
+| Beverley and Holderness | Rt Hon Graham Stuart MP | 6216 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6185 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5084 |
 | Bicester and Woodstock | Calum Miller MP | 4713 |
@@ -61,7 +61,7 @@
 | Bootle | Peter Dowd MP | 3214 |
 | Boston and Skegness | Richard Tice MP | 7156 |
 | Bournemouth East | Tom Hayes MP | 4713 |
-| Bournemouth West | Jessica Toale MP | 4963 |
+| Bournemouth West | Jessica Toale MP | 4964 |
 | Bracknell | Peter Swallow MP | 5025 |
 | Bradford East | Imran Hussain MP | 2946 |
 | Bradford South | Judith Cummins MP | 4241 |
@@ -162,7 +162,7 @@
 | East Hampshire | Rt Hon Damian Hinds MP | 5378 |
 | East Surrey | Rt Hon Claire Coutinho MP | 6072 |
 | East Thanet | Ms Polly Billington MP | 5549 |
-| East Wiltshire | Danny Kruger MP | 6117 |
+| East Wiltshire | Danny Kruger MP | 6118 |
 | East Worthing and Shoreham | Tom Rutland MP | 4655 |
 | Eastbourne | Josh Babarinde MP | 5084 |
 | Eastleigh | Liz Jarvis MP | 4370 |
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5532 |
 | Grantham and Bourne | Gareth Davies MP | 6371 |
 | Gravesham | Dr Lauren Sullivan MP | 5215 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5881 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5882 |
 | Great Yarmouth | Rupert Lowe MP | 6662 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2652 |
 | Guildford | Zöe Franklin MP | 4020 |
@@ -304,7 +304,7 @@
 | Melksham and Devizes | Brian Mathew MP | 5044 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6158 |
 | Meriden and Solihull East | Saqib Bhatti MP | 6153 |
-| Mid Bedfordshire | Blake Stephenson MP | 5880 |
+| Mid Bedfordshire | Blake Stephenson MP | 5881 |
 | Mid Buckinghamshire | Greg Smith MP | 5629 |
 | Mid Cheshire | Andrew Cooper MP | 5219 |
 | Mid Derbyshire | Jonathan Davies MP | 5289 |
@@ -351,7 +351,7 @@
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5769 |
 | North West Leicestershire | Amanda Hack MP | 6766 |
 | North West Norfolk | James Wild MP | 5814 |
-| Northampton North | Lucy Rigby KC MP | 4329 |
+| Northampton North | Lucy Rigby KC MP | 4330 |
 | Northampton South | Mike Reader MP | 5011 |
 | Norwich North | Alice Macdonald MP | 4465 |
 | Norwich South | Clive Lewis MP | 3433 |
@@ -367,7 +367,7 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2179 |
 | Oxford West and Abingdon | Layla Moran MP | 2950 |
 | Peckham | Miatta Fahnbulleh MP | 1376 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6267 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6268 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5500 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6257 |
 | Peterborough | Andrew Pakes MP | 4207 |
