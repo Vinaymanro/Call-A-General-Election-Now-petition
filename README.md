@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024015                                |
-| Last Updated      | 2025-05-18 13:24:56 UTC                                    |
+| Total Signatures   | 3024020                                |
+| Last Updated      | 2025-05-18 14:15:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -165,7 +165,7 @@
 | East Wiltshire | Danny Kruger MP | 6119 |
 | East Worthing and Shoreham | Tom Rutland MP | 4655 |
 | Eastbourne | Josh Babarinde MP | 5084 |
-| Eastleigh | Liz Jarvis MP | 4370 |
+| Eastleigh | Liz Jarvis MP | 4371 |
 | Edmonton and Winchmore Hill | Kate Osamor MP | 2247 |
 | Ellesmere Port and Bromborough | Justin Madders MP | 4501 |
 | Eltham and Chislehurst | Clive Efford MP | 4741 |
@@ -299,7 +299,7 @@
 | Maldon | Rt Hon Sir John Whittingdale MP | 8166 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4030 |
 | Manchester Rusholme | Afzal Khan MP | 1237 |
-| Manchester Withington | Jeff Smith MP | 1690 |
+| Manchester Withington | Jeff Smith MP | 1691 |
 | Mansfield | Steve Yemm MP | 6275 |
 | Melksham and Devizes | Brian Mathew MP | 5044 |
 | Melton and Syston | Rt Hon Edward Argar MP | 6159 |
@@ -356,7 +356,7 @@
 | Norwich North | Alice Macdonald MP | 4465 |
 | Norwich South | Clive Lewis MP | 3433 |
 | Nottingham East | Nadia Whittome MP | 2511 |
-| Nottingham North and Kimberley | Alex Norris MP | 3778 |
+| Nottingham North and Kimberley | Alex Norris MP | 3779 |
 | Nottingham South | Lilian Greenwood MP | 3089 |
 | Nuneaton | Jodie Gosling MP | 5624 |
 | Old Bexley and Sidcup | Mr Louie French MP | 6261 |
@@ -424,7 +424,7 @@
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6344 |
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2609 |
 | Smethwick | Gurinder Singh Josan MP | 3098 |
-| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5498 |
+| Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5499 |
 | South Basildon and East Thurrock | James McMurdock MP | 6657 |
 | South Cambridgeshire | Pippa Heylings MP | 4474 |
 | South Cotswolds | Dr Roz Savage MP | 5751 |
@@ -627,7 +627,7 @@
 | Kilmarnock and Loudoun | Lillian Jones MP | 3294 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4599 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3770 |
-| Alyn and Deeside | Rt Hon Mark Tami MP | 5825 |
+| Alyn and Deeside | Rt Hon Mark Tami MP | 5826 |
 | Bangor Aberconwy | Claire Hughes MP | 4563 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3718 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5326 |
