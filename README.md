@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023914                                |
-| Last Updated      | 2025-05-18 04:25:54 UTC                                    |
+| Total Signatures   | 3023917                                |
+| Last Updated      | 2025-05-18 05:18:04 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -214,7 +214,7 @@
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4743 |
 | Harlow | Chris Vince MP | 6131 |
 | Harpenden and Berkhamsted | Victoria Collins MP | 4564 |
-| Harrogate and Knaresborough | Tom Gordon MP | 5161 |
+| Harrogate and Knaresborough | Tom Gordon MP | 5162 |
 | Harrow East | Bob Blackman MP | 3151 |
 | Harrow West | Gareth Thomas MP | 2419 |
 | Hartlepool | Mr Jonathan Brash MP | 5722 |
@@ -536,7 +536,7 @@
 | Windsor | Jack Rankin MP | 5142 |
 | Wirral West | Matthew Patrick MP | 4238 |
 | Witham | Rt Hon Priti Patel MP | 7067 |
-| Witney | Charlie Maynard MP | 5202 |
+| Witney | Charlie Maynard MP | 5204 |
 | Woking | Mr Will Forster MP | 4421 |
 | Wokingham | Clive Jones MP | 4894 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4464 |
