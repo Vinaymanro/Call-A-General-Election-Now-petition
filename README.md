@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023912                                |
-| Last Updated      | 2025-05-18 01:43:30 UTC                                    |
+| Total Signatures   | 3023913                                |
+| Last Updated      | 2025-05-18 03:16:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -192,7 +192,7 @@
 | Gateshead Central and Whickham | Mark Ferguson MP | 4578 |
 | Gedling | Michael Payne MP | 5121 |
 | Gillingham and Rainham | Naushabah Khan MP | 5102 |
-| Glastonbury and Somerton | Sarah Dyke MP | 5634 |
+| Glastonbury and Somerton | Sarah Dyke MP | 5635 |
 | Gloucester | Alex McIntyre MP | 4588 |
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5265 |
 | Goole and Pocklington | Rt Hon David Davis MP | 7025 |
