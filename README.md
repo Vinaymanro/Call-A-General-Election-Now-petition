@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024106                                |
-| Last Updated      | 2025-05-18 22:17:09 UTC                                    |
+| Total Signatures   | 3024114                                |
+| Last Updated      | 2025-05-18 23:17:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -38,7 +38,7 @@
 | Bicester and Woodstock | Calum Miller MP | 4713 |
 | Birkenhead | Alison McGovern MP | 4405 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2994 |
-| Birmingham Erdington | Paulette Hamilton MP | 4306 |
+| Birmingham Erdington | Paulette Hamilton MP | 4307 |
 | Birmingham Hall Green and Moseley | Tahir Ali MP | 1596 |
 | Birmingham Hodge Hill and Solihull North | Rt Hon Liam Byrne MP | 3543 |
 | Birmingham Ladywood | Rt Hon Shabana Mahmood KC MP | 1933 |
@@ -130,7 +130,7 @@
 | Coventry South | Zarah Sultana MP | 3556 |
 | Cramlington and Killingworth | Emma Foody MP | 5862 |
 | Crawley | Peter Lamb MP | 4773 |
-| Crewe and Nantwich | Connor Naismith MP | 5736 |
+| Crewe and Nantwich | Connor Naismith MP | 5737 |
 | Croydon East | Natasha Irons MP | 3357 |
 | Croydon South | Rt Hon Chris Philp MP | 3975 |
 | Croydon West | Sarah Jones MP | 1768 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5642 |
 | Mid Norfolk | George Freeman MP | 6336 |
 | Mid Sussex | Alison Bennett MP | 4736 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4287 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4288 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5777 |
 | Milton Keynes Central | Emily Darlington MP | 4984 |
 | Milton Keynes North | Chris Curtis MP | 4615 |
@@ -346,8 +346,8 @@
 | North Shropshire | Helen Morgan MP | 6938 |
 | North Somerset | Sadik Al-Hassan MP | 4615 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6332 |
-| North West Cambridgeshire | Sam Carling MP | 6072 |
-| North West Essex | Rt Hon Kemi Badenoch MP | 7177 |
+| North West Cambridgeshire | Sam Carling MP | 6073 |
+| North West Essex | Rt Hon Kemi Badenoch MP | 7178 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5769 |
 | North West Leicestershire | Amanda Hack MP | 6766 |
 | North West Norfolk | James Wild MP | 5814 |
@@ -395,7 +395,7 @@
 | Rochester and Strood | Lauren Edwards MP | 6088 |
 | Romford | Andrew Rosindell MP | 5842 |
 | Romsey and Southampton North | Rt Hon Caroline Nokes MP | 5109 |
-| Rossendale and Darwen | Andy MacNae MP | 6568 |
+| Rossendale and Darwen | Andy MacNae MP | 6569 |
 | Rother Valley | Jake Richards MP | 5920 |
 | Rotherham | Sarah Champion MP | 5004 |
 | Rugby | John Slinger MP | 5468 |
@@ -528,7 +528,7 @@
 | Westmorland and Lonsdale | Tim Farron MP | 5232 |
 | Weston-super-Mare | Dan Aldridge MP | 5139 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6621 |
-| Whitehaven and Workington | Josh MacAlister MP | 5955 |
+| Whitehaven and Workington | Josh MacAlister MP | 5957 |
 | Widnes and Halewood | Derek Twigg MP | 4301 |
 | Wigan | Rt Hon Lisa Nandy MP | 6041 |
 | Wimbledon | Mr Paul Kohler MP | 3430 |
