@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024071                                |
-| Last Updated      | 2025-05-18 19:14:05 UTC                                    |
+| Total Signatures   | 3024081                                |
+| Last Updated      | 2025-05-18 20:19:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -141,7 +141,7 @@
 | Derby North | Catherine Atkinson MP | 4380 |
 | Derby South | Baggy Shanker MP | 3661 |
 | Derbyshire Dales | John Whitby MP | 6831 |
-| Dewsbury and Batley | Iqbal Mohamed MP | 3226 |
+| Dewsbury and Batley | Iqbal Mohamed MP | 3227 |
 | Didcot and Wantage | Olly Glover MP | 4927 |
 | Doncaster Central | Sally Jameson MP | 4990 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6129 |
@@ -239,13 +239,13 @@
 | Honiton and Sidmouth | Richard Foord MP | 5317 |
 | Hornchurch and Upminster | Julia Lopez MP | 6663 |
 | Hornsey and Friern Barnet | Catherine West MP | 1957 |
-| Horsham | John Milne MP | 5874 |
+| Horsham | John Milne MP | 5875 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6398 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3360 |
 | Huddersfield | Harpreet Uppal MP | 3729 |
 | Huntingdon | Ben Obese-Jecty MP | 5603 |
 | Hyndburn | Sarah Smith MP | 5075 |
-| Ilford North | Rt Hon Wes Streeting MP | 2640 |
+| Ilford North | Rt Hon Wes Streeting MP | 2641 |
 | Ilford South | Jas Athwal MP | 1614 |
 | Ipswich | Jack Abbott MP | 4203 |
 | Isle of Wight East | Joe Robertson MP | 4410 |
@@ -338,7 +338,7 @@
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6142 |
 | North East Derbyshire | Louise Jones MP | 5859 |
 | North East Hampshire | Alex Brewer MP | 5988 |
-| North East Hertfordshire | Chris Hinchliff MP | 5892 |
+| North East Hertfordshire | Chris Hinchliff MP | 5893 |
 | North East Somerset and Hanham | Dan Norris MP | 5093 |
 | North Herefordshire | Ellie Chowns MP | 6523 |
 | North Norfolk | Steff Aquarone MP | 5473 |
@@ -418,7 +418,7 @@
 | Sheffield South East | Mr Clive Betts MP | 4785 |
 | Sherwood Forest | Michelle Welsh MP | 6728 |
 | Shipley | Anna Dixon MP | 4935 |
-| Shrewsbury | Julia Buckley MP | 5371 |
+| Shrewsbury | Julia Buckley MP | 5372 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6936 |
 | Skipton and Ripon | Rt Hon Sir Julian Smith MP | 6723 |
 | Sleaford and North Hykeham | Dr Caroline Johnson MP | 6344 |
@@ -464,19 +464,19 @@
 | Stevenage | Kevin Bonavia MP | 4787 |
 | Stockport | Navendu Mishra MP | 3966 |
 | Stockton North | Chris McDonald MP | 4890 |
-| Stockton West | Matt Vickers MP | 6033 |
+| Stockton West | Matt Vickers MP | 6034 |
 | Stoke-on-Trent Central | Gareth Snell MP | 4811 |
 | Stoke-on-Trent North | David Williams MP | 5524 |
 | Stoke-on-Trent South | Dr Allison Gardner MP | 5780 |
 | Stone, Great Wyrley and Penkridge | Rt Hon Sir Gavin Williamson MP | 6586 |
 | Stourbridge | Cat Eccles MP | 5206 |
-| Stratford and Bow | Uma Kumaran MP | 1789 |
+| Stratford and Bow | Uma Kumaran MP | 1791 |
 | Stratford-on-Avon | Manuela Perteghella MP | 6764 |
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1886 |
 | Stretford and Urmston | Andrew Western MP | 3878 |
 | Stroud | Dr Simon Opher MP | 4571 |
 | Suffolk Coastal | Jenny Riddell-Carpenter MP | 5430 |
-| Sunderland Central | Lewis Atkinson MP | 5317 |
+| Sunderland Central | Lewis Atkinson MP | 5318 |
 | Surrey Heath | Dr Al Pinkerton MP | 5468 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6150 |
 | Sutton and Cheam | Luke Taylor MP | 4420 |
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4464 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4381 |
 | Wolverhampton West | Warinder Juss | 3879 |
-| Worcester | Tom Collins MP | 4372 |
+| Worcester | Tom Collins MP | 4373 |
 | Worsley and Eccles | Michael Wheeler MP | 5506 |
 | Worthing West | Dr Beccy Cooper MP | 5299 |
 | Wycombe | Emma Reynolds MP | 3656 |
