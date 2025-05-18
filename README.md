@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024009                                |
-| Last Updated      | 2025-05-18 12:35:25 UTC                                    |
+| Total Signatures   | 3024015                                |
+| Last Updated      | 2025-05-18 13:24:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -252,7 +252,7 @@
 | Isle of Wight West | Mr Richard Quigley MP | 4106 |
 | Islington North | Rt Hon Jeremy Corbyn MP | 1817 |
 | Islington South and Finsbury | Rt Hon Emily Thornberry MP | 2812 |
-| Jarrow and Gateshead East | Kate Osborne MP | 5147 |
+| Jarrow and Gateshead East | Kate Osborne MP | 5148 |
 | Keighley and Ilkley | Robbie Moore MP | 4747 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6142 |
 | Kensington and Bayswater | Joe Powell MP | 4421 |
@@ -363,7 +363,7 @@
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5287 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4136 |
 | Orpington | Gareth Bacon MP | 5356 |
-| Ossett and Denby Dale | Jade Botterill MP | 5855 |
+| Ossett and Denby Dale | Jade Botterill MP | 5856 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2179 |
 | Oxford West and Abingdon | Layla Moran MP | 2950 |
 | Peckham | Miatta Fahnbulleh MP | 1376 |
@@ -399,7 +399,7 @@
 | Rother Valley | Jake Richards MP | 5920 |
 | Rotherham | Sarah Champion MP | 5003 |
 | Rugby | John Slinger MP | 5468 |
-| Ruislip, Northwood and Pinner | David Simmonds MP | 4130 |
+| Ruislip, Northwood and Pinner | David Simmonds MP | 4131 |
 | Runcorn and Helsby | Sarah Pochin MP | 5093 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5876 |
 | Rushcliffe | James Naish MP | 5113 |
@@ -452,7 +452,7 @@
 | Southport | Patrick Hurley MP | 6048 |
 | Spelthorne | Lincoln Jopp MP | 5505 |
 | Spen Valley | Kim Leadbeater MP | 5432 |
-| St Albans | Daisy Cooper MP | 3897 |
+| St Albans | Daisy Cooper MP | 3898 |
 | St Austell and Newquay | Noah Law MP | 5689 |
 | St Helens North | David Baines MP | 4779 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4235 |
@@ -562,7 +562,7 @@
 | Lagan Valley | Sorcha Eastwood MP | 3544 |
 | Mid Ulster | Mr Cathal Mallaghan MP | 1902 |
 | Newry and Armagh | Dáire Hughes MP | 2095 |
-| North Antrim | Jim Allister KC MP | 3116 |
+| North Antrim | Jim Allister KC MP | 3117 |
 | North Down | Alex Easton MP | 3393 |
 | South Antrim | Robin Swann MP | 3114 |
 | South Down | Chris Hazzard MP | 1852 |
@@ -634,7 +634,7 @@
 | Bridgend | Chris Elmore MP | 4306 |
 | Caerfyrddin | Ann Davies MP | 5265 |
 | Caerphilly | Chris Evans MP | 4084 |
-| Cardiff East | Rt Hon Jo Stevens MP | 2957 |
+| Cardiff East | Rt Hon Jo Stevens MP | 2958 |
 | Cardiff North | Anna McMorrin MP | 3320 |
 | Cardiff South and Penarth | Stephen Doughty MP | 2832 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3194 |
