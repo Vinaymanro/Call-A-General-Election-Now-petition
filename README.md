@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023963                                |
-| Last Updated      | 2025-05-18 09:17:59 UTC                                    |
+| Total Signatures   | 3023977                                |
+| Last Updated      | 2025-05-18 10:18:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -48,7 +48,7 @@
 | Birmingham Yardley | Jess Phillips MP | 3126 |
 | Bishop Auckland | Sam Rushworth MP | 6224 |
 | Blackburn | Mr Adnan Hussain MP | 3191 |
-| Blackley and Middleton South | Graham Stringer MP | 3837 |
+| Blackley and Middleton South | Graham Stringer MP | 3838 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6232 |
 | Blackpool South | Chris Webb MP | 5891 |
 | Blaydon and Consett | Liz Twist MP | 5295 |
@@ -63,7 +63,7 @@
 | Bournemouth East | Tom Hayes MP | 4713 |
 | Bournemouth West | Jessica Toale MP | 4964 |
 | Bracknell | Peter Swallow MP | 5025 |
-| Bradford East | Imran Hussain MP | 2946 |
+| Bradford East | Imran Hussain MP | 2947 |
 | Bradford South | Judith Cummins MP | 4241 |
 | Bradford West | Naz Shah MP | 1855 |
 | Braintree | Rt Hon Sir James Cleverly MP | 7498 |
@@ -88,7 +88,7 @@
 | Broxtowe | Juliet Campbell MP | 4752 |
 | Buckingham and Bletchley | Callum Anderson MP | 5297 |
 | Burnley | Oliver Ryan MP | 5790 |
-| Burton and Uttoxeter | Jacob Collier MP | 5867 |
+| Burton and Uttoxeter | Jacob Collier MP | 5868 |
 | Bury North | Mr James Frith MP | 5027 |
 | Bury South | Christian Wakeford MP | 5478 |
 | Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5493 |
@@ -127,7 +127,7 @@
 | Corby and East Northamptonshire | Lee Barron MP | 6070 |
 | Coventry East | Mary Creagh MP | 3647 |
 | Coventry North West | Taiwo Owatemi MP | 4310 |
-| Coventry South | Zarah Sultana MP | 3555 |
+| Coventry South | Zarah Sultana MP | 3556 |
 | Cramlington and Killingworth | Emma Foody MP | 5862 |
 | Crawley | Peter Lamb MP | 4772 |
 | Crewe and Nantwich | Connor Naismith MP | 5736 |
@@ -142,7 +142,7 @@
 | Derby South | Baggy Shanker MP | 3660 |
 | Derbyshire Dales | John Whitby MP | 6831 |
 | Dewsbury and Batley | Iqbal Mohamed MP | 3226 |
-| Didcot and Wantage | Olly Glover MP | 4925 |
+| Didcot and Wantage | Olly Glover MP | 4926 |
 | Doncaster Central | Sally Jameson MP | 4990 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6129 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5640 |
@@ -180,7 +180,7 @@
 | Exmouth and Exeter East | David Reed MP | 5254 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6193 |
 | Farnham and Bordon | Gregory Stafford MP | 5219 |
-| Faversham and Mid Kent | Helen Whately MP | 6281 |
+| Faversham and Mid Kent | Helen Whately MP | 6282 |
 | Feltham and Heston | Seema Malhotra MP | 2958 |
 | Filton and Bradley Stoke | Claire Hazelgrove MP | 4557 |
 | Finchley and Golders Green | Sarah Sackman MP | 4295 |
@@ -221,7 +221,7 @@
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6328 |
 | Hastings and Rye | Helena Dollimore MP | 5115 |
 | Havant | Alan Mak MP | 5735 |
-| Hayes and Harlington | Rt Hon John McDonnell MP | 2624 |
+| Hayes and Harlington | Rt Hon John McDonnell MP | 2625 |
 | Hazel Grove | Lisa Smart MP | 5163 |
 | Hemel Hempstead | David Taylor MP | 5122 |
 | Hendon | David Pinto-Duschinsky MP | 3819 |
@@ -312,7 +312,7 @@
 | Mid Leicestershire | Mr Peter Bedford MP | 5642 |
 | Mid Norfolk | George Freeman MP | 6336 |
 | Mid Sussex | Alison Bennett MP | 4736 |
-| Middlesbrough and Thornaby East | Andy McDonald MP | 4285 |
+| Middlesbrough and Thornaby East | Andy McDonald MP | 4287 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5777 |
 | Milton Keynes Central | Emily Darlington MP | 4983 |
 | Milton Keynes North | Chris Curtis MP | 4615 |
@@ -327,7 +327,7 @@
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3990 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5141 |
 | Newton Abbot | Martin Wrigley MP | 5163 |
-| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5595 |
+| Newton Aycliffe and Spennymoor | Alan Strickland MP | 5596 |
 | Normanton and Hemsworth | Jon Trickett MP | 5581 |
 | North Bedfordshire | Richard Fuller MP | 6146 |
 | North Cornwall | Ben Maguire MP | 6460 |
@@ -380,13 +380,13 @@
 | Portsmouth South | Stephen Morgan MP | 3936 |
 | Preston | Sir Mark Hendrick MP | 3862 |
 | Putney | Fleur Anderson MP | 3539 |
-| Queen's Park and Maida Vale | Georgia Gould MP | 2174 |
+| Queen's Park and Maida Vale | Georgia Gould MP | 2175 |
 | Rawmarsh and Conisbrough | Rt Hon John Healey MP | 5189 |
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7396 |
 | Reading Central | Matt Rodda MP | 3049 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4473 |
 | Redcar | Anna Turley MP | 5517 |
-| Redditch | Chris Bloore MP | 6163 |
+| Redditch | Chris Bloore MP | 6164 |
 | Reigate | Rebecca Paul MP | 5576 |
 | Ribble Valley | Maya Ellis MP | 6774 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7166 |
@@ -457,7 +457,7 @@
 | St Helens North | David Baines MP | 4779 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4235 |
 | St Ives | Andrew George MP | 5139 |
-| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4842 |
+| St Neots and Mid Cambridgeshire | Ian Sollom MP | 4843 |
 | Stafford | Leigh Ingham MP | 5667 |
 | Staffordshire Moorlands | Rt Hon Dame Karen Bradley MP | 6470 |
 | Stalybridge and Hyde | Rt Hon Jonathan Reynolds MP | 5416 |
@@ -564,7 +564,7 @@
 | Newry and Armagh | Dáire Hughes MP | 2095 |
 | North Antrim | Jim Allister KC MP | 3116 |
 | North Down | Alex Easton MP | 3393 |
-| South Antrim | Robin Swann MP | 3113 |
+| South Antrim | Robin Swann MP | 3114 |
 | South Down | Chris Hazzard MP | 1852 |
 | Strangford | Jim Shannon MP | 3488 |
 | Upper Bann | Carla Lockhart MP | 3101 |
