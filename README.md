@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024045                                |
-| Last Updated      | 2025-05-18 17:15:00 UTC                                    |
+| Total Signatures   | 3024055                                |
+| Last Updated      | 2025-05-18 18:24:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -81,7 +81,7 @@
 | Bristol North East | Damien Egan MP | 3129 |
 | Bristol North West | Rt Hon Darren Jones MP | 3248 |
 | Bristol South | Karin Smyth MP | 4026 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5885 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5886 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5290 |
 | Bromsgrove | Bradley Thomas MP | 6529 |
 | Broxbourne | Lewis Cocking MP | 6133 |
@@ -193,15 +193,15 @@
 | Gedling | Michael Payne MP | 5121 |
 | Gillingham and Rainham | Naushabah Khan MP | 5102 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5635 |
-| Gloucester | Alex McIntyre MP | 4588 |
+| Gloucester | Alex McIntyre MP | 4589 |
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5265 |
 | Goole and Pocklington | Rt Hon David Davis MP | 7026 |
 | Gorton and Denton | Andrew Gwynne MP | 3327 |
 | Gosport | Dame Caroline Dinenage MP | 5532 |
 | Grantham and Bourne | Gareth Davies MP | 6372 |
-| Gravesham | Dr Lauren Sullivan MP | 5215 |
+| Gravesham | Dr Lauren Sullivan MP | 5216 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5883 |
-| Great Yarmouth | Rupert Lowe MP | 6662 |
+| Great Yarmouth | Rupert Lowe MP | 6663 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2652 |
 | Guildford | Zöe Franklin MP | 4020 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2071 |
@@ -261,7 +261,7 @@
 | Kingston upon Hull East | Karl Turner MP | 5071 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4700 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5564 |
-| Kingswinford and South Staffordshire | Mike Wood MP | 6449 |
+| Kingswinford and South Staffordshire | Mike Wood MP | 6450 |
 | Knowsley | Anneliese Midgley MP | 3335 |
 | Lancaster and Wyre | Cat Smith MP | 5130 |
 | Leeds Central and Headingley | Alex Sobel MP | 1956 |
@@ -279,7 +279,7 @@
 | Lewisham East | Janet Daby MP | 2174 |
 | Lewisham North | Vicky Foxcroft MP | 1673 |
 | Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1608 |
-| Leyton and Wanstead | Mr Calvin Bailey MP | 1893 |
+| Leyton and Wanstead | Mr Calvin Bailey MP | 1894 |
 | Lichfield | Dave Robertson MP | 6540 |
 | Lincoln | Mr Hamish Falconer MP | 4697 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3190 |
@@ -390,7 +390,7 @@
 | Reigate | Rebecca Paul MP | 5576 |
 | Ribble Valley | Maya Ellis MP | 6775 |
 | Richmond and Northallerton | Rt Hon Rishi Sunak MP | 7168 |
-| Richmond Park | Sarah Olney MP | 4079 |
+| Richmond Park | Sarah Olney MP | 4080 |
 | Rochdale | Paul Waugh MP | 3997 |
 | Rochester and Strood | Lauren Edwards MP | 6088 |
 | Romford | Andrew Rosindell MP | 5842 |
@@ -410,7 +410,7 @@
 | Scunthorpe | Sir Nicholas Dakin MP | 5140 |
 | Sefton Central | Bill Esterson MP | 4075 |
 | Selby | Keir Mather MP | 6435 |
-| Sevenoaks | Rt Hon Laura Trott MP | 6709 |
+| Sevenoaks | Rt Hon Laura Trott MP | 6710 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3482 |
 | Sheffield Central | Abtisam Mohamed MP | 1447 |
 | Sheffield Hallam | Olivia Blake MP | 3403 |
@@ -492,8 +492,8 @@
 | Thirsk and Malton | Kevin Hollinrake MP | 7489 |
 | Thornbury and Yate | Claire Young MP | 5740 |
 | Thurrock | Jen Craft MP | 5175 |
-| Tipton and Wednesbury | Antonia Bance MP | 4986 |
-| Tiverton and Minehead | Rachel Gilmour MP | 6005 |
+| Tipton and Wednesbury | Antonia Bance MP | 4987 |
+| Tiverton and Minehead | Rachel Gilmour MP | 6006 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5985 |
 | Tooting | Dr Rosena Allin-Khan MP | 2710 |
 | Torbay | Steve Darling MP | 5917 |
