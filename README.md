@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024029                                |
-| Last Updated      | 2025-05-18 15:17:19 UTC                                    |
+| Total Signatures   | 3024036                                |
+| Last Updated      | 2025-05-18 16:21:13 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -123,7 +123,7 @@
 | Clapham and Brixton Hill | Bell Ribeiro-Addy MP | 1766 |
 | Colchester | Pam Cox MP | 5059 |
 | Colne Valley | Paul Davies MP | 5080 |
-| Congleton | Sarah Russell MP | 6033 |
+| Congleton | Sarah Russell MP | 6034 |
 | Corby and East Northamptonshire | Lee Barron MP | 6070 |
 | Coventry East | Mary Creagh MP | 3647 |
 | Coventry North West | Taiwo Owatemi MP | 4310 |
@@ -135,7 +135,7 @@
 | Croydon South | Rt Hon Chris Philp MP | 3975 |
 | Croydon West | Sarah Jones MP | 1768 |
 | Dagenham and Rainham | Margaret Mullane MP | 4280 |
-| Darlington | Lola McEvoy MP | 5507 |
+| Darlington | Lola McEvoy MP | 5508 |
 | Dartford | Jim Dickson MP | 5783 |
 | Daventry | Rt Hon Stuart Andrew MP | 7333 |
 | Derby North | Catherine Atkinson MP | 4380 |
@@ -146,7 +146,7 @@
 | Doncaster Central | Sally Jameson MP | 4990 |
 | Doncaster East and the Isle of Axholme | Lee Pitcher MP | 6129 |
 | Doncaster North | Rt Hon Ed Miliband MP | 5640 |
-| Dorking and Horley | Chris Coghlan MP | 5582 |
+| Dorking and Horley | Chris Coghlan MP | 5583 |
 | Dover and Deal | Mike Tapp MP | 6001 |
 | Droitwich and Evesham | Nigel Huddleston MP | 6618 |
 | Dudley | Sonia Kumar MP | 5455 |
@@ -198,7 +198,7 @@
 | Goole and Pocklington | Rt Hon David Davis MP | 7026 |
 | Gorton and Denton | Andrew Gwynne MP | 3327 |
 | Gosport | Dame Caroline Dinenage MP | 5532 |
-| Grantham and Bourne | Gareth Davies MP | 6371 |
+| Grantham and Bourne | Gareth Davies MP | 6372 |
 | Gravesham | Dr Lauren Sullivan MP | 5215 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5883 |
 | Great Yarmouth | Rupert Lowe MP | 6662 |
@@ -376,7 +376,7 @@
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5534 |
 | Poole | Neil Duncan-Jordan MP | 5718 |
 | Poplar and Limehouse | Apsana Begum MP | 2951 |
-| Portsmouth North | Amanda Martin MP | 5696 |
+| Portsmouth North | Amanda Martin MP | 5697 |
 | Portsmouth South | Stephen Morgan MP | 3936 |
 | Preston | Sir Mark Hendrick MP | 3862 |
 | Putney | Fleur Anderson MP | 3539 |
@@ -401,7 +401,7 @@
 | Rugby | John Slinger MP | 5468 |
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4131 |
 | Runcorn and Helsby | Sarah Pochin MP | 5093 |
-| Runnymede and Weybridge | Dr Ben Spencer MP | 5876 |
+| Runnymede and Weybridge | Dr Ben Spencer MP | 5877 |
 | Rushcliffe | James Naish MP | 5113 |
 | Rutland and Stamford | Alicia Kearns MP | 6301 |
 | Salford | Rebecca Long Bailey MP | 4711 |
@@ -454,7 +454,7 @@
 | Spen Valley | Kim Leadbeater MP | 5432 |
 | St Albans | Daisy Cooper MP | 3898 |
 | St Austell and Newquay | Noah Law MP | 5689 |
-| St Helens North | David Baines MP | 4779 |
+| St Helens North | David Baines MP | 4780 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4235 |
 | St Ives | Andrew George MP | 5139 |
 | St Neots and Mid Cambridgeshire | Ian Sollom MP | 4843 |
