@@ -3,14 +3,14 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024020                                |
-| Last Updated      | 2025-05-18 14:15:56 UTC                                    |
+| Total Signatures   | 3024029                                |
+| Last Updated      | 2025-05-18 15:17:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5501 |
 | Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5861 |
-| Altrincham and Sale West | Mr Connor Rand MP | 5530 |
+| Altrincham and Sale West | Mr Connor Rand MP | 5532 |
 | Amber Valley | Linsey Farnsworth MP | 6155 |
 | Arundel and South Downs | Andrew Griffith MP | 6999 |
 | Ashfield | Lee Anderson MP | 6222 |
@@ -85,7 +85,7 @@
 | Bromley and Biggin Hill | Peter Fortune MP | 5290 |
 | Bromsgrove | Bradley Thomas MP | 6529 |
 | Broxbourne | Lewis Cocking MP | 6133 |
-| Broxtowe | Juliet Campbell MP | 4752 |
+| Broxtowe | Juliet Campbell MP | 4754 |
 | Buckingham and Bletchley | Callum Anderson MP | 5297 |
 | Burnley | Oliver Ryan MP | 5790 |
 | Burton and Uttoxeter | Jacob Collier MP | 5868 |
@@ -314,7 +314,7 @@
 | Mid Sussex | Alison Bennett MP | 4736 |
 | Middlesbrough and Thornaby East | Andy McDonald MP | 4287 |
 | Middlesbrough South and East Cleveland | Luke Myer MP | 5777 |
-| Milton Keynes Central | Emily Darlington MP | 4983 |
+| Milton Keynes Central | Emily Darlington MP | 4984 |
 | Milton Keynes North | Chris Curtis MP | 4615 |
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2697 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5825 |
@@ -323,7 +323,7 @@
 | Newark | Rt Hon Robert Jenrick MP | 7209 |
 | Newbury | Mr Lee Dillon MP | 4934 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4574 |
-| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4831 |
+| Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4832 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3990 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5141 |
 | Newton Abbot | Martin Wrigley MP | 5163 |
@@ -590,14 +590,14 @@
 | Dumfries and Galloway | John Cooper MP | 4072 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3893 |
 | Dundee Central | Chris Law MP | 2584 |
-| Dunfermline and Dollar | Graeme Downie MP | 2962 |
+| Dunfermline and Dollar | Graeme Downie MP | 2963 |
 | East Kilbride and Strathaven | Joani Reid MP | 3194 |
 | Edinburgh East and Musselburgh | Chris Murray MP | 2124 |
 | Edinburgh North and Leith | Tracy Gilbert MP | 2435 |
 | Edinburgh South | Rt Hon Ian Murray MP | 2079 |
 | Edinburgh South West | Dr Scott Arthur MP | 2277 |
 | Edinburgh West | Christine Jardine MP | 2738 |
-| Falkirk | Euan Stainbank MP | 3476 |
+| Falkirk | Euan Stainbank MP | 3477 |
 | Glasgow East | John Grady MP | 2363 |
 | Glasgow North | Martin Rhodes MP | 2075 |
 | Glasgow North East | Maureen Burke MP | 2538 |
@@ -618,7 +618,7 @@
 | Paisley and Renfrewshire North | Alison Taylor MP | 2908 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2677 |
 | Perth and Kinross-shire | Pete Wishart MP | 3537 |
-| Rutherglen | Michael Shanks MP | 2607 |
+| Rutherglen | Michael Shanks MP | 2608 |
 | Stirling and Strathallan | Chris Kane MP | 3251 |
 | West Dunbartonshire | Douglas McAllister MP | 2768 |
 | Ayr, Carrick and Cumnock | Elaine Stewart MP | 3580 |
