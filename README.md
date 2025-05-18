@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3023906                                |
-| Last Updated      | 2025-05-17 23:17:25 UTC                                    |
+| Total Signatures   | 3023912                                |
+| Last Updated      | 2025-05-18 01:43:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -187,7 +187,7 @@
 | Folkestone and Hythe | Tony Vaughan KC MP | 5451 |
 | Forest of Dean | Matt Bishop MP | 5317 |
 | Frome and East Somerset | Anna Sabine MP | 4375 |
-| Fylde | Mr Andrew Snowden MP | 6835 |
+| Fylde | Mr Andrew Snowden MP | 6836 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6715 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4578 |
 | Gedling | Michael Payne MP | 5121 |
@@ -288,7 +288,7 @@
 | Liverpool Wavertree | Paula Barker MP | 2255 |
 | Liverpool West Derby | Ian Byrne MP | 3112 |
 | Loughborough | Dr Jeevun Sandher MP | 4522 |
-| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7847 |
+| Louth and Horncastle | Rt Hon Victoria Atkins MP | 7848 |
 | Lowestoft | Jess Asato MP | 5383 |
 | Luton North | Sarah Owen MP | 2508 |
 | Luton South and South Bedfordshire | Rachel Hopkins MP | 2978 |
@@ -372,7 +372,7 @@
 | Penrith and Solway | Markus Campbell-Savours MP | 6257 |
 | Peterborough | Andrew Pakes MP | 4207 |
 | Plymouth Moor View | Fred Thomas MP | 5777 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4825 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4826 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5534 |
 | Poole | Neil Duncan-Jordan MP | 5718 |
 | Poplar and Limehouse | Apsana Begum MP | 2951 |
@@ -409,7 +409,7 @@
 | Scarborough and Whitby | Alison Hume MP | 6075 |
 | Scunthorpe | Sir Nicholas Dakin MP | 5139 |
 | Sefton Central | Bill Esterson MP | 4074 |
-| Selby | Keir Mather MP | 6434 |
+| Selby | Keir Mather MP | 6435 |
 | Sevenoaks | Rt Hon Laura Trott MP | 6709 |
 | Sheffield Brightside and Hillsborough | Gill Furniss MP | 3482 |
 | Sheffield Central | Abtisam Mohamed MP | 1447 |
@@ -430,7 +430,7 @@
 | South Cotswolds | Dr Roz Savage MP | 5751 |
 | South Derbyshire | Samantha Niblett MP | 6222 |
 | South Devon | Caroline Voaden MP | 5363 |
-| South Dorset | Lloyd Hatton MP | 5719 |
+| South Dorset | Lloyd Hatton MP | 5720 |
 | South East Cornwall | Anna Gelderd MP | 6302 |
 | South Holland and The Deepings | Rt Hon Sir John Hayes MP | 7197 |
 | South Leicestershire | Alberto Costa MP | 7049 |
@@ -442,7 +442,7 @@
 | South Suffolk | James Cartlidge MP | 6200 |
 | South West Devon | Rebecca Smith MP | 6039 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5250 |
-| South West Norfolk | Terry Jermy MP | 6586 |
+| South West Norfolk | Terry Jermy MP | 6587 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5258 |
 | Southampton Itchen | Darren Paffey MP | 4609 |
 | Southampton Test | Satvir Kaur MP | 3446 |
