@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024114                                |
-| Last Updated      | 2025-05-18 23:17:13 UTC                                    |
+| Total Signatures   | 3024123                                |
+| Last Updated      | 2025-05-19 01:42:44 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -35,7 +35,7 @@
 | Beverley and Holderness | Rt Hon Graham Stuart MP | 6218 |
 | Bexhill and Battle | Dr Kieran Mullan MP | 6185 |
 | Bexleyheath and Crayford | Daniel Francis MP | 5084 |
-| Bicester and Woodstock | Calum Miller MP | 4713 |
+| Bicester and Woodstock | Calum Miller MP | 4714 |
 | Birkenhead | Alison McGovern MP | 4405 |
 | Birmingham Edgbaston | Preet Kaur Gill MP | 2994 |
 | Birmingham Erdington | Paulette Hamilton MP | 4307 |
@@ -46,7 +46,7 @@
 | Birmingham Perry Barr | Ayoub Khan MP | 1739 |
 | Birmingham Selly Oak | Al Carns MP | 3338 |
 | Birmingham Yardley | Jess Phillips MP | 3126 |
-| Bishop Auckland | Sam Rushworth MP | 6225 |
+| Bishop Auckland | Sam Rushworth MP | 6226 |
 | Blackburn | Mr Adnan Hussain MP | 3191 |
 | Blackley and Middleton South | Graham Stringer MP | 3838 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6232 |
@@ -242,7 +242,7 @@
 | Horsham | John Milne MP | 5875 |
 | Houghton and Sunderland South | Rt Hon Bridget Phillipson MP | 6398 |
 | Hove and Portslade | Rt Hon Peter Kyle MP | 3360 |
-| Huddersfield | Harpreet Uppal MP | 3729 |
+| Huddersfield | Harpreet Uppal MP | 3730 |
 | Huntingdon | Ben Obese-Jecty MP | 5603 |
 | Hyndburn | Sarah Smith MP | 5075 |
 | Ilford North | Rt Hon Wes Streeting MP | 2641 |
@@ -308,7 +308,7 @@
 | Mid Buckinghamshire | Greg Smith MP | 5629 |
 | Mid Cheshire | Andrew Cooper MP | 5219 |
 | Mid Derbyshire | Jonathan Davies MP | 5289 |
-| Mid Dorset and North Poole | Vikki Slade MP | 5931 |
+| Mid Dorset and North Poole | Vikki Slade MP | 5932 |
 | Mid Leicestershire | Mr Peter Bedford MP | 5642 |
 | Mid Norfolk | George Freeman MP | 6336 |
 | Mid Sussex | Alison Bennett MP | 4736 |
@@ -346,7 +346,7 @@
 | North Shropshire | Helen Morgan MP | 6938 |
 | North Somerset | Sadik Al-Hassan MP | 4615 |
 | North Warwickshire and Bedworth | Rachel Taylor MP | 6332 |
-| North West Cambridgeshire | Sam Carling MP | 6073 |
+| North West Cambridgeshire | Sam Carling MP | 6074 |
 | North West Essex | Rt Hon Kemi Badenoch MP | 7178 |
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5769 |
 | North West Leicestershire | Amanda Hack MP | 6766 |
@@ -367,10 +367,10 @@
 | Oxford East | Rt Hon Anneliese Dodds MP | 2179 |
 | Oxford West and Abingdon | Layla Moran MP | 2950 |
 | Peckham | Miatta Fahnbulleh MP | 1376 |
-| Pendle and Clitheroe | Jonathan Hinder MP | 6268 |
+| Pendle and Clitheroe | Jonathan Hinder MP | 6269 |
 | Penistone and Stocksbridge | Dr Marie Tidball MP | 5501 |
 | Penrith and Solway | Markus Campbell-Savours MP | 6257 |
-| Peterborough | Andrew Pakes MP | 4208 |
+| Peterborough | Andrew Pakes MP | 4209 |
 | Plymouth Moor View | Fred Thomas MP | 5778 |
 | Plymouth Sutton and Devonport | Luke Pollard MP | 4827 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5534 |
@@ -416,7 +416,7 @@
 | Sheffield Hallam | Olivia Blake MP | 3403 |
 | Sheffield Heeley | Rt Hon Louise Haigh MP | 3588 |
 | Sheffield South East | Mr Clive Betts MP | 4785 |
-| Sherwood Forest | Michelle Welsh MP | 6728 |
+| Sherwood Forest | Michelle Welsh MP | 6729 |
 | Shipley | Anna Dixon MP | 4935 |
 | Shrewsbury | Julia Buckley MP | 5372 |
 | Sittingbourne and Sheppey | Kevin McKenna MP | 6936 |
@@ -536,7 +536,7 @@
 | Windsor | Jack Rankin MP | 5142 |
 | Wirral West | Matthew Patrick MP | 4238 |
 | Witham | Rt Hon Priti Patel MP | 7069 |
-| Witney | Charlie Maynard MP | 5204 |
+| Witney | Charlie Maynard MP | 5205 |
 | Woking | Mr Will Forster MP | 4422 |
 | Wokingham | Clive Jones MP | 4894 |
 | Wolverhampton North East | Mrs Sureena Brackenridge MP | 4464 |
