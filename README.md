@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024124                                |
-| Last Updated      | 2025-05-19 03:17:22 UTC                                    |
+| Total Signatures   | 3024127                                |
+| Last Updated      | 2025-05-19 04:26:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -200,7 +200,7 @@
 | Gosport | Dame Caroline Dinenage MP | 5533 |
 | Grantham and Bourne | Gareth Davies MP | 6372 |
 | Gravesham | Dr Lauren Sullivan MP | 5217 |
-| Great Grimsby and Cleethorpes | Melanie Onn MP | 5884 |
+| Great Grimsby and Cleethorpes | Melanie Onn MP | 5885 |
 | Great Yarmouth | Rupert Lowe MP | 6663 |
 | Greenwich and Woolwich | Matthew Pennycook MP | 2652 |
 | Guildford | Zöe Franklin MP | 4020 |
@@ -217,7 +217,7 @@
 | Harrogate and Knaresborough | Tom Gordon MP | 5162 |
 | Harrow East | Bob Blackman MP | 3151 |
 | Harrow West | Gareth Thomas MP | 2419 |
-| Hartlepool | Mr Jonathan Brash MP | 5722 |
+| Hartlepool | Mr Jonathan Brash MP | 5723 |
 | Harwich and North Essex | Sir Bernard Jenkin MP | 6328 |
 | Hastings and Rye | Helena Dollimore MP | 5115 |
 | Havant | Alan Mak MP | 5736 |
@@ -280,7 +280,7 @@
 | Lewisham North | Vicky Foxcroft MP | 1673 |
 | Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1608 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1894 |
-| Lichfield | Dave Robertson MP | 6541 |
+| Lichfield | Dave Robertson MP | 6542 |
 | Lincoln | Mr Hamish Falconer MP | 4697 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3190 |
 | Liverpool Riverside | Kim Johnson MP | 2691 |
