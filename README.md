@@ -3,13 +3,13 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024127                                |
-| Last Updated      | 2025-05-19 04:26:33 UTC                                    |
+| Total Signatures   | 3024132                                |
+| Last Updated      | 2025-05-19 05:19:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
 | Aldershot | Alex Baker MP | 5501 |
-| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5861 |
+| Aldridge-Brownhills | Rt Hon Wendy Morton MP | 5862 |
 | Altrincham and Sale West | Mr Connor Rand MP | 5532 |
 | Amber Valley | Linsey Farnsworth MP | 6155 |
 | Arundel and South Downs | Andrew Griffith MP | 6999 |
@@ -81,7 +81,7 @@
 | Bristol North East | Damien Egan MP | 3129 |
 | Bristol North West | Rt Hon Darren Jones MP | 3248 |
 | Bristol South | Karin Smyth MP | 4026 |
-| Broadland and Fakenham | Jerome Mayhew MP | 5886 |
+| Broadland and Fakenham | Jerome Mayhew MP | 5887 |
 | Bromley and Biggin Hill | Peter Fortune MP | 5290 |
 | Bromsgrove | Bradley Thomas MP | 6529 |
 | Broxbourne | Lewis Cocking MP | 6133 |
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1540 |
 | Halesowen | Alex Ballinger MP | 5050 |
 | Halifax | Kate Dearden MP | 4792 |
-| Hamble Valley | Paul Holmes MP | 6195 |
+| Hamble Valley | Paul Holmes MP | 6196 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3214 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2990 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4743 |
@@ -453,7 +453,7 @@
 | Spelthorne | Lincoln Jopp MP | 5505 |
 | Spen Valley | Kim Leadbeater MP | 5432 |
 | St Albans | Daisy Cooper MP | 3898 |
-| St Austell and Newquay | Noah Law MP | 5689 |
+| St Austell and Newquay | Noah Law MP | 5690 |
 | St Helens North | David Baines MP | 4780 |
 | St Helens South and Whiston | Ms Marie Rimmer MP | 4235 |
 | St Ives | Andrew George MP | 5139 |
@@ -652,7 +652,7 @@
 | Newport East | Jessica Morden MP | 4079 |
 | Newport West and Islwyn | Ruth Jones MP | 4130 |
 | Pontypridd | Alex Davies-Jones MP | 3982 |
-| Rhondda and Ogmore | Chris Bryant MP | 4129 |
+| Rhondda and Ogmore | Chris Bryant MP | 4130 |
 | Swansea West | Torsten Bell MP | 3721 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4132 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4677 |
