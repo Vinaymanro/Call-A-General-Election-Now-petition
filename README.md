@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024760                                |
-| Last Updated      | 2025-05-20 04:23:28 UTC                                    |
+| Total Signatures   | 3024767                                |
+| Last Updated      | 2025-05-20 05:18:49 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -319,7 +319,7 @@
 | Mitcham and Morden | Dame Siobhain McDonagh MP | 2697 |
 | Morecambe and Lunesdale | Lizzi Collinge MP | 5827 |
 | New Forest East | Rt Hon Sir Julian Lewis MP | 5489 |
-| New Forest West | Rt Hon Sir Desmond Swayne MP | 5310 |
+| New Forest West | Rt Hon Sir Desmond Swayne MP | 5311 |
 | Newark | Rt Hon Robert Jenrick MP | 7212 |
 | Newbury | Mr Lee Dillon MP | 4934 |
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4574 |
@@ -402,7 +402,7 @@
 | Ruislip, Northwood and Pinner | David Simmonds MP | 4131 |
 | Runcorn and Helsby | Sarah Pochin MP | 5095 |
 | Runnymede and Weybridge | Dr Ben Spencer MP | 5878 |
-| Rushcliffe | James Naish MP | 5118 |
+| Rushcliffe | James Naish MP | 5119 |
 | Rutland and Stamford | Alicia Kearns MP | 6301 |
 | Salford | Rebecca Long Bailey MP | 4713 |
 | Salisbury | Rt Hon John Glen MP | 4791 |
@@ -425,7 +425,7 @@
 | Slough | Mr Tanmanjeet Singh Dhesi MP | 2610 |
 | Smethwick | Gurinder Singh Josan MP | 3099 |
 | Solihull West and Shirley | Dr Neil Shastri-Hurst MP | 5500 |
-| South Basildon and East Thurrock | James McMurdock MP | 6663 |
+| South Basildon and East Thurrock | James McMurdock MP | 6664 |
 | South Cambridgeshire | Pippa Heylings MP | 4475 |
 | South Cotswolds | Dr Roz Savage MP | 5753 |
 | South Derbyshire | Samantha Niblett MP | 6222 |
@@ -436,7 +436,7 @@
 | South Leicestershire | Alberto Costa MP | 7054 |
 | South Norfolk | Ben Goldsborough MP | 5481 |
 | South Northamptonshire | Sarah Bool MP | 6727 |
-| South Ribble | Mr Paul Foster MP | 5958 |
+| South Ribble | Mr Paul Foster MP | 5959 |
 | South Shields | Emma Lewell MP | 4784 |
 | South Shropshire | Stuart Anderson MP | 7368 |
 | South Suffolk | James Cartlidge MP | 6200 |
@@ -506,7 +506,7 @@
 | Uxbridge and South Ruislip | Danny Beales MP | 4523 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1695 |
 | Wakefield and Rothwell | Simon Lightwood MP | 4978 |
-| Wallasey | Dame Angela Eagle MP | 4141 |
+| Wallasey | Dame Angela Eagle MP | 4142 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4076 |
 | Walthamstow | Ms Stella Creasy MP | 1327 |
 | Warrington North | Charlotte Nichols MP | 5226 |
@@ -572,7 +572,7 @@
 | East Renfrewshire | Blair McDougall MP | 2618 |
 | Na h-Eileanan an Iar | Torcuil Crichton MP | 886 |
 | Midlothian | Kirsty McNeill MP | 2835 |
-| North Ayrshire and Arran | Irene Campbell MP | 3325 |
+| North Ayrshire and Arran | Irene Campbell MP | 3326 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1452 |
 | Aberdeen North | Kirsty Blackman MP | 3599 |
 | Aberdeen South | Rt Hon Stephen Flynn MP | 3881 |
@@ -630,7 +630,7 @@
 | Alyn and Deeside | Rt Hon Mark Tami MP | 5827 |
 | Bangor Aberconwy | Claire Hughes MP | 4563 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3718 |
-| Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5327 |
+| Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5328 |
 | Bridgend | Chris Elmore MP | 4307 |
 | Caerfyrddin | Ann Davies MP | 5266 |
 | Caerphilly | Chris Evans MP | 4084 |
