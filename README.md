@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3024756                                |
-| Last Updated      | 2025-05-20 03:11:44 UTC                                    |
+| Total Signatures   | 3024760                                |
+| Last Updated      | 2025-05-20 04:23:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -190,7 +190,7 @@
 | Fylde | Mr Andrew Snowden MP | 6841 |
 | Gainsborough | Rt Hon Sir Edward Leigh MP | 6718 |
 | Gateshead Central and Whickham | Mark Ferguson MP | 4578 |
-| Gedling | Michael Payne MP | 5121 |
+| Gedling | Michael Payne MP | 5122 |
 | Gillingham and Rainham | Naushabah Khan MP | 5102 |
 | Glastonbury and Somerton | Sarah Dyke MP | 5635 |
 | Gloucester | Alex McIntyre MP | 4590 |
@@ -208,7 +208,7 @@
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1540 |
 | Halesowen | Alex Ballinger MP | 5051 |
 | Halifax | Kate Dearden MP | 4793 |
-| Hamble Valley | Paul Holmes MP | 6196 |
+| Hamble Valley | Paul Holmes MP | 6197 |
 | Hammersmith and Chiswick | Andy Slaughter MP | 3215 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2990 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4745 |
@@ -616,7 +616,7 @@
 | Motherwell, Wishaw and Carluke | Pamela Nash MP | 2777 |
 | North East Fife | Wendy Chamberlain MP | 2929 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2908 |
-| Paisley and Renfrewshire South | Johanna Baxter MP | 2677 |
+| Paisley and Renfrewshire South | Johanna Baxter MP | 2679 |
 | Perth and Kinross-shire | Pete Wishart MP | 3538 |
 | Rutherglen | Michael Shanks MP | 2608 |
 | Stirling and Strathallan | Chris Kane MP | 3253 |
