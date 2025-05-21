@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025905                                |
-| Last Updated      | 2025-05-21 07:19:01 UTC                                    |
+| Total Signatures   | 3025909                                |
+| Last Updated      | 2025-05-21 08:26:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -372,7 +372,7 @@
 | Penrith and Solway | Markus Campbell-Savours MP | 6259 |
 | Peterborough | Andrew Pakes MP | 4214 |
 | Plymouth Moor View | Fred Thomas MP | 5793 |
-| Plymouth Sutton and Devonport | Luke Pollard MP | 4833 |
+| Plymouth Sutton and Devonport | Luke Pollard MP | 4834 |
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5537 |
 | Poole | Neil Duncan-Jordan MP | 5721 |
 | Poplar and Limehouse | Apsana Begum MP | 2953 |
@@ -492,7 +492,7 @@
 | Thirsk and Malton | Kevin Hollinrake MP | 7491 |
 | Thornbury and Yate | Claire Young MP | 5741 |
 | Thurrock | Jen Craft MP | 5179 |
-| Tipton and Wednesbury | Antonia Bance MP | 4992 |
+| Tipton and Wednesbury | Antonia Bance MP | 4993 |
 | Tiverton and Minehead | Rachel Gilmour MP | 6014 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5992 |
 | Tooting | Dr Rosena Allin-Khan MP | 2710 |
@@ -520,7 +520,7 @@
 | Wells and Mendip Hills | Tessa Munt MP | 5302 |
 | Welwyn Hatfield | Andrew Lewin MP | 5102 |
 | West Bromwich | Sarah Coombes MP | 3826 |
-| West Dorset | Edward Morello MP | 5496 |
+| West Dorset | Edward Morello MP | 5497 |
 | West Ham and Beckton | James Asser MP | 2184 |
 | West Lancashire | Ashley Dalton MP | 5115 |
 | West Suffolk | Nick Timothy MP | 6091 |
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5144 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6626 |
 | Whitehaven and Workington | Josh MacAlister MP | 5962 |
-| Widnes and Halewood | Derek Twigg MP | 4306 |
+| Widnes and Halewood | Derek Twigg MP | 4307 |
 | Wigan | Rt Hon Lisa Nandy MP | 6042 |
 | Wimbledon | Mr Paul Kohler MP | 3430 |
 | Winchester | Dr Danny Chambers MP | 4962 |
