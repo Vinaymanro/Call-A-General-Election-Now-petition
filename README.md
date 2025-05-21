@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025902                                |
-| Last Updated      | 2025-05-21 01:39:03 UTC                                    |
+| Total Signatures   | 3025903                                |
+| Last Updated      | 2025-05-21 03:11:19 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -613,7 +613,7 @@
 | Lothian East | Rt Hon Douglas Alexander MP | 2887 |
 | Mid Dunbartonshire | Susan Murray MP | 2552 |
 | Moray West, Nairn and Strathspey | Graham Leadbitter MP | 3971 |
-| Motherwell, Wishaw and Carluke | Pamela Nash MP | 2777 |
+| Motherwell, Wishaw and Carluke | Pamela Nash MP | 2778 |
 | North East Fife | Wendy Chamberlain MP | 2929 |
 | Paisley and Renfrewshire North | Alison Taylor MP | 2908 |
 | Paisley and Renfrewshire South | Johanna Baxter MP | 2679 |
