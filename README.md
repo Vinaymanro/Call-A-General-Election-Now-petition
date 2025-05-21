@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025909                                |
-| Last Updated      | 2025-05-21 08:26:19 UTC                                    |
+| Total Signatures   | 3025911                                |
+| Last Updated      | 2025-05-21 09:21:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -58,7 +58,7 @@
 | Bolton North East | Kirith Entwistle MP | 5683 |
 | Bolton South and Walkden | Yasmin Qureshi MP | 4495 |
 | Bolton West | Phil Brickell MP | 5643 |
-| Bootle | Peter Dowd MP | 3216 |
+| Bootle | Peter Dowd MP | 3217 |
 | Boston and Skegness | Richard Tice MP | 7161 |
 | Bournemouth East | Tom Hayes MP | 4716 |
 | Bournemouth West | Jessica Toale MP | 4968 |
@@ -440,7 +440,7 @@
 | South Shields | Emma Lewell MP | 4788 |
 | South Shropshire | Stuart Anderson MP | 7369 |
 | South Suffolk | James Cartlidge MP | 6201 |
-| South West Devon | Rebecca Smith MP | 6047 |
+| South West Devon | Rebecca Smith MP | 6048 |
 | South West Hertfordshire | Mr Gagan Mohindra MP | 5252 |
 | South West Norfolk | Terry Jermy MP | 6592 |
 | South West Wiltshire | Rt Hon Dr Andrew Murrison MP | 5261 |
