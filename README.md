@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025917                                |
-| Last Updated      | 2025-05-21 15:21:34 UTC                                    |
+| Total Signatures   | 3025919                                |
+| Last Updated      | 2025-05-21 16:25:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -73,7 +73,7 @@
 | Brentwood and Ongar | Alex Burghart MP | 8191 |
 | Bridgwater | Sir Ashley Fox MP | 5832 |
 | Bridlington and The Wolds | Charlie Dewhirst MP | 6691 |
-| Brigg and Immingham | Martin Vickers MP | 6528 |
+| Brigg and Immingham | Martin Vickers MP | 6529 |
 | Brighton Kemptown and Peacehaven | Chris Ward MP | 3966 |
 | Brighton Pavilion | Siân Berry MP | 2766 |
 | Bristol Central | Carla Denyer MP | 1629 |
@@ -325,7 +325,7 @@
 | Newcastle upon Tyne Central and West | Chi Onwurah MP | 4577 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4841 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3991 |
-| Newcastle-under-Lyme | Adam Jogee MP | 5145 |
+| Newcastle-under-Lyme | Adam Jogee MP | 5146 |
 | Newton Abbot | Martin Wrigley MP | 5168 |
 | Newton Aycliffe and Spennymoor | Alan Strickland MP | 5600 |
 | Normanton and Hemsworth | Jon Trickett MP | 5583 |
