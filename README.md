@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025904                                |
-| Last Updated      | 2025-05-21 06:28:33 UTC                                    |
+| Total Signatures   | 3025905                                |
+| Last Updated      | 2025-05-21 07:19:01 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -322,7 +322,7 @@
 | New Forest West | Rt Hon Sir Desmond Swayne MP | 5312 |
 | Newark | Rt Hon Robert Jenrick MP | 7213 |
 | Newbury | Mr Lee Dillon MP | 4937 |
-| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4576 |
+| Newcastle upon Tyne Central and West | Chi Onwurah MP | 4577 |
 | Newcastle upon Tyne East and Wallsend | Mary Glindon MP | 4841 |
 | Newcastle upon Tyne North | Catherine McKinnell MP | 3991 |
 | Newcastle-under-Lyme | Adam Jogee MP | 5145 |
