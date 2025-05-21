@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025913                                |
-| Last Updated      | 2025-05-21 10:20:51 UTC                                    |
+| Total Signatures   | 3025915                                |
+| Last Updated      | 2025-05-21 11:16:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -385,7 +385,7 @@
 | Rayleigh and Wickford | Rt Hon Mark Francois MP | 7398 |
 | Reading Central | Matt Rodda MP | 3051 |
 | Reading West and Mid Berkshire | Olivia Bailey MP | 4476 |
-| Redcar | Anna Turley MP | 5521 |
+| Redcar | Anna Turley MP | 5522 |
 | Redditch | Chris Bloore MP | 6168 |
 | Reigate | Rebecca Paul MP | 5578 |
 | Ribble Valley | Maya Ellis MP | 6779 |
@@ -486,7 +486,7 @@
 | Tamworth | Sarah Edwards MP | 7033 |
 | Tatton | Rt Hon Esther McVey MP | 6530 |
 | Taunton and Wellington | Gideon Amos MP | 5235 |
-| Telford | Shaun Davies MP | 5672 |
+| Telford | Shaun Davies MP | 5673 |
 | Tewkesbury | Cameron Thomas MP | 5060 |
 | The Wrekin | Rt Hon Mark Pritchard MP | 6467 |
 | Thirsk and Malton | Kevin Hollinrake MP | 7491 |
