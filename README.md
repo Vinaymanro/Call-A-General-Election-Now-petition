@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025919                                |
-| Last Updated      | 2025-05-21 20:20:44 UTC                                    |
+| Total Signatures   | 3025920                                |
+| Last Updated      | 2025-05-21 21:17:40 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -283,7 +283,7 @@
 | Lichfield | Dave Robertson MP | 6545 |
 | Lincoln | Mr Hamish Falconer MP | 4698 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3195 |
-| Liverpool Riverside | Kim Johnson MP | 2693 |
+| Liverpool Riverside | Kim Johnson MP | 2694 |
 | Liverpool Walton | Dan Carden MP | 3421 |
 | Liverpool Wavertree | Paula Barker MP | 2256 |
 | Liverpool West Derby | Ian Byrne MP | 3116 |
