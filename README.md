@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025903                                |
-| Last Updated      | 2025-05-21 05:19:10 UTC                                    |
+| Total Signatures   | 3025904                                |
+| Last Updated      | 2025-05-21 06:28:33 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -234,7 +234,7 @@
 | Heywood and Middleton North | Mrs Elsie Blundell MP | 5334 |
 | High Peak | Jon Pearce MP | 5534 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6547 |
-| Hitchin | Alistair Strathern MP | 4950 |
+| Hitchin | Alistair Strathern MP | 4951 |
 | Holborn and St Pancras | Rt Hon Sir Keir Starmer MP | 2298 |
 | Honiton and Sidmouth | Richard Foord MP | 5321 |
 | Hornchurch and Upminster | Julia Lopez MP | 6668 |
