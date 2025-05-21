@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025915                                |
-| Last Updated      | 2025-05-21 11:16:31 UTC                                    |
+| Total Signatures   | 3025916                                |
+| Last Updated      | 2025-05-21 12:39:39 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -656,5 +656,5 @@
 | Swansea West | Torsten Bell MP | 3724 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4135 |
 | Vale of Glamorgan | Kanishka Narayan MP | 4678 |
-| Wrexham | Andrew Ranger MP | 4866 |
+| Wrexham | Andrew Ranger MP | 4867 |
 | Ynys Môn | Llinos Medi MP | 3762 |
