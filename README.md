@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025911                                |
-| Last Updated      | 2025-05-21 09:21:30 UTC                                    |
+| Total Signatures   | 3025913                                |
+| Last Updated      | 2025-05-21 10:20:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -529,7 +529,7 @@
 | Weston-super-Mare | Dan Aldridge MP | 5144 |
 | Wetherby and Easingwold | Rt Hon Sir Alec Shelbrooke MP | 6626 |
 | Whitehaven and Workington | Josh MacAlister MP | 5962 |
-| Widnes and Halewood | Derek Twigg MP | 4307 |
+| Widnes and Halewood | Derek Twigg MP | 4308 |
 | Wigan | Rt Hon Lisa Nandy MP | 6042 |
 | Wimbledon | Mr Paul Kohler MP | 3430 |
 | Winchester | Dr Danny Chambers MP | 4962 |
@@ -608,7 +608,7 @@
 | Gordon and Buchan | Harriet Cross MP | 4434 |
 | Hamilton and Clyde Valley | Imogen Walker MP | 3181 |
 | Inverclyde and Renfrewshire West | Martin McCluskey MP | 2790 |
-| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3655 |
+| Inverness, Skye and West Ross-shire | Mr Angus MacDonald MP | 3656 |
 | Livingston | Gregor Poynton MP | 3451 |
 | Lothian East | Rt Hon Douglas Alexander MP | 2887 |
 | Mid Dunbartonshire | Susan Murray MP | 2552 |
