@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025920                                |
-| Last Updated      | 2025-05-21 21:17:40 UTC                                    |
+| Total Signatures   | 3025921                                |
+| Last Updated      | 2025-05-21 22:18:10 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -284,7 +284,7 @@
 | Lincoln | Mr Hamish Falconer MP | 4698 |
 | Liverpool Garston | Rt Hon Maria Eagle MP | 3195 |
 | Liverpool Riverside | Kim Johnson MP | 2694 |
-| Liverpool Walton | Dan Carden MP | 3421 |
+| Liverpool Walton | Dan Carden MP | 3422 |
 | Liverpool Wavertree | Paula Barker MP | 2256 |
 | Liverpool West Derby | Ian Byrne MP | 3116 |
 | Loughborough | Dr Jeevun Sandher MP | 4525 |
