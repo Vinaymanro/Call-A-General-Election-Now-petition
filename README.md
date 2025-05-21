@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025916                                |
-| Last Updated      | 2025-05-21 12:39:39 UTC                                    |
+| Total Signatures   | 3025917                                |
+| Last Updated      | 2025-05-21 13:31:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -651,7 +651,7 @@
 | Neath and Swansea East | Carolyn Harris MP | 4538 |
 | Newport East | Jessica Morden MP | 4083 |
 | Newport West and Islwyn | Ruth Jones MP | 4132 |
-| Pontypridd | Alex Davies-Jones MP | 3984 |
+| Pontypridd | Alex Davies-Jones MP | 3985 |
 | Rhondda and Ogmore | Chris Bryant MP | 4132 |
 | Swansea West | Torsten Bell MP | 3724 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4135 |
