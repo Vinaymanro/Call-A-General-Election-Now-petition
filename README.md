@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025921                                |
-| Last Updated      | 2025-05-29 10:21:42 UTC                                    |
+| Total Signatures   | 3025922                                |
+| Last Updated      | 2025-05-29 11:16:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -256,7 +256,7 @@
 | Keighley and Ilkley | Robbie Moore MP | 4748 |
 | Kenilworth and Southam | Rt Hon Sir Jeremy Wright KC MP | 6143 |
 | Kensington and Bayswater | Joe Powell MP | 4422 |
-| Kettering | Rosie Wrighting MP | 5959 |
+| Kettering | Rosie Wrighting MP | 5960 |
 | Kingston and Surbiton | Rt Hon Ed Davey MP | 3784 |
 | Kingston upon Hull East | Karl Turner MP | 5071 |
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4702 |
