@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025922                                |
-| Last Updated      | 2025-06-24 14:20:02 UTC                                    |
+| Last Updated      | 2025-06-24 15:22:00 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -627,7 +627,7 @@
 | Kilmarnock and Loudoun | Lillian Jones MP | 3296 |
 | West Aberdeenshire and Kincardine | Andrew Bowie MP | 4599 |
 | Aberafan Maesteg | Stephen Kinnock MP | 3771 |
-| Alyn and Deeside | Rt Hon Mark Tami MP | 5828 |
+| Alyn and Deeside | Rt Hon Sir Mark Tami MP | 5828 |
 | Bangor Aberconwy | Claire Hughes MP | 4565 |
 | Blaenau Gwent and Rhymney | Nick Smith MP | 3722 |
 | Brecon, Radnor and Cwm Tawe | David Chadwick MP | 5331 |
