@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025921                                |
-| Last Updated      | 2025-07-07 10:22:26 UTC                                    |
+| Total Signatures   | 3025920                                |
+| Last Updated      | 2025-07-07 11:17:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -505,7 +505,7 @@
 | Tynemouth | Rt Hon Sir Alan Campbell MP | 4530 |
 | Uxbridge and South Ruislip | Danny Beales MP | 4524 |
 | Vauxhall and Camberwell Green | Florence Eshalomi MP | 1695 |
-| Wakefield and Rothwell | Simon Lightwood MP | 4985 |
+| Wakefield and Rothwell | Simon Lightwood MP | 4984 |
 | Wallasey | Dame Angela Eagle MP | 4142 |
 | Walsall and Bloxwich | Rt Hon Valerie Vaz MP | 4081 |
 | Walthamstow | Ms Stella Creasy MP | 1327 |
