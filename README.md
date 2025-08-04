@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025920                                |
-| Last Updated      | 2025-08-04 15:24:25 UTC                                    |
+| Last Updated      | 2025-08-04 16:29:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
