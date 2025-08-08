@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025920                                |
-| Last Updated      | 2025-08-08 14:22:25 UTC                                    |
+| Total Signatures   | 3025921                                |
+| Last Updated      | 2025-08-08 15:22:41 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -85,7 +85,7 @@
 | Bromley and Biggin Hill | Peter Fortune MP | 5291 |
 | Bromsgrove | Bradley Thomas MP | 6534 |
 | Broxbourne | Lewis Cocking MP | 6139 |
-| Broxtowe | Juliet Campbell MP | 4757 |
+| Broxtowe | Juliet Campbell MP | 4758 |
 | Buckingham and Bletchley | Callum Anderson MP | 5303 |
 | Burnley | Oliver Ryan MP | 5791 |
 | Burton and Uttoxeter | Jacob Collier MP | 5872 |
