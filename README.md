@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025923                                |
-| Last Updated      | 2025-08-27 08:25:26 UTC                                    |
+| Total Signatures   | 3025925                                |
+| Last Updated      | 2025-08-27 09:20:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -47,7 +47,7 @@
 | Birmingham Selly Oak | Al Carns MP | 3339 |
 | Birmingham Yardley | Jess Phillips MP | 3128 |
 | Bishop Auckland | Sam Rushworth MP | 6231 |
-| Blackburn | Mr Adnan Hussain MP | 3193 |
+| Blackburn | Mr Adnan Hussain MP | 3194 |
 | Blackley and Middleton South | Graham Stringer MP | 3840 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6235 |
 | Blackpool South | Chris Webb MP | 5894 |
@@ -177,7 +177,7 @@
 | Erith and Thamesmead | Ms Abena Oppong-Asare MP | 3253 |
 | Esher and Walton | Monica Harding MP | 4858 |
 | Exeter | Steve Race MP | 3225 |
-| Exmouth and Exeter East | David Reed MP | 5257 |
+| Exmouth and Exeter East | David Reed MP | 5258 |
 | Fareham and Waterlooville | Rt Hon Suella Braverman KC MP | 6195 |
 | Farnham and Bordon | Gregory Stafford MP | 5220 |
 | Faversham and Mid Kent | Helen Whately MP | 6288 |
