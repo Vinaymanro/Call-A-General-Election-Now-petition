@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025925                                |
-| Last Updated      | 2025-08-27 16:24:12 UTC                                    |
+| Last Updated      | 2025-08-27 17:16:21 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -336,7 +336,7 @@
 | North Dorset | Simon Hoare MP | 6364 |
 | North Durham | Luke Akehurst MP | 5461 |
 | North East Cambridgeshire | Rt Hon Steve Barclay MP | 6150 |
-| North East Derbyshire | Louise Jones MP | 5865 |
+| North East Derbyshire | Louise Sandher-Jones MP | 5865 |
 | North East Hampshire | Alex Brewer MP | 5990 |
 | North East Hertfordshire | Chris Hinchliff MP | 5895 |
 | North East Somerset and Hanham | Dan Norris MP | 5094 |
