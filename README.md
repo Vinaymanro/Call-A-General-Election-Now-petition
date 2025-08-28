@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025925                                |
-| Last Updated      | 2025-08-28 08:25:02 UTC                                    |
+| Total Signatures   | 3025926                                |
+| Last Updated      | 2025-08-28 09:19:52 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -362,7 +362,7 @@
 | Old Bexley and Sidcup | Mr Louie French MP | 6264 |
 | Oldham East and Saddleworth | Debbie Abrahams MP | 5289 |
 | Oldham West, Chadderton and Royton | Jim McMahon MP | 4139 |
-| Orpington | Gareth Bacon MP | 5357 |
+| Orpington | Gareth Bacon MP | 5358 |
 | Ossett and Denby Dale | Jade Botterill MP | 5858 |
 | Oxford East | Rt Hon Anneliese Dodds MP | 2179 |
 | Oxford West and Abingdon | Layla Moran MP | 2951 |
