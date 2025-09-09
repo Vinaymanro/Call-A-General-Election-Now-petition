@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025926                                |
-| Last Updated      | 2025-09-09 15:20:18 UTC                                    |
+| Last Updated      | 2025-09-09 16:23:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -340,7 +340,7 @@
 | North East Hampshire | Alex Brewer MP | 5990 |
 | North East Hertfordshire | Chris Hinchliff MP | 5895 |
 | North East Somerset and Hanham | Dan Norris MP | 5094 |
-| North Herefordshire | Ellie Chowns MP | 6529 |
+| North Herefordshire | Dr Ellie Chowns MP | 6529 |
 | North Norfolk | Steff Aquarone MP | 5477 |
 | North Northumberland | David Smith MP | 6492 |
 | North Shropshire | Helen Morgan MP | 6942 |
