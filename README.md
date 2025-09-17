@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025926                                |
-| Last Updated      | 2025-09-17 16:23:28 UTC                                    |
+| Total Signatures   | 3025925                                |
+| Last Updated      | 2025-09-17 17:16:06 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -160,7 +160,7 @@
 | East Grinstead and Uckfield | Mims Davies MP | 6093 |
 | East Ham | Rt Hon Sir Stephen Timms MP | 1121 |
 | East Hampshire | Rt Hon Damian Hinds MP | 5383 |
-| East Surrey | Rt Hon Claire Coutinho MP | 6075 |
+| East Surrey | Rt Hon Claire Coutinho MP | 6074 |
 | East Thanet | Ms Polly Billington MP | 5557 |
 | East Wiltshire | Danny Kruger MP | 6121 |
 | East Worthing and Shoreham | Tom Rutland MP | 4663 |
