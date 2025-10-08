@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025925                                |
-| Last Updated      | 2025-10-08 10:19:36 UTC                                    |
+| Total Signatures   | 3025926                                |
+| Last Updated      | 2025-10-08 11:15:23 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -493,7 +493,7 @@
 | Thornbury and Yate | Claire Young MP | 5741 |
 | Thurrock | Jen Craft MP | 5179 |
 | Tipton and Wednesbury | Antonia Bance MP | 4993 |
-| Tiverton and Minehead | Rachel Gilmour MP | 6014 |
+| Tiverton and Minehead | Rachel Gilmour MP | 6015 |
 | Tonbridge | Rt Hon Tom Tugendhat MP | 5992 |
 | Tooting | Dr Rosena Allin-Khan MP | 2710 |
 | Torbay | Steve Darling MP | 5920 |
