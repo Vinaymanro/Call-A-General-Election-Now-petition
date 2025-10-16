@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025926                                |
-| Last Updated      | 2025-10-16 09:21:12 UTC                                    |
+| Total Signatures   | 3025925                                |
+| Last Updated      | 2025-10-16 10:21:30 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -643,7 +643,7 @@
 | Clwyd North | Gill German MP | 5545 |
 | Dwyfor Meirionnydd | Rt Hon Liz Saville Roberts MP | 4273 |
 | Gower | Tonia Antoniazzi MP | 4828 |
-| Llanelli | Dame Nia Griffith MP | 5319 |
+| Llanelli | Dame Nia Griffith MP | 5318 |
 | Merthyr Tydfil and Aberdare | Gerald Jones MP | 3787 |
 | Mid and South Pembrokeshire | Henry Tufnell MP | 5545 |
 | Monmouthshire | Catherine Fookes MP | 4789 |
