@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025925                                |
-| Last Updated      | 2025-10-17 13:27:48 UTC                                    |
+| Total Signatures   | 3025924                                |
+| Last Updated      | 2025-10-17 14:18:37 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -377,7 +377,7 @@
 | Poole | Neil Duncan-Jordan MP | 5721 |
 | Poplar and Limehouse | Apsana Begum MP | 2953 |
 | Portsmouth North | Amanda Martin MP | 5703 |
-| Portsmouth South | Stephen Morgan MP | 3939 |
+| Portsmouth South | Stephen Morgan MP | 3938 |
 | Preston | Sir Mark Hendrick MP | 3864 |
 | Putney | Fleur Anderson MP | 3541 |
 | Queen's Park and Maida Vale | Georgia Gould MP | 2177 |
