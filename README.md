@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025924                                |
-| Last Updated      | 2025-10-24 13:30:03 UTC                                    |
+| Total Signatures   | 3025923                                |
+| Last Updated      | 2025-10-24 14:19:46 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -586,7 +586,7 @@
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4114 |
 | Coatbridge and Bellshill | Frank McNally MP | 2628 |
 | Cowdenbeath and Kirkcaldy | Melanie Ward MP | 2894 |
-| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2700 |
+| Cumbernauld and Kirkintilloch | Katrina Murray MP | 2699 |
 | Dumfries and Galloway | John Cooper MP | 4074 |
 | Dumfriesshire, Clydesdale and Tweeddale | Rt Hon David Mundell MP | 3894 |
 | Dundee Central | Chris Law MP | 2584 |
