@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025923                                |
-| Last Updated      | 2025-11-28 17:17:19 UTC                                    |
+| Total Signatures   | 3025922                                |
+| Last Updated      | 2025-11-28 18:28:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -267,7 +267,7 @@
 | Leeds Central and Headingley | Alex Sobel MP | 1957 |
 | Leeds East | Richard Burgon MP | 4359 |
 | Leeds North East | Fabian Hamilton MP | 2662 |
-| Leeds North West | Katie White MP | 4433 |
+| Leeds North West | Katie White MP | 4432 |
 | Leeds South | Rt Hon Hilary Benn MP | 3928 |
 | Leeds South West and Morley | Mark Sewards MP | 5569 |
 | Leeds West and Pudsey | Rt Hon Rachel Reeves MP | 3843 |
