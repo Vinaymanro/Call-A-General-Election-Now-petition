@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025922                                |
-| Last Updated      | 2026-01-23 16:31:11 UTC                                    |
+| Last Updated      | 2026-01-23 17:25:38 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -196,7 +196,7 @@
 | Gloucester | Alex McIntyre MP | 4590 |
 | Godalming and Ash | Rt Hon Sir Jeremy Hunt MP | 5266 |
 | Goole and Pocklington | Rt Hon David Davis MP | 7032 |
-| Gorton and Denton | Andrew Gwynne MP | 3327 |
+| Gorton and Denton | null | 3327 |
 | Gosport | Dame Caroline Dinenage MP | 5537 |
 | Grantham and Bourne | Gareth Davies MP | 6374 |
 | Gravesham | Dr Lauren Sullivan MP | 5221 |
