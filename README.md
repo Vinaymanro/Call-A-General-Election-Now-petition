@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025922                                |
-| Last Updated      | 2026-03-06 12:57:18 UTC                                    |
+| Last Updated      | 2026-03-06 13:57:15 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -278,7 +278,7 @@
 | Lewes | James MacCleary MP | 4941 |
 | Lewisham East | Janet Daby MP | 2176 |
 | Lewisham North | Vicky Foxcroft MP | 1673 |
-| Lewisham West and East Dulwich | Rt Hon Ellie Reeves MP | 1608 |
+| Lewisham West and East Dulwich | Rt Hon Ellie Reeves KC MP | 1608 |
 | Leyton and Wanstead | Mr Calvin Bailey MP | 1895 |
 | Lichfield | Dave Robertson MP | 6545 |
 | Lincoln | Mr Hamish Falconer MP | 4698 |
