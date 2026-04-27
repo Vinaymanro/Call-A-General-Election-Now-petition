@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025922                                |
-| Last Updated      | 2026-04-27 08:26:35 UTC                                    |
+| Total Signatures   | 3025921                                |
+| Last Updated      | 2026-04-27 11:04:11 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -475,7 +475,7 @@
 | Streatham and Croydon North | Rt Hon Steve Reed MP | 1886 |
 | Stretford and Urmston | Andrew Western MP | 3882 |
 | Stroud | Dr Simon Opher MP | 4575 |
-| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5433 |
+| Suffolk Coastal | Jenny Riddell-Carpenter MP | 5432 |
 | Sunderland Central | Lewis Atkinson MP | 5321 |
 | Surrey Heath | Dr Al Pinkerton MP | 5471 |
 | Sussex Weald | Ms Nusrat Ghani MP | 6154 |
