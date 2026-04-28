@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025921                                |
-| Last Updated      | 2026-04-28 06:09:55 UTC                                    |
+| Last Updated      | 2026-04-28 09:21:12 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -127,7 +127,7 @@
 | Corby and East Northamptonshire | Lee Barron MP | 6076 |
 | Coventry East | Mary Creagh MP | 3647 |
 | Coventry North West | Taiwo Owatemi MP | 4314 |
-| Coventry South | null | 3558 |
+| Coventry South | Zarah Sultana MP | 3558 |
 | Cramlington and Killingworth | Emma Foody MP | 5873 |
 | Crawley | Peter Lamb MP | 4775 |
 | Crewe and Nantwich | Connor Naismith MP | 5738 |
