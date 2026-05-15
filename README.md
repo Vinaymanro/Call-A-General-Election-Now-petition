@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025921                                |
-| Last Updated      | 2026-05-15 10:23:32 UTC                                    |
+| Last Updated      | 2026-05-15 12:52:50 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -580,7 +580,7 @@
 | Airdrie and Shotts | Kenneth Stevenson MP | 2860 |
 | Alloa and Grangemouth | Brian Leishman MP | 3055 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4084 |
-| Arbroath and Broughty Ferry | Stephen Gethins MP | 3503 |
+| Arbroath and Broughty Ferry | null | 3503 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3452 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3065 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4114 |
