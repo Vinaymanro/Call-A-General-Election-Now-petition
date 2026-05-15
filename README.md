@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025921                                |
-| Last Updated      | 2026-05-15 07:51:28 UTC                                    |
+| Last Updated      | 2026-05-15 10:23:32 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -575,7 +575,7 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3326 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1452 |
 | Aberdeen North | Kirsty Blackman MP | 3601 |
-| Aberdeen South | Rt Hon Stephen Flynn MP | 3881 |
+| Aberdeen South | null | 3881 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4722 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2860 |
 | Alloa and Grangemouth | Brian Leishman MP | 3055 |
