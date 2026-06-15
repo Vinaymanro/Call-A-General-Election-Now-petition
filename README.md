@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025921                                |
-| Last Updated      | 2026-06-15 13:13:43 UTC                                    |
+| Last Updated      | 2026-06-15 18:25:47 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -19,7 +19,7 @@
 | Aylesbury | Laura Kyrke-Smith MP | 4912 |
 | Banbury | Sean Woodcock MP | 5502 |
 | Barking | Nesil Caliskan MP | 2677 |
-| Barnsley North | Dan Jarvis MP | 5775 |
+| Barnsley North | Rt Hon Dan Jarvis MP | 5775 |
 | Barnsley South | Stephanie Peacock MP | 5848 |
 | Barrow and Furness | Michelle Scrogham MP | 5387 |
 | Basildon and Billericay | Rt Hon Richard Holden MP | 6950 |
