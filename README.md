@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025921                                |
-| Last Updated      | 2026-06-19 00:26:24 UTC                                    |
+| Last Updated      | 2026-06-19 06:19:51 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -295,7 +295,7 @@
 | Macclesfield | Tim Roca MP | 5433 |
 | Maidenhead | Mr Joshua Reynolds MP | 5327 |
 | Maidstone and Malling | Helen Grant MP | 5894 |
-| Makerfield | null | 5961 |
+| Makerfield | Rt Hon Andy Burnham | 5961 |
 | Maldon | Rt Hon Sir John Whittingdale MP | 8171 |
 | Manchester Central | Rt Hon Lucy Powell MP | 4030 |
 | Manchester Rusholme | Afzal Khan MP | 1237 |
