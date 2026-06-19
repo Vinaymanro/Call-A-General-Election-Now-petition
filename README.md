@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025921                                |
-| Last Updated      | 2026-06-19 06:19:51 UTC                                    |
+| Last Updated      | 2026-06-19 11:22:42 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -575,12 +575,12 @@
 | North Ayrshire and Arran | Irene Campbell MP | 3326 |
 | Orkney and Shetland | Rt Hon Alistair Carmichael MP | 1452 |
 | Aberdeen North | Kirsty Blackman MP | 3601 |
-| Aberdeen South | null | 3881 |
+| Aberdeen South | Douglas Lumsden MP | 3881 |
 | Aberdeenshire North and Moray East | Seamus Logan MP | 4722 |
 | Airdrie and Shotts | Kenneth Stevenson MP | 2860 |
 | Alloa and Grangemouth | Brian Leishman MP | 3055 |
 | Angus and Perthshire Glens | Dave Doogan MP | 4084 |
-| Arbroath and Broughty Ferry | null | 3503 |
+| Arbroath and Broughty Ferry | Lara Bird MP | 3503 |
 | Argyll, Bute and South Lochaber | Brendan O'Hara MP | 3452 |
 | Bathgate and Linlithgow | Kirsteen Sullivan MP | 3065 |
 | Caithness, Sutherland and Easter Ross | Jamie Stone MP | 4114 |
