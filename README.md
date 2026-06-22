@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025921                                |
-| Last Updated      | 2026-06-22 10:37:32 UTC                                    |
+| Total Signatures   | 3025920                                |
+| Last Updated      | 2026-06-22 15:50:56 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -542,7 +542,7 @@
 | Wolverhampton North East | Sureena Brackenridge MP | 4467 |
 | Wolverhampton South East | Rt Hon Pat McFadden MP | 4387 |
 | Wolverhampton West | Warinder Juss | 3881 |
-| Worcester | Tom Collins MP | 4374 |
+| Worcester | Tom Collins MP | 4373 |
 | Worsley and Eccles | Michael Wheeler MP | 5508 |
 | Worthing West | Dr Beccy Cooper MP | 5303 |
 | Wycombe | Rt Hon Emma Reynolds MP | 3657 |
