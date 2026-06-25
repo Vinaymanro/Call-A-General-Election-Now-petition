@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025920                                |
-| Last Updated      | 2026-06-25 13:19:01 UTC                                    |
+| Last Updated      | 2026-06-25 16:23:57 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -91,7 +91,7 @@
 | Burton and Uttoxeter | Jacob Collier MP | 5872 |
 | Bury North | Mr James Frith MP | 5029 |
 | Bury South | Christian Wakeford MP | 5486 |
-| Bury St Edmunds and Stowmarket | Peter Prinsley MP | 5495 |
+| Bury St Edmunds and Stowmarket | Dr Peter Prinsley MP | 5495 |
 | Calder Valley | Josh Fenton-Glynn MP | 5714 |
 | Camborne and Redruth | Perran Moon MP | 5031 |
 | Cambridge | Daniel Zeichner MP | 2243 |
