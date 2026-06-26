@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025920                                |
-| Last Updated      | 2026-06-26 13:10:55 UTC                                    |
+| Last Updated      | 2026-06-26 16:16:09 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -351,7 +351,7 @@
 | North West Hampshire | Rt Hon Kit Malthouse MP | 5775 |
 | North West Leicestershire | Amanda Hack MP | 6769 |
 | North West Norfolk | James Wild MP | 5818 |
-| Northampton North | Rt Hon Lucy  Rigby KC MP | 4332 |
+| Northampton North | Rt Hon Lucy Rigby KC MP | 4332 |
 | Northampton South | Mike Reader MP | 5018 |
 | Norwich North | Alice Macdonald MP | 4470 |
 | Norwich South | Clive Lewis MP | 3435 |
