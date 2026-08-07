@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025920                                |
-| Last Updated      | 2026-08-07 16:53:59 UTC                                    |
+| Last Updated      | 2026-08-07 17:49:07 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -652,7 +652,7 @@
 | Newport East | Jessica Morden MP | 4083 |
 | Newport West and Islwyn | Ruth Jones MP | 4132 |
 | Pontypridd | Alex Davies-Jones MP | 3985 |
-| Rhondda and Ogmore | Chris Bryant MP | 4132 |
+| Rhondda and Ogmore | Rt Hon Chris Bryant MP | 4132 |
 | Swansea West | Torsten Bell MP | 3724 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4135 |
 | Vale of Glamorgan | Rt Hon Kanishka Narayan MP | 4678 |
