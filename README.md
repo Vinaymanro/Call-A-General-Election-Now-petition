@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025920                                |
-| Last Updated      | 2026-08-07 11:44:27 UTC                                    |
+| Last Updated      | 2026-08-07 13:02:20 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -202,7 +202,7 @@
 | Gravesham | Dr Lauren Sullivan MP | 5221 |
 | Great Grimsby and Cleethorpes | Melanie Onn MP | 5886 |
 | Great Yarmouth | Rupert Lowe MP | 6668 |
-| Greenwich and Woolwich | Matthew Pennycook MP | 2652 |
+| Greenwich and Woolwich | Rt Hon Matthew Pennycook MP | 2652 |
 | Guildford | Zöe Franklin MP | 4023 |
 | Hackney North and Stoke Newington | Rt Hon Diane Abbott MP | 2071 |
 | Hackney South and Shoreditch | Dame Meg Hillier MP | 1541 |
@@ -262,7 +262,7 @@
 | Kingston upon Hull North and Cottingham | Rt Hon Dame Diana Johnson MP | 4702 |
 | Kingston upon Hull West and Haltemprice | Emma Hardy MP | 5570 |
 | Kingswinford and South Staffordshire | Mike Wood MP | 6451 |
-| Knowsley | Anneliese Midgley MP | 3336 |
+| Knowsley | Rt Hon Anneliese Midgley MP | 3336 |
 | Lancaster and Wyre | Cat Smith MP | 5135 |
 | Leeds Central and Headingley | Alex Sobel MP | 1957 |
 | Leeds East | Richard Burgon MP | 4359 |
@@ -655,6 +655,6 @@
 | Rhondda and Ogmore | Chris Bryant MP | 4132 |
 | Swansea West | Torsten Bell MP | 3724 |
 | Torfaen | Rt Hon Nick Thomas-Symonds MP | 4135 |
-| Vale of Glamorgan | Kanishka Narayan MP | 4678 |
+| Vale of Glamorgan | Rt Hon Kanishka Narayan MP | 4678 |
 | Wrexham | Andrew Ranger MP | 4867 |
 | Ynys Môn | Llinos Medi MP | 3762 |
