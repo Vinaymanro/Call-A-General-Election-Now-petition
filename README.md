@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025920                                |
-| Last Updated      | 2026-09-11 13:17:32 UTC                                    |
+| Last Updated      | 2026-09-11 17:34:02 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -46,7 +46,7 @@
 | Birmingham Perry Barr | Ayoub Khan MP | 1741 |
 | Birmingham Selly Oak | Al Carns MP | 3339 |
 | Birmingham Yardley | Jess Phillips MP | 3128 |
-| Bishop Auckland | Sam Rushworth MP | 6231 |
+| Bishop Auckland | Dr Sam Rushworth MP | 6231 |
 | Blackburn | Mr Adnan Hussain MP | 3194 |
 | Blackley and Middleton South | Graham Stringer MP | 3840 |
 | Blackpool North and Fleetwood | Lorraine Beavers MP | 6235 |
