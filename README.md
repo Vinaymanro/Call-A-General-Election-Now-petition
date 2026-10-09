@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025920                                |
-| Last Updated      | 2026-10-09 04:52:55 UTC                                    |
+| Last Updated      | 2026-10-09 11:40:25 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -235,7 +235,7 @@
 | High Peak | Jon Pearce MP | 5534 |
 | Hinckley and Bosworth | Dr Luke Evans MP | 6547 |
 | Hitchin | Alistair Strathern MP | 4951 |
-| Holborn and St Pancras | null | 2298 |
+| Holborn and St Pancras | Sagal Abdi-Wali MP | 2298 |
 | Honiton and Sidmouth | Richard Foord MP | 5321 |
 | Hornchurch and Upminster | Julia Lopez MP | 6668 |
 | Hornsey and Friern Barnet | Catherine West MP | 1957 |
