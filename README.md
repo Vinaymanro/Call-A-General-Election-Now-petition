@@ -4,7 +4,7 @@
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
 | Total Signatures   | 3025920                                |
-| Last Updated      | 2026-10-12 10:19:20 UTC                                    |
+| Last Updated      | 2026-10-12 20:07:35 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -209,7 +209,7 @@
 | Halesowen | Alex Ballinger MP | 5052 |
 | Halifax | Kate Dearden MP | 4794 |
 | Hamble Valley | Paul Holmes MP | 6199 |
-| Hammersmith and Chiswick | Andy Slaughter MP | 3215 |
+| Hammersmith and Chiswick | Andy Slaughter KC MP | 3215 |
 | Hampstead and Highgate | Tulip Siddiq MP | 2992 |
 | Harborough, Oadby and Wigston | Neil O'Brien MP | 4746 |
 | Harlow | Chris Vince MP | 6135 |
