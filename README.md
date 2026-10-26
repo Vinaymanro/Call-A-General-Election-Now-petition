@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025920                                |
-| Last Updated      | 2026-10-26 09:47:03 UTC                                    |
+| Total Signatures   | 3025919                                |
+| Last Updated      | 2026-10-26 16:32:31 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -636,7 +636,7 @@
 | Caerphilly | Chris Evans MP | 4088 |
 | Cardiff East | Rt Hon Jo Stevens MP | 2959 |
 | Cardiff North | Anna McMorrin MP | 3323 |
-| Cardiff South and Penarth | Stephen Doughty MP | 2834 |
+| Cardiff South and Penarth | Stephen Doughty MP | 2833 |
 | Cardiff West | Mr Alex Barros-Curtis MP | 3197 |
 | Ceredigion Preseli | Ben Lake MP | 4794 |
 | Clwyd East | Becky Gittins MP | 6112 |
