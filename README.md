@@ -3,8 +3,8 @@
 | Detail            | Information                                      |
 |-------------------|--------------------------------------------------|
 | URL               | [https://petition.parliament.uk/petitions/700143](https://petition.parliament.uk/petitions/700143)                  |
-| Total Signatures   | 3025918                                |
-| Last Updated      | 2026-11-23 11:53:00 UTC                                    |
+| Total Signatures   | 3025917                                |
+| Last Updated      | 2026-11-23 23:27:28 UTC                                    |
 
 | Constituency      | MP             | Signatures |
 |-------------------|----------------|-----------:|
@@ -376,7 +376,7 @@
 | Pontefract, Castleford and Knottingley | Rt Hon Yvette Cooper MP | 5537 |
 | Poole | Neil Duncan-Jordan MP | 5721 |
 | Poplar and Limehouse | Apsana Begum MP | 2953 |
-| Portsmouth North | Amanda Martin MP | 5703 |
+| Portsmouth North | Amanda Martin MP | 5702 |
 | Portsmouth South | Stephen Morgan MP | 3938 |
 | Preston | Sir Mark Hendrick MP | 3864 |
 | Putney | Fleur Anderson MP | 3541 |
